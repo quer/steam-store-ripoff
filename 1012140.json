@@ -28,12 +28,12 @@
                 "ILLUMICORP"
             ],
             "price_overview": {
-                "currency": "USD",
-                "initial": 99,
-                "final": 99,
+                "currency": "EUR",
+                "initial": 79,
+                "final": 79,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "$0.99"
+                "final_formatted": "0,79€"
             },
             "packages": [
                 335222,
@@ -53,21 +53,21 @@
                             "packageid": 335222,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Ellie - $0.99",
+                            "option_text": "Ellie - 0,79€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 99
+                            "price_in_cents_with_discount": 79
                         },
                         {
                             "packageid": 340102,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Ellie - Commercial License - $0.99",
+                            "option_text": "Ellie - Commercial License - 0,79€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 99
+                            "price_in_cents_with_discount": 79
                         }
                     ]
                 }
@@ -155,7 +155,7 @@
             },
             "release_date": {
                 "coming_soon": false,
-                "date": "Jan 28, 2019"
+                "date": "28 Jan, 2019"
             },
             "support_info": {
                 "url": "",
