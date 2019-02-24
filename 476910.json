@@ -1,0 +1,86 @@
+{
+    "476910": {
+        "success": true,
+        "data": {
+            "type": "demo",
+            "name": "GROOVY Demo",
+            "steam_appid": 476910,
+            "required_age": 0,
+            "is_free": true,
+            "controller_support": "full",
+            "detailed_description": "",
+            "about_the_game": "",
+            "short_description": "",
+            "fullgame": {
+                "appid": "372490",
+                "name": "GROOVY"
+            },
+            "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Hungarian, Simplified Chinese, Polish, Portuguese - Brazil, Russian, Turkish, Ukrainian<br><strong>*</strong>languages with full audio support",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/476910/header.jpg?t=1464105399",
+            "website": "http://stormgs.com/groovy/",
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 7 SP2, 8, 8.1, 10<br></li><li><strong>Processor:</strong> Dual Core 2.6 Ghz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA® GTX 550 Ti / AMD® HD 5770<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 3200 MB available space<br></li><li><strong>Sound Card:</strong> DirectX 9.0c compatible<br></li><li><strong>Additional Notes:</strong> Full supports, Xbox 360 Controller for Windows</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>Graphics:</strong> NVIDIA® GTX 960 / AMD® R9 280</li></ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 14.04 LTS<br></li><li><strong>Processor:</strong> Dual Core 3.0 Ghz<br></li><li><strong>Memory:</strong> 4 MB RAM<br></li><li><strong>Graphics:</strong> NVIDIA® GTX 660 / AMD® HD 7850<br></li><li><strong>Storage:</strong> 4200 MB available space</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>Graphics:</strong> NVIDIA® GTX 960 / AMD® R9 280</li></ul>"
+            },
+            "legal_notice": "(c) 2016 SGS Team",
+            "developers": [
+                "SGS Team"
+            ],
+            "publishers": [
+                "SGS Team"
+            ],
+            "package_groups": [],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": true
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 10,
+                    "description": "Game demo"
+                },
+                {
+                    "id": 28,
+                    "description": "Full controller support"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "1",
+                    "description": "Action"
+                },
+                {
+                    "id": "25",
+                    "description": "Adventure"
+                },
+                {
+                    "id": "23",
+                    "description": "Indie"
+                }
+            ],
+            "release_date": {
+                "coming_soon": false,
+                "date": "20 May, 2016"
+            },
+            "support_info": {
+                "url": "http://stormgs.com/groovy/",
+                "email": "indiestormgs@gmail.com"
+            },
+            "background": "",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

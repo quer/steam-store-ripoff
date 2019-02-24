@@ -1,0 +1,75 @@
+{
+    "8030": {
+        "success": true,
+        "data": {
+            "type": "demo",
+            "name": "Tomb Raider: Anniversary Demo",
+            "steam_appid": 8030,
+            "required_age": 0,
+            "is_free": true,
+            "detailed_description": "",
+            "about_the_game": "",
+            "short_description": "",
+            "fullgame": {
+                "appid": "8000",
+                "name": "Tomb Raider: Anniversary"
+            },
+            "supported_languages": "English, French, German, Italian, Spanish - Spain",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/8030/header.jpg?t=1447351057",
+            "website": "http://www.tombraider.com/anniversary/",
+            "pc_requirements": {
+                "minimum": "<p><strong>Minimum: </strong>Microsoft Windows Vista, 2000, or XP, Pentium 3 1.4Ghz or Athlon XP 1500+, 4GB free space, 100% DirectX 9.0c compatible 64 MB 3D Accelerated Card with TnL (GeForce 3TI / Radeon 9 series), 512MB RAM (Windows Vista) or 256MB RAM (Windows 2000/XP), Microsoft Windows 2000/XP/Vista compatible sound card (100% DirectX 9.0c -compatible), 100% Windows 2000/XP/Vista compatible mouse and keyboard</p>\n\t\t\t\t\t<p><strong>Recommended: </strong>Microsoft Windows XP, Vista, Pentium 4 3.0Ghz or Athlon 64 3000+, Microsoft Windows XP/Vista compatible sound card (100% DirectX 9.0c -compatible), 1GB RAM, 100% DirectX 9.0c compatible 64MB 3D Accelerated Card with Pixel Shader 2.0 (GeForce 6000 series / Radeon X series)</p>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "developers": [
+                "Crystal Dynamics"
+            ],
+            "publishers": [
+                "SQUARE ENIX, Eidos Interactive"
+            ],
+            "package_groups": [],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "metacritic": {
+                "score": 83
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 10,
+                    "description": "Game demo"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "1",
+                    "description": "Action"
+                },
+                {
+                    "id": "25",
+                    "description": "Adventure"
+                }
+            ],
+            "release_date": {
+                "coming_soon": false,
+                "date": "29 May, 2007"
+            },
+            "support_info": {
+                "url": "",
+                "email": ""
+            },
+            "background": "",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

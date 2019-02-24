@@ -1,0 +1,79 @@
+{
+    "8910": {
+        "success": true,
+        "data": {
+            "type": "demo",
+            "name": "Freedom Force vs. the Third Reich Demo",
+            "steam_appid": 8910,
+            "required_age": 0,
+            "is_free": true,
+            "detailed_description": "",
+            "about_the_game": "",
+            "short_description": "",
+            "fullgame": {
+                "appid": "8890",
+                "name": "Freedom Force vs. the Third Reich"
+            },
+            "supported_languages": "English",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/8910/header.jpg?t=1526581527",
+            "website": null,
+            "pc_requirements": {
+                "minimum": "<ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP/Vista<br>\t</li><li><strong>Processor:</strong> 600 MHz or faster Intel Pentium III or AMD Athlon processor<br>\t</li><li><strong>Memory:</strong> 128 MB or more RAM<br>\t</li><li><strong>Graphics:</strong> 32 MB or greater supported Direct3D capable video card with DirectX 8.1 compatible driver<br>\t</li><li><strong>Hard Drive:</strong> 570 MB or more free hard disk space plus space for saved games<br>\t</li><li><strong>Sound:</strong> Environmental Audio capable sound card</li></ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "developers": [
+                "Irrational Games"
+            ],
+            "publishers": [
+                "2K"
+            ],
+            "package_groups": [],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 1,
+                    "description": "Multi-player"
+                },
+                {
+                    "id": 10,
+                    "description": "Game demo"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "3",
+                    "description": "RPG"
+                },
+                {
+                    "id": "2",
+                    "description": "Strategy"
+                }
+            ],
+            "achievements": {
+                "total": 0
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "29 May, 2009"
+            },
+            "support_info": {
+                "url": "",
+                "email": ""
+            },
+            "background": "",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

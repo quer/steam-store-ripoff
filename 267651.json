@@ -1,0 +1,196 @@
+{
+    "267651": {
+        "success": true,
+        "data": {
+            "type": "dlc",
+            "name": "iOS Exporter for Clickteam Fusion 2.5",
+            "steam_appid": 267651,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "It’s never been easier to create games and apps for your favorite iOS device. With Clickteam’s iOS runtime option you can create content using our amazing set of creation tools, Clickteam Fusion 2.5 and Clickteam Fusion 2.5 Developer. Create your content using our drag and drop visual interface and intuitive event editor, then with a touch of button our tools will build an xCode project for you, ready to be moved to your mac to compile and test on your iDevice.<br><br>Once you are happy with your app, our tools will build everything you need to submit your finished creation to Apple, It’s that easy! Join our many users already experiencing success on the world famous iTunes store and create the next big hit!<br><br><strong>Required:</strong> to test or deploy the exporter output you must own a Mac with Mac OS Lion / Lion and an iOS Developer account ($99 per year on <a href=\"https://steamcommunity.com/linkfilter/?url=http://developer.apple.com)\" target=\"_blank\" rel=\"noopener\"  >developer.apple.com)</a> for testing/distributing your applications. To test on a device you will need to have a iPhone, iPad or iPod to test with. Clickteam Fusion 2.5 and the export work on Windows PC only.<br><br>Please be aware that this exporter add-on will only work with a full version of Fusion 2.5 - you will not be able to install it against a demo, limited or free version of any of these software titles.",
+            "about_the_game": "It’s never been easier to create games and apps for your favorite iOS device. With Clickteam’s iOS runtime option you can create content using our amazing set of creation tools, Clickteam Fusion 2.5 and Clickteam Fusion 2.5 Developer. Create your content using our drag and drop visual interface and intuitive event editor, then with a touch of button our tools will build an xCode project for you, ready to be moved to your mac to compile and test on your iDevice.<br><br>Once you are happy with your app, our tools will build everything you need to submit your finished creation to Apple, It’s that easy! Join our many users already experiencing success on the world famous iTunes store and create the next big hit!<br><br><strong>Required:</strong> to test or deploy the exporter output you must own a Mac with Mac OS Lion / Lion and an iOS Developer account ($99 per year on <a href=\"https://steamcommunity.com/linkfilter/?url=http://developer.apple.com)\" target=\"_blank\" rel=\"noopener\"  >developer.apple.com)</a> for testing/distributing your applications. To test on a device you will need to have a iPhone, iPad or iPod to test with. Clickteam Fusion 2.5 and the export work on Windows PC only.<br><br>Please be aware that this exporter add-on will only work with a full version of Fusion 2.5 - you will not be able to install it against a demo, limited or free version of any of these software titles.",
+            "short_description": "It’s never been easier to create games and apps for your favorite iOS device. With Clickteam’s iOS runtime option you can create content using our amazing set of creation tools, Clickteam Fusion 2.5 and Clickteam Fusion 2.5 Developer.",
+            "fullgame": {
+                "appid": "248170",
+                "name": "Clickteam Fusion 2.5"
+            },
+            "supported_languages": "English, French",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/267651/header.jpg?t=1523382115",
+            "website": "http://www.Clickteam.com",
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Minimum Windows XP SP3 Operating System. Supports Vista, 7 , 8 and Windows 10<br></li><li><strong>Processor:</strong> 200 Mhz Pentium processor or higher<br></li><li><strong>Memory:</strong> 256 MB RAM<br></li><li><strong>Graphics:</strong> Must support minimum of Direct3D 9<br></li><li><strong>Additional Notes:</strong> Broadband Internet connection, Apple Developer Account Required</li></ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "developers": [
+                "Clickteam"
+            ],
+            "publishers": [
+                "Clickteam"
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 9999,
+                "final": 9999,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "99,99€"
+            },
+            "packages": [
+                35250
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy iOS Exporter for Clickteam Fusion 2.5",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 35250,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "iOS Exporter for Clickteam Fusion 2.5 - 99,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 9999
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 1,
+                    "description": "Multi-player"
+                },
+                {
+                    "id": 20,
+                    "description": "MMO"
+                },
+                {
+                    "id": 9,
+                    "description": "Co-op"
+                },
+                {
+                    "id": 24,
+                    "description": "Shared/Split Screen"
+                },
+                {
+                    "id": 27,
+                    "description": "Cross-Platform Multiplayer"
+                },
+                {
+                    "id": 21,
+                    "description": "Downloadable Content"
+                },
+                {
+                    "id": 22,
+                    "description": "Steam Achievements"
+                },
+                {
+                    "id": 25,
+                    "description": "Steam Leaderboards"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "51",
+                    "description": "Animation & Modeling"
+                },
+                {
+                    "id": "54",
+                    "description": "Education"
+                },
+                {
+                    "id": "57",
+                    "description": "Utilities"
+                },
+                {
+                    "id": "59",
+                    "description": "Web Publishing"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/267651/ss_aa61e8461081155e1c34ee01c91b171659a3215a.600x338.jpg?t=1523382115",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/267651/ss_aa61e8461081155e1c34ee01c91b171659a3215a.1920x1080.jpg?t=1523382115"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/267651/ss_66eb1777bf746fe3eee4309a344011dcf077923e.600x338.jpg?t=1523382115",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/267651/ss_66eb1777bf746fe3eee4309a344011dcf077923e.1920x1080.jpg?t=1523382115"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/267651/ss_117f5da9e271a935713e5fee909dba8ddd08ec12.600x338.jpg?t=1523382115",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/267651/ss_117f5da9e271a935713e5fee909dba8ddd08ec12.1920x1080.jpg?t=1523382115"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/267651/ss_f4f910575f672998722d2e61e9151d19771879ac.600x338.jpg?t=1523382115",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/267651/ss_f4f910575f672998722d2e61e9151d19771879ac.1920x1080.jpg?t=1523382115"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/267651/ss_4dbb258b8d3a67a9ad7792ffbfe5805445db569e.600x338.jpg?t=1523382115",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/267651/ss_4dbb258b8d3a67a9ad7792ffbfe5805445db569e.1920x1080.jpg?t=1523382115"
+                },
+                {
+                    "id": 5,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/267651/ss_b54ac1015fc584b354552d9490784f90773c3db0.600x338.jpg?t=1523382115",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/267651/ss_b54ac1015fc584b354552d9490784f90773c3db0.1920x1080.jpg?t=1523382115"
+                },
+                {
+                    "id": 6,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/267651/ss_9ac0da554c9adc0307570ea0c02b78a13f7a1d6b.600x338.jpg?t=1523382115",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/267651/ss_9ac0da554c9adc0307570ea0c02b78a13f7a1d6b.1920x1080.jpg?t=1523382115"
+                },
+                {
+                    "id": 7,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/267651/ss_bd44d7a55a45502020b0862cc7b81b20c8c7908e.600x338.jpg?t=1523382115",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/267651/ss_bd44d7a55a45502020b0862cc7b81b20c8c7908e.1920x1080.jpg?t=1523382115"
+                },
+                {
+                    "id": 8,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/267651/ss_e46b417fb7a968b6c2fb21d055b8c49f94eeff2c.600x338.jpg?t=1523382115",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/267651/ss_e46b417fb7a968b6c2fb21d055b8c49f94eeff2c.1920x1080.jpg?t=1523382115"
+                },
+                {
+                    "id": 9,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/267651/ss_7786a5b984fdc19f703622515e0ef56cf22f1138.600x338.jpg?t=1523382115",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/267651/ss_7786a5b984fdc19f703622515e0ef56cf22f1138.1920x1080.jpg?t=1523382115"
+                }
+            ],
+            "achievements": {
+                "total": 0
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "18 Dec, 2013"
+            },
+            "support_info": {
+                "url": "http://www.clickteam.com/contact-us",
+                "email": "Support@Clickteam.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/267651/page_bg_generated_v6b.jpg?t=1523382115",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

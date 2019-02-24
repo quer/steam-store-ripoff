@@ -1,0 +1,142 @@
+{
+    "738830": {
+        "success": true,
+        "data": {
+            "type": "game",
+            "name": "Atlas Tile Editor (ATE)",
+            "steam_appid": 738830,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "<strong>Atlas Tile Editor</strong> (ATE)<br><br>2D TILE CREATOR!<br><br><strong><i>What's an Atlas Tile?</i></strong><br><br>In games of yore, atlases (also known as sprite sheets) combined to form the entire world of a game.  You could build the world by using a single texture, which helps decrease &quot;texture swaps&quot; in GPU hardware, and speeds up the game's rendering, while also helping the world get made by reusing art stored on these atlases. <br><br><strong><i>Yes, you can save to PNGs and use the output from this program in RPG Maker or GameMaker or Construct or AppGameKit or .. many more game engines!</i></strong><br><br><strong>Atlas Tile Editor (ATE) is an up-and-coming tile editor that will allow pixel artists:</strong><br><br><ul class=\"bb_ul\"><li>Create reusable sprite atlases similar to the functionality of GlueIT and TexturePacker.<br></li><li>Create advanced geometric tilesets for OpenGL (and DirectX) games in a way not currently available.<br></li><li>Pair customized tilesets with heightmap and normalmap data using a simple cyborg algorithmic and artistic way of building heightmaps as you customize tiles, using a provided height atlas.<br></li><li>Use the native ATE format, or a JSON exporter for tile overlay geometry features<br></li><li>Export &quot;baked&quot; tiles (available, but not recommended) as PNG, for legacy engines or engines that cannot use Atlas Tiles(tm).</li></ul><br><strong>Whoa whoa whoa, wait, you mean you can put actual geometry on these tiles?</strong><br><br>Yes, the entire premise of the Atlas Tile Editor is to provide a way to draw tiles on the fly from a single texture, but using 2D geometry to allow multiple samples from this texture to create essentially new artwork as a collage.  The 2D geometry is then assembled into a VBO and displayed in your favorite engine using a shader.<br><br>Just to recap, here's what you'll do in Atlas Tile Editor (ATE):<br><br>1) Create customized tiles from texture atlases.<br>2) Save &quot;baked&quot; tiles as PNGs<br>3) Save &quot;unbaked&quot; tiles as ATE packages.<br>4) Save &quot;unbaked&quot; tiles as CSS/JSON packages.<br>5) Save your workspace to recall your work whenever you'd like.<br>6) Create and associate customized height maps, which are converted automatically to normal maps.<br>7) Export tile packs with height maps, normal maps and color maps.<br>8) Import and pack tiles using BestRectPack algorithm.<br>9) Import and pack tiles using &quot;row and column&quot; packing (to create Sprite Sheets)<br>10) Add, rotate and stretch tile geometry with granular control.<br><br>Future features may include:<br>- Create short replayable presentations in HTML/CSS or <br>- Create 2d particle FX systems and &quot;bake&quot; films of their animations<br>- Create 2.5D isometric tiles and export them with normal mapping.<br>- Create a &quot;3D&quot; atlas tile, similar to a Minecraft block",
+            "about_the_game": "<strong>Atlas Tile Editor</strong> (ATE)<br><br>2D TILE CREATOR!<br><br><strong><i>What's an Atlas Tile?</i></strong><br><br>In games of yore, atlases (also known as sprite sheets) combined to form the entire world of a game.  You could build the world by using a single texture, which helps decrease &quot;texture swaps&quot; in GPU hardware, and speeds up the game's rendering, while also helping the world get made by reusing art stored on these atlases. <br><br><strong><i>Yes, you can save to PNGs and use the output from this program in RPG Maker or GameMaker or Construct or AppGameKit or .. many more game engines!</i></strong><br><br><strong>Atlas Tile Editor (ATE) is an up-and-coming tile editor that will allow pixel artists:</strong><br><br><ul class=\"bb_ul\"><li>Create reusable sprite atlases similar to the functionality of GlueIT and TexturePacker.<br></li><li>Create advanced geometric tilesets for OpenGL (and DirectX) games in a way not currently available.<br></li><li>Pair customized tilesets with heightmap and normalmap data using a simple cyborg algorithmic and artistic way of building heightmaps as you customize tiles, using a provided height atlas.<br></li><li>Use the native ATE format, or a JSON exporter for tile overlay geometry features<br></li><li>Export &quot;baked&quot; tiles (available, but not recommended) as PNG, for legacy engines or engines that cannot use Atlas Tiles(tm).</li></ul><br><strong>Whoa whoa whoa, wait, you mean you can put actual geometry on these tiles?</strong><br><br>Yes, the entire premise of the Atlas Tile Editor is to provide a way to draw tiles on the fly from a single texture, but using 2D geometry to allow multiple samples from this texture to create essentially new artwork as a collage.  The 2D geometry is then assembled into a VBO and displayed in your favorite engine using a shader.<br><br>Just to recap, here's what you'll do in Atlas Tile Editor (ATE):<br><br>1) Create customized tiles from texture atlases.<br>2) Save &quot;baked&quot; tiles as PNGs<br>3) Save &quot;unbaked&quot; tiles as ATE packages.<br>4) Save &quot;unbaked&quot; tiles as CSS/JSON packages.<br>5) Save your workspace to recall your work whenever you'd like.<br>6) Create and associate customized height maps, which are converted automatically to normal maps.<br>7) Export tile packs with height maps, normal maps and color maps.<br>8) Import and pack tiles using BestRectPack algorithm.<br>9) Import and pack tiles using &quot;row and column&quot; packing (to create Sprite Sheets)<br>10) Add, rotate and stretch tile geometry with granular control.<br><br>Future features may include:<br>- Create short replayable presentations in HTML/CSS or <br>- Create 2d particle FX systems and &quot;bake&quot; films of their animations<br>- Create 2.5D isometric tiles and export them with normal mapping.<br>- Create a &quot;3D&quot; atlas tile, similar to a Minecraft block",
+            "short_description": "2D TILE CREATOR! Create reusable sprite atlases and tile sets that reuse the same texture atlas in creative ways. Create advanced geometric tilesets for OpenGL (and DirectX) games in a way never before offered, pair customized tilesets with heightmap and normalmap data using a simple cyborg algorithmic and artistic way of building height...",
+            "supported_languages": "English",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/738830/header.jpg?t=1550717404",
+            "website": "http://lostastronaut.com/ate",
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 10<br></li><li><strong>Memory:</strong> 3 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA or ATI<br></li><li><strong>Storage:</strong> 500 MB available space<br></li><li><strong>Sound Card:</strong> Required<br></li><li><strong>Additional Notes:</strong> Supports WinTouch</li></ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "developers": [
+                "Lost Astronaut"
+            ],
+            "publishers": [
+                "Lost Astronaut Studios"
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 499,
+                "final": 499,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "4,99€"
+            },
+            "packages": [
+                216154
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Atlas Tile Editor (ATE)",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 216154,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Atlas Tile Editor (ATE) - 4,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 499
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "genres": [
+                {
+                    "id": "53",
+                    "description": "Design & Illustration"
+                },
+                {
+                    "id": "57",
+                    "description": "Utilities"
+                },
+                {
+                    "id": "70",
+                    "description": "Early Access"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/738830/ss_d58170f44f10b274a0711069898cb6849e656b66.600x338.jpg?t=1550717404",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/738830/ss_d58170f44f10b274a0711069898cb6849e656b66.1920x1080.jpg?t=1550717404"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/738830/ss_b988ddeb37a5f507e8c98ea71c6cd7ae6aa5b9f2.600x338.jpg?t=1550717404",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/738830/ss_b988ddeb37a5f507e8c98ea71c6cd7ae6aa5b9f2.1920x1080.jpg?t=1550717404"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/738830/ss_7abd7c77f6594432aebe5089492ba9f6ca06630c.600x338.jpg?t=1550717404",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/738830/ss_7abd7c77f6594432aebe5089492ba9f6ca06630c.1920x1080.jpg?t=1550717404"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/738830/ss_513710c09c6c9dce979bfee351e289b925491ed9.600x338.jpg?t=1550717404",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/738830/ss_513710c09c6c9dce979bfee351e289b925491ed9.1920x1080.jpg?t=1550717404"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/738830/ss_c08d913e9f8760012a7a13f47de443a74ae3aea6.600x338.jpg?t=1550717404",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/738830/ss_c08d913e9f8760012a7a13f47de443a74ae3aea6.1920x1080.jpg?t=1550717404"
+                },
+                {
+                    "id": 5,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/738830/ss_386b27302c191a3ad350489dd383cdcd75eff689.600x338.jpg?t=1550717404",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/738830/ss_386b27302c191a3ad350489dd383cdcd75eff689.1920x1080.jpg?t=1550717404"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 256700539,
+                    "name": "ATLAS TILE EDITOR",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256700539/movie.293x165.jpg?t=1510179097",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256700539/movie480.webm?t=1510179097",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256700539/movie_max.webm?t=1510179097"
+                    },
+                    "highlight": true
+                }
+            ],
+            "achievements": {
+                "total": 0
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "8 Nov, 2017"
+            },
+            "support_info": {
+                "url": "http://lostastronaut.com/",
+                "email": "rocketship@lostastronaut.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/738830/page_bg_generated_v6b.jpg?t=1550717404",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

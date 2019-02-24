@@ -1,0 +1,122 @@
+{
+    "1002110": {
+        "success": true,
+        "data": {
+            "type": "dlc",
+            "name": "TheSecretGame2 - A Bowl Of Cereal",
+            "steam_appid": 1002110,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "This DLC will add, or change, nothing to the game (but one thing). But if you like <i>TheSecretGame2</i> and wish to give a little something, you can buy this DLC. <br>You will just see a bowl of cereal in the main menu as thank for your donation.",
+            "about_the_game": "This DLC will add, or change, nothing to the game (but one thing). But if you like <i>TheSecretGame2</i> and wish to give a little something, you can buy this DLC. <br>You will just see a bowl of cereal in the main menu as thank for your donation.",
+            "short_description": "Like TheSecretGame2? Show it with this bowl of cereal!",
+            "fullgame": {
+                "appid": "779850",
+                "name": "TheSecretGame2"
+            },
+            "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1002110/header.jpg?t=1549465946",
+            "website": null,
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Storage:</strong> 5 MB available space</li></ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "legal_notice": "© 2018 Lasse Niermann<br />\r\n<br />\r\nAll Rights Reserved.",
+            "developers": [
+                "TheUnknownDev"
+            ],
+            "publishers": [
+                "TheUnknownDev"
+            ],
+            "price_overview": {
+                "currency": "USD",
+                "initial": 399,
+                "final": 399,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "$3.99"
+            },
+            "packages": [
+                331194
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy TheSecretGame2 - A Bowl Of Cereal",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 331194,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "TheSecretGame2 - A Bowl Of Cereal - $3.99",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 399
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 21,
+                    "description": "Downloadable Content"
+                },
+                {
+                    "id": 22,
+                    "description": "Steam Achievements"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "25",
+                    "description": "Adventure"
+                },
+                {
+                    "id": "23",
+                    "description": "Indie"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1002110/ss_52d6de379ca5610b1eb70d83e23e3d63a6df06c9.600x338.jpg?t=1549465946",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1002110/ss_52d6de379ca5610b1eb70d83e23e3d63a6df06c9.1920x1080.jpg?t=1549465946"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1002110/ss_3e5af754fbe3998e41ba0d51c4a33eda8f14d593.600x338.jpg?t=1549465946",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1002110/ss_3e5af754fbe3998e41ba0d51c4a33eda8f14d593.1920x1080.jpg?t=1549465946"
+                }
+            ],
+            "release_date": {
+                "coming_soon": false,
+                "date": "Dec 21, 2018"
+            },
+            "support_info": {
+                "url": "https://theunknowndev.com",
+                "email": "info@theunknowndev.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1002110/page_bg_generated_v6b.jpg?t=1549465946",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

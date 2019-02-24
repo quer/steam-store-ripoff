@@ -1,0 +1,73 @@
+{
+    "806410": {
+        "success": true,
+        "data": {
+            "type": "demo",
+            "name": "GyroShooter Demo",
+            "steam_appid": 806410,
+            "required_age": 0,
+            "is_free": true,
+            "controller_support": "full",
+            "detailed_description": "",
+            "about_the_game": "",
+            "short_description": "",
+            "fullgame": {
+                "appid": "752770",
+                "name": "GyroShooter"
+            },
+            "supported_languages": "English, Japanese",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/806410/header.jpg?t=1519103733",
+            "website": null,
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Atom Bay Trail<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD Graphics<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 256 MB available space<br></li><li><strong>Sound Card:</strong> Onboard</li></ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "developers": [
+                "TRIANGLE SERVICE"
+            ],
+            "publishers": [
+                "TRIANGLE SERVICE"
+            ],
+            "package_groups": [],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 10,
+                    "description": "Game demo"
+                },
+                {
+                    "id": 28,
+                    "description": "Full controller support"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "1",
+                    "description": "Action"
+                }
+            ],
+            "release_date": {
+                "coming_soon": false,
+                "date": "19 Feb, 2018"
+            },
+            "support_info": {
+                "url": "http://124.146.199.138/app-def/S-102/glove2012/contact/",
+                "email": ""
+            },
+            "background": "",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

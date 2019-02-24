@@ -1,0 +1,109 @@
+{
+    "356780": {
+        "success": true,
+        "data": {
+            "type": "dlc",
+            "name": "Rustbucket Rumble Soundtrack",
+            "steam_appid": 356780,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "Our custom soundtrack, created and produced by Maxo. Contains 5 full tracks used in the game!",
+            "about_the_game": "Our custom soundtrack, created and produced by Maxo. Contains 5 full tracks used in the game!",
+            "short_description": "Our custom soundtrack, created and produced by Maxo. Contains 5 full tracks used in the game!",
+            "fullgame": {
+                "appid": "351140",
+                "name": "Rustbucket Rumble"
+            },
+            "supported_languages": "English",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/356780/header.jpg?t=1447370905",
+            "website": "http://www.rustbucketrumble.com",
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP, Vista, Windows 7, or Windows 8</li></ul>"
+            },
+            "mac_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OSX</li></ul>"
+            },
+            "linux_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 10.10, SteamOS</li></ul>"
+            },
+            "legal_notice": "Rustbucket Rumble is copyright (c) 2015 Scrap Yard Productions, LLC.<br />\r\nDeveloped by Reactor Zero, a division of Quantum Signal, LLC.<br />\r\nRustbucket Rumble is a trademark of Quantum Signal, LLC under license to Scrap Yard Productions, LLC.",
+            "developers": [
+                "Reactor Zero"
+            ],
+            "publishers": [
+                "Scrap Yard Productions, LLC"
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 199,
+                "final": 199,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "1,99€"
+            },
+            "packages": [
+                63130
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Rustbucket Rumble Soundtrack",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 63130,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Rustbucket Rumble Soundtrack - 1,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 199
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": true,
+                "linux": true
+            },
+            "categories": [
+                {
+                    "id": 21,
+                    "description": "Downloadable Content"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "4",
+                    "description": "Casual"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/356780/ss_98a0834cf4e461080a756bab9e860c68cd553c5d.600x338.jpg?t=1447370905",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/356780/ss_98a0834cf4e461080a756bab9e860c68cd553c5d.1920x1080.jpg?t=1447370905"
+                }
+            ],
+            "release_date": {
+                "coming_soon": false,
+                "date": "4 May, 2015"
+            },
+            "support_info": {
+                "url": "http://www.rustbucketrumble.com",
+                "email": "support@rustbucketrumble.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/356780/page_bg_generated_v6b.jpg?t=1447370905",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

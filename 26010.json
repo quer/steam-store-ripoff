@@ -1,0 +1,73 @@
+{
+    "26010": {
+        "success": true,
+        "data": {
+            "type": "demo",
+            "name": "The Maw Demo",
+            "steam_appid": 26010,
+            "required_age": 0,
+            "is_free": true,
+            "detailed_description": "",
+            "about_the_game": "",
+            "short_description": "",
+            "fullgame": {
+                "appid": "26000",
+                "name": "The Maw"
+            },
+            "supported_languages": "English, French, Italian, German, Spanish - Spain, Korean, Japanese, Traditional Chinese",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/26010/header.jpg?t=1447351743",
+            "website": "http://www.WhatIsTheMaw.com",
+            "pc_requirements": {
+                "minimum": "                    \n\t\t\t\t\t<ul>                    \n\t\t\t\t\t<li><strong>Operating System: </strong>Microsoft® Windows® XP/Vista</li>                    \n\t\t\t\t\t<li><strong>Processor: </strong>AMD® Athlon® 64 2.2 GHz or equivalent</li>                    \n\t\t\t\t\t<li><strong>Memory: </strong>1024 MB RAM</li>                    \n\t\t\t\t\t<li><strong>Hard Disk Space: </strong>300 MB Available HDD Space</li>                    \n\t\t\t\t\t<li><strong>Video Card: </strong>Nvidia® Geforce® 7600 256 MB or equivalent, (ATI® 2400 worked just as well)</li>                    \n\t\t\t\t\t<li><strong>Sound Card: </strong>DirectX® Compatible</li>                    \n\t\t\t\t\t<li><strong>DirectX® Version: </strong>DirectX® 9.0c</li>                    \n\t\t\t\t\t<li><strong>Controller Support: </strong>Xbox 360 controller and other DirectInput supported controller</li>                    </ul>                                        ",
+                "recommended": "                    \n\t\t\t\t\t<ul>                    \n\t\t\t\t\t<li><strong>Operating System: </strong>Microsoft® Windows® XP/Vista</li>                    \n\t\t\t\t\t<li><strong>Processor: </strong>Intel® Pentium® Core 2 Duo 2.2 GHz or equivalent</li>                    \n\t\t\t\t\t<li><strong>Memory: </strong>2 GB RAM</li>                    \n\t\t\t\t\t<li><strong>Hard Disk Space: </strong>300 MB Available HDD Space</li>                    \n\t\t\t\t\t<li><strong>Video Card: </strong>Nvidia® Geforce® 8800 GT 512 MB or equivalent, (ATI® 3870 on the ATI side) </li>                    \n\t\t\t\t\t<li><strong>Sound Card: </strong>DirectX® Compatible</li>                    \n\t\t\t\t\t<li><strong>DirectX® Version: </strong>DirectX® 9.0c</li>                    \n\t\t\t\t\t<li><strong>Controller Support: </strong>Xbox 360 controller and other DirectInput supported controller</li>                    </ul>                                        "
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "legal_notice": "<p>\nCopyright © 2008 Twisted Pixel Games, LLC.  All rights reserved.<br />\nUses Granny Animation. Copyright © 1999-2008 by RAD Game Tools, Inc.<br />\nUses Fork Particle Tool & SDK. Copyright © 2008 Fork Particle, Inc.<br />\nUses Bullet Continuous Collision Detection and Physics Library.\nCopyright © 2003-2008 Erwin Coumans.<br />\nThe Maw uses Lua and includes the following rights to use Lua:\nCopyright © 1994-2008 Lua.org, PUC-Rio.<br />\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \"Software\"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.<br />\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.<br />\nThe Maw uses Luabind and includes the following rights to use Luabind:\nCopyright © 2008 Daniel Wallin and Arvid Norberg.<br />\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \"Software\"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.<br />\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.\n</p>",
+            "developers": [
+                "Twisted Pixel Games"
+            ],
+            "publishers": [
+                "Twisted Pixel Games"
+            ],
+            "package_groups": [],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "metacritic": {
+                "score": 75
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 10,
+                    "description": "Game demo"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "23",
+                    "description": "Indie"
+                }
+            ],
+            "release_date": {
+                "coming_soon": false,
+                "date": "13 Mar, 2009"
+            },
+            "support_info": {
+                "url": "",
+                "email": ""
+            },
+            "background": "",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

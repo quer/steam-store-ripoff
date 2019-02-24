@@ -1,0 +1,178 @@
+{
+    "980030": {
+        "success": true,
+        "data": {
+            "type": "video",
+            "name": "Rust",
+            "steam_appid": 980030,
+            "required_age": 0,
+            "is_free": false,
+            "controller_support": "full",
+            "detailed_description": "<h1>Steam Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>Heather and her best friend Morgan make the mistake of meeting up with friends at an abandoned haunted attraction. Inside the decrepit scare-house, a cannibalistic monster lives, and stalks all those unlucky enough to enter his lair.",
+            "about_the_game": "Heather and her best friend Morgan make the mistake of meeting up with friends at an abandoned haunted attraction. Inside the decrepit scare-house, a cannibalistic monster lives, and stalks all those unlucky enough to enter his lair.",
+            "short_description": "Heather and her best friend Morgan make the mistake of meeting up with friends at an abandoned haunted attraction. Inside the decrepit scare-house, a cannibalistic monster lives, and stalks all those unlucky enough to enter his lair.",
+            "fullgame": {
+                "appid": null,
+                "name": "Uninitialized"
+            },
+            "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/980030/header.jpg?t=1542258526",
+            "website": null,
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong> Intel Core 2 or AMD equivalent<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 200 MB available space<br></li><li><strong>Additional Notes:</strong> Network Bandwidth of 5Mbps for 540p, 3Mbps for 360p.</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Intel Core I3+ or AMD equivalent recommended for HD 1080p playback<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 500 MB available space<br></li><li><strong>Additional Notes:</strong> Network Bandwidth of 12Mbps for 1080p or 8Mbps for 720p.</li></ul>"
+            },
+            "mac_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OSX 10.7<br></li><li><strong>Processor:</strong> Intel Core 2 or AMD equivalent<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 200 MB available space<br></li><li><strong>Additional Notes:</strong> Network Bandwidth of 5Mbps for 540p, 3Mbps for 360p.</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OSX 10.10+<br></li><li><strong>Processor:</strong> Intel Core I3+ or AMD equivalent recommended for HD 1080p playback<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 500 MB available space<br></li><li><strong>Additional Notes:</strong> Network Bandwidth of 12Mbps for 1080p or 8Mbps for 720p.</li></ul>"
+            },
+            "linux_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Linux Ubuntu 12.04 or later, SteamOS 2.20 or later<br></li><li><strong>Processor:</strong> Intel Core 2 or AMD equivalent<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 200 MB available space<br></li><li><strong>Additional Notes:</strong> Network Bandwidth of 5Mbps for 540p, 3Mbps for 360p.</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Linux Ubuntu 12.04 or later, SteamOS 2.20 or later<br></li><li><strong>Processor:</strong> Intel Core I3+ or AMD equivalent recommended for HD 1080p playback<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 500 MB available space<br></li><li><strong>Additional Notes:</strong> Network Bandwidth of 12Mbps for 1080p or 8Mbps for 720p.</li></ul>"
+            },
+            "publishers": [
+                "Wild Eye Releasing"
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 159,
+                "final": 159,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "1,59€"
+            },
+            "packages": [
+                322277,
+                322276
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Rust",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 322277,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Rust - 1,59€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 159
+                        },
+                        {
+                            "packageid": 322276,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Rust - 4,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 499
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": true,
+                "linux": true
+            },
+            "metacritic": {
+                "score": 69,
+                "url": "https://www.metacritic.com/game/pc/rust?ftag=MCD-06-10aaa1f"
+            },
+            "categories": [
+                {
+                    "id": 28,
+                    "description": "Full controller support"
+                },
+                {
+                    "id": 33,
+                    "description": "Native Steam Controller Support"
+                },
+                {
+                    "id": 13,
+                    "description": "Captions available"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "80",
+                    "description": "Movie"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/980030/ss_d425df9b87abea4ad499ca25b003f389c1e5daa2.600x338.jpg?t=1542258526",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/980030/ss_d425df9b87abea4ad499ca25b003f389c1e5daa2.1920x1080.jpg?t=1542258526"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/980030/ss_622a4a2539f0f2c7b2914d5b41a5d79ace179fac.600x338.jpg?t=1542258526",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/980030/ss_622a4a2539f0f2c7b2914d5b41a5d79ace179fac.1920x1080.jpg?t=1542258526"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/980030/ss_b0c66119dd951c25dcc219fbefe035755bb5c545.600x338.jpg?t=1542258526",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/980030/ss_b0c66119dd951c25dcc219fbefe035755bb5c545.1920x1080.jpg?t=1542258526"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/980030/ss_d91c6ec31de68d505701f598c0f2a5f9b632b140.600x338.jpg?t=1542258526",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/980030/ss_d91c6ec31de68d505701f598c0f2a5f9b632b140.1920x1080.jpg?t=1542258526"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/980030/ss_202bc9c95c43a617cca79984b864201dfdf80bb8.600x338.jpg?t=1542258526",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/980030/ss_202bc9c95c43a617cca79984b864201dfdf80bb8.1920x1080.jpg?t=1542258526"
+                },
+                {
+                    "id": 5,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/980030/ss_4e240cf1d820064786b8c5461eed889a8701235a.600x338.jpg?t=1542258526",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/980030/ss_4e240cf1d820064786b8c5461eed889a8701235a.1920x1080.jpg?t=1542258526"
+                },
+                {
+                    "id": 6,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/980030/ss_06e37364a73454106df9b74b46e33279d63503f9.600x338.jpg?t=1542258526",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/980030/ss_06e37364a73454106df9b74b46e33279d63503f9.1920x1080.jpg?t=1542258526"
+                },
+                {
+                    "id": 7,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/980030/ss_94c6af7a10ae33ae21af81d9f4db23eafc17abbe.600x338.jpg?t=1542258526",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/980030/ss_94c6af7a10ae33ae21af81d9f4db23eafc17abbe.1920x1080.jpg?t=1542258526"
+                },
+                {
+                    "id": 8,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/980030/ss_92822e21ec28f96b362f86c69a7c519f5d71815c.600x338.jpg?t=1542258526",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/980030/ss_92822e21ec28f96b362f86c69a7c519f5d71815c.1920x1080.jpg?t=1542258526"
+                }
+            ],
+            "achievements": {
+                "total": 0
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "14 Nov, 2018"
+            },
+            "support_info": {
+                "url": "www.wildeyereleasing.com",
+                "email": "chriswilembrecht@gmail.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/980030/page_bg_generated_v6b.jpg?t=1542258526",
+            "content_descriptors": {
+                "ids": [
+                    2,
+                    5
+                ],
+                "notes": "There is horror related violence throughout the film."
+            }
+        }
+    }
+}

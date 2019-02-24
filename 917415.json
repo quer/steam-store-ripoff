@@ -1,0 +1,91 @@
+{
+    "917415": {
+        "success": true,
+        "data": {
+            "type": "episode",
+            "name": "GATE: Princess’ Decision",
+            "steam_appid": 917415,
+            "required_age": "18",
+            "is_free": false,
+            "controller_support": "full",
+            "detailed_description": "",
+            "about_the_game": "",
+            "short_description": "Itami has been (accidentally) captured and beaten by Princess Pina’s knights. While the princess worries, the JSDF discovers that Itami didn’t really need to be rescued.",
+            "fullgame": {
+                "appid": "917350",
+                "name": "GATE"
+            },
+            "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/917350/header.jpg?t=1541798939",
+            "website": null,
+            "pc_requirements": [],
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "publishers": [
+                ""
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 239,
+                "final": 239,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "2,39€"
+            },
+            "packages": [
+                294761
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy GATE: Princess’ Decision",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 294761,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "GATE: Princess’ Decision - 2,39€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 239
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 28,
+                    "description": "Full controller support"
+                },
+                {
+                    "id": 33,
+                    "description": "Native Steam Controller Support"
+                }
+            ],
+            "release_date": {
+                "coming_soon": false,
+                "date": "12 Oct, 2018"
+            },
+            "support_info": {
+                "url": "",
+                "email": ""
+            },
+            "background": "",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

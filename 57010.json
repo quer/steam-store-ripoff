@@ -1,0 +1,65 @@
+{
+    "57010": {
+        "success": true,
+        "data": {
+            "type": "demo",
+            "name": "NyxQuest Demo",
+            "steam_appid": 57010,
+            "required_age": 0,
+            "is_free": true,
+            "detailed_description": "",
+            "about_the_game": "",
+            "short_description": "",
+            "fullgame": {
+                "appid": "57000",
+                "name": "NyxQuest: Kindred Spirits"
+            },
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/57010/header.jpg?t=1447353578",
+            "website": null,
+            "pc_requirements": [],
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "developers": [
+                "Over the Top Games"
+            ],
+            "publishers": [
+                "Over the Top Games"
+            ],
+            "package_groups": [],
+            "platforms": {
+                "windows": true,
+                "mac": true,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 10,
+                    "description": "Game demo"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "1",
+                    "description": "Action"
+                },
+                {
+                    "id": "25",
+                    "description": "Adventure"
+                }
+            ],
+            "release_date": {
+                "coming_soon": false,
+                "date": "27 Sep, 2010"
+            },
+            "support_info": {
+                "url": "",
+                "email": ""
+            },
+            "background": "",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

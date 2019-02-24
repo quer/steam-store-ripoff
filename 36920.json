@@ -1,0 +1,82 @@
+{
+    "36920": {
+        "success": true,
+        "data": {
+            "type": "demo",
+            "name": "All Aspect Warfare Demo",
+            "steam_appid": 36920,
+            "required_age": 0,
+            "is_free": true,
+            "detailed_description": "",
+            "about_the_game": "",
+            "short_description": "",
+            "fullgame": {
+                "appid": "36910",
+                "name": "All Aspect Warfare"
+            },
+            "supported_languages": "English",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/36920/header.jpg?t=1447352359",
+            "website": "http://www.allaspectwarfare.com",
+            "pc_requirements": {
+                "minimum": "<p><strong>Minimum:</strong></p>\n<ul>\n\t<li><strong>OS:</strong> Windows XP or Windows Vista</li>\n\t<li><strong>Processor:</strong> Dual Core CPU (Intel Pentium 4 3.4Ghz, AMD Athlon 64 X2 3.0GHz or faster</li>\n\t<li><strong>Memory:</strong> 1GB</li>\n\t<li><strong>Graphics:</strong> 256MB GPU with Shader Model 3 (nVidia GeForce 7900 / ATI Radeon X1300 or faster)</li>\n\t<li><strong>DirectX&reg;:</strong> DirectX 9.0 March 2009 Runtime</li>\n\t<li><strong>Hard Drive:</strong> 600MB</li>\n\t<li><strong>Sound:</strong> DirectX 9.0c compatible (on-board or add-in)</li>\n</ul>\n",
+                "recommended": "<p><strong>Recommended:</strong></p>\n<ul>\n\t<li><strong>OS:</strong> Windows XP or Windows Vista</li>\n\t<li><strong>Processor:</strong> Intel Core 2 Duo E6320 / AMD X2 6000 or faster</li>\n\t<li><strong>Memory:</strong> 2GB</li>\n\t<li><strong>Graphics:</strong>512MB GPU with Shader Model 3 (nVidia GeForce 8600 GTS / Radeon HD2900 XT or faster)</li>\n\t<li><strong>DirectX&reg;:</strong> DirectX 9.0 March 2009 Runtime</li>\n\t<li><strong>Hard Drive:</strong> 1 GB</li>\n\t<li><strong>Sound:</strong> DirectX 9.0c compatible (on-board or add-in)</li>\n</ul>\n"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "legal_notice": "All Aspect Warfare  © 2009, 3000AD, Inc",
+            "developers": [
+                "3000AD"
+            ],
+            "publishers": [
+                "3000AD"
+            ],
+            "package_groups": [],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 1,
+                    "description": "Multi-player"
+                },
+                {
+                    "id": 9,
+                    "description": "Co-op"
+                },
+                {
+                    "id": 10,
+                    "description": "Game demo"
+                },
+                {
+                    "id": 18,
+                    "description": "Partial Controller Support"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "1",
+                    "description": "Action"
+                }
+            ],
+            "release_date": {
+                "coming_soon": false,
+                "date": "3 Aug, 2009"
+            },
+            "support_info": {
+                "url": "",
+                "email": ""
+            },
+            "background": "",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

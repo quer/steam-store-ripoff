@@ -1,0 +1,122 @@
+{
+    "285550": {
+        "success": true,
+        "data": {
+            "type": "dlc",
+            "name": "Dominique Pamplemousse: Soundtrack & Sheet Music",
+            "steam_appid": 285550,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "",
+            "about_the_game": "",
+            "short_description": "",
+            "fullgame": {
+                "appid": "270310",
+                "name": "Dominique Pamplemousse"
+            },
+            "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/285550/header.jpg?t=1478023897",
+            "website": "http://www.dominiquepamplemousse.com/",
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Storage:</strong> 61 MB available space<br></li><li><strong>Sound Card:</strong> Required to play MP3 music.<br></li><li><strong>Additional Notes:</strong> A PDF viewer is required to view sheet music.</li></ul>"
+            },
+            "mac_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Storage:</strong> 61 MB available space<br></li><li><strong>Sound Card:</strong> Required to play MP3 music.<br></li><li><strong>Additional Notes:</strong> A PDF viewer is required to view sheet music.</li></ul>"
+            },
+            "linux_requirements": [],
+            "developers": [
+                "Squinky and the Squinkettes"
+            ],
+            "publishers": [
+                "Squinkifer Productions\t"
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 199,
+                "final": 199,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "1,99€"
+            },
+            "packages": [
+                39538
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Dominique Pamplemousse: Soundtrack & Sheet Music",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 39538,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Dominique Pamplemousse: Soundtrack & Sheet Music - 1,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 199
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": true,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 21,
+                    "description": "Downloadable Content"
+                },
+                {
+                    "id": 29,
+                    "description": "Steam Trading Cards"
+                },
+                {
+                    "id": 13,
+                    "description": "Captions available"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "25",
+                    "description": "Adventure"
+                },
+                {
+                    "id": "23",
+                    "description": "Indie"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/285550/ss_28e227de88476227b9cd3e11076099f5b894a239.600x338.jpg?t=1478023897",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/285550/ss_28e227de88476227b9cd3e11076099f5b894a239.1920x1080.jpg?t=1478023897"
+                }
+            ],
+            "release_date": {
+                "coming_soon": false,
+                "date": "11 Mar, 2014"
+            },
+            "support_info": {
+                "url": "http://dominiquepamplemousse.com",
+                "email": "support@dominiquepamplemousse.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/285550/page_bg_generated_v6b.jpg?t=1478023897",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

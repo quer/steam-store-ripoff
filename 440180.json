@@ -1,0 +1,150 @@
+{
+    "440180": {
+        "success": true,
+        "data": {
+            "type": "video",
+            "name": "The Cardboard Artist",
+            "steam_appid": 440180,
+            "required_age": 0,
+            "is_free": false,
+            "controller_support": "full",
+            "detailed_description": "<h1>Steam Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>“The Cardboard Artist” is a short documentary about Calder Greenwood, an LA-based street artist who creates elaborate cardboard and paper mache installations throughout the city. Through exploring ephemeral art and coming to know one of its creators, this film reveals how there’s great beauty in realizing some things must come to an end.",
+            "about_the_game": "“The Cardboard Artist” is a short documentary about Calder Greenwood, an LA-based street artist who creates elaborate cardboard and paper mache installations throughout the city. Through exploring ephemeral art and coming to know one of its creators, this film reveals how there’s great beauty in realizing some things must come to an end.",
+            "short_description": "“The Cardboard Artist” is a short documentary about Calder Greenwood, an LA-based street artist who creates elaborate cardboard and paper mache installations throughout the city.",
+            "fullgame": {
+                "appid": null,
+                "name": "Uninitialized"
+            },
+            "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/440180/header.jpg?t=1483737577",
+            "website": null,
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong> Intel Core 2 or AMD equivalent<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 200 MB available space<br></li><li><strong>Additional Notes:</strong> Network Bandwidth of 5Mbps for 540p, 3Mbps for 360p.</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Intel Core I3+ or AMD equivalent recommended for HD 1080p playback<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 500 MB available space<br></li><li><strong>Additional Notes:</strong> Network Bandwidth of 12Mbps for 1080p or 8Mbps for 720p.</li></ul>"
+            },
+            "mac_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OSX 10.7<br></li><li><strong>Processor:</strong> Intel Core 2 or AMD equivalent<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 200 MB available space<br></li><li><strong>Additional Notes:</strong> Network Bandwidth of 5Mbps for 540p, 3Mbps for 360p.</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OSX 10.10+<br></li><li><strong>Processor:</strong> Intel Core I3+ or AMD equivalent recommended for HD 1080p playback<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 500 MB available space<br></li><li><strong>Additional Notes:</strong> Network Bandwidth of 12Mbps for 1080p or 8Mbps for 720p.</li></ul>"
+            },
+            "linux_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Linux Ubuntu 12.04 or later, SteamOS 2.20 or later<br></li><li><strong>Processor:</strong> Intel Core 2 or AMD equivalent<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 200 MB available space<br></li><li><strong>Additional Notes:</strong> Network Bandwidth of 5Mbps for 540p, 3Mbps for 360p.</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Linux Ubuntu 12.04 or later, SteamOS 2.20 or later<br></li><li><strong>Processor:</strong> Intel Core I3+ or AMD equivalent recommended for HD 1080p playback<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 500 MB available space<br></li><li><strong>Additional Notes:</strong> Network Bandwidth of 12Mbps for 1080p or 8Mbps for 720p.</li></ul>"
+            },
+            "developers": [
+                "Two-Ninety Films"
+            ],
+            "publishers": [
+                "Devolver Digital Films"
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 199,
+                "final": 199,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "1,99€"
+            },
+            "packages": [
+                92982
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy The Cardboard Artist",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 92982,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "The Cardboard Artist - 1,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 199
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": true,
+                "linux": true
+            },
+            "categories": [
+                {
+                    "id": 28,
+                    "description": "Full controller support"
+                },
+                {
+                    "id": 33,
+                    "description": "Native Steam Controller Support"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/440180/ss_5b95306c49847ed6375a4e1ebd02a97325e1c939.600x338.jpg?t=1483737577",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/440180/ss_5b95306c49847ed6375a4e1ebd02a97325e1c939.1920x1080.jpg?t=1483737577"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/440180/ss_cfa8320d1887e2b0a45e90f194855e38a88d93e0.600x338.jpg?t=1483737577",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/440180/ss_cfa8320d1887e2b0a45e90f194855e38a88d93e0.1920x1080.jpg?t=1483737577"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/440180/ss_a6d1c45c4650b5d700d055f558d39750de4eef56.600x338.jpg?t=1483737577",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/440180/ss_a6d1c45c4650b5d700d055f558d39750de4eef56.1920x1080.jpg?t=1483737577"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/440180/ss_3b625ea63fd2fb3c61612d42cbd83a5d4aae4e7c.600x338.jpg?t=1483737577",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/440180/ss_3b625ea63fd2fb3c61612d42cbd83a5d4aae4e7c.1920x1080.jpg?t=1483737577"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/440180/ss_02e1cc2a36609aa25e203134ed05f45738dcb77a.600x338.jpg?t=1483737577",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/440180/ss_02e1cc2a36609aa25e203134ed05f45738dcb77a.1920x1080.jpg?t=1483737577"
+                },
+                {
+                    "id": 5,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/440180/ss_bd63cb8f25eb33b149f788cec38b80a1ad2f2cf4.600x338.jpg?t=1483737577",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/440180/ss_bd63cb8f25eb33b149f788cec38b80a1ad2f2cf4.1920x1080.jpg?t=1483737577"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 256672452,
+                    "name": "The Cardboard Artist",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256672452/movie.293x165.jpg?t=1477521181",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256672452/movie480.webm?t=1477521181",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256672452/movie_max.webm?t=1477521181"
+                    },
+                    "highlight": true
+                }
+            ],
+            "achievements": {
+                "total": 0
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "26 Oct, 2016"
+            },
+            "support_info": {
+                "url": "http://devolverdigital.com",
+                "email": "films@devolverdigital.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/440180/page_bg_generated_v6b.jpg?t=1483737577",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

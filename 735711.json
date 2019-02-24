@@ -1,0 +1,94 @@
+{
+    "735711": {
+        "success": true,
+        "data": {
+            "type": "episode",
+            "name": "Knight’s & Magic: Hero & Beast",
+            "steam_appid": 735711,
+            "required_age": 0,
+            "is_free": false,
+            "controller_support": "full",
+            "detailed_description": "",
+            "about_the_game": "",
+            "short_description": "A huge behemoth is rampaging through the forest on its way towards the capital, and only Ernesti can stop it. He &quot;borrows&quot; a Silhouette Knight from one of the other students and goes off to face it, but he's so tiny his feet can't even reach the pedals!",
+            "fullgame": {
+                "appid": "734960",
+                "name": "Knight’s & Magic"
+            },
+            "supported_languages": "English<strong>*</strong>, Japanese<br><strong>*</strong>languages with full audio support",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/734960/header.jpg?t=1529696803",
+            "website": null,
+            "pc_requirements": [],
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "publishers": [
+                ""
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 199,
+                "final": 199,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "1,99€"
+            },
+            "packages": [
+                214893
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Knight’s & Magic: Hero & Beast",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 214893,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Knight’s & Magic: Hero & Beast - 1,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 199
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 28,
+                    "description": "Full controller support"
+                },
+                {
+                    "id": 33,
+                    "description": "Native Steam Controller Support"
+                }
+            ],
+            "achievements": {
+                "total": 0
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "30 Oct, 2017"
+            },
+            "support_info": {
+                "url": "",
+                "email": ""
+            },
+            "background": "",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

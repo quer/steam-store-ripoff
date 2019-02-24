@@ -1,0 +1,98 @@
+{
+    "611430": {
+        "success": true,
+        "data": {
+            "type": "episode",
+            "name": "Black Sails: I",
+            "steam_appid": 611430,
+            "required_age": 0,
+            "is_free": false,
+            "controller_support": "full",
+            "detailed_description": "",
+            "about_the_game": "",
+            "short_description": "After a run of short hauls, the once powerful Captain Flint faces mutiny by his own crew. John Silver joins Flint's pirate ship, hiding something of great value from his captain. On the island of New Providence, Eleanor Guthrie keeps order in the face of a resurgent Royal Navy.",
+            "fullgame": {
+                "appid": "597460",
+                "name": "Black Sails"
+            },
+            "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/611430/header.jpg?t=1513213785",
+            "website": null,
+            "pc_requirements": [],
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "publishers": [
+                ""
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 249,
+                "final": 249,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "2,49€"
+            },
+            "packages": [
+                163379
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Black Sails: I",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 163379,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Black Sails: I - 2,49€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 249
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 28,
+                    "description": "Full controller support"
+                },
+                {
+                    "id": 33,
+                    "description": "Native Steam Controller Support"
+                },
+                {
+                    "id": 13,
+                    "description": "Captions available"
+                }
+            ],
+            "achievements": {
+                "total": 0
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "13 Dec, 2017"
+            },
+            "support_info": {
+                "url": "",
+                "email": ""
+            },
+            "background": "",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

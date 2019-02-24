@@ -1,0 +1,168 @@
+{
+    "443330": {
+        "success": true,
+        "data": {
+            "type": "game",
+            "name": "Malus Code",
+            "steam_appid": 443330,
+            "required_age": "16",
+            "is_free": false,
+            "dlc": [
+                514320
+            ],
+            "detailed_description": "<h1>Fixed the bug in which the save data was in the same folder as Tokyo School Life's save data.</h1><p>To restore your save data for Malus Code, please follow these steps:\r\n\r\n1. Go to \r\nC:\\Users\\(PC name)\\Documents\\M2\\ \r\nand backup the folder named “TSL”, and also the “MC” folder if it exists. \r\n\r\n2. Make a duplicate copy of the previous save data folder:\r\nC:\\Users\\(PC name)\\Documents\\M2\\TSL\r\n\r\n3. Rename the copied folder to\r\nC:\\Users\\(PC name)\\Documents\\M2\\MC\r\n(If the MC folder already exists, please delete the existing folder before renaming.)\r\n\r\n\r\n4. Start up Malus Code and continue playing as usual.\r\n\r\nIf you have previous save data from our other game, Tokyo School Life, the TSL save data may still be displayed in Malus Code. You can remove those saves by overwriting them, or just deleting them after following the above steps. The same applies to if Malus Code save data is displayed in Tokyo School Life.\r\n\r\nThanks for you playing, and we’re very sorry for the inconvenience caused by this bug.</p><br><h1>Patch Notes：　Malus Code Ver 1.02</h1><p>We enclosed a complete save file for Tokyo School Life in Malus Code Ver 1.02.\r\n\r\nThis is a save file for Tokyo School Life that unlocks all of the content in the Extra menu, meant for those who lost their data due to the bug in Malus Code Ver 1.00.\r\n\r\n・ Do not use this save data for Malus Code.\r\n\r\n・ You will overwrite TSL's save data file (data_000_0000.bin), so please back it up in a safe location first.\r\n\r\n1. Go to\r\nC:\\Users\\(PCname)\\Documents\\M2\\TSL\\savedata\r\n\r\n2. Rename the existing data as follows:\r\n\r\nRename\r\ndata_000_0000.bin\r\nto\r\ndata_000_1111.bin\r\n\r\n3. Locate the following file in the directory you installed Malus Code in (default path shown below):\r\n\r\nC:\\Program Files\\Steam\\SteamApps\\common\\Malus Code\\windata\\tsl_complete_savedata\\fdata_000_0000.bin\r\n\r\nCopy fdata_000_0000.bin to the following folder:\r\n\r\nC:\\Users\\(PCname)\\Documents\\M2\\TSL\\savedata\r\n\r\nThen rename it to\r\n\r\ndata_000_0000.bin\r\n\r\n4. Done!\r\n\r\nNote: This will only effect the content in the Extra menu (music jukebox, gallery), so your save slot usage will remain the same as before.</p><br><h1>About the Game</h1>- Malus Code - \r\nDo you like extreme situations?\r\nIn order to study thermophiles that prefer high temperatures, Will decides to study at a university in Japan due to the many hot springs there. Amidst the cherry blossom trees, he encounters three partners in his lab. How will they spend their time together, and what conclusion will they reach? You have to see for yourself.\r\n\r\n- Romance Adventure Kinetic Novel (with horror elements)\r\n- Japanese voice acting (3 main characters, not including the player.)\r\n- Fluid animation using E-mote\r\n  (Animation produced by the creators of E-mote, M2 Co., Ltd.)\r\n- Japanese vocal opening theme\r\n- Text can be displayed in English, Japanese (with furigana), Japanese (without furigana), hiragana, and romaji (alphabet), which can be useful for studying Japanese at various skill levels.\r\n\r\nWe have a facebook page. Check it out please! \r\nhttps://www.facebook.com/DogenzakaLab/",
+            "about_the_game": "- Malus Code - <br />\r\nDo you like extreme situations?<br />\r\nIn order to study thermophiles that prefer high temperatures, Will decides to study at a university in Japan due to the many hot springs there. Amidst the cherry blossom trees, he encounters three partners in his lab. How will they spend their time together, and what conclusion will they reach? You have to see for yourself.<br />\r\n<br />\r\n- Romance Adventure Kinetic Novel (with horror elements)<br />\r\n- Japanese voice acting (3 main characters, not including the player.)<br />\r\n- Fluid animation using E-mote<br />\r\n  (Animation produced by the creators of E-mote, M2 Co., Ltd.)<br />\r\n- Japanese vocal opening theme<br />\r\n- Text can be displayed in English, Japanese (with furigana), Japanese (without furigana), hiragana, and romaji (alphabet), which can be useful for studying Japanese at various skill levels.<br />\r\n<br />\r\nWe have a facebook page. Check it out please! <br />\r\nhttps://www.facebook.com/DogenzakaLab/",
+            "short_description": "Malus Code is the story of a graduate student studying abroad at a Japanese university, and the three people he meets in the laboratory there. In this unfamiliar environment, can you earn their friendship? For those who don't want a lonely, sad life.",
+            "supported_languages": "English, Japanese<strong>*</strong><br><strong>*</strong>languages with full audio support",
+            "reviews": "8/10 – <a href=\"https://steamcommunity.com/linkfilter/?url=http://soulcry.name/obzor-igry-malus-code-v-glaza-smotri-v-glaza/\" target=\"_blank\" rel=\"noopener\"  >Russian review</a><br>",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/443330/header.jpg?t=1476864574",
+            "website": "http://dogenzaka-lab.com/",
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows7/8.1/10<br></li><li><strong>Processor:</strong> 1.8 GHz Pentium 4<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "legal_notice": "©2016 M2 Co.,LTD ©2016 Dogenzaka Lab",
+            "developers": [
+                "M2 Co.,LTD"
+            ],
+            "publishers": [
+                "Dogenzaka Lab"
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 1299,
+                "final": 1299,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "12,99€"
+            },
+            "packages": [
+                94089
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Malus Code",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 94089,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Malus Code - 12,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 1299
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 29,
+                    "description": "Steam Trading Cards"
+                },
+                {
+                    "id": 18,
+                    "description": "Partial Controller Support"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "25",
+                    "description": "Adventure"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/443330/ss_97db87807e8230017a35772645e6b7674c76da88.600x338.jpg?t=1476864574",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/443330/ss_97db87807e8230017a35772645e6b7674c76da88.1920x1080.jpg?t=1476864574"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/443330/ss_a58a6cba668793a29fc1618fd075b2f20f9ea547.600x338.jpg?t=1476864574",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/443330/ss_a58a6cba668793a29fc1618fd075b2f20f9ea547.1920x1080.jpg?t=1476864574"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/443330/ss_f5433a6fca390cb43aad659c13f0bc4ffed368d8.600x338.jpg?t=1476864574",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/443330/ss_f5433a6fca390cb43aad659c13f0bc4ffed368d8.1920x1080.jpg?t=1476864574"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/443330/ss_210b473981e23f07e093505d6d46ac66297ee829.600x338.jpg?t=1476864574",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/443330/ss_210b473981e23f07e093505d6d46ac66297ee829.1920x1080.jpg?t=1476864574"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/443330/ss_304605b9588b2651af516f4b92164f573b00762d.600x338.jpg?t=1476864574",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/443330/ss_304605b9588b2651af516f4b92164f573b00762d.1920x1080.jpg?t=1476864574"
+                },
+                {
+                    "id": 5,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/443330/ss_5958a973d5fd794b3dd66478cdbdb8d393613f7d.600x338.jpg?t=1476864574",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/443330/ss_5958a973d5fd794b3dd66478cdbdb8d393613f7d.1920x1080.jpg?t=1476864574"
+                },
+                {
+                    "id": 6,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/443330/ss_22034b322a31be950d2e1a84af4f3d961095abad.600x338.jpg?t=1476864574",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/443330/ss_22034b322a31be950d2e1a84af4f3d961095abad.1920x1080.jpg?t=1476864574"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 256663084,
+                    "name": "OPMOVIE",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256663084/movie.293x165.jpg?t=1465375290",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256663084/movie480.webm?t=1465375290",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256663084/movie_max.webm?t=1465375290"
+                    },
+                    "highlight": true
+                },
+                {
+                    "id": 256662093,
+                    "name": "paly-movie",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256662093/movie.293x165.jpg?t=1462872591",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256662093/movie480.webm?t=1462872591",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256662093/movie_max.webm?t=1462872591"
+                    },
+                    "highlight": true
+                }
+            ],
+            "achievements": {
+                "total": 0
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "6 May, 2016"
+            },
+            "support_info": {
+                "url": "",
+                "email": "d-lab@dogenzaka-lab.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/443330/page_bg_generated_v6b.jpg?t=1476864574",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

@@ -1,0 +1,193 @@
+{
+    "601320": {
+        "success": true,
+        "data": {
+            "type": "game",
+            "name": "Schlocks",
+            "steam_appid": 601320,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "<h2 class=\"bb_tag\">ABOUT</h2>Schlocks, your favorite mini-games department store, understands you, the consumer. Every game at Schlocks is a whopping 10 seconds to try our product(s), and experience what everyone's been talking about! Hop in, test a product in one of our patented Microscopic Games™, and then be suddenly whisked away to a new one; it's an adventure unlike any other you've experienced at a department store! We're so sure you'll love shopping with us, that we can promise a consideration of the suggestion of a money back guarantee, or else! That's the Schlocks-brand Commitment™ that you can count on.<h2 class=\"bb_tag\">FEATURES</h2><ul class=\"bb_ul\"><li>50+ games in Early Access with over 100 on final release.<br></li><li>Enjoy competitive party gaming with friends, while also giving friends a good laugh at their expense.<br></li><li>… or play all alone if you have no friends. It’s still fun!<br></li><li>Explore 10 different departments of the Schlocks Store, including the farm, kitchen, ocean, carnival, and more!<br></li><li>Unbeatable value! That's the Schlocks-brand Commitment™ that you can count on.</li></ul>",
+            "about_the_game": "<h2 class=\"bb_tag\">ABOUT</h2>Schlocks, your favorite mini-games department store, understands you, the consumer. Every game at Schlocks is a whopping 10 seconds to try our product(s), and experience what everyone's been talking about! Hop in, test a product in one of our patented Microscopic Games™, and then be suddenly whisked away to a new one; it's an adventure unlike any other you've experienced at a department store! We're so sure you'll love shopping with us, that we can promise a consideration of the suggestion of a money back guarantee, or else! That's the Schlocks-brand Commitment™ that you can count on.<h2 class=\"bb_tag\">FEATURES</h2><ul class=\"bb_ul\"><li>50+ games in Early Access with over 100 on final release.<br></li><li>Enjoy competitive party gaming with friends, while also giving friends a good laugh at their expense.<br></li><li>… or play all alone if you have no friends. It’s still fun!<br></li><li>Explore 10 different departments of the Schlocks Store, including the farm, kitchen, ocean, carnival, and more!<br></li><li>Unbeatable value! That's the Schlocks-brand Commitment™ that you can count on.</li></ul>",
+            "short_description": "100+ hectic micro-games in the first ever competitive party game for VR. Each game in Schlocks is only 10 seconds long, so don’t get comfortable; you’ll need to stay on your toes as you bat beehives, hoist the mainsail, and make a dang good sandwich!",
+            "supported_languages": "English",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/601320/header.jpg?t=1493147659",
+            "website": "http://schlocksgame.com",
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows™ 7 SP1, Windows™ 8.1 or later or Windows™ 10<br></li><li><strong>Processor:</strong> Intel™ Core™ i5-4590 or AMD FX™ 8350, equivalent or better<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce™ GTX 1060 or AMD Radeon™ RX 480, equivalent or better.<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "developers": [
+                "Fancy Bear Games"
+            ],
+            "publishers": [
+                "Fancy Bear Games"
+            ],
+            "demos": [
+                {
+                    "appid": 627990,
+                    "description": "Schlocks Demo"
+                }
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 1499,
+                "final": 1499,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "14,99€"
+            },
+            "packages": [
+                158031,
+                197838
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Schlocks",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 158031,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Schlocks - 14,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 1499
+                        }
+                    ]
+                },
+                {
+                    "name": "subscriptions",
+                    "title": "Buy Schlocks Subscription Plan",
+                    "description": "To be billed on a recurring basis.",
+                    "selection_text": "Select a subscription plan",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "true",
+                    "subs": [
+                        {
+                            "packageid": 197838,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "1 Month(s) @ 19,99€/Month",
+                            "option_description": "<p class=\"game_purchase_subscription\">19,99€ at checkout, auto-renewed every 1 month(s) at 19,99€.</p>",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 1999
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 37,
+                    "description": "Local Multi-Player"
+                },
+                {
+                    "id": 24,
+                    "description": "Shared/Split Screen"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "4",
+                    "description": "Casual"
+                },
+                {
+                    "id": "23",
+                    "description": "Indie"
+                },
+                {
+                    "id": "28",
+                    "description": "Simulation"
+                },
+                {
+                    "id": "70",
+                    "description": "Early Access"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/601320/ss_7383ea0cd9ee008671b30b8b7f9e011dad2aa8c8.600x338.jpg?t=1493147659",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/601320/ss_7383ea0cd9ee008671b30b8b7f9e011dad2aa8c8.1920x1080.jpg?t=1493147659"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/601320/ss_097384009d5f1da93fc98f781012430f1a270f6f.600x338.jpg?t=1493147659",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/601320/ss_097384009d5f1da93fc98f781012430f1a270f6f.1920x1080.jpg?t=1493147659"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/601320/ss_bae0b8b3b1e08fa1a5bc586d3a03d3fac3a70fb4.600x338.jpg?t=1493147659",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/601320/ss_bae0b8b3b1e08fa1a5bc586d3a03d3fac3a70fb4.1920x1080.jpg?t=1493147659"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/601320/ss_e0b34a14b1f3b5b185c78810f36c014c3cf74271.600x338.jpg?t=1493147659",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/601320/ss_e0b34a14b1f3b5b185c78810f36c014c3cf74271.1920x1080.jpg?t=1493147659"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/601320/ss_57b0ca58ad4d36331366859dc27b931c25c5213b.600x338.jpg?t=1493147659",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/601320/ss_57b0ca58ad4d36331366859dc27b931c25c5213b.1920x1080.jpg?t=1493147659"
+                },
+                {
+                    "id": 5,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/601320/ss_1f3bf6f75f7e64c725b312f7ae4c7e98c49d88f1.600x338.jpg?t=1493147659",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/601320/ss_1f3bf6f75f7e64c725b312f7ae4c7e98c49d88f1.1920x1080.jpg?t=1493147659"
+                },
+                {
+                    "id": 6,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/601320/ss_41c2e106abbb201c32222710761b2340e23f00f7.600x338.jpg?t=1493147659",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/601320/ss_41c2e106abbb201c32222710761b2340e23f00f7.1920x1080.jpg?t=1493147659"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 256682835,
+                    "name": "Schlocks Steam Early Access Trailer",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256682835/movie.293x165.jpg?t=1493147657",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256682835/movie480.webm?t=1493147657",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256682835/movie_max.webm?t=1493147657"
+                    },
+                    "highlight": true
+                }
+            ],
+            "achievements": {
+                "total": 0
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "18 Apr, 2017"
+            },
+            "support_info": {
+                "url": "",
+                "email": "contact@fancybeargames.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/601320/page_bg_generated_v6b.jpg?t=1493147659",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

@@ -1,0 +1,118 @@
+{
+    "1025190": {
+        "success": true,
+        "data": {
+            "type": "dlc",
+            "name": "TheSecretGame2 - A Piece Of Pizza",
+            "steam_appid": 1025190,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "This DLC will add, or change, nothing to the game (but one thing). But if you like <i>TheSecretGame2</i> and wish to give a little something, you can buy this DLC. <br>You will just see a piece of pizza in the main menu as thank for your donation. And maybe your character will be happier and faster after eating the pizza.",
+            "about_the_game": "This DLC will add, or change, nothing to the game (but one thing). But if you like <i>TheSecretGame2</i> and wish to give a little something, you can buy this DLC. <br>You will just see a piece of pizza in the main menu as thank for your donation. And maybe your character will be happier and faster after eating the pizza.",
+            "short_description": "Like TheSecretGame2? Show it with this pizza!",
+            "fullgame": {
+                "appid": "779850",
+                "name": "TheSecretGame2"
+            },
+            "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1025190/header.jpg?t=1550258469",
+            "website": "https://theunknowndev.com",
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Storage:</strong> 3 MB available space</li></ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "legal_notice": "© 2019 Lasse Niermann<br />\r\n<br />\r\nAll Rights Reserved.",
+            "developers": [
+                "TheUnknownDev"
+            ],
+            "publishers": [
+                "TheUnknownDev"
+            ],
+            "price_overview": {
+                "currency": "USD",
+                "initial": 299,
+                "final": 299,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "$2.99"
+            },
+            "packages": [
+                340595
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy TheSecretGame2 - A Piece Of Pizza",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 340595,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "TheSecretGame2 - A Piece Of Pizza - $2.99",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 299
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 21,
+                    "description": "Downloadable Content"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "25",
+                    "description": "Adventure"
+                },
+                {
+                    "id": "23",
+                    "description": "Indie"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1025190/ss_bc46639aad541f103832ee22a48fbdf68255a602.600x338.jpg?t=1550258469",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1025190/ss_bc46639aad541f103832ee22a48fbdf68255a602.1920x1080.jpg?t=1550258469"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1025190/ss_0d4af48aade8a3d42f9ba8bafb52d04b39ab4d76.600x338.jpg?t=1550258469",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1025190/ss_0d4af48aade8a3d42f9ba8bafb52d04b39ab4d76.1920x1080.jpg?t=1550258469"
+                }
+            ],
+            "release_date": {
+                "coming_soon": false,
+                "date": "Feb 8, 2019"
+            },
+            "support_info": {
+                "url": "https://theunknowndev.com",
+                "email": "info@theunknowndev.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1025190/page_bg_generated_v6b.jpg?t=1550258469",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

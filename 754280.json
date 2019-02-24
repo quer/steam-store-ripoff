@@ -1,0 +1,82 @@
+{
+    "754280": {
+        "success": true,
+        "data": {
+            "type": "demo",
+            "name": "Hexvade Demo",
+            "steam_appid": 754280,
+            "required_age": 0,
+            "is_free": true,
+            "detailed_description": "",
+            "about_the_game": "",
+            "short_description": "",
+            "fullgame": {
+                "appid": "754270",
+                "name": "Hexvade"
+            },
+            "supported_languages": "English",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/754280/header.jpg?t=1510789363",
+            "website": "http://www.hexvade.com/",
+            "pc_requirements": [],
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "developers": [
+                "Zeritum"
+            ],
+            "publishers": [
+                "Zeritum"
+            ],
+            "package_groups": [],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 37,
+                    "description": "Local Multi-Player"
+                },
+                {
+                    "id": 24,
+                    "description": "Shared/Split Screen"
+                },
+                {
+                    "id": 10,
+                    "description": "Game demo"
+                },
+                {
+                    "id": 18,
+                    "description": "Partial Controller Support"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "1",
+                    "description": "Action"
+                },
+                {
+                    "id": "4",
+                    "description": "Casual"
+                },
+                {
+                    "id": "23",
+                    "description": "Indie"
+                }
+            ],
+            "release_date": {
+                "coming_soon": false,
+                "date": "15 Nov, 2017"
+            },
+            "support_info": {
+                "url": "",
+                "email": "hexvade@gmail.com"
+            },
+            "background": "",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

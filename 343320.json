@@ -1,0 +1,342 @@
+{
+    "343320": {
+        "success": true,
+        "data": {
+            "type": "game",
+            "name": "StaudSoft's Synthetic World Beta",
+            "steam_appid": 343320,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "An open world sandbox game and a testbed for AI research.<br>Explore the world, build your own tools and fight monsters! <br><br><strong><u>This is a work in progress title! We are still actively developing it (This means it has bugs, but the features will grow and you can take part in the developing process by posting your ideas)</u><strong><h2 class=\"bb_tag\">World</h2><strong>Complete Dynamic World</strong><br>Everything you see in the world can be changed! The blocks are much smaller and complexer than in other games!<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/343320/extras/screenshot38.2_480.jpg?t=1527246427\" ><br><strong>Fight Monsters</strong><br>With a state of art animation system every NPC moves smoothly through the landscape!<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/343320/extras/vlcsnap-error308_480.jpg?t=1527246427\" ><br><strong>Build Tools</strong><br>Use advanced build tools to create your own world. Objects can be composed by using of shapes, ramps, voxel blocks, transparent blocks, grate like textures, ...<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/343320/extras/343320screenshots00001_480.jpg?t=1527246427\" ><br><strong>Plant Simulation</strong><br>This game proves a complete plant simulation. You can collect seeds, grow your own plants and the harvest them<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/343320/extras/screenshot2_480.jpg?t=1527246427\" ><br><strong>Water Simulation</strong><br>The water is totally dynamic. It can be collected by the player and placed again.<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/343320/extras/screenshot0.3_480.jpg?t=1527246427\" ><h2 class=\"bb_tag\">Gameplay</h2><strong>Multiplayer</strong><br>This game has full multiplayer support. Use the custom made level editor to create custom maps for multiplayer.<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/343320/extras/editoruti_480.jpg?t=1527246427\" ><br><strong>Weapons</strong><br>Use a lots of different weapons to fight the monsters in single player mode or your opponents in the multiplayer mode!<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/343320/extras/weapon_480.jpg?t=1527246427\" ><br>Hint for parents: There is no blood in this game. You do not fight humans. And scary monsters like the zombie can be disabled in the settings. A peaceful mode is available. If you think that you need more features to protect your children, feel free to contact us, we will implement them!<h2 class=\"bb_tag\">Engine</h2><strong>High End Rendering Engine</strong><br>The engine supports HDR, Parallax Occlusion, Deferred Rendering, Animation Blending, Dynamic Lights, Voxel Rendering, Day and Night cycle, Particle Simulation, Water Effects, Motion Blur, ...<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/343320/extras/screenshot36.1_480.jpg?t=1527246427\" ><br><strong>Physic Engine</strong><br>We use the Bullet Physic Engine to create realistic physical behavior!<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/343320/extras/screenshot1.1_480.jpg?t=1527246427\" ><br><strong>Modding Support</strong><br>We use the Bullet Physic Engine to create realistic physical behavior!<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/343320/extras/editoruti2_480.jpg?t=1527246427\" ><h2 class=\"bb_tag\">Development Policy</h2>And last but not least our goal is it to be nice to the gamers. This means:<br><ul class=\"bb_ul\"><li> We will not break your maps when we release a new version of the game!<br></li><li> The mod support will also be backwards compatible. So if you write a mod for this game this will also work in future version!<br></li><li> We have a demo version. If you are unsure just try it out!</li></ul><h2 class=\"bb_tag\">Comprehensiv Feature List</h2><ul class=\"bb_ul\"><li> A C++ based game engine (we created our own engine)<br></li><li> Lua-based modding support (in progress)<br></li><li> Beta Multiplayer<br></li><li> Motion captured animations<br></li><li> Infinite Landscape<br></li><li> Create your own landscape via a heightmap and vegetation density map<br></li><li> Special multiplayer editor with which you can create maps!<br></li><li> A lot of different block types (see wiki)<br></li><li> Pregenerated landscape: You can start playing the game in seconds!<br></li><li> Special shapes: Cylinder, Ramp, Arch, ...<br></li><li> Torches, lamps, camp fires (with dynamic shadows)<br></li><li> Chests<br></li><li> Doors<br></li><li> Boat<br></li><li> Water simulation<br></li><li> Electric wires (LEDs, buttons, ...)<br></li><li> Growing of plants and trees<br></li><li> A bed<br></li><li> Weapons (stick, sword, pistole, machine gun, grenade launcher, shotgun, sniper rifle)<br></li><li> A lot of different monsters: bears, zombies, wolves, sheeps, red deer, spiders, monkeys<br></li><li> Dungeons: natural and man made.<br></li><li> Dungeons with monsters, chests and furniture<br></li><li> Ruins<br></li><li> 3D scanned stones<br></li><li> Grids<br></li><li> Paintings<br></li><li> Signs<br></li><li> Different types of landscapes<br></li><li> Caves<br></li><li> Ruins<br></li><li> Fire simulation<br></li><li> Heat simulation<br></li><li> Crafting via recipes<br></li><li> Voxel renderer<br></li><li> Deferred Rendering System<br></li><li> HDR Renderer<br></li><li> High End Animation System<br></li><li> Bullet Physic Engine<br></li><li> In-Game Entity Editor<br></li><li> Day and night cycle<br></li><li> Sky rendering system (physically correct)<br></li><li> Master of materials (some blocks have submaterials)<br></li><li> And of course such things as loading and saving do work. You can also die in the game, there is an inventory. When you die you will drop your backpack.</li></ul><br>What we are planning:<br><br><ul class=\"bb_ul\"><li> Top-Research Level AI System, which will create cities, npc and a complete dynamic world!<br></li><li> Full-World Simulation: No more culling! A complete world with thousands of active NPC's is simulated. <br></li><li> Faster update (we want to be abled to drive with a car in the game)<br></li><li> Electronics: CPU, Keyboard, LCD<br></li><li> Even better mod support, documentation<br></li><li> Cars and other vehicles<br></li><li> Automatic generated buildings and better ruins<br></li><li> Train / Minecart<br></li><li> Automatic generated quests<br></li><li> Multiplayer modes: Capture the Flag, Conquest, Team Deathmatch<br></li><li> When the graphics cards support it, we will use real-time raytracing!</li></ul><br>If you unsure just check out the demo!</strong></strong>",
+            "about_the_game": "An open world sandbox game and a testbed for AI research.<br>Explore the world, build your own tools and fight monsters! <br><br><strong><u>This is a work in progress title! We are still actively developing it (This means it has bugs, but the features will grow and you can take part in the developing process by posting your ideas)</u><strong><h2 class=\"bb_tag\">World</h2><strong>Complete Dynamic World</strong><br>Everything you see in the world can be changed! The blocks are much smaller and complexer than in other games!<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/343320/extras/screenshot38.2_480.jpg?t=1527246427\" ><br><strong>Fight Monsters</strong><br>With a state of art animation system every NPC moves smoothly through the landscape!<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/343320/extras/vlcsnap-error308_480.jpg?t=1527246427\" ><br><strong>Build Tools</strong><br>Use advanced build tools to create your own world. Objects can be composed by using of shapes, ramps, voxel blocks, transparent blocks, grate like textures, ...<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/343320/extras/343320screenshots00001_480.jpg?t=1527246427\" ><br><strong>Plant Simulation</strong><br>This game proves a complete plant simulation. You can collect seeds, grow your own plants and the harvest them<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/343320/extras/screenshot2_480.jpg?t=1527246427\" ><br><strong>Water Simulation</strong><br>The water is totally dynamic. It can be collected by the player and placed again.<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/343320/extras/screenshot0.3_480.jpg?t=1527246427\" ><h2 class=\"bb_tag\">Gameplay</h2><strong>Multiplayer</strong><br>This game has full multiplayer support. Use the custom made level editor to create custom maps for multiplayer.<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/343320/extras/editoruti_480.jpg?t=1527246427\" ><br><strong>Weapons</strong><br>Use a lots of different weapons to fight the monsters in single player mode or your opponents in the multiplayer mode!<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/343320/extras/weapon_480.jpg?t=1527246427\" ><br>Hint for parents: There is no blood in this game. You do not fight humans. And scary monsters like the zombie can be disabled in the settings. A peaceful mode is available. If you think that you need more features to protect your children, feel free to contact us, we will implement them!<h2 class=\"bb_tag\">Engine</h2><strong>High End Rendering Engine</strong><br>The engine supports HDR, Parallax Occlusion, Deferred Rendering, Animation Blending, Dynamic Lights, Voxel Rendering, Day and Night cycle, Particle Simulation, Water Effects, Motion Blur, ...<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/343320/extras/screenshot36.1_480.jpg?t=1527246427\" ><br><strong>Physic Engine</strong><br>We use the Bullet Physic Engine to create realistic physical behavior!<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/343320/extras/screenshot1.1_480.jpg?t=1527246427\" ><br><strong>Modding Support</strong><br>We use the Bullet Physic Engine to create realistic physical behavior!<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/343320/extras/editoruti2_480.jpg?t=1527246427\" ><h2 class=\"bb_tag\">Development Policy</h2>And last but not least our goal is it to be nice to the gamers. This means:<br><ul class=\"bb_ul\"><li> We will not break your maps when we release a new version of the game!<br></li><li> The mod support will also be backwards compatible. So if you write a mod for this game this will also work in future version!<br></li><li> We have a demo version. If you are unsure just try it out!</li></ul><h2 class=\"bb_tag\">Comprehensiv Feature List</h2><ul class=\"bb_ul\"><li> A C++ based game engine (we created our own engine)<br></li><li> Lua-based modding support (in progress)<br></li><li> Beta Multiplayer<br></li><li> Motion captured animations<br></li><li> Infinite Landscape<br></li><li> Create your own landscape via a heightmap and vegetation density map<br></li><li> Special multiplayer editor with which you can create maps!<br></li><li> A lot of different block types (see wiki)<br></li><li> Pregenerated landscape: You can start playing the game in seconds!<br></li><li> Special shapes: Cylinder, Ramp, Arch, ...<br></li><li> Torches, lamps, camp fires (with dynamic shadows)<br></li><li> Chests<br></li><li> Doors<br></li><li> Boat<br></li><li> Water simulation<br></li><li> Electric wires (LEDs, buttons, ...)<br></li><li> Growing of plants and trees<br></li><li> A bed<br></li><li> Weapons (stick, sword, pistole, machine gun, grenade launcher, shotgun, sniper rifle)<br></li><li> A lot of different monsters: bears, zombies, wolves, sheeps, red deer, spiders, monkeys<br></li><li> Dungeons: natural and man made.<br></li><li> Dungeons with monsters, chests and furniture<br></li><li> Ruins<br></li><li> 3D scanned stones<br></li><li> Grids<br></li><li> Paintings<br></li><li> Signs<br></li><li> Different types of landscapes<br></li><li> Caves<br></li><li> Ruins<br></li><li> Fire simulation<br></li><li> Heat simulation<br></li><li> Crafting via recipes<br></li><li> Voxel renderer<br></li><li> Deferred Rendering System<br></li><li> HDR Renderer<br></li><li> High End Animation System<br></li><li> Bullet Physic Engine<br></li><li> In-Game Entity Editor<br></li><li> Day and night cycle<br></li><li> Sky rendering system (physically correct)<br></li><li> Master of materials (some blocks have submaterials)<br></li><li> And of course such things as loading and saving do work. You can also die in the game, there is an inventory. When you die you will drop your backpack.</li></ul><br>What we are planning:<br><br><ul class=\"bb_ul\"><li> Top-Research Level AI System, which will create cities, npc and a complete dynamic world!<br></li><li> Full-World Simulation: No more culling! A complete world with thousands of active NPC's is simulated. <br></li><li> Faster update (we want to be abled to drive with a car in the game)<br></li><li> Electronics: CPU, Keyboard, LCD<br></li><li> Even better mod support, documentation<br></li><li> Cars and other vehicles<br></li><li> Automatic generated buildings and better ruins<br></li><li> Train / Minecart<br></li><li> Automatic generated quests<br></li><li> Multiplayer modes: Capture the Flag, Conquest, Team Deathmatch<br></li><li> When the graphics cards support it, we will use real-time raytracing!</li></ul><br>If you unsure just check out the demo!</strong></strong>",
+            "short_description": "Welcome to StaudSoft's Synthetic World Beta! It allows you via a seed to create a unique landscape with mountains, oceans, trees and beaches. Although it looks like a normal game engine, everything in the game is based on voxels. So everything you see can be changed. You can cut down trees, build a house or dig into the ground!",
+            "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/343320/header.jpg?t=1527246427",
+            "website": "http://www.staudsoft.com",
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP 32Bit , Windows Vista, Windows 7, Windows 8 (32Bit or 64Bit)<br></li><li><strong>Processor:</strong> 2 Ghz (Dual-Core)<br></li><li><strong>Memory:</strong> 2048 MB RAM<br></li><li><strong>Graphics:</strong> OpenGL® 1.4 Compatible Graphics Card<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 4096 MB available space<br></li><li><strong>Sound Card:</strong> OpenAL Compatible Sound Card<br></li><li><strong>Additional Notes:</strong> If you are unsure if your pc meets the requirement checkout the demo.</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows Vista, Windows 7, Windows 8 (64Bit)<br></li><li><strong>Processor:</strong> Intel Core i5-2430M 2.4 Ghz<br></li><li><strong>Memory:</strong> 4096 MB RAM<br></li><li><strong>Graphics:</strong> OpenGL® 2.0  Compatible Graphics Card<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 8192 MB available space<br></li><li><strong>Sound Card:</strong> OpenAL Compatible Sound Card<br></li><li><strong>Additional Notes:</strong> If you are unsure if your pc meets the requirement checkout the demo.</li></ul>"
+            },
+            "mac_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OS X 10.9, 10.10, not OS X 10.11<br></li><li><strong>Processor:</strong> Intel Core i5<br></li><li><strong>Memory:</strong> 4096 MB RAM<br></li><li><strong>Graphics:</strong> NVIDIA® GeForce GT 750 M<br></li><li><strong>Storage:</strong> 4096 MB available space</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OS X 10.9, 10.10, not OS X 10.11<br></li><li><strong>Processor:</strong> Intel Core i5<br></li><li><strong>Memory:</strong> 4096 MB RAM<br></li><li><strong>Graphics:</strong> NVIDIA® GeForce GT 750 M<br></li><li><strong>Storage:</strong> 8192 MB available space</li></ul>"
+            },
+            "linux_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 12.04 LTS<br></li><li><strong>Processor:</strong> 2 Ghz (Dual-Core)<br></li><li><strong>Memory:</strong> 2048 MB RAM<br></li><li><strong>Graphics:</strong> OpenGL® 1.4 Compatible Graphics Card<br></li><li><strong>Storage:</strong> 4096 MB available space<br></li><li><strong>Sound Card:</strong> OpenAL Compatible Sound Card</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 14.04 LTS<br></li><li><strong>Processor:</strong> Intel Core i5-2430M 2.4 Ghz<br></li><li><strong>Memory:</strong> 4096 MB RAM<br></li><li><strong>Graphics:</strong> OpenGL® 2.0  Compatible Graphics Card<br></li><li><strong>Storage:</strong> 8192 MB available space<br></li><li><strong>Sound Card:</strong> OpenAL Compatible Sound Card</li></ul>"
+            },
+            "developers": [
+                "StaudSoft"
+            ],
+            "publishers": [
+                "StaudSoft"
+            ],
+            "demos": [
+                {
+                    "appid": 344920,
+                    "description": ""
+                }
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 799,
+                "final": 799,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "7,99€"
+            },
+            "packages": [
+                58194
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy StaudSoft's Synthetic World Beta",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 58194,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "StaudSoft's Synthetic World - 7,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 799
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": true,
+                "linux": true
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 1,
+                    "description": "Multi-player"
+                },
+                {
+                    "id": 37,
+                    "description": "Local Multi-Player"
+                },
+                {
+                    "id": 27,
+                    "description": "Cross-Platform Multiplayer"
+                },
+                {
+                    "id": 17,
+                    "description": "Includes level editor"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "1",
+                    "description": "Action"
+                },
+                {
+                    "id": "23",
+                    "description": "Indie"
+                },
+                {
+                    "id": "3",
+                    "description": "RPG"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/343320/ss_2f7a75915f83643e89e64d9dfe7d7102458bef10.600x338.jpg?t=1527246427",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/343320/ss_2f7a75915f83643e89e64d9dfe7d7102458bef10.1920x1080.jpg?t=1527246427"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/343320/ss_419f24725a145b1aeeb6c152ba602928c908e6a8.600x338.jpg?t=1527246427",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/343320/ss_419f24725a145b1aeeb6c152ba602928c908e6a8.1920x1080.jpg?t=1527246427"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/343320/ss_354a76d6d680da5f70723b6d6d0ee906489d9b0a.600x338.jpg?t=1527246427",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/343320/ss_354a76d6d680da5f70723b6d6d0ee906489d9b0a.1920x1080.jpg?t=1527246427"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/343320/ss_559f4c3fc5b42492ee78040bbf57f5686e23d3b4.600x338.jpg?t=1527246427",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/343320/ss_559f4c3fc5b42492ee78040bbf57f5686e23d3b4.1920x1080.jpg?t=1527246427"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/343320/ss_a39266a7c56a62b7a2dc25d76411bab516d7a85a.600x338.jpg?t=1527246427",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/343320/ss_a39266a7c56a62b7a2dc25d76411bab516d7a85a.1920x1080.jpg?t=1527246427"
+                },
+                {
+                    "id": 5,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/343320/ss_32be2b7660750f7476c5cb8339690ccf41ad1ef9.600x338.jpg?t=1527246427",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/343320/ss_32be2b7660750f7476c5cb8339690ccf41ad1ef9.1920x1080.jpg?t=1527246427"
+                },
+                {
+                    "id": 6,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/343320/ss_afd4a9f4a3594b343ec1ebf6984c52f28c53ce57.600x338.jpg?t=1527246427",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/343320/ss_afd4a9f4a3594b343ec1ebf6984c52f28c53ce57.1920x1080.jpg?t=1527246427"
+                },
+                {
+                    "id": 7,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/343320/ss_0ed2e489ca5aa5c6c941bf3ff22d9166707507aa.600x338.jpg?t=1527246427",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/343320/ss_0ed2e489ca5aa5c6c941bf3ff22d9166707507aa.1920x1080.jpg?t=1527246427"
+                },
+                {
+                    "id": 8,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/343320/ss_45395dbd6a0178f0de48a68dc68b79edcd284d78.600x338.jpg?t=1527246427",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/343320/ss_45395dbd6a0178f0de48a68dc68b79edcd284d78.1920x1080.jpg?t=1527246427"
+                },
+                {
+                    "id": 9,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/343320/ss_5d51fee774feb8200a3a37bf3e5be405c92333ba.600x338.jpg?t=1527246427",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/343320/ss_5d51fee774feb8200a3a37bf3e5be405c92333ba.1920x1080.jpg?t=1527246427"
+                },
+                {
+                    "id": 10,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/343320/ss_d638ebb4d80191e68b3b04f2323e070e25ae0090.600x338.jpg?t=1527246427",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/343320/ss_d638ebb4d80191e68b3b04f2323e070e25ae0090.1920x1080.jpg?t=1527246427"
+                },
+                {
+                    "id": 11,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/343320/ss_1b77789c8ece78f85700eb696ce83cf5957616ac.600x338.jpg?t=1527246427",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/343320/ss_1b77789c8ece78f85700eb696ce83cf5957616ac.1920x1080.jpg?t=1527246427"
+                },
+                {
+                    "id": 12,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/343320/ss_8156cff57659d022e790c2e5000752197d23d371.600x338.jpg?t=1527246427",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/343320/ss_8156cff57659d022e790c2e5000752197d23d371.1920x1080.jpg?t=1527246427"
+                },
+                {
+                    "id": 13,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/343320/ss_0d9f16fb8232276014e8114a022a976cf7f2d6f5.600x338.jpg?t=1527246427",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/343320/ss_0d9f16fb8232276014e8114a022a976cf7f2d6f5.1920x1080.jpg?t=1527246427"
+                },
+                {
+                    "id": 14,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/343320/ss_c2883449b12c66ce9bdd19d73047338595df3ea0.600x338.jpg?t=1527246427",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/343320/ss_c2883449b12c66ce9bdd19d73047338595df3ea0.1920x1080.jpg?t=1527246427"
+                },
+                {
+                    "id": 15,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/343320/ss_e5b0bd02659d65dfea91774987105c7c5232aa34.600x338.jpg?t=1527246427",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/343320/ss_e5b0bd02659d65dfea91774987105c7c5232aa34.1920x1080.jpg?t=1527246427"
+                },
+                {
+                    "id": 16,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/343320/ss_b3d39c27f2a44bd79d46bfe0c979a5f4195a46a6.600x338.jpg?t=1527246427",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/343320/ss_b3d39c27f2a44bd79d46bfe0c979a5f4195a46a6.1920x1080.jpg?t=1527246427"
+                },
+                {
+                    "id": 17,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/343320/ss_583e2cdb2a6f2a046ee0dd17d5b0bbbacd9172f8.600x338.jpg?t=1527246427",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/343320/ss_583e2cdb2a6f2a046ee0dd17d5b0bbbacd9172f8.1920x1080.jpg?t=1527246427"
+                },
+                {
+                    "id": 18,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/343320/ss_c57a60607309157ca81557fc0846131ba2b864d5.600x338.jpg?t=1527246427",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/343320/ss_c57a60607309157ca81557fc0846131ba2b864d5.1920x1080.jpg?t=1527246427"
+                },
+                {
+                    "id": 19,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/343320/ss_0948ca8cd26193747e84fe787e512ce314e78b9f.600x338.jpg?t=1527246427",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/343320/ss_0948ca8cd26193747e84fe787e512ce314e78b9f.1920x1080.jpg?t=1527246427"
+                },
+                {
+                    "id": 20,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/343320/ss_e21e3cf97eea7c301875775086f08a2ae144f369.600x338.jpg?t=1527246427",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/343320/ss_e21e3cf97eea7c301875775086f08a2ae144f369.1920x1080.jpg?t=1527246427"
+                },
+                {
+                    "id": 21,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/343320/ss_6c82cd9cd437c27abe966a02dfecb570fe559abd.600x338.jpg?t=1527246427",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/343320/ss_6c82cd9cd437c27abe966a02dfecb570fe559abd.1920x1080.jpg?t=1527246427"
+                },
+                {
+                    "id": 22,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/343320/ss_4fd7994dc0d17bf6d0c38f20e0f1ac4fa18b673d.600x338.jpg?t=1527246427",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/343320/ss_4fd7994dc0d17bf6d0c38f20e0f1ac4fa18b673d.1920x1080.jpg?t=1527246427"
+                },
+                {
+                    "id": 23,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/343320/ss_c9965fc10c78921a7221225231beb264c7709f32.600x338.jpg?t=1527246427",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/343320/ss_c9965fc10c78921a7221225231beb264c7709f32.1920x1080.jpg?t=1527246427"
+                },
+                {
+                    "id": 24,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/343320/ss_94d73faa55a448889400c5ad13c2c55f89d78c06.600x338.jpg?t=1527246427",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/343320/ss_94d73faa55a448889400c5ad13c2c55f89d78c06.1920x1080.jpg?t=1527246427"
+                },
+                {
+                    "id": 25,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/343320/ss_f224fdee317abfd9fe3ebffc7a35d0ed23355e1a.600x338.jpg?t=1527246427",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/343320/ss_f224fdee317abfd9fe3ebffc7a35d0ed23355e1a.1920x1080.jpg?t=1527246427"
+                },
+                {
+                    "id": 26,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/343320/ss_fe7150569bf11aab0066713da0642daacfdb7b7b.600x338.jpg?t=1527246427",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/343320/ss_fe7150569bf11aab0066713da0642daacfdb7b7b.1920x1080.jpg?t=1527246427"
+                },
+                {
+                    "id": 27,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/343320/ss_e3152e7be2693097b76aca74672fe7d3729b798a.600x338.jpg?t=1527246427",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/343320/ss_e3152e7be2693097b76aca74672fe7d3729b798a.1920x1080.jpg?t=1527246427"
+                },
+                {
+                    "id": 28,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/343320/ss_c089aecee45caefa7f33670fff0dd17ac3f68566.600x338.jpg?t=1527246427",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/343320/ss_c089aecee45caefa7f33670fff0dd17ac3f68566.1920x1080.jpg?t=1527246427"
+                },
+                {
+                    "id": 29,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/343320/ss_8f2b5deb6b0879867012b6427910a8ff641142f9.600x338.jpg?t=1527246427",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/343320/ss_8f2b5deb6b0879867012b6427910a8ff641142f9.1920x1080.jpg?t=1527246427"
+                },
+                {
+                    "id": 30,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/343320/ss_b1a305231b6e14cfe3ad74483c9ce6ee02961f70.600x338.jpg?t=1527246427",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/343320/ss_b1a305231b6e14cfe3ad74483c9ce6ee02961f70.1920x1080.jpg?t=1527246427"
+                },
+                {
+                    "id": 31,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/343320/ss_b7e25beb3a80f9a16bd287f6f2d1e1c83f34f08a.600x338.jpg?t=1527246427",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/343320/ss_b7e25beb3a80f9a16bd287f6f2d1e1c83f34f08a.1920x1080.jpg?t=1527246427"
+                },
+                {
+                    "id": 32,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/343320/ss_6b8b947abc1607654f80b7f19e34c991754fe141.600x338.jpg?t=1527246427",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/343320/ss_6b8b947abc1607654f80b7f19e34c991754fe141.1920x1080.jpg?t=1527246427"
+                },
+                {
+                    "id": 33,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/343320/ss_bfdde49a42e66a7e216c0ebf2cdd5e01ce957f16.600x338.jpg?t=1527246427",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/343320/ss_bfdde49a42e66a7e216c0ebf2cdd5e01ce957f16.1920x1080.jpg?t=1527246427"
+                },
+                {
+                    "id": 34,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/343320/ss_1531f7ad0de053515fd670d3338e1633be5d94d6.600x338.jpg?t=1527246427",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/343320/ss_1531f7ad0de053515fd670d3338e1633be5d94d6.1920x1080.jpg?t=1527246427"
+                },
+                {
+                    "id": 35,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/343320/ss_b575b79c94575734f7d57e8ca1af82afd412278b.600x338.jpg?t=1527246427",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/343320/ss_b575b79c94575734f7d57e8ca1af82afd412278b.1920x1080.jpg?t=1527246427"
+                },
+                {
+                    "id": 36,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/343320/ss_b6b48e11ecb2399bcab959e570193ad581e9ba35.600x338.jpg?t=1527246427",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/343320/ss_b6b48e11ecb2399bcab959e570193ad581e9ba35.1920x1080.jpg?t=1527246427"
+                },
+                {
+                    "id": 37,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/343320/ss_10a5d6be5004984065e4d8d53665cffc17ded612.600x338.jpg?t=1527246427",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/343320/ss_10a5d6be5004984065e4d8d53665cffc17ded612.1920x1080.jpg?t=1527246427"
+                },
+                {
+                    "id": 38,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/343320/ss_69f8e0b0d2e3e39322246487be33673101de704f.600x338.jpg?t=1527246427",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/343320/ss_69f8e0b0d2e3e39322246487be33673101de704f.1920x1080.jpg?t=1527246427"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 2036678,
+                    "name": "Synthetic World Trailer",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/2036678/movie.293x165.jpg?t=1447367804",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/2036678/movie480.webm?t=1447367804",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/2036678/movie_max.webm?t=1447367804"
+                    },
+                    "highlight": true
+                }
+            ],
+            "achievements": {
+                "total": 0
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "9 Feb, 2015"
+            },
+            "support_info": {
+                "url": "http://www.staudsoft.com",
+                "email": "info@staudsoft.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/343320/page_bg_generated_v6b.jpg?t=1527246427",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

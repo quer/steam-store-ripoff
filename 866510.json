@@ -1,0 +1,237 @@
+{
+    "866510": {
+        "success": true,
+        "data": {
+            "type": "game",
+            "name": "!AnyWay!",
+            "steam_appid": 866510,
+            "required_age": 0,
+            "is_free": false,
+            "dlc": [
+                873380,
+                867990,
+                872500,
+                881840,
+                881841,
+                890850,
+                890980,
+                891030,
+                891031,
+                891033,
+                891035,
+                896541,
+                896542
+            ],
+            "detailed_description": "<h1>Steam Trading Cards!</h1><p>You can get Steam Trading Cards right now!<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/866510/extras/stc3.png?t=1547733846\" ></p><br><h1>About the Game</h1><h2 class=\"bb_tag\"><strong>Let's Return to Our Past!</strong></h2>An unusual world for an unusual person. Attempts of scientists to recreate the time machine lost after unsuccessful tests turned into a failure! The protagonist Joy, got into the times of retro vision! <br><ul class=\"bb_ul\"><li> <strong>5000 achievements</strong><br></li><li> Hard parkour<br></li><li> More than 10 hard levels<br></li><li> A few secrets<br></li><li> Two free characters and four paid<br></li><li> The game is translated into 8 languages</li></ul>So why do not you come and experience the torment of Joy?",
+            "about_the_game": "<h2 class=\"bb_tag\"><strong>Let's Return to Our Past!</strong></h2>An unusual world for an unusual person. Attempts of scientists to recreate the time machine lost after unsuccessful tests turned into a failure! The protagonist Joy, got into the times of retro vision! <br><ul class=\"bb_ul\"><li> <strong>5000 achievements</strong><br></li><li> Hard parkour<br></li><li> More than 10 hard levels<br></li><li> A few secrets<br></li><li> Two free characters and four paid<br></li><li> The game is translated into 8 languages</li></ul>So why do not you come and experience the torment of Joy?",
+            "short_description": "Do you like parkour? Dashing retro times? AnyWay! Try yourself on an unsuccessful journey in the role of Joy, feel the burden of parkour! A small, but exciting adventure Joy will not make you relax, not for you, not for your friends!",
+            "supported_languages": "English, Russian, French, Italian, German, Polish, Ukrainian, Swedish, Simplified Chinese",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/866510/header.jpg?t=1547733846",
+            "website": null,
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong> Core 2 duo<br></li><li><strong>Memory:</strong> 150 MB RAM<br></li><li><strong>Graphics:</strong> HD Graphics<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 100 MB available space<br></li><li><strong>Additional Notes:</strong> On the Core 2 Duo processor, you can also use the level editor. With this configuration, the game can loading for a long time.</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> i5 3570 // For Level Editor: 8th Generation Intel® Core ™ i7 Processors or  AMD Ryzen™ 7 Desktop Processors<br></li><li><strong>Memory:</strong> 200 MB RAM<br></li><li><strong>Graphics:</strong> HD Graphics or better<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 110 MB available space<br></li><li><strong>Additional Notes:</strong> On the Core 2 Duo processor, you can also use the level editor</li></ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "developers": [
+                "GQG DEVELOPER",
+                "SGS"
+            ],
+            "publishers": [
+                "GQG PUBLISHER"
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 159,
+                "final": 49,
+                "discount_percent": 69,
+                "initial_formatted": "1,59€",
+                "final_formatted": "0,49€"
+            },
+            "packages": [
+                273339,
+                307976
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy !AnyWay!",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 273339,
+                            "percent_savings_text": "-69%",
+                            "percent_savings": 0,
+                            "option_text": "!AnyWay! - <span class=\"discount_original_price\">1,59€</span> 0,49€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 49
+                        },
+                        {
+                            "packageid": 307976,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "!Anyway! - Commercial License - 1,59€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 159
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 22,
+                    "description": "Steam Achievements"
+                },
+                {
+                    "id": 29,
+                    "description": "Steam Trading Cards"
+                },
+                {
+                    "id": 18,
+                    "description": "Partial Controller Support"
+                },
+                {
+                    "id": 23,
+                    "description": "Steam Cloud"
+                },
+                {
+                    "id": 15,
+                    "description": "Stats"
+                },
+                {
+                    "id": 25,
+                    "description": "Steam Leaderboards"
+                },
+                {
+                    "id": 17,
+                    "description": "Includes level editor"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "25",
+                    "description": "Adventure"
+                },
+                {
+                    "id": "23",
+                    "description": "Indie"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/866510/ss_3b25177a94db2f71dc55d99861b9cfb82b12fbf1.600x338.jpg?t=1547733846",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/866510/ss_3b25177a94db2f71dc55d99861b9cfb82b12fbf1.1920x1080.jpg?t=1547733846"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/866510/ss_512d5882dbdcf6530460ce596af78ef07658de01.600x338.jpg?t=1547733846",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/866510/ss_512d5882dbdcf6530460ce596af78ef07658de01.1920x1080.jpg?t=1547733846"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/866510/ss_a383d2f4dccd44c37f2603c8b2ad3d57d4d64b88.600x338.jpg?t=1547733846",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/866510/ss_a383d2f4dccd44c37f2603c8b2ad3d57d4d64b88.1920x1080.jpg?t=1547733846"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/866510/ss_53c44d62607b60569e01379b80c297bb0dcd8c14.600x338.jpg?t=1547733846",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/866510/ss_53c44d62607b60569e01379b80c297bb0dcd8c14.1920x1080.jpg?t=1547733846"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/866510/ss_0c1a904663e2a48fb99443b05d565f48343c6a17.600x338.jpg?t=1547733846",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/866510/ss_0c1a904663e2a48fb99443b05d565f48343c6a17.1920x1080.jpg?t=1547733846"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 256719103,
+                    "name": "AnyWay!",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256719103/movie.293x165.jpg?t=1528301633",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256719103/movie480.webm?t=1528301633",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256719103/movie_max.webm?t=1528301633"
+                    },
+                    "highlight": true
+                }
+            ],
+            "achievements": {
+                "total": 4997,
+                "highlighted": [
+                    {
+                        "name": "Achievement 1",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/866510/662a0ee3bfde883b39631cc3dc8c1743115dfd1d.jpg"
+                    },
+                    {
+                        "name": "Achievement 2",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/866510/96b82abae046ef5aebf8e50eac0e48b611f5f4d2.jpg"
+                    },
+                    {
+                        "name": "Achievement 3",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/866510/9d08e1387e465215735939fc802e50633804f3d0.jpg"
+                    },
+                    {
+                        "name": "Achievement 4",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/866510/449b082dc9d1e8eb43c5fd32673987dd0655900e.jpg"
+                    },
+                    {
+                        "name": "Achievement 5",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/866510/ca71f6bbcec09f53636ede78043c4bc7693e79ef.jpg"
+                    },
+                    {
+                        "name": "Achievement 6",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/866510/9fe07326e782934777e6315b4f656e50a062cd64.jpg"
+                    },
+                    {
+                        "name": "Achievement 7",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/866510/4f0bfde41d4c9f7d059761848ce22e3d3bea340a.jpg"
+                    },
+                    {
+                        "name": "Achievement 8",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/866510/48e6ffab2e9cadb9557564194754996a54063945.jpg"
+                    },
+                    {
+                        "name": "Achievement 9",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/866510/645ed880f7754f0822384f8c7cd11fcc737362ae.jpg"
+                    },
+                    {
+                        "name": "Achievement 10",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/866510/588369c8baf4decdd1d149ca802e4557e58ed764.jpg"
+                    }
+                ]
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "6 Jun, 2018"
+            },
+            "support_info": {
+                "url": "",
+                "email": "sassygamesstudio@gmail.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/866510/page_bg_generated_v6b.jpg?t=1547733846",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

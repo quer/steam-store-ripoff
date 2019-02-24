@@ -1,0 +1,110 @@
+{
+    "407080": {
+        "success": true,
+        "data": {
+            "type": "dlc",
+            "name": "3DMark API Overhead feature test",
+            "steam_appid": 407080,
+            "required_age": 0,
+            "is_free": true,
+            "detailed_description": "<h2 class=\"bb_tag\">API Overhead feature test</h2><ul class=\"bb_ul\"><li>Compare API performance on your PC<br></li><li>Test Vulkan, DirectX 12 and DirectX 11</li></ul>",
+            "about_the_game": "<h2 class=\"bb_tag\">API Overhead feature test</h2><ul class=\"bb_ul\"><li>Compare API performance on your PC<br></li><li>Test Vulkan, DirectX 12 and DirectX 11</li></ul>",
+            "short_description": "Compare the performance of Vulkan, DirectX 12, and DirectX 11. How many draw calls can your PC handle before the frame rate drops below 30 fps?",
+            "fullgame": {
+                "appid": "223850",
+                "name": "3DMark"
+            },
+            "supported_languages": "English, German, Simplified Chinese, Russian, Spanish - Spain, Japanese, Korean",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/407080/header.jpg?t=1529575066",
+            "website": "https://benchmarks.ul.com/3dmark",
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>Windows Vista 64-bit*<br>\t</li><li><strong>Processor:</strong>1.8 GHz dual-core<br>\t</li><li><strong>Memory:</strong>4 GB RAM<br>\t</li><li><strong>Video card memory:</strong>1 GB<br>\t</li><li><strong>Graphics:</strong>DirectX 11, DirectX 12 or Mantle<br>\t</li><li><strong>Storage:</strong>6 GB free space</li></ul><br>* API Overhead feature test requires a 64-bit version of Windows. Windows 7 users must install Service Pack 1. Windows Vista users must install Service Pack 2 and the DirectX 11 platform update.",
+                "recommended": "<strong>Testing DirectX 12</strong><br>The DirectX 12 part of the API Overhead feature test requires Windows 10, graphics hardware that supports DirectX 12, and the appropriate drivers. DirectX 12 is not yet supported on all DirectX 11 level hardware. Check with your video hardware vendor for the latest drivers. The API Overhead feature test does not yet support multi-GPU systems, and you may need to disable Crossfire/SLI. Close other apps that tie into the DirectX stack, for example applications like FRAPS that draw overlays. Apps that are not compatible with DirectX 12 will prevent the test from running."
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "developers": [
+                "UL"
+            ],
+            "publishers": [
+                "UL"
+            ],
+            "packages": [
+                323175
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy 3DMark API Overhead feature test",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 323175,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "3DMark - 24,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 2499
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 21,
+                    "description": "Downloadable Content"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "57",
+                    "description": "Utilities"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/407080/ss_8a77e74cd43fe1ab3e04cb5085587fc87943ea0d.600x338.jpg?t=1529575066",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/407080/ss_8a77e74cd43fe1ab3e04cb5085587fc87943ea0d.1920x1080.jpg?t=1529575066"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/407080/ss_86649dc445a012c3c618314893557ded2292728c.600x338.jpg?t=1529575066",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/407080/ss_86649dc445a012c3c618314893557ded2292728c.1920x1080.jpg?t=1529575066"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/407080/ss_61ae28d5a75a8f90547423f317eecc9b704f5a98.600x338.jpg?t=1529575066",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/407080/ss_61ae28d5a75a8f90547423f317eecc9b704f5a98.1920x1080.jpg?t=1529575066"
+                }
+            ],
+            "achievements": {
+                "total": 0
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "18 Dec, 2015"
+            },
+            "support_info": {
+                "url": "https://benchmarks.ul.com/support",
+                "email": ""
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/407080/page_bg_generated_v6b.jpg?t=1529575066",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

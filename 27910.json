@@ -1,0 +1,72 @@
+{
+    "27910": {
+        "success": true,
+        "data": {
+            "type": "demo",
+            "name": "Twin Sector Demo",
+            "steam_appid": 27910,
+            "required_age": 0,
+            "is_free": true,
+            "detailed_description": "",
+            "about_the_game": "",
+            "short_description": "",
+            "fullgame": {
+                "appid": "27900",
+                "name": "Twin Sector"
+            },
+            "supported_languages": "English, French, German, Italian, Spanish - Spain",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/27910/header.jpg?t=1447352489",
+            "website": null,
+            "pc_requirements": {
+                "minimum": "\n\t\t\t\t<ul>\n\t\t\t\t<li><strong>OS:</strong> Windows XP Sp3, Windows Vista Sp2 </li>\n\t\t\t\t<li><strong>Processor:</strong> 2.4 ghz multicore recommended</li>\n\t\t\t\t<li><strong>Memory:</strong> 1.0 GB or more</li>\n\t\t\t\t<li><strong>Graphics:</strong> 256 MB, Shader model 2.0, ATI 9600, NVidia 6600 or better, recommended Shader model 3.0</li>\n\t\t\t\t<li><strong>DirectX&reg;:</strong> 9.0c</li>\n\t\t\t\t<li><strong>Hard Drive:</strong> 3.5 GB</li>\n\t\t\t\t<li><strong>Sound:</strong> DirectX 9.0c compatible soundcard</li>\n\t\t\t\t</ul>\n\t\t\t\t"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "developers": [
+                "DnS Development"
+            ],
+            "publishers": [
+                "Headup Games"
+            ],
+            "package_groups": [],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 10,
+                    "description": "Game demo"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "1",
+                    "description": "Action"
+                },
+                {
+                    "id": "25",
+                    "description": "Adventure"
+                }
+            ],
+            "release_date": {
+                "coming_soon": false,
+                "date": "16 Sep, 2009"
+            },
+            "support_info": {
+                "url": "",
+                "email": ""
+            },
+            "background": "",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

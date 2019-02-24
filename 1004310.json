@@ -1,0 +1,250 @@
+{
+    "1004310": {
+        "success": true,
+        "data": {
+            "type": "game",
+            "name": "Maze 3D",
+            "steam_appid": 1004310,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "This is a 3D maze that looks more confusing than the 2D maze, so it's more challenging.<br />\r\n<br />\r\nThis maze is made up of many small balls. Blue represents the footing point and white indicates the path. In the normal mode, only the connected white ball can be used to go to another connected blue ball.<br />\r\nThe blue ball representing the starting point will be replaced with green, and the end point will be red, representing the player's current position is a larger green ball, the game goal is to go from the starting point to the end.<br />\r\n<br />\r\nThe range of the maze is a cube, so there are six directions, front, back, left, right, up and down.<br />\r\nThere will also be an orange arrow under the player's current position. When moving forward (w key), it will move to the orange arrow. The orange arrow will turn according to the game lens. Drag the right mouse button to change the game lens.<br />\r\n<br />\r\nThere are a total of 10 levels, 3 modes, 4 auxiliary functions.<br />\r\nThe level represents the length of the side of the maze, the minimum is 5, the maximum is 14, the larger the side length, the larger the cube (the range of the maze).<br />\r\nMode 1 is the normal mode, and only the connected white ball can be used to go to another connected blue ball.<br />\r\nMode 2 has the small white arrow that can be used to jump directly to the blue ball pointed by the connected white small arrow.<br />\r\nMode 3 has the Label pattern that can be used to transfer directly to another blue ball witch has the same color, pattern and layer of Label pattern.<br />\r\nThere are a total of 210 types of label patterns (3 levels, 7 colors, 10 shapes), which are randomly selected each time a maze is created.<br />\r\nThe four auxiliary functions are filtering, color changing, brightness and memory.<br />\r\n<br />\r\nThe game will randomly generate a maze when first play, and automatically load in next play.<br />\r\nYou can press &quot;Delete Record&quot; before playing, and you will re-generate the maze randomly when you start playing.<br />\r\nOr press &quot;random&quot; during the play to randomly generate the maze.",
+            "about_the_game": "This is a 3D maze that looks more confusing than the 2D maze, so it's more challenging.<br />\r\n<br />\r\nThis maze is made up of many small balls. Blue represents the footing point and white indicates the path. In the normal mode, only the connected white ball can be used to go to another connected blue ball.<br />\r\nThe blue ball representing the starting point will be replaced with green, and the end point will be red, representing the player's current position is a larger green ball, the game goal is to go from the starting point to the end.<br />\r\n<br />\r\nThe range of the maze is a cube, so there are six directions, front, back, left, right, up and down.<br />\r\nThere will also be an orange arrow under the player's current position. When moving forward (w key), it will move to the orange arrow. The orange arrow will turn according to the game lens. Drag the right mouse button to change the game lens.<br />\r\n<br />\r\nThere are a total of 10 levels, 3 modes, 4 auxiliary functions.<br />\r\nThe level represents the length of the side of the maze, the minimum is 5, the maximum is 14, the larger the side length, the larger the cube (the range of the maze).<br />\r\nMode 1 is the normal mode, and only the connected white ball can be used to go to another connected blue ball.<br />\r\nMode 2 has the small white arrow that can be used to jump directly to the blue ball pointed by the connected white small arrow.<br />\r\nMode 3 has the Label pattern that can be used to transfer directly to another blue ball witch has the same color, pattern and layer of Label pattern.<br />\r\nThere are a total of 210 types of label patterns (3 levels, 7 colors, 10 shapes), which are randomly selected each time a maze is created.<br />\r\nThe four auxiliary functions are filtering, color changing, brightness and memory.<br />\r\n<br />\r\nThe game will randomly generate a maze when first play, and automatically load in next play.<br />\r\nYou can press &quot;Delete Record&quot; before playing, and you will re-generate the maze randomly when you start playing.<br />\r\nOr press &quot;random&quot; during the play to randomly generate the maze.",
+            "short_description": "A cube maze, moving from green to red, can move forward, backward, left, right, up and down. A total of 10 levels, 3 modes, 4 auxiliary functions. The first game will randomly generate a maze, and automatically load in next play, or randomly generated again if you want.",
+            "supported_languages": "English, Traditional Chinese",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1004310/header.jpg?t=1547465707",
+            "website": null,
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Microsoft 64bit Windows 7<br></li><li><strong>Processor:</strong> 64bit Intel compatible Dual Core CPU<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> DX11 compliant graphics card<br></li><li><strong>Storage:</strong> 150 MB available space<br></li><li><strong>Sound Card:</strong> DirectSound compatible</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Microsoft 64bit Windows 7<br></li><li><strong>Processor:</strong> Intel Core i5, 3.2 GHz or faster<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> GeForce GTX 750 Ti or better<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 450 MB available space</li></ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "developers": [
+                "Jake Peng"
+            ],
+            "publishers": [
+                "Jake Peng"
+            ],
+            "price_overview": {
+                "currency": "USD",
+                "initial": 299,
+                "final": 299,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "$2.99"
+            },
+            "packages": [
+                332013
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Maze 3D",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 332013,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Maze 3D - $2.99",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 299
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 22,
+                    "description": "Steam Achievements"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "4",
+                    "description": "Casual"
+                },
+                {
+                    "id": "23",
+                    "description": "Indie"
+                },
+                {
+                    "id": "2",
+                    "description": "Strategy"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1004310/ss_4b3f7090a30ab2f76ce579d84436afbdaacc2510.600x338.jpg?t=1547465707",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1004310/ss_4b3f7090a30ab2f76ce579d84436afbdaacc2510.1920x1080.jpg?t=1547465707"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1004310/ss_96d850217117b67f4abf9dbe7d20fe7554f80988.600x338.jpg?t=1547465707",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1004310/ss_96d850217117b67f4abf9dbe7d20fe7554f80988.1920x1080.jpg?t=1547465707"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1004310/ss_5d29d22e105e35eeaa37ed3894e3345b2af9411e.600x338.jpg?t=1547465707",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1004310/ss_5d29d22e105e35eeaa37ed3894e3345b2af9411e.1920x1080.jpg?t=1547465707"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1004310/ss_661022c5575bcd861b8c36c1d2075c5ad761047f.600x338.jpg?t=1547465707",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1004310/ss_661022c5575bcd861b8c36c1d2075c5ad761047f.1920x1080.jpg?t=1547465707"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1004310/ss_45abc89df700725969a928ea471f0588e5410130.600x338.jpg?t=1547465707",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1004310/ss_45abc89df700725969a928ea471f0588e5410130.1920x1080.jpg?t=1547465707"
+                },
+                {
+                    "id": 5,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1004310/ss_6c2feba265706bb77f3c9fbebaf54b2cf4ea71d9.600x338.jpg?t=1547465707",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1004310/ss_6c2feba265706bb77f3c9fbebaf54b2cf4ea71d9.1920x1080.jpg?t=1547465707"
+                },
+                {
+                    "id": 6,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1004310/ss_347987960c8669c4edd3eee34db9838aadbc4c55.600x338.jpg?t=1547465707",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1004310/ss_347987960c8669c4edd3eee34db9838aadbc4c55.1920x1080.jpg?t=1547465707"
+                },
+                {
+                    "id": 7,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1004310/ss_c22909d10c1d6300435d4dd54697eee7b13aec33.600x338.jpg?t=1547465707",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1004310/ss_c22909d10c1d6300435d4dd54697eee7b13aec33.1920x1080.jpg?t=1547465707"
+                },
+                {
+                    "id": 8,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1004310/ss_2780830248abcdefa024994a2e2f394f3f8edfcf.600x338.jpg?t=1547465707",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1004310/ss_2780830248abcdefa024994a2e2f394f3f8edfcf.1920x1080.jpg?t=1547465707"
+                },
+                {
+                    "id": 9,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1004310/ss_eef87d26329241557f48baa19347a2645c7e9fa1.600x338.jpg?t=1547465707",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1004310/ss_eef87d26329241557f48baa19347a2645c7e9fa1.1920x1080.jpg?t=1547465707"
+                },
+                {
+                    "id": 10,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1004310/ss_dd394147d5b6f746116b2a6566e42d7196dab3bd.600x338.jpg?t=1547465707",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1004310/ss_dd394147d5b6f746116b2a6566e42d7196dab3bd.1920x1080.jpg?t=1547465707"
+                },
+                {
+                    "id": 11,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1004310/ss_c42909ad84b5e4636a55c1edb02067bfd4ebaa03.600x338.jpg?t=1547465707",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1004310/ss_c42909ad84b5e4636a55c1edb02067bfd4ebaa03.1920x1080.jpg?t=1547465707"
+                },
+                {
+                    "id": 12,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1004310/ss_580e3528d8a214a22813fe33440553e53b416911.600x338.jpg?t=1547465707",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1004310/ss_580e3528d8a214a22813fe33440553e53b416911.1920x1080.jpg?t=1547465707"
+                },
+                {
+                    "id": 13,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1004310/ss_e6982421287745348115058d9e3f9c476d1d7c13.600x338.jpg?t=1547465707",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1004310/ss_e6982421287745348115058d9e3f9c476d1d7c13.1920x1080.jpg?t=1547465707"
+                },
+                {
+                    "id": 14,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1004310/ss_a1f045df7f3890d8e92eeed2e5abe38dd2e5ea9f.600x338.jpg?t=1547465707",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1004310/ss_a1f045df7f3890d8e92eeed2e5abe38dd2e5ea9f.1920x1080.jpg?t=1547465707"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 256738929,
+                    "name": "1",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256738929/movie.293x165.jpg?t=1545709224",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256738929/movie480.webm?t=1545709224",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256738929/movie_max.webm?t=1545709224"
+                    },
+                    "highlight": true
+                },
+                {
+                    "id": 256739425,
+                    "name": "2",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256739425/movie.293x165.jpg?t=1545970191",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256739425/movie480.webm?t=1545970191",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256739425/movie_max.webm?t=1545970191"
+                    },
+                    "highlight": true
+                }
+            ],
+            "achievements": {
+                "total": 30,
+                "highlighted": [
+                    {
+                        "name": "Level 5, Mode 1",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1004310/fb810b12441bbf4b0ef797168ae18031d485024b.jpg"
+                    },
+                    {
+                        "name": "Level 6, Mode1",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1004310/7ed9e5b993cd374390b4c9c445caa25e1bf0048a.jpg"
+                    },
+                    {
+                        "name": "Level 7, Mode1",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1004310/917fca9cc8324918288bc9bffe052fb9591df3ec.jpg"
+                    },
+                    {
+                        "name": "Level 8, Mode1",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1004310/f6890faa42df9d175d524a05f1473a2f0d9af77c.jpg"
+                    },
+                    {
+                        "name": "Level9, Mode1",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1004310/230269f1cd27aece7b869d4f9db38e0bc266fddd.jpg"
+                    },
+                    {
+                        "name": "Level10, Mode1",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1004310/e202fd8aa43930274ede8985af4920741fdb2f4b.jpg"
+                    },
+                    {
+                        "name": "Level11, Mode1",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1004310/2892e35f2adf6a2c866e062667bea01a87c2459c.jpg"
+                    },
+                    {
+                        "name": "Level12, Mode1",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1004310/6cb37840bd2b2404376d5421cfb85b7090b905f7.jpg"
+                    },
+                    {
+                        "name": "Level13, Mode1",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1004310/669b98ee39066eb60fede143fd0d4cb1ed044b10.jpg"
+                    },
+                    {
+                        "name": "Level14, Mode1",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1004310/3ed9516b412462c56dca619c5086c86677405aac.jpg"
+                    }
+                ]
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "Jan 7, 2019"
+            },
+            "support_info": {
+                "url": "",
+                "email": "gedenthink@gmail.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1004310/page_bg_generated_v6b.jpg?t=1547465707",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

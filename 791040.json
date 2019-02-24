@@ -1,0 +1,115 @@
+{
+    "791040": {
+        "success": true,
+        "data": {
+            "type": "game",
+            "name": "Virtual Reality Neuron Tracer",
+            "steam_appid": 791040,
+            "required_age": 0,
+            "is_free": true,
+            "detailed_description": "The Virtual Reality Neuron Tracer (VRNT) is a tool for visualizing and tracing neurons from scanned 3D tissue in virtual reality. VRNT allows you to view and work with your data directly in 3D, providing more natural and intuitive interaction, leading to faster insights and better understanding. To support integration into your existing pipeline, VRNT supports common forms of TIFF Z-slices and TIFF directories, loads and stores traces in the the NLXML format used by NeuroLucida, and auto-saves your traces to allow you to easily pause and resume work. VRNT also supports datasets beyond the RAM capacity of the machine, by leveraging an on-demand streaming architecture. The streaming architecture supports both TIFF files and the IDX file format for better performance. Using our tool you can also easily convert your data to IDX for faster streaming performance.<br />\r\n<br />\r\nFor ease of use VRNT will auto-save your work every minute, and when you exit the software. When returning to work you can resume from your previous work, or pick some other trace to continue working from.<br />\r\n<br />\r\nWe have conducted a preliminary evaluation of how well users can trace neurons in virtual reality vs. NeuroLucida, and found that users could trace neurons roughly twice as fast, at similar quality to those performed with NeuroLucida. Further details on the development of VRNT and the evaluation can be found in our paper: &quot;A Virtual Reality Visualization Tool for Neuron Tracing&quot;.<br />\r\n<br />\r\nWe're continuing to add new features and support for new data types and use cases based on user feedback and needs, if you find VRNT useful and/or have feature requests (e.g., data format support, workflows, data processing, etc.) please contact us at the support email address.",
+            "about_the_game": "The Virtual Reality Neuron Tracer (VRNT) is a tool for visualizing and tracing neurons from scanned 3D tissue in virtual reality. VRNT allows you to view and work with your data directly in 3D, providing more natural and intuitive interaction, leading to faster insights and better understanding. To support integration into your existing pipeline, VRNT supports common forms of TIFF Z-slices and TIFF directories, loads and stores traces in the the NLXML format used by NeuroLucida, and auto-saves your traces to allow you to easily pause and resume work. VRNT also supports datasets beyond the RAM capacity of the machine, by leveraging an on-demand streaming architecture. The streaming architecture supports both TIFF files and the IDX file format for better performance. Using our tool you can also easily convert your data to IDX for faster streaming performance.<br />\r\n<br />\r\nFor ease of use VRNT will auto-save your work every minute, and when you exit the software. When returning to work you can resume from your previous work, or pick some other trace to continue working from.<br />\r\n<br />\r\nWe have conducted a preliminary evaluation of how well users can trace neurons in virtual reality vs. NeuroLucida, and found that users could trace neurons roughly twice as fast, at similar quality to those performed with NeuroLucida. Further details on the development of VRNT and the evaluation can be found in our paper: &quot;A Virtual Reality Visualization Tool for Neuron Tracing&quot;.<br />\r\n<br />\r\nWe're continuing to add new features and support for new data types and use cases based on user feedback and needs, if you find VRNT useful and/or have feature requests (e.g., data format support, workflows, data processing, etc.) please contact us at the support email address.",
+            "short_description": "The Virtual Reality Neuron Tracer is a tool for visualizing and reconstructing neurons from scanned 3D tissue in virtual reality. VRNT allows you to view and work with your data directly in 3D, providing more natural and intuitive interaction, and leading to faster insights and better understanding.",
+            "supported_languages": "English",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/791040/header.jpg?t=1541197543",
+            "website": "https://www.willusher.io/publications/vrnt",
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Intel i5 or AMD Ryzen<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GeForce 1060<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 4 GB available space<br></li><li><strong>Additional Notes:</strong> A GTX 10-series or higher is a hard requirement, due to the use of specific graphics extensions for VR</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Intel i5 or AMD Ryzen<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GTX 1070 or higher<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 4 GB available space</li></ul>"
+            },
+            "mac_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+            },
+            "linux_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+            },
+            "legal_notice": "We would like to thank Anders Ynnerman, Yarden Livnat, Amy Gooch, the early evaluation users, and the paper reviewers.<br />\r\n<br />\r\nThis work is supported in part by NSF:CGV Award: 1314896, NSF:IIP Award: 1602127, NSF:ACI Award: 1649923, DoE/SciDAC DESC0007446, CCMSC DE-NA0002375, PIPER: ER26142 DE-SC0010498, the NIH (NEI R01 EY019743 and R01 EY026812, NINDS BRAIN grant U01 NS099702), the NSF (IOS 1355075 and EAGER 1649923), the U. of Utah Research Foundation (seed grant 10040877), the U. of Utah Neuroscience Initiative, and a grant from Research to Prevent Blindness to the Dept. of Ophthalmology. This material is based upon work supported by the DoE, NNSA, under Award Number DE-NA0002375.<br />\r\n<br />\r\nWe would also like to thank the following open-source libraries used in developing this tool: SDL2, GLM, Dear ImGui, mlabbe's Native File Dialog, nlohmann's JSON parser, and ZeroMQ.<br />\r\n<br />\r\nThe dataset used in the tutorial and DIADEM NC Layer 1 Axons example is the Neocortical Layer 1 Axons dataset from the DIADEM challenge, provided courtesy of V De Paola, MRC Clinical Sciences Center, Imperial College London.<br />\r\n<br />\r\nThe dataset used in the Cell Bodies example is courtesy of Frederick Federer and Alessandra Angelucci, of the Moran Eye Institute, University of Utah.<br />\r\n<br />\r\nThe software is provided \"as is\", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the software or the use or other dealings in the software.<br />\r\n<br />\r\nThe font used in the application is Google's Roboto font.",
+            "developers": [
+                "ViSUS LLC"
+            ],
+            "publishers": [
+                "ViSOAR"
+            ],
+            "package_groups": [],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "genres": [
+                {
+                    "id": "54",
+                    "description": "Education"
+                },
+                {
+                    "id": "57",
+                    "description": "Utilities"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/791040/ss_f4418602b274f6827c970ab5b03f997f7263872f.600x338.jpg?t=1541197543",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/791040/ss_f4418602b274f6827c970ab5b03f997f7263872f.1920x1080.jpg?t=1541197543"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/791040/ss_9ba2fef3daa6ec6bb78eda14979e4f8a2828bf15.600x338.jpg?t=1541197543",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/791040/ss_9ba2fef3daa6ec6bb78eda14979e4f8a2828bf15.1920x1080.jpg?t=1541197543"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/791040/ss_7f9e7cbdb2e1a677ab701bc2203bf15857b845e9.600x338.jpg?t=1541197543",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/791040/ss_7f9e7cbdb2e1a677ab701bc2203bf15857b845e9.1920x1080.jpg?t=1541197543"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/791040/ss_9114261c4c988ae67e48cdab1e47f31451f9274c.600x338.jpg?t=1541197543",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/791040/ss_9114261c4c988ae67e48cdab1e47f31451f9274c.1920x1080.jpg?t=1541197543"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/791040/ss_d798caeb1b0208feea6f21996a4b91f932f3b016.600x338.jpg?t=1541197543",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/791040/ss_d798caeb1b0208feea6f21996a4b91f932f3b016.1920x1080.jpg?t=1541197543"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 256730724,
+                    "name": "Trailer",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256730724/movie.293x165.jpg?t=1539278895",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256730724/movie480.webm?t=1539278895",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256730724/movie_max.webm?t=1539278895"
+                    },
+                    "highlight": true
+                },
+                {
+                    "id": 256730734,
+                    "name": "Overview of the VR Neuron Tracer",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256730734/movie.293x165.jpg?t=1539278901",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256730734/movie480.webm?t=1539278901",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256730734/movie_max.webm?t=1539278901"
+                    },
+                    "highlight": true
+                }
+            ],
+            "release_date": {
+                "coming_soon": false,
+                "date": "25 Oct, 2018"
+            },
+            "support_info": {
+                "url": "",
+                "email": "vrntsupport@sci.utah.edu"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/791040/page_bg_generated_v6b.jpg?t=1541197543",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

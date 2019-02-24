@@ -1,0 +1,205 @@
+{
+    "876971": {
+        "success": true,
+        "data": {
+            "type": "dlc",
+            "name": "Zaccaria Pinball - Tropical Table",
+            "steam_appid": 876971,
+            "required_age": 0,
+            "is_free": false,
+            "controller_support": "full",
+            "detailed_description": "Purchase this DLC disables score limit on this table!<br><br><strong>Tropical</strong><br><br><u>Information:</u><br><ul class=\"bb_ul\"><li>Name: Tropical<br></li><li>Theme: Beach<br></li><li>Production year: 1974<br></li><li>Type: Electro-mechanical (EM)</li></ul><br><u>Features:</u><br><ul class=\"bb_ul\"><li>1 playfield<br></li><li>2 flippers<br></li><li>3 pop bumpers<br></li><li>2 slingshots<br></li><li>1-bank spot target (7)</li></ul>",
+            "about_the_game": "Purchase this DLC disables score limit on this table!<br><br><strong>Tropical</strong><br><br><u>Information:</u><br><ul class=\"bb_ul\"><li>Name: Tropical<br></li><li>Theme: Beach<br></li><li>Production year: 1974<br></li><li>Type: Electro-mechanical (EM)</li></ul><br><u>Features:</u><br><ul class=\"bb_ul\"><li>1 playfield<br></li><li>2 flippers<br></li><li>3 pop bumpers<br></li><li>2 slingshots<br></li><li>1-bank spot target (7)</li></ul>",
+            "short_description": "Tropical Table is a beach themed pinball table.",
+            "fullgame": {
+                "appid": "444930",
+                "name": "Zaccaria Pinball"
+            },
+            "supported_languages": "English",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/876971/header.jpg?t=1529663436",
+            "website": null,
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 / Windows 8 / Windows 10<br></li><li><strong>Processor:</strong> Dual Core 1.6 GHz or better<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD Graphics 3000 or equivalent<br></li><li><strong>Storage:</strong> 1 GB available space<br></li><li><strong>Sound Card:</strong> Windows compatible sound card</li></ul>"
+            },
+            "mac_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OS X 10.12<br></li><li><strong>Processor:</strong> Dual Core 1.6 GHz or better<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD Graphics 3000 or equivalent<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
+            },
+            "linux_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 14.04 or SteamOS 2.0 (64 bit)<br></li><li><strong>Processor:</strong> Dual Core 1.6 GHz or better<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD Graphics 3000 or equivalent<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
+            },
+            "developers": [
+                "Magic Pixel Kft."
+            ],
+            "publishers": [
+                ""
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 159,
+                "final": 159,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "1,59€"
+            },
+            "packages": [
+                277695
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Zaccaria Pinball - Tropical Table",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 277695,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Zaccaria Pinball - Tropical Table - 1,59€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 159
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": true,
+                "linux": true
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 1,
+                    "description": "Multi-player"
+                },
+                {
+                    "id": 36,
+                    "description": "Online Multi-Player"
+                },
+                {
+                    "id": 37,
+                    "description": "Local Multi-Player"
+                },
+                {
+                    "id": 24,
+                    "description": "Shared/Split Screen"
+                },
+                {
+                    "id": 27,
+                    "description": "Cross-Platform Multiplayer"
+                },
+                {
+                    "id": 21,
+                    "description": "Downloadable Content"
+                },
+                {
+                    "id": 22,
+                    "description": "Steam Achievements"
+                },
+                {
+                    "id": 28,
+                    "description": "Full controller support"
+                },
+                {
+                    "id": 29,
+                    "description": "Steam Trading Cards"
+                },
+                {
+                    "id": 23,
+                    "description": "Steam Cloud"
+                },
+                {
+                    "id": 25,
+                    "description": "Steam Leaderboards"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "1",
+                    "description": "Action"
+                },
+                {
+                    "id": "4",
+                    "description": "Casual"
+                },
+                {
+                    "id": "37",
+                    "description": "Free to Play"
+                },
+                {
+                    "id": "23",
+                    "description": "Indie"
+                },
+                {
+                    "id": "28",
+                    "description": "Simulation"
+                },
+                {
+                    "id": "18",
+                    "description": "Sports"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/876971/ss_d43a32b3518543f9bbb78ae83a5f6d459bc2d83b.600x338.jpg?t=1529663436",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/876971/ss_d43a32b3518543f9bbb78ae83a5f6d459bc2d83b.1920x1080.jpg?t=1529663436"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/876971/ss_1eee8255f6434ae1a0f250ec3f9af05f47ff1288.600x338.jpg?t=1529663436",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/876971/ss_1eee8255f6434ae1a0f250ec3f9af05f47ff1288.1920x1080.jpg?t=1529663436"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/876971/ss_02b948f4e41cb21ec792d47b239b9446f5175ff0.600x338.jpg?t=1529663436",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/876971/ss_02b948f4e41cb21ec792d47b239b9446f5175ff0.1920x1080.jpg?t=1529663436"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/876971/ss_9a45fb5f4d4a23366496c8017e0222d3ca7d5b97.600x338.jpg?t=1529663436",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/876971/ss_9a45fb5f4d4a23366496c8017e0222d3ca7d5b97.1920x1080.jpg?t=1529663436"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/876971/ss_91e16c764b4bd21414a14ab1c66c7c8f7b1e806b.600x338.jpg?t=1529663436",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/876971/ss_91e16c764b4bd21414a14ab1c66c7c8f7b1e806b.1920x1080.jpg?t=1529663436"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 256720649,
+                    "name": "Tropical Gameplay Trailer",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256720649/movie.293x165.jpg?t=1529663430",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256720649/movie480.webm?t=1529663430",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256720649/movie_max.webm?t=1529663430"
+                    },
+                    "highlight": true
+                }
+            ],
+            "release_date": {
+                "coming_soon": false,
+                "date": "20 Jun, 2018"
+            },
+            "support_info": {
+                "url": "",
+                "email": "contact.magicpixel2012@gmail.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/876971/page_bg_generated_v6b.jpg?t=1529663436",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

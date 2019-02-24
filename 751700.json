@@ -1,0 +1,122 @@
+{
+    "751700": {
+        "success": true,
+        "data": {
+            "type": "dlc",
+            "name": "Donation Small",
+            "steam_appid": 751700,
+            "required_age": 0,
+            "is_free": false,
+            "controller_support": "full",
+            "detailed_description": "This DLC is just a donation to the developer. It will not add or change anything to the game.",
+            "about_the_game": "This DLC is just a donation to the developer. It will not add or change anything to the game.",
+            "short_description": "This DLC is just a donation to the developer. It will not add or change anything to the game.",
+            "fullgame": {
+                "appid": "463390",
+                "name": "One Thousand Lies"
+            },
+            "supported_languages": "English, Spanish - Spain",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/751700/header.jpg?t=1510183427",
+            "website": "http://onethousandlies.weebly.com/",
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP</li></ul>"
+            },
+            "mac_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OS X 10.6</li></ul>"
+            },
+            "linux_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> x86/x86_64</li></ul>"
+            },
+            "legal_notice": "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.",
+            "developers": [
+                "Keinart Lobre"
+            ],
+            "publishers": [
+                ""
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 199,
+                "final": 199,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "1,99€"
+            },
+            "packages": [
+                220926
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Donation Small",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 220926,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Donation Small - 1,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 199
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": true,
+                "linux": true
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 21,
+                    "description": "Downloadable Content"
+                },
+                {
+                    "id": 28,
+                    "description": "Full controller support"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "4",
+                    "description": "Casual"
+                },
+                {
+                    "id": "28",
+                    "description": "Simulation"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/751700/ss_75abd4444ddba1f0c79ea38c0256ec4caec78c2a.600x338.jpg?t=1510183427",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/751700/ss_75abd4444ddba1f0c79ea38c0256ec4caec78c2a.1920x1080.jpg?t=1510183427"
+                }
+            ],
+            "release_date": {
+                "coming_soon": false,
+                "date": "8 Nov, 2017"
+            },
+            "support_info": {
+                "url": "http://onethousandlies.weebly.com/contact65372contacto.html",
+                "email": "keinart@gmail.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/751700/page_bg_generated_v6b.jpg?t=1510183427",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

@@ -1,0 +1,277 @@
+{
+    "977220": {
+        "success": true,
+        "data": {
+            "type": "dlc",
+            "name": "OVERKILL's The Walking Dead: Deluxe Upgrade",
+            "steam_appid": 977220,
+            "required_age": 0,
+            "is_free": false,
+            "controller_support": "full",
+            "detailed_description": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/977220/extras/DeluxeEdition-PostLaunch.png?t=1543524977\" ><br>The Deluxe Edition of OVERKILL’s The Walking Dead is for all true survivors and fighters in the desolate city of Washington D.C. By upgrading to the Deluxe edition you get the exclusive Night Raid skin-pack for all characters, complete with a flask and knife, along with the soundtrack and digital art book.",
+            "about_the_game": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/977220/extras/DeluxeEdition-PostLaunch.png?t=1543524977\" ><br>The Deluxe Edition of OVERKILL’s The Walking Dead is for all true survivors and fighters in the desolate city of Washington D.C. By upgrading to the Deluxe edition you get the exclusive Night Raid skin-pack for all characters, complete with a flask and knife, along with the soundtrack and digital art book.",
+            "short_description": "OVERKILL’s The Walking Dead is a four player co-op action FPS, where you fight the dead as well as the living. Set in The Walking Dead Universe, you and your group try to survive in a post-apocalyptic Washington D.C.",
+            "fullgame": {
+                "appid": "717690",
+                "name": "OVERKILL's The Walking Dead"
+            },
+            "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Portuguese - Brazil, Russian, Simplified Chinese<br><strong>*</strong>languages with full audio support",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/977220/header.jpg?t=1543524977",
+            "website": "http://www.overkillsthewalkingdead.com",
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10 (64-bit version)<br></li><li><strong>Processor:</strong> Intel Core i5-4460<br></li><li><strong>Memory:</strong> 6 GB RAM<br></li><li><strong>Graphics:</strong> GeForce GTX 750 Ti<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 60 MB available space</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10 (64-bit version)<br></li><li><strong>Processor:</strong> Intel Core i7-4770K<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GTX 1060 or better<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 60 MB available space</li></ul>"
+            },
+            "mac_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+            },
+            "linux_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+            },
+            "legal_notice": "Developed by Overkill Software.  Published by Starbreeze Publishing AB.   <br />\r\n\"OVERKILL\", \"OVERKILL SOFTWARE\", \"Starbreeze Studios\" and the Starbreeze Studios \"Sun\" logo are all trademarks and/or registered trademarks of Starbreeze AB (Publ).  All rights reserved. <br />\r\n<br />\r\nThe Walking Dead © 2018 Robert Kirkman, LLC. All Rights Reserved.<br />\r\n© 2018 Skybound LLC. All Rights Reserved.",
+            "developers": [
+                "OVERKILL - a Starbreeze Studio."
+            ],
+            "publishers": [
+                "Starbreeze Publishing AB"
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 1800,
+                "final": 1800,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "18,--€"
+            },
+            "packages": [
+                320968
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy OVERKILL's The Walking Dead: Deluxe Upgrade",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 320968,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "OVERKILL's The Walking Dead: Deluxe Upgrade - 18,--€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 1800
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 1,
+                    "description": "Multi-player"
+                },
+                {
+                    "id": 36,
+                    "description": "Online Multi-Player"
+                },
+                {
+                    "id": 9,
+                    "description": "Co-op"
+                },
+                {
+                    "id": 38,
+                    "description": "Online Co-op"
+                },
+                {
+                    "id": 21,
+                    "description": "Downloadable Content"
+                },
+                {
+                    "id": 22,
+                    "description": "Steam Achievements"
+                },
+                {
+                    "id": 28,
+                    "description": "Full controller support"
+                },
+                {
+                    "id": 13,
+                    "description": "Captions available"
+                },
+                {
+                    "id": 23,
+                    "description": "Steam Cloud"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "1",
+                    "description": "Action"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/977220/ss_9ff9e7bdcfaf9cea96c80cf038b97136c16fa3c7.600x338.jpg?t=1543524977",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/977220/ss_9ff9e7bdcfaf9cea96c80cf038b97136c16fa3c7.1920x1080.jpg?t=1543524977"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/977220/ss_0e2e55c60b59ca211ac093f2744881f1080ddac2.600x338.jpg?t=1543524977",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/977220/ss_0e2e55c60b59ca211ac093f2744881f1080ddac2.1920x1080.jpg?t=1543524977"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/977220/ss_1f5738b602c6a5a2861b8df3926a1fb6e4b0c4fd.600x338.jpg?t=1543524977",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/977220/ss_1f5738b602c6a5a2861b8df3926a1fb6e4b0c4fd.1920x1080.jpg?t=1543524977"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/977220/ss_501772dc4e15ba06f8a205511105d27d21a3efb7.600x338.jpg?t=1543524977",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/977220/ss_501772dc4e15ba06f8a205511105d27d21a3efb7.1920x1080.jpg?t=1543524977"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/977220/ss_6f4664067f24bd6d0f070ac864dbfa70b78335dc.600x338.jpg?t=1543524977",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/977220/ss_6f4664067f24bd6d0f070ac864dbfa70b78335dc.1920x1080.jpg?t=1543524977"
+                },
+                {
+                    "id": 5,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/977220/ss_1efd0298ec210c419948db3b4b1559843a91f687.600x338.jpg?t=1543524977",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/977220/ss_1efd0298ec210c419948db3b4b1559843a91f687.1920x1080.jpg?t=1543524977"
+                },
+                {
+                    "id": 6,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/977220/ss_6eec092a30715f0e6270bfc186b630d92b9c6616.600x338.jpg?t=1543524977",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/977220/ss_6eec092a30715f0e6270bfc186b630d92b9c6616.1920x1080.jpg?t=1543524977"
+                },
+                {
+                    "id": 7,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/977220/ss_5ca40d7cfbaaeb3b7b69fee4076459c7eb245c14.600x338.jpg?t=1543524977",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/977220/ss_5ca40d7cfbaaeb3b7b69fee4076459c7eb245c14.1920x1080.jpg?t=1543524977"
+                },
+                {
+                    "id": 8,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/977220/ss_3c9a5978704b991afbb907572651eccb06aec496.600x338.jpg?t=1543524977",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/977220/ss_3c9a5978704b991afbb907572651eccb06aec496.1920x1080.jpg?t=1543524977"
+                },
+                {
+                    "id": 9,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/977220/ss_6dd3666c635a3d65f8302c3e4fbeb1f8823e2ee9.600x338.jpg?t=1543524977",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/977220/ss_6dd3666c635a3d65f8302c3e4fbeb1f8823e2ee9.1920x1080.jpg?t=1543524977"
+                },
+                {
+                    "id": 10,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/977220/ss_aa4638c85a42ffe3fa99559079cf232b9972c85c.600x338.jpg?t=1543524977",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/977220/ss_aa4638c85a42ffe3fa99559079cf232b9972c85c.1920x1080.jpg?t=1543524977"
+                },
+                {
+                    "id": 11,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/977220/ss_42d2fc59c3e0d7e1a0a6300b5006fdde31a051fa.600x338.jpg?t=1543524977",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/977220/ss_42d2fc59c3e0d7e1a0a6300b5006fdde31a051fa.1920x1080.jpg?t=1543524977"
+                },
+                {
+                    "id": 12,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/977220/ss_e3967e326860bf011b94e59e861a3a11c066ad32.600x338.jpg?t=1543524977",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/977220/ss_e3967e326860bf011b94e59e861a3a11c066ad32.1920x1080.jpg?t=1543524977"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 256734711,
+                    "name": "OVERKILL's The Walking Dead - Cinematic Launch Trailer",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256734711/movie.293x165.jpg?t=1541556062",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256734711/movie480.webm?t=1541556062",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256734711/movie_max.webm?t=1541556062"
+                    },
+                    "highlight": true
+                },
+                {
+                    "id": 256734786,
+                    "name": "OVERKILL's The Walking Dead - Gameplay Launch Trailer",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256734786/movie.293x165.jpg?t=1541600094",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256734786/movie480.webm?t=1541600094",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256734786/movie_max.webm?t=1541600094"
+                    },
+                    "highlight": true
+                },
+                {
+                    "id": 256734792,
+                    "name": "OVERKILL's The Walking Dead - Aidan Trailer",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256734792/movie.293x165.jpg?t=1541608134",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256734792/movie480.webm?t=1541608134",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256734792/movie_max.webm?t=1541608134"
+                    },
+                    "highlight": true
+                },
+                {
+                    "id": 256734795,
+                    "name": "OVERKILL's The Walking Dead - Maya Trailer",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256734795/movie.293x165.jpg?t=1541608139",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256734795/movie480.webm?t=1541608139",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256734795/movie_max.webm?t=1541608139"
+                    },
+                    "highlight": true
+                },
+                {
+                    "id": 256734801,
+                    "name": "OVERKILL's The Walking Dead - Grant Trailer",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256734801/movie.293x165.jpg?t=1541608145",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256734801/movie480.webm?t=1541608145",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256734801/movie_max.webm?t=1541608145"
+                    },
+                    "highlight": true
+                },
+                {
+                    "id": 256734813,
+                    "name": "OVERKILL's The Walking Dead - Heather Trailer",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256734813/movie.293x165.jpg?t=1541608151",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256734813/movie480.webm?t=1541608151",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256734813/movie_max.webm?t=1541608151"
+                    },
+                    "highlight": true
+                }
+            ],
+            "achievements": {
+                "total": 0
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "6 Nov, 2018"
+            },
+            "support_info": {
+                "url": "",
+                "email": "info@overkillsoftware.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/977220/page_bg_generated_v6b.jpg?t=1543524977",
+            "content_descriptors": {
+                "ids": [
+                    2,
+                    5
+                ],
+                "notes": "Blood and Gore\r\nIntense Violence\r\nStrong Language"
+            }
+        }
+    }
+}

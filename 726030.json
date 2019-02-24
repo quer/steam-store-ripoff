@@ -1,0 +1,203 @@
+{
+    "726030": {
+        "success": true,
+        "data": {
+            "type": "game",
+            "name": "MinSweeper",
+            "steam_appid": 726030,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "MinSweeper is a minimalist take on the classic Minesweeper. Simple relaxing game play in which you avoid mines on a puzzle board and try to get the best time. Play the given puzzles or play a custom puzzle. Also features a soothing soundtrack. MinSweeper also includes 3 minigames:<br><br><ul class=\"bb_ul\"><li>Sudoku: The classic, intense puzzle<br></li><li>Catcher: Catch falling blocks while avoiding mines.<br></li><li>Asteroids: Play as a spaceship; avoid and destroy asteroids to rack up score. </li></ul><br>Integrated with Steam API to include achievements and Leaderboards.",
+            "about_the_game": "MinSweeper is a minimalist take on the classic Minesweeper. Simple relaxing game play in which you avoid mines on a puzzle board and try to get the best time. Play the given puzzles or play a custom puzzle. Also features a soothing soundtrack. MinSweeper also includes 3 minigames:<br><br><ul class=\"bb_ul\"><li>Sudoku: The classic, intense puzzle<br></li><li>Catcher: Catch falling blocks while avoiding mines.<br></li><li>Asteroids: Play as a spaceship; avoid and destroy asteroids to rack up score. </li></ul><br>Integrated with Steam API to include achievements and Leaderboards.",
+            "short_description": "MinSweeper is a minimalist take on the classic Minesweeper. Simple relaxing game play in which you avoid mines on a puzzle board and try to get the best time.",
+            "supported_languages": "English",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/726030/header.jpg?t=1509398949",
+            "website": null,
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows Vista/7/8/8.1/10<br></li><li><strong>Processor:</strong> 2 Ghz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Graphics card with DX9 (shader model 2.0) capabilities.<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "developers": [
+                "LinQ"
+            ],
+            "publishers": [
+                "LinQ"
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 299,
+                "final": 299,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "2,99€"
+            },
+            "packages": [
+                211479
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy MinSweeper",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 211479,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "MinSweeper - 2,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 299
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 22,
+                    "description": "Steam Achievements"
+                },
+                {
+                    "id": 25,
+                    "description": "Steam Leaderboards"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "4",
+                    "description": "Casual"
+                },
+                {
+                    "id": "23",
+                    "description": "Indie"
+                },
+                {
+                    "id": "28",
+                    "description": "Simulation"
+                },
+                {
+                    "id": "2",
+                    "description": "Strategy"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/726030/ss_1bac9a2ef0d25be5baebce650ce7bd44f9b8fe40.600x338.jpg?t=1509398949",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/726030/ss_1bac9a2ef0d25be5baebce650ce7bd44f9b8fe40.1920x1080.jpg?t=1509398949"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/726030/ss_17a9459c040b1f9db32c8bd3b744a6cc65a91a34.600x338.jpg?t=1509398949",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/726030/ss_17a9459c040b1f9db32c8bd3b744a6cc65a91a34.1920x1080.jpg?t=1509398949"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/726030/ss_4dcc2e3b9be159076d5cf90e42a3105f713f35e8.600x338.jpg?t=1509398949",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/726030/ss_4dcc2e3b9be159076d5cf90e42a3105f713f35e8.1920x1080.jpg?t=1509398949"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/726030/ss_64d595b45644c9804d1b9a0fd83cb11fda2a6a1c.600x338.jpg?t=1509398949",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/726030/ss_64d595b45644c9804d1b9a0fd83cb11fda2a6a1c.1920x1080.jpg?t=1509398949"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/726030/ss_5143c25f3830f873bf4e060689df5dddb3a6167c.600x338.jpg?t=1509398949",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/726030/ss_5143c25f3830f873bf4e060689df5dddb3a6167c.1920x1080.jpg?t=1509398949"
+                },
+                {
+                    "id": 5,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/726030/ss_04cdb5f5ca397ad3d463747b3d707c14d425daae.600x338.jpg?t=1509398949",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/726030/ss_04cdb5f5ca397ad3d463747b3d707c14d425daae.1920x1080.jpg?t=1509398949"
+                },
+                {
+                    "id": 6,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/726030/ss_d0b0ac5ab05a8345fc0366e8a969dacfd2e84596.600x338.jpg?t=1509398949",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/726030/ss_d0b0ac5ab05a8345fc0366e8a969dacfd2e84596.1920x1080.jpg?t=1509398949"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 256697366,
+                    "name": "Trailer 1",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256697366/movie.293x165.jpg?t=1507748473",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256697366/movie480.webm?t=1507748473",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256697366/movie_max.webm?t=1507748473"
+                    },
+                    "highlight": true
+                }
+            ],
+            "achievements": {
+                "total": 9,
+                "highlighted": [
+                    {
+                        "name": "Easy",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/726030/5319d2089f967c0a2690810f094e6afae59fc8c4.jpg"
+                    },
+                    {
+                        "name": "Medium",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/726030/5319d2089f967c0a2690810f094e6afae59fc8c4.jpg"
+                    },
+                    {
+                        "name": "Hard",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/726030/5319d2089f967c0a2690810f094e6afae59fc8c4.jpg"
+                    },
+                    {
+                        "name": "Through Customs",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/726030/5319d2089f967c0a2690810f094e6afae59fc8c4.jpg"
+                    },
+                    {
+                        "name": "Good Catch",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/726030/5319d2089f967c0a2690810f094e6afae59fc8c4.jpg"
+                    },
+                    {
+                        "name": "Catch Me...",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/726030/5319d2089f967c0a2690810f094e6afae59fc8c4.jpg"
+                    },
+                    {
+                        "name": "Asteroid Bully",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/726030/5319d2089f967c0a2690810f094e6afae59fc8c4.jpg"
+                    },
+                    {
+                        "name": "Space Queen",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/726030/e915ecf7951395cc5d4f5e821c105c2dff7d989e.jpg"
+                    },
+                    {
+                        "name": "Sudoku!",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/726030/e915ecf7951395cc5d4f5e821c105c2dff7d989e.jpg"
+                    }
+                ]
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "30 Oct, 2017"
+            },
+            "support_info": {
+                "url": "",
+                "email": "colossalwreckemail@gmail.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/726030/page_bg_generated_v6b.jpg?t=1509398949",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

@@ -1,0 +1,211 @@
+{
+    "1011620": {
+        "success": true,
+        "data": {
+            "type": "game",
+            "name": "Electric Sleep",
+            "steam_appid": 1011620,
+            "required_age": 0,
+            "is_free": false,
+            "dlc": [
+                1019530
+            ],
+            "detailed_description": "Electric Sleep is a pixel art interactive story. Explore a crumbling world as an emotionally driven robot.<br><br>You wake up in a strange lab, and head out to explore a strange landscape. Through the course of your travels you find yourself waking up in that lab over and over, but each time in the grip of a new emotion. Discover how each emotion colours your experience of the world, and the means by which you might find answers. <br><br><strong>Features</strong><br>•\tChoose your own adventure style decision paths<br>•\t11 different perspectives<br>•\t44 different endings<br>•\tAn evocative original soundtrack",
+            "about_the_game": "Electric Sleep is a pixel art interactive story. Explore a crumbling world as an emotionally driven robot.<br><br>You wake up in a strange lab, and head out to explore a strange landscape. Through the course of your travels you find yourself waking up in that lab over and over, but each time in the grip of a new emotion. Discover how each emotion colours your experience of the world, and the means by which you might find answers. <br><br><strong>Features</strong><br>•\tChoose your own adventure style decision paths<br>•\t11 different perspectives<br>•\t44 different endings<br>•\tAn evocative original soundtrack",
+            "short_description": "Electric Sleep is a pixel art interactive story. Explore a crumbling world as an emotionally driven robot.",
+            "supported_languages": "English",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1011620/header.jpg?t=1550841581",
+            "website": null,
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows Vista/7/8/8/8.1/10<br></li><li><strong>Processor:</strong> Any above 2ghz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL 3.3 Supported<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 8/8.1/10<br></li><li><strong>Processor:</strong> 64bit, Minimum 2ghz<br></li><li><strong>Memory:</strong> 3 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL 4 Supported<br></li><li><strong>Storage:</strong> 3 GB available space</li></ul>"
+            },
+            "mac_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> MacOS X Mountain Lion 18.5<br></li><li><strong>Processor:</strong> 64bit<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> MacOS X High Sierra<br></li><li><strong>Processor:</strong> 64bit<br></li><li><strong>Memory:</strong> 3 GB RAM<br></li><li><strong>Storage:</strong> 3 GB available space</li></ul>"
+            },
+            "linux_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Debian 9+ (Tested on Ubuntu 16.04, Mint 19)<br></li><li><strong>Processor:</strong> 64bit, above 2ghz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL 3.3 Supported<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Debian 9+ (Tested on Ubuntu 16.04, Mint 19)<br></li><li><strong>Processor:</strong> 64bit, above 2ghz<br></li><li><strong>Memory:</strong> 3 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL 4 Supported<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>"
+            },
+            "developers": [
+                "Vlad \"Cryru\" Abadzhiev",
+                "Matthew Weekes",
+                "Jack Sanderson-Thwaite",
+                "Michael Becze"
+            ],
+            "publishers": [
+                "Vlad Abadzhiev"
+            ],
+            "price_overview": {
+                "currency": "USD",
+                "initial": 499,
+                "final": 449,
+                "discount_percent": 10,
+                "initial_formatted": "$4.99",
+                "final_formatted": "$4.49"
+            },
+            "packages": [
+                334989
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Electric Sleep",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 334989,
+                            "percent_savings_text": "-10%",
+                            "percent_savings": 0,
+                            "option_text": "Electric Sleep - <span class=\"discount_original_price\">$4.99</span> $4.49",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 449
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": true,
+                "linux": true
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 22,
+                    "description": "Steam Achievements"
+                },
+                {
+                    "id": 23,
+                    "description": "Steam Cloud"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "25",
+                    "description": "Adventure"
+                },
+                {
+                    "id": "4",
+                    "description": "Casual"
+                },
+                {
+                    "id": "23",
+                    "description": "Indie"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1011620/ss_a1baf38bc0f547333bee4ef67aca483657e2c0de.600x338.jpg?t=1550841581",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1011620/ss_a1baf38bc0f547333bee4ef67aca483657e2c0de.1920x1080.jpg?t=1550841581"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1011620/ss_0ed33020f494128c778081ae36af75ec5eaff067.600x338.jpg?t=1550841581",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1011620/ss_0ed33020f494128c778081ae36af75ec5eaff067.1920x1080.jpg?t=1550841581"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1011620/ss_1ebd646c04b68d3bee1d3931aec716b13475a10f.600x338.jpg?t=1550841581",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1011620/ss_1ebd646c04b68d3bee1d3931aec716b13475a10f.1920x1080.jpg?t=1550841581"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1011620/ss_b9e16e3ac24afb20a5135d7564868399eae77a85.600x338.jpg?t=1550841581",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1011620/ss_b9e16e3ac24afb20a5135d7564868399eae77a85.1920x1080.jpg?t=1550841581"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1011620/ss_468e36ca809f5422047b17ef4acf12e836b5fdca.600x338.jpg?t=1550841581",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1011620/ss_468e36ca809f5422047b17ef4acf12e836b5fdca.1920x1080.jpg?t=1550841581"
+                },
+                {
+                    "id": 5,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1011620/ss_e90c62c3c916a84e0a77d72c9eb93bd8e9bbba26.600x338.jpg?t=1550841581",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1011620/ss_e90c62c3c916a84e0a77d72c9eb93bd8e9bbba26.1920x1080.jpg?t=1550841581"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 256740559,
+                    "name": "Electric Sleep trailer 1",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256740559/movie.293x165.jpg?t=1549659609",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256740559/movie480.webm?t=1549659609",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256740559/movie_max.webm?t=1549659609"
+                    },
+                    "highlight": true
+                }
+            ],
+            "achievements": {
+                "total": 12,
+                "highlighted": [
+                    {
+                        "name": "Feeling",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1011620/68c28f480c068aff3b80a47174c67160d3061f99.jpg"
+                    },
+                    {
+                        "name": "Joy",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1011620/5d2ae0c6b484586284578926460903280d695215.jpg"
+                    },
+                    {
+                        "name": "Adrenaline",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1011620/d9d6272df8b799e6a20d0ff9fb408d627b82f967.jpg"
+                    },
+                    {
+                        "name": "Anger",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1011620/2b498ba863b63a0e7d55aeae274d4c9bceff0db6.jpg"
+                    },
+                    {
+                        "name": "Ecstasy",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1011620/9d55f109fdc2e389e837a9359c9a890910c805f3.jpg"
+                    },
+                    {
+                        "name": "Living",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1011620/98676cb482a5626722f77794ac9e300d236422f1.jpg"
+                    },
+                    {
+                        "name": "Fear",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1011620/a2e8222fa1b58d164a7b2391e6435765c16a69c6.jpg"
+                    },
+                    {
+                        "name": "Guilt",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1011620/0eff0bd56cc097379dab471c90275598d7a18206.jpg"
+                    },
+                    {
+                        "name": "Nihilism",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1011620/dff276f33229d456fc450a8e1667fcdfe6a2097a.jpg"
+                    },
+                    {
+                        "name": "Nostalgia",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1011620/6931fe2cade31651a025d61fa894c03b4ea50e98.jpg"
+                    }
+                ]
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "Feb 22, 2019"
+            },
+            "support_info": {
+                "url": "",
+                "email": "TheCryru@gmail.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1011620/page_bg_generated_v6b.jpg?t=1550841581",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

@@ -1,0 +1,283 @@
+{
+    "391190": {
+        "success": true,
+        "data": {
+            "type": "game",
+            "name": "Dolguth",
+            "steam_appid": 391190,
+            "required_age": 0,
+            "is_free": false,
+            "controller_support": "full",
+            "detailed_description": "Dolguth is a 2D oldschool brawler for up-to 6 local players. <br />\r\nChoose your mech to fight in one of the Dolguth arenas and destroy the other warriors. <br />\r\nEach mech is powered with a melee weapon and a 6-bullets cannon. <br />\r\nEach pilot has an EMP gun (able to stun mechs) and a grapple to reach impervious zones.<br />\r\n<br />\r\nRemember: the pilot of a destroyed mech can repair it ! kill him fast !<br />\r\n<br />\r\nThe Game requires at least 1 joystick/gamepad for each player.<br />\r\nKeyboard is supported for single player modes (currently Dungeons and Cliffhanger) but highly discouraged.<br />\r\n<br />\r\nGameplay notes:<br />\r\n<br />\r\n- press the grab/throw button when (as a pilot) you want to activate a meditower (to spawn the repairing drone)<br />\r\n- in Dungeon mode you can voluntary eject the pilot from the mech (to open gates or activate elevators) by pressing the grab/throw button for 2 seconds<br />\r\n- generally to re-enter into a mech you just need to go over it. The only exception is Dungeon mode where you need to press grab/throw<br />\r\n- press grab/throw (as a pilot) to enter the gatling turrets (available in some arena) then press the range button to shot<br />\r\n- the only single player modes are currently the dungeon and cliffhanger, configuring a single player in the other modes is a no-go (you will hear 'ready' for the player but the game will not start)<br />\r\n- in Dungeon mode, when more than a player is in the game, the camera will always try to spot every alive player until a predefined limit. If the limit is reached, players are required to rejoin themselves.",
+            "about_the_game": "Dolguth is a 2D oldschool brawler for up-to 6 local players. <br />\r\nChoose your mech to fight in one of the Dolguth arenas and destroy the other warriors. <br />\r\nEach mech is powered with a melee weapon and a 6-bullets cannon. <br />\r\nEach pilot has an EMP gun (able to stun mechs) and a grapple to reach impervious zones.<br />\r\n<br />\r\nRemember: the pilot of a destroyed mech can repair it ! kill him fast !<br />\r\n<br />\r\nThe Game requires at least 1 joystick/gamepad for each player.<br />\r\nKeyboard is supported for single player modes (currently Dungeons and Cliffhanger) but highly discouraged.<br />\r\n<br />\r\nGameplay notes:<br />\r\n<br />\r\n- press the grab/throw button when (as a pilot) you want to activate a meditower (to spawn the repairing drone)<br />\r\n- in Dungeon mode you can voluntary eject the pilot from the mech (to open gates or activate elevators) by pressing the grab/throw button for 2 seconds<br />\r\n- generally to re-enter into a mech you just need to go over it. The only exception is Dungeon mode where you need to press grab/throw<br />\r\n- press grab/throw (as a pilot) to enter the gatling turrets (available in some arena) then press the range button to shot<br />\r\n- the only single player modes are currently the dungeon and cliffhanger, configuring a single player in the other modes is a no-go (you will hear 'ready' for the player but the game will not start)<br />\r\n- in Dungeon mode, when more than a player is in the game, the camera will always try to spot every alive player until a predefined limit. If the limit is reached, players are required to rejoin themselves.",
+            "short_description": "Dolguth is a 2D oldschool brawler for up-to 6 local players. Choose your mech to fight in one of the Dolguth arenas and destroy the other warriors. Each mech is powered with a melee weapon and a 6-bullets cannon. Each pilot has an EMP gun and a grapple to reach impervious zones.",
+            "supported_languages": "English",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/391190/header.jpg?t=1470662048",
+            "website": "http://dolguth.com",
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 7</li></ul>"
+            },
+            "mac_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 10.9</li></ul>"
+            },
+            "linux_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 15.04</li></ul>"
+            },
+            "developers": [
+                "Boiagames"
+            ],
+            "publishers": [
+                "20Tab"
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 599,
+                "final": 599,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "5,99€"
+            },
+            "packages": [
+                81388
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Dolguth",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 81388,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Dolguth - 5,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 599
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": true,
+                "linux": true
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 1,
+                    "description": "Multi-player"
+                },
+                {
+                    "id": 9,
+                    "description": "Co-op"
+                },
+                {
+                    "id": 24,
+                    "description": "Shared/Split Screen"
+                },
+                {
+                    "id": 22,
+                    "description": "Steam Achievements"
+                },
+                {
+                    "id": 28,
+                    "description": "Full controller support"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "23",
+                    "description": "Indie"
+                },
+                {
+                    "id": "70",
+                    "description": "Early Access"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/391190/ss_6ff2ac6cd89e6439473df81eef0eb08d5ef7a296.600x338.jpg?t=1470662048",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/391190/ss_6ff2ac6cd89e6439473df81eef0eb08d5ef7a296.1920x1080.jpg?t=1470662048"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/391190/ss_797aac5dbede4604c5b9e55241382ce4ae429076.600x338.jpg?t=1470662048",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/391190/ss_797aac5dbede4604c5b9e55241382ce4ae429076.1920x1080.jpg?t=1470662048"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/391190/ss_9aaa75ae06cdb4b472ec58b59732b5dd8d1baf44.600x338.jpg?t=1470662048",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/391190/ss_9aaa75ae06cdb4b472ec58b59732b5dd8d1baf44.1920x1080.jpg?t=1470662048"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/391190/ss_9924633ad736a8c5eebe150977f00d63e0adf659.600x338.jpg?t=1470662048",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/391190/ss_9924633ad736a8c5eebe150977f00d63e0adf659.1920x1080.jpg?t=1470662048"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/391190/ss_ae0fe4be15586bbecd373f583c9c90c3926cd28e.600x338.jpg?t=1470662048",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/391190/ss_ae0fe4be15586bbecd373f583c9c90c3926cd28e.1920x1080.jpg?t=1470662048"
+                },
+                {
+                    "id": 5,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/391190/ss_7ea560fef7f423066591352179bbdef68fab2b44.600x338.jpg?t=1470662048",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/391190/ss_7ea560fef7f423066591352179bbdef68fab2b44.1920x1080.jpg?t=1470662048"
+                },
+                {
+                    "id": 6,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/391190/ss_4777895957287ed2d31229f6f0d0101ddf285389.600x338.jpg?t=1470662048",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/391190/ss_4777895957287ed2d31229f6f0d0101ddf285389.1920x1080.jpg?t=1470662048"
+                },
+                {
+                    "id": 7,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/391190/ss_98e012271e3787f5ceadf809a8af75dd680a1114.600x338.jpg?t=1470662048",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/391190/ss_98e012271e3787f5ceadf809a8af75dd680a1114.1920x1080.jpg?t=1470662048"
+                },
+                {
+                    "id": 8,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/391190/ss_3f53da7b1337dbcfc8df32b066e3462d6b9933ea.600x338.jpg?t=1470662048",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/391190/ss_3f53da7b1337dbcfc8df32b066e3462d6b9933ea.1920x1080.jpg?t=1470662048"
+                },
+                {
+                    "id": 9,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/391190/ss_4fce87980076d96ab9519e9169b00d1ceb01e110.600x338.jpg?t=1470662048",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/391190/ss_4fce87980076d96ab9519e9169b00d1ceb01e110.1920x1080.jpg?t=1470662048"
+                },
+                {
+                    "id": 10,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/391190/ss_7a6c87ce055456be70f35e50285a426906501885.600x338.jpg?t=1470662048",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/391190/ss_7a6c87ce055456be70f35e50285a426906501885.1920x1080.jpg?t=1470662048"
+                },
+                {
+                    "id": 11,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/391190/ss_167e43e43a9fc78be9ec9fd4e18536bdf761056d.600x338.jpg?t=1470662048",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/391190/ss_167e43e43a9fc78be9ec9fd4e18536bdf761056d.1920x1080.jpg?t=1470662048"
+                },
+                {
+                    "id": 12,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/391190/ss_d6f6ea7de01509d4a05b8dde8087ba53411136ac.600x338.jpg?t=1470662048",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/391190/ss_d6f6ea7de01509d4a05b8dde8087ba53411136ac.1920x1080.jpg?t=1470662048"
+                },
+                {
+                    "id": 13,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/391190/ss_d5496714192f312cc86b99c68235e8fc882c2602.600x338.jpg?t=1470662048",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/391190/ss_d5496714192f312cc86b99c68235e8fc882c2602.1920x1080.jpg?t=1470662048"
+                },
+                {
+                    "id": 14,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/391190/ss_c92dd590422fa271fa7db566aaf5359d1a7ddca9.600x338.jpg?t=1470662048",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/391190/ss_c92dd590422fa271fa7db566aaf5359d1a7ddca9.1920x1080.jpg?t=1470662048"
+                },
+                {
+                    "id": 15,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/391190/ss_3764496daaf51cbe850c3b59ba9e20324f70ad13.600x338.jpg?t=1470662048",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/391190/ss_3764496daaf51cbe850c3b59ba9e20324f70ad13.1920x1080.jpg?t=1470662048"
+                },
+                {
+                    "id": 16,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/391190/ss_5be570d6e66773303a96b2a79d724e51cbfbb1ba.600x338.jpg?t=1470662048",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/391190/ss_5be570d6e66773303a96b2a79d724e51cbfbb1ba.1920x1080.jpg?t=1470662048"
+                },
+                {
+                    "id": 17,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/391190/ss_18592e41ae8d5c3a2bbce307d2f05594a30c86ba.600x338.jpg?t=1470662048",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/391190/ss_18592e41ae8d5c3a2bbce307d2f05594a30c86ba.1920x1080.jpg?t=1470662048"
+                },
+                {
+                    "id": 18,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/391190/ss_23d6928b0835e5b400e99177cb7e82f6d2ad4371.600x338.jpg?t=1470662048",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/391190/ss_23d6928b0835e5b400e99177cb7e82f6d2ad4371.1920x1080.jpg?t=1470662048"
+                },
+                {
+                    "id": 19,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/391190/ss_19f160b35bcbc229a447a7fcc8b6e95a5b67f932.600x338.jpg?t=1470662048",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/391190/ss_19f160b35bcbc229a447a7fcc8b6e95a5b67f932.1920x1080.jpg?t=1470662048"
+                },
+                {
+                    "id": 20,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/391190/ss_4648855f6d3041d9e3880c3e9234270b8fbe27db.600x338.jpg?t=1470662048",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/391190/ss_4648855f6d3041d9e3880c3e9234270b8fbe27db.1920x1080.jpg?t=1470662048"
+                },
+                {
+                    "id": 21,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/391190/ss_a8cfe7d706f602f0bf531e834faeb1f908f818a9.600x338.jpg?t=1470662048",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/391190/ss_a8cfe7d706f602f0bf531e834faeb1f908f818a9.1920x1080.jpg?t=1470662048"
+                },
+                {
+                    "id": 22,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/391190/ss_1f553b3f3fc6bc73d44cd00cd0a1b5443c509690.600x338.jpg?t=1470662048",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/391190/ss_1f553b3f3fc6bc73d44cd00cd0a1b5443c509690.1920x1080.jpg?t=1470662048"
+                },
+                {
+                    "id": 23,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/391190/ss_8363d555a87c5db626d60332ba7c79ff5b020b2d.600x338.jpg?t=1470662048",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/391190/ss_8363d555a87c5db626d60332ba7c79ff5b020b2d.1920x1080.jpg?t=1470662048"
+                },
+                {
+                    "id": 24,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/391190/ss_cf8166fafd4d93d303666551919d6640c05ed714.600x338.jpg?t=1470662048",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/391190/ss_cf8166fafd4d93d303666551919d6640c05ed714.1920x1080.jpg?t=1470662048"
+                },
+                {
+                    "id": 25,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/391190/ss_e0ad5f03d336a9faf728722da7af0f1b344572c9.600x338.jpg?t=1470662048",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/391190/ss_e0ad5f03d336a9faf728722da7af0f1b344572c9.1920x1080.jpg?t=1470662048"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 256657170,
+                    "name": "Dolguth",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256657170/movie.293x165.jpg?t=1447378424",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256657170/movie480.webm?t=1447378424",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256657170/movie_max.webm?t=1447378424"
+                    },
+                    "highlight": true
+                }
+            ],
+            "achievements": {
+                "total": 3,
+                "highlighted": [
+                    {
+                        "name": "Dolguth Wannabe",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/391190/7fd4e43b040dc21a16fe5bf51df39393c4554a4d.jpg"
+                    },
+                    {
+                        "name": "Dolguth Warrior",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/391190/0904d2e8008344f902424a9591de821e93f5ac0b.jpg"
+                    },
+                    {
+                        "name": "Dolguth Squad",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/391190/ada258a2f8f88667ebbf3c2cd6a450fd155a30c8.jpg"
+                    }
+                ]
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "20 Oct, 2015"
+            },
+            "support_info": {
+                "url": "",
+                "email": "info@boiagames.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/391190/page_bg_generated_v6b.jpg?t=1470662048",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

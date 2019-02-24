@@ -1,0 +1,71 @@
+{
+    "9510": {
+        "success": true,
+        "data": {
+            "type": "demo",
+            "name": "Gish Demo",
+            "steam_appid": 9510,
+            "required_age": 0,
+            "is_free": true,
+            "detailed_description": "",
+            "about_the_game": "",
+            "short_description": "",
+            "fullgame": {
+                "appid": "9500",
+                "name": "Gish"
+            },
+            "supported_languages": "English",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/9510/header.jpg?t=1447351198",
+            "website": null,
+            "pc_requirements": {
+                "minimum": "<p><strong>Minimum: </strong>Windows 2000/XP/Vista, AMD, Intel or G3 1000+ Mhz processor; OpenGL Compatible 3D Graphics adaptor (ATI, NVIDIA, Intel, etc.) with 32 mb of video memory; 256MB of memory</p>\n\t\t\t\t\t<p><strong>Recommended: </strong>AMD, Intel, or G4 1500+ Mhz processor; OpenGL Compatible 3D Graphics adaptor (ATI, NVIDIA, Intel, etc.) with 64 mb of video memory, 256MB of memory</p>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "developers": [
+                "Cryptic Sea"
+            ],
+            "publishers": [
+                "Chronic Logic"
+            ],
+            "package_groups": [],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "metacritic": {
+                "score": 80
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 10,
+                    "description": "Game demo"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "23",
+                    "description": "Indie"
+                }
+            ],
+            "release_date": {
+                "coming_soon": false,
+                "date": "3 Jan, 2008"
+            },
+            "support_info": {
+                "url": "",
+                "email": ""
+            },
+            "background": "",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

@@ -1,0 +1,97 @@
+{
+    "530435": {
+        "success": true,
+        "data": {
+            "type": "episode",
+            "name": "Battle Disc: Fighting, The Fire and The Water!",
+            "steam_appid": 530435,
+            "required_age": 0,
+            "is_free": false,
+            "controller_support": "full",
+            "detailed_description": "",
+            "about_the_game": "",
+            "short_description": "It's time for Ken and Blaze's next tournament match! Their opponent this time is Dolly and Storm! In the midst of training, our heroes meet a mysterious Beast Disc that might turn the tides in the upcoming fight. Will Ken and Blaze defeat their friends?",
+            "fullgame": {
+                "appid": "530400",
+                "name": "Battle Disc"
+            },
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/530435/header.jpg?t=1477068456",
+            "website": null,
+            "pc_requirements": [],
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "publishers": [
+                ""
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 99,
+                "final": 99,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "0,99€"
+            },
+            "packages": [
+                127687
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Battle Disc: Fighting, The Fire and The Water!",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 127687,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Battle Disc: S01E16 - 0,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 99
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 28,
+                    "description": "Full controller support"
+                },
+                {
+                    "id": 33,
+                    "description": "Native Steam Controller Support"
+                },
+                {
+                    "id": 13,
+                    "description": "Captions available"
+                }
+            ],
+            "achievements": {
+                "total": 0
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "21 Oct, 2016"
+            },
+            "support_info": {
+                "url": "",
+                "email": ""
+            },
+            "background": "",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

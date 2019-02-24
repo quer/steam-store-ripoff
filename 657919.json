@@ -1,0 +1,94 @@
+{
+    "657919": {
+        "success": true,
+        "data": {
+            "type": "episode",
+            "name": "Piacevole: Panna Cotta",
+            "steam_appid": 657919,
+            "required_age": 0,
+            "is_free": false,
+            "controller_support": "full",
+            "detailed_description": "",
+            "about_the_game": "",
+            "short_description": "Festa opens a food stall at the shopping district’s festival. Everyone seems to be in a slightly different mood as they cook up food for the festival. Suddenly a mysterious handsome man shows up with Morin and Maro can’t hide his anxiety.",
+            "fullgame": {
+                "appid": "653350",
+                "name": "Piacevole"
+            },
+            "supported_languages": "English<strong>*</strong>, Japanese<br><strong>*</strong>languages with full audio support",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/653350/header.jpg?t=1529697980",
+            "website": null,
+            "pc_requirements": [],
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "publishers": [
+                ""
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 99,
+                "final": 99,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "0,99€"
+            },
+            "packages": [
+                185901
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Piacevole: Panna Cotta",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 185901,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Piacevole: Panna Cotta - 0,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 99
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 28,
+                    "description": "Full controller support"
+                },
+                {
+                    "id": 33,
+                    "description": "Native Steam Controller Support"
+                }
+            ],
+            "achievements": {
+                "total": 0
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "21 Jun, 2017"
+            },
+            "support_info": {
+                "url": "",
+                "email": ""
+            },
+            "background": "",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "22010": {
+        "success": true,
+        "data": {
+            "type": "demo",
+            "name": "World of Goo Demo",
+            "steam_appid": 22010,
+            "required_age": 0,
+            "is_free": true,
+            "detailed_description": "",
+            "about_the_game": "",
+            "short_description": "",
+            "fullgame": {
+                "appid": "22000",
+                "name": "World of Goo"
+            },
+            "supported_languages": "English",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/22010/header.jpg?t=1447351524",
+            "website": "http://2dboy.com/games.php",
+            "pc_requirements": {
+                "minimum": "<p><strong>Minimum:</strong></p>\n\t\t\t\t\t<ul>\n\t\t\t\t\t<li><strong>Supported OS: </strong>Windows&reg; XP or Vista</li>\n\t\t\t\t\t<li><strong>Processor: </strong>1GHz or faster</li>\n\t\t\t\t\t<li><strong>Memory: </strong>512+MB RAM</li>\n\t\t\t\t\t<li><strong>Video: </strong>Any 3D graphics accelerator less than 5 years old</li>\n\t\t\t\t\t<li><strong>DirectX&reg; Version: </strong>9.0c</li>                    \n\t\t\t\t\t<li><strong>Hard Drive: </strong>100MB </li>                    </ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "developers": [
+                "2D BOY "
+            ],
+            "publishers": [
+                "2D BOY "
+            ],
+            "package_groups": [],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": true
+            },
+            "metacritic": {
+                "score": 90
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 10,
+                    "description": "Game demo"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "23",
+                    "description": "Indie"
+                }
+            ],
+            "achievements": {
+                "total": 0
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "Oct 16, 2008"
+            },
+            "support_info": {
+                "url": "",
+                "email": ""
+            },
+            "background": "",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

@@ -1,0 +1,128 @@
+{
+    "660930": {
+        "success": true,
+        "data": {
+            "type": "dlc",
+            "name": "Aetherspace - Expansion Pack",
+            "steam_appid": 660930,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "This Expansion Pack unlocks the following additional starships:<br><ul class=\"bb_ul\"><li><strong>VK-6 Valkyre:</strong> a fast and heavily armed starfighter.<br></li><li><strong>WR-7 Wraith:</strong> a stealth-capable starfighter.<br></li><li><strong>SH-8 Shaman:</strong> a heavy drone-carrier.<br></li><li><strong>MT-9 Moth:</strong> a lightning-fast light starfighter.<br></li><li><strong>MT-10 Guardian:</strong> a heavily-shielded starfighter.</li></ul><br>In addition, 50 starfighter upgrades are unlocked.",
+            "about_the_game": "This Expansion Pack unlocks the following additional starships:<br><ul class=\"bb_ul\"><li><strong>VK-6 Valkyre:</strong> a fast and heavily armed starfighter.<br></li><li><strong>WR-7 Wraith:</strong> a stealth-capable starfighter.<br></li><li><strong>SH-8 Shaman:</strong> a heavy drone-carrier.<br></li><li><strong>MT-9 Moth:</strong> a lightning-fast light starfighter.<br></li><li><strong>MT-10 Guardian:</strong> a heavily-shielded starfighter.</li></ul><br>In addition, 50 starfighter upgrades are unlocked.",
+            "short_description": "This Expansion Pack unlocks 5 additional starships and 50 starship upgrades.",
+            "fullgame": {
+                "appid": "659900",
+                "name": "Aetherspace"
+            },
+            "supported_languages": "English",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/660930/header.jpg?t=1499084161",
+            "website": "http://www.aetherspacegame.com/",
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows Vista/7/8/10<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Any graphics card with DX11 feature level 9.3 capabilities.<br></li><li><strong>DirectX:</strong> Version 11</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows Vista/7/8/10<br></li><li><strong>Processor:</strong> Intel(R) Core(TM) i5-2500 CPU @ 3.30GHz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 560 Ti or equivalent<br></li><li><strong>DirectX:</strong> Version 11</li></ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 16.04<br></li><li><strong>Memory:</strong> 2 GB RAM</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 16.04<br></li><li><strong>Memory:</strong> 4 GB RAM</li></ul>"
+            },
+            "developers": [
+                "Munchkin's Lair"
+            ],
+            "publishers": [
+                "Munchkin's Lair"
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 99,
+                "final": 99,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "0,99€"
+            },
+            "packages": [
+                187359
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Aetherspace - Expansion Pack",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 187359,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Aetherspace - Expansion Pack - 0,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 99
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": true
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 36,
+                    "description": "Online Multi-Player"
+                },
+                {
+                    "id": 27,
+                    "description": "Cross-Platform Multiplayer"
+                },
+                {
+                    "id": 21,
+                    "description": "Downloadable Content"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "37",
+                    "description": "Free to Play"
+                },
+                {
+                    "id": "23",
+                    "description": "Indie"
+                },
+                {
+                    "id": "2",
+                    "description": "Strategy"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/660930/ss_0d155ffbe00e310ce556652b4e8d0e8f190ac33c.600x338.jpg?t=1499084161",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/660930/ss_0d155ffbe00e310ce556652b4e8d0e8f190ac33c.1920x1080.jpg?t=1499084161"
+                }
+            ],
+            "release_date": {
+                "coming_soon": false,
+                "date": "3 Jul, 2017"
+            },
+            "support_info": {
+                "url": "http://www.aetherspacegame.com/",
+                "email": "info@munchkinslair.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/660930/page_bg_generated_v6b.jpg?t=1499084161",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

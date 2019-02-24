@@ -1,0 +1,152 @@
+{
+    "665680": {
+        "success": true,
+        "data": {
+            "type": "game",
+            "name": "Fighter Creator",
+            "steam_appid": 665680,
+            "required_age": 0,
+            "is_free": false,
+            "dlc": [
+                666030
+            ],
+            "detailed_description": "<h2 class=\"bb_tag\">VERSION 4.5</h2><br><br><strong>SCRIPTING CHANGES</strong><br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/665680/extras/FIGHTER_CREATOR_4.5__-__STANDARD_8_4_2018_12_25_37_AM.png ?t=1536432911\" ><br><br>The script creation process has been completely redone, allowing you to type in the functions instead of having to click through menus, significantly cutting down the time it takes to program your game.<br><br><strong>EXAMPLE PROJECT</strong><br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/665680/extras/FIGHTER_CREATOR_4.5__-__STANDARD_8_4_2018_12_26_23_AM.png ?t=1536432911\" ><br><br>This version of Fighter Creator includes an example project to help you quickly get acclimated to using the engine. Includes:<br><br><u>Menus</u> - Title Screen, Options Menu, Character Select Menu, Stage Select Menu, Game Heads Up Display, and Loading Screen.<br><u>Game Modes</u> - Arcade, Versus, and Practice Mode.<br><u>One Character</u> - With basic a.i. included.<h2 class=\"bb_tag\">ENGINE DESIGN</h2><br><br>Fighter Creator utilizes a scripting system that allows users to have complete control over their projects without having to know or learn any programming languages. Basically programming concepts have been wrapped up into easy to understand functions, making the engine more powerful and keeping it easy to use at the same time.<br><br>Fighter Creator also doesn't have any built-in game systems like character attributes, damage and attacks systems, etc. Because all of these system can be built from scratch to work exactly the way you want and be shared with other users, encouraging new concepts, creativity, and community interactions.<h2 class=\"bb_tag\">DEVELOPMENT TOOLS</h2><br><br>Fighter Creator provides a series of tools to build your game piece by piece:<br><br><strong>Media Management</strong><br><br>Import sprites, audio, and videos, or rip sprites from sprite sheets in the editor for use in your projects.<br><i>Supported Image Formats  -  PNG, BMP, JPG, DDS, TGA</i><br><i>Supported Audio Formats  -  OGG, FLAC, WAV, MP3, AIFF</i><br><i>Supported Video Formats  -  AVI, MOV, QT, MPG</i><br><br><strong>Data Management</strong><br><br>Variables are used for storing and retrieving data needed to develop game systems. <br>Whether you are building a stage, designing a cinematic, or setting up a special effect, objects are used to display any sprites on screen.<br><br><strong>Script Management</strong><br><br>Scripts add functionality to every aspect of your games. Loading/Unloading resources, creating attacks for characters, and configuring game modes all require scripts to make possible.<br>Predefined Scripts can also be created to work as a template for creating an additional set of scripts, drastically speeding up the process.<br><br><strong>Menu Editor</strong><br><br>Design your own title screens, character/stage selection screens, heads up displays, and whatever else you may need for your game.<br><br><strong>Stage Editor</strong><br><br>Create large, multi-layered stages for players to fight in. Add hazards, destructible objects, secret areas, and more.<br><br><strong>Special Effect Editor</strong><br><br>Setup scripted events to display intros and outros for your characters or progress your game's story.<br>Easily create amazing, detailed explosions that can damage other players or trigger special stage events.<br><br><strong>Save File System</strong><br><br>Allows your games to save data so that you could add support for features like unlockable characters and story modes.<h2 class=\"bb_tag\">FEATURES</h2><br><br><strong>4K Ultra HD</strong><br><br>Fighter Creator can scale up or down to any 16:9 display resolution, meaning you can focus on building your games and be assured it will look just they way you want it to at 720p to 4K. You can also setup your games to use different assets depending on the selected resolution.<br><br><strong>Sprite Upscaling &amp; Detailed Image Manipulation</strong><br><br>Upscale your game's sprites to higher resolutions without adding unnecessary artifacts and pixilation.<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/665680/extras/i3.png?t=1536432911\" ><br><br>You can also change the look of these sprites by using an extensive set of image filters.<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/665680/extras/i4.jpg?t=1536432911\" ><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/665680/extras/i5.jpg?t=1536432911\" ><br><br><br><strong>Post Processing</strong><br><br>Color Grading and Bloom effects allow you to dramatically alter the way your games looks in real-time.<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/665680/extras/fc_ss1.jpg?t=1536432911\" ><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/665680/extras/fc_ss2.jpg?t=1536432911\" ><h2 class=\"bb_tag\">STANDARD EDITION</h2><br><br>Grants you the ability to export any projects and resources created by you for non-commercial use. Games will also include a Fighter Creator splash screen when they start up.",
+            "about_the_game": "<h2 class=\"bb_tag\">VERSION 4.5</h2><br><br><strong>SCRIPTING CHANGES</strong><br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/665680/extras/FIGHTER_CREATOR_4.5__-__STANDARD_8_4_2018_12_25_37_AM.png ?t=1536432911\" ><br><br>The script creation process has been completely redone, allowing you to type in the functions instead of having to click through menus, significantly cutting down the time it takes to program your game.<br><br><strong>EXAMPLE PROJECT</strong><br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/665680/extras/FIGHTER_CREATOR_4.5__-__STANDARD_8_4_2018_12_26_23_AM.png ?t=1536432911\" ><br><br>This version of Fighter Creator includes an example project to help you quickly get acclimated to using the engine. Includes:<br><br><u>Menus</u> - Title Screen, Options Menu, Character Select Menu, Stage Select Menu, Game Heads Up Display, and Loading Screen.<br><u>Game Modes</u> - Arcade, Versus, and Practice Mode.<br><u>One Character</u> - With basic a.i. included.<h2 class=\"bb_tag\">ENGINE DESIGN</h2><br><br>Fighter Creator utilizes a scripting system that allows users to have complete control over their projects without having to know or learn any programming languages. Basically programming concepts have been wrapped up into easy to understand functions, making the engine more powerful and keeping it easy to use at the same time.<br><br>Fighter Creator also doesn't have any built-in game systems like character attributes, damage and attacks systems, etc. Because all of these system can be built from scratch to work exactly the way you want and be shared with other users, encouraging new concepts, creativity, and community interactions.<h2 class=\"bb_tag\">DEVELOPMENT TOOLS</h2><br><br>Fighter Creator provides a series of tools to build your game piece by piece:<br><br><strong>Media Management</strong><br><br>Import sprites, audio, and videos, or rip sprites from sprite sheets in the editor for use in your projects.<br><i>Supported Image Formats  -  PNG, BMP, JPG, DDS, TGA</i><br><i>Supported Audio Formats  -  OGG, FLAC, WAV, MP3, AIFF</i><br><i>Supported Video Formats  -  AVI, MOV, QT, MPG</i><br><br><strong>Data Management</strong><br><br>Variables are used for storing and retrieving data needed to develop game systems. <br>Whether you are building a stage, designing a cinematic, or setting up a special effect, objects are used to display any sprites on screen.<br><br><strong>Script Management</strong><br><br>Scripts add functionality to every aspect of your games. Loading/Unloading resources, creating attacks for characters, and configuring game modes all require scripts to make possible.<br>Predefined Scripts can also be created to work as a template for creating an additional set of scripts, drastically speeding up the process.<br><br><strong>Menu Editor</strong><br><br>Design your own title screens, character/stage selection screens, heads up displays, and whatever else you may need for your game.<br><br><strong>Stage Editor</strong><br><br>Create large, multi-layered stages for players to fight in. Add hazards, destructible objects, secret areas, and more.<br><br><strong>Special Effect Editor</strong><br><br>Setup scripted events to display intros and outros for your characters or progress your game's story.<br>Easily create amazing, detailed explosions that can damage other players or trigger special stage events.<br><br><strong>Save File System</strong><br><br>Allows your games to save data so that you could add support for features like unlockable characters and story modes.<h2 class=\"bb_tag\">FEATURES</h2><br><br><strong>4K Ultra HD</strong><br><br>Fighter Creator can scale up or down to any 16:9 display resolution, meaning you can focus on building your games and be assured it will look just they way you want it to at 720p to 4K. You can also setup your games to use different assets depending on the selected resolution.<br><br><strong>Sprite Upscaling &amp; Detailed Image Manipulation</strong><br><br>Upscale your game's sprites to higher resolutions without adding unnecessary artifacts and pixilation.<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/665680/extras/i3.png?t=1536432911\" ><br><br>You can also change the look of these sprites by using an extensive set of image filters.<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/665680/extras/i4.jpg?t=1536432911\" ><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/665680/extras/i5.jpg?t=1536432911\" ><br><br><br><strong>Post Processing</strong><br><br>Color Grading and Bloom effects allow you to dramatically alter the way your games looks in real-time.<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/665680/extras/fc_ss1.jpg?t=1536432911\" ><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/665680/extras/fc_ss2.jpg?t=1536432911\" ><h2 class=\"bb_tag\">STANDARD EDITION</h2><br><br>Grants you the ability to export any projects and resources created by you for non-commercial use. Games will also include a Fighter Creator splash screen when they start up.",
+            "short_description": "A powerful, point and click fighting game creation engine designed to make creating complex fighting games much easier. Fighter Creator has specifically been built to be completely accessible through an easy to use editor without losing power or flexibility.",
+            "supported_languages": "English",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/665680/header.jpg?t=1536432911",
+            "website": null,
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10, 8.1, 8, 7, Vista, XP<br></li><li><strong>Processor:</strong> 2 gigahertz (GHz) or faster processor.<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "developers": [
+                "CSGAMES"
+            ],
+            "publishers": [
+                "CSGAMES"
+            ],
+            "demos": [
+                {
+                    "appid": 665710,
+                    "description": ""
+                }
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 399,
+                "final": 399,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "3,99€"
+            },
+            "packages": [
+                189064
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Fighter Creator",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 189064,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Fighter Creator - 3,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 399
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "genres": [
+                {
+                    "id": "51",
+                    "description": "Animation & Modeling"
+                },
+                {
+                    "id": "53",
+                    "description": "Design & Illustration"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/665680/ss_f3ad50353500c52efdb896b811182638eccd5783.600x338.jpg?t=1536432911",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/665680/ss_f3ad50353500c52efdb896b811182638eccd5783.1920x1080.jpg?t=1536432911"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/665680/ss_c38fe21ba0b4e943183c1a9b60a221a76bd76333.600x338.jpg?t=1536432911",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/665680/ss_c38fe21ba0b4e943183c1a9b60a221a76bd76333.1920x1080.jpg?t=1536432911"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/665680/ss_d9c86dd083a4b94fa5242ad1a2c01fec447dae06.600x338.jpg?t=1536432911",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/665680/ss_d9c86dd083a4b94fa5242ad1a2c01fec447dae06.1920x1080.jpg?t=1536432911"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/665680/ss_3305e3523a38b13888177dec7d582ad356785f9d.600x338.jpg?t=1536432911",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/665680/ss_3305e3523a38b13888177dec7d582ad356785f9d.1920x1080.jpg?t=1536432911"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/665680/ss_67ceb29573f0806d3e540f3bd07daffd9b41d0c8.600x338.jpg?t=1536432911",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/665680/ss_67ceb29573f0806d3e540f3bd07daffd9b41d0c8.1920x1080.jpg?t=1536432911"
+                },
+                {
+                    "id": 5,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/665680/ss_fb6e7c5dfdf539e0cdce60d9fd365e1dde053f44.600x338.jpg?t=1536432911",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/665680/ss_fb6e7c5dfdf539e0cdce60d9fd365e1dde053f44.1920x1080.jpg?t=1536432911"
+                },
+                {
+                    "id": 6,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/665680/ss_0a384614714649eff7b61551e608961a94dc2c12.600x338.jpg?t=1536432911",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/665680/ss_0a384614714649eff7b61551e608961a94dc2c12.1920x1080.jpg?t=1536432911"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 256689649,
+                    "name": "Using the Example Project",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256689649/movie.293x165.jpg?t=1536432905",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256689649/movie480.webm?t=1536432905",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256689649/movie_max.webm?t=1536432905"
+                    },
+                    "highlight": true
+                }
+            ],
+            "achievements": {
+                "total": 0
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "2 Aug, 2017"
+            },
+            "support_info": {
+                "url": "",
+                "email": "cs_games@outlook.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/665680/page_bg_generated_v6b.jpg?t=1536432911",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

@@ -1,0 +1,141 @@
+{
+    "408100": {
+        "success": true,
+        "data": {
+            "type": "dlc",
+            "name": "Dinosaur Hunt - Stegosaurus Expansion Pack",
+            "steam_appid": 408100,
+            "required_age": 0,
+            "is_free": false,
+            "controller_support": "full",
+            "detailed_description": "Heavy built, armored up to the teeth, with a little imagination in dna modification, this herbivore will hurt you - easily. Stegosaurus is the beast.",
+            "about_the_game": "Heavy built, armored up to the teeth, with a little imagination in dna modification, this herbivore will hurt you - easily. Stegosaurus is the beast.",
+            "short_description": "Heavy built, armored up to the teeth, with a little imagination in dna modification, this herbivore will hurt you - easily. Stegosaurus is the beast.",
+            "fullgame": {
+                "appid": "401190",
+                "name": "Dinosaur Hunt"
+            },
+            "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/408100/header.jpg?t=1465051302",
+            "website": null,
+            "pc_requirements": {
+                "minimum": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li><strong>SO:</strong> Windows XP SP3 (32 bit) / Vista</li></ul>"
+            },
+            "mac_requirements": {
+                "minimum": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li><strong>SO:</strong> 10.6</li></ul>"
+            },
+            "linux_requirements": {
+                "minimum": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li><strong>Procesador:</strong> Intel(R) Core(TM)2 Duo 2.4, AMD Athlon(TM) X2 2.8 Ghz</li></ul>"
+            },
+            "developers": [
+                "ANPA.US"
+            ],
+            "publishers": [
+                "ANPA.US"
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 99,
+                "final": 39,
+                "discount_percent": 61,
+                "initial_formatted": "0,99€",
+                "final_formatted": "0,39€"
+            },
+            "packages": [
+                80652
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Dinosaur Hunt - Stegosaurus Expansion Pack",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 80652,
+                            "percent_savings_text": "-61%",
+                            "percent_savings": 0,
+                            "option_text": "Dinosaur Hunt - Stegosaurus Expansion Pack - <span class=\"discount_original_price\">0,99€</span> 0,39€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 39
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": true,
+                "linux": true
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 21,
+                    "description": "Downloadable Content"
+                },
+                {
+                    "id": 22,
+                    "description": "Steam Achievements"
+                },
+                {
+                    "id": 28,
+                    "description": "Full controller support"
+                },
+                {
+                    "id": 29,
+                    "description": "Steam Trading Cards"
+                },
+                {
+                    "id": 25,
+                    "description": "Steam Leaderboards"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "1",
+                    "description": "Action"
+                },
+                {
+                    "id": "25",
+                    "description": "Adventure"
+                },
+                {
+                    "id": "23",
+                    "description": "Indie"
+                },
+                {
+                    "id": "28",
+                    "description": "Simulation"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/408100/ss_9404ceaee44eb16a691fd2c9caa9deea8c0259f6.600x338.jpg?t=1465051302",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/408100/ss_9404ceaee44eb16a691fd2c9caa9deea8c0259f6.1920x1080.jpg?t=1465051302"
+                }
+            ],
+            "release_date": {
+                "coming_soon": false,
+                "date": "13 Nov, 2015"
+            },
+            "support_info": {
+                "url": "http://www.anpa.us",
+                "email": "info@anpa.us"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/408100/page_bg_generated_v6b.jpg?t=1465051302",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

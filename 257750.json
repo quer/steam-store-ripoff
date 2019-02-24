@@ -1,0 +1,269 @@
+{
+    "257750": {
+        "success": true,
+        "data": {
+            "type": "game",
+            "name": "Bloody Trapland",
+            "steam_appid": 257750,
+            "required_age": 0,
+            "is_free": false,
+            "controller_support": "full",
+            "dlc": [
+                899330
+            ],
+            "detailed_description": "Bloody Trapland is a fast-paced multiplayer platformer where the levels are filled with dozens of dangerous traps and tricky jumps that stand in your way!<br>Play co-op with your friends or take on the challenges on your own. With support for up to 4 players at once, local and/or online.<br><br><ul class=\"bb_ul\"><li>100+ levels.<br></li><li>1-4 Players.<br></li><li>Online Multiplayer<br></li><li> Level Editor, Share and play your creations with friends.<br></li><li>Three different game modes.<br></li><li>co-op only and secret areas.<br></li><li>Online scoreboard.<br></li><li>4 playable characters.<br></li><li>Unique soundtrack.<br></li><li>Hours and hours of gametime.</li></ul><br>This is a challenging, yet simple game that anyone can enjoy, whether you're a casual or a hardcore gamer.",
+            "about_the_game": "Bloody Trapland is a fast-paced multiplayer platformer where the levels are filled with dozens of dangerous traps and tricky jumps that stand in your way!<br>Play co-op with your friends or take on the challenges on your own. With support for up to 4 players at once, local and/or online.<br><br><ul class=\"bb_ul\"><li>100+ levels.<br></li><li>1-4 Players.<br></li><li>Online Multiplayer<br></li><li> Level Editor, Share and play your creations with friends.<br></li><li>Three different game modes.<br></li><li>co-op only and secret areas.<br></li><li>Online scoreboard.<br></li><li>4 playable characters.<br></li><li>Unique soundtrack.<br></li><li>Hours and hours of gametime.</li></ul><br>This is a challenging, yet simple game that anyone can enjoy, whether you're a casual or a hardcore gamer.",
+            "short_description": "Bloody Trapland is a fast-paced multiplayer platformer where the levels are filled with dozens of dangerous traps and tricky jumps that stand in your way! Play co-op with your friends or take on the challenges on your own. With support for up to 4 players at once, local and/or online.",
+            "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/257750/header.jpg?t=1547303350",
+            "website": "http://www.bloodytrapland.com",
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP/Vista/7 (32- or 64-bit)<br></li><li><strong>Processor:</strong> 1.6 Ghz<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA® GeForce 5+ ATI Radeon R300+<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 500 MB available space<br></li><li><strong>Additional Notes:</strong> Compatible with Keyboard and/or up too 4 Xbox 360 controllers, XNA 4.0 and .NET 3.5 required</li></ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "developers": [
+                "2Play"
+            ],
+            "publishers": [
+                "2Play"
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 999,
+                "final": 149,
+                "discount_percent": 85,
+                "initial_formatted": "9,99€",
+                "final_formatted": "1,49€"
+            },
+            "packages": [
+                32263,
+                34685
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Bloody Trapland",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 32263,
+                            "percent_savings_text": "-85%",
+                            "percent_savings": 0,
+                            "option_text": "Bloody Trapland - <span class=\"discount_original_price\">9,99€</span> 1,49€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 149
+                        },
+                        {
+                            "packageid": 34685,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Bloody Trapland 4-Pack - 27,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 2799
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 1,
+                    "description": "Multi-player"
+                },
+                {
+                    "id": 36,
+                    "description": "Online Multi-Player"
+                },
+                {
+                    "id": 37,
+                    "description": "Local Multi-Player"
+                },
+                {
+                    "id": 9,
+                    "description": "Co-op"
+                },
+                {
+                    "id": 38,
+                    "description": "Online Co-op"
+                },
+                {
+                    "id": 39,
+                    "description": "Local Co-op"
+                },
+                {
+                    "id": 24,
+                    "description": "Shared/Split Screen"
+                },
+                {
+                    "id": 22,
+                    "description": "Steam Achievements"
+                },
+                {
+                    "id": 28,
+                    "description": "Full controller support"
+                },
+                {
+                    "id": 29,
+                    "description": "Steam Trading Cards"
+                },
+                {
+                    "id": 30,
+                    "description": "Steam Workshop"
+                },
+                {
+                    "id": 15,
+                    "description": "Stats"
+                },
+                {
+                    "id": 17,
+                    "description": "Includes level editor"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "1",
+                    "description": "Action"
+                },
+                {
+                    "id": "25",
+                    "description": "Adventure"
+                },
+                {
+                    "id": "4",
+                    "description": "Casual"
+                },
+                {
+                    "id": "23",
+                    "description": "Indie"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/257750/ss_43ddc4df1d160e8bd8d5c1af8133f90689465c2a.600x338.jpg?t=1547303350",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/257750/ss_43ddc4df1d160e8bd8d5c1af8133f90689465c2a.1920x1080.jpg?t=1547303350"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/257750/ss_7f04f8e2f555774dbbfe1edfd4bdb4d7613a4567.600x338.jpg?t=1547303350",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/257750/ss_7f04f8e2f555774dbbfe1edfd4bdb4d7613a4567.1920x1080.jpg?t=1547303350"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/257750/ss_8514e4f775e703de561ed1528fb72c1ff18ad999.600x338.jpg?t=1547303350",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/257750/ss_8514e4f775e703de561ed1528fb72c1ff18ad999.1920x1080.jpg?t=1547303350"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/257750/ss_7eadfd24685e2714f7e780f9038849a9d9413892.600x338.jpg?t=1547303350",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/257750/ss_7eadfd24685e2714f7e780f9038849a9d9413892.1920x1080.jpg?t=1547303350"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/257750/ss_db403db829a5d4b9e83d31ff169a3ab15b2d217c.600x338.jpg?t=1547303350",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/257750/ss_db403db829a5d4b9e83d31ff169a3ab15b2d217c.1920x1080.jpg?t=1547303350"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 2029915,
+                    "name": "Bloody Trapland - First Trailer",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/2029915/movie.293x165.jpg?t=1447359291",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/2029915/movie480.webm?t=1447359291",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/2029915/movie_max.webm?t=1447359291"
+                    },
+                    "highlight": true
+                },
+                {
+                    "id": 2029922,
+                    "name": "Bloody Trapland - Second Trailer",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/2029922/movie.293x165.jpg?t=1447359293",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/2029922/movie480.webm?t=1447359293",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/2029922/movie_max.webm?t=1447359293"
+                    },
+                    "highlight": true
+                }
+            ],
+            "recommendations": {
+                "total": 1949
+            },
+            "achievements": {
+                "total": 29,
+                "highlighted": [
+                    {
+                        "name": "Kitty can fly!",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/257750/42ba9b9bbd478710918b7b2a60c7d335a065a489.jpg"
+                    },
+                    {
+                        "name": "The cake is a Lie!",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/257750/2f85e91ff112311d63dd833fdd23cd38f4fec077.jpg"
+                    },
+                    {
+                        "name": "Token of Dedication!",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/257750/1eef4b7991effe1d6fe386eef52ebe98ea45a9d4.jpg"
+                    },
+                    {
+                        "name": "So it begins!",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/257750/af453f5ead90e52892f0c792062e85f6414a0700.jpg"
+                    },
+                    {
+                        "name": "After rain comes sunshine!",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/257750/d3de287077509a4539f6e4561594d882f039e884.jpg"
+                    },
+                    {
+                        "name": "Easy wasn't it?",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/257750/8fddceb1803be03c52d33e9fe567b9ba7f9765b2.jpg"
+                    },
+                    {
+                        "name": "Icy wasn't it?",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/257750/8f34476942f0e832ff1d9714cc1924310b4f7926.jpg"
+                    },
+                    {
+                        "name": "From one Hell to another.",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/257750/2d220f6e8a389efd09f70f97df4598f012dd1848.jpg"
+                    },
+                    {
+                        "name": "Hall of Fame.",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/257750/f7a537e0382b053b4635b1282ba49a6836081849.jpg"
+                    },
+                    {
+                        "name": "The more the bloody-ier!",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/257750/9c5c650a9f4b3177e6dc029c548ca406c85ff304.jpg"
+                    }
+                ]
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "18 Nov, 2013"
+            },
+            "support_info": {
+                "url": "",
+                "email": "support@2play.se"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/257750/page_bg_generated_v6b.jpg?t=1547303350",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

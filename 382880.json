@@ -1,0 +1,242 @@
+{
+    "382880": {
+        "success": true,
+        "data": {
+            "type": "game",
+            "name": "Feudalism",
+            "steam_appid": 382880,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "<h1>Multiplayer Configuration</h1><p><h2 class=\"bb_tag\">Basic Configuration</h2><br>The host user starts the game and creates a savegame file which must be shared with other players. <br>Players get the file and play their turn normally and when they finish, a new file with all player actions is generated.<br>This file must return to the host, which will then eventually generate a new savegame. <br>The cycle repeats. <br><br>It may sound old-fashioned as a solution, but offers some clear advantages: <br><ul class=\"bb_ul\"><li>Anyone can act as a server and they do not need anything except the game itself. There is no need for fancy hardware or expensive dedicated server or hosting services.<br></li><li>The match can be played asynchronously. It is not necessary that players play all at the same time.<br></li><li>If a player forgets or can not perform his turn for some reason, the AI of the game can take over and prevent the player losing their turn. </li></ul><br>You can synchronize the file using many free cloud storage solutions like Dropbox.<br><br>Keep in mind the only one thing with this type of approach to the game: When the Host processes their turn, all your units move at the same time of your enemy.<h2 class=\"bb_tag\">Verbose Configuration</h2><br>The multiplayer game is created exactly like a single player game, except it should be specified that it is a multiplayer game, and shall provide a folder in which data is exchanged. Optionally (but highly recommended) a password can be set. Each player can set a password (and change it at any time), to protect their data. <br><br>Here's how to create a multiplayer game using Dropbox as a synchronization tool. <br><br>First, in the options of the initial game menu we need to set the shared folder.<br>The special tag %userpath automatically takes the user profile location on hard drive, for example C:/Users/UserName/.<br>It should be done only once, unless you decide to change the folder, of course.<br>In this case it shoulld point to a subfolder of Dropbox installed on your computer.<br><img src=\"https://i.imgur.com/dqEysQO.jpg\" ><br><img src=\"https://i.imgur.com/5GkUBiR.jpg\" ><br><br>The next step is to create a New Game and configure it as you prefer.<br>In this case, each family added manually, will then be controlled by a different human player, so do not forget to enter all your friends! :-) <br><br>From the Multiplayer Settings panel, then you must set the correct modes of play, precisely Multiplayer. <br><br>From here it is possible to override the shared folder, if desired (output path). It is useful if you want to make more games simultaneously, for example, and break them down by sub folders. <br><img src=\"https://i.imgur.com/HttlKGw.jpg\" ><br><br>In addition, the password of the Game Master would always be a good idea to set it (default is master).<br><img src=\"https://i.imgur.com/kmfpUgx.jpg\" ><br><br>These are the basic settings for the Multiplayer. Then there are lots of options that relate to the game itself, but these ones we leave you to discover! :-) <br><br><strong><i>Point 1</i></strong><br>After the configuration, starting the game, the host creats the first savegame. The game is created!<br>A simple message informs us that everything is ready.<br>The file name has a unique id for each game.<br>Once the message is closed, the game will automatically return to the main menu. <br><img src=\"https://i.imgur.com/yO4u7g3.jpg\" ><br><br><strong><i>Point 2</i></strong><br>Now, all the other players, who have the shared folder set to the Dropbox folder, will gather the files on their computer. From the game menu, Load Game, Multiplayer tab, the file must be loaded.<br>(If the file is not there, make sure you have active sync on that folder!). <br>A new window prompts you to select your family and eventually, password. <br><img src=\"https://i.imgur.com/RRzx6x7.jpg\" ><br><br><strong><i>Point 3</i></strong><br>At this point, each player plays as they see fit, and when ready, press the End Turn command, closes his turn and the data end up in a special file created in the shared folder.<br>The new message tells us that the file was created. <br><img src=\"https://i.imgur.com/shIj8sV.jpg\" ><br><br><strong><i>Point 4</i></strong><br>The host player, will find in his shared folder the files of everything. In agreement with the other players, he will decide when to run the new turn and start again from step 1. <br><img src=\"https://i.imgur.com/xpUIEbZ.jpg\" ><h2 class=\"bb_tag\">Conclusions</h2><br>As you can see the mechanism is quite simple (just play one turn to figure out how it works) and using any free file sharing service like Dropbox, you then do not have to worry about sending or moving files (normally play, finish the turn, end ... you not to do anything else).<br>And if you are anti-file sharing services, you can always exchange your files as you wish, by email or floppy if you prefer! :-)<br><br>And if you are a programming geek and want to create your automated data exchange service...you can do it because the host can be run from the command line!</p><br><h1>About the Game</h1><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/382880/extras/Logo_extended.png?t=1544720216\" ><br><br>Conquer Europe, become an Emperor.<br><br>Build your family’s dynasty through seven centuries, from 800 A.D. to 1492 A.D., up until the inevitable collapse of the feudal system.<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/382880/extras/Characters.png?t=1544720216\" ><br><br>Feudalism is a turn-based strategy game with a focus on traditional gameplay with your management and strategy skills being pivotal to your success!<br><br>Your success is measured by your ability to envelop and strengthen your family's influence across Europe; using trade, colonization, conquest and some tactical assassinations. Arranged marriages can be used as a strategic way of influencing other realms. It is possible to effect greater change with a single marriage than would be possible with an army of your strongest warriors.<br><br>The world is a dangerous place. Nature may be your greatest adversary. When the heavens erupt with thunder and lightning, you must take steps to ensure your crops aren’t forfeit. Cut down and burn the surrounding woodland to keep the population warm and their meals hot.<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/382880/extras/Art.png?t=1544720216\" ><br><br>As the population grows, it will be imperative to expand their knowledge. Only by being at the forefront of new sciences and technologies, will you be able to defend yourself against greater enemies. Increased knowledge provides the benefit of increasing production efficiency. However, knowledge and skepticism can lead to questions, and questions can lead to rebellion!",
+            "about_the_game": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/382880/extras/Logo_extended.png?t=1544720216\" ><br><br>Conquer Europe, become an Emperor.<br><br>Build your family’s dynasty through seven centuries, from 800 A.D. to 1492 A.D., up until the inevitable collapse of the feudal system.<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/382880/extras/Characters.png?t=1544720216\" ><br><br>Feudalism is a turn-based strategy game with a focus on traditional gameplay with your management and strategy skills being pivotal to your success!<br><br>Your success is measured by your ability to envelop and strengthen your family's influence across Europe; using trade, colonization, conquest and some tactical assassinations. Arranged marriages can be used as a strategic way of influencing other realms. It is possible to effect greater change with a single marriage than would be possible with an army of your strongest warriors.<br><br>The world is a dangerous place. Nature may be your greatest adversary. When the heavens erupt with thunder and lightning, you must take steps to ensure your crops aren’t forfeit. Cut down and burn the surrounding woodland to keep the population warm and their meals hot.<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/382880/extras/Art.png?t=1544720216\" ><br><br>As the population grows, it will be imperative to expand their knowledge. Only by being at the forefront of new sciences and technologies, will you be able to defend yourself against greater enemies. Increased knowledge provides the benefit of increasing production efficiency. However, knowledge and skepticism can lead to questions, and questions can lead to rebellion!",
+            "short_description": "Conquer Europe, become an Emperor. Build your family’s dynasty through seven centuries, from 800 A.D. to 1492 A.D., up until the inevitable collapse of the feudal system.",
+            "supported_languages": "English, Italian",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/382880/header.jpg?t=1544720216",
+            "website": null,
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong> Intel i5 2.8Ghz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> ATI 66xx / GNvidia GT 540<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Additional Notes:</strong> A monitor supporting 1024x768</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Intel i7 2.8Ghz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> ATI HD 7850 / GNvidia GT 750<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Additional Notes:</strong> A monitor supporting 1920x1080</li></ul>"
+            },
+            "mac_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OS X 10.7<br></li><li><strong>Processor:</strong> Intel i5 2.8Ghz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Dedicated graphics card with 512 MB memory<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OS X 10.11<br></li><li><strong>Processor:</strong> Intel i7 2.8Ghz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Dedicated graphics card with 2GB memory<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>"
+            },
+            "linux_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 12.04<br></li><li><strong>Processor:</strong> Intel i5 2.8Ghz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Dedicated graphics card with 512 MB memory<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>Processor:</strong> Intel i7 2.8Ghz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Dedicated graphics card with 2GB memory<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>"
+            },
+            "developers": [
+                "Imagimotion",
+                "IV Productions"
+            ],
+            "publishers": [
+                "Merge Games"
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 1499,
+                "final": 1499,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "14,99€"
+            },
+            "packages": [
+                71863
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Feudalism",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 71863,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Feudalism - 14,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 1499
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": true,
+                "linux": true
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 1,
+                    "description": "Multi-player"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "2",
+                    "description": "Strategy"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/382880/ss_e603bad6119858ef9587a729b77c588030305070.600x338.jpg?t=1544720216",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/382880/ss_e603bad6119858ef9587a729b77c588030305070.1920x1080.jpg?t=1544720216"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/382880/ss_c9f65791f9dce6671ce585de3bd5d3aa7a9f9f42.600x338.jpg?t=1544720216",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/382880/ss_c9f65791f9dce6671ce585de3bd5d3aa7a9f9f42.1920x1080.jpg?t=1544720216"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/382880/ss_a69fafa4e4a0a9ca7c0320e2e6cc1a0b89999cd0.600x338.jpg?t=1544720216",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/382880/ss_a69fafa4e4a0a9ca7c0320e2e6cc1a0b89999cd0.1920x1080.jpg?t=1544720216"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/382880/ss_9cb2b4515a48bd6f4be9d244e3511639defd7bb5.600x338.jpg?t=1544720216",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/382880/ss_9cb2b4515a48bd6f4be9d244e3511639defd7bb5.1920x1080.jpg?t=1544720216"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/382880/ss_f3417954e3e9686a99522c8ada3dd6a4f74a58fc.600x338.jpg?t=1544720216",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/382880/ss_f3417954e3e9686a99522c8ada3dd6a4f74a58fc.1920x1080.jpg?t=1544720216"
+                },
+                {
+                    "id": 5,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/382880/ss_c4c0702a230e45f26d294252147933661d7b9b2b.600x338.jpg?t=1544720216",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/382880/ss_c4c0702a230e45f26d294252147933661d7b9b2b.1920x1080.jpg?t=1544720216"
+                },
+                {
+                    "id": 6,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/382880/ss_5214a0efae86bab7b6755e2e5911e68092241dba.600x338.jpg?t=1544720216",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/382880/ss_5214a0efae86bab7b6755e2e5911e68092241dba.1920x1080.jpg?t=1544720216"
+                },
+                {
+                    "id": 7,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/382880/ss_44b3f5a6cfa226422d7a7b37a8f17110139ed213.600x338.jpg?t=1544720216",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/382880/ss_44b3f5a6cfa226422d7a7b37a8f17110139ed213.1920x1080.jpg?t=1544720216"
+                },
+                {
+                    "id": 8,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/382880/ss_26b36a8328220a94a5f7c47770649d9320e346d1.600x338.jpg?t=1544720216",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/382880/ss_26b36a8328220a94a5f7c47770649d9320e346d1.1920x1080.jpg?t=1544720216"
+                },
+                {
+                    "id": 9,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/382880/ss_191cb40fe8f41bbdcd987d005bb9ec68bac0af33.600x338.jpg?t=1544720216",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/382880/ss_191cb40fe8f41bbdcd987d005bb9ec68bac0af33.1920x1080.jpg?t=1544720216"
+                },
+                {
+                    "id": 10,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/382880/ss_bd4b1e5eef18817b3b018475db7a26a27fcaa4ce.600x338.jpg?t=1544720216",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/382880/ss_bd4b1e5eef18817b3b018475db7a26a27fcaa4ce.1920x1080.jpg?t=1544720216"
+                },
+                {
+                    "id": 11,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/382880/ss_41465b0129e55a1f11ec7707e438972725b00c19.600x338.jpg?t=1544720216",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/382880/ss_41465b0129e55a1f11ec7707e438972725b00c19.1920x1080.jpg?t=1544720216"
+                },
+                {
+                    "id": 12,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/382880/ss_7bee40de3cfad46c59a7abd51c7a992fbcf5cdb5.600x338.jpg?t=1544720216",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/382880/ss_7bee40de3cfad46c59a7abd51c7a992fbcf5cdb5.1920x1080.jpg?t=1544720216"
+                },
+                {
+                    "id": 13,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/382880/ss_75380be4fbaec716f004171d5eb45b17a678f7f7.600x338.jpg?t=1544720216",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/382880/ss_75380be4fbaec716f004171d5eb45b17a678f7f7.1920x1080.jpg?t=1544720216"
+                },
+                {
+                    "id": 14,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/382880/ss_3854a194bf2bc0fe2898d99a928efe692a23f234.600x338.jpg?t=1544720216",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/382880/ss_3854a194bf2bc0fe2898d99a928efe692a23f234.1920x1080.jpg?t=1544720216"
+                },
+                {
+                    "id": 15,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/382880/ss_e74471499e434f62051f6d78f762041eec20cc00.600x338.jpg?t=1544720216",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/382880/ss_e74471499e434f62051f6d78f762041eec20cc00.1920x1080.jpg?t=1544720216"
+                },
+                {
+                    "id": 16,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/382880/ss_a4ada87aa62e0fba1147d771da155cfc8e9a32c7.600x338.jpg?t=1544720216",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/382880/ss_a4ada87aa62e0fba1147d771da155cfc8e9a32c7.1920x1080.jpg?t=1544720216"
+                },
+                {
+                    "id": 17,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/382880/ss_6e920bd639b9e7348416865af460fa1466387196.600x338.jpg?t=1544720216",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/382880/ss_6e920bd639b9e7348416865af460fa1466387196.1920x1080.jpg?t=1544720216"
+                },
+                {
+                    "id": 18,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/382880/ss_08239aec26319889870cbaa1d2ee711e873419a5.600x338.jpg?t=1544720216",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/382880/ss_08239aec26319889870cbaa1d2ee711e873419a5.1920x1080.jpg?t=1544720216"
+                },
+                {
+                    "id": 19,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/382880/ss_2de7ae03bc33dbb545314112bd97182d5d9ca065.600x338.jpg?t=1544720216",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/382880/ss_2de7ae03bc33dbb545314112bd97182d5d9ca065.1920x1080.jpg?t=1544720216"
+                },
+                {
+                    "id": 20,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/382880/ss_5609170c23d656bc30a3dd21f4aa9fb3ef9edf23.600x338.jpg?t=1544720216",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/382880/ss_5609170c23d656bc30a3dd21f4aa9fb3ef9edf23.1920x1080.jpg?t=1544720216"
+                },
+                {
+                    "id": 21,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/382880/ss_cad150959bf9eabb220ed6e00f78c294c3642f02.600x338.jpg?t=1544720216",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/382880/ss_cad150959bf9eabb220ed6e00f78c294c3642f02.1920x1080.jpg?t=1544720216"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 256665498,
+                    "name": "Gameplay Trailer",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256665498/movie.293x165.jpg?t=1465604247",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256665498/movie480.webm?t=1465604247",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256665498/movie_max.webm?t=1465604247"
+                    },
+                    "highlight": true
+                },
+                {
+                    "id": 256662932,
+                    "name": "Trailer",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256662932/movie.293x165.jpg?t=1461009688",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256662932/movie480.webm?t=1461009688",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256662932/movie_max.webm?t=1461009688"
+                    },
+                    "highlight": true
+                }
+            ],
+            "achievements": {
+                "total": 0
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "14 Jun, 2016"
+            },
+            "support_info": {
+                "url": "http://www.mergegames.com/",
+                "email": "support@mergegames.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/382880/page_bg_generated_v6b.jpg?t=1544720216",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

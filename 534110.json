@@ -1,0 +1,121 @@
+{
+    "534110": {
+        "success": true,
+        "data": {
+            "type": "series",
+            "name": "Agent Origins",
+            "steam_appid": 534110,
+            "required_age": 0,
+            "is_free": true,
+            "controller_support": "full",
+            "detailed_description": "<h1>Steam Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>#label_about_the_series</h1>Inspired by the groundbreaking video game and created in collaboration with innovative YouTube powerhouses CorridorDigital, RocketJump, and Devin Supertramp, Ubisoft proudly presents Tom Clancy’s The Division™: Agent Origins. This thrilling live action video series follows the lives of four agents of The Division as they’re activated and leap headfirst into the fight to save New York City.",
+            "about_the_game": "Inspired by the groundbreaking video game and created in collaboration with innovative YouTube powerhouses CorridorDigital, RocketJump, and Devin Supertramp, Ubisoft proudly presents Tom Clancy’s The Division™: Agent Origins. This thrilling live action video series follows the lives of four agents of The Division as they’re activated and leap headfirst into the fight to save New York City.",
+            "short_description": "This thrilling live action video series follows the lives of four agents of The Division as they’re activated and leap headfirst into the fight to save New York City.",
+            "fullgame": {
+                "appid": null,
+                "name": "Uninitialized"
+            },
+            "supported_languages": "English",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/534110/header.jpg?t=1507330542",
+            "website": null,
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong> Intel Core 2 or AMD equivalent<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 200 MB available space<br></li><li><strong>Additional Notes:</strong> Network Bandwidth of 5Mbps for 540p, 3Mbps for 360p.</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Intel Core I3+ or AMD equivalent recommended for HD 1080p playback<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 500 MB available space<br></li><li><strong>Additional Notes:</strong> Network Bandwidth of 12Mbps for 1080p or 8Mbps for 720p.</li></ul>"
+            },
+            "mac_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OSX 10.7<br></li><li><strong>Processor:</strong> Intel Core 2 or AMD equivalent<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 200 MB available space<br></li><li><strong>Additional Notes:</strong> Network Bandwidth of 5Mbps for 540p, 3Mbps for 360p.</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OSX 10.10+<br></li><li><strong>Processor:</strong> Intel Core I3+ or AMD equivalent recommended for HD 1080p playback<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 500 MB available space<br></li><li><strong>Additional Notes:</strong> Network Bandwidth of 12Mbps for 1080p or 8Mbps for 720p.</li></ul>"
+            },
+            "linux_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Linux Ubuntu 12.04 or later, SteamOS 2.20 or later<br></li><li><strong>Processor:</strong> Intel Core 2 or AMD equivalent<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 200 MB available space<br></li><li><strong>Additional Notes:</strong> Network Bandwidth of 5Mbps for 540p, 3Mbps for 360p.</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Linux Ubuntu 12.04 or later, SteamOS 2.20 or later<br></li><li><strong>Processor:</strong> Intel Core I3+ or AMD equivalent recommended for HD 1080p playback<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 500 MB available space<br></li><li><strong>Additional Notes:</strong> Network Bandwidth of 12Mbps for 1080p or 8Mbps for 720p.</li></ul>"
+            },
+            "developers": [
+                "Corridor Digital",
+                "Ubisoft Entertainment"
+            ],
+            "publishers": [
+                "Ubisoft Entertainment"
+            ],
+            "packages": [
+                129484
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Agent Origins",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 129484,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Agent Origins - Free",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": true,
+                            "price_in_cents_with_discount": 0
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": true,
+                "linux": true
+            },
+            "categories": [
+                {
+                    "id": 28,
+                    "description": "Full controller support"
+                },
+                {
+                    "id": 33,
+                    "description": "Native Steam Controller Support"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/534110/ss_807a54ec79e0c6caacc1653b42948604accc1bd5.600x338.jpg?t=1507330542",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/534110/ss_807a54ec79e0c6caacc1653b42948604accc1bd5.1920x1080.jpg?t=1507330542"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/534110/ss_d93a1c328cce07e7aad5da58308ed0c31a5ec29f.600x338.jpg?t=1507330542",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/534110/ss_d93a1c328cce07e7aad5da58308ed0c31a5ec29f.1920x1080.jpg?t=1507330542"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/534110/ss_b0812aac28086df7db15cd3ea9feb9ef722a86c0.600x338.jpg?t=1507330542",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/534110/ss_b0812aac28086df7db15cd3ea9feb9ef722a86c0.1920x1080.jpg?t=1507330542"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/534110/ss_fa7be19e5f5f8791849eb1bb9a5f24d919557462.600x338.jpg?t=1507330542",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/534110/ss_fa7be19e5f5f8791849eb1bb9a5f24d919557462.1920x1080.jpg?t=1507330542"
+                }
+            ],
+            "achievements": {
+                "total": 0
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "30 Sep, 2016"
+            },
+            "support_info": {
+                "url": "",
+                "email": ""
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/534110/page_bg_generated_v6b.jpg?t=1507330542",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

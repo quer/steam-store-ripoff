@@ -1,0 +1,110 @@
+{
+    "785230": {
+        "success": true,
+        "data": {
+            "type": "dlc",
+            "name": "Juventus VR - The Myth",
+            "steam_appid": 785230,
+            "required_age": 0,
+            "is_free": false,
+            "controller_support": "full",
+            "detailed_description": "Live the last day and the celebration!",
+            "about_the_game": "Live the last day and the celebration!",
+            "short_description": "Live the last day and the celebration!",
+            "fullgame": {
+                "appid": "774731",
+                "name": "Juventus VR"
+            },
+            "supported_languages": "English, French, Italian, Spanish - Spain, Simplified Chinese",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/785230/header.jpg?t=1536217634",
+            "website": "http://www.juventus.com/",
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows™ 7 SP1, Windows™ 8.1 or later or Windows™ 10<br></li><li><strong>Processor:</strong> Intel™ Core™ i5-4590 or AMD FX™ 8350, equivalent or better<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce™ GTX 1060 or AMD Radeon™ RX 480, equivalent or better<br></li><li><strong>Network:</strong> Broadband Internet connection</li></ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "publishers": [
+                "Juventus Football Club S.p.A."
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 299,
+                "final": 299,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "2,99€"
+            },
+            "packages": [
+                237038
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Juventus VR - The Myth",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 237038,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Juventus VR - The Myth - 2,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 299
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 21,
+                    "description": "Downloadable Content"
+                },
+                {
+                    "id": 28,
+                    "description": "Full controller support"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "57",
+                    "description": "Utilities"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/785230/ss_da344b560c55df5e523ca62fd0d67878abaf426f.600x338.jpg?t=1536217634",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/785230/ss_da344b560c55df5e523ca62fd0d67878abaf426f.1920x1080.jpg?t=1536217634"
+                }
+            ],
+            "release_date": {
+                "coming_soon": false,
+                "date": "6 Sep, 2018"
+            },
+            "support_info": {
+                "url": "https://www.juventus.com/en/contact.php",
+                "email": "dgtjuve@gmail.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/785230/page_bg_generated_v6b.jpg?t=1536217634",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

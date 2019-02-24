@@ -1,0 +1,164 @@
+{
+    "407451": {
+        "success": true,
+        "data": {
+            "type": "dlc",
+            "name": "The Windsor Pack",
+            "steam_appid": 407451,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "The Windsor Pack includes ‘The Windsor’ Ironcast which uses a unique device to steal a layer of shield defences from its opponent, weakening them whilst improving its own defences. It also includes Commander Henry Brent who has a signature augmentation which rewards players who match long chains of nodes with a temporary shield boost. In addition, his Ironcast always begins the game with an active shield layer.",
+            "about_the_game": "The Windsor Pack includes ‘The Windsor’ Ironcast which uses a unique device to steal a layer of shield defences from its opponent, weakening them whilst improving its own defences. It also includes Commander Henry Brent who has a signature augmentation which rewards players who match long chains of nodes with a temporary shield boost. In addition, his Ironcast always begins the game with an active shield layer.",
+            "short_description": "The Windsor Pack includes ‘The Windsor’ Ironcast which uses a unique device to steal a layer of shield defences from its opponent, weakening them whilst improving its own defences. It also includes a new Commander, Henry Brent.",
+            "fullgame": {
+                "appid": "327670",
+                "name": "Ironcast"
+            },
+            "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong><br><strong>*</strong>languages with full audio support",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/407451/header.jpg?t=1506940039",
+            "website": "http://www.dreadbit.com/Ironcast",
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP<br></li><li><strong>Processor:</strong> Intel Pentium G630 @ 2.70 Ghz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> AMD Radeon X850 XT<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong> Intel Core i3 @ 3 Ghz<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 560 Ti<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>"
+            },
+            "mac_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OS X 10.5.7<br></li><li><strong>Processor:</strong> Intel Core 2 Duo @ 2.13 Ghz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce 9400M<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OS X 10.10 &quot;Yosemite&quot;<br></li><li><strong>Processor:</strong> Intel i7 (4980Q) @ 2.8 Ghz<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GT 750M 2GB<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>"
+            },
+            "linux_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 14.04.2 LTS (32bit)<br></li><li><strong>Processor:</strong> Intel Pentium G630 @ 2.70 Ghz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> AMD Radeon X850 XT<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 14.04.2 LTS<br></li><li><strong>Processor:</strong> Intel Core i3 @ 3 Ghz<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 560 Ti<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>"
+            },
+            "legal_notice": "Ironcast © 2015 Ripstone Ltd. Developed by Dreadbit Ltd. “Ironcast” is a trademark of Ripstone Ltd. All rights reserved.",
+            "developers": [
+                "Dreadbit"
+            ],
+            "publishers": [
+                "Ripstone"
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 399,
+                "final": 399,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "3,99€"
+            },
+            "packages": [
+                80410
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy The Windsor Pack",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 80410,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Ironcast - The Windsor Pack - 3,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 399
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": true,
+                "linux": true
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 21,
+                    "description": "Downloadable Content"
+                },
+                {
+                    "id": 22,
+                    "description": "Steam Achievements"
+                },
+                {
+                    "id": 29,
+                    "description": "Steam Trading Cards"
+                },
+                {
+                    "id": 23,
+                    "description": "Steam Cloud"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "23",
+                    "description": "Indie"
+                },
+                {
+                    "id": "3",
+                    "description": "RPG"
+                },
+                {
+                    "id": "2",
+                    "description": "Strategy"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/407451/ss_ef129782ca2e933f49fc85280611d862a5791b58.600x338.jpg?t=1506940039",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/407451/ss_ef129782ca2e933f49fc85280611d862a5791b58.1920x1080.jpg?t=1506940039"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/407451/ss_e99db056da7776efa50322b23da0d068bfe590f6.600x338.jpg?t=1506940039",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/407451/ss_e99db056da7776efa50322b23da0d068bfe590f6.1920x1080.jpg?t=1506940039"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/407451/ss_aac2cdffa56828513c596f2bd598825396bf0398.600x338.jpg?t=1506940039",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/407451/ss_aac2cdffa56828513c596f2bd598825396bf0398.1920x1080.jpg?t=1506940039"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/407451/ss_05ca69aa6161663a2299f43cba9df5da5d735c1e.600x338.jpg?t=1506940039",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/407451/ss_05ca69aa6161663a2299f43cba9df5da5d735c1e.1920x1080.jpg?t=1506940039"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/407451/ss_7617681b1879c6cca95722bc6c2196367a482836.600x338.jpg?t=1506940039",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/407451/ss_7617681b1879c6cca95722bc6c2196367a482836.1920x1080.jpg?t=1506940039"
+                },
+                {
+                    "id": 5,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/407451/ss_53e58d3f3135a7c3ed9a91fe5298e5dad58b9a87.600x338.jpg?t=1506940039",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/407451/ss_53e58d3f3135a7c3ed9a91fe5298e5dad58b9a87.1920x1080.jpg?t=1506940039"
+                }
+            ],
+            "achievements": {
+                "total": 0
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "13 Nov, 2015"
+            },
+            "support_info": {
+                "url": "",
+                "email": "support@ripstone.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/407451/page_bg_generated_v6b.jpg?t=1506940039",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

@@ -1,0 +1,202 @@
+{
+    "583530": {
+        "success": true,
+        "data": {
+            "type": "game",
+            "name": "Aquila Bird Flight Simulator",
+            "steam_appid": 583530,
+            "required_age": 0,
+            "is_free": false,
+            "controller_support": "full",
+            "detailed_description": "<h1>Running with and without VR</h1><p>This is an application that has been made with Virtual Reality in mind, specifically using OpenVR on the Oculus Rift and HTC Vive.  It will run without a headset connected, or via the non-vr launch option, and has control methods added to support non-vr play, but support is not completed and the gamepad tutorial will not be fully applicable. See notes for version 0.95. I've had significant interest in a Non-VR version, so I have been adding support to do this and I'm at a point where people just need to try it.</p><br><h1>Note for HTC Vive users...</h1><p>This application was originally made for the Oculus Rift and Touch controllers, and has been adapted for the HTC Vive, or any compatible headset, through OpenVR.  It should auto-detect Oculus and Vive headsets, and give appropriate instructions.  However, if you are presented with the wrong information, there are launch options in SteamVR and your normal Steam Library to override and force Vive or Oculus VR types if required.</p><br><h1>If you have the Oculus Home version of Aquila ...</h1><p>... then I can issue you with a complimentary key for Aquila on Steam. If anything the simulator runs much smoother in OpenVR, so I can recommend it. Please get in touch.</p><br><h1>About the Game</h1><strong>Have you dreamed of what it would be ... to soar like an eagle?</strong><br><br>Aquila Bird Flight Simulator lets you experience soaring bird flight using virtual reality.  It was originally designed for the Oculus Rift, but has now been modified for OpenVR.  You embody one of three species of eagle flying over either Northwest Scotland, a part of Columbia, or Graham Island in British Columbia. This is designed as a relaxing soaring flight simulation, and is not arcade-style flight, and as such you can make use of ridge lift and thermals.  If you want a work out try flapping with motion controllers!<br><br>Proceeds from this project go towards a major bird of prey centre in Hampshire (UK), where I do voluntary work. Supporting this project helps towards vital conservation, rehabilitation, and education schemes throughout the UK and overseas.  So on behalf of the birds, and the staff, thank you! <br><br><strong>Main Features:</strong><br><ul class=\"bb_ul\"><li>Dude you're an eagle! Featuring three species of eagle:<br><ul class=\"bb_ul\"><li>White tailed sea eagle<br></li><li>Bald eagle<br></li><li>and the Harpy eagle.</li></ul></li><li>Simulates an 8kg bird with a 2.5m wingspan. (cosmetic difference only at present).<br></li><li>Steer your bird using:<br><ul class=\"bb_ul\"><li>An Xbox360/One controller<br></li><li>Your VR headset<br></li><li>or Motion controllers (experimental).</li></ul></li><li>Satellite photography scenery for:<br><ul class=\"bb_ul\"><li>13km x 13km for Northwest Scotland<br></li><li>Columbia and British Columbia, of equivalent size.</li></ul></li><li>Day/Night cycle using UniStorm.<br></li><li>You have thermals and ridge lift to make flying easier.<br></li><li>Configurable wind direction and speed, shown as 'dandelion seeds' in-game.<br></li><li>Free looking in VR, along with selectable views on the birds back and a chase view.<br></li><li>You can land and take off, and walk around on the ground.<br></li><li>Options to start in the air or on the ground.<br></li><li>Tutorials for gamepad control and motion controllers. (headset steering tutorial to come)<br></li><li>Comfort mode:  This levels the camera, and limits your pitch and roll to produce a more comfortable experience.  It is on by default, but can be turned off.<br></li><li>Some relaxing music to go with the flying.<br></li><li>Observer mode: The in-flight menu allows you to select a view that is displayed on your main pc screen while you play in VR.  This can impact performance, but allows people not playing to watch your flight.<br></li><li>Non-VR ... the game will run without a VR headset connected, and defaults to a chase view, but it's just not the same as VR!<br></li><li>Next Level V3 motion platform support is working, but is not included in the Steam or Oculus Home versions because of the SDK's involved.  Contact me if you are interested in this feature.</li></ul><br><br><strong>Current issues:</strong><br><ul class=\"bb_ul\"><li>Satellite photography is best experienced with a bit of height.  The illusion will not work when you're near the ground.<br></li><li>Currently ugly if you look behind you, if you don't move your own head up, as you'll look through yourself!<br></li><li>If you fly too fast, you pitch down. With comfort mode on, it is rare as your pitch is limited.<br></li><li>You can't currently 'trim' in pitch, although you can fly just fine without.<br></li><li>The white tailed sea eagle does not have a ground walking animation, but has more flexible animation in the air.  The other two eagles use normal Unity animations.<br></li><li>Observer mode does not output sound to your normal pc speakers, if you are using the Rift headphones.</li></ul><br><strong>Future plans:</strong><br><ul class=\"bb_ul\"><li>(PARTWAY THERE) More dynamic landscape with things to do of course (challenges).<br></li><li>Trophy/achievement support.<br></li><li>(PARTWAY THERE) Maybe one large landscape, or many smaller ones. I'd love to be able to add more trees!<br></li><li>Possible survival simulation including weather, defending your territory, nest provider, etc.<br></li><li>Expanding the tutorial to be narrated, perhaps from another bird flying with you nearby.</li></ul><br><strong>Final note:</strong><br>This game is not finished, and is under early access.  It's a start point of what to expect, and an opportunity to report back with bugs.  Please do report back with any issues you encounter; it helps me make it better!<br><br>Also note that, due to the SDK's involved, Next Level Motion platform support is not included in the Steam or Oculus Home versions.  Contact me if you are interested in this feature.<br><br>Thank you again for your support, and thank you for looking!<br><br>Graeme",
+            "about_the_game": "<strong>Have you dreamed of what it would be ... to soar like an eagle?</strong><br><br>Aquila Bird Flight Simulator lets you experience soaring bird flight using virtual reality.  It was originally designed for the Oculus Rift, but has now been modified for OpenVR.  You embody one of three species of eagle flying over either Northwest Scotland, a part of Columbia, or Graham Island in British Columbia. This is designed as a relaxing soaring flight simulation, and is not arcade-style flight, and as such you can make use of ridge lift and thermals.  If you want a work out try flapping with motion controllers!<br><br>Proceeds from this project go towards a major bird of prey centre in Hampshire (UK), where I do voluntary work. Supporting this project helps towards vital conservation, rehabilitation, and education schemes throughout the UK and overseas.  So on behalf of the birds, and the staff, thank you! <br><br><strong>Main Features:</strong><br><ul class=\"bb_ul\"><li>Dude you're an eagle! Featuring three species of eagle:<br><ul class=\"bb_ul\"><li>White tailed sea eagle<br></li><li>Bald eagle<br></li><li>and the Harpy eagle.</li></ul></li><li>Simulates an 8kg bird with a 2.5m wingspan. (cosmetic difference only at present).<br></li><li>Steer your bird using:<br><ul class=\"bb_ul\"><li>An Xbox360/One controller<br></li><li>Your VR headset<br></li><li>or Motion controllers (experimental).</li></ul></li><li>Satellite photography scenery for:<br><ul class=\"bb_ul\"><li>13km x 13km for Northwest Scotland<br></li><li>Columbia and British Columbia, of equivalent size.</li></ul></li><li>Day/Night cycle using UniStorm.<br></li><li>You have thermals and ridge lift to make flying easier.<br></li><li>Configurable wind direction and speed, shown as 'dandelion seeds' in-game.<br></li><li>Free looking in VR, along with selectable views on the birds back and a chase view.<br></li><li>You can land and take off, and walk around on the ground.<br></li><li>Options to start in the air or on the ground.<br></li><li>Tutorials for gamepad control and motion controllers. (headset steering tutorial to come)<br></li><li>Comfort mode:  This levels the camera, and limits your pitch and roll to produce a more comfortable experience.  It is on by default, but can be turned off.<br></li><li>Some relaxing music to go with the flying.<br></li><li>Observer mode: The in-flight menu allows you to select a view that is displayed on your main pc screen while you play in VR.  This can impact performance, but allows people not playing to watch your flight.<br></li><li>Non-VR ... the game will run without a VR headset connected, and defaults to a chase view, but it's just not the same as VR!<br></li><li>Next Level V3 motion platform support is working, but is not included in the Steam or Oculus Home versions because of the SDK's involved.  Contact me if you are interested in this feature.</li></ul><br><br><strong>Current issues:</strong><br><ul class=\"bb_ul\"><li>Satellite photography is best experienced with a bit of height.  The illusion will not work when you're near the ground.<br></li><li>Currently ugly if you look behind you, if you don't move your own head up, as you'll look through yourself!<br></li><li>If you fly too fast, you pitch down. With comfort mode on, it is rare as your pitch is limited.<br></li><li>You can't currently 'trim' in pitch, although you can fly just fine without.<br></li><li>The white tailed sea eagle does not have a ground walking animation, but has more flexible animation in the air.  The other two eagles use normal Unity animations.<br></li><li>Observer mode does not output sound to your normal pc speakers, if you are using the Rift headphones.</li></ul><br><strong>Future plans:</strong><br><ul class=\"bb_ul\"><li>(PARTWAY THERE) More dynamic landscape with things to do of course (challenges).<br></li><li>Trophy/achievement support.<br></li><li>(PARTWAY THERE) Maybe one large landscape, or many smaller ones. I'd love to be able to add more trees!<br></li><li>Possible survival simulation including weather, defending your territory, nest provider, etc.<br></li><li>Expanding the tutorial to be narrated, perhaps from another bird flying with you nearby.</li></ul><br><strong>Final note:</strong><br>This game is not finished, and is under early access.  It's a start point of what to expect, and an opportunity to report back with bugs.  Please do report back with any issues you encounter; it helps me make it better!<br><br>Also note that, due to the SDK's involved, Next Level Motion platform support is not included in the Steam or Oculus Home versions.  Contact me if you are interested in this feature.<br><br>Thank you again for your support, and thank you for looking!<br><br>Graeme",
+            "short_description": "Have you dreamed of what it would be ... to soar like an eagle? Aquila Bird Flight Simulator lets you experience soaring bird flight using a virtual reality headset. This is a soaring simulation, so you can make use of ridge lift and thermals like any other soarer in the skies...",
+            "supported_languages": "English",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/583530/header.jpg?t=1504656167",
+            "website": "http://www.aquila-bfs.com",
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong> Intel Core i5- 4590 equivalent or greater<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 960 or greater<br></li><li><strong>Storage:</strong> 3 GB available space<br></li><li><strong>Sound Card:</strong> DirectX compatible<br></li><li><strong>Additional Notes:</strong> Your pc must meet VR Ready specs to use this application successfully with VR.</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Intel i7 6700K<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 980 or greater<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 3 GB available space<br></li><li><strong>Sound Card:</strong> DirectX compatible<br></li><li><strong>Additional Notes:</strong> Observation modes on second screen do impact performance, try it!</li></ul>"
+            },
+            "mac_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+            },
+            "linux_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+            },
+            "legal_notice": "Aquila Bird Flight Simulator is © 2016 - 2017 Graeme Scott",
+            "developers": [
+                "Graeme Scott"
+            ],
+            "publishers": [
+                "Graeme Scott"
+            ],
+            "demos": [
+                {
+                    "appid": 693900,
+                    "description": "Install the Demo"
+                }
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 399,
+                "final": 399,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "3,99€"
+            },
+            "packages": [
+                150027
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Aquila Bird Flight Simulator",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 150027,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Aquila Bird Flight Simulator - 3,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 399
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 28,
+                    "description": "Full controller support"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "4",
+                    "description": "Casual"
+                },
+                {
+                    "id": "28",
+                    "description": "Simulation"
+                },
+                {
+                    "id": "70",
+                    "description": "Early Access"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/583530/ss_2a8dab8ec4999021a5633734d22dcd7eb3617af1.600x338.jpg?t=1504656167",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/583530/ss_2a8dab8ec4999021a5633734d22dcd7eb3617af1.1920x1080.jpg?t=1504656167"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/583530/ss_7087fa523a27977531bd31d387cc67b3e2ee0a4a.600x338.jpg?t=1504656167",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/583530/ss_7087fa523a27977531bd31d387cc67b3e2ee0a4a.1920x1080.jpg?t=1504656167"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/583530/ss_bc73ff9bc43027ef132b4c6a89c9746fe6aa0083.600x338.jpg?t=1504656167",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/583530/ss_bc73ff9bc43027ef132b4c6a89c9746fe6aa0083.1920x1080.jpg?t=1504656167"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/583530/ss_6bb60cd4c0ce62434a21abffbfec5fc4a8ad854a.600x338.jpg?t=1504656167",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/583530/ss_6bb60cd4c0ce62434a21abffbfec5fc4a8ad854a.1920x1080.jpg?t=1504656167"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/583530/ss_61a340d4cab3b755c79a3a5eafdc76f32795a81c.600x338.jpg?t=1504656167",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/583530/ss_61a340d4cab3b755c79a3a5eafdc76f32795a81c.1920x1080.jpg?t=1504656167"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 256693955,
+                    "name": "Aquila Bird Flight Simulator - Trailer - August 2017",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256693955/movie.293x165.jpg?t=1504004969",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256693955/movie480.webm?t=1504004969",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256693955/movie_max.webm?t=1504004969"
+                    },
+                    "highlight": true
+                },
+                {
+                    "id": 256678258,
+                    "name": "Quick Flight using motion controllers",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256678258/movie.293x165.jpg?t=1485175721",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256678258/movie480.webm?t=1485175721",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256678258/movie_max.webm?t=1485175721"
+                    },
+                    "highlight": true
+                },
+                {
+                    "id": 256678304,
+                    "name": "A longer flight in Columbia with the Harpy",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256678304/movie.293x165.jpg?t=1503238689",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256678304/movie480.webm?t=1503238689",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256678304/movie_max.webm?t=1503238689"
+                    },
+                    "highlight": true
+                },
+                {
+                    "id": 256678305,
+                    "name": "A longer flight with the Bald Eagle in BC",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256678305/movie.293x165.jpg?t=1503238700",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256678305/movie480.webm?t=1503238700",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256678305/movie_max.webm?t=1503238700"
+                    },
+                    "highlight": false
+                }
+            ],
+            "achievements": {
+                "total": 2,
+                "highlighted": [
+                    {
+                        "name": "A Gift from Santa",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/583530/b4fa6759bc1ebe652af2a0ca9d0256c44a0693ae.jpg"
+                    },
+                    {
+                        "name": "Love is in the air...",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/583530/283e265f419feb60bf01c422d5907bcf4d17651b.jpg"
+                    }
+                ]
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "18 Aug, 2017"
+            },
+            "support_info": {
+                "url": "http://www.aquila-bfs.com",
+                "email": "info@aquila-bfs.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/583530/page_bg_generated_v6b.jpg?t=1504656167",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "11270": {
+        "success": true,
+        "data": {
+            "type": "demo",
+            "name": "Gumboy Tournament Demo",
+            "steam_appid": 11270,
+            "required_age": 0,
+            "is_free": true,
+            "detailed_description": "",
+            "about_the_game": "",
+            "short_description": "",
+            "fullgame": {
+                "appid": "11230",
+                "name": "Gumboy Tournament"
+            },
+            "supported_languages": "English, Czech, Slovak, German, Polish",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/11270/header.jpg?t=1447351569",
+            "website": null,
+            "pc_requirements": {
+                "minimum": "<ul>                    \n\t\t\t\t\t<li><strong>OS:</strong> Microsoft Windows 2000/XP/VISTA</li>                    \n\t\t\t\t\t<li><strong>Processor:</strong> 2 GHz</li>                    \n\t\t\t\t\t<li><strong>Memory:</strong> 512 MB RAM</li>                    \n\t\t\t\t\t<li><strong>Graphics:</strong> Graphic Adapter with 128 MB VRAM compatible with DirectX 9.0c</li>                    \n\t\t\t\t\t<li><strong>DirectX Version:</strong> DirectX 9.0c</li>                    \n\t\t\t\t\t<li><strong>Sound:</strong> Sound Adapter compatible with DirectX</li>                    \n\t\t\t\t\t<li><strong>Hard Drive:</strong> 128 MB</li>                    \n\t\t\t\t\t<li><strong>Input Devices: </strong> mouse / keyboard / joystick / gamepad</li>                    </ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "developers": [
+                "CINEMAX, s.r.o."
+            ],
+            "publishers": [
+                "CINEMAX, s.r.o."
+            ],
+            "package_groups": [],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 1,
+                    "description": "Multi-player"
+                },
+                {
+                    "id": 10,
+                    "description": "Game demo"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "4",
+                    "description": "Casual"
+                }
+            ],
+            "release_date": {
+                "coming_soon": false,
+                "date": "Nov 13, 2008"
+            },
+            "support_info": {
+                "url": "",
+                "email": ""
+            },
+            "background": "",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

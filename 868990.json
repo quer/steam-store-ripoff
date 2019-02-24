@@ -1,0 +1,157 @@
+{
+    "868990": {
+        "success": true,
+        "data": {
+            "type": "dlc",
+            "name": "Luvocious - Donation Small",
+            "steam_appid": 868990,
+            "required_age": 0,
+            "is_free": false,
+            "controller_support": "full",
+            "detailed_description": "This content does not affect the gameplay in any way, shape or form.",
+            "about_the_game": "This content does not affect the gameplay in any way, shape or form.",
+            "short_description": "Donate a small amount to Team Syukino to help create updates and games in the future.",
+            "fullgame": {
+                "appid": "714730",
+                "name": "Luvocious"
+            },
+            "supported_languages": "English",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/868990/header.jpg?t=1535934200",
+            "website": null,
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Microsoft® Windows7/8/10 (32/64bit)<br></li><li><strong>Processor:</strong> N/A<br></li><li><strong>Graphics:</strong> N/A<br></li><li><strong>Sound Card:</strong> Any<br></li><li><strong>Additional Notes:</strong> Donation</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Microsoft® Windows7/8/10 (32/64bit)<br></li><li><strong>Processor:</strong> N/A<br></li><li><strong>Graphics:</strong> N/A<br></li><li><strong>Sound Card:</strong> Any<br></li><li><strong>Additional Notes:</strong> Donation</li></ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "legal_notice": "Luvocious is the sole property of Syu-Syu aka Atsumora Sythe<br />\r\nand apart of Team Syukino.",
+            "developers": [
+                "Team Syukino"
+            ],
+            "publishers": [
+                "Team Syukino"
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 239,
+                "final": 239,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "2,39€"
+            },
+            "packages": [
+                274293,
+                275618
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Luvocious - Donation Small",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 274293,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Luvocious - Donation Small - 2,39€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 239
+                        }
+                    ]
+                },
+                {
+                    "name": "subscriptions",
+                    "title": "Buy Luvocious - Donation Small Subscription Plan",
+                    "description": "To be billed on a recurring basis.",
+                    "selection_text": "Select a subscription plan",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "true",
+                    "subs": [
+                        {
+                            "packageid": 275618,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "1 Month(s) @ 2,39€/Month",
+                            "option_description": "<p class=\"game_purchase_subscription\">3,99€ at checkout, auto-renewed every 1 month(s) at 2,39€.</p>",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 399
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 21,
+                    "description": "Downloadable Content"
+                },
+                {
+                    "id": 22,
+                    "description": "Steam Achievements"
+                },
+                {
+                    "id": 28,
+                    "description": "Full controller support"
+                },
+                {
+                    "id": 23,
+                    "description": "Steam Cloud"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "25",
+                    "description": "Adventure"
+                },
+                {
+                    "id": "4",
+                    "description": "Casual"
+                },
+                {
+                    "id": "23",
+                    "description": "Indie"
+                },
+                {
+                    "id": "3",
+                    "description": "RPG"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/868990/ss_97cb7b239ba37a95c6bba33635769d61a68c7d43.600x338.jpg?t=1535934200",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/868990/ss_97cb7b239ba37a95c6bba33635769d61a68c7d43.1920x1080.jpg?t=1535934200"
+                }
+            ],
+            "release_date": {
+                "coming_soon": false,
+                "date": "22 May, 2018"
+            },
+            "support_info": {
+                "url": "",
+                "email": "Syukino56@gmail.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/868990/page_bg_generated_v6b.jpg?t=1535934200",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

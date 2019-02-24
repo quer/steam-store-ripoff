@@ -1,0 +1,71 @@
+{
+    "11220": {
+        "success": true,
+        "data": {
+            "type": "demo",
+            "name": "Shadowgrounds Survivor Demo",
+            "steam_appid": 11220,
+            "required_age": 0,
+            "is_free": true,
+            "detailed_description": "",
+            "about_the_game": "",
+            "short_description": "",
+            "fullgame": {
+                "appid": "11200",
+                "name": "Shadowgrounds Survivor"
+            },
+            "supported_languages": "English",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/11220/header.jpg?t=1447351253",
+            "website": null,
+            "pc_requirements": {
+                "minimum": "<p><strong>Minimum:</strong></p>\n\t\t\t\t\t<ul>\n\t\t\t\t\t<li><strong>Supported OS:</strong> Windows&reg; XP / Windows&reg; Vista</li>\n\t\t\t\t\t<li><strong>Processor:</strong> 1.5 GHz Processor (2.0 GHz+ recommended)</li>\n\t\t\t\t\t<li><strong>Memory:</strong> 512 MB RAM (1024 MB RAM recommended)</li>\n\t\t\t\t\t<li><strong>Graphics:</strong> DirectX compatible 128 MB graphics card (512 MB recommended)</li>\n\t\t\t\t\t<li><strong>DirectX Version:</strong> DirectX&reg; 9.0c</li>\n\t\t\t\t\t<li><strong>Sound:</strong> DirectX compatible sound card</li>\n\t\t\t\t\t<li><strong>Hard Drive:</strong>1 GB Hard Drive space</li>\n\t\t\t\t\t<li>Gamepad required for co-op play</li></ul>\n"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "developers": [
+                "Frozenbyte"
+            ],
+            "publishers": [
+                "Frozenbyte"
+            ],
+            "package_groups": [],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "metacritic": {
+                "score": 79
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 10,
+                    "description": "Game demo"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "1",
+                    "description": "Action"
+                }
+            ],
+            "release_date": {
+                "coming_soon": false,
+                "date": "Feb 15, 2008"
+            },
+            "support_info": {
+                "url": "",
+                "email": ""
+            },
+            "background": "",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

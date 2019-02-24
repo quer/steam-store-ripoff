@@ -1,0 +1,145 @@
+{
+    "1034640": {
+        "success": true,
+        "data": {
+            "type": "dlc",
+            "name": "Full-On Paintball - Extra Weapons Pack",
+            "steam_appid": 1034640,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "Extra Weapons pack includes 3 primary weapons. Phantom, Scar, Mini, and more will be added as we create new weapons!",
+            "about_the_game": "Extra Weapons pack includes 3 primary weapons. Phantom, Scar, Mini, and more will be added as we create new weapons!",
+            "short_description": "Extra Weapons Pack",
+            "fullgame": {
+                "appid": "678450",
+                "name": "Full-On Paintball"
+            },
+            "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1034640/header.jpg?t=1550522259",
+            "website": "http://www.gamepainters.com",
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP SP3 (32-bit only)<br></li><li><strong>Processor:</strong> 2.0+ GHz processor<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> A graphics card with shader model 3.0 support.<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 3 GB available space</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 64-bit<br></li><li><strong>Processor:</strong> 2.0+ GHz multi-core processor<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA 8000 series or higher graphics card<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 4 GB available space</li></ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "developers": [
+                "Gamepainters"
+            ],
+            "publishers": [
+                ""
+            ],
+            "price_overview": {
+                "currency": "USD",
+                "initial": 499,
+                "final": 299,
+                "discount_percent": 40,
+                "initial_formatted": "$4.99",
+                "final_formatted": "$2.99"
+            },
+            "packages": [
+                344334
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Full-On Paintball - Extra Weapons Pack",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 344334,
+                            "percent_savings_text": "-40%",
+                            "percent_savings": 0,
+                            "option_text": "Full-On Paintball - Extra Weapons Pack - <span class=\"discount_original_price\">$4.99</span> $2.99",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 299
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 1,
+                    "description": "Multi-player"
+                },
+                {
+                    "id": 36,
+                    "description": "Online Multi-Player"
+                },
+                {
+                    "id": 37,
+                    "description": "Local Multi-Player"
+                },
+                {
+                    "id": 21,
+                    "description": "Downloadable Content"
+                },
+                {
+                    "id": 22,
+                    "description": "Steam Achievements"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "1",
+                    "description": "Action"
+                },
+                {
+                    "id": "4",
+                    "description": "Casual"
+                },
+                {
+                    "id": "23",
+                    "description": "Indie"
+                },
+                {
+                    "id": "29",
+                    "description": "Massively Multiplayer"
+                },
+                {
+                    "id": "28",
+                    "description": "Simulation"
+                },
+                {
+                    "id": "18",
+                    "description": "Sports"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1034640/ss_b9413ae38c98096683badd48e3d27eaba6a3a717.600x338.jpg?t=1550522259",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1034640/ss_b9413ae38c98096683badd48e3d27eaba6a3a717.1920x1080.jpg?t=1550522259"
+                }
+            ],
+            "release_date": {
+                "coming_soon": false,
+                "date": "Feb 18, 2019"
+            },
+            "support_info": {
+                "url": "http://www.gamepainters.com",
+                "email": "fullonpaintball@gamepainters.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1034640/page_bg_generated_v6b.jpg?t=1550522259",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

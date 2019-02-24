@@ -1,0 +1,91 @@
+{
+    "722420": {
+        "success": true,
+        "data": {
+            "type": "episode",
+            "name": "Alice & Zoroku: The Red Queen Escapes",
+            "steam_appid": 722420,
+            "required_age": 0,
+            "is_free": false,
+            "controller_support": "full",
+            "detailed_description": "",
+            "about_the_game": "",
+            "short_description": "In a deep, remote forest, a blond-haired girl runs amidst heavy rain and wind. Some pursue her, while others extend a hand to help her. As various motives tangle together, the girl, named Sana, makes her flight to the outside world for the first time in her life.",
+            "fullgame": {
+                "appid": "720980",
+                "name": "Alice & Zoroku"
+            },
+            "supported_languages": "English<strong>*</strong>, Japanese<br><strong>*</strong>languages with full audio support",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/720980/header.jpg?t=1529618945",
+            "website": null,
+            "pc_requirements": [],
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "publishers": [
+                ""
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 159,
+                "final": 159,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "1,59€"
+            },
+            "packages": [
+                209819
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Alice & Zoroku: The Red Queen Escapes",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 209819,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Alice & Zoroku: The Red Queen Escapes - 1,59€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 159
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 28,
+                    "description": "Full controller support"
+                },
+                {
+                    "id": 33,
+                    "description": "Native Steam Controller Support"
+                }
+            ],
+            "release_date": {
+                "coming_soon": false,
+                "date": "20 Jun, 2018"
+            },
+            "support_info": {
+                "url": "",
+                "email": ""
+            },
+            "background": "",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

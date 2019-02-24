@@ -1,0 +1,200 @@
+{
+    "429110": {
+        "success": true,
+        "data": {
+            "type": "dlc",
+            "name": "Sentinels of the Multiverse - Shattered Timelines",
+            "steam_appid": 429110,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "Shattered Timelines introduces new mechanisms and exciting new challenges. Can you repair time before it runs out?!<br><br><strong>Shattered Timelines</strong> includes eight new decks to expand your gameplay options:<br><br><ul class=\"bb_ul\"><li>Heroes: <strong>Chrono-Ranger</strong> and <strong>Omnitron-X</strong><br></li><li>Villains: <strong>La Capitán</strong>, <strong>The Dreamer</strong>, <strong>Iron Legacy</strong>, and <strong>Kismet</strong><br></li><li>Environments: <strong>The Block</strong> and <strong>Time Cataclysm</strong></li></ul><br>Tip: Save money and get <strong><a href=\"http://store.steampowered.com/sub/58760\" target=\"_blank\" rel=\"noreferrer\"  >Season Pass 1</a></strong>, which includes this and many other expansions.",
+            "about_the_game": "Shattered Timelines introduces new mechanisms and exciting new challenges. Can you repair time before it runs out?!<br><br><strong>Shattered Timelines</strong> includes eight new decks to expand your gameplay options:<br><br><ul class=\"bb_ul\"><li>Heroes: <strong>Chrono-Ranger</strong> and <strong>Omnitron-X</strong><br></li><li>Villains: <strong>La Capitán</strong>, <strong>The Dreamer</strong>, <strong>Iron Legacy</strong>, and <strong>Kismet</strong><br></li><li>Environments: <strong>The Block</strong> and <strong>Time Cataclysm</strong></li></ul><br>Tip: Save money and get <strong><a href=\"http://store.steampowered.com/sub/58760\" target=\"_blank\" rel=\"noreferrer\"  >Season Pass 1</a></strong>, which includes this and many other expansions.",
+            "short_description": "Shattered Timelines introduces new mechanisms and exciting new challenges. Can you repair time before it runs out?! Includes Chrono-Ranger, Omnitron-X, La Capitan, The Dreamer, Kismet, Iron Legacy, The Block, &amp; Time Cataclysm.",
+            "fullgame": {
+                "appid": "337150",
+                "name": "Sentinels of the Multiverse"
+            },
+            "supported_languages": "English",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/429110/header.jpg?t=1534524653",
+            "website": "http://sentinelsdigital.com",
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Storage:</strong> 90 MB available space</li></ul>"
+            },
+            "mac_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Storage:</strong> 90 MB available space</li></ul>"
+            },
+            "linux_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Storage:</strong> 90 MB available space</li></ul>"
+            },
+            "legal_notice": "Copyright © 2014-2018 Handelabra Games Inc.<br />\r\n<br />\r\nSentinels of The Multiverse: The Video Game is an officially licensed product of “Sentinels of the Multiverse®” from Greater Than Games LLC.",
+            "developers": [
+                "Handelabra Games Inc."
+            ],
+            "publishers": [
+                ""
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 499,
+                "final": 499,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "4,99€"
+            },
+            "packages": [
+                88810,
+                58760
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Sentinels of the Multiverse - Shattered Timelines",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 88810,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Sentinels of the Multiverse - Shattered Timelines - 4,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 499
+                        },
+                        {
+                            "packageid": 58760,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Sentinels of the Multiverse - Season Pass 1 - 22,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 2299
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": true,
+                "linux": true
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 1,
+                    "description": "Multi-player"
+                },
+                {
+                    "id": 36,
+                    "description": "Online Multi-Player"
+                },
+                {
+                    "id": 37,
+                    "description": "Local Multi-Player"
+                },
+                {
+                    "id": 9,
+                    "description": "Co-op"
+                },
+                {
+                    "id": 38,
+                    "description": "Online Co-op"
+                },
+                {
+                    "id": 39,
+                    "description": "Local Co-op"
+                },
+                {
+                    "id": 24,
+                    "description": "Shared/Split Screen"
+                },
+                {
+                    "id": 27,
+                    "description": "Cross-Platform Multiplayer"
+                },
+                {
+                    "id": 21,
+                    "description": "Downloadable Content"
+                },
+                {
+                    "id": 22,
+                    "description": "Steam Achievements"
+                },
+                {
+                    "id": 29,
+                    "description": "Steam Trading Cards"
+                },
+                {
+                    "id": 23,
+                    "description": "Steam Cloud"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "23",
+                    "description": "Indie"
+                },
+                {
+                    "id": "2",
+                    "description": "Strategy"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/429110/ss_780ad29329fc525603d994d8591f9e8adb6d408e.600x338.jpg?t=1534524653",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/429110/ss_780ad29329fc525603d994d8591f9e8adb6d408e.1920x1080.jpg?t=1534524653"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/429110/ss_5f1ecb6d589d78abc7fa498bd15dd1844bebbd21.600x338.jpg?t=1534524653",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/429110/ss_5f1ecb6d589d78abc7fa498bd15dd1844bebbd21.1920x1080.jpg?t=1534524653"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/429110/ss_d40361c78e1ba173eda1171523d2186736dfb5bf.600x338.jpg?t=1534524653",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/429110/ss_d40361c78e1ba173eda1171523d2186736dfb5bf.1920x1080.jpg?t=1534524653"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/429110/ss_d0fa5f455ead5734ae994585714c5d472cab9b29.600x338.jpg?t=1534524653",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/429110/ss_d0fa5f455ead5734ae994585714c5d472cab9b29.1920x1080.jpg?t=1534524653"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/429110/ss_cee7fe9b5fc52024a3ca961424587aef931152dd.600x338.jpg?t=1534524653",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/429110/ss_cee7fe9b5fc52024a3ca961424587aef931152dd.1920x1080.jpg?t=1534524653"
+                },
+                {
+                    "id": 5,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/429110/ss_cf825c5798faf82dd4407aec5d26447337217436.600x338.jpg?t=1534524653",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/429110/ss_cf825c5798faf82dd4407aec5d26447337217436.1920x1080.jpg?t=1534524653"
+                }
+            ],
+            "achievements": {
+                "total": 0
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "27 Jan, 2016"
+            },
+            "support_info": {
+                "url": "http://handelabra.com/contact",
+                "email": "support@handelabra.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/429110/page_bg_generated_v6b.jpg?t=1534524653",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

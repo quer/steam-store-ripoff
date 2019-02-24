@@ -1,0 +1,104 @@
+{
+    "1024090": {
+        "success": true,
+        "data": {
+            "type": "dlc",
+            "name": "Magic Borderless - Donation Blue",
+            "steam_appid": 1024090,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "<strong>Additional Note</strong><br>This downloadable content is used only as a donation to support the developers of Magic Borderless. <br>It does not add or modify anything to the software.",
+            "about_the_game": "<strong>Additional Note</strong><br>This downloadable content is used only as a donation to support the developers of Magic Borderless. <br>It does not add or modify anything to the software.",
+            "short_description": "Support the developers of Magic Borderless!",
+            "fullgame": {
+                "appid": "1022230",
+                "name": "Magic Borderless"
+            },
+            "supported_languages": "English, Korean",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1024090/header.jpg?t=1548909595",
+            "website": null,
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10 (32bit/64bit)<br></li><li><strong>Additional Notes:</strong> Just needs anything that can help to get this DLC to donate</li></ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "developers": [
+                "Studio Christmas"
+            ],
+            "publishers": [
+                ""
+            ],
+            "price_overview": {
+                "currency": "USD",
+                "initial": 999,
+                "final": 999,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "$9.99"
+            },
+            "packages": [
+                340101
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Magic Borderless - Donation Blue",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 340101,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Support the Development - $9.99",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 999
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 21,
+                    "description": "Downloadable Content"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "57",
+                    "description": "Utilities"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1024090/ss_e5d345061d28940f8912032b361f40c2b2759c26.600x338.jpg?t=1548909595",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1024090/ss_e5d345061d28940f8912032b361f40c2b2759c26.1920x1080.jpg?t=1548909595"
+                }
+            ],
+            "release_date": {
+                "coming_soon": false,
+                "date": "Jan 30, 2019"
+            },
+            "support_info": {
+                "url": "",
+                "email": "shielchristmas@gmail.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1024090/page_bg_generated_v6b.jpg?t=1548909595",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

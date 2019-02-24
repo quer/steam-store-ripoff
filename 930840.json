@@ -1,0 +1,182 @@
+{
+    "930840": {
+        "success": true,
+        "data": {
+            "type": "game",
+            "name": "东方百问~TouHouAsked",
+            "steam_appid": 930840,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "Null",
+            "about_the_game": "Null",
+            "short_description": "Null",
+            "supported_languages": "Simplified Chinese",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/930840/header.jpg?t=1547534744",
+            "website": "https://asked.touhou.ren/",
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 32/64bit<br></li><li><strong>Processor:</strong> Inter Core i3<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> GTS 450<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 300 MB available space<br></li><li><strong>Sound Card:</strong> All<br></li><li><strong>Additional Notes:</strong> Null</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10 32/64bit<br></li><li><strong>Processor:</strong> Inter Core i5<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> GTX 1050<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 300 MB available space<br></li><li><strong>Sound Card:</strong> All<br></li><li><strong>Additional Notes:</strong> Null</li></ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "developers": [
+                "Root Nine Studio"
+            ],
+            "publishers": [
+                "Root Nine Studio"
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 79,
+                "final": 79,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "0,79€"
+            },
+            "packages": [
+                301483
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy 东方百问~TouHouAsked",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 301483,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "东方百问 - 0,79€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 79
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 22,
+                    "description": "Steam Achievements"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "4",
+                    "description": "Casual"
+                },
+                {
+                    "id": "23",
+                    "description": "Indie"
+                },
+                {
+                    "id": "2",
+                    "description": "Strategy"
+                },
+                {
+                    "id": "70",
+                    "description": "Early Access"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/930840/ss_2878582cff353493db49a13ba0bfb3ebc8126cb8.600x338.jpg?t=1547534744",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/930840/ss_2878582cff353493db49a13ba0bfb3ebc8126cb8.1920x1080.jpg?t=1547534744"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/930840/ss_b030f7b7bdbde302c337ab33337dbafc35670fc5.600x338.jpg?t=1547534744",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/930840/ss_b030f7b7bdbde302c337ab33337dbafc35670fc5.1920x1080.jpg?t=1547534744"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/930840/ss_3737b02fc5c99350b4ac803b70bd28ec3f8cd896.600x338.jpg?t=1547534744",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/930840/ss_3737b02fc5c99350b4ac803b70bd28ec3f8cd896.1920x1080.jpg?t=1547534744"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/930840/ss_45d56b51bf1ca6d2cdb20d7740db6531e4239304.600x338.jpg?t=1547534744",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/930840/ss_45d56b51bf1ca6d2cdb20d7740db6531e4239304.1920x1080.jpg?t=1547534744"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/930840/ss_0f5e2c50ee59cfc15cf6f68335df82a7f45faf79.600x338.jpg?t=1547534744",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/930840/ss_0f5e2c50ee59cfc15cf6f68335df82a7f45faf79.1920x1080.jpg?t=1547534744"
+                },
+                {
+                    "id": 5,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/930840/ss_110bb70870a84aff82ab4c161eb7a9109a4ad2ac.600x338.jpg?t=1547534744",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/930840/ss_110bb70870a84aff82ab4c161eb7a9109a4ad2ac.1920x1080.jpg?t=1547534744"
+                },
+                {
+                    "id": 6,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/930840/ss_93c6765fdb6e95e0127393855bddbd0e8729a3fb.600x338.jpg?t=1547534744",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/930840/ss_93c6765fdb6e95e0127393855bddbd0e8729a3fb.1920x1080.jpg?t=1547534744"
+                },
+                {
+                    "id": 7,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/930840/ss_81e82cc787bdc8371a19daf5708b26bb0f8422c5.600x338.jpg?t=1547534744",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/930840/ss_81e82cc787bdc8371a19daf5708b26bb0f8422c5.1920x1080.jpg?t=1547534744"
+                },
+                {
+                    "id": 8,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/930840/ss_7cfe12cc77e738ad71b7d73181310a186d11ddb7.600x338.jpg?t=1547534744",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/930840/ss_7cfe12cc77e738ad71b7d73181310a186d11ddb7.1920x1080.jpg?t=1547534744"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 256726640,
+                    "name": "TouHouAsked",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256726640/movie.293x165.jpg?t=1536393865",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256726640/movie480.webm?t=1536393865",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256726640/movie_max.webm?t=1536393865"
+                    },
+                    "highlight": true
+                }
+            ],
+            "achievements": {
+                "total": 2,
+                "highlighted": [
+                    {
+                        "name": "穿过结界",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/930840/4d4c629bb3b8e11c733e9770f4ddace16ac9f0e8.jpg"
+                    },
+                    {
+                        "name": "五个难题",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/930840/ba5ed41e5743bb9dc2620cb00c7df27ff84d8683.jpg"
+                    }
+                ]
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "7 Oct, 2018"
+            },
+            "support_info": {
+                "url": "https://asked.touhou.ren",
+                "email": "530992727@qq.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/930840/page_bg_generated_v6b.jpg?t=1547534744",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

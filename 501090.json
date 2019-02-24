@@ -1,0 +1,210 @@
+{
+    "501090": {
+        "success": true,
+        "data": {
+            "type": "game",
+            "name": "Design it, Drive it : Speedboats",
+            "steam_appid": 501090,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "<h2 class=\"bb_tag\">VEE HULLS HAVE BEEN REMADE FROM SCRATCH (released as a free update on Feb 19, 2017)</h2><br>&quot;Design it, Drive it: Speedboats&quot;  is a speedboat simulator with high fidelity physics that lets you design and drive your own speedboats from dozens of adjustable parameters on a Windows PC, then compete against other players via leaderboards in top speed shootouts, solo time trials on lapped or point to point courses, or just free drive as you please to explore the world and your design's handling characteristics with no constraints.  Whether you end up with boats that are slow, fast, turn well, chine walk, or tend to blow over at high speeds or not depends on what you do with the shape and design of the hull.<br><br>This is not your typical boat game.  It's more of a design tool and physics sandbox/waterbox, a serious, hardcore simulator used by real life boat racers around the world including Formula 1, 2, 3, 4, 5, offshore powerboat, and other series racers to keep their skills sharp between races and train muscle memory.   Real life high performance boat driving skills such as chine walk control and engine trim management can be learned safely.<br><br><br>Real life marine engineers and boat designers use this to experiment with ideas and get a better intuitive feel for how various design aspects influence boat handling and performance.  The force vector view (accessible with the TAB key) is useful in examining exactly why the boat does what it does (see pic in screenshots).  Dynamic instabilities can be examined in real time as they're happening, and the exact water/hull wetted contact shape and size can be viewed through the hull in real time.<h2 class=\"bb_tag\">Boat Design Variables:</h2>Currently there are two basic hull types that can be modified to produce your custom hull designs:<br><br><ul class=\"bb_ul\"><li>  Vee bottom outboards<br></li><li>  Formula style outboard tunnels</li></ul><br>The vee hulls have more than 40 adjustable parameters you can play with that affect not only the boat's appearance, but also have a significant effect on all aspects of performance and handling.  Most of these can be viewed in the screenshots section of the store.  The tunnel hulls are also adjustable.<h2 class=\"bb_tag\">Physics</h2>The boat mesh is generated procedurally (mathematically) from the design parameters you specify.  The physics computations (thousands of forces) are run directly on the resulting hull geometry from your design.   As a result, all adjustable parameters affect the handling and top speed of your boat in much the same way they do on real boats.<br><br><br>The physics code/vehicle simulation model driving all this is a proprietary system that solves thousands of hydrodynamic, skin friction, buoyancy, and aerodynamic forces separately on almost every triangle in the boat mesh, lower unit, and powerhead as well as the individual propeller blades.  A force vector view (TAB key) will display many of these forces so you can see exactly why the boat chine walks, porpoises, and turns well (or not), as well as showing which area of the hull is in the water at any given instant in order to guide your design decisions and help you understand why your design behaves the way it does.<br><br><br>Steering wheel force feedback (if you have one, not required) is fully modelled with many of these same forces and torques.<br><br><br><ul class=\"bb_ul\"><li>Chine walk naturally comes out of the model as well as blowover.   A lot can be learned about both by experimenting with the hull design and driving techniques inside the boat sim.   You can learn to control chine walk in a real boat by practicing it safely in the simulator first.<br><br></li><li>Skin friction at the hull and lower unit is computed using a sophisticated Reynold's number approach that depends on the details of the water/hull interaction, so as you trim the engine or adjust the hull or pad design to raise the bow or hull out of the water with aerodynamic lift, the effect on top speed is similar to what you would get with a real boat.  The same goes for the cockpit operated hydraulic jackplate which can be used to raise the entire engine up to minimize wetted drag on the lower unit to attain even higher speeds.<br><br></li><li>Paddlewheel effects due to surface piercing propellers come out of the physics model due to the individual propeller blade modelling, so when the jack plate is raised or the engine trim is adjusted to lift the propeller partly out of the water (surface piercing prop) in the hunt for maximum speed, the lopsided propeller forces from blades exposed to the air tend to steer the boat which requires a steering correction similar to real life surfacing propellers.</li></ul><h2 class=\"bb_tag\">Maps</h2><br>These maps are real life locations generated from satellite terrain data.<br><br><ul class=\"bb_ul\"><li>Lotus Lake in Chanhassen, Minnesota, is a small, three bay lake about one mile long that the developer grew up on and spent untold hours driving the family speedboat on.<br><br></li><li>Glen Canyon, Utah, is an enormous stretch of the San Juan river that takes more than 30 minutes to drive the entire length of in a 100 mph+ boat.  It includes a bit of everything in one giant map.  There's a narrow, twisty section of the river, some wider, straighter areas, and a couple of wide open lake areas that are each much larger than Lotus Lake.  With multiple starting locations, it's like several maps in one.</li></ul><br>Are there more real life locations you'd like to see added to the simulator?   Post them here!  <br><br><a href=\"http://steamcommunity.com/app/501090/discussions/0/353915309341981755/\" target=\"_blank\" rel=\"noreferrer\"  >http://steamcommunity.com/app/501090/discussions/0/353915309341981755/</a><h2 class=\"bb_tag\">Simulation modes</h2> <ul class=\"bb_ul\"><li> &quot;Free as the Wind&quot; mode lets you drive freely in much the same way you'd play with a flight simulator.  Go anywhere and do anything you want without any buoy turn markers or timers or goals.  In this mode there are multiple starting locations spread throughout each map.  <br><br></li><li> &quot;Courses&quot; mode lets you drive competitively either in lapped solo time trials or in one mile top speed shootouts (available on both maps) with your results submitted to a separate leaderboard for each course.  <strong>NEW August 6, 2016:</strong> Leaderboards are available for all courses.   Previously they were available for top speed shootouts only.</li></ul><h2 class=\"bb_tag\">Courses</h2>Courses are open water circuits on the Lotus Lake and Glen Canyon maps marked by buoys the same way it's done in real powerboat racing (red buoys are for right turns, yellow buoys are for left).   As of August 4, 2016, all non-top speed shooutout courses have leaderboard functionality added that will display your rank, best ever laptime, last laptime, best session laptime, and world record laptime every time a lap is completed.   <br><br><br><ul class=\"bb_ul\"><li> Lotus Lake Top Speed Shootout:  A straight, mile long course for top speed competition.<br></li><li> Lotus Lake Short:  A short, four turn lapping course in the main bay similar to some formula style boat circuits.  Laptimes here are usually less than one minute. <br></li><li> Lotus Lake Full Lap:  A longer course with a large number of turns that hugs the shoreline and takes you around the entire lake once per lap.  A full trip in a quick boat that turns well takes under three minutes.<br></li><li> Glen Canyon Shootout:  A straight, mile long course for top speed competition.<br></li><li> Glen Canyon Full: This enormous one-way point to point course extends the entire length of the Glen Canyon map and is well over 40 miles in length.  It can take more than 30 minutes to go from one end to the other with a boat capable of 100 mph.  <br></li><li> Glen Canyon Minnow:  A short, four turn lapping course with two very tight left handers, a medium right turn, and a long 180 left hander.  Similar to formula style tracks with lap times typically around 50-55 seconds or less.<br></li><li> Glen Canyon Steak:  A large offshore powerboat style course held in a large bay that's partly out in the open water, but also snakes between the shoreline and a couple of small islands.  The turns are long and wide here for the most part, very high speed.  Lap times under three minutes.<br></li><li> Glen Canyon Abu:  Modelled after a real life tunnel boat course in Abu Dhabi.</li></ul><br>Do you have course layout ideas for the existing maps or real world map locations you'd like to see added?  Suggest them here:<br><br><a href=\"http://steamcommunity.com/app/501090/discussions/0/353915309341981755/\" target=\"_blank\" rel=\"noreferrer\"  >http://steamcommunity.com/app/501090/discussions/0/353915309341981755/</a><br><br>You're not restricted to driving on courses, however.  Just choose &quot;Free as the Wind&quot; mode and drive anywhere you want.  A lazy run down Glen Canyon with no pressure can be surprisingly relaxing, especially in VR.<h2 class=\"bb_tag\">Controller support</h2><br><ul class=\"bb_ul\"><li>Fully configurable with axes/buttons.  Use a keyboard, gamepad buttons/axes, joystick, steering wheel (force feedback supported), a combination of all of these, etc..  Anything that DirectInput can see should work for a controller.  <br></li><li>Steam Controller does not have full native support, but can be made to work with some effort.  See tutorial: <a href=\"http://steamcommunity.com/app/501090/discussions/0/352788917757551618/\" target=\"_blank\" rel=\"noreferrer\"  >http://steamcommunity.com/app/501090/discussions/0/352788917757551618/</a><br></li><li>VR handheld controllers are NOT supported.  In VR mode you use a mouse and keyboard to navigate the user interface, change cameras, etc..</li></ul><br>The best setup is a force feedback steering wheel + pedals with a mouse and keyboard within reach.<h2 class=\"bb_tag\">VR support</h2><br><ul class=\"bb_ul\"><li>Oculus Rift DK2, and CV1 : Supported.  Requires Oculus Home 1.3 or higher.  Note:  DK1 no longer works with Oculus Home.  <br></li><li>Vive:  Supported</li></ul><br>Oculus or Vive VR headsets are optional.  Single, dual, and triple monitor setups are supported.<h2 class=\"bb_tag\">Developer info</h2>This indie project was developed by Todd Wasson, formerly the physics engine programmer/vehicle dynamics engineer behind Virtual RC Racing and it's successor, VRC Pro.   Todd has been writing physics engines and vehicle models since before 2000 and specializes in vehicle dynamics.<br><br><br>Audio was created by Greg Hill of Soundwave Concepts, the master car engine audio developer behind iRacing and many other sim racing titles.<br><br>The outboard engine 3D model, helmet, and billboards were created by Morgan Williams of Bluewater Racing F1 (<a href=\"https://steamcommunity.com/linkfilter/?url=https://www.facebook.com/bluewaterracing/\" target=\"_blank\" rel=\"noopener\"  >https://www.facebook.com/bluewaterracing/</a>).  A real life F1 boat racer, Morgan was instrumental in guiding the tuning of the default tunnel boat so its handling could be made as realistic as possible.  Judging by the number of other real life F1/F2/F3/F4/F5 and other race drivers now using the simulator for practice and entertainment, it appears this mission was accomplished.  Thanks, Morgan!",
+            "about_the_game": "<h2 class=\"bb_tag\">VEE HULLS HAVE BEEN REMADE FROM SCRATCH (released as a free update on Feb 19, 2017)</h2><br>&quot;Design it, Drive it: Speedboats&quot;  is a speedboat simulator with high fidelity physics that lets you design and drive your own speedboats from dozens of adjustable parameters on a Windows PC, then compete against other players via leaderboards in top speed shootouts, solo time trials on lapped or point to point courses, or just free drive as you please to explore the world and your design's handling characteristics with no constraints.  Whether you end up with boats that are slow, fast, turn well, chine walk, or tend to blow over at high speeds or not depends on what you do with the shape and design of the hull.<br><br>This is not your typical boat game.  It's more of a design tool and physics sandbox/waterbox, a serious, hardcore simulator used by real life boat racers around the world including Formula 1, 2, 3, 4, 5, offshore powerboat, and other series racers to keep their skills sharp between races and train muscle memory.   Real life high performance boat driving skills such as chine walk control and engine trim management can be learned safely.<br><br><br>Real life marine engineers and boat designers use this to experiment with ideas and get a better intuitive feel for how various design aspects influence boat handling and performance.  The force vector view (accessible with the TAB key) is useful in examining exactly why the boat does what it does (see pic in screenshots).  Dynamic instabilities can be examined in real time as they're happening, and the exact water/hull wetted contact shape and size can be viewed through the hull in real time.<h2 class=\"bb_tag\">Boat Design Variables:</h2>Currently there are two basic hull types that can be modified to produce your custom hull designs:<br><br><ul class=\"bb_ul\"><li>  Vee bottom outboards<br></li><li>  Formula style outboard tunnels</li></ul><br>The vee hulls have more than 40 adjustable parameters you can play with that affect not only the boat's appearance, but also have a significant effect on all aspects of performance and handling.  Most of these can be viewed in the screenshots section of the store.  The tunnel hulls are also adjustable.<h2 class=\"bb_tag\">Physics</h2>The boat mesh is generated procedurally (mathematically) from the design parameters you specify.  The physics computations (thousands of forces) are run directly on the resulting hull geometry from your design.   As a result, all adjustable parameters affect the handling and top speed of your boat in much the same way they do on real boats.<br><br><br>The physics code/vehicle simulation model driving all this is a proprietary system that solves thousands of hydrodynamic, skin friction, buoyancy, and aerodynamic forces separately on almost every triangle in the boat mesh, lower unit, and powerhead as well as the individual propeller blades.  A force vector view (TAB key) will display many of these forces so you can see exactly why the boat chine walks, porpoises, and turns well (or not), as well as showing which area of the hull is in the water at any given instant in order to guide your design decisions and help you understand why your design behaves the way it does.<br><br><br>Steering wheel force feedback (if you have one, not required) is fully modelled with many of these same forces and torques.<br><br><br><ul class=\"bb_ul\"><li>Chine walk naturally comes out of the model as well as blowover.   A lot can be learned about both by experimenting with the hull design and driving techniques inside the boat sim.   You can learn to control chine walk in a real boat by practicing it safely in the simulator first.<br><br></li><li>Skin friction at the hull and lower unit is computed using a sophisticated Reynold's number approach that depends on the details of the water/hull interaction, so as you trim the engine or adjust the hull or pad design to raise the bow or hull out of the water with aerodynamic lift, the effect on top speed is similar to what you would get with a real boat.  The same goes for the cockpit operated hydraulic jackplate which can be used to raise the entire engine up to minimize wetted drag on the lower unit to attain even higher speeds.<br><br></li><li>Paddlewheel effects due to surface piercing propellers come out of the physics model due to the individual propeller blade modelling, so when the jack plate is raised or the engine trim is adjusted to lift the propeller partly out of the water (surface piercing prop) in the hunt for maximum speed, the lopsided propeller forces from blades exposed to the air tend to steer the boat which requires a steering correction similar to real life surfacing propellers.</li></ul><h2 class=\"bb_tag\">Maps</h2><br>These maps are real life locations generated from satellite terrain data.<br><br><ul class=\"bb_ul\"><li>Lotus Lake in Chanhassen, Minnesota, is a small, three bay lake about one mile long that the developer grew up on and spent untold hours driving the family speedboat on.<br><br></li><li>Glen Canyon, Utah, is an enormous stretch of the San Juan river that takes more than 30 minutes to drive the entire length of in a 100 mph+ boat.  It includes a bit of everything in one giant map.  There's a narrow, twisty section of the river, some wider, straighter areas, and a couple of wide open lake areas that are each much larger than Lotus Lake.  With multiple starting locations, it's like several maps in one.</li></ul><br>Are there more real life locations you'd like to see added to the simulator?   Post them here!  <br><br><a href=\"http://steamcommunity.com/app/501090/discussions/0/353915309341981755/\" target=\"_blank\" rel=\"noreferrer\"  >http://steamcommunity.com/app/501090/discussions/0/353915309341981755/</a><h2 class=\"bb_tag\">Simulation modes</h2> <ul class=\"bb_ul\"><li> &quot;Free as the Wind&quot; mode lets you drive freely in much the same way you'd play with a flight simulator.  Go anywhere and do anything you want without any buoy turn markers or timers or goals.  In this mode there are multiple starting locations spread throughout each map.  <br><br></li><li> &quot;Courses&quot; mode lets you drive competitively either in lapped solo time trials or in one mile top speed shootouts (available on both maps) with your results submitted to a separate leaderboard for each course.  <strong>NEW August 6, 2016:</strong> Leaderboards are available for all courses.   Previously they were available for top speed shootouts only.</li></ul><h2 class=\"bb_tag\">Courses</h2>Courses are open water circuits on the Lotus Lake and Glen Canyon maps marked by buoys the same way it's done in real powerboat racing (red buoys are for right turns, yellow buoys are for left).   As of August 4, 2016, all non-top speed shooutout courses have leaderboard functionality added that will display your rank, best ever laptime, last laptime, best session laptime, and world record laptime every time a lap is completed.   <br><br><br><ul class=\"bb_ul\"><li> Lotus Lake Top Speed Shootout:  A straight, mile long course for top speed competition.<br></li><li> Lotus Lake Short:  A short, four turn lapping course in the main bay similar to some formula style boat circuits.  Laptimes here are usually less than one minute. <br></li><li> Lotus Lake Full Lap:  A longer course with a large number of turns that hugs the shoreline and takes you around the entire lake once per lap.  A full trip in a quick boat that turns well takes under three minutes.<br></li><li> Glen Canyon Shootout:  A straight, mile long course for top speed competition.<br></li><li> Glen Canyon Full: This enormous one-way point to point course extends the entire length of the Glen Canyon map and is well over 40 miles in length.  It can take more than 30 minutes to go from one end to the other with a boat capable of 100 mph.  <br></li><li> Glen Canyon Minnow:  A short, four turn lapping course with two very tight left handers, a medium right turn, and a long 180 left hander.  Similar to formula style tracks with lap times typically around 50-55 seconds or less.<br></li><li> Glen Canyon Steak:  A large offshore powerboat style course held in a large bay that's partly out in the open water, but also snakes between the shoreline and a couple of small islands.  The turns are long and wide here for the most part, very high speed.  Lap times under three minutes.<br></li><li> Glen Canyon Abu:  Modelled after a real life tunnel boat course in Abu Dhabi.</li></ul><br>Do you have course layout ideas for the existing maps or real world map locations you'd like to see added?  Suggest them here:<br><br><a href=\"http://steamcommunity.com/app/501090/discussions/0/353915309341981755/\" target=\"_blank\" rel=\"noreferrer\"  >http://steamcommunity.com/app/501090/discussions/0/353915309341981755/</a><br><br>You're not restricted to driving on courses, however.  Just choose &quot;Free as the Wind&quot; mode and drive anywhere you want.  A lazy run down Glen Canyon with no pressure can be surprisingly relaxing, especially in VR.<h2 class=\"bb_tag\">Controller support</h2><br><ul class=\"bb_ul\"><li>Fully configurable with axes/buttons.  Use a keyboard, gamepad buttons/axes, joystick, steering wheel (force feedback supported), a combination of all of these, etc..  Anything that DirectInput can see should work for a controller.  <br></li><li>Steam Controller does not have full native support, but can be made to work with some effort.  See tutorial: <a href=\"http://steamcommunity.com/app/501090/discussions/0/352788917757551618/\" target=\"_blank\" rel=\"noreferrer\"  >http://steamcommunity.com/app/501090/discussions/0/352788917757551618/</a><br></li><li>VR handheld controllers are NOT supported.  In VR mode you use a mouse and keyboard to navigate the user interface, change cameras, etc..</li></ul><br>The best setup is a force feedback steering wheel + pedals with a mouse and keyboard within reach.<h2 class=\"bb_tag\">VR support</h2><br><ul class=\"bb_ul\"><li>Oculus Rift DK2, and CV1 : Supported.  Requires Oculus Home 1.3 or higher.  Note:  DK1 no longer works with Oculus Home.  <br></li><li>Vive:  Supported</li></ul><br>Oculus or Vive VR headsets are optional.  Single, dual, and triple monitor setups are supported.<h2 class=\"bb_tag\">Developer info</h2>This indie project was developed by Todd Wasson, formerly the physics engine programmer/vehicle dynamics engineer behind Virtual RC Racing and it's successor, VRC Pro.   Todd has been writing physics engines and vehicle models since before 2000 and specializes in vehicle dynamics.<br><br><br>Audio was created by Greg Hill of Soundwave Concepts, the master car engine audio developer behind iRacing and many other sim racing titles.<br><br>The outboard engine 3D model, helmet, and billboards were created by Morgan Williams of Bluewater Racing F1 (<a href=\"https://steamcommunity.com/linkfilter/?url=https://www.facebook.com/bluewaterracing/\" target=\"_blank\" rel=\"noopener\"  >https://www.facebook.com/bluewaterracing/</a>).  A real life F1 boat racer, Morgan was instrumental in guiding the tuning of the default tunnel boat so its handling could be made as realistic as possible.  Judging by the number of other real life F1/F2/F3/F4/F5 and other race drivers now using the simulator for practice and entertainment, it appears this mission was accomplished.  Thanks, Morgan!",
+            "short_description": "Design and drive your own speedboats with simulation quality physics including blowover/chine walk/porpoising dynamics. Popular with real life boat racers. Free drive anywhere or compete on courses through leaderboards. 40+ adjustable design parameters. Solo developer.",
+            "supported_languages": "English",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/501090/header.jpg?t=1501372051",
+            "website": "http://speedboatsim.com",
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7/8/10<br></li><li><strong>Processor:</strong> Hyperthreaded Intel CPU, AMD Athlon<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Shader Model 3.0 graphics card (AMD Radeon HD 5870, nVidia GTX 560)<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Sound Card:</strong> Onboard integrated or Soundblaster compatible soundcard<br></li><li><strong>Additional Notes:</strong> Full water spray effects require a DX11 capable card with Shader Model 5 support.  Product will run on a lower end card but the spray effects will be limited to rooster tails.   VR requires a higher end card, but not as high as Oculus says is required.  Developer is running a 680X card with this product on a DK2 and it maintains 75fps+.</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7/8/10<br></li><li><strong>Processor:</strong> Multi-core CPU (Intel Core i5 or i7, AMD Phenom II QUAD X4)<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> AMD Radeon HD 7970, R9 280X, nVidia GTX 680<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 3 GB available space<br></li><li><strong>Sound Card:</strong> Soundblaster compatible soundcard</li></ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "legal_notice": "Copyright 2015-2016 J. Todd Wasson - Performance Simulations",
+            "developers": [
+                "Performance Simulations"
+            ],
+            "publishers": [
+                "Performance Simulations"
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 2099,
+                "final": 2099,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "20,99€"
+            },
+            "packages": [
+                115015
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Design it, Drive it : Speedboats",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 115015,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Design it, Drive it : Speedboats - 20,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 2099
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 25,
+                    "description": "Steam Leaderboards"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "23",
+                    "description": "Indie"
+                },
+                {
+                    "id": "28",
+                    "description": "Simulation"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/501090/ss_2768d13de64e24e1d4130f47aa692596a3297bee.600x338.jpg?t=1501372051",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/501090/ss_2768d13de64e24e1d4130f47aa692596a3297bee.1920x1080.jpg?t=1501372051"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/501090/ss_d2956df7ade857fb45227a7bc651f50ff5cf82ae.600x338.jpg?t=1501372051",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/501090/ss_d2956df7ade857fb45227a7bc651f50ff5cf82ae.1920x1080.jpg?t=1501372051"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/501090/ss_2e8eaafb49e7f110805603295f74bf6b2addac40.600x338.jpg?t=1501372051",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/501090/ss_2e8eaafb49e7f110805603295f74bf6b2addac40.1920x1080.jpg?t=1501372051"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/501090/ss_cc003955ee2f407f68fb7c6ced2b711627bd4efa.600x338.jpg?t=1501372051",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/501090/ss_cc003955ee2f407f68fb7c6ced2b711627bd4efa.1920x1080.jpg?t=1501372051"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/501090/ss_4f25fbd0047b35b19147e85b046754e4ddbe3545.600x338.jpg?t=1501372051",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/501090/ss_4f25fbd0047b35b19147e85b046754e4ddbe3545.1920x1080.jpg?t=1501372051"
+                },
+                {
+                    "id": 5,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/501090/ss_14061e67357851cd1ba925de6cc22ef196809ab0.600x338.jpg?t=1501372051",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/501090/ss_14061e67357851cd1ba925de6cc22ef196809ab0.1920x1080.jpg?t=1501372051"
+                },
+                {
+                    "id": 6,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/501090/ss_df3e64abce503e6e324f2ba649fafd6ee11b8a2d.600x338.jpg?t=1501372051",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/501090/ss_df3e64abce503e6e324f2ba649fafd6ee11b8a2d.1920x1080.jpg?t=1501372051"
+                },
+                {
+                    "id": 7,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/501090/ss_116624acbfb0eaee632137a7fd61d28a8bf00d53.600x338.jpg?t=1501372051",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/501090/ss_116624acbfb0eaee632137a7fd61d28a8bf00d53.1920x1080.jpg?t=1501372051"
+                },
+                {
+                    "id": 8,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/501090/ss_8f2bfb18e08709c8e8b8f0172c121591192407b5.600x338.jpg?t=1501372051",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/501090/ss_8f2bfb18e08709c8e8b8f0172c121591192407b5.1920x1080.jpg?t=1501372051"
+                },
+                {
+                    "id": 9,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/501090/ss_3c4074db31d230d25e977d01669064e5a9797b08.600x338.jpg?t=1501372051",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/501090/ss_3c4074db31d230d25e977d01669064e5a9797b08.1920x1080.jpg?t=1501372051"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 256684447,
+                    "name": "Stern Drive Trailer 1",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256684447/movie.293x165.jpg?t=1493997054",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256684447/movie480.webm?t=1493997054",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256684447/movie_max.webm?t=1493997054"
+                    },
+                    "highlight": true
+                },
+                {
+                    "id": 256679923,
+                    "name": "New Vees Trailer 1",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256679923/movie.293x165.jpg?t=1487552881",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256679923/movie480.webm?t=1487552881",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256679923/movie_max.webm?t=1487552881"
+                    },
+                    "highlight": true
+                },
+                {
+                    "id": 256674900,
+                    "name": "Trailer Tunnel 1",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256674900/movie.293x165.jpg?t=1479433305",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256674900/movie480.webm?t=1479433305",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256674900/movie_max.webm?t=1479433305"
+                    },
+                    "highlight": true
+                },
+                {
+                    "id": 256667118,
+                    "name": "VR Multicam",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256667118/movie.293x165.jpg?t=1469008763",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256667118/movie480.webm?t=1469008763",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256667118/movie_max.webm?t=1469008763"
+                    },
+                    "highlight": true
+                },
+                {
+                    "id": 256687125,
+                    "name": "Onboard Tunnel at Abu",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256687125/movie.293x165.jpg?t=1497353876",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256687125/movie480.webm?t=1497353876",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256687125/movie_max.webm?t=1497353876"
+                    },
+                    "highlight": true
+                }
+            ],
+            "achievements": {
+                "total": 0
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "26 Jul, 2016"
+            },
+            "support_info": {
+                "url": "http://speedboatsim.com",
+                "email": "support@speedboatsim.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/501090/page_bg_generated_v6b.jpg?t=1501372051",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

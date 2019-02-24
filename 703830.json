@@ -1,0 +1,124 @@
+{
+    "703830": {
+        "success": true,
+        "data": {
+            "type": "demo",
+            "name": "Tyd wag vir Niemand Demo",
+            "steam_appid": 703830,
+            "required_age": 0,
+            "is_free": true,
+            "controller_support": "full",
+            "detailed_description": "<h1>Update Notes</h1><p>v1.1:\r\n\r\nFixes:\r\n\r\n- Loading bugs that were present in some levels have been fixed.\r\n- Final Achievement can now be unlocked (apologies you will need to replay the levels that you have played prior to this update)\r\n- Explicit 32-bit only version of the game added for PC, Mac and Linux to ensure that all 32-bit users can play. \r\n\r\nPossible Issues:\r\n\r\n- Some sounds tweaks\r\n- Some graphical tweaks\r\n- Menu doesnt go away completely when pressing the Menu button on any menu other than the Main Menu\r\n- OSX Sierra may still have some input/menu issues.\r\n- Linux distros that arent officially supported might still have input/menu issues\r\n\r\nNext Update:\r\n\r\n- In-Game Graphics and Resolution Menu\r\n- Audio Menu\r\n- Any necessary fixes\r\n- Some tweaks and refinements</p><br><h1>About the Game</h1>Manipulate time to your will at any moment to solve challenges, avoid deadly traps and make it to the end of this strange journey.\r\n\r\nTyd wag vir Niemand is an indie abstract adventure filled with mystical environments that will put your abilities to the test and engage you in a world of mystery and wonder.\r\n\r\nFeatures:\r\n\r\n-Large, abstract environments\r\n-Fun, tricky obstacles\r\n-Exploration\r\n-Platforming\r\n-Traps",
+            "about_the_game": "Manipulate time to your will at any moment to solve challenges, avoid deadly traps and make it to the end of this strange journey.<br />\r\n<br />\r\nTyd wag vir Niemand is an indie abstract adventure filled with mystical environments that will put your abilities to the test and engage you in a world of mystery and wonder.<br />\r\n<br />\r\nFeatures:<br />\r\n<br />\r\n-Large, abstract environments<br />\r\n-Fun, tricky obstacles<br />\r\n-Exploration<br />\r\n-Platforming<br />\r\n-Traps",
+            "short_description": "Manipulate time to your will at any moment to solve challenges, avoid deadly traps and make it to the end of this strange journey.",
+            "fullgame": {
+                "appid": "589730",
+                "name": "Tyd wag vir Niemand (Time waits for Nobody)"
+            },
+            "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/703830/header.jpg?t=1504044255",
+            "website": "http://www.skobbejakgames.com",
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 32-bit<br></li><li><strong>Processor:</strong> Dual Core<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia Geforce 8800 OR ATI Radeon HD 3870 OR equivalent/higher<br></li><li><strong>Storage:</strong> 5 GB available space<br></li><li><strong>Sound Card:</strong> Direct X compatible</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10 64-bit<br></li><li><strong>Processor:</strong> Quad Core<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GTX 460 OR AMD Radeon HD 5770 OR equivalent/higher<br></li><li><strong>Storage:</strong> 5 GB available space<br></li><li><strong>Sound Card:</strong> Direct X compatible</li></ul>"
+            },
+            "mac_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OSX El Capitan<br></li><li><strong>Processor:</strong> Dual Core<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia Geforce 8800 OR ATI Radeon HD 3870 OR equivalent/higher<br></li><li><strong>Storage:</strong> 5 GB available space<br></li><li><strong>Sound Card:</strong> Mac OSX compatible</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OSX El Capitan<br></li><li><strong>Processor:</strong> Quad Core<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GTX 460 OR AMD Radeon HD 5770 OR equivalent/higher<br></li><li><strong>Storage:</strong> 5 GB available space<br></li><li><strong>Sound Card:</strong> Mac OSX compatible</li></ul>"
+            },
+            "linux_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Trusty Tahr (Steam OS not yet tested)<br></li><li><strong>Processor:</strong> Dual Core<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia Geforce 8800 OR ATI Radeon HD 3870 OR equivalent/highervvvvvvvvvvvvvvvvvvv<br></li><li><strong>Storage:</strong> 5 GB available space<br></li><li><strong>Sound Card:</strong> Linux compatible</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Trusty Tahr (Steam OS not yet tested)<br></li><li><strong>Processor:</strong> Quad Core<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GTX 460 OR AMD Radeon HD 5770 OR equivalent/higher<br></li><li><strong>Storage:</strong> 5 GB available space<br></li><li><strong>Sound Card:</strong> Linux compatible</li></ul>"
+            },
+            "legal_notice": "Copyright © 2016-2017 Skobbejak Games (Pty.) Ltd. All trademarks, logos and images are the property of their respective companies.",
+            "developers": [
+                "Skobbejak Games"
+            ],
+            "publishers": [
+                "Skobbejak Games"
+            ],
+            "package_groups": [],
+            "platforms": {
+                "windows": true,
+                "mac": true,
+                "linux": true
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 10,
+                    "description": "Game demo"
+                },
+                {
+                    "id": 22,
+                    "description": "Steam Achievements"
+                },
+                {
+                    "id": 28,
+                    "description": "Full controller support"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "25",
+                    "description": "Adventure"
+                },
+                {
+                    "id": "23",
+                    "description": "Indie"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/703830/ss_304712c2f3aeab9871455d6a992509606fc4809f.600x338.jpg?t=1504044255",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/703830/ss_304712c2f3aeab9871455d6a992509606fc4809f.1920x1080.jpg?t=1504044255"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/703830/ss_b4fcbf4c84431df0494e4e453fbaa5f6b807630f.600x338.jpg?t=1504044255",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/703830/ss_b4fcbf4c84431df0494e4e453fbaa5f6b807630f.1920x1080.jpg?t=1504044255"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/703830/ss_8cb46b13b623c95a5d76033317e3915a6abd3fae.600x338.jpg?t=1504044255",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/703830/ss_8cb46b13b623c95a5d76033317e3915a6abd3fae.1920x1080.jpg?t=1504044255"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/703830/ss_086cd29b472df429253dca9392c2d3b27c242e70.600x338.jpg?t=1504044255",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/703830/ss_086cd29b472df429253dca9392c2d3b27c242e70.1920x1080.jpg?t=1504044255"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/703830/ss_68ec746f8fde3d074ba102204306d57247813c54.600x338.jpg?t=1504044255",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/703830/ss_68ec746f8fde3d074ba102204306d57247813c54.1920x1080.jpg?t=1504044255"
+                },
+                {
+                    "id": 5,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/703830/ss_52de9ddb6e66b81ddd5a605d416ebe763d4b05c7.600x338.jpg?t=1504044255",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/703830/ss_52de9ddb6e66b81ddd5a605d416ebe763d4b05c7.1920x1080.jpg?t=1504044255"
+                }
+            ],
+            "achievements": {
+                "total": 0
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "29 Aug, 2017"
+            },
+            "support_info": {
+                "url": "https://www.skobbejakgames.com/contact/",
+                "email": "skobbejakgames@gmail.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/703830/page_bg_generated_v6b.jpg?t=1504044255",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

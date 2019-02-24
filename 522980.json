@@ -1,0 +1,136 @@
+{
+    "522980": {
+        "success": true,
+        "data": {
+            "type": "dlc",
+            "name": "Rollout - Everything Ever",
+            "steam_appid": 522980,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "This DLC contains everything that ever was, or will be, added to Rollout. Some things from this DLC will be released in smaller DLC packages. Do not purchase any other packages if you have purchased this one. What they contain will be in this one.",
+            "about_the_game": "This DLC contains everything that ever was, or will be, added to Rollout. Some things from this DLC will be released in smaller DLC packages. Do not purchase any other packages if you have purchased this one. What they contain will be in this one.",
+            "short_description": "Everything that has been, or will be, released for Rollout. There will be no need to buy any other DLC when you have this.",
+            "fullgame": {
+                "appid": "509190",
+                "name": "Rollout"
+            },
+            "supported_languages": "English",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/522980/header.jpg?t=1509132508",
+            "website": null,
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP SP2+<br></li><li><strong>Processor:</strong> SSE2 instruction set support<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> DX9 (shader model 3.0) or DX11 with feature level 9.3 capabilities<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 1 GB available space<br></li><li><strong>Sound Card:</strong> None</li></ul>"
+            },
+            "mac_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OS X 10.8+<br></li><li><strong>Processor:</strong> SSE2 instruction set support<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> DX9 (shader model 3.0) or DX11 with feature level 9.3 capabilities<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 1 GB available space<br></li><li><strong>Sound Card:</strong> None</li></ul>"
+            },
+            "linux_requirements": [],
+            "legal_notice": "2016 Ryan Myers",
+            "developers": [
+                "Ryan up in here"
+            ],
+            "publishers": [
+                "Ryan up in here"
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 499,
+                "final": 499,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "4,99€"
+            },
+            "packages": [
+                124389
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Rollout - Everything Ever",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 124389,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Rollout - Everything - 4,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 499
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": true,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 1,
+                    "description": "Multi-player"
+                },
+                {
+                    "id": 36,
+                    "description": "Online Multi-Player"
+                },
+                {
+                    "id": 21,
+                    "description": "Downloadable Content"
+                },
+                {
+                    "id": 15,
+                    "description": "Stats"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "1",
+                    "description": "Action"
+                },
+                {
+                    "id": "4",
+                    "description": "Casual"
+                },
+                {
+                    "id": "37",
+                    "description": "Free to Play"
+                },
+                {
+                    "id": "23",
+                    "description": "Indie"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/522980/ss_e1cb5616f6ac4acfc8430dfe280d5e30b1badb65.600x338.jpg?t=1509132508",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/522980/ss_e1cb5616f6ac4acfc8430dfe280d5e30b1badb65.1920x1080.jpg?t=1509132508"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/522980/ss_d10c0c94cd8f4750ee72d8c523bb26fe3dfada62.600x338.jpg?t=1509132508",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/522980/ss_d10c0c94cd8f4750ee72d8c523bb26fe3dfada62.1920x1080.jpg?t=1509132508"
+                }
+            ],
+            "release_date": {
+                "coming_soon": false,
+                "date": "14 Sep, 2016"
+            },
+            "support_info": {
+                "url": "https://twitter.com/ryanupinhere",
+                "email": "lawstryan@gmail.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/522980/page_bg_generated_v6b.jpg?t=1509132508",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

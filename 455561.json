@@ -1,0 +1,116 @@
+{
+    "455561": {
+        "success": true,
+        "data": {
+            "type": "dlc",
+            "name": "NightCry Artbook",
+            "steam_appid": 455561,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "A digital copy of the NightCry Artbook (~15 pages), featuring artwork from Kiyoshi Arai and Masahiro Ito.",
+            "about_the_game": "A digital copy of the NightCry Artbook (~15 pages), featuring artwork from Kiyoshi Arai and Masahiro Ito.",
+            "short_description": "A digital copy of the NightCry Artbook (~15 pages), featuring artwork from Kiyoshi Arai and Masahiro Ito.",
+            "fullgame": {
+                "appid": "427660",
+                "name": "NightCry"
+            },
+            "supported_languages": "English<strong>*</strong>, Japanese<strong>*</strong><br><strong>*</strong>languages with full audio support",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/455561/header.jpg?t=1464574622",
+            "website": "http://www.night-cry.com/",
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Storage:</strong> 3 MB available space</li></ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "legal_notice": "©BCH/LPEI<br />\r\n“NightCry” is a trademark of Body Count Holdings, LLC",
+            "developers": [
+                "Nude Maker"
+            ],
+            "publishers": [
+                "AGM PLAYISM"
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 1299,
+                "final": 1299,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "12,99€"
+            },
+            "packages": [
+                98558
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy NightCry Artbook",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 98558,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "NightCry Artbook - 12,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 1299
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 21,
+                    "description": "Downloadable Content"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "25",
+                    "description": "Adventure"
+                },
+                {
+                    "id": "23",
+                    "description": "Indie"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/455561/ss_b60927f3aed778d3e62f4f2c4f1ac3d27f092753.600x338.jpg?t=1464574622",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/455561/ss_b60927f3aed778d3e62f4f2c4f1ac3d27f092753.1920x1080.jpg?t=1464574622"
+                }
+            ],
+            "achievements": {
+                "total": 0
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "28 Mar, 2016"
+            },
+            "support_info": {
+                "url": "http://playism-games.com/contact",
+                "email": ""
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/455561/page_bg_generated_v6b.jpg?t=1464574622",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

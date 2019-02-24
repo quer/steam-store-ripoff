@@ -1,0 +1,121 @@
+{
+    "748140": {
+        "success": true,
+        "data": {
+            "type": "dlc",
+            "name": "ШП-12.00000000000000001",
+            "steam_appid": 748140,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "+1 additional puzzle to the set of ШП - ШП12.",
+            "about_the_game": "+1 additional puzzle to the set of ШП - ШП12.",
+            "short_description": "+1 additional puzzle to the set of ШП - ШП12.",
+            "fullgame": {
+                "appid": "727640",
+                "name": "ШП - ShP"
+            },
+            "supported_languages": "Russian, English",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/748140/header.jpg?t=1546545130",
+            "website": null,
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP<br></li><li><strong>Processor:</strong> Pentium II @ 233MHz with MMX™ Technology<br></li><li><strong>Memory:</strong> 256 MB RAM<br></li><li><strong>Graphics:</strong> Windows Forms enabled videoadapter<br></li><li><strong>Storage:</strong> 1 MB available space<br></li><li><strong>Sound Card:</strong> Not needed<br></li><li><strong>Additional Notes:</strong> &quot;Mouse&quot; type Human Interface Device is highly recommended</li></ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "developers": [
+                "TheDreik"
+            ],
+            "publishers": [
+                "Xitilon"
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 99,
+                "final": 99,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "0,99€"
+            },
+            "packages": [
+                219636
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy ШП-12.00000000000000001",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 219636,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "ШП+ - 0,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 99
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 24,
+                    "description": "Shared/Split Screen"
+                },
+                {
+                    "id": 21,
+                    "description": "Downloadable Content"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "23",
+                    "description": "Indie"
+                },
+                {
+                    "id": "28",
+                    "description": "Simulation"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/748140/ss_03f04d11e6e64b0dc5f02e22778efce3050ffcfa.600x338.jpg?t=1546545130",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/748140/ss_03f04d11e6e64b0dc5f02e22778efce3050ffcfa.1920x1080.jpg?t=1546545130"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/748140/ss_065d5d78a350aa46f600426160cedbbb076ede4c.600x338.jpg?t=1546545130",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/748140/ss_065d5d78a350aa46f600426160cedbbb076ede4c.1920x1080.jpg?t=1546545130"
+                }
+            ],
+            "release_date": {
+                "coming_soon": false,
+                "date": "6 Nov, 2017"
+            },
+            "support_info": {
+                "url": "",
+                "email": "xitilon@gmail.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/748140/page_bg_generated_v6b.jpg?t=1546545130",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

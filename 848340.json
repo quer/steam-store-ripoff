@@ -1,0 +1,108 @@
+{
+    "848340": {
+        "success": true,
+        "data": {
+            "type": "game",
+            "name": "AGE",
+            "steam_appid": 848340,
+            "required_age": 0,
+            "is_free": true,
+            "detailed_description": "AGE is a freeware that allows you to create your own point and click adventure games without coding, because you don't need to learn any script language if you decide to use AGE.<br><br>AGE games are compatible with Windows, Mac OS X, Linux, iOS, Android and WebGL. It is free for personal and commercial use.<br><br>AGE works with assets that are just standard XML files. The first letter of the asset name indicates the asset type and cannot be changed, because the asset file name is also an UID (without extension) used in all scripts. An asset is also an instance because there is only one instance per asset, and all instances are created at start. For memory reasons, media files are loaded and freed only with scenes.<br><ul class=\"bb_ul\"><li>Scenes (e.g. S_HOME.xml, S1_HOME.xml where 1 is the chapter number) <br></li><li>Objects (e.g. O_HERO.xml, O1_HERO.xml) <br></li><li>Dialogs (e.g. D_WELCOME.xml, D1_WELCOME.xml) <br></li><li>Players (e.g. P_HERO.xml, S1_HERO.xml) <br></li><li>Cinematics (e.g. C_INTRO.xml, C1_INTRO.xml) </li></ul><br>Each asset type has its own editor, detailed below.<h2 class=\"bb_tag\"><strong>Scenario Editor (Timeline and Puzzles)</strong></h2><br>The Scenario Editor is the main editor of AGE that allows you to design your story and puzzles in the form of a diagram. Moreover, it is a powerful editor because it can simulate a savegame from any box without launching the runtime.<br><br>All boxes has two scripts: the first script is executed when the box is started (ENTER), and the second script is executed when the box is stopped (EXIT). A box cannot be started twice.<br><br>The Destiny box allows to create different paths in your story, that the gamer will be able to choose or not. You can also merges these paths if you do not want to write different ends.<h2 class=\"bb_tag\"><strong>Scene Editor</strong></h2><br>The Scene Editor allows you to create a place with characters, objects, doors and cells for the path finding.<br><br>You can add events that will be called if the scene is active.<h2 class=\"bb_tag\"><strong>Object Editor (Characters and Objects)</strong></h2><br>The Object Editor allows you to create your characters and objects. There are no differences between a character and an object. Object is used as an abstract term.<br><br>All media files are located in folders, not in the XML file but no paths are stored because the folder name is used to define the animation name too. So, to add a new animation, just create a new folder with frames (PNG files) in the object folder and click on import button. That's all! It is very easy and fast to edit an objet because there are no intermediate steps between software and data.<br><br>You can add events that will be called if the object is active.<h2 class=\"bb_tag\"><strong>Dialog Editor (Conversations)</strong></h2><br>The Dialog Editor allows you to write conversations between any objects. There are two kinds of sentences: choices and texts.<br><br>A text is always blue and can be spoken by anyone. It's just a sentence displayed above the speaker during he's talking. The text is drawn with the color defined in the corresponding object asset.<br><br>A choice is always red and can be spoken only by the current player. The gamer can choose a sentence among a list of choices when he's talking. A choice has its own properties and it is possible to say or not to say the text. Why? For example if you want to propose &quot;Talk about his job&quot; to gamer, you would probably want your character says another sentence. Choices are automatically disabled after use but you can change this option.<br><br>A sound file can be linked with any sentence if you want to support human voices for your characters.<br><br>You can write for each box a script that will be executed just after the speech. It is useful to success a puzzle box of the scenario editor during a conversation.<h2 class=\"bb_tag\"><strong>Player Editor (Inventories)</strong></h2><br>The Player Editor allows to manage inventories. It is possible to control several players like Day of the Tentacle with a switching mode.",
+            "about_the_game": "AGE is a freeware that allows you to create your own point and click adventure games without coding, because you don't need to learn any script language if you decide to use AGE.<br><br>AGE games are compatible with Windows, Mac OS X, Linux, iOS, Android and WebGL. It is free for personal and commercial use.<br><br>AGE works with assets that are just standard XML files. The first letter of the asset name indicates the asset type and cannot be changed, because the asset file name is also an UID (without extension) used in all scripts. An asset is also an instance because there is only one instance per asset, and all instances are created at start. For memory reasons, media files are loaded and freed only with scenes.<br><ul class=\"bb_ul\"><li>Scenes (e.g. S_HOME.xml, S1_HOME.xml where 1 is the chapter number) <br></li><li>Objects (e.g. O_HERO.xml, O1_HERO.xml) <br></li><li>Dialogs (e.g. D_WELCOME.xml, D1_WELCOME.xml) <br></li><li>Players (e.g. P_HERO.xml, S1_HERO.xml) <br></li><li>Cinematics (e.g. C_INTRO.xml, C1_INTRO.xml) </li></ul><br>Each asset type has its own editor, detailed below.<h2 class=\"bb_tag\"><strong>Scenario Editor (Timeline and Puzzles)</strong></h2><br>The Scenario Editor is the main editor of AGE that allows you to design your story and puzzles in the form of a diagram. Moreover, it is a powerful editor because it can simulate a savegame from any box without launching the runtime.<br><br>All boxes has two scripts: the first script is executed when the box is started (ENTER), and the second script is executed when the box is stopped (EXIT). A box cannot be started twice.<br><br>The Destiny box allows to create different paths in your story, that the gamer will be able to choose or not. You can also merges these paths if you do not want to write different ends.<h2 class=\"bb_tag\"><strong>Scene Editor</strong></h2><br>The Scene Editor allows you to create a place with characters, objects, doors and cells for the path finding.<br><br>You can add events that will be called if the scene is active.<h2 class=\"bb_tag\"><strong>Object Editor (Characters and Objects)</strong></h2><br>The Object Editor allows you to create your characters and objects. There are no differences between a character and an object. Object is used as an abstract term.<br><br>All media files are located in folders, not in the XML file but no paths are stored because the folder name is used to define the animation name too. So, to add a new animation, just create a new folder with frames (PNG files) in the object folder and click on import button. That's all! It is very easy and fast to edit an objet because there are no intermediate steps between software and data.<br><br>You can add events that will be called if the object is active.<h2 class=\"bb_tag\"><strong>Dialog Editor (Conversations)</strong></h2><br>The Dialog Editor allows you to write conversations between any objects. There are two kinds of sentences: choices and texts.<br><br>A text is always blue and can be spoken by anyone. It's just a sentence displayed above the speaker during he's talking. The text is drawn with the color defined in the corresponding object asset.<br><br>A choice is always red and can be spoken only by the current player. The gamer can choose a sentence among a list of choices when he's talking. A choice has its own properties and it is possible to say or not to say the text. Why? For example if you want to propose &quot;Talk about his job&quot; to gamer, you would probably want your character says another sentence. Choices are automatically disabled after use but you can change this option.<br><br>A sound file can be linked with any sentence if you want to support human voices for your characters.<br><br>You can write for each box a script that will be executed just after the speech. It is useful to success a puzzle box of the scenario editor during a conversation.<h2 class=\"bb_tag\"><strong>Player Editor (Inventories)</strong></h2><br>The Player Editor allows to manage inventories. It is possible to control several players like Day of the Tentacle with a switching mode.",
+            "short_description": "AGE is a freeware that allows you to create your own point and click adventure games without coding, for Windows, Mac OS X, Linux, iOS, Android and WebGL.",
+            "supported_languages": "English",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/848340/header.jpg?t=1531409309",
+            "website": "http://www.seccia.com",
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong> 2 GHz Dual Core CPU<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> ATI Radeon, Geforce with at least 512 MB VRAM<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 500 MB available space<br></li><li><strong>Sound Card:</strong> DirectX compatible sound card with latest drivers</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+            },
+            "mac_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+            },
+            "linux_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+            },
+            "legal_notice": "Copyright © 2012-2018 Sylvain Seccia",
+            "developers": [
+                "Sylvain Seccia"
+            ],
+            "publishers": [
+                "Petite Fleur Productions"
+            ],
+            "package_groups": [],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "genres": [
+                {
+                    "id": "56",
+                    "description": "Software Training"
+                },
+                {
+                    "id": "57",
+                    "description": "Utilities"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/848340/ss_7876b614a11eb1fdc50e650d12123a82a266ba08.600x338.jpg?t=1531409309",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/848340/ss_7876b614a11eb1fdc50e650d12123a82a266ba08.1920x1080.jpg?t=1531409309"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/848340/ss_0eb295a00ebc821304169ac21c5c84a005d3ceb5.600x338.jpg?t=1531409309",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/848340/ss_0eb295a00ebc821304169ac21c5c84a005d3ceb5.1920x1080.jpg?t=1531409309"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/848340/ss_7335db79c694f88d7eb3a9cba3fcd0c64e1ba5bf.600x338.jpg?t=1531409309",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/848340/ss_7335db79c694f88d7eb3a9cba3fcd0c64e1ba5bf.1920x1080.jpg?t=1531409309"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/848340/ss_4b2b707bf4324cd20a488ef07789b2a0f81a8466.600x338.jpg?t=1531409309",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/848340/ss_4b2b707bf4324cd20a488ef07789b2a0f81a8466.1920x1080.jpg?t=1531409309"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/848340/ss_5dcca8fa717f449e43a9b1b86bfc92384981d4a9.600x338.jpg?t=1531409309",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/848340/ss_5dcca8fa717f449e43a9b1b86bfc92384981d4a9.1920x1080.jpg?t=1531409309"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 256714684,
+                    "name": "Trailer",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256714684/movie.293x165.jpg?t=1524320910",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256714684/movie480.webm?t=1524320910",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256714684/movie_max.webm?t=1524320910"
+                    },
+                    "highlight": true
+                }
+            ],
+            "achievements": {
+                "total": 0
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "8 May, 2018"
+            },
+            "support_info": {
+                "url": "http://www.seccia.com",
+                "email": ""
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/848340/page_bg_generated_v6b.jpg?t=1531409309",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

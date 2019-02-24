@@ -1,0 +1,166 @@
+{
+    "666030": {
+        "success": true,
+        "data": {
+            "type": "dlc",
+            "name": "Fighter Creator - Commercial",
+            "steam_appid": 666030,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "<h2 class=\"bb_tag\">THE COMMERCIAL EDITION</h2><br><br>Removes the splash screen that would be displayed on exported projects and, gives you the freedom to sell whatever you create using the engine as long as you have the right to do so.",
+            "about_the_game": "<h2 class=\"bb_tag\">THE COMMERCIAL EDITION</h2><br><br>Removes the splash screen that would be displayed on exported projects and, gives you the freedom to sell whatever you create using the engine as long as you have the right to do so.",
+            "short_description": "Removes the splash screen that would be displayed on exported projects and, gives you the freedom to sell whatever you create using the engine as long as you have the right to do so.",
+            "fullgame": {
+                "appid": "665680",
+                "name": "Fighter Creator"
+            },
+            "supported_languages": "English",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/666030/header.jpg?t=1501660108",
+            "website": null,
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10, 8.1, 8, 7, Vista, XP<br></li><li><strong>Processor:</strong> 2 gigahertz (GHz) or faster processor.<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "developers": [
+                "CSGAMES"
+            ],
+            "publishers": [
+                "CSGAMES"
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 999,
+                "final": 999,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "9,99€"
+            },
+            "packages": [
+                189178
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Fighter Creator - Commercial",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 189178,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Fighter Creator - Commercial - 9,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 999
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 1,
+                    "description": "Multi-player"
+                },
+                {
+                    "id": 36,
+                    "description": "Online Multi-Player"
+                },
+                {
+                    "id": 37,
+                    "description": "Local Multi-Player"
+                },
+                {
+                    "id": 21,
+                    "description": "Downloadable Content"
+                },
+                {
+                    "id": 18,
+                    "description": "Partial Controller Support"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "1",
+                    "description": "Action"
+                },
+                {
+                    "id": "23",
+                    "description": "Indie"
+                },
+                {
+                    "id": "51",
+                    "description": "Animation & Modeling"
+                },
+                {
+                    "id": "53",
+                    "description": "Design & Illustration"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/666030/ss_c38fe21ba0b4e943183c1a9b60a221a76bd76333.600x338.jpg?t=1501660108",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/666030/ss_c38fe21ba0b4e943183c1a9b60a221a76bd76333.1920x1080.jpg?t=1501660108"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/666030/ss_d9c86dd083a4b94fa5242ad1a2c01fec447dae06.600x338.jpg?t=1501660108",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/666030/ss_d9c86dd083a4b94fa5242ad1a2c01fec447dae06.1920x1080.jpg?t=1501660108"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/666030/ss_3305e3523a38b13888177dec7d582ad356785f9d.600x338.jpg?t=1501660108",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/666030/ss_3305e3523a38b13888177dec7d582ad356785f9d.1920x1080.jpg?t=1501660108"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/666030/ss_e0c4fc835e75a328fc85584a45a9dd7abb2deed5.600x338.jpg?t=1501660108",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/666030/ss_e0c4fc835e75a328fc85584a45a9dd7abb2deed5.1920x1080.jpg?t=1501660108"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/666030/ss_e51217b54ddd20d4b97e87be38fa0f250aebc0ac.600x338.jpg?t=1501660108",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/666030/ss_e51217b54ddd20d4b97e87be38fa0f250aebc0ac.1920x1080.jpg?t=1501660108"
+                },
+                {
+                    "id": 5,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/666030/ss_0a384614714649eff7b61551e608961a94dc2c12.600x338.jpg?t=1501660108",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/666030/ss_0a384614714649eff7b61551e608961a94dc2c12.1920x1080.jpg?t=1501660108"
+                },
+                {
+                    "id": 6,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/666030/ss_fb6e7c5dfdf539e0cdce60d9fd365e1dde053f44.600x338.jpg?t=1501660108",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/666030/ss_fb6e7c5dfdf539e0cdce60d9fd365e1dde053f44.1920x1080.jpg?t=1501660108"
+                }
+            ],
+            "release_date": {
+                "coming_soon": false,
+                "date": "2 Aug, 2017"
+            },
+            "support_info": {
+                "url": "",
+                "email": "cs_games@outlook.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/666030/page_bg_generated_v6b.jpg?t=1501660108",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

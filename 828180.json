@@ -1,0 +1,164 @@
+{
+    "828180": {
+        "success": true,
+        "data": {
+            "type": "dlc",
+            "name": "Pivross - Unlock 100 Levels",
+            "steam_appid": 828180,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "Unlock all 100 levels in Pivross.  Can you beat them all?",
+            "about_the_game": "Unlock all 100 levels in Pivross.  Can you beat them all?",
+            "short_description": "Unlock all 100 levels in Pivross.",
+            "fullgame": {
+                "appid": "828170",
+                "name": "Pivross"
+            },
+            "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/828180/header.jpg?t=1523596737",
+            "website": "https://pivross.wordpress.com/",
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong> Intel Core i3 or equivalent<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> Onboard<br></li><li><strong>Storage:</strong> 100 MB available space</li></ul>"
+            },
+            "mac_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OS X<br></li><li><strong>Processor:</strong> Any<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> Onboard<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>"
+            },
+            "linux_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 12.04 or newer / equivalent<br></li><li><strong>Processor:</strong> Intel Core i3 or equivalent<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> Onboard<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>"
+            },
+            "developers": [
+                "Lussels"
+            ],
+            "publishers": [
+                "Lussels"
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 249,
+                "final": 249,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "2,49€"
+            },
+            "packages": [
+                254743
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Pivross - Unlock 100 Levels",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 254743,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Pivross - Unlock 100 Levels - 2,49€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 249
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": true,
+                "linux": true
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 21,
+                    "description": "Downloadable Content"
+                },
+                {
+                    "id": 22,
+                    "description": "Steam Achievements"
+                },
+                {
+                    "id": 29,
+                    "description": "Steam Trading Cards"
+                },
+                {
+                    "id": 35,
+                    "description": "In-App Purchases"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "4",
+                    "description": "Casual"
+                },
+                {
+                    "id": "37",
+                    "description": "Free to Play"
+                },
+                {
+                    "id": "23",
+                    "description": "Indie"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/828180/ss_79c72443dd5e42212f9e9d3c2370ef4d2cf8e18e.600x338.jpg?t=1523596737",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/828180/ss_79c72443dd5e42212f9e9d3c2370ef4d2cf8e18e.1920x1080.jpg?t=1523596737"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/828180/ss_8a41d026de47ece4a52317a04bc3af944bccfe13.600x338.jpg?t=1523596737",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/828180/ss_8a41d026de47ece4a52317a04bc3af944bccfe13.1920x1080.jpg?t=1523596737"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/828180/ss_4a940eb484aa757591d17b49f016a7cc67fd5944.600x338.jpg?t=1523596737",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/828180/ss_4a940eb484aa757591d17b49f016a7cc67fd5944.1920x1080.jpg?t=1523596737"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/828180/ss_c492d75079329e6d2467020dae2373f0f3096369.600x338.jpg?t=1523596737",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/828180/ss_c492d75079329e6d2467020dae2373f0f3096369.1920x1080.jpg?t=1523596737"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/828180/ss_4febab8da653e1eabe78d4a0458525946644bdb0.600x338.jpg?t=1523596737",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/828180/ss_4febab8da653e1eabe78d4a0458525946644bdb0.1920x1080.jpg?t=1523596737"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 256714165,
+                    "name": "Level 15",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256714165/movie.293x165.jpg?t=1523596731",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256714165/movie480.webm?t=1523596731",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256714165/movie_max.webm?t=1523596731"
+                    },
+                    "highlight": true
+                }
+            ],
+            "release_date": {
+                "coming_soon": false,
+                "date": "12 Apr, 2018"
+            },
+            "support_info": {
+                "url": "https://pivross.wordpress.com/contact/",
+                "email": ""
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/828180/page_bg_generated_v6b.jpg?t=1523596737",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

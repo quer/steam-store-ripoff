@@ -1,0 +1,76 @@
+{
+    "366630": {
+        "success": true,
+        "data": {
+            "type": "demo",
+            "name": "Prompt Demo",
+            "steam_appid": 366630,
+            "required_age": 0,
+            "is_free": true,
+            "detailed_description": "This demo includes the tutorial section of the full game, as well as a sample of some more challenging levels.",
+            "about_the_game": "This demo includes the tutorial section of the full game, as well as a sample of some more challenging levels.",
+            "short_description": "This demo includes the tutorial section of the full game, as well as a sample of some more challenging levels.",
+            "fullgame": {
+                "appid": null,
+                "name": "Uninitialized"
+            },
+            "supported_languages": "English",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/366630/header.jpg?t=1447373384",
+            "website": null,
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP or higher<br></li><li><strong>Processor:</strong> 1 GHz<br></li><li><strong>Graphics:</strong> OpenGL 2.1<br></li><li><strong>Storage:</strong> 45 MB available space<br></li><li><strong>Additional Notes:</strong> Java 7 or higher</li></ul>"
+            },
+            "mac_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OS X 10.7 or higher<br></li><li><strong>Processor:</strong> 1 GHz<br></li><li><strong>Graphics:</strong> OpenGL 2.1<br></li><li><strong>Storage:</strong> 45 MB available space<br></li><li><strong>Additional Notes:</strong> Java 7 or higher</li></ul>"
+            },
+            "linux_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Java-supported distro<br></li><li><strong>Processor:</strong> 1 GHz<br></li><li><strong>Graphics:</strong> OpenGL 2.1<br></li><li><strong>Storage:</strong> 45 MB available space<br></li><li><strong>Additional Notes:</strong> Java 7 or higher</li></ul>"
+            },
+            "developers": [
+                "Peter Gutenko"
+            ],
+            "publishers": [
+                "Peter Gutenko"
+            ],
+            "package_groups": [],
+            "platforms": {
+                "windows": true,
+                "mac": true,
+                "linux": true
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 10,
+                    "description": "Game demo"
+                },
+                {
+                    "id": 18,
+                    "description": "Partial Controller Support"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "23",
+                    "description": "Indie"
+                }
+            ],
+            "release_date": {
+                "coming_soon": false,
+                "date": "6 Jul, 2015"
+            },
+            "support_info": {
+                "url": "",
+                "email": "promptgamecontact@gmail.com"
+            },
+            "background": "",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

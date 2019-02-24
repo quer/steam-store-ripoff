@@ -1,0 +1,78 @@
+{
+    "82050": {
+        "success": true,
+        "data": {
+            "type": "movie",
+            "name": "Company Of Heroes 2  Trailer",
+            "steam_appid": 82050,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "",
+            "about_the_game": "",
+            "short_description": "",
+            "fullgame": {
+                "appid": "55300",
+                "name": "Company of Heroes 2"
+            },
+            "supported_languages": "English",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/82050/header.jpg?t=1447356692",
+            "website": null,
+            "pc_requirements": [],
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "developers": [
+                "Relic Entertainment"
+            ],
+            "publishers": [
+                "THQ"
+            ],
+            "package_groups": [],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 1,
+                    "description": "Multi-player"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "2",
+                    "description": "Strategy"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 82050,
+                    "name": "Company Of Heroes 2  Trailer",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/82050/movie.293x165.jpg?t=1447356692",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/82050/movie480.webm?t=1447356692",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/82050/movie_max.webm?t=1447356692"
+                    },
+                    "highlight": false
+                }
+            ],
+            "release_date": {
+                "coming_soon": false,
+                "date": "20 Sep, 2012"
+            },
+            "support_info": {
+                "url": "",
+                "email": ""
+            },
+            "background": "",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

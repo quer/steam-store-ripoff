@@ -1,0 +1,188 @@
+{
+    "582240": {
+        "success": true,
+        "data": {
+            "type": "dlc",
+            "name": "Rocketbirds 2: Rescue Bundle DLC",
+            "steam_appid": 582240,
+            "required_age": 0,
+            "is_free": false,
+            "controller_support": "full",
+            "detailed_description": "Get the bundle and upgrade your Rescue Mode missions. You'll get all Hardboiled Chicken's Story Mode costumes, bullet blocking shields, the chainsaw and boxing gloves! Tired of regular old Rent-A-Ducks? With this bundle you'll be able to rent the Master Duck himself! Equipped with powerful weapons and amazing skills, he'll help you get through your rescue missions, or die trying! New items and the Master Duck are only available in this bundle!",
+            "about_the_game": "Get the bundle and upgrade your Rescue Mode missions. You'll get all Hardboiled Chicken's Story Mode costumes, bullet blocking shields, the chainsaw and boxing gloves! Tired of regular old Rent-A-Ducks? With this bundle you'll be able to rent the Master Duck himself! Equipped with powerful weapons and amazing skills, he'll help you get through your rescue missions, or die trying! New items and the Master Duck are only available in this bundle!",
+            "short_description": "Get the bundle and upgrade your Rescue Mode missions! Get all Hardboiled Chicken's Story Mode costumes, bullet blocking shields, chainsaws and boxing gloves. You can also rent the Master Duck himself! New items and the Master Duck are only available in this bundle!",
+            "fullgame": {
+                "appid": "470210",
+                "name": "Rocketbirds 2 Evolution"
+            },
+            "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Dutch, Japanese<strong>*</strong>, Korean, Portuguese - Brazil, Simplified Chinese, Traditional Chinese<br><strong>*</strong>languages with full audio support",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/582240/header.jpg?t=1486683771",
+            "website": "http://www.rocketbirds.com",
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 7 64-bit or newer<br></li><li><strong>Processor:</strong> Dual Core CPU: Intel Core i3 550 @ 3.2 GHz or AMD Athlon II X4<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Radeon HD 5570 or Nvidia GeForce GT 8800<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 1 MB available space<br></li><li><strong>Additional Notes:</strong> Supported Controllers: Steam Controller | Microsoft Xbox 360 | Any Direct Input compatible controller</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 7 64-bit or newer<br></li><li><strong>Processor:</strong> Quad Core CPU: Intel Core i5 @ 3.3 GHz or AMD Phenom II X6<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Radeon HD 7950 or Nvidia GeForce GTX 660 Ti<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 1 MB available space<br></li><li><strong>Additional Notes:</strong> Supported Controllers: Steam Controller | Microsoft Xbox 360 | Any Direct Input compatible controller</li></ul>"
+            },
+            "mac_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+            },
+            "linux_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+            },
+            "legal_notice": "REVERB PUBLISHING, and the related design logo, are trademarks of Reverb Communications, Inc., in the United States and elsewhere. The \"Rocketbirds Hardboiled Chicken\" Trademark device is a Trademark of Ratloop Asia Pte Ltd. New World Revolution Songs Written and performed by Herwig Maurer and Published by Android Intelligence Agency BMI.",
+            "developers": [
+                "Ratloop Asia"
+            ],
+            "publishers": [
+                "Reverb Triple XP"
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 199,
+                "final": 199,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "1,99€"
+            },
+            "packages": [
+                149436
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Rocketbirds 2: Rescue Bundle DLC",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 149436,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Rocketbirds 2 - Rescue Bundle DLC - 1,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 199
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 1,
+                    "description": "Multi-player"
+                },
+                {
+                    "id": 36,
+                    "description": "Online Multi-Player"
+                },
+                {
+                    "id": 37,
+                    "description": "Local Multi-Player"
+                },
+                {
+                    "id": 9,
+                    "description": "Co-op"
+                },
+                {
+                    "id": 38,
+                    "description": "Online Co-op"
+                },
+                {
+                    "id": 39,
+                    "description": "Local Co-op"
+                },
+                {
+                    "id": 24,
+                    "description": "Shared/Split Screen"
+                },
+                {
+                    "id": 21,
+                    "description": "Downloadable Content"
+                },
+                {
+                    "id": 28,
+                    "description": "Full controller support"
+                },
+                {
+                    "id": 23,
+                    "description": "Steam Cloud"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "73",
+                    "description": "Violent"
+                },
+                {
+                    "id": "1",
+                    "description": "Action"
+                },
+                {
+                    "id": "25",
+                    "description": "Adventure"
+                },
+                {
+                    "id": "23",
+                    "description": "Indie"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/582240/ss_72877d5d8471cdeb14cd9c6e411c84c0428df22a.600x338.jpg?t=1486683771",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/582240/ss_72877d5d8471cdeb14cd9c6e411c84c0428df22a.1920x1080.jpg?t=1486683771"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/582240/ss_7f66b7e0639eeaa98d6812a345897c42e22f0e7d.600x338.jpg?t=1486683771",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/582240/ss_7f66b7e0639eeaa98d6812a345897c42e22f0e7d.1920x1080.jpg?t=1486683771"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/582240/ss_81c929441854a6806b2a2a125f851d9fe8025244.600x338.jpg?t=1486683771",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/582240/ss_81c929441854a6806b2a2a125f851d9fe8025244.1920x1080.jpg?t=1486683771"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/582240/ss_2f1ef1f6de01d07bde99372d0295e3f11fc5e7e6.600x338.jpg?t=1486683771",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/582240/ss_2f1ef1f6de01d07bde99372d0295e3f11fc5e7e6.1920x1080.jpg?t=1486683771"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/582240/ss_f179b03faf831712dff22f95e8b641a75085ef23.600x338.jpg?t=1486683771",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/582240/ss_f179b03faf831712dff22f95e8b641a75085ef23.1920x1080.jpg?t=1486683771"
+                }
+            ],
+            "achievements": {
+                "total": 0
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "9 Feb, 2017"
+            },
+            "support_info": {
+                "url": "",
+                "email": "support@rocketbirds.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/582240/page_bg_generated_v6b.jpg?t=1486683771",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

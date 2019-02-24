@@ -1,0 +1,85 @@
+{
+    "82173": {
+        "success": true,
+        "data": {
+            "type": "movie",
+            "name": "Defenders Quest Trailer",
+            "steam_appid": 82173,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "",
+            "about_the_game": "",
+            "short_description": "",
+            "fullgame": {
+                "appid": "218410",
+                "name": "Defender's Quest: Valley of the Forgotten (DX edition)"
+            },
+            "supported_languages": "English",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/82173/header.jpg?t=1465924355",
+            "website": "www.defendersquest.com",
+            "pc_requirements": {
+                "minimum": "<p><strong>Minimum:</strong></p>\n<ul>\n\t<li><strong>OS:</strong>Windows XP</li>\n\t<li><strong>Processor:</strong>1.5 Ghz, single core</li>\n\t<li><strong>Memory:</strong>1 GB RAM</li>\n\t<li><strong>Graphics:</strong>N/A</li>\n\t<li><strong>Hard Drive:</strong>100 MB HD space</li>\n\t<li><strong>Sound:</strong>Any</li>\n\t<li><strong>Additional:</strong>This is not a hardware-intensive game. It does require Adobe AIR, but this is included with the game installer.</li>\n</ul>",
+                "recommended": "<p><strong>Recommended:</strong></p>\n<ul>\n\t<li><strong>OS:</strong>Windows XP or better</li>\n\t<li><strong>Processor:</strong>(2.0 Ghz, single core) or better</li>\n\t<li><strong>Memory:</strong>2 GB RAM</li>\n\t<li><strong>Graphics:</strong>N/A</li>\n\t<li><strong>Hard Drive:</strong>100 MB HD space</li>\n\t<li><strong>Sound:</strong>Any</li>\n\t<li><strong>Additional:</strong>This is not a hardware-intensive game. It does require Adobe AIR, but this is included with the game installer.</li>\n</ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "developers": [
+                "Level Up Labs, LLC"
+            ],
+            "publishers": [
+                ""
+            ],
+            "package_groups": [],
+            "platforms": {
+                "windows": true,
+                "mac": true,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "2",
+                    "description": "Strategy"
+                },
+                {
+                    "id": "3",
+                    "description": "RPG"
+                },
+                {
+                    "id": "23",
+                    "description": "Indie"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 82173,
+                    "name": "Defenders Quest Trailer",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/82173/movie.293x165.jpg?t=1465924355",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/82173/movie480.webm?t=1465924355",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/82173/movie_max.webm?t=1465924355"
+                    },
+                    "highlight": false
+                }
+            ],
+            "release_date": {
+                "coming_soon": false,
+                "date": "29 Oct, 2012"
+            },
+            "support_info": {
+                "url": "http://www.defendersquest.com/support.html",
+                "email": "leveluplabs@gmail.com"
+            },
+            "background": "",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

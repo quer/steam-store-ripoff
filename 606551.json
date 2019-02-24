@@ -1,0 +1,94 @@
+{
+    "606551": {
+        "success": true,
+        "data": {
+            "type": "episode",
+            "name": "JOKER GAME: XX (Double Cross)",
+            "steam_appid": 606551,
+            "required_age": 0,
+            "is_free": false,
+            "controller_support": "full",
+            "detailed_description": "",
+            "about_the_game": "",
+            "short_description": "Karl Schneider, writer for the Berlin Allgemeine, is suspected of being a German/Soviet double agent. While D-Agency searches for proof of his espionage activities, Schneider suddenly dies under mysterious circumstances. Lieutenant Colonel Yuuki sends his men on individual missions...",
+            "fullgame": {
+                "appid": "600870",
+                "name": "JOKER GAME"
+            },
+            "supported_languages": "English<strong>*</strong>, Japanese<br><strong>*</strong>languages with full audio support",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/600870/header.jpg?t=1529696209",
+            "website": null,
+            "pc_requirements": [],
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "publishers": [
+                ""
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 199,
+                "final": 199,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "1,99€"
+            },
+            "packages": [
+                160273
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy JOKER GAME: XX (Double Cross)",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 160273,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "JOKER GAME: XX (Double Cross) - 1,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 199
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 28,
+                    "description": "Full controller support"
+                },
+                {
+                    "id": 33,
+                    "description": "Native Steam Controller Support"
+                }
+            ],
+            "achievements": {
+                "total": 0
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "30 Mar, 2017"
+            },
+            "support_info": {
+                "url": "",
+                "email": ""
+            },
+            "background": "",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

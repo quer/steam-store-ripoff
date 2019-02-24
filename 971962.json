@@ -1,0 +1,91 @@
+{
+    "971962": {
+        "success": true,
+        "data": {
+            "type": "episode",
+            "name": "Angels of Death: I'm not Your God.",
+            "steam_appid": 971962,
+            "required_age": 0,
+            "is_free": false,
+            "controller_support": "full",
+            "detailed_description": "",
+            "about_the_game": "",
+            "short_description": "As Zack is looking around in Rachel's room, a TV suddenly turns on and starts playing a news story about a bizarre murder case.",
+            "fullgame": {
+                "appid": "971940",
+                "name": "Angels of Death"
+            },
+            "supported_languages": "English<strong>*</strong>, Japanese<br><strong>*</strong>languages with full audio support",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/971940/header.jpg?t=1545250788",
+            "website": null,
+            "pc_requirements": [],
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "publishers": [
+                ""
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 159,
+                "final": 159,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "1,59€"
+            },
+            "packages": [
+                318680
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Angels of Death: I'm not Your God.",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 318680,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Angels of Death: I'm not Your God. - 1,59€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 159
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 28,
+                    "description": "Full controller support"
+                },
+                {
+                    "id": 33,
+                    "description": "Native Steam Controller Support"
+                }
+            ],
+            "release_date": {
+                "coming_soon": false,
+                "date": "4 Dec, 2018"
+            },
+            "support_info": {
+                "url": "",
+                "email": ""
+            },
+            "background": "",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

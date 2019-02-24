@@ -1,0 +1,200 @@
+{
+    "866540": {
+        "success": true,
+        "data": {
+            "type": "game",
+            "name": "VR Flush",
+            "steam_appid": 866540,
+            "required_age": 0,
+            "is_free": true,
+            "dlc": [
+                946310
+            ],
+            "detailed_description": "<strong>Imagine this:</strong><br>You are sitting on a toilet - minding your own business - when you are abducted and beamed up to an alien spaceship. <br>And you have to convince an A.I. that you really are an intelligent lifeform.<br><br>VR Flush is a free VR experience / adventure which we originally made as a 4th semester student project at the university of applied sciences in Darmstadt, Germany in 2015.<br><br>Although the game wasn't ready for release back then, it was shown at several german exhibitions, for instance in Frankfurt Am Main.<br>For these, we actually made visitors sit down on a real toilet. <br>For some reason, almost nobody wanted to fold up the toilet lid before sitting down...<br>Here are some pictures :)<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/866540/extras/VRFlushExibitions.png?t=1537628755\" ><br><br>Now, about 2.5 years after our first presentation, I finally had a few months to update and release our game.<br>It's completely free! Just download, play and have fun! =)<br>Also please rate this game and leave some feedback. We appreciate it!<br><br><br>The Brudingo Team<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/866540/extras/FMODUE4Logos.png?t=1537628755\" ><h2 class=\"bb_tag\">Additional controls (which are not explained inside the game):</h2><br><ul class=\"bb_ul\"><li>ALT + ENTER\t- Fullscreen<br></li><li>F \t\t        - Show FPS<br></li><li>ENTER \t\t- RECENTER View<br></li><li>SPACE\t\t- Toggle between mirror modes (How the game is displayed on your screen - Only works with Oculus Rift)<br></li><li>BACKSPACE\t- Speed up game by factor 10<br></li><li>LEFT/RIGHT\t- Rotate grabbed objects (You'll only need those in desktop mode)<br></li><li>ESC\t\t- Quit game</li></ul><h2 class=\"bb_tag\">Update Notes: (Release Patch)</h2><br>VR Flush Patch 1.3 (2018)<br><br><strong>Engine</strong><br> <ul class=\"bb_ul\"><li>Engine upgrade from UE4.9 to UE4.15<br></li><li>VR Performance optimized</li></ul><br><strong>Controls</strong> <br><ul class=\"bb_ul\"><li>Oculus Rift Consumer Version (CV1) and HTC Vive are now supported <br></li><li>Game can now also be played using the Rift or Vive motion controllers <br></li><li>Grabbed objects can now also be rotated (When using the mouse as input device, use LEFT/RIGHT on keyboard to rotate) <br></li><li>The entire Game can still be played without an HMD (Though its much more fun in VR)</li></ul><br><strong>UI</strong> <br><ul class=\"bb_ul\"><li>Crosshair is now a 3D object and is optimized for VR (Mesh will always be rendered in foreground) <br></li><li>Crosshair now sticks to objects targeted by the player (distance wise) and lights up when an interactive object is focused</li></ul><br><strong>Sound </strong><br><ul class=\"bb_ul\"><li>Added several sound effects for intro level, player character and the Loot Toilet [TM]</li></ul><br><strong>Intro Level</strong> <br><ul class=\"bb_ul\"><li>Right at the start of the game, the optimal render resolution is calculated. The game looks at the most complex scene in the game and steadily increases the render resolution (r.screenpercentage) until the framerate drops below 88 fps.<br></li><li>Players playing the game without an HMD will have to wait 30 seconds for this test to be skipped automatically. <br></li><li>Deleted Intro level, moved contend to main level (No more loading time)<br></li><li>The Intro level was previously only used to start the game. Now its also used for the following: <br><ul class=\"bb_ul\"><li>Explain how the game is meant to be played (Sitting on a chair) <br></li><li>Recenter HMD - Pick Controller (Mouse, Vive Controller, Rift Controller) <br></li><li>Explain Controls for each input device <br></li><li>Introduce players to their toilet ;) <br></li><li>Start the game (which is now done by flushing the toilet) </li></ul></li><li>The Intro level is now narrated by a text plane that tells a short story (Player receives incoming text messages)</li></ul><br><strong>Toilet </strong><br><ul class=\"bb_ul\"><li>Flo now waits 30 seconds before he knocks on the door and starts complaining<br></li><li>Physics objects on the toilet don't fall through walls or the floor anymore. <br></li><li>All toilet paper except for those in the basket removed. <br></li><li>The remaining toilet paper rolls are now covered by a magazine. This forces the player to take the magazine first. <br></li><li>The toilet paper roll which will be beamed to the spaceship is now green. All others are white. <br></li><li>New teleport effect for green toilet paper (dissolves)<br></li><li>Lighting adjusted <br></li><li>Decals reordered (better readability) <br></li><li>New decals added <br></li><li>Toilet moved backwards (Some players didn't notice the hole in the wall to their left.) <br></li><li>New feature - The Loot Toilet [TM] <br></li><li>The Loot Toilet [TM] is an animated Decal on the wall next to the window. <br></li><li>Plays a short animation when the player looks at it <br></li><li>Plays different animations and spawns loot when the player interacts with it. <br></li><li>Some Loot will change the players surroundings or spawn new items <br></li><li>Loot tiers: regular, rare, epic and legendary</li></ul><br><strong>Spaceship</strong> <br><ul class=\"bb_ul\"><li>The green toilet paper now hovers in front of the players eyes after he arrives on the spaceship. It then flies towards the examination platform.<br></li><li>The robo now starts in the room to the players right. He then flies to the examination platform and starts examining the toilet paper. Timing and animation adjusted. </li></ul><ul class=\"bb_ul\"><li>The player now starts a lot closer to the examination platform. - Player transport to the middle of the room is now a lot slower and smoother. Acceleration and deceleration phases toned down to minimize motion sickness symptoms.</li></ul><ul class=\"bb_ul\"><li>Transition between toilet paper and ashpile improved <br></li><li>All spaceship screens now show a human as soon as the player is transported to the examination platform. <br></li><li>Laser impact improved (Space shuttle)</li></ul><br><strong>Credits </strong><br><ul class=\"bb_ul\"><li>2D Credits deleted, didn't work in VR <br></li><li>The environment in the toilet room will now be dimmed before the credits start rolling. With the exception of the robot. <br></li><li>Credits now emerge from the toilet floor and roll upwards <br></li><li>New credits (more detailed, now include voice actors and additional artwork)</li></ul><br><strong>Bug fixes </strong><br><ul class=\"bb_ul\"><li>Objects can now be targeted and picked up precisely in VR (was bugged) </li></ul><ul class=\"bb_ul\"><li>Game doesn't automatically recenter the HMD after teleporting the player anymore. It now uses the initial recenter done by the player for the entire game and only alters HMD camera rotation. </li></ul><ul class=\"bb_ul\"><li>Lots and lots of smaller bug fixes and adjustments</li></ul>",
+            "about_the_game": "<strong>Imagine this:</strong><br>You are sitting on a toilet - minding your own business - when you are abducted and beamed up to an alien spaceship. <br>And you have to convince an A.I. that you really are an intelligent lifeform.<br><br>VR Flush is a free VR experience / adventure which we originally made as a 4th semester student project at the university of applied sciences in Darmstadt, Germany in 2015.<br><br>Although the game wasn't ready for release back then, it was shown at several german exhibitions, for instance in Frankfurt Am Main.<br>For these, we actually made visitors sit down on a real toilet. <br>For some reason, almost nobody wanted to fold up the toilet lid before sitting down...<br>Here are some pictures :)<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/866540/extras/VRFlushExibitions.png?t=1537628755\" ><br><br>Now, about 2.5 years after our first presentation, I finally had a few months to update and release our game.<br>It's completely free! Just download, play and have fun! =)<br>Also please rate this game and leave some feedback. We appreciate it!<br><br><br>The Brudingo Team<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/866540/extras/FMODUE4Logos.png?t=1537628755\" ><h2 class=\"bb_tag\">Additional controls (which are not explained inside the game):</h2><br><ul class=\"bb_ul\"><li>ALT + ENTER\t- Fullscreen<br></li><li>F \t\t        - Show FPS<br></li><li>ENTER \t\t- RECENTER View<br></li><li>SPACE\t\t- Toggle between mirror modes (How the game is displayed on your screen - Only works with Oculus Rift)<br></li><li>BACKSPACE\t- Speed up game by factor 10<br></li><li>LEFT/RIGHT\t- Rotate grabbed objects (You'll only need those in desktop mode)<br></li><li>ESC\t\t- Quit game</li></ul><h2 class=\"bb_tag\">Update Notes: (Release Patch)</h2><br>VR Flush Patch 1.3 (2018)<br><br><strong>Engine</strong><br> <ul class=\"bb_ul\"><li>Engine upgrade from UE4.9 to UE4.15<br></li><li>VR Performance optimized</li></ul><br><strong>Controls</strong> <br><ul class=\"bb_ul\"><li>Oculus Rift Consumer Version (CV1) and HTC Vive are now supported <br></li><li>Game can now also be played using the Rift or Vive motion controllers <br></li><li>Grabbed objects can now also be rotated (When using the mouse as input device, use LEFT/RIGHT on keyboard to rotate) <br></li><li>The entire Game can still be played without an HMD (Though its much more fun in VR)</li></ul><br><strong>UI</strong> <br><ul class=\"bb_ul\"><li>Crosshair is now a 3D object and is optimized for VR (Mesh will always be rendered in foreground) <br></li><li>Crosshair now sticks to objects targeted by the player (distance wise) and lights up when an interactive object is focused</li></ul><br><strong>Sound </strong><br><ul class=\"bb_ul\"><li>Added several sound effects for intro level, player character and the Loot Toilet [TM]</li></ul><br><strong>Intro Level</strong> <br><ul class=\"bb_ul\"><li>Right at the start of the game, the optimal render resolution is calculated. The game looks at the most complex scene in the game and steadily increases the render resolution (r.screenpercentage) until the framerate drops below 88 fps.<br></li><li>Players playing the game without an HMD will have to wait 30 seconds for this test to be skipped automatically. <br></li><li>Deleted Intro level, moved contend to main level (No more loading time)<br></li><li>The Intro level was previously only used to start the game. Now its also used for the following: <br><ul class=\"bb_ul\"><li>Explain how the game is meant to be played (Sitting on a chair) <br></li><li>Recenter HMD - Pick Controller (Mouse, Vive Controller, Rift Controller) <br></li><li>Explain Controls for each input device <br></li><li>Introduce players to their toilet ;) <br></li><li>Start the game (which is now done by flushing the toilet) </li></ul></li><li>The Intro level is now narrated by a text plane that tells a short story (Player receives incoming text messages)</li></ul><br><strong>Toilet </strong><br><ul class=\"bb_ul\"><li>Flo now waits 30 seconds before he knocks on the door and starts complaining<br></li><li>Physics objects on the toilet don't fall through walls or the floor anymore. <br></li><li>All toilet paper except for those in the basket removed. <br></li><li>The remaining toilet paper rolls are now covered by a magazine. This forces the player to take the magazine first. <br></li><li>The toilet paper roll which will be beamed to the spaceship is now green. All others are white. <br></li><li>New teleport effect for green toilet paper (dissolves)<br></li><li>Lighting adjusted <br></li><li>Decals reordered (better readability) <br></li><li>New decals added <br></li><li>Toilet moved backwards (Some players didn't notice the hole in the wall to their left.) <br></li><li>New feature - The Loot Toilet [TM] <br></li><li>The Loot Toilet [TM] is an animated Decal on the wall next to the window. <br></li><li>Plays a short animation when the player looks at it <br></li><li>Plays different animations and spawns loot when the player interacts with it. <br></li><li>Some Loot will change the players surroundings or spawn new items <br></li><li>Loot tiers: regular, rare, epic and legendary</li></ul><br><strong>Spaceship</strong> <br><ul class=\"bb_ul\"><li>The green toilet paper now hovers in front of the players eyes after he arrives on the spaceship. It then flies towards the examination platform.<br></li><li>The robo now starts in the room to the players right. He then flies to the examination platform and starts examining the toilet paper. Timing and animation adjusted. </li></ul><ul class=\"bb_ul\"><li>The player now starts a lot closer to the examination platform. - Player transport to the middle of the room is now a lot slower and smoother. Acceleration and deceleration phases toned down to minimize motion sickness symptoms.</li></ul><ul class=\"bb_ul\"><li>Transition between toilet paper and ashpile improved <br></li><li>All spaceship screens now show a human as soon as the player is transported to the examination platform. <br></li><li>Laser impact improved (Space shuttle)</li></ul><br><strong>Credits </strong><br><ul class=\"bb_ul\"><li>2D Credits deleted, didn't work in VR <br></li><li>The environment in the toilet room will now be dimmed before the credits start rolling. With the exception of the robot. <br></li><li>Credits now emerge from the toilet floor and roll upwards <br></li><li>New credits (more detailed, now include voice actors and additional artwork)</li></ul><br><strong>Bug fixes </strong><br><ul class=\"bb_ul\"><li>Objects can now be targeted and picked up precisely in VR (was bugged) </li></ul><ul class=\"bb_ul\"><li>Game doesn't automatically recenter the HMD after teleporting the player anymore. It now uses the initial recenter done by the player for the entire game and only alters HMD camera rotation. </li></ul><ul class=\"bb_ul\"><li>Lots and lots of smaller bug fixes and adjustments</li></ul>",
+            "short_description": "You are sitting on a toilet when you are abducted and beamed up to an alien spaceship, where you have to convince an A.I. that you really are an intelligent lifeform.",
+            "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/866540/header.jpg?t=1537628755",
+            "website": "https://twitter.com/WaitForItFelix",
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows  8.1 or higher<br></li><li><strong>Processor:</strong> Intel i3-6100 / AMD Ryzen 3 1200, FX4350 or  higher<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GTX 970  or AMD Radeon R9 290<br></li><li><strong>Storage:</strong> 800 MB available space<br></li><li><strong>Additional Notes:</strong> Oculus Rift or HTC Vive VR Headset, but the game can be played on your screen as well.</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+            },
+            "mac_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+            },
+            "linux_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+            },
+            "developers": [
+                "Brudingo Team"
+            ],
+            "publishers": [
+                "Brudingo Team"
+            ],
+            "package_groups": [],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 22,
+                    "description": "Steam Achievements"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "25",
+                    "description": "Adventure"
+                },
+                {
+                    "id": "37",
+                    "description": "Free to Play"
+                },
+                {
+                    "id": "23",
+                    "description": "Indie"
+                },
+                {
+                    "id": "3",
+                    "description": "RPG"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/866540/ss_6993217f92e5bf7c811fda2ea8209f2d73b14c72.600x338.jpg?t=1537628755",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/866540/ss_6993217f92e5bf7c811fda2ea8209f2d73b14c72.1920x1080.jpg?t=1537628755"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/866540/ss_282f59816e64944054d5a0980b18339423bfdaa9.600x338.jpg?t=1537628755",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/866540/ss_282f59816e64944054d5a0980b18339423bfdaa9.1920x1080.jpg?t=1537628755"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/866540/ss_282dde93cf10b67b66d160bf1ee063c7798c168d.600x338.jpg?t=1537628755",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/866540/ss_282dde93cf10b67b66d160bf1ee063c7798c168d.1920x1080.jpg?t=1537628755"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/866540/ss_e0e0cbe125df2dfb99625024f6b23c6f6064ba28.600x338.jpg?t=1537628755",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/866540/ss_e0e0cbe125df2dfb99625024f6b23c6f6064ba28.1920x1080.jpg?t=1537628755"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/866540/ss_5d6944c4768793e65d198bfe36188cc399c67b81.600x338.jpg?t=1537628755",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/866540/ss_5d6944c4768793e65d198bfe36188cc399c67b81.1920x1080.jpg?t=1537628755"
+                },
+                {
+                    "id": 5,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/866540/ss_22ad05b11cb5f1a90abcb83cf497ace23c81ad19.600x338.jpg?t=1537628755",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/866540/ss_22ad05b11cb5f1a90abcb83cf497ace23c81ad19.1920x1080.jpg?t=1537628755"
+                },
+                {
+                    "id": 6,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/866540/ss_3ae899db7fb4fe331b3869c4f1c244375afdd0b6.600x338.jpg?t=1537628755",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/866540/ss_3ae899db7fb4fe331b3869c4f1c244375afdd0b6.1920x1080.jpg?t=1537628755"
+                },
+                {
+                    "id": 7,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/866540/ss_f39ee131fe43771c76d8eed549c0b225562b9a02.600x338.jpg?t=1537628755",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/866540/ss_f39ee131fe43771c76d8eed549c0b225562b9a02.1920x1080.jpg?t=1537628755"
+                },
+                {
+                    "id": 8,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/866540/ss_4781279facb761ad48203d2cc4e9c083c7973e21.600x338.jpg?t=1537628755",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/866540/ss_4781279facb761ad48203d2cc4e9c083c7973e21.1920x1080.jpg?t=1537628755"
+                },
+                {
+                    "id": 9,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/866540/ss_39e5c8c79decdaa569b7e6dc92aef32250c61d88.600x338.jpg?t=1537628755",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/866540/ss_39e5c8c79decdaa569b7e6dc92aef32250c61d88.1920x1080.jpg?t=1537628755"
+                },
+                {
+                    "id": 10,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/866540/ss_303fc443ed597555799f837ff79c4834bd4a3de0.600x338.jpg?t=1537628755",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/866540/ss_303fc443ed597555799f837ff79c4834bd4a3de0.1920x1080.jpg?t=1537628755"
+                },
+                {
+                    "id": 11,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/866540/ss_756a6681903b2eb857531368836ef919bc042499.600x338.jpg?t=1537628755",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/866540/ss_756a6681903b2eb857531368836ef919bc042499.1920x1080.jpg?t=1537628755"
+                },
+                {
+                    "id": 12,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/866540/ss_8fc0e259cf8501ac1da002ca4ece36d093c2a08d.600x338.jpg?t=1537628755",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/866540/ss_8fc0e259cf8501ac1da002ca4ece36d093c2a08d.1920x1080.jpg?t=1537628755"
+                },
+                {
+                    "id": 13,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/866540/ss_9135dbba1ee83485da6424fa4687fe5f6162d9e1.600x338.jpg?t=1537628755",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/866540/ss_9135dbba1ee83485da6424fa4687fe5f6162d9e1.1920x1080.jpg?t=1537628755"
+                },
+                {
+                    "id": 14,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/866540/ss_cc444497c467383a9c9d321f7f28a47274bdc2fe.600x338.jpg?t=1537628755",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/866540/ss_cc444497c467383a9c9d321f7f28a47274bdc2fe.1920x1080.jpg?t=1537628755"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 256718751,
+                    "name": "VR Flush Trailer",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256718751/movie.293x165.jpg?t=1530732693",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256718751/movie480.webm?t=1530732693",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256718751/movie_max.webm?t=1530732693"
+                    },
+                    "highlight": true
+                }
+            ],
+            "achievements": {
+                "total": 5,
+                "highlighted": [
+                    {
+                        "name": "Die A.I., DIE!",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/866540/dc2673bd575fe9c3ad55625d5eba9f5df1a03350.jpg"
+                    },
+                    {
+                        "name": "Legendary Crap!",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/866540/7a6278c514f29d2d20595d8de2739daa012f8d7d.jpg"
+                    },
+                    {
+                        "name": "Legendary Shit!",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/866540/b22d81e1adf603df141fe3c8484dbc8ad2b80d80.jpg"
+                    },
+                    {
+                        "name": "Darth Toilet!",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/866540/586adb8b086255e2edecc9e6479b79ab7e5e9558.jpg"
+                    },
+                    {
+                        "name": "Handsome Robo",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/866540/acb47cfb114113ef336ead0335169e310efcb488.jpg"
+                    }
+                ]
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "20 Jun, 2018"
+            },
+            "support_info": {
+                "url": "",
+                "email": "invisible.yuno@googlemail.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/866540/page_bg_generated_v6b.jpg?t=1537628755",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

@@ -1,0 +1,167 @@
+{
+    "634260": {
+        "success": true,
+        "data": {
+            "type": "video",
+            "name": "Getting Schooled",
+            "steam_appid": 634260,
+            "required_age": "17",
+            "is_free": false,
+            "controller_support": "full",
+            "detailed_description": "<h1>Steam Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>In 1983, a group of high school students in a day of detention must run for their lives when a teacher in a wheel chair turns out to be an ex black-ops soldier having a murderous flashback. The wily pack of misfits fight to the death as they are trapped inside the school with the torturous psycho.",
+            "about_the_game": "In 1983, a group of high school students in a day of detention must run for their lives when a teacher in a wheel chair turns out to be an ex black-ops soldier having a murderous flashback. The wily pack of misfits fight to the death as they are trapped inside the school with the torturous psycho.",
+            "short_description": "A group of 1980's students stuck in detention, must band together and fight for their lives against a wheel-chair bound teacher having a murderous war-time flashback.",
+            "fullgame": {
+                "appid": null,
+                "name": "Uninitialized"
+            },
+            "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/634260/header.jpg?t=1494887016",
+            "website": "https://gettingschooledmovie.com/",
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong> Intel Core 2 or AMD equivalent<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 200 MB available space<br></li><li><strong>Additional Notes:</strong> Network Bandwidth of 5Mbps for 540p, 3Mbps for 360p.</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Intel Core I3+ or AMD equivalent recommended for HD 1080p playback<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 500 MB available space<br></li><li><strong>Additional Notes:</strong> Network Bandwidth of 12Mbps for 1080p or 8Mbps for 720p.</li></ul>"
+            },
+            "mac_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OSX 10.7<br></li><li><strong>Processor:</strong> Intel Core 2 or AMD equivalent<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 200 MB available space<br></li><li><strong>Additional Notes:</strong> Network Bandwidth of 5Mbps for 540p, 3Mbps for 360p.</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OSX 10.10+<br></li><li><strong>Processor:</strong> Intel Core I3+ or AMD equivalent recommended for HD 1080p playback<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 500 MB available space<br></li><li><strong>Additional Notes:</strong> Network Bandwidth of 12Mbps for 1080p or 8Mbps for 720p.</li></ul>"
+            },
+            "linux_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Linux Ubuntu 12.04 or later, SteamOS 2.20 or later<br></li><li><strong>Processor:</strong> Intel Core 2 or AMD equivalent<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 200 MB available space<br></li><li><strong>Additional Notes:</strong> Network Bandwidth of 5Mbps for 540p, 3Mbps for 360p.</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Linux Ubuntu 12.04 or later, SteamOS 2.20 or later<br></li><li><strong>Processor:</strong> Intel Core I3+ or AMD equivalent recommended for HD 1080p playback<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 500 MB available space<br></li><li><strong>Additional Notes:</strong> Network Bandwidth of 12Mbps for 1080p or 8Mbps for 720p.</li></ul>"
+            },
+            "publishers": [
+                "Midnight Releasing"
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 299,
+                "final": 299,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "2,99€"
+            },
+            "packages": [
+                173258,
+                173257
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Getting Schooled",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 173258,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Getting Schooled - 2,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 299
+                        },
+                        {
+                            "packageid": 173257,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Getting Schooled - 7,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 799
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": true,
+                "linux": true
+            },
+            "categories": [
+                {
+                    "id": 28,
+                    "description": "Full controller support"
+                },
+                {
+                    "id": 33,
+                    "description": "Native Steam Controller Support"
+                },
+                {
+                    "id": 13,
+                    "description": "Captions available"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "73",
+                    "description": "Violent"
+                },
+                {
+                    "id": "80",
+                    "description": "Movie"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/634260/ss_5eddad9277f4594a4b20f5bf3836b98a9af32157.600x338.jpg?t=1494887016",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/634260/ss_5eddad9277f4594a4b20f5bf3836b98a9af32157.1920x1080.jpg?t=1494887016"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/634260/ss_fbe8b4066df13745be8c2e793aa12c10562f178f.600x338.jpg?t=1494887016",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/634260/ss_fbe8b4066df13745be8c2e793aa12c10562f178f.1920x1080.jpg?t=1494887016"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/634260/ss_ba180a02075ba2e4b89dbcc629e9eea12b77e216.600x338.jpg?t=1494887016",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/634260/ss_ba180a02075ba2e4b89dbcc629e9eea12b77e216.1920x1080.jpg?t=1494887016"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/634260/ss_1fe6ffc4175940712543df904b046192369dcb9d.600x338.jpg?t=1494887016",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/634260/ss_1fe6ffc4175940712543df904b046192369dcb9d.1920x1080.jpg?t=1494887016"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/634260/ss_23be92c41f59d40283c37e8db16e8b30c9bf2172.600x338.jpg?t=1494887016",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/634260/ss_23be92c41f59d40283c37e8db16e8b30c9bf2172.1920x1080.jpg?t=1494887016"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 256684669,
+                    "name": "Getting Schooled",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256684669/movie.293x165.jpg?t=1494456640",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256684669/movie480.webm?t=1494456640",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256684669/movie_max.webm?t=1494456640"
+                    },
+                    "highlight": true
+                }
+            ],
+            "achievements": {
+                "total": 0
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "15 May, 2017"
+            },
+            "support_info": {
+                "url": "http://midnightreleasing.com/bdf/getting-schooled/",
+                "email": "michaels@emaximmedia.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/634260/page_bg_generated_v6b.jpg?t=1494887016",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

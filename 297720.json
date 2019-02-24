@@ -1,0 +1,181 @@
+{
+    "297720": {
+        "success": true,
+        "data": {
+            "type": "game",
+            "name": "Corpse of Discovery",
+            "steam_appid": 297720,
+            "required_age": 0,
+            "is_free": false,
+            "controller_support": "full",
+            "detailed_description": "<h1>Update Notes</h1><p>Notes for 9/15 update:<br><br><ul class=\"bb_ul\"><li> Fix for memory leak<br></li><li> Fix for possible progression blocking bug on world 4<br></li><li> Misc performance improvements in world 2</li></ul></p><br><h1>Update Notes</h1><p>Patch notes for today's update!<br><br><ul class=\"bb_ul\"><li> Fixed save issues with inverting Y control options<br></li><li> Improved detector map clarity and improved waypoint visibility<br></li><li> A number of small performance improvements<br></li><li> Added tutorial text for sprint and jumping<br></li><li> Adjusted first planet secondary objectives<br></li><li> Misc. bug fixes</li></ul></p><br><h1>Update Notes</h1><p>Made additional updates to address performance issues some users are having. Of note, we are still working on the memory leak some users are experiencing. If you have these issues, it would be a huge favor to us if you could share the specifics in the steam forums. <br><br><ul class=\"bb_ul\"><li>             PERF: Removed performance issue from Lava and Abstract<br></li><li>             PERF: Re-enabled chunk combiner on planets. to reduce draw calls<br></li><li>             Added waypoints to Hub interacts <br></li><li>             Changed some dialog to better explain unfolding events<br></li><li>             Changed side mission waypoints to be more noticable.<br></li><li>             Added  additional 'seeking creatures' to worlds.  <br></li><li>             Changed order of some side side objectives.<br></li><li>             fixed player walking past airlock door entrance. <br></li><li>             Readjusted audio balance in planets<br></li><li>             Adjust how long sub objective text stays on screen.<br></li><li>             Fix invert input to only flip Y Axis <br></li><li>             Fix bug where you fall out of 'bone cave' at start </li></ul></p><br><h1>Update Notes</h1><p>Here are the patch notes for today's update!<br><br><ul class=\"bb_ul\"><li>Adding helmet HUD overlay<br></li><li>Menu toggle for inverting input<br></li><li>Menu toggle for v-sync<br></li><li>Fixed some bugs with our save system<br></li><li>Fixed some various graphics glitches<br></li><li>Fixing some spelling/grammatical errors<br></li><li>When controller is plugged in “Press ‘e’ to interact” becomes “Press ‘x’ to interact”<br></li><li>Main menu now prevents input for the few seconds between selecting “continue” or “new game” and level load<br></li><li>Menu button collision improvement<br></li><li>Various Performance Optimizations<br></li><li>Occluding starting base and platforms<br></li><li>Optimize shadows<br></li><li>Narrowing back camera view range.<br></li><li>Fixing Log output performance spike.</li></ul><br>We are working on fixing more issues like falling through the world at times, more performance issues and graphics issues, some story progression fixes, and more support for graphics and control options that some people have recommended and requested. We hope to have another patch out very soon with these updates!</p><br><h1>About the Game</h1><strong><i>Hey you, reading this game description…what has your life become?  What have you chosen to do with your precious, limited time?  What have your gained from it?  And what impact have your choices had on the people in your life that love you?</i></strong><br><br><strong>CORPSE OF DISCOVERY</strong><br>You wake up on a base in a new, unexplored planet. Your landing craft is torn to pieces and your gear is scattered. Why are you here? What is your mission? How will you ever get back home to your family?<br><br>Corpse of Discovery is a thought-provoking first-person planetary exploration game located on 6 unexplored planets.  As the player, all you know is that to return home, you must complete the mission at-hand for the Corps of Discovery. However, with each mission completed, you’re left with unresolved questions and zero answers.<h2 class=\"bb_tag\">The Gameplay</h2><br>While contending with extreme and harsh conditions, such as intense storms and unbearable heat, you must remain determined while completing missions for the Corps of Discovery.  You’ll meet AVA, an AssistBot who will accompany you on your journey and make sure you’re constantly reminded of your importance to the Corps. However, you have only one goal in mind: to get back home to your loved ones.<h2 class=\"bb_tag\">Finding What Matters</h2><br>Corpse of Discovery looks at our lives under a symbolic microscope and examines the inner workings of the choices we make, ultimately culminating in the crucial question, “What sacrifices will we make to be successful?” As you struggle to complete each mission for the Corps, you are forced to grapple with your humanity, who you are as a parent, a spouse, an employee, and a human being.<h2 class=\"bb_tag\">Features</h2><br><ul class=\"bb_ul\"><li>    Mature and Deep Narrative: A thought-provoking exploration game, set in space, about life’s revelations, misguided expectations, disappointments and self-discovery.<br></li><li>    Fantastic Alien Landscapes: Explore undiscovered worlds that go on for miles, each world more astounding and beautiful than the last.<br></li><li>    Immersive Investigative Gameplay: Examine your environment to understand new lifeforms, appreciate history, and re-live your precious memories.<br></li><li>    Environmental challenges: Experience unique planetary hazards and gameplay mechanics like deadly solar radiation, powerful wind storms, lava oceans, and floating islands only reachable by jetpack.</li></ul>",
+            "about_the_game": "<strong><i>Hey you, reading this game description…what has your life become?  What have you chosen to do with your precious, limited time?  What have your gained from it?  And what impact have your choices had on the people in your life that love you?</i></strong><br><br><strong>CORPSE OF DISCOVERY</strong><br>You wake up on a base in a new, unexplored planet. Your landing craft is torn to pieces and your gear is scattered. Why are you here? What is your mission? How will you ever get back home to your family?<br><br>Corpse of Discovery is a thought-provoking first-person planetary exploration game located on 6 unexplored planets.  As the player, all you know is that to return home, you must complete the mission at-hand for the Corps of Discovery. However, with each mission completed, you’re left with unresolved questions and zero answers.<h2 class=\"bb_tag\">The Gameplay</h2><br>While contending with extreme and harsh conditions, such as intense storms and unbearable heat, you must remain determined while completing missions for the Corps of Discovery.  You’ll meet AVA, an AssistBot who will accompany you on your journey and make sure you’re constantly reminded of your importance to the Corps. However, you have only one goal in mind: to get back home to your loved ones.<h2 class=\"bb_tag\">Finding What Matters</h2><br>Corpse of Discovery looks at our lives under a symbolic microscope and examines the inner workings of the choices we make, ultimately culminating in the crucial question, “What sacrifices will we make to be successful?” As you struggle to complete each mission for the Corps, you are forced to grapple with your humanity, who you are as a parent, a spouse, an employee, and a human being.<h2 class=\"bb_tag\">Features</h2><br><ul class=\"bb_ul\"><li>    Mature and Deep Narrative: A thought-provoking exploration game, set in space, about life’s revelations, misguided expectations, disappointments and self-discovery.<br></li><li>    Fantastic Alien Landscapes: Explore undiscovered worlds that go on for miles, each world more astounding and beautiful than the last.<br></li><li>    Immersive Investigative Gameplay: Examine your environment to understand new lifeforms, appreciate history, and re-live your precious memories.<br></li><li>    Environmental challenges: Experience unique planetary hazards and gameplay mechanics like deadly solar radiation, powerful wind storms, lava oceans, and floating islands only reachable by jetpack.</li></ul>",
+            "short_description": "A first-person Walking Simulator exploring the deeper meaning of family, life goals, and personal choices (with a bit of humor and old-school sci-fi homage mixed in) – set on beautiful and lonely alien worlds.",
+            "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/297720/header.jpg?t=1448038197",
+            "website": null,
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong> Intel Core 2 Duo 2 Ghz (64 bit)<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Geforce GTX 460 or equivalent<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Storage:</strong> 5 GB available space</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 8<br></li><li><strong>Processor:</strong> Intel Core i5 2.5 Ghz (64 bit)<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Geforce GTX 660 or equivalent<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Storage:</strong> 5 GB available space</li></ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "developers": [
+                "Phosphor Games"
+            ],
+            "publishers": [
+                "Phosphor Games"
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 799,
+                "final": 799,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "7,99€"
+            },
+            "packages": [
+                43135
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Corpse of Discovery",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 43135,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Corpse of Discovery - 7,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 799
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "metacritic": {
+                "score": 49,
+                "url": "https://www.metacritic.com/game/pc/corpse-of-discovery?ftag=MCD-06-10aaa1f"
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 28,
+                    "description": "Full controller support"
+                },
+                {
+                    "id": 13,
+                    "description": "Captions available"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "25",
+                    "description": "Adventure"
+                },
+                {
+                    "id": "23",
+                    "description": "Indie"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/297720/ss_5aa372e83354f52ec38e41133b554028f90d581b.600x338.jpg?t=1448038197",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/297720/ss_5aa372e83354f52ec38e41133b554028f90d581b.1920x1080.jpg?t=1448038197"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/297720/ss_1703ffcba281493265895390486ef7d5ba17b548.600x338.jpg?t=1448038197",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/297720/ss_1703ffcba281493265895390486ef7d5ba17b548.1920x1080.jpg?t=1448038197"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/297720/ss_ce0480dacbba7c6d0b9b802da0cd60a857c9e56a.600x338.jpg?t=1448038197",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/297720/ss_ce0480dacbba7c6d0b9b802da0cd60a857c9e56a.1920x1080.jpg?t=1448038197"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/297720/ss_aaaf351a468c91fbc4d170d7eb89f9ddf4955094.600x338.jpg?t=1448038197",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/297720/ss_aaaf351a468c91fbc4d170d7eb89f9ddf4955094.1920x1080.jpg?t=1448038197"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/297720/ss_e4c17571ed8d80e6d895bfec5e5cef11487290b0.600x338.jpg?t=1448038197",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/297720/ss_e4c17571ed8d80e6d895bfec5e5cef11487290b0.1920x1080.jpg?t=1448038197"
+                },
+                {
+                    "id": 5,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/297720/ss_5aa372e83354f52ec38e41133b554028f90d581b.600x338.jpg?t=1448038197",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/297720/ss_5aa372e83354f52ec38e41133b554028f90d581b.1920x1080.jpg?t=1448038197"
+                },
+                {
+                    "id": 6,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/297720/ss_1703ffcba281493265895390486ef7d5ba17b548.600x338.jpg?t=1448038197",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/297720/ss_1703ffcba281493265895390486ef7d5ba17b548.1920x1080.jpg?t=1448038197"
+                },
+                {
+                    "id": 7,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/297720/ss_ce0480dacbba7c6d0b9b802da0cd60a857c9e56a.600x338.jpg?t=1448038197",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/297720/ss_ce0480dacbba7c6d0b9b802da0cd60a857c9e56a.1920x1080.jpg?t=1448038197"
+                },
+                {
+                    "id": 8,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/297720/ss_aaaf351a468c91fbc4d170d7eb89f9ddf4955094.600x338.jpg?t=1448038197",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/297720/ss_aaaf351a468c91fbc4d170d7eb89f9ddf4955094.1920x1080.jpg?t=1448038197"
+                },
+                {
+                    "id": 9,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/297720/ss_e4c17571ed8d80e6d895bfec5e5cef11487290b0.600x338.jpg?t=1448038197",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/297720/ss_e4c17571ed8d80e6d895bfec5e5cef11487290b0.1920x1080.jpg?t=1448038197"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 256655734,
+                    "name": "Trailer",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256655734/movie.293x165.jpg?t=1447377619",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256655734/movie480.webm?t=1447377619",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256655734/movie_max.webm?t=1447377619"
+                    },
+                    "highlight": true
+                }
+            ],
+            "recommendations": {
+                "total": 121
+            },
+            "achievements": {
+                "total": 0
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "25 Aug, 2015"
+            },
+            "support_info": {
+                "url": "www.phosphorgames.com/support",
+                "email": "support@phosphorgames.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/297720/page_bg_generated_v6b.jpg?t=1448038197",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "8700": {
+        "success": true,
+        "data": {
+            "type": "demo",
+            "name": "STCC - The Game Demo",
+            "steam_appid": 8700,
+            "required_age": 0,
+            "is_free": true,
+            "detailed_description": "",
+            "about_the_game": "",
+            "short_description": "",
+            "fullgame": {
+                "appid": "8690",
+                "name": "STCC - The Game 1 - Expansion Pack for RACE 07"
+            },
+            "supported_languages": "English, French, German, Italian, Spanish - Spain",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/8700/header.jpg?t=1447351477",
+            "website": null,
+            "pc_requirements": {
+                "minimum": "<p><strong>Minimum: </strong></p>\n\t\t\t\t\t<ul>\n\t\t\t\t\t<li><strong>Supported OS:</strong> Microsoft Windows XP Home/Pro, Windows Vista*</li>\n\t\t\t\t\t<li><strong>Processor:</strong> 1.7 GHz Intel Pentium 4 or 100% compatible</li>\n\t\t\t\t\t<li><strong>Memory:</strong> 512 MB RAM</li>\n\t\t\t\t\t<li><strong>Graphics:</strong> DirectX 9 compatible graphics card with 128 MB memory</li>\n\t\t\t\t\t<li><strong>Sound:</strong> DirectX 9 compatible</li>\n\t\t\t\t\t<li><strong>Direct X Version:</strong> 9</li>\n\t\t\t\t\t<li><strong>Hard Drive:</strong> 2.5 GB free space</li> \n\t\t\t\t\t<li><strong>Input Devices: </strong>Keyboard and Mouse</li></ul>\n\t\t\t\t\t<p></p>            \n\t\t\t\t\t<p><strong>Recommended: </strong></p>\n\t\t\t\t\t<ul>\n\t\t\t\t\t<li><strong>Supported OS:</strong> Microsoft Windows XP Home/Pro, Windows Vista*</li>\n\t\t\t\t\t<li><strong>Processor:</strong> 3 GHz Intel Pentium IV or 100% compatible</li>\n\t\t\t\t\t<li><strong>Memory:</strong> 2 GB RAM</li>\n\t\t\t\t\t<li><strong>Graphics:</strong> DirectX 9 compatible graphics card with 512 MB memory, Nvidia 6800 or better</li>\n\t\t\t\t\t<li><strong>Sound:</strong> DirectX 9 compatible</li>\n\t\t\t\t\t<li><strong>Direct X Version:</strong> 9</li>\n\t\t\t\t\t<li><strong>Hard Drive:</strong> 2.5 GB free space</li> \n\t\t\t\t\t<li><strong>Input Devices: </strong>DirectX 9 compatible force feedback steering wheel</li>\n\t\t\t\t\t<li>*Limited support</li>                    </ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "developers": [
+                "SimBin"
+            ],
+            "publishers": [
+                "SimBin"
+            ],
+            "package_groups": [],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 1,
+                    "description": "Multi-player"
+                },
+                {
+                    "id": 10,
+                    "description": "Game demo"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "9",
+                    "description": "Racing"
+                }
+            ],
+            "achievements": {
+                "total": 0
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "18 Sep, 2008"
+            },
+            "support_info": {
+                "url": "",
+                "email": ""
+            },
+            "background": "",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

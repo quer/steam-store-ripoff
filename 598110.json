@@ -1,0 +1,205 @@
+{
+    "598110": {
+        "success": true,
+        "data": {
+            "type": "dlc",
+            "name": "Fallout 4 - Creation Club",
+            "steam_appid": 598110,
+            "required_age": "17",
+            "is_free": false,
+            "controller_support": "full",
+            "detailed_description": "Get Credits to be used in Creation Club – a collection of all-new game content for Fallout 4.  Content is fully curated and compatible with the main game and official add-ons.  Using Creation Club is easy – browse the selection in-game by category and use Credits to download the content. Credits can be purchased in packs of various sizes, and you’ll receive a discount on larger packs.  ",
+            "about_the_game": "Get Credits to be used in Creation Club – a collection of all-new game content for Fallout 4.  Content is fully curated and compatible with the main game and official add-ons.  Using Creation Club is easy – browse the selection in-game by category and use Credits to download the content. Credits can be purchased in packs of various sizes, and you’ll receive a discount on larger packs.  ",
+            "short_description": "Get Credits to be used in Creation Club – a collection of new game content for Fallout 4. Credits can be purchased in packs of various sizes, and you’ll receive a discount on larger packs. Content is curated and compatible with the game and official add-ons.",
+            "fullgame": {
+                "appid": "377160",
+                "name": "Fallout 4"
+            },
+            "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Polish, Portuguese - Brazil, Russian, Traditional Chinese, Japanese<strong>*</strong><br><strong>*</strong>languages with full audio support",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/598110/header.jpg?t=1504031203",
+            "website": "http://www.fallout4.com",
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7/8/10 (64-bit OS required)<br></li><li><strong>Processor:</strong> Intel Core i5-2300 2.8 GHz/AMD Phenom II X4 945 3.0 GHz or equivalent<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GTX 550 Ti 2GB/AMD Radeon HD 7870 2GB or equivalent<br></li><li><strong>Storage:</strong> 30 GB available space</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7/8/10 (64-bit OS required)<br></li><li><strong>Processor:</strong> Intel Core i7 4790 3.6 GHz/AMD FX-9590 4.7 GHz or equivalent<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GTX 780 3GB/AMD Radeon R9 290X 4GB or equivalent<br></li><li><strong>Storage:</strong> 30 GB available space</li></ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "legal_notice": "© 2017 Bethesda Softworks LLC, a ZeniMax Media company. Bethesda, Bethesda Softworks, Bethesda Game Studios, ZeniMax, Pip-Boy, Vault-Tec and related logos are registered trademarks or trademarks of ZeniMax Media Inc. in the U.S. and/or other countries. Fallout, Vault Boy and related logos are trademarks or registered trademarks of Bethesda Softworks LLC in the U.S. and/or other countries. All Rights Reserved.",
+            "developers": [
+                "Bethesda Game Studios"
+            ],
+            "publishers": [
+                "Bethesda Softworks"
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 699,
+                "final": 699,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "6,99€"
+            },
+            "packages": [
+                163128,
+                181251,
+                181252,
+                163129,
+                163128,
+                163129,
+                181251,
+                181252
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Creation Club Credits",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": "1",
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 163128,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Fallout 4 - 750 CC Credits - 6,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 699
+                        },
+                        {
+                            "packageid": 181251,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Fallout 4 - 1500 CC Credits - 12,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 1299
+                        },
+                        {
+                            "packageid": 181252,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Fallout 4 - 3000 CC Credits - 20,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 2099
+                        },
+                        {
+                            "packageid": 163129,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Fallout 4 - 5500 CC Credits - 34,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 3499
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 21,
+                    "description": "Downloadable Content"
+                },
+                {
+                    "id": 22,
+                    "description": "Steam Achievements"
+                },
+                {
+                    "id": 28,
+                    "description": "Full controller support"
+                },
+                {
+                    "id": 23,
+                    "description": "Steam Cloud"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "3",
+                    "description": "RPG"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/598110/ss_0743c3030afa4e05d6bf34534e4268f0880bdad1.600x338.jpg?t=1504031203",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/598110/ss_0743c3030afa4e05d6bf34534e4268f0880bdad1.1920x1080.jpg?t=1504031203"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/598110/ss_e149ba258283d91ced8a8b861ca86b798258918a.600x338.jpg?t=1504031203",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/598110/ss_e149ba258283d91ced8a8b861ca86b798258918a.1920x1080.jpg?t=1504031203"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/598110/ss_585a91886ea6209abe6dde0afaed033d484de69b.600x338.jpg?t=1504031203",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/598110/ss_585a91886ea6209abe6dde0afaed033d484de69b.1920x1080.jpg?t=1504031203"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/598110/ss_671b1bf3cd3d979a3e3788c848b235cdf96ce94d.600x338.jpg?t=1504031203",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/598110/ss_671b1bf3cd3d979a3e3788c848b235cdf96ce94d.1920x1080.jpg?t=1504031203"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/598110/ss_8cfbab65fd7666bd9ed15181df94ed54227f31cf.600x338.jpg?t=1504031203",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/598110/ss_8cfbab65fd7666bd9ed15181df94ed54227f31cf.1920x1080.jpg?t=1504031203"
+                },
+                {
+                    "id": 5,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/598110/ss_c7380ee741a5bdb99c3c315cc9b1539013a544d5.600x338.jpg?t=1504031203",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/598110/ss_c7380ee741a5bdb99c3c315cc9b1539013a544d5.1920x1080.jpg?t=1504031203"
+                },
+                {
+                    "id": 6,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/598110/ss_5694132f50eab30d4329998c5d97f7df61d15fc4.600x338.jpg?t=1504031203",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/598110/ss_5694132f50eab30d4329998c5d97f7df61d15fc4.1920x1080.jpg?t=1504031203"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 256693021,
+                    "name": "Announce Trailer",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256693021/movie.293x165.jpg?t=1503592580",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256693021/movie480.webm?t=1503592580",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256693021/movie_max.webm?t=1503592580"
+                    },
+                    "highlight": true
+                }
+            ],
+            "achievements": {
+                "total": 0
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "24 Aug, 2017"
+            },
+            "support_info": {
+                "url": "http://help.bethsoft.com/",
+                "email": ""
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/598110/page_bg_generated_v6b.jpg?t=1504031203",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

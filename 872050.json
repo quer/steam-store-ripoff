@@ -1,0 +1,144 @@
+{
+    "872050": {
+        "success": true,
+        "data": {
+            "type": "dlc",
+            "name": "Solenars Edge Rebirth: Donation",
+            "steam_appid": 872050,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "This content does not affect the game in anyway, shape or form.",
+            "about_the_game": "This content does not affect the game in anyway, shape or form.",
+            "short_description": "Purchase this small donation to help further advance Team Syukino's updates and games.",
+            "fullgame": {
+                "appid": "679470",
+                "name": "Solenars Edge Rebirth"
+            },
+            "supported_languages": "English",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/872050/header.jpg?t=1535934479",
+            "website": null,
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows Vista/7/8.1/10<br></li><li><strong>Processor:</strong> N/A<br></li><li><strong>Graphics:</strong> N/A<br></li><li><strong>Sound Card:</strong> N/A<br></li><li><strong>Additional Notes:</strong> Donation</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7/8.1/10<br></li><li><strong>Processor:</strong> N/A<br></li><li><strong>Graphics:</strong> N/A<br></li><li><strong>Sound Card:</strong> N/A<br></li><li><strong>Additional Notes:</strong> Donation</li></ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "legal_notice": "Solenars Edge Rebirth and the Logo are the sole property of Syukino aka Atsumora Sythe.<br />\r\n*Team Syukino*",
+            "developers": [
+                "Team Syukino"
+            ],
+            "publishers": [
+                "Team Syukino"
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 159,
+                "final": 159,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "1,59€"
+            },
+            "packages": [
+                275627,
+                276483
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Solenars Edge Rebirth: Donation",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 275627,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Solenars Edge Rebirth: Donation - 1,59€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 159
+                        }
+                    ]
+                },
+                {
+                    "name": "subscriptions",
+                    "title": "Buy Solenars Edge Rebirth: Donation Subscription Plan",
+                    "description": "To be billed on a recurring basis.",
+                    "selection_text": "Select a subscription plan",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "true",
+                    "subs": [
+                        {
+                            "packageid": 276483,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "1 Month(s) @ 2,39€/Month",
+                            "option_description": "<p class=\"game_purchase_subscription\">3,99€ at checkout, auto-renewed every 1 month(s) at 2,39€.</p>",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 399
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 21,
+                    "description": "Downloadable Content"
+                },
+                {
+                    "id": 22,
+                    "description": "Steam Achievements"
+                },
+                {
+                    "id": 18,
+                    "description": "Partial Controller Support"
+                },
+                {
+                    "id": 23,
+                    "description": "Steam Cloud"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "3",
+                    "description": "RPG"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/872050/ss_a0df85580bf04c9e3d41bba4ff84ad18d456bdaa.600x338.jpg?t=1535934479",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/872050/ss_a0df85580bf04c9e3d41bba4ff84ad18d456bdaa.1920x1080.jpg?t=1535934479"
+                }
+            ],
+            "release_date": {
+                "coming_soon": false,
+                "date": "28 May, 2018"
+            },
+            "support_info": {
+                "url": "",
+                "email": "Syukino56@gmail.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/872050/page_bg_generated_v6b.jpg?t=1535934479",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

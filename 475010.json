@@ -1,0 +1,145 @@
+{
+    "475010": {
+        "success": true,
+        "data": {
+            "type": "dlc",
+            "name": "Phantom Brave PC / ファントム・ブレイブ PC - Digital Art Book / デジタル・アートブック",
+            "steam_appid": 475010,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "",
+            "about_the_game": "",
+            "short_description": "",
+            "fullgame": {
+                "appid": "409870",
+                "name": "Phantom Brave PC / ファントム・ブレイブ PC"
+            },
+            "supported_languages": "English",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/475010/header.jpg?t=1510278628",
+            "website": null,
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7/8/10</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7/8/10</li></ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "legal_notice": "©2004-2016 Nippon Ichi Software, Inc. ©2016 NIS America, Inc. All rights reserved. Phantom Brave is a trademark or registered trademark of Nippon Ichi Software, Inc.",
+            "developers": [
+                "Nippon Ichi Software, Inc."
+            ],
+            "publishers": [
+                "NIS America, Inc."
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 399,
+                "final": 159,
+                "discount_percent": 60,
+                "initial_formatted": "3,99€",
+                "final_formatted": "1,59€"
+            },
+            "packages": [
+                105571
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Phantom Brave PC / ファントム・ブレイブ PC - Digital Art Book / デジタル・アートブック",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 105571,
+                            "percent_savings_text": "-60%",
+                            "percent_savings": 0,
+                            "option_text": "Phantom Brave PC - Digital Art Book - <span class=\"discount_original_price\">3,99€</span> 1,59€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 159
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 21,
+                    "description": "Downloadable Content"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "3",
+                    "description": "RPG"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/475010/ss_9c94aa247e8ae498ae9c6b1e265e3eb5813ac9bd.600x338.jpg?t=1510278628",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/475010/ss_9c94aa247e8ae498ae9c6b1e265e3eb5813ac9bd.1920x1080.jpg?t=1510278628"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/475010/ss_b94bdb8f201a9688c517721e8db3ec12ff7eaaf2.600x338.jpg?t=1510278628",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/475010/ss_b94bdb8f201a9688c517721e8db3ec12ff7eaaf2.1920x1080.jpg?t=1510278628"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/475010/ss_c3275a40660ebd166fdfe14673abf61b59a937c0.600x338.jpg?t=1510278628",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/475010/ss_c3275a40660ebd166fdfe14673abf61b59a937c0.1920x1080.jpg?t=1510278628"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/475010/ss_f1a0cb7918e4facd4fd41d7632725671f3ef86e2.600x338.jpg?t=1510278628",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/475010/ss_f1a0cb7918e4facd4fd41d7632725671f3ef86e2.1920x1080.jpg?t=1510278628"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/475010/ss_ec0f628d4667101a18480389075c6dab2893870e.600x338.jpg?t=1510278628",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/475010/ss_ec0f628d4667101a18480389075c6dab2893870e.1920x1080.jpg?t=1510278628"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 256665954,
+                    "name": "Phantom Brave PC - Official Trailer",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256665954/movie.293x165.jpg?t=1466611720",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256665954/movie480.webm?t=1466611720",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256665954/movie_max.webm?t=1466611720"
+                    },
+                    "highlight": true
+                }
+            ],
+            "achievements": {
+                "total": 0
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "25 Jul, 2016"
+            },
+            "support_info": {
+                "url": "http://www.nisamerica.com/index.php?nav=s",
+                "email": ""
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/475010/page_bg_generated_v6b.jpg?t=1510278628",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

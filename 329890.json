@@ -1,0 +1,231 @@
+{
+    "329890": {
+        "success": true,
+        "data": {
+            "type": "game",
+            "name": "MyRPG Master",
+            "steam_appid": 329890,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "<h1>Early Access, please be kind!</h1><p>MyRPG Master is still in alpha stage. You will be disappointed if you expect a full software, right now the World Editor is almost fully functional, plus a few other editors are available, and we are hunting bugs impacting them. Buying MyRPG Master at the moment is actively showing your support and we need it, thank you for the people who have already purchased it!</p><br><h1>About the Software</h1>MyRPG is a set of  many editors that will help you create your 3D (MMO)RPG World. These editors are divided into 4 categories: 3D editors, GUI editors, Rules editors and Universe editors. <br>My RPG is a tool that is able to create game universes and storylines playable solo or multi through local network or online servers. <br><br><img src=\"https://%CDN_HOST_MEDIA_SSL%/steam/apps/329890/extras/3d_editors.png?t=1447364407\" crossorigin=\"anonymous\"><h2 class=\"bb_tag\">World Editor</h2>The World Editor allows you to design the 3D environment your adventure will take place in. You can very easily place 3D objects such as creatures, clouds, lakes, but also precipitations, lights, sounds or particles, etc ... from the built-in library or from your own creation library . Move, rotate, and scale them at your wish in the overview layout of the world.<h2 class=\"bb_tag\">Terrain Editor</h2>The Terrain Editor is the tool you will use to sculpt your terrains. It enables you to create many kind of terrain, and adjust the shape of your world using 10 powerful and fully customizable tools.<br>Grab terrain <br>Raise height <br>Lower Height <br>Smooth flattern <br>Smooth slope <br>Paint Noise <br>Flattern <br>Set Height <br>Clear Terrain (to make holes into the terrain, and build caves) <br>Restore Terrain (to erase gaps onthe terrain)<h2 class=\"bb_tag\">Terrain Painter</h2>The Terrain Painter allows you to paint materials over your terrain. Each material is customizable with a Diffuse, Detail and Normal texture. MyRPG comes with hundreds of ready to use textures.<h2 class=\"bb_tag\">Material Editor</h2>With the Material Editor you can change any material used by a 3D Object.  A material is a set of textures allowing you to produce awesome effects such as specularity, glowing or transparency. Materials can also be animated and produce specific sounds on impact and footsteps. Each object within MyRPG comes with their own customizable materials.<h2 class=\"bb_tag\">Decal Editor</h2>Put more details on the objects and terrains with the Decal Editor. Decals are transparent textures dedicated to add some specific and unique details to your scenes.<h2 class=\"bb_tag\">Particle Editor</h2>Create particle Effects with the Particle Editor. Particle effects cover a large scope of effect from explosions to persistent particles and environmental particles. Theses particles can be used to improve your scene’s visual effects, and to create custom spells and skill effects. An extensible effect library is available within MyRPG.<h2 class=\"bb_tag\">River Editor</h2>With the River Editor you can insert &quot;flow&quot; objects like rivers, cascade, lava flows, and more. It enables you to determine flow speed, texture, resistance and undulation. Combined with particle editor, the River Editor is an essential tool to put more life into your game scenes.<h2 class=\"bb_tag\">Road Editor</h2>The Road editor allows you to paint roads over the terrain. It's an essential editor to give details to your road such as wheel tracks. Roads are systematically adjusted to perfectly fit your terrain.<h2 class=\"bb_tag\">Mesh Road Editor</h2>Like the Road Editor, the Mesh Road Editor, allows you to paint roads. But Mesh roads aren't systematically put on the terrain (unlike road editor), this enables the easy design of bridges, or any other floating/flying paths.<h2 class=\"bb_tag\">Forest Editor</h2>The Forest Editor is an intelligent editor used to build forests and rich environments.  It allows you to define brushes composed of several meshes of your choice like trees, boulders, flowers or bushes. With a single mouse drag you can paint a great variety of environment like forest, rocky desert, swamps, and so on.<h2 class=\"bb_tag\">Area Editor</h2>The Area Editor is used to define a game zone. When player leaves a zone, you can set an action, like trigger some messages, HP loss, or any other feature you want.<h2 class=\"bb_tag\">Sketch Tool</h2>If you need some new objects but you don't want or can’t use an external editor (like Blender, Max or Maya), the Sketch Tool is here for you. It allows you to create new simple 3D objects. This editor also makes you choose textures for your newly created object.<h2 class=\"bb_tag\">Shape Editor</h2>With the Shape Editor you can easily import 3D models from external tools. You can import collada models (.dae files), change their default materials, edit existing animations, and create new animations from existing ones. You can even add triggers to your meshes like footstep puffs. It’s an essential tool to turn an external animated model into a good ingame model.<br> <br><br><img src=\"https://%CDN_HOST_MEDIA_SSL%/steam/apps/329890/extras/gui_editors.png?t=1447364407\" crossorigin=\"anonymous\"><h2 class=\"bb_tag\">NPCs Dialogs </h2>The NPCs dialogs are customizable windows you can modify with the main GUI Editor. Dialogs are launched when interacting with a friendly NPCs, and data come from the database Dialog Editor.<h2 class=\"bb_tag\">Inventory and bags </h2>Inventory and bags can also be customized with the main GUI Editor. You will be able to set the number of items per bags allowed. You can setup up to 18 emplacement in your inventory. A simple Drag and drop equips your player to be . MyRPG checks automatically if an object can be equipped according to your definitions in the database.<h2 class=\"bb_tag\">Spell book </h2>Spells and spell books can also be customized with the main GUI Editor. Database definitions and players progression determines which spells are displayed and available.<h2 class=\"bb_tag\">Quest and Achievements </h2>Quest Book and achievements are synchronized with the database and character's progression.<h2 class=\"bb_tag\">Main GUI Editor</h2>Customize every Graphical User Interface elements with the GUI Editor. Make your game unique by using the professional interface to draw Images, text controls, 3D objects, inputs, list boxes, and many more. Additionnaly, a powerful data linking mode allows you to show every data of the game without a single line of code.<h2 class=\"bb_tag\">Profiles System</h2>The Profiles System is a powerful tool used to allow graphic style management. With the Profile Editor, you can customize windows graphic looks, fonts and colors used in your ingame interface.<h2 class=\"bb_tag\">Character Selection GUI</h2>The Character Selection GUI allows you to control the characters data displayed during new games and loading phases. Coupled to the main GUI Editor, you can give a unique look and feel to your universe. And coupled to the Wolrd Editor you can build a complete 3D scene for the character selection.<h2 class=\"bb_tag\">Loading Screens</h2>The Loading Screens can be customized according to the whole game level, or by area. This way, you can give a unique in-depth look to your game.<h2 class=\"bb_tag\">Character and Target Huds</h2>The Character Hud and the Target Hud can be customized with up to 10 data. It can also draw states icons (coming with the States Editor). You can use the main GUI editor to customize the aspects of these Huds.<h2 class=\"bb_tag\">Character Sheet</h2>All characters data can be placed into this sheet. Using the main GUI editor allows you to fully customize the different aspects of your characters sheets. Data are automatically updated during game sessions.<h2 class=\"bb_tag\">Spell bar</h2>The Spell bar is a MMO-like spell bar, allowing you to cast spells in real time with hotkeys.<h2 class=\"bb_tag\">Chat</h2>You can chat with your friends over local network, or over the internet. The Chat GUI allows you to type special commands (/dance, /salute, etc...).<h2 class=\"bb_tag\">MiniMap</h2>The Minimap GUI can handle many mini maps types, such as discovery maps (wow-like) or pin maps. You can also control the zoom in/out range.<br><br><br><img src=\"https://%CDN_HOST_MEDIA_SSL%/steam/apps/329890/extras/rules_editors.png?t=1447364407\" crossorigin=\"anonymous\"><h2 class=\"bb_tag\">Tables Editor </h2>The Tables Editor allows you to insert classic RPG tables which determine values used by the game system on actions.<h2 class=\"bb_tag\">Classes Editor </h2>Classes editor allows you to create your own classes. Each class might have some specific attributes, bonuses, and experience curves.<h2 class=\"bb_tag\">Skills Editor </h2>Skills defines actions that characters can perform, it can be sword attacks, spell casting, invocations, and many more. Skills are actives or passives. Activating skills are available from the &quot;spell book&quot; and might be attached to the action bar during a playing session.<h2 class=\"bb_tag\">Items Editor </h2>Items are objects other than armors and weapons. This editor allows you to define icons and effects when a character uses them. Items might also be other useful in-game items like keys, components, quest items, trophy, and so on.<h2 class=\"bb_tag\">Armors Editor </h2>The Armor Editor allows you to fully describe and create pieces of armors like pads, shoulder parts, that can be worn by the characters. The Armor editor can define bonuses, and effects (lights and particles, special rules) attached to this piece of armor or to a complete set. Armors can be mounted to the character mesh, or simply added to equipped items.<h2 class=\"bb_tag\">Weapons Editor </h2>Like the Armor Editor, the Weapons Editor allows you to create your own weaponry by defining damages, bonuses and effects attached to this special weapon.<h2 class=\"bb_tag\">Animations Editor </h2>Animations are triggered by using skills. The Animations Editor allows you to define all visual effects launched over a timeline. Effects can be take many forms such as: character animation, light effects, particle ejections, object spawning or deletion, sounds, and many more. Use the Animation Editor to define a unique gameplay to your world. <br><br><strong>NB: This editor is still a work in progress</strong><h2 class=\"bb_tag\">States Editor </h2>States editor allows you to define special buff/debuff that impact characters. It might be something like death, poison, sleep, petrified, invulnerability, and many more.<h2 class=\"bb_tag\">Sounds Editor </h2>The Sounds Editor allows you to define specific settings for each sound of your game such as default volume, pitch, repeat times...<h2 class=\"bb_tag\">Attributes Editor</h2>The Attributes Editor allows you to create your own characters attributes, like Strength, Intelligence, and so on. Each attribute can be based on a dice system (eg : 2d6+7, 3d6, 1d20+5, ...) or on formulas (eg : (STR+DEX)/2 ). With this powerfull editor you can create your very own rule system, either based on dice like many pen and paper role playing games, or based on formulas like many MMORPG.<h2 class=\"bb_tag\">Terms Editor</h2>The Terms Editor allow you to define elements, weapons and categories, skill schools, and other lexical elements specific to your wolrd. <br><br><br><img src=\"https://%CDN_HOST_MEDIA_SSL%/steam/apps/329890/extras/universe_editors.png?t=1447364407\" crossorigin=\"anonymous\"><h2 class=\"bb_tag\">Actors Editor </h2>The Actors Editor creates default Player Character for your game, and also, Non playable Characters. You can specify special abilities, inventory, equipment, and loot for each character. Character editor includes an Artificial Intelligence editor which determines behavior for it. It allows also to skin your characters with specific materials. MyRPG comes with twelve playable races. <br><br><strong>NB: This editor is still a work in progress</strong><h2 class=\"bb_tag\">Dialogs Editor </h2>The Dialog Editor manages dialogs. Dialogs are trees of NPC answer and sets of choices. Each choice may trigger some specific actions using chat commands.<h2 class=\"bb_tag\">Quest and achievement Editor </h2>This editor allows you to set your quests and achievements descriptions and conditions. It also configures advanced settings such as social network and steam sharing.<h2 class=\"bb_tag\">Events Editor </h2>This editor allow you to create in-game events triggered by player actions, or by global timeline. Events can be cut-scenes, creatures spawning, NPCs actions, ... You can then create a dynamic and living world. <br><br><strong>NB: This editor is still a work in progress</strong><h2 class=\"bb_tag\">Factions Editor</h2>Factions determine the Artificial Intelligence behavior toward others. This editor allows you to manage behavior levels between parties.<br><br><br><img src=\"https://%CDN_HOST_MEDIA_SSL%/steam/apps/329890/extras/misc_editors.png?t=1447364407\" crossorigin=\"anonymous\"><h2 class=\"bb_tag\">Library</h2>MyRPG comes with its own library containing vegetation, creatures, placeables buildings, particles, textures, and so on. This ingame library will be frequently increased along the development of MyRPG.<h2 class=\"bb_tag\">Importing models and textures</h2>You can import your own 3D models using collada importer (.dae file format). You can use Blender, Max or Maya softwares to create your own models. Textures are simple .jpg, .png or .dds files.",
+            "about_the_game": "MyRPG is a set of  many editors that will help you create your 3D (MMO)RPG World. These editors are divided into 4 categories: 3D editors, GUI editors, Rules editors and Universe editors. <br>My RPG is a tool that is able to create game universes and storylines playable solo or multi through local network or online servers. <br><br><img src=\"https://%CDN_HOST_MEDIA_SSL%/steam/apps/329890/extras/3d_editors.png?t=1447364407\" crossorigin=\"anonymous\"><h2 class=\"bb_tag\">World Editor</h2>The World Editor allows you to design the 3D environment your adventure will take place in. You can very easily place 3D objects such as creatures, clouds, lakes, but also precipitations, lights, sounds or particles, etc ... from the built-in library or from your own creation library . Move, rotate, and scale them at your wish in the overview layout of the world.<h2 class=\"bb_tag\">Terrain Editor</h2>The Terrain Editor is the tool you will use to sculpt your terrains. It enables you to create many kind of terrain, and adjust the shape of your world using 10 powerful and fully customizable tools.<br>Grab terrain <br>Raise height <br>Lower Height <br>Smooth flattern <br>Smooth slope <br>Paint Noise <br>Flattern <br>Set Height <br>Clear Terrain (to make holes into the terrain, and build caves) <br>Restore Terrain (to erase gaps onthe terrain)<h2 class=\"bb_tag\">Terrain Painter</h2>The Terrain Painter allows you to paint materials over your terrain. Each material is customizable with a Diffuse, Detail and Normal texture. MyRPG comes with hundreds of ready to use textures.<h2 class=\"bb_tag\">Material Editor</h2>With the Material Editor you can change any material used by a 3D Object.  A material is a set of textures allowing you to produce awesome effects such as specularity, glowing or transparency. Materials can also be animated and produce specific sounds on impact and footsteps. Each object within MyRPG comes with their own customizable materials.<h2 class=\"bb_tag\">Decal Editor</h2>Put more details on the objects and terrains with the Decal Editor. Decals are transparent textures dedicated to add some specific and unique details to your scenes.<h2 class=\"bb_tag\">Particle Editor</h2>Create particle Effects with the Particle Editor. Particle effects cover a large scope of effect from explosions to persistent particles and environmental particles. Theses particles can be used to improve your scene’s visual effects, and to create custom spells and skill effects. An extensible effect library is available within MyRPG.<h2 class=\"bb_tag\">River Editor</h2>With the River Editor you can insert &quot;flow&quot; objects like rivers, cascade, lava flows, and more. It enables you to determine flow speed, texture, resistance and undulation. Combined with particle editor, the River Editor is an essential tool to put more life into your game scenes.<h2 class=\"bb_tag\">Road Editor</h2>The Road editor allows you to paint roads over the terrain. It's an essential editor to give details to your road such as wheel tracks. Roads are systematically adjusted to perfectly fit your terrain.<h2 class=\"bb_tag\">Mesh Road Editor</h2>Like the Road Editor, the Mesh Road Editor, allows you to paint roads. But Mesh roads aren't systematically put on the terrain (unlike road editor), this enables the easy design of bridges, or any other floating/flying paths.<h2 class=\"bb_tag\">Forest Editor</h2>The Forest Editor is an intelligent editor used to build forests and rich environments.  It allows you to define brushes composed of several meshes of your choice like trees, boulders, flowers or bushes. With a single mouse drag you can paint a great variety of environment like forest, rocky desert, swamps, and so on.<h2 class=\"bb_tag\">Area Editor</h2>The Area Editor is used to define a game zone. When player leaves a zone, you can set an action, like trigger some messages, HP loss, or any other feature you want.<h2 class=\"bb_tag\">Sketch Tool</h2>If you need some new objects but you don't want or can’t use an external editor (like Blender, Max or Maya), the Sketch Tool is here for you. It allows you to create new simple 3D objects. This editor also makes you choose textures for your newly created object.<h2 class=\"bb_tag\">Shape Editor</h2>With the Shape Editor you can easily import 3D models from external tools. You can import collada models (.dae files), change their default materials, edit existing animations, and create new animations from existing ones. You can even add triggers to your meshes like footstep puffs. It’s an essential tool to turn an external animated model into a good ingame model.<br> <br><br><img src=\"https://%CDN_HOST_MEDIA_SSL%/steam/apps/329890/extras/gui_editors.png?t=1447364407\" crossorigin=\"anonymous\"><h2 class=\"bb_tag\">NPCs Dialogs </h2>The NPCs dialogs are customizable windows you can modify with the main GUI Editor. Dialogs are launched when interacting with a friendly NPCs, and data come from the database Dialog Editor.<h2 class=\"bb_tag\">Inventory and bags </h2>Inventory and bags can also be customized with the main GUI Editor. You will be able to set the number of items per bags allowed. You can setup up to 18 emplacement in your inventory. A simple Drag and drop equips your player to be . MyRPG checks automatically if an object can be equipped according to your definitions in the database.<h2 class=\"bb_tag\">Spell book </h2>Spells and spell books can also be customized with the main GUI Editor. Database definitions and players progression determines which spells are displayed and available.<h2 class=\"bb_tag\">Quest and Achievements </h2>Quest Book and achievements are synchronized with the database and character's progression.<h2 class=\"bb_tag\">Main GUI Editor</h2>Customize every Graphical User Interface elements with the GUI Editor. Make your game unique by using the professional interface to draw Images, text controls, 3D objects, inputs, list boxes, and many more. Additionnaly, a powerful data linking mode allows you to show every data of the game without a single line of code.<h2 class=\"bb_tag\">Profiles System</h2>The Profiles System is a powerful tool used to allow graphic style management. With the Profile Editor, you can customize windows graphic looks, fonts and colors used in your ingame interface.<h2 class=\"bb_tag\">Character Selection GUI</h2>The Character Selection GUI allows you to control the characters data displayed during new games and loading phases. Coupled to the main GUI Editor, you can give a unique look and feel to your universe. And coupled to the Wolrd Editor you can build a complete 3D scene for the character selection.<h2 class=\"bb_tag\">Loading Screens</h2>The Loading Screens can be customized according to the whole game level, or by area. This way, you can give a unique in-depth look to your game.<h2 class=\"bb_tag\">Character and Target Huds</h2>The Character Hud and the Target Hud can be customized with up to 10 data. It can also draw states icons (coming with the States Editor). You can use the main GUI editor to customize the aspects of these Huds.<h2 class=\"bb_tag\">Character Sheet</h2>All characters data can be placed into this sheet. Using the main GUI editor allows you to fully customize the different aspects of your characters sheets. Data are automatically updated during game sessions.<h2 class=\"bb_tag\">Spell bar</h2>The Spell bar is a MMO-like spell bar, allowing you to cast spells in real time with hotkeys.<h2 class=\"bb_tag\">Chat</h2>You can chat with your friends over local network, or over the internet. The Chat GUI allows you to type special commands (/dance, /salute, etc...).<h2 class=\"bb_tag\">MiniMap</h2>The Minimap GUI can handle many mini maps types, such as discovery maps (wow-like) or pin maps. You can also control the zoom in/out range.<br><br><br><img src=\"https://%CDN_HOST_MEDIA_SSL%/steam/apps/329890/extras/rules_editors.png?t=1447364407\" crossorigin=\"anonymous\"><h2 class=\"bb_tag\">Tables Editor </h2>The Tables Editor allows you to insert classic RPG tables which determine values used by the game system on actions.<h2 class=\"bb_tag\">Classes Editor </h2>Classes editor allows you to create your own classes. Each class might have some specific attributes, bonuses, and experience curves.<h2 class=\"bb_tag\">Skills Editor </h2>Skills defines actions that characters can perform, it can be sword attacks, spell casting, invocations, and many more. Skills are actives or passives. Activating skills are available from the &quot;spell book&quot; and might be attached to the action bar during a playing session.<h2 class=\"bb_tag\">Items Editor </h2>Items are objects other than armors and weapons. This editor allows you to define icons and effects when a character uses them. Items might also be other useful in-game items like keys, components, quest items, trophy, and so on.<h2 class=\"bb_tag\">Armors Editor </h2>The Armor Editor allows you to fully describe and create pieces of armors like pads, shoulder parts, that can be worn by the characters. The Armor editor can define bonuses, and effects (lights and particles, special rules) attached to this piece of armor or to a complete set. Armors can be mounted to the character mesh, or simply added to equipped items.<h2 class=\"bb_tag\">Weapons Editor </h2>Like the Armor Editor, the Weapons Editor allows you to create your own weaponry by defining damages, bonuses and effects attached to this special weapon.<h2 class=\"bb_tag\">Animations Editor </h2>Animations are triggered by using skills. The Animations Editor allows you to define all visual effects launched over a timeline. Effects can be take many forms such as: character animation, light effects, particle ejections, object spawning or deletion, sounds, and many more. Use the Animation Editor to define a unique gameplay to your world. <br><br><strong>NB: This editor is still a work in progress</strong><h2 class=\"bb_tag\">States Editor </h2>States editor allows you to define special buff/debuff that impact characters. It might be something like death, poison, sleep, petrified, invulnerability, and many more.<h2 class=\"bb_tag\">Sounds Editor </h2>The Sounds Editor allows you to define specific settings for each sound of your game such as default volume, pitch, repeat times...<h2 class=\"bb_tag\">Attributes Editor</h2>The Attributes Editor allows you to create your own characters attributes, like Strength, Intelligence, and so on. Each attribute can be based on a dice system (eg : 2d6+7, 3d6, 1d20+5, ...) or on formulas (eg : (STR+DEX)/2 ). With this powerfull editor you can create your very own rule system, either based on dice like many pen and paper role playing games, or based on formulas like many MMORPG.<h2 class=\"bb_tag\">Terms Editor</h2>The Terms Editor allow you to define elements, weapons and categories, skill schools, and other lexical elements specific to your wolrd. <br><br><br><img src=\"https://%CDN_HOST_MEDIA_SSL%/steam/apps/329890/extras/universe_editors.png?t=1447364407\" crossorigin=\"anonymous\"><h2 class=\"bb_tag\">Actors Editor </h2>The Actors Editor creates default Player Character for your game, and also, Non playable Characters. You can specify special abilities, inventory, equipment, and loot for each character. Character editor includes an Artificial Intelligence editor which determines behavior for it. It allows also to skin your characters with specific materials. MyRPG comes with twelve playable races. <br><br><strong>NB: This editor is still a work in progress</strong><h2 class=\"bb_tag\">Dialogs Editor </h2>The Dialog Editor manages dialogs. Dialogs are trees of NPC answer and sets of choices. Each choice may trigger some specific actions using chat commands.<h2 class=\"bb_tag\">Quest and achievement Editor </h2>This editor allows you to set your quests and achievements descriptions and conditions. It also configures advanced settings such as social network and steam sharing.<h2 class=\"bb_tag\">Events Editor </h2>This editor allow you to create in-game events triggered by player actions, or by global timeline. Events can be cut-scenes, creatures spawning, NPCs actions, ... You can then create a dynamic and living world. <br><br><strong>NB: This editor is still a work in progress</strong><h2 class=\"bb_tag\">Factions Editor</h2>Factions determine the Artificial Intelligence behavior toward others. This editor allows you to manage behavior levels between parties.<br><br><br><img src=\"https://%CDN_HOST_MEDIA_SSL%/steam/apps/329890/extras/misc_editors.png?t=1447364407\" crossorigin=\"anonymous\"><h2 class=\"bb_tag\">Library</h2>MyRPG comes with its own library containing vegetation, creatures, placeables buildings, particles, textures, and so on. This ingame library will be frequently increased along the development of MyRPG.<h2 class=\"bb_tag\">Importing models and textures</h2>You can import your own 3D models using collada importer (.dae file format). You can use Blender, Max or Maya softwares to create your own models. Textures are simple .jpg, .png or .dds files.",
+            "short_description": "MyRPG is the software for the creation of your own role playing 3D worlds. It allows you to imagine and build your own play areas, your own GUI and your own adventures, without a single line of code. MyRPG is composed of many editors that meet all the needs of a role playing game creation.",
+            "supported_languages": "English",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/329890/header.jpg?t=1447364407",
+            "website": "http://myrpg.eu",
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP<br></li><li><strong>Processor:</strong> 2GHz Processor<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> Any card with Shader v1.1 or more<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 900 MB available space<br></li><li><strong>Sound Card:</strong> All</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong> 3 GHz Processor<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Any card with Shader v2.0 or more<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Sound Card:</strong> All</li></ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "developers": [
+                "DragonHead Studio"
+            ],
+            "publishers": [
+                "Plug In Digital"
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 3999,
+                "final": 3999,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "39,99€"
+            },
+            "packages": [
+                53312
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy MyRPG Master",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 53312,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "MyRPG Master - 39,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 3999
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "51",
+                    "description": "Animation & Modeling"
+                },
+                {
+                    "id": "53",
+                    "description": "Design & Illustration"
+                },
+                {
+                    "id": "54",
+                    "description": "Education"
+                },
+                {
+                    "id": "56",
+                    "description": "Software Training"
+                },
+                {
+                    "id": "57",
+                    "description": "Utilities"
+                },
+                {
+                    "id": "70",
+                    "description": "Early Access"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/329890/ss_8abb10aebb3d9db21f9e0b7d7f9cbbf0eea3f608.600x338.jpg?t=1447364407",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/329890/ss_8abb10aebb3d9db21f9e0b7d7f9cbbf0eea3f608.1920x1080.jpg?t=1447364407"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/329890/ss_22f72a84a054b3866c0162f8680238c96fab60f8.600x338.jpg?t=1447364407",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/329890/ss_22f72a84a054b3866c0162f8680238c96fab60f8.1920x1080.jpg?t=1447364407"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/329890/ss_b476f4d0640bf00169fe361df84332da6970c0d3.600x338.jpg?t=1447364407",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/329890/ss_b476f4d0640bf00169fe361df84332da6970c0d3.1920x1080.jpg?t=1447364407"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/329890/ss_526f7128b0fe4cdb5c6ca211bbf690f52b1e5604.600x338.jpg?t=1447364407",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/329890/ss_526f7128b0fe4cdb5c6ca211bbf690f52b1e5604.1920x1080.jpg?t=1447364407"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/329890/ss_23c48c2498154518c2632175d45a9aebfb2b1625.600x338.jpg?t=1447364407",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/329890/ss_23c48c2498154518c2632175d45a9aebfb2b1625.1920x1080.jpg?t=1447364407"
+                },
+                {
+                    "id": 5,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/329890/ss_fce803948ad2fb8c816f887e57f6841a9d7debb7.600x338.jpg?t=1447364407",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/329890/ss_fce803948ad2fb8c816f887e57f6841a9d7debb7.1920x1080.jpg?t=1447364407"
+                },
+                {
+                    "id": 6,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/329890/ss_7de0f58ed6370410f6f92fc061ce6a9c95dabfc5.600x338.jpg?t=1447364407",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/329890/ss_7de0f58ed6370410f6f92fc061ce6a9c95dabfc5.1920x1080.jpg?t=1447364407"
+                },
+                {
+                    "id": 7,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/329890/ss_d6d1864ee2a5d257c8ad3a79653810f7d5a7e1f1.600x338.jpg?t=1447364407",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/329890/ss_d6d1864ee2a5d257c8ad3a79653810f7d5a7e1f1.1920x1080.jpg?t=1447364407"
+                },
+                {
+                    "id": 8,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/329890/ss_b6c927ca0459143f52562c25c3083dbd22bc4990.600x338.jpg?t=1447364407",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/329890/ss_b6c927ca0459143f52562c25c3083dbd22bc4990.1920x1080.jpg?t=1447364407"
+                },
+                {
+                    "id": 9,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/329890/ss_2ddd4cc8ce32eb8a342f45c9e39c2ef61e2c9a89.600x338.jpg?t=1447364407",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/329890/ss_2ddd4cc8ce32eb8a342f45c9e39c2ef61e2c9a89.1920x1080.jpg?t=1447364407"
+                },
+                {
+                    "id": 10,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/329890/ss_0100aa4b8435c6e86c86d15fd964074bccc74d33.600x338.jpg?t=1447364407",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/329890/ss_0100aa4b8435c6e86c86d15fd964074bccc74d33.1920x1080.jpg?t=1447364407"
+                },
+                {
+                    "id": 11,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/329890/ss_4f23ca21c502438168ccca53d00d08ec84ed7775.600x338.jpg?t=1447364407",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/329890/ss_4f23ca21c502438168ccca53d00d08ec84ed7775.1920x1080.jpg?t=1447364407"
+                },
+                {
+                    "id": 12,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/329890/ss_31194ed0d92d9eb7323b339ad758fadced96fa7a.600x338.jpg?t=1447364407",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/329890/ss_31194ed0d92d9eb7323b339ad758fadced96fa7a.1920x1080.jpg?t=1447364407"
+                },
+                {
+                    "id": 13,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/329890/ss_a52e4ca006a6ac31f3b1dd91999f41cd1d0d1768.600x338.jpg?t=1447364407",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/329890/ss_a52e4ca006a6ac31f3b1dd91999f41cd1d0d1768.1920x1080.jpg?t=1447364407"
+                },
+                {
+                    "id": 14,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/329890/ss_399f6c377fe6637421f599cbdbbce1747859d38f.600x338.jpg?t=1447364407",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/329890/ss_399f6c377fe6637421f599cbdbbce1747859d38f.1920x1080.jpg?t=1447364407"
+                },
+                {
+                    "id": 15,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/329890/ss_f6ecc72b384d8c77b79d63be90b0c0bab2bfa2a9.600x338.jpg?t=1447364407",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/329890/ss_f6ecc72b384d8c77b79d63be90b0c0bab2bfa2a9.1920x1080.jpg?t=1447364407"
+                },
+                {
+                    "id": 16,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/329890/ss_5db30585176afa058ebf4f1c9f90ef242e1e28a5.600x338.jpg?t=1447364407",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/329890/ss_5db30585176afa058ebf4f1c9f90ef242e1e28a5.1920x1080.jpg?t=1447364407"
+                },
+                {
+                    "id": 17,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/329890/ss_614177d4c12f7b5cefbefb3210825e3337d2dfcb.600x338.jpg?t=1447364407",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/329890/ss_614177d4c12f7b5cefbefb3210825e3337d2dfcb.1920x1080.jpg?t=1447364407"
+                },
+                {
+                    "id": 18,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/329890/ss_811d9daef6b86e92184aaf9b0f14b79949c7b5c9.600x338.jpg?t=1447364407",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/329890/ss_811d9daef6b86e92184aaf9b0f14b79949c7b5c9.1920x1080.jpg?t=1447364407"
+                },
+                {
+                    "id": 19,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/329890/ss_8454de7fd001f73dd0d0b6eb45900cb6f09430b4.600x338.jpg?t=1447364407",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/329890/ss_8454de7fd001f73dd0d0b6eb45900cb6f09430b4.1920x1080.jpg?t=1447364407"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 2037006,
+                    "name": "MyRPG Master Trailer - Alpha 1",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/2037006/movie.293x165.jpg?t=1447368605",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/2037006/movie480.webm?t=1447368605",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/2037006/movie_max.webm?t=1447368605"
+                    },
+                    "highlight": true
+                }
+            ],
+            "achievements": {
+                "total": 0
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "9 Feb, 2015"
+            },
+            "support_info": {
+                "url": "http://myrpg.eu",
+                "email": ""
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/329890/page_bg_generated_v6b.jpg?t=1447364407",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

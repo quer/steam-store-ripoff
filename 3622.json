@@ -1,0 +1,75 @@
+{
+    "3622": {
+        "success": true,
+        "data": {
+            "type": "demo",
+            "name": "Zuma's Revenge! Demo",
+            "steam_appid": 3622,
+            "required_age": 0,
+            "is_free": true,
+            "detailed_description": "",
+            "about_the_game": "",
+            "short_description": "",
+            "fullgame": {
+                "appid": "3620",
+                "name": "Zuma's Revenge!"
+            },
+            "supported_languages": "English",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/3622/header.jpg?t=1447352490",
+            "website": null,
+            "pc_requirements": {
+                "minimum": "\n\t\t\t\t\t<ul>\n\t\t\t\t\t<li><strong>OS:</strong> Windows XP/Vista</li>\n\t\t\t\t\t<li><strong>Processor:</strong>700MHz (minimum, lo-res mode); 1+GHz (recommended, hi-res mode)</li>\n\t\t\t\t\t<li><strong>Memory:</strong>256MB (minimum, lo-res mode); 768+MB (recommended, hi-res mode)</li>\n\t\t\t\t\t<li><strong>Graphics:</strong> DirectX-compatible; 16MB (minimum, lo-res mode), 92+MB (recommended, hi-res mode) \n\t\t\t\t\t<br />16-bit or 32-bit color mode (256 colors may not work) - <br />Note: For hi-res mode, you need at least 768MB of RAM and at least 92MB of video RAM, as well as a desktop resolution greater than or equal to 1000 pixels in height.</li>\n\t\t\t\t\t<li><strong>DirectX&reg;:</strong> 8.1 (required, lo-res mode); 9.0c+ (required, hi-res mode) </li>\n\t\t\t\t\t<li><strong>Hard Drive:</strong> 250+MB</li>\n\t\t\t\t\t<li><strong>Sound:</strong> DirectX-compatible\n\t\t\t\t\t<li><strong>Internet:</strong> Internet connection is required to register/unlock game trials</li>\n\t\t\t\t\t</ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "developers": [
+                "PopCap Games, Inc."
+            ],
+            "publishers": [
+                "PopCap Games, Inc."
+            ],
+            "package_groups": [],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "metacritic": {
+                "score": 78
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 10,
+                    "description": "Game demo"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "1",
+                    "description": "Action"
+                },
+                {
+                    "id": "4",
+                    "description": "Casual"
+                }
+            ],
+            "release_date": {
+                "coming_soon": false,
+                "date": "15 Sep, 2009"
+            },
+            "support_info": {
+                "url": "",
+                "email": ""
+            },
+            "background": "",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

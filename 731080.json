@@ -1,0 +1,193 @@
+{
+    "731080": {
+        "success": true,
+        "data": {
+            "type": "dlc",
+            "name": "Zaccaria Pinball - Magic Castle 2017 Table",
+            "steam_appid": 731080,
+            "required_age": 0,
+            "is_free": false,
+            "controller_support": "full",
+            "detailed_description": "Purchase this DLC disables score limit on this table!<br><br><strong>Magic Castle 2017</strong><br><br><u>Information:</u><br><ul class=\"bb_ul\"><li>Name: Magic Castle<br></li><li>Theme: Fantasy<br></li><li>Production year: 2017<br></li><li>Type: Solid State (SS)</li></ul><br><u>Features:</u><br><ul class=\"bb_ul\"><li>1 playfield<br></li><li>4 flippers<br></li><li>3 pop bumpers<br></li><li>4 holes<br></li><li>2 ramps<br></li><li>2 spinners<br></li><li>1-bank spot target (1)<br></li><li>2-bank spot targets (1)<br></li><li>4-bank spot targets (1)</li></ul>",
+            "about_the_game": "Purchase this DLC disables score limit on this table!<br><br><strong>Magic Castle 2017</strong><br><br><u>Information:</u><br><ul class=\"bb_ul\"><li>Name: Magic Castle<br></li><li>Theme: Fantasy<br></li><li>Production year: 2017<br></li><li>Type: Solid State (SS)</li></ul><br><u>Features:</u><br><ul class=\"bb_ul\"><li>1 playfield<br></li><li>4 flippers<br></li><li>3 pop bumpers<br></li><li>4 holes<br></li><li>2 ramps<br></li><li>2 spinners<br></li><li>1-bank spot target (1)<br></li><li>2-bank spot targets (1)<br></li><li>4-bank spot targets (1)</li></ul>",
+            "short_description": "Magic Castle 2017 Table is a modernized version of original Magic Castle table from 1984.",
+            "fullgame": {
+                "appid": "444930",
+                "name": "Zaccaria Pinball"
+            },
+            "supported_languages": "English",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/731080/header.jpg?t=1511362731",
+            "website": null,
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 / Windows 8 / Windows 10<br></li><li><strong>Processor:</strong> Dual Core 1.6 GHz or better<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD Graphics 3000 or equivalent<br></li><li><strong>Storage:</strong> 700 MB available space<br></li><li><strong>Sound Card:</strong> Windows compatible sound card</li></ul>"
+            },
+            "mac_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OS X 10.12<br></li><li><strong>Processor:</strong> Dual Core 1.6 GHz or better<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD Graphics 3000 or equivalent<br></li><li><strong>Storage:</strong> 700 MB available space</li></ul>"
+            },
+            "linux_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 14.04 or SteamOS 2.0 (64 bit)<br></li><li><strong>Processor:</strong> Dual Core 1.6 GHz or better<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD Graphics 3000 or equivalent<br></li><li><strong>Storage:</strong> 700 MB available space</li></ul>"
+            },
+            "developers": [
+                "Magic Pixel Kft."
+            ],
+            "publishers": [
+                ""
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 299,
+                "final": 299,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "2,99€"
+            },
+            "packages": [
+                213260
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Zaccaria Pinball - Magic Castle 2017 Table",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 213260,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Zaccaria Pinball - Magic Castle 2017 Table - 2,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 299
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": true,
+                "linux": true
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 1,
+                    "description": "Multi-player"
+                },
+                {
+                    "id": 36,
+                    "description": "Online Multi-Player"
+                },
+                {
+                    "id": 37,
+                    "description": "Local Multi-Player"
+                },
+                {
+                    "id": 24,
+                    "description": "Shared/Split Screen"
+                },
+                {
+                    "id": 27,
+                    "description": "Cross-Platform Multiplayer"
+                },
+                {
+                    "id": 21,
+                    "description": "Downloadable Content"
+                },
+                {
+                    "id": 22,
+                    "description": "Steam Achievements"
+                },
+                {
+                    "id": 28,
+                    "description": "Full controller support"
+                },
+                {
+                    "id": 29,
+                    "description": "Steam Trading Cards"
+                },
+                {
+                    "id": 23,
+                    "description": "Steam Cloud"
+                },
+                {
+                    "id": 25,
+                    "description": "Steam Leaderboards"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "1",
+                    "description": "Action"
+                },
+                {
+                    "id": "4",
+                    "description": "Casual"
+                },
+                {
+                    "id": "37",
+                    "description": "Free to Play"
+                },
+                {
+                    "id": "23",
+                    "description": "Indie"
+                },
+                {
+                    "id": "28",
+                    "description": "Simulation"
+                },
+                {
+                    "id": "18",
+                    "description": "Sports"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/731080/ss_068a92ec977dcb0225e3ea34337313c12143ca71.600x338.jpg?t=1511362731",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/731080/ss_068a92ec977dcb0225e3ea34337313c12143ca71.1920x1080.jpg?t=1511362731"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/731080/ss_13e39bcaeb7efa061bf8aa0f3cc912d7d3c8d355.600x338.jpg?t=1511362731",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/731080/ss_13e39bcaeb7efa061bf8aa0f3cc912d7d3c8d355.1920x1080.jpg?t=1511362731"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/731080/ss_ca4d9271ba4a57732120252cce2f861a4114ab7b.600x338.jpg?t=1511362731",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/731080/ss_ca4d9271ba4a57732120252cce2f861a4114ab7b.1920x1080.jpg?t=1511362731"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/731080/ss_a970712987ae98f72e27fb37ce95498d41133ac5.600x338.jpg?t=1511362731",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/731080/ss_a970712987ae98f72e27fb37ce95498d41133ac5.1920x1080.jpg?t=1511362731"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/731080/ss_6a3033a5d88803579930d7e9b163e683be60b628.600x338.jpg?t=1511362731",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/731080/ss_6a3033a5d88803579930d7e9b163e683be60b628.1920x1080.jpg?t=1511362731"
+                }
+            ],
+            "release_date": {
+                "coming_soon": false,
+                "date": "20 Oct, 2017"
+            },
+            "support_info": {
+                "url": "",
+                "email": "contact.magicpixel2012@gmail.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/731080/page_bg_generated_v6b.jpg?t=1511362731",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "13010": {
+        "success": true,
+        "data": {
+            "type": "demo",
+            "name": "Ninja Reflex Demo",
+            "steam_appid": 13010,
+            "required_age": 0,
+            "is_free": true,
+            "detailed_description": "",
+            "about_the_game": "",
+            "short_description": "",
+            "fullgame": {
+                "appid": "13000",
+                "name": "Ninja Reflex: Steamworks Edition"
+            },
+            "supported_languages": "English, French, German, Italian, Spanish - Spain, Japanese (all with full audio support)",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/13010/header.jpg?t=1447351282",
+            "website": null,
+            "pc_requirements": {
+                "minimum": "<p><strong>Minimum: </strong></p>\n\t\t\t\t\t<ul>\n\t\t\t\t\t<li><strong>Supported OS: </strong>Microsoft Windows&reg; XP/Vista</li>\n\t\t\t\t\t<li><strong>Processor: </strong>Intel Pentium&reg; 1.0 GHz or higher processor</li>\n\t\t\t\t\t<li><strong>System Memory: </strong>Windows XP: 256 MB of RAM, Windows Vista: 512 MB of RAM</li>\n\t\t\t\t\t<li><strong>Video Card: </strong>DirectX 9.0-compatible video card/</li>\n\t\t\t\t\t<li><strong>DirectX Version: </strong>DirectX&reg; version 9.0 or higher</li>\n\t\t\t\t\t<li><strong>Hard Disk: </strong>250 MB available hard disk space</li></ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "developers": [
+                "Sanzaru Games"
+            ],
+            "publishers": [
+                "Nunchuck Games"
+            ],
+            "package_groups": [],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "metacritic": {
+                "score": 57
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 10,
+                    "description": "Game demo"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "23",
+                    "description": "Indie"
+                },
+                {
+                    "id": "4",
+                    "description": "Casual"
+                }
+            ],
+            "release_date": {
+                "coming_soon": false,
+                "date": "Mar 21, 2008"
+            },
+            "support_info": {
+                "url": "",
+                "email": ""
+            },
+            "background": "",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

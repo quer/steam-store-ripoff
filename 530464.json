@@ -1,0 +1,97 @@
+{
+    "530464": {
+        "success": true,
+        "data": {
+            "type": "episode",
+            "name": "Battle Disc: Victory! A Brand New World",
+            "steam_appid": 530464,
+            "required_age": 0,
+            "is_free": false,
+            "controller_support": "full",
+            "detailed_description": "",
+            "about_the_game": "",
+            "short_description": "It is the final showdown! With only 30 minutes left to defeat Max, everyone joins together to face adversity. All the people on Earth and all of the Disc Warriors on Disc Planet must unite to defeat the powerful Max! What will be the cost of victory?",
+            "fullgame": {
+                "appid": "530400",
+                "name": "Battle Disc"
+            },
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/530464/header.jpg?t=1478279812",
+            "website": null,
+            "pc_requirements": [],
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "publishers": [
+                ""
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 99,
+                "final": 99,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "0,99€"
+            },
+            "packages": [
+                127774
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Battle Disc: Victory! A Brand New World",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 127774,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Battle Disc: Victory! A Brand New World - 0,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 99
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 28,
+                    "description": "Full controller support"
+                },
+                {
+                    "id": 33,
+                    "description": "Native Steam Controller Support"
+                },
+                {
+                    "id": 13,
+                    "description": "Captions available"
+                }
+            ],
+            "achievements": {
+                "total": 0
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "4 Nov, 2016"
+            },
+            "support_info": {
+                "url": "",
+                "email": ""
+            },
+            "background": "",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

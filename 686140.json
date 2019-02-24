@@ -1,0 +1,86 @@
+{
+    "686140": {
+        "success": true,
+        "data": {
+            "type": "episode",
+            "name": "THE KING OF FIGHTERS: DESTINY: SOUTH TOWN",
+            "steam_appid": 686140,
+            "required_age": 0,
+            "is_free": true,
+            "controller_support": "full",
+            "detailed_description": "",
+            "about_the_game": "",
+            "short_description": "THE KING OF FIGHTERS – The world-renowned tournament starts now! After arriving in South Town, Kyo, an invitee to KOF, runs into another formidable fighter, Terry. Ten years have passed since the tragedy that changed his live forever… The destinies of the fighters now cross here in South Town.",
+            "fullgame": {
+                "appid": "642890",
+                "name": "THE KING OF FIGHTERS: DESTINY"
+            },
+            "supported_languages": "English<strong>*</strong>, Japanese<br><strong>*</strong>languages with full audio support",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/686140/header.jpg?t=1502936405",
+            "website": null,
+            "pc_requirements": [],
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "publishers": [
+                ""
+            ],
+            "packages": [
+                179337
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy THE KING OF FIGHTERS: DESTINY: SOUTH TOWN",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 179337,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "THE KING OF FIGHTERS: DESTINY - Free",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": true,
+                            "price_in_cents_with_discount": 0
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 28,
+                    "description": "Full controller support"
+                },
+                {
+                    "id": 33,
+                    "description": "Native Steam Controller Support"
+                }
+            ],
+            "achievements": {
+                "total": 0
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "7 Aug, 2017"
+            },
+            "support_info": {
+                "url": "",
+                "email": ""
+            },
+            "background": "",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

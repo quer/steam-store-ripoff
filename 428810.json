@@ -1,0 +1,117 @@
+{
+    "428810": {
+        "success": true,
+        "data": {
+            "type": "dlc",
+            "name": "VRMark Preview",
+            "steam_appid": 428810,
+            "required_age": 0,
+            "is_free": true,
+            "detailed_description": "This preview was added to 3DMark in early 2016 while VRMark was still in development. And although this DLC will continue to be available in 3DMark for a while longer, we recommend that you check out the real thing instead.<br />\r\n<br />\r\nThe full version of VRMark is available to buy on Steam. <br />\r\nOr try the free version by clicking 'Download Demo' on the VRMark store page.",
+            "about_the_game": "This preview was added to 3DMark in early 2016 while VRMark was still in development. And although this DLC will continue to be available in 3DMark for a while longer, we recommend that you check out the real thing instead.<br />\r\n<br />\r\nThe full version of VRMark is available to buy on Steam. <br />\r\nOr try the free version by clicking 'Download Demo' on the VRMark store page.",
+            "short_description": "See 3DMark as you've never seen it before with VRMark, our virtual reality benchmark. VR headset not required.",
+            "fullgame": {
+                "appid": "223850",
+                "name": "3DMark"
+            },
+            "supported_languages": "English, Russian, Simplified Chinese, German",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/428810/header.jpg?t=1529576330",
+            "website": "https://benchmarks.ul.com/vrmark",
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>Windows 7*<br>\t</li><li><strong>Processor:</strong>1.8 GHz dual-core<br>\t</li><li><strong>Graphics:</strong>DirectX 11<br>\t</li><li><strong>Storage:</strong>6 GB free space</li></ul><br><strong>For systems with a discrete graphics card</strong><br><ul class=\"bb_ul\"><li><strong>Memory:</strong>2 GB RAM and 1 GB video card memory</li></ul><br><strong>For systems with integrated graphics</strong><br><ul class=\"bb_ul\"><li><strong>Memory:</strong>3 GB RAM</li></ul><br>* Windows 7 users must install Service Pack 1."
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "developers": [
+                "UL"
+            ],
+            "publishers": [
+                "UL"
+            ],
+            "packages": [
+                323175
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy VRMark Preview",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 323175,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "3DMark - 24,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 2499
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 21,
+                    "description": "Downloadable Content"
+                },
+                {
+                    "id": 31,
+                    "description": "VR Support"
+                },
+                {
+                    "id": 18,
+                    "description": "Partial Controller Support"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "57",
+                    "description": "Utilities"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/428810/ss_b440c14f84221a05d701a8f19df6c32383735522.600x338.jpg?t=1529576330",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/428810/ss_b440c14f84221a05d701a8f19df6c32383735522.1920x1080.jpg?t=1529576330"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/428810/ss_9656dbc896fb1c03e47bd104d98faf3a2fc3a953.600x338.jpg?t=1529576330",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/428810/ss_9656dbc896fb1c03e47bd104d98faf3a2fc3a953.1920x1080.jpg?t=1529576330"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/428810/ss_c28424855977ed58e9df204c6ad2286125ed1e9c.600x338.jpg?t=1529576330",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/428810/ss_c28424855977ed58e9df204c6ad2286125ed1e9c.1920x1080.jpg?t=1529576330"
+                }
+            ],
+            "achievements": {
+                "total": 0
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "18 Dec, 2015"
+            },
+            "support_info": {
+                "url": "https://benchmarks.ul.com/support",
+                "email": ""
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/428810/page_bg_generated_v6b.jpg?t=1529576330",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

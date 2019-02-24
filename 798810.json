@@ -1,0 +1,200 @@
+{
+    "798810": {
+        "success": true,
+        "data": {
+            "type": "game",
+            "name": "Natural Locomotion",
+            "steam_appid": 798810,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "<i>NOTE: While this app has all the features mentioned here, it is still in active development: adding new features, game profiles and fixing problems. So don't hesitate to ask in the community forums if you have any problem or feature request.</i><br><br>Move naturally in VR in any game that supports trackpad/stick locomotion. Walk in place to move your body in the virtual world! Currently supporting the following methods:<br><br><ul class=\"bb_ul\"><li>NaLo's 1:1 arm swinger<br></li><li>Walk in place with Vive trackers or extra controllers on the feet (in beta branch)<br></li><li>Walk in place with PS Move and other devices on the feet (in beta branch, experimental)<br></li><li>More methods will be added very soon!</li></ul><br>Natural Locomotion is an application that emulates the controller trackpad (to use in any game), to walk and run more naturally moving your arms or your feet. It includes a driver for SteamVR for this purpose.<br><br>Other &quot;arm swinger&quot; implementations are very &quot;jumpy&quot;, very slow to respond, or are a complement on button actions. Natural Locomotion uses a novel system designed to walk and run continuously, and with very precise and intuitive control of speed and acceleration. You can start, stop or change speed very quickly without &quot;move&quot; or &quot;brake&quot; buttons, it just depends on the speed you move your arms.<br><br>It comes with presets for several popular games and apps. Just select one, check the game is configured as shown, and play. The profile manager allows you to make profiles for games not already included.<br><br>The demo version doesn't have any driver and it's just a photogrammetry scene to walk around, and a friendly robot that fools around, moving with this same locomotion system.<br><br>Software requirements:<br><ul class=\"bb_ul\"><li>Desktop view from VR. UI is shown with big buttons and big text.<br></li><li>A recent version of SteamVR (i.e. any except the temporary branch).<br></li><li>SteamVR games or apps that has full directed &quot;smooth locomotion&quot; with trackpad or joystick (i.e. one can choose both direction and speed with the thumb).<br></li><li>Supported hardware: HTC Vive (and Pro), Oculus Rift, Windows Mixed Reality headsets. It's very likely it works with other hardware with workarounds (ask in the <a href=\"https://steamcommunity.com/app/798810/discussions\" target=\"_blank\" rel=\"noreferrer\"  >forum</a>). However it does not work with NoLo controllers or 3dRudder.</li></ul><br>Natural Locomotion doesn't provide comfort options by itself (FoV reduction, etc), that's dependent on each game. If you need it, make sure the games you want to play have the feature and is enabled. From our tests and from all comments after release, the 1:1 movement of Natural Locomotion avoids motion sickness, although we need a much bigger sample size to claim that for sure.<br><br>IMPORTANT for Oculus Rift users: The activation button for most Rift profiles is thumb rest (the little touchpad-like thing).<br><br>List of supported games so far:<br><br><ul class=\"bb_ul\"><li>A-Tech Cybernetic<br></li><li>Alien: Isolation (MotherVR mod)<br></li><li>Apex Construct<br></li><li>Arizona Sunshine<br></li><li>Blade &amp; Sorcery<br></li><li>Chiaro and the Elixir of Life<br></li><li>Climbey<br></li><li>COMPOUND<br></li><li>Contagion VR: Outbreak<br></li><li>Contractors<br></li><li>Crooked Waters<br></li><li>Dead Effect 2 VR<br></li><li>Dreadhalls<br></li><li>The Elder Scrolls V: Skyrim VR<br></li><li>Fallout 4 VR<br></li><li>The Forest<br></li><li>Frankenstein: Beyond the Time<br></li><li>The Gallery: Heart of the Emberstone<br></li><li>GORN<br></li><li>Heart of the Emberstone: Colliseum<br></li><li>Hot Dogs, Horseshoes &amp; Hand Grenades<br></li><li>In Death<br></li><li>Island 359<br></li><li>Karnage Chronicles<br></li><li>Minecraft (with Vivecraft)<br></li><li>OrbusVR<br></li><li>Pavlov VR<br></li><li>PAYDAY 2 VR<br></li><li>Primordian<br></li><li>Protonwar<br></li><li>Rec Room<br></li><li>Serious Sam 3 VR: BFE<br></li><li>Serious Sam VR: The First Encounter<br></li><li>Serious Sam VR: The Second Encounter<br></li><li>The Talos Principle VR<br></li><li>Vanishing Realms<br></li><li>Vengeful Rites<br></li><li>Vengeful Rites Demo<br></li><li>VR Dungeon Knight<br></li><li>VRChat<br></li><li>WAR DUST<br></li><li>Witching Tower<br></li><li>The Wizards<br></li><li>Kartong (Vive, Rift only for now)<br></li><li>Onward (Vive, Rift only for now)<br></li><li>Robinson: The Journey (Vive, WMR only for now)<br></li><li>Serious Sam VR: The Last Hope (Vive, WMR only for now)<br></li><li>STAND OUT (Rift only for now)</li></ul><br>This list will be growing a lot during the following weeks. You can also try to make your own profiles.<br><br>Some profiles are available in some headsets only (or not at all) due to technical limitations that will be fixed soon.",
+            "about_the_game": "<i>NOTE: While this app has all the features mentioned here, it is still in active development: adding new features, game profiles and fixing problems. So don't hesitate to ask in the community forums if you have any problem or feature request.</i><br><br>Move naturally in VR in any game that supports trackpad/stick locomotion. Walk in place to move your body in the virtual world! Currently supporting the following methods:<br><br><ul class=\"bb_ul\"><li>NaLo's 1:1 arm swinger<br></li><li>Walk in place with Vive trackers or extra controllers on the feet (in beta branch)<br></li><li>Walk in place with PS Move and other devices on the feet (in beta branch, experimental)<br></li><li>More methods will be added very soon!</li></ul><br>Natural Locomotion is an application that emulates the controller trackpad (to use in any game), to walk and run more naturally moving your arms or your feet. It includes a driver for SteamVR for this purpose.<br><br>Other &quot;arm swinger&quot; implementations are very &quot;jumpy&quot;, very slow to respond, or are a complement on button actions. Natural Locomotion uses a novel system designed to walk and run continuously, and with very precise and intuitive control of speed and acceleration. You can start, stop or change speed very quickly without &quot;move&quot; or &quot;brake&quot; buttons, it just depends on the speed you move your arms.<br><br>It comes with presets for several popular games and apps. Just select one, check the game is configured as shown, and play. The profile manager allows you to make profiles for games not already included.<br><br>The demo version doesn't have any driver and it's just a photogrammetry scene to walk around, and a friendly robot that fools around, moving with this same locomotion system.<br><br>Software requirements:<br><ul class=\"bb_ul\"><li>Desktop view from VR. UI is shown with big buttons and big text.<br></li><li>A recent version of SteamVR (i.e. any except the temporary branch).<br></li><li>SteamVR games or apps that has full directed &quot;smooth locomotion&quot; with trackpad or joystick (i.e. one can choose both direction and speed with the thumb).<br></li><li>Supported hardware: HTC Vive (and Pro), Oculus Rift, Windows Mixed Reality headsets. It's very likely it works with other hardware with workarounds (ask in the <a href=\"https://steamcommunity.com/app/798810/discussions\" target=\"_blank\" rel=\"noreferrer\"  >forum</a>). However it does not work with NoLo controllers or 3dRudder.</li></ul><br>Natural Locomotion doesn't provide comfort options by itself (FoV reduction, etc), that's dependent on each game. If you need it, make sure the games you want to play have the feature and is enabled. From our tests and from all comments after release, the 1:1 movement of Natural Locomotion avoids motion sickness, although we need a much bigger sample size to claim that for sure.<br><br>IMPORTANT for Oculus Rift users: The activation button for most Rift profiles is thumb rest (the little touchpad-like thing).<br><br>List of supported games so far:<br><br><ul class=\"bb_ul\"><li>A-Tech Cybernetic<br></li><li>Alien: Isolation (MotherVR mod)<br></li><li>Apex Construct<br></li><li>Arizona Sunshine<br></li><li>Blade &amp; Sorcery<br></li><li>Chiaro and the Elixir of Life<br></li><li>Climbey<br></li><li>COMPOUND<br></li><li>Contagion VR: Outbreak<br></li><li>Contractors<br></li><li>Crooked Waters<br></li><li>Dead Effect 2 VR<br></li><li>Dreadhalls<br></li><li>The Elder Scrolls V: Skyrim VR<br></li><li>Fallout 4 VR<br></li><li>The Forest<br></li><li>Frankenstein: Beyond the Time<br></li><li>The Gallery: Heart of the Emberstone<br></li><li>GORN<br></li><li>Heart of the Emberstone: Colliseum<br></li><li>Hot Dogs, Horseshoes &amp; Hand Grenades<br></li><li>In Death<br></li><li>Island 359<br></li><li>Karnage Chronicles<br></li><li>Minecraft (with Vivecraft)<br></li><li>OrbusVR<br></li><li>Pavlov VR<br></li><li>PAYDAY 2 VR<br></li><li>Primordian<br></li><li>Protonwar<br></li><li>Rec Room<br></li><li>Serious Sam 3 VR: BFE<br></li><li>Serious Sam VR: The First Encounter<br></li><li>Serious Sam VR: The Second Encounter<br></li><li>The Talos Principle VR<br></li><li>Vanishing Realms<br></li><li>Vengeful Rites<br></li><li>Vengeful Rites Demo<br></li><li>VR Dungeon Knight<br></li><li>VRChat<br></li><li>WAR DUST<br></li><li>Witching Tower<br></li><li>The Wizards<br></li><li>Kartong (Vive, Rift only for now)<br></li><li>Onward (Vive, Rift only for now)<br></li><li>Robinson: The Journey (Vive, WMR only for now)<br></li><li>Serious Sam VR: The Last Hope (Vive, WMR only for now)<br></li><li>STAND OUT (Rift only for now)</li></ul><br>This list will be growing a lot during the following weeks. You can also try to make your own profiles.<br><br>Some profiles are available in some headsets only (or not at all) due to technical limitations that will be fixed soon.",
+            "short_description": "Move naturally in virtual reality in any SteamVR game that supports trackpad/stick locomotion. More immersion, more comfort!",
+            "supported_languages": "English",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/798810/header.jpg?t=1545928416",
+            "website": null,
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>Processor:</strong> Intel™ Core™ i5-4590 or AMD FX™ 8350, equivalent or better<br></li><li><strong>Memory:</strong> 4096 MB RAM<br></li><li><strong>Graphics:</strong> Nvidia Geforce GTX 1060 6GB or similar (demo only)<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 400 MB available space</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>Processor:</strong> Intel™ Core™ i5-4590 or AMD FX™ 8350, equivalent or better<br></li><li><strong>Memory:</strong> 4096 MB RAM<br></li><li><strong>Graphics:</strong> Nvidia Geforce GTX 1080 or similar (demo only)<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 400 MB available space</li></ul>"
+            },
+            "mac_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+            },
+            "linux_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+            },
+            "developers": [
+                "Myou"
+            ],
+            "publishers": [
+                "Myou"
+            ],
+            "demos": [
+                {
+                    "appid": 829230,
+                    "description": ""
+                }
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 999,
+                "final": 999,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "9,99€"
+            },
+            "packages": [
+                242705
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Natural Locomotion",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 242705,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Natural Locomotion - 9,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 999
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "28",
+                    "description": "Simulation"
+                },
+                {
+                    "id": "57",
+                    "description": "Utilities"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/798810/ss_1d7a93c3f17123b9394550f0a154d69904bfd5fb.600x338.jpg?t=1545928416",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/798810/ss_1d7a93c3f17123b9394550f0a154d69904bfd5fb.1920x1080.jpg?t=1545928416"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/798810/ss_15ea80de7a97f7757478649221c2c1f931642b85.600x338.jpg?t=1545928416",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/798810/ss_15ea80de7a97f7757478649221c2c1f931642b85.1920x1080.jpg?t=1545928416"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/798810/ss_bc267945a731c4a0de6848de03cb79ec4259f5b8.600x338.jpg?t=1545928416",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/798810/ss_bc267945a731c4a0de6848de03cb79ec4259f5b8.1920x1080.jpg?t=1545928416"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/798810/ss_a1acd21e7ad48a1698a6a67f04a35bd9a1ccd326.600x338.jpg?t=1545928416",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/798810/ss_a1acd21e7ad48a1698a6a67f04a35bd9a1ccd326.1920x1080.jpg?t=1545928416"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/798810/ss_1cd750b5b8e4623249378d95fbeb299835b26559.600x338.jpg?t=1545928416",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/798810/ss_1cd750b5b8e4623249378d95fbeb299835b26559.1920x1080.jpg?t=1545928416"
+                },
+                {
+                    "id": 5,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/798810/ss_cb2487e3832e3bb53b5539befa435a2b005c81d8.600x338.jpg?t=1545928416",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/798810/ss_cb2487e3832e3bb53b5539befa435a2b005c81d8.1920x1080.jpg?t=1545928416"
+                },
+                {
+                    "id": 6,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/798810/ss_63e68c2790660566ac071da8106aa0eb60716d18.600x338.jpg?t=1545928416",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/798810/ss_63e68c2790660566ac071da8106aa0eb60716d18.1920x1080.jpg?t=1545928416"
+                },
+                {
+                    "id": 7,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/798810/ss_27617980f343ba9d27b825010ddfd6f20a61a8e3.600x338.jpg?t=1545928416",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/798810/ss_27617980f343ba9d27b825010ddfd6f20a61a8e3.1920x1080.jpg?t=1545928416"
+                },
+                {
+                    "id": 8,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/798810/ss_9ea212b6c433b91b3ef86cc49e45157541ec0397.600x338.jpg?t=1545928416",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/798810/ss_9ea212b6c433b91b3ef86cc49e45157541ec0397.1920x1080.jpg?t=1545928416"
+                },
+                {
+                    "id": 9,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/798810/ss_cc149f69b7324fb3ddc75d454ab8169fe749b9a9.600x338.jpg?t=1545928416",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/798810/ss_cc149f69b7324fb3ddc75d454ab8169fe749b9a9.1920x1080.jpg?t=1545928416"
+                },
+                {
+                    "id": 10,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/798810/ss_09da6b47edbe8577b23d9319c68a6da1ecd94947.600x338.jpg?t=1545928416",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/798810/ss_09da6b47edbe8577b23d9319c68a6da1ecd94947.1920x1080.jpg?t=1545928416"
+                },
+                {
+                    "id": 11,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/798810/ss_5ad07e628112e9ad832e3570d176b2911f09468a.600x338.jpg?t=1545928416",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/798810/ss_5ad07e628112e9ad832e3570d176b2911f09468a.1920x1080.jpg?t=1545928416"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 256713314,
+                    "name": "Trailer",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256713314/movie.293x165.jpg?t=1522865758",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256713314/movie480.webm?t=1522865758",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256713314/movie_max.webm?t=1522865758"
+                    },
+                    "highlight": true
+                },
+                {
+                    "id": 256716039,
+                    "name": "HowToMoveAround",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256716039/movie.293x165.jpg?t=1525475138",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256716039/movie480.webm?t=1525475138",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256716039/movie_max.webm?t=1525475138"
+                    },
+                    "highlight": true
+                }
+            ],
+            "recommendations": {
+                "total": 180
+            },
+            "achievements": {
+                "total": 0
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "7 Apr, 2018"
+            },
+            "support_info": {
+                "url": "",
+                "email": "kungfoobar@gmail.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/798810/page_bg_generated_v6b.jpg?t=1545928416",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

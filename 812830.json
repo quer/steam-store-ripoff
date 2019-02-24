@@ -1,0 +1,116 @@
+{
+    "812830": {
+        "success": true,
+        "data": {
+            "type": "dlc",
+            "name": "Porradaria 2 - Sem Censura",
+            "steam_appid": 812830,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "Este <i>DLC</i> remove a censura dentro do jogo.",
+            "about_the_game": "Este <i>DLC</i> remove a censura dentro do jogo.",
+            "short_description": "Este DLC remove a censura dentro do jogo.",
+            "fullgame": {
+                "appid": "431220",
+                "name": "Porradaria 2: Pagode of the Night"
+            },
+            "supported_languages": "Portuguese - Brazil",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/812830/header.jpg?t=1550693847",
+            "website": "http://cleanwatersoft.com.br",
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Microsoft® Windows® 7 ou superior<br></li><li><strong>Processor:</strong> Intel® Pentium®4 1.5GHz ou superior<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 22 MB available space</li></ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 14.04 ou superior<br></li><li><strong>Processor:</strong> Intel® Pentium®4 1.5GHz ou superior<br></li><li><strong>Storage:</strong> 27 MB available space<br></li><li><strong>Additional Notes:</strong> Placa de vídeo e driver compatíveis com OpenGL</li></ul>"
+            },
+            "developers": [
+                "CleanWaterSoft"
+            ],
+            "publishers": [
+                "CleanWaterSoft"
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 159,
+                "final": 159,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "1,59€"
+            },
+            "packages": [
+                248303
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Porradaria 2 - Sem Censura",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 248303,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Porradaria 2 - Sem Censura - 1,59€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 159
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": true
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 21,
+                    "description": "Downloadable Content"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "23",
+                    "description": "Indie"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/812830/ss_8a694dbe909537af367f4f5416207a5c2c1dae6a.600x338.jpg?t=1550693847",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/812830/ss_8a694dbe909537af367f4f5416207a5c2c1dae6a.1920x1080.jpg?t=1550693847"
+                }
+            ],
+            "achievements": {
+                "total": 0
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "23 Mar, 2018"
+            },
+            "support_info": {
+                "url": "http://cleanwatersoft.com.br",
+                "email": "contato@cleanwatersoft.com.br"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/812830/page_bg_generated_v6b.jpg?t=1550693847",
+            "content_descriptors": {
+                "ids": [
+                    1,
+                    5
+                ],
+                "notes": "This games removes the \"censorship bar\" from Save Statues, and also from the Artwork Gallery Extras."
+            }
+        }
+    }
+}

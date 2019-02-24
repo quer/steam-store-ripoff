@@ -1,0 +1,267 @@
+{
+    "270010": {
+        "success": true,
+        "data": {
+            "type": "game",
+            "name": "Time Rifters",
+            "steam_appid": 270010,
+            "required_age": 0,
+            "is_free": false,
+            "controller_support": "full",
+            "detailed_description": "<h1>Challenge Update</h1><p>Free for all Time Rifters owners.<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/270010/extras/challenge.png?t=1531767163\" ><br>Team-up with yourself &amp; compete for a highscore in the Daily Challenge; a maze of user created rooms that have been uploaded to the Steam Workshop. Feeling a bit more creative? Create &amp; share your own custom rooms &amp; arenas using the new editor tools.<br><a href=\"http://steamcommunity.com/app/270010/discussions/0/624075566838236940/\" target=\"_blank\" rel=\"noreferrer\"  >Join the discussion on our Steam Forums</a>.</p><br><h1>Steam Workshop</h1><p>Play arenas and Let's Replays created by the community. Want to create your own? Use the in-game tools to record a Let’s Replay or design your own levels (which may be used in Daily Challenge).</p><br><h1>About the Game</h1>Be your own teammates in this unique single-player co-op shooter!<br><br>You have 4 lives, destroy as many enemies as possible. With each new life you’ll be joined by ghosts of your previous lives. <br><br>The Let’s Replay mode lets you play with other people’s ghosts that have been uploaded to the Steam Workshop.<br><br><ul class=\"bb_ul\"><li>6 upgradable weapons<br></li><li>3 episodes with 5 arenas each<br></li><li>Highscore boards<br></li><li>Custom-made soundtrack<br></li><li>Single Player Co-op<br></li><li>Let's Replay system (asynchronous multi-player mode)</li></ul>",
+            "about_the_game": "Be your own teammates in this unique single-player co-op shooter!<br><br>You have 4 lives, destroy as many enemies as possible. With each new life you’ll be joined by ghosts of your previous lives. <br><br>The Let’s Replay mode lets you play with other people’s ghosts that have been uploaded to the Steam Workshop.<br><br><ul class=\"bb_ul\"><li>6 upgradable weapons<br></li><li>3 episodes with 5 arenas each<br></li><li>Highscore boards<br></li><li>Custom-made soundtrack<br></li><li>Single Player Co-op<br></li><li>Let's Replay system (asynchronous multi-player mode)</li></ul>",
+            "short_description": "Be your own teammates in this unique single-player co-op shooter!",
+            "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/270010/header.jpg?t=1531767163",
+            "website": "http://www.timerifters.net/",
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP / Vista / Windows 7 / Windows 8<br></li><li><strong>Processor:</strong> 2.0 GHz or higher<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> DirectX 9 or OpenGL 3 compatible video card<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
+            },
+            "mac_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OSX 10.6 +<br></li><li><strong>Processor:</strong> 2.0 GHz or better<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL 3 compatible video card<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
+            },
+            "linux_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ububtu 12.04 LTS<br></li><li><strong>Processor:</strong> 2.0 GHz or better<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> DirectX D10 or OpenGL 3 compatible video card<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
+            },
+            "developers": [
+                "Proton Studio Inc"
+            ],
+            "publishers": [
+                " "
+            ],
+            "demos": [
+                {
+                    "appid": 348110,
+                    "description": ""
+                }
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 999,
+                "final": 999,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "9,99€"
+            },
+            "packages": [
+                35824
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Time Rifters",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 35824,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Time Rifters - 9,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 999
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": true,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 22,
+                    "description": "Steam Achievements"
+                },
+                {
+                    "id": 28,
+                    "description": "Full controller support"
+                },
+                {
+                    "id": 29,
+                    "description": "Steam Trading Cards"
+                },
+                {
+                    "id": 30,
+                    "description": "Steam Workshop"
+                },
+                {
+                    "id": 25,
+                    "description": "Steam Leaderboards"
+                },
+                {
+                    "id": 17,
+                    "description": "Includes level editor"
+                },
+                {
+                    "id": 14,
+                    "description": "Commentary available"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "1",
+                    "description": "Action"
+                },
+                {
+                    "id": "4",
+                    "description": "Casual"
+                },
+                {
+                    "id": "23",
+                    "description": "Indie"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/270010/ss_21354ac9d56d62c9c6a88f2df506d4a43601e44c.600x338.jpg?t=1531767163",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/270010/ss_21354ac9d56d62c9c6a88f2df506d4a43601e44c.1920x1080.jpg?t=1531767163"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/270010/ss_f17d41085e9aa353f76c81ca8e36d317e8ce66d2.600x338.jpg?t=1531767163",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/270010/ss_f17d41085e9aa353f76c81ca8e36d317e8ce66d2.1920x1080.jpg?t=1531767163"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/270010/ss_6d21b3685028e554d62d7df4649f24b2576788fb.600x338.jpg?t=1531767163",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/270010/ss_6d21b3685028e554d62d7df4649f24b2576788fb.1920x1080.jpg?t=1531767163"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/270010/ss_70a4e6464c991bae924a644f80913c1bb811271d.600x338.jpg?t=1531767163",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/270010/ss_70a4e6464c991bae924a644f80913c1bb811271d.1920x1080.jpg?t=1531767163"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/270010/ss_1abbadd5bc233d3fc2b1131fe7dfaaa34ee78312.600x338.jpg?t=1531767163",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/270010/ss_1abbadd5bc233d3fc2b1131fe7dfaaa34ee78312.1920x1080.jpg?t=1531767163"
+                },
+                {
+                    "id": 5,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/270010/ss_2202ff735a9b32d6f0a49c438dd77be9d8f421f9.600x338.jpg?t=1531767163",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/270010/ss_2202ff735a9b32d6f0a49c438dd77be9d8f421f9.1920x1080.jpg?t=1531767163"
+                },
+                {
+                    "id": 6,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/270010/ss_d150727c24b3dd9d4652988bc655c926caaf453e.600x338.jpg?t=1531767163",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/270010/ss_d150727c24b3dd9d4652988bc655c926caaf453e.1920x1080.jpg?t=1531767163"
+                },
+                {
+                    "id": 7,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/270010/ss_21ca6c70aa38f1d014735c7a4f968d6be9a69820.600x338.jpg?t=1531767163",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/270010/ss_21ca6c70aa38f1d014735c7a4f968d6be9a69820.1920x1080.jpg?t=1531767163"
+                },
+                {
+                    "id": 8,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/270010/ss_f135420ed7d267955530f16bcbf3de95f39ccb5c.600x338.jpg?t=1531767163",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/270010/ss_f135420ed7d267955530f16bcbf3de95f39ccb5c.1920x1080.jpg?t=1531767163"
+                },
+                {
+                    "id": 9,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/270010/ss_1547b799a25defbe809c5d66452eb89e69903eba.600x338.jpg?t=1531767163",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/270010/ss_1547b799a25defbe809c5d66452eb89e69903eba.1920x1080.jpg?t=1531767163"
+                },
+                {
+                    "id": 10,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/270010/ss_8629e121ccbed145bc86526abc2725ce01697a23.600x338.jpg?t=1531767163",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/270010/ss_8629e121ccbed145bc86526abc2725ce01697a23.1920x1080.jpg?t=1531767163"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 2034944,
+                    "name": "Time Rifters Launch Trailer",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/2034944/movie.293x165.jpg?t=1447364187",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/2034944/movie480.webm?t=1447364187",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/2034944/movie_max.webm?t=1447364187"
+                    },
+                    "highlight": true
+                },
+                {
+                    "id": 2035791,
+                    "name": "Time Rifters Challenge Update",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/2035791/movie.293x165.jpg?t=1447365390",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/2035791/movie480.webm?t=1447365390",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/2035791/movie_max.webm?t=1447365390"
+                    },
+                    "highlight": true
+                }
+            ],
+            "recommendations": {
+                "total": 255
+            },
+            "achievements": {
+                "total": 35,
+                "highlighted": [
+                    {
+                        "name": "Experiment 1",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/270010/d69a2b28d4c0f340b97ca83389d46713e084a719.jpg"
+                    },
+                    {
+                        "name": "Experiment 2",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/270010/5499bb2e1ccd1235f4948e8b98fcabf5e298745e.jpg"
+                    },
+                    {
+                        "name": "Experiment 3",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/270010/3ae3d923747a4e0a02464153647e9fc84993e6bf.jpg"
+                    },
+                    {
+                        "name": "Diamond Club 1",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/270010/a1bc99975151a78807f5ab51a006e4b855e08744.jpg"
+                    },
+                    {
+                        "name": "Diamond Club 2",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/270010/2e2d219ed7aa5081d719815189b3192b59a4ab73.jpg"
+                    },
+                    {
+                        "name": "Diamond Club 3",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/270010/ca517a2055d74ed8c32ecae45222792dae4b3952.jpg"
+                    },
+                    {
+                        "name": "Capture Time",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/270010/376b88b80a85b6b62a7673663c4c76f353448050.jpg"
+                    },
+                    {
+                        "name": "Time Traveller",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/270010/8fb91b925fffc01dd28e037253d8b03e02de6393.jpg"
+                    },
+                    {
+                        "name": "Testing Reality's Limits 1",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/270010/96fae33617a0f2cfd6a72376a7eebdeadac41bcb.jpg"
+                    },
+                    {
+                        "name": "Testing Reality's Limits 2",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/270010/6f3eac0573f0a1efbae2a6a73663a0f8b20ef108.jpg"
+                    }
+                ]
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "21 Oct, 2014"
+            },
+            "support_info": {
+                "url": "http://www.protonstudio.com/",
+                "email": "info@protonstudio.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/270010/page_bg_generated_v6b.jpg?t=1531767163",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

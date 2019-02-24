@@ -1,0 +1,130 @@
+{
+    "846280": {
+        "success": true,
+        "data": {
+            "type": "dlc",
+            "name": "RutonyChat - Rename Streams",
+            "steam_appid": 846280,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "DLC for the program RutonyChat.<br />\r\n<br />\r\nAllows you to rename titles for the broadcast on the sites:<br />\r\n- Twitch<br />\r\n- GoodGame<br />\r\n- Youtube<br />\r\n- VKontakte<br />\r\n<br />\r\nThe advantage is that you edit the titles, game, etc. of all broadcasts in one window. Also there is support for templates that allow you to quickly specify the titles of the previously saved template.<br />\r\n<br />\r\nImportant!<br />\r\nThis add-on requires connection to sites.<br />\r\nFor Twitch, you need to enabled Alerts - Subscriber and/or Host.<br />\r\nVKontakte can only be renamed when a translation is alive.<br />\r\nGoodgame requires a connected of Alerts - Subscribers.",
+            "about_the_game": "DLC for the program RutonyChat.<br />\r\n<br />\r\nAllows you to rename titles for the broadcast on the sites:<br />\r\n- Twitch<br />\r\n- GoodGame<br />\r\n- Youtube<br />\r\n- VKontakte<br />\r\n<br />\r\nThe advantage is that you edit the titles, game, etc. of all broadcasts in one window. Also there is support for templates that allow you to quickly specify the titles of the previously saved template.<br />\r\n<br />\r\nImportant!<br />\r\nThis add-on requires connection to sites.<br />\r\nFor Twitch, you need to enabled Alerts - Subscriber and/or Host.<br />\r\nVKontakte can only be renamed when a translation is alive.<br />\r\nGoodgame requires a connected of Alerts - Subscribers.",
+            "short_description": "The advantage is that you edit the titles, game, etc. of all broadcasts in one window.",
+            "fullgame": {
+                "appid": "524660",
+                "name": "RutonyChat"
+            },
+            "supported_languages": "English, Russian",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/846280/header.jpg?t=1524769293",
+            "website": "http://rutony-studio.com/en/rutonychat/",
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows Vista, 7, 8, 10<br></li><li><strong>Processor:</strong> 1 GHz+<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 30 MB available space<br></li><li><strong>Additional Notes:</strong> .NET Framework 4.5.2 x86</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> latest processors<br></li><li><strong>Graphics:</strong> Any<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 30 MB available space<br></li><li><strong>Additional Notes:</strong> .NET Framework 4.5.2 x86</li></ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "developers": [
+                "Rutony Studio"
+            ],
+            "publishers": [
+                ""
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 189,
+                "final": 189,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "1,89€"
+            },
+            "packages": [
+                264735
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy RutonyChat - Rename Streams",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 264735,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "RutonyChat - Rename Streams - 1,89€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 189
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 21,
+                    "description": "Downloadable Content"
+                },
+                {
+                    "id": 22,
+                    "description": "Steam Achievements"
+                },
+                {
+                    "id": 30,
+                    "description": "Steam Workshop"
+                },
+                {
+                    "id": 23,
+                    "description": "Steam Cloud"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "57",
+                    "description": "Utilities"
+                },
+                {
+                    "id": "58",
+                    "description": "Video Production"
+                },
+                {
+                    "id": "59",
+                    "description": "Web Publishing"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/846280/ss_257906c906844f86273318bda08b5906828ff9e3.600x338.jpg?t=1524769293",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/846280/ss_257906c906844f86273318bda08b5906828ff9e3.1920x1080.jpg?t=1524769293"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/846280/ss_16a372dd1af0492a271c536afe8aa3a0d1458f61.600x338.jpg?t=1524769293",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/846280/ss_16a372dd1af0492a271c536afe8aa3a0d1458f61.1920x1080.jpg?t=1524769293"
+                }
+            ],
+            "release_date": {
+                "coming_soon": false,
+                "date": "26 Apr, 2018"
+            },
+            "support_info": {
+                "url": "",
+                "email": "support@rutony-studio.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/846280/page_bg_generated_v6b.jpg?t=1524769293",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

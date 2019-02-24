@@ -1,0 +1,80 @@
+{
+    "435961": {
+        "success": true,
+        "data": {
+            "type": "dlc",
+            "name": "Simutrans - Workshop Tools",
+            "steam_appid": 435961,
+            "required_age": 0,
+            "is_free": true,
+            "detailed_description": "This provides tools for creation and uploading Workshop content for Simutrans.<br />\r\nIncluded applications are:<br />\r\nSimutransWorkshop - Workshop uploader for Simutrans<br />\r\nMakeObj - PAK file creation tool<br />\r\nTileCutter - Application to make it easier to create tiles for use with MakeObj.",
+            "about_the_game": "This provides tools for creation and uploading Workshop content for Simutrans.<br />\r\nIncluded applications are:<br />\r\nSimutransWorkshop - Workshop uploader for Simutrans<br />\r\nMakeObj - PAK file creation tool<br />\r\nTileCutter - Application to make it easier to create tiles for use with MakeObj.",
+            "short_description": "This provides tools for creation and uploading Workshop content for Simutrans.",
+            "fullgame": {
+                "appid": "434520",
+                "name": "Simutrans"
+            },
+            "supported_languages": "English",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/435961/header.jpg?t=1467666645",
+            "website": "http://www.simutrans.com",
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Storage:</strong> 18 MB available space</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>Storage:</strong> 18 MB available space</li></ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Storage:</strong> 4 MB available space</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>Storage:</strong> 4 MB available space</li></ul>"
+            },
+            "developers": [
+                "The Simutrans Team"
+            ],
+            "publishers": [
+                ""
+            ],
+            "package_groups": [],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 1,
+                    "description": "Multi-player"
+                },
+                {
+                    "id": 21,
+                    "description": "Downloadable Content"
+                },
+                {
+                    "id": 30,
+                    "description": "Steam Workshop"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "28",
+                    "description": "Simulation"
+                }
+            ],
+            "release_date": {
+                "coming_soon": false,
+                "date": "4 Jul, 2016"
+            },
+            "support_info": {
+                "url": "http://forum.simutrans.com/",
+                "email": ""
+            },
+            "background": "",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

@@ -1,0 +1,114 @@
+{
+    "532610": {
+        "success": true,
+        "data": {
+            "type": "dlc",
+            "name": "Aegis - OST",
+            "steam_appid": 532610,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "The OST for Aegis composed by the very talented Jim Hall",
+            "about_the_game": "The OST for Aegis composed by the very talented Jim Hall",
+            "short_description": "The OST for Aegis composed by the very talented Jim Hall",
+            "fullgame": {
+                "appid": "530520",
+                "name": "Aegis"
+            },
+            "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/532610/header.jpg?t=1475791293",
+            "website": null,
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP / Vista / 7<br></li><li><strong>Processor:</strong> 2 GHz Dual Core<br></li><li><strong>Memory:</strong> 1 MB RAM<br></li><li><strong>Graphics:</strong> 1280x720p minimum resolution, recommended dedicated graphics card and 16x9 resolution.<br></li><li><strong>Storage:</strong> 300 MB available space<br></li><li><strong>Additional Notes:</strong> Resolutions other than 16x9 and also portrait view monitors have been known to cause UI scaling issues.</li></ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Any<br></li><li><strong>Processor:</strong> 2 GHz Dual Core<br></li><li><strong>Memory:</strong> 1 MB RAM<br></li><li><strong>Graphics:</strong> 1280x720p minimum resolution, recommended dedicated graphics card and 16x9 resolution.<br></li><li><strong>Storage:</strong> 300 MB available space<br></li><li><strong>Additional Notes:</strong> Resolutions other than 16x9 and also portrait view monitors have been known to cause UI scaling issues.</li></ul>"
+            },
+            "developers": [
+                "Innuendo Squad Studios"
+            ],
+            "publishers": [
+                ""
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 99,
+                "final": 99,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "0,99€"
+            },
+            "packages": [
+                128786
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Aegis - OST",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 128786,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Aegis - OST - 0,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 99
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 21,
+                    "description": "Downloadable Content"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "1",
+                    "description": "Action"
+                },
+                {
+                    "id": "23",
+                    "description": "Indie"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/532610/ss_4ebf65996b981bc70a3f2fe5bf3ff01175412313.600x338.jpg?t=1475791293",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/532610/ss_4ebf65996b981bc70a3f2fe5bf3ff01175412313.1920x1080.jpg?t=1475791293"
+                }
+            ],
+            "release_date": {
+                "coming_soon": false,
+                "date": "6 Oct, 2016"
+            },
+            "support_info": {
+                "url": "",
+                "email": "eduardo@innuendosquadstudios.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/532610/page_bg_generated_v6b.jpg?t=1475791293",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

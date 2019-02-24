@@ -1,0 +1,68 @@
+{
+    "9130": {
+        "success": true,
+        "data": {
+            "type": "demo",
+            "name": "Quake II Demo",
+            "steam_appid": 9130,
+            "required_age": 0,
+            "is_free": true,
+            "detailed_description": "",
+            "about_the_game": "",
+            "short_description": "",
+            "fullgame": {
+                "appid": "2320",
+                "name": "QUAKE II"
+            },
+            "supported_languages": "English",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/9130/header.jpg?t=1447351119",
+            "website": null,
+            "pc_requirements": {
+                "minimum": "<p><strong>Minimum: </strong>A 100% Windows XP/Vista-compatible computer system</p>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "developers": [
+                "id Software"
+            ],
+            "publishers": [
+                "id Software"
+            ],
+            "package_groups": [],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 10,
+                    "description": "Game demo"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "1",
+                    "description": "Action"
+                }
+            ],
+            "release_date": {
+                "coming_soon": false,
+                "date": "3 Aug, 2007"
+            },
+            "support_info": {
+                "url": "",
+                "email": ""
+            },
+            "background": "",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

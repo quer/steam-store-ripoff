@@ -1,0 +1,160 @@
+{
+    "812400": {
+        "success": true,
+        "data": {
+            "type": "series",
+            "name": "BFG Unlocked Against All Odds",
+            "steam_appid": 812400,
+            "required_age": 0,
+            "is_free": true,
+            "controller_support": "full",
+            "detailed_description": "<h1>Steam Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>#label_about_the_series</h1>The team at Black Forest Games is planning the Early Access release of their new survival game. There is only one slot left and time is running out. But then unexpected problems occur. Join the developers of BFG on their wild journey from the announcement of 'Fade to Silence' until the first updates. One hour packed with insights into a game developer's life.",
+            "about_the_game": "The team at Black Forest Games is planning the Early Access release of their new survival game. There is only one slot left and time is running out. But then unexpected problems occur. Join the developers of BFG on their wild journey from the announcement of 'Fade to Silence' until the first updates. One hour packed with insights into a game developer's life.",
+            "short_description": "The team at Black Forest Games is planning the Early Access release of their new survival game. There is only one slot left and time is running out. But then unexpected problems occur. Join the developers of BFG on their wild journey from the announcement of 'Fade to Silence' until the first updates.",
+            "fullgame": {
+                "appid": null,
+                "name": "Uninitialized"
+            },
+            "supported_languages": "English",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/812400/header.jpg?t=1529591948",
+            "website": null,
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong> Intel Core 2 or AMD equivalent<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 200 MB available space<br></li><li><strong>Additional Notes:</strong> Network Bandwidth of 5Mbps for 540p, 3Mbps for 360p.</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Intel Core I3+ or AMD equivalent recommended for HD 1080p playback<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 500 MB available space<br></li><li><strong>Additional Notes:</strong> Network Bandwidth of 12Mbps for 1080p or 8Mbps for 720p.</li></ul>"
+            },
+            "mac_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OSX 10.7<br></li><li><strong>Processor:</strong> Intel Core 2 or AMD equivalent<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 200 MB available space<br></li><li><strong>Additional Notes:</strong> Network Bandwidth of 5Mbps for 540p, 3Mbps for 360p.</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OSX 10.10+<br></li><li><strong>Processor:</strong> Intel Core I3+ or AMD equivalent recommended for HD 1080p playback<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 500 MB available space<br></li><li><strong>Additional Notes:</strong> Network Bandwidth of 12Mbps for 1080p or 8Mbps for 720p.</li></ul>"
+            },
+            "linux_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Linux Ubuntu 12.04 or later, SteamOS 2.20 or later<br></li><li><strong>Processor:</strong> Intel Core 2 or AMD equivalent<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 200 MB available space<br></li><li><strong>Additional Notes:</strong> Network Bandwidth of 5Mbps for 540p, 3Mbps for 360p.</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Linux Ubuntu 12.04 or later, SteamOS 2.20 or later<br></li><li><strong>Processor:</strong> Intel Core I3+ or AMD equivalent recommended for HD 1080p playback<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 500 MB available space<br></li><li><strong>Additional Notes:</strong> Network Bandwidth of 12Mbps for 1080p or 8Mbps for 720p.</li></ul>"
+            },
+            "legal_notice": "© 2018 THQ Nordic AB. Developed by Black Forest Games. All rights reserved. All other trademarks, logos and copyrights are property of their respective owners.",
+            "developers": [
+                "Black Forest Games"
+            ],
+            "publishers": [
+                "THQ Nordic"
+            ],
+            "packages": [
+                248084,
+                248084
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy BFG Unlocked Against All Odds",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 248084,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "BFG Unlocked Against All Odds - Free",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": true,
+                            "price_in_cents_with_discount": 0
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": true,
+                "linux": true
+            },
+            "categories": [
+                {
+                    "id": 28,
+                    "description": "Full controller support"
+                },
+                {
+                    "id": 33,
+                    "description": "Native Steam Controller Support"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "81",
+                    "description": "Documentary"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/812400/ss_99194b1870a7b69cecabe982eaa73a37b8a800b5.600x338.jpg?t=1529591948",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/812400/ss_99194b1870a7b69cecabe982eaa73a37b8a800b5.1920x1080.jpg?t=1529591948"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/812400/ss_2360ca86bed2618a525d9b8fa9923fbcb7174205.600x338.jpg?t=1529591948",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/812400/ss_2360ca86bed2618a525d9b8fa9923fbcb7174205.1920x1080.jpg?t=1529591948"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/812400/ss_5d2e592e1c6915c65c7f9101cba16fa273c5cb2e.600x338.jpg?t=1529591948",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/812400/ss_5d2e592e1c6915c65c7f9101cba16fa273c5cb2e.1920x1080.jpg?t=1529591948"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/812400/ss_a767f70f066795f51b3f936604d2c48165fdb3e9.600x338.jpg?t=1529591948",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/812400/ss_a767f70f066795f51b3f936604d2c48165fdb3e9.1920x1080.jpg?t=1529591948"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/812400/ss_fcf10623f54e15240cc90a7761b87c4f8e0e5698.600x338.jpg?t=1529591948",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/812400/ss_fcf10623f54e15240cc90a7761b87c4f8e0e5698.1920x1080.jpg?t=1529591948"
+                },
+                {
+                    "id": 5,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/812400/ss_2f2bea373670aa117718417b3b02f53a2ffe669a.600x338.jpg?t=1529591948",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/812400/ss_2f2bea373670aa117718417b3b02f53a2ffe669a.1920x1080.jpg?t=1529591948"
+                },
+                {
+                    "id": 6,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/812400/ss_26c5b38c39b58c40eaf01bb68caa72304e23e842.600x338.jpg?t=1529591948",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/812400/ss_26c5b38c39b58c40eaf01bb68caa72304e23e842.1920x1080.jpg?t=1529591948"
+                },
+                {
+                    "id": 7,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/812400/ss_8c43ad1202b7bc5b4cd9d55a5e662824e1b5d56a.600x338.jpg?t=1529591948",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/812400/ss_8c43ad1202b7bc5b4cd9d55a5e662824e1b5d56a.1920x1080.jpg?t=1529591948"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 256714092,
+                    "name": "BFG Unlocked 1",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256714092/movie.293x165.jpg?t=1524564435",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256714092/movie480.webm?t=1524564435",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256714092/movie_max.webm?t=1524564435"
+                    },
+                    "highlight": true
+                }
+            ],
+            "achievements": {
+                "total": 0
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "24 Apr, 2018"
+            },
+            "support_info": {
+                "url": "",
+                "email": "support@bfgames.biz"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/812400/page_bg_generated_v6b.jpg?t=1529591948",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

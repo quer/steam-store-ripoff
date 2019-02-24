@@ -1,0 +1,123 @@
+{
+    "432200": {
+        "success": true,
+        "data": {
+            "type": "game",
+            "name": "Voice of the Citizens - .NET Voice Hotkey App",
+            "steam_appid": 432200,
+            "required_age": 0,
+            "is_free": true,
+            "detailed_description": "<i>Developer's Note: This is being worked on whenever the time is available. Updates might not come regularly and I want to apologize in advance for that. Steady wins the race. Right now the GUI is undergoing an overhaul.</i><h2 class=\"bb_tag\">Voice of the Citizens</h2>VOTC was originally created for playing StarCitizen but can be used for any game that is playable on Windows (possibly even applications). While there is support for many games, there are games that at this time have no VOTC support. In order to solve this problem, I have implemented the Steam Workshop where anyone (even you!) can upload and share scripts with other users.<br><br>VOTC was quickly realized to be not quite as user­friendly as competing application (Voice Attack) so the goal was shifted: VOTC is not built for the average user, however Tech­savvy individuals can easily get started in using it. VOTC is an additional layer of abstraction over the RealSense SDK providing a way to access the RealSense API asier. This allows easy interaction between RealSense and Games/Applications in an environment that promotes user interaction. This benefits all parties.<h2 class=\"bb_tag\">WINDOWS 10 READY</h2> VOTC requires at least Windows 8.1 but Windows 10 is highly recommended as this is the platform it was developed and tested on.<h2 class=\"bb_tag\">Creating Scripts</h2>VOTC gives you the ability to write scripts in any .NET language!. You have full access to every single feature including libraries, however if your script attempts to use Sockets/Listeners your script will be flagged for administrator review until it has been confirmed that the script does nothing malicious. Safety first, m'kay?<br>You can find samples and tutorials on the workshop page!<h2 class=\"bb_tag\">FEATURES</h2> <br><ul class=\"bb_ul\"><li>Control any game or application with your voice ­ as long as there is a script for the game (feel free to make one!)<br></li><li>Built­in media player (Others like Online Radio, Spotify, SoundCloud, etc. are scripts on the workshop)<br></li><li>In­game overlay with FPS (frames per second) counter with the ability to take screenshots<br></li><li>Facebook &amp; Twitter integration<br></li><li>Script Workshop ­ Download scripts or upload your own<br></li><li>Utilizes Intel RealSense speech recognizer (by Nuance) for outstanding accuracy<br></li><li>Supports various languages, not limited to the language set on your computer<br></li><li>Hardware Sensors ­- check your CPU &amp; GPU temperatures and more</li></ul><h2 class=\"bb_tag\">CREDITS</h2><br><a href=\"https://steamcommunity.com/linkfilter/?url=https://www.facebook.com/groups/623473311006319\" target=\"_blank\" rel=\"noopener\"  >The Star Citizen Facebook Group</a> who helped me test it from day ONE. I've met some amazing people there and made many new friends. They even came up with the name for VOTC!<h2 class=\"bb_tag\">Stay in touch</h2>Facebook: <a href=\"https://steamcommunity.com/linkfilter/?url=https://www.facebook.com/voiceofthecitizens\" target=\"_blank\" rel=\"noopener\"  >VOTC</a><br>Twitter: <a href=\"https://twitter.com/VOTC_Dude\" target=\"_blank\" rel=\"noreferrer\"  >VOTC</a>",
+            "about_the_game": "<i>Developer's Note: This is being worked on whenever the time is available. Updates might not come regularly and I want to apologize in advance for that. Steady wins the race. Right now the GUI is undergoing an overhaul.</i><h2 class=\"bb_tag\">Voice of the Citizens</h2>VOTC was originally created for playing StarCitizen but can be used for any game that is playable on Windows (possibly even applications). While there is support for many games, there are games that at this time have no VOTC support. In order to solve this problem, I have implemented the Steam Workshop where anyone (even you!) can upload and share scripts with other users.<br><br>VOTC was quickly realized to be not quite as user­friendly as competing application (Voice Attack) so the goal was shifted: VOTC is not built for the average user, however Tech­savvy individuals can easily get started in using it. VOTC is an additional layer of abstraction over the RealSense SDK providing a way to access the RealSense API asier. This allows easy interaction between RealSense and Games/Applications in an environment that promotes user interaction. This benefits all parties.<h2 class=\"bb_tag\">WINDOWS 10 READY</h2> VOTC requires at least Windows 8.1 but Windows 10 is highly recommended as this is the platform it was developed and tested on.<h2 class=\"bb_tag\">Creating Scripts</h2>VOTC gives you the ability to write scripts in any .NET language!. You have full access to every single feature including libraries, however if your script attempts to use Sockets/Listeners your script will be flagged for administrator review until it has been confirmed that the script does nothing malicious. Safety first, m'kay?<br>You can find samples and tutorials on the workshop page!<h2 class=\"bb_tag\">FEATURES</h2> <br><ul class=\"bb_ul\"><li>Control any game or application with your voice ­ as long as there is a script for the game (feel free to make one!)<br></li><li>Built­in media player (Others like Online Radio, Spotify, SoundCloud, etc. are scripts on the workshop)<br></li><li>In­game overlay with FPS (frames per second) counter with the ability to take screenshots<br></li><li>Facebook &amp; Twitter integration<br></li><li>Script Workshop ­ Download scripts or upload your own<br></li><li>Utilizes Intel RealSense speech recognizer (by Nuance) for outstanding accuracy<br></li><li>Supports various languages, not limited to the language set on your computer<br></li><li>Hardware Sensors ­- check your CPU &amp; GPU temperatures and more</li></ul><h2 class=\"bb_tag\">CREDITS</h2><br><a href=\"https://steamcommunity.com/linkfilter/?url=https://www.facebook.com/groups/623473311006319\" target=\"_blank\" rel=\"noopener\"  >The Star Citizen Facebook Group</a> who helped me test it from day ONE. I've met some amazing people there and made many new friends. They even came up with the name for VOTC!<h2 class=\"bb_tag\">Stay in touch</h2>Facebook: <a href=\"https://steamcommunity.com/linkfilter/?url=https://www.facebook.com/voiceofthecitizens\" target=\"_blank\" rel=\"noopener\"  >VOTC</a><br>Twitter: <a href=\"https://twitter.com/VOTC_Dude\" target=\"_blank\" rel=\"noreferrer\"  >VOTC</a>",
+            "short_description": "The average human has two hands, each with five fingers. Normally one hand is on the mouse and the other is curled up on the keyboard in a position that almost looks malformed. Voice of the Citizens offers yet another way to control the game you're playing with the power of your voice.",
+            "supported_languages": "English",
+            "reviews": "“VOTC is simply incredible. It's speech recognition is so good that with some scripts I can  almost play entire games with no hands. Now THAT is cool.”<br />\r\n0/0 – Alpha Tester<br />\r\n<br />\r\n“I have been using VOTC since the first day, I have never experienced such a great application  like this, it makes everything easier, from managing your music with your voice to hunting your  enemies in games. I highly recommend VOTC for everyone!”<br />\r\n0/0 – Alpha Tester<br />\r\n",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/432200/header.jpg?t=1467941933",
+            "website": "http://www.votc.xyz",
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 8.1<br></li><li><strong>Processor:</strong> Quad Core CPU<br></li><li><strong>Memory:</strong> 128 MB RAM<br></li><li><strong>Graphics:</strong> 64 MB<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 3 GB available space<br></li><li><strong>Additional Notes:</strong> Proper Microphone required, Webcam optional. Intel RealSense 3D camera's supported!</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Quad Core or better<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> 128 MB<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 3 GB available space<br></li><li><strong>Additional Notes:</strong> Proper Microphone required, Webcam optional. Intel RealSense 3D camera's supported!</li></ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "legal_notice": "VOTC IS A LAYER ON TOP OF THE INTEL REALSENSE SDK. VOTC IS AIMED AT .NET DEVELOPERS CREATING INTERFACES BETWEEN REALSENSE AND THIRD PARTY APPLICATIONS AND/OR GAMES. VOTC IS NOT SHIPPING THE REALSENSE SDK NOR AIMED AT END-USERS AT THIS STAGE. IN ORDER TO USE VOTC YOU HAVE TO SIGN UP ON THE INTEL DEVELOPER NETWORK AND ACQUIRE A DEVELOPER LICENSE FOR THE REALSENSE SDK AND ACCEPT ITS TERMS. VOTC IS NOT AFFILIATED IN ANY WAY WITH INTEL.",
+            "ext_user_account_notice": "Intel® RealSense™ Developer Zone ",
+            "developers": [
+                "Yuki"
+            ],
+            "publishers": [
+                "Yuki"
+            ],
+            "package_groups": [],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 22,
+                    "description": "Steam Achievements"
+                },
+                {
+                    "id": 29,
+                    "description": "Steam Trading Cards"
+                },
+                {
+                    "id": 30,
+                    "description": "Steam Workshop"
+                },
+                {
+                    "id": 23,
+                    "description": "Steam Cloud"
+                },
+                {
+                    "id": 15,
+                    "description": "Stats"
+                },
+                {
+                    "id": 25,
+                    "description": "Steam Leaderboards"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "57",
+                    "description": "Utilities"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/432200/ss_8527f276e7d967c7633c09b2185ae02099c55e77.600x338.jpg?t=1467941933",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/432200/ss_8527f276e7d967c7633c09b2185ae02099c55e77.1920x1080.jpg?t=1467941933"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/432200/ss_0b3b806eb2611f9d0e402a30c8a7d3b0e36afbd1.600x338.jpg?t=1467941933",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/432200/ss_0b3b806eb2611f9d0e402a30c8a7d3b0e36afbd1.1920x1080.jpg?t=1467941933"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/432200/ss_25577e4b303eb376e4b17f679fe4c2895c5882d4.600x338.jpg?t=1467941933",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/432200/ss_25577e4b303eb376e4b17f679fe4c2895c5882d4.1920x1080.jpg?t=1467941933"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/432200/ss_a293f8eb5a58bf202f1906e39ba046e95abcdb45.600x338.jpg?t=1467941933",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/432200/ss_a293f8eb5a58bf202f1906e39ba046e95abcdb45.1920x1080.jpg?t=1467941933"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/432200/ss_8d00200ace4167f10300594d6a730fa5dfe4cd35.600x338.jpg?t=1467941933",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/432200/ss_8d00200ace4167f10300594d6a730fa5dfe4cd35.1920x1080.jpg?t=1467941933"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 256659485,
+                    "name": "Early Development Preview",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256659485/movie.293x165.jpg?t=1460492338",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256659485/movie480.webm?t=1460492338",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256659485/movie_max.webm?t=1460492338"
+                    },
+                    "highlight": true
+                }
+            ],
+            "release_date": {
+                "coming_soon": true,
+                "date": "Soon™"
+            },
+            "support_info": {
+                "url": "http://www.votc.xyz/forum",
+                "email": "support@votc.xyz"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/432200/page_bg_generated_v6b.jpg?t=1467941933",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

@@ -1,0 +1,150 @@
+{
+    "204285": {
+        "success": true,
+        "data": {
+            "type": "dlc",
+            "name": "Anno 2070™ - The Crisis Response Package",
+            "steam_appid": 204285,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "Master two exclusive Tycoon missions to win back lost investors and attract new followers.",
+            "about_the_game": "Master two exclusive Tycoon missions to win back lost investors and attract new followers.",
+            "short_description": "Master two exclusive Tycoon missions to win back lost investors and attract new followers.",
+            "fullgame": {
+                "appid": "48240",
+                "name": "Anno 2070™"
+            },
+            "supported_languages": "English, French, German, Italian, Polish, Spanish - Spain",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/204285/header.jpg?t=1447355466",
+            "website": null,
+            "pc_requirements": {
+                "minimum": "<ul class=\"bb_ul\"><li><strong>OS:</strong> Windows® XP / Windows Vista® / Windows® 7<br>\t\t\t\t\t\t\t\t\t</li><li><strong>Processor:</strong> 2 GHz Intel® Core™2 Duo or AMD Athlon™ 64 X2 or better<br>\t\t\t\t\t\t\t\t\t</li><li><strong>Memory:</strong> 2 GB (4 GB recommended)<br>\t\t\t\t\t\t\t\t\t</li><li><strong>Graphics:</strong> 512 MB DirectX® 9.0c–compatible with Shader Model 3.0 or higher (see supported list)*<br>\t\t\t\t\t\t\t\t\t</li><li><strong>DirectX®:</strong> 9.0c<br>\t\t\t\t\t\t\t\t\t</li><li><strong>Hard Drive:</strong> 5 GB<br>\t\t\t\t\t\t\t\t\t</li><li><strong>Sound:</strong> DirectX 9.0c–compliant<br>\t\t\t\t\t\t\t\t\t</li><li><strong>Peripherals:</strong> Windows-compatible mouse and keyboard<br>\t\t\t\t\t\t\t\t\t</li><li><strong>Internet Connection:</strong> Temporary broadband connection for product registration, permanent broadband connection for multiplayer.<br>\t\t\t\t\t\t\t\t\t<strong>*Supported Video Cards at Time of Release:</strong><br><br>\t\t\t\t\t\t\t\t\tATI Radeon™ X1000/HD 2000/3000/4000/5000/6000 series<br><br>\t\t\t\t\t\t\t\t\tNVIDIA® GeForce® 7/8/9/100/200/300/400/500 series<br><br><br>\t\t\t\t\t\t\t\t\tLaptop versions of these cards may work, but are not supported. These chipsets are the only ones that will run this game. For the most up-to-date minimum requirement listings, please visit the FAQ on our support website at: <a href=\"https://steamcommunity.com/linkfilter/?url=http://support.ubi.com/\" target=\"_blank\" rel=\"noopener\"  >http://support.ubi.com/</a>.<br>\t\t\t\t\t\t\t\t\t<br>Requires a UPlay account<br>\t\t\t\t\t\t\t\t</li></ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "legal_notice": "© 2011 Ubisoft Entertainment. All Rights Reserved. Anno 2070, Ubisoft, and the Ubisoft logo are trademarks of Ubisoft Entertainment in the US and/or other countries. Produced by Blue Byte. Blue Byte and the Blue Byte logo are trademarks of Red Storm Entertainment in the US and/or other countries. Red Storm Entertainment Inc. is a Ubisoft Entertainment company. Developed By Related Designs.",
+            "developers": [
+                "Blue Byte",
+                "Related Designs"
+            ],
+            "publishers": [
+                "Ubisoft"
+            ],
+            "price_overview": {
+                "currency": "USD",
+                "initial": 399,
+                "final": 399,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "$3.99"
+            },
+            "packages": [
+                13903,
+                13905,
+                18976,
+                26683
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Anno 2070™ - The Crisis Response Package",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 13903,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Anno 2070™ - The Crisis Response Package - $3.99",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 399
+                        },
+                        {
+                            "packageid": 13905,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Anno 2070™ - The Financial Crisis Package - $7.99",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 799
+                        },
+                        {
+                            "packageid": 18976,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Anno 2070 DLC Complete Pack - $14.99",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 1499
+                        },
+                        {
+                            "packageid": 26683,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Anno 2070 Complete Edition - $29.99",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 2999
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 1,
+                    "description": "Multi-player"
+                },
+                {
+                    "id": 21,
+                    "description": "Downloadable Content"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "2",
+                    "description": "Strategy"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/204285/ss_c3f1a600d25ba2691217eeeb2218dc952e2ca167.600x338.jpg?t=1447355466",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/204285/ss_c3f1a600d25ba2691217eeeb2218dc952e2ca167.1920x1080.jpg?t=1447355466"
+                }
+            ],
+            "achievements": {
+                "total": 0
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "Mar 26, 2012"
+            },
+            "support_info": {
+                "url": "",
+                "email": ""
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/204285/page_bg_generated_v6b.jpg?t=1447355466",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

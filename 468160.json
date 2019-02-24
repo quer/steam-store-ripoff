@@ -1,0 +1,229 @@
+{
+    "468160": {
+        "success": true,
+        "data": {
+            "type": "game",
+            "name": "Ancient Go",
+            "steam_appid": 468160,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "Go is a 3000-year-old game of strategy played by over 24 million people world-wide. Play is simple, place stones at key positions to surround territory and capture enemies. The rules can be learned in minutes, but Go has yet to be completely mastered.<br />\r\n<br />\r\nAncient Go includes tutorials, an AI opponent, ranked online play, and Steam friend challenges.<br />\r\n<br />\r\nThe easy AI has been custom designed for beginners to play against, a place where many AIs fail. For harder difficulties a second AI is brought in that is strong enough to beat players with hundreds of hours of experience.<br />\r\n<br />\r\nOnline play uses free accounts on the OGS server with 400,000 registered users, around 2,000 logged in at any one time. There are quickmatch buttons for the common board sizes, as well as custom open, and Steam challenges. If you end up playing a lot becoming an OGS supporter is highly recommended as we are not affiliated.<br />\r\n<br />\r\nAncient Go uses Unreal Engine 4 and is 64 bit. As such the minimum requirements may be more than some expect. It is full 3D, you can move the camera with the mouse by hold the right mouse button down, and by scrolling. Graphics settings are tuned automatically based on the current frame-rate. It is possible to play on slower machines, but the graphics may tune down substantially for you.<br />\r\n<br />\r\nFor new players the rest probably wont mean much, but players who know Go, read on. <br />\r\n<br />\r\nAncient Go uses visual hints to indicate when playing into atari, positions on the board in atari, ko's and snapbacks. These are places the new players often have trouble, so it speeds up the learning process and increases the fun factor while people learn the rules. They can be disabled in the options menu.<br />\r\n<br />\r\nAGA, Chinese, and Japanese rules are supported and can be selected in the options menu. AGA is default as it solves some problems with online play the popular Japanese rule set does not.<br />\r\n<br />\r\nStone removal uses the Fuego AI to mark dead stones, but can be set manually as well.<br />\r\n<br />\r\nThe AI used is a combination of Fuego (which is open source) and a custom AI. It is tuned to approximate 22 kyu, 18 kyu, 14 kyu, 2 dan. If new players are reading, it means most likely you can have many hundreds into thousands of hours of experience and the AI will still be a useful opponent. There are issues present which are in most AI's where on larger boards especially the AI fails to see larger strategy, but performs well in tactical situations. As such the AI ranks become significantly worse if play is geared to take advantage of this fact. It is possible for users to replace the Fuego.exe in the working directory with newer or custom versions.",
+            "about_the_game": "Go is a 3000-year-old game of strategy played by over 24 million people world-wide. Play is simple, place stones at key positions to surround territory and capture enemies. The rules can be learned in minutes, but Go has yet to be completely mastered.<br />\r\n<br />\r\nAncient Go includes tutorials, an AI opponent, ranked online play, and Steam friend challenges.<br />\r\n<br />\r\nThe easy AI has been custom designed for beginners to play against, a place where many AIs fail. For harder difficulties a second AI is brought in that is strong enough to beat players with hundreds of hours of experience.<br />\r\n<br />\r\nOnline play uses free accounts on the OGS server with 400,000 registered users, around 2,000 logged in at any one time. There are quickmatch buttons for the common board sizes, as well as custom open, and Steam challenges. If you end up playing a lot becoming an OGS supporter is highly recommended as we are not affiliated.<br />\r\n<br />\r\nAncient Go uses Unreal Engine 4 and is 64 bit. As such the minimum requirements may be more than some expect. It is full 3D, you can move the camera with the mouse by hold the right mouse button down, and by scrolling. Graphics settings are tuned automatically based on the current frame-rate. It is possible to play on slower machines, but the graphics may tune down substantially for you.<br />\r\n<br />\r\nFor new players the rest probably wont mean much, but players who know Go, read on. <br />\r\n<br />\r\nAncient Go uses visual hints to indicate when playing into atari, positions on the board in atari, ko's and snapbacks. These are places the new players often have trouble, so it speeds up the learning process and increases the fun factor while people learn the rules. They can be disabled in the options menu.<br />\r\n<br />\r\nAGA, Chinese, and Japanese rules are supported and can be selected in the options menu. AGA is default as it solves some problems with online play the popular Japanese rule set does not.<br />\r\n<br />\r\nStone removal uses the Fuego AI to mark dead stones, but can be set manually as well.<br />\r\n<br />\r\nThe AI used is a combination of Fuego (which is open source) and a custom AI. It is tuned to approximate 22 kyu, 18 kyu, 14 kyu, 2 dan. If new players are reading, it means most likely you can have many hundreds into thousands of hours of experience and the AI will still be a useful opponent. There are issues present which are in most AI's where on larger boards especially the AI fails to see larger strategy, but performs well in tactical situations. As such the AI ranks become significantly worse if play is geared to take advantage of this fact. It is possible for users to replace the Fuego.exe in the working directory with newer or custom versions.",
+            "short_description": "Go is a 3000-year-old game of strategy played by over 24 million people world-wide. Play is simple, place stones at key positions to surround territory and capture enemies. The rules can be learned in minutes, but Go has yet to be completely mastered. Ancient Go is designed for new players.",
+            "supported_languages": "English",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/468160/header.jpg?t=1496152693",
+            "website": "http://AncientGo.com",
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Window 7<br></li><li><strong>Processor:</strong> 64 Bit<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> PassMark Score of 1000 or Better (Any Modern Graphics Card)<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 1 GB available space<br></li><li><strong>Additional Notes:</strong> Please be capable of running Unreal Engine 4. Graphics will scale automatically, may run at low resolution on slightly slower hardware.</li></ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "legal_notice": "© 2016 Hart Laboratories LLC",
+            "ext_user_account_notice": "Online-Go.com accounts used for multiplayer. Not required for tutorials or AI. ",
+            "developers": [
+                "Hart Laboratories LLC"
+            ],
+            "publishers": [
+                "Hart Laboratories LLC"
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 399,
+                "final": 399,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "3,99€"
+            },
+            "packages": [
+                103219
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Ancient Go",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 103219,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Ancient Go - 3,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 399
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 36,
+                    "description": "Online Multi-Player"
+                },
+                {
+                    "id": 22,
+                    "description": "Steam Achievements"
+                },
+                {
+                    "id": 18,
+                    "description": "Partial Controller Support"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "4",
+                    "description": "Casual"
+                },
+                {
+                    "id": "23",
+                    "description": "Indie"
+                },
+                {
+                    "id": "2",
+                    "description": "Strategy"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/468160/ss_aa2ecae4938238e1785f0bc02734b402d565d5af.600x338.jpg?t=1496152693",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/468160/ss_aa2ecae4938238e1785f0bc02734b402d565d5af.1920x1080.jpg?t=1496152693"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/468160/ss_5cb58633210950a57554fbc6acacf10617505c37.600x338.jpg?t=1496152693",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/468160/ss_5cb58633210950a57554fbc6acacf10617505c37.1920x1080.jpg?t=1496152693"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/468160/ss_090411686d07e8b757e435515cbfb6de07036ebf.600x338.jpg?t=1496152693",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/468160/ss_090411686d07e8b757e435515cbfb6de07036ebf.1920x1080.jpg?t=1496152693"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/468160/ss_d5143d6bba17c36acebf3ce23d852469e10a2a01.600x338.jpg?t=1496152693",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/468160/ss_d5143d6bba17c36acebf3ce23d852469e10a2a01.1920x1080.jpg?t=1496152693"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/468160/ss_59d90494a284824484d54c66573f87188466ed3d.600x338.jpg?t=1496152693",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/468160/ss_59d90494a284824484d54c66573f87188466ed3d.1920x1080.jpg?t=1496152693"
+                },
+                {
+                    "id": 5,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/468160/ss_90244c295a3ef566427101b5fd33a13f45813c4b.600x338.jpg?t=1496152693",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/468160/ss_90244c295a3ef566427101b5fd33a13f45813c4b.1920x1080.jpg?t=1496152693"
+                },
+                {
+                    "id": 6,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/468160/ss_ff56e30250295632f025bfce66e7205dc5a0caf2.600x338.jpg?t=1496152693",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/468160/ss_ff56e30250295632f025bfce66e7205dc5a0caf2.1920x1080.jpg?t=1496152693"
+                },
+                {
+                    "id": 7,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/468160/ss_90dec83ecbc2b7f52b13148a451a145bbada883c.600x338.jpg?t=1496152693",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/468160/ss_90dec83ecbc2b7f52b13148a451a145bbada883c.1920x1080.jpg?t=1496152693"
+                },
+                {
+                    "id": 8,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/468160/ss_905922f6f17b2f0cbc63ea11ae539af1b59f9467.600x338.jpg?t=1496152693",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/468160/ss_905922f6f17b2f0cbc63ea11ae539af1b59f9467.1920x1080.jpg?t=1496152693"
+                },
+                {
+                    "id": 9,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/468160/ss_3ed72ea8255fe49da320318fa30ba04e441a0a1c.600x338.jpg?t=1496152693",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/468160/ss_3ed72ea8255fe49da320318fa30ba04e441a0a1c.1920x1080.jpg?t=1496152693"
+                },
+                {
+                    "id": 10,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/468160/ss_bf0f9b00666e1c48b2f7f7b00a66230d3cdb2572.600x338.jpg?t=1496152693",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/468160/ss_bf0f9b00666e1c48b2f7f7b00a66230d3cdb2572.1920x1080.jpg?t=1496152693"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 256670340,
+                    "name": "Early Access Trailer",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256670340/movie.293x165.jpg?t=1473752345",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256670340/movie480.webm?t=1473752345",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256670340/movie_max.webm?t=1473752345"
+                    },
+                    "highlight": true
+                }
+            ],
+            "achievements": {
+                "total": 33,
+                "highlighted": [
+                    {
+                        "name": "First Victory",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/468160/470eee6ebacd319344f0bc40c0c5b6541a0f233f.jpg"
+                    },
+                    {
+                        "name": "Complete the Tutorials",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/468160/418985bceb4210fc04457dd6d2fbfc3a25d00d68.jpg"
+                    },
+                    {
+                        "name": "Win Playing 7x7",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/468160/0b148ddff3f7c7574699fd1d509f8d9c44348769.jpg"
+                    },
+                    {
+                        "name": "Win Playing 9x9",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/468160/7b0aaf5a2b38650ba93ecdc211585a2216a29cb4.jpg"
+                    },
+                    {
+                        "name": "Win Playing 13x13",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/468160/46f8cf97764197a5af2af7daae4a01f2d2338c4f.jpg"
+                    },
+                    {
+                        "name": "Win Playing 19x19",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/468160/c7650d90c2cde7dd8dcd312a3eb17849f6a5e065.jpg"
+                    },
+                    {
+                        "name": "Capture a Group of 4",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/468160/93358274d6b85d6022515950e3869725bc38107d.jpg"
+                    },
+                    {
+                        "name": "Capture a Group of 9",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/468160/fdaf4a2d813fb3644329c9b8ddfc07bf0970b421.jpg"
+                    },
+                    {
+                        "name": "Capture a Group of 16",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/468160/1e47d7867acdd6a0a2a291cbaad4d889651d820e.jpg"
+                    },
+                    {
+                        "name": "Capture a Group of 25",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/468160/d90728e3280f570ef8e75b7a7d6f6824d75a92d9.jpg"
+                    }
+                ]
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "30 May, 2017"
+            },
+            "support_info": {
+                "url": "http://AncientGo.com",
+                "email": "Christopher@HartLaboratories.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/468160/page_bg_generated_v6b.jpg?t=1496152693",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

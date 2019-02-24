@@ -1,0 +1,192 @@
+{
+    "652150": {
+        "success": true,
+        "data": {
+            "type": "game",
+            "name": "Oats Studios - Volume 1 Assets",
+            "steam_appid": 652150,
+            "required_age": 0,
+            "is_free": true,
+            "detailed_description": "<h1>Zygote DLC - NEW</h1><p>Zygote DLC<br><br>July 12th, 2017<br><br>Once you have installed the base Oats Studios – Volume 1 Assets launcher in your Software Library, you will have a set of optional DLC related to Zygote that you can choose to install from that same location. Please read the description below to find out more information about what’s in each folder and their respective size and below that, a description of how best to unpack the 3d assets.<br><br>The Zygote DLC includes the following:<br><br><strong>Zygote 3d Models: - 23.6GB</strong><br><ul class=\"bb_ul\"><li>Zygote – 13.7GB<br></li><li>Synthetic Skulls for Print – 509MB</li></ul><br><strong>Zygote Concept Art Booklet – Total size: 500 MB – File Name: Zygote_Booklet_v2</strong><br><ul class=\"bb_ul\"><li>Concept Art<br></li><li>VFX look-development<br></li><li>Oats Workshop BTS Selects<br></li><li>Filming BTS selects</li></ul><br><strong>Zygote High Resolution Video (Stereo)</strong><br><br><ul class=\"bb_ul\"><li>OatsZygoteDLCStereo.mp4 – 5.70GB<br></li><li>320 kbps AAC Stereo Audio<br></li><li>1920x1080<br></li><li>h.264 40mbit/sec (approximately Blu-Ray quality)</li></ul><br><strong>Zygote High Resolution Video (Surround)</strong><br><ul class=\"bb_ul\"><li>OatsZygoteDLCSurround.mp4 – 5.77GB<br></li><li>640 kbps AAC 5.1 Surround Audio<br></li><li>1920x1080<br></li><li>h.264 40mbit/sec (approximately Blu-Ray quality)</li></ul><br><strong>Zygote Script</strong><br><br>A few general notes about all 3D assets uploaded for Zygote.<br><br><strong>LOOKDEV</strong><br><ul class=\"bb_ul\"><li>These folders contain the assembled 3dsmax file used for final rendering.  <br></li><li>They also contain all the necessary textures in the directory structure that should ensure everything is correctly linked.  It’s a very deep directory structure but it was the easiest way to collect the data to share with the community.  You can of course remap the directory structure on your own to simplify it.<br></li><li>These files (and shaders) are set-up to be used with Redshift (our renderer of choice).  However, you can rebuild them to work in whatever renderer you choose.<br></li><li>The model in this file is our working resolution (with displacement maps to render like the highres sculpt)<br></li><li>The model in this file is in the T-pose (NOT the pose displayed in the thumbnail)</li></ul><br><strong>MODEL</strong><br><ul class=\"bb_ul\"><li>We provide a series of various model files and formats.<br></li><li>Cleaned up mudbox file with high and low resolution meshes (used for exporting our various displacements and working resolution models.<br></li><li>Two .obj files, one the lowres working model and one high resolution sculpt<br></li><li>All of these models are in the default T-pose (not the pose displayed in the thumbnail)</li></ul><br><strong>RIG</strong><br><ul class=\"bb_ul\"><li>There are two files here, both Maya files (the program we use for animation)<br></li><li>One file is the “fast” animation rig.  This file does not contain the final working resolution mesh but instead contains a lower resolution cut-up mesh for fast animation interactivity.  Its rig also is a stripped-down version missing some of the slower fancy things.  Basically, this is the rig the animators work with 95% of the time.<br></li><li>The second file contains the same rig but with the full working resolution mesh with skinning.  It also contains extra bits in the rig to assist with skinning or secondary motion.  It is THIS file that you would export a model cache (whatever format you wish) from to then apply to the lookdev model for rendering.<br></li><li>The rigs are set-up to make use of the Maya referencing system so that if rig is REFERENCED in you can swap the reference on the fly.  To use this do not animate directly in the rig file.  </li></ul><br>*** As a final note if you have issues or questions pertaining to any of these files please go to the Oats Studios Forum in the DLC category and ask away: <a href=\"https://steamcommunity.com/linkfilter/?url=http://forums.oatsstudios.com/categories/dlc\" target=\"_blank\" rel=\"noopener\"  >http://forums.oatsstudios.com/categories/dlc</a></p><br><h1>Stream Oats Studios Shorts Free on Steam</h1><p><a href=\"http://store.steampowered.com/app/633030\" target=\"_blank\" rel=\"noreferrer\"  id=\"dynamiclink_0\" >http://store.steampowered.com/app/633030</a></p><br><h1>About the Software</h1>At Oats Studios, the creation of Volume 1 required immense resources. Our wish is to receive funding sourced directly from our audience, as we establish a studio fueled by pure creativity and passion. We have many, many more worlds to create and stories to tell, but we need help from people around the globe. Our goal is to create Volumes 2, 3 and more and eventually, full scale-scale features. If you feel positive about what you’ve seen and want more, please support us by purchasing our additional content as it becomes available. <br><br>We plan to include in the Oats Studios - Volume 1 Assets as many pieces of concept art, models, footage etc. for each of our shorts, however as part of supporting Oats we will charge for these.<br><br>The newest DLC available is Zygote: please check out the special announcement below to see whats included. <br><br>We want users to engage with our content and hope that by opening up resources like these, we inspire young filmmakers.<br><br>Additionally if people are interested in licencing material for commercial purposes then please send an email to <a href=\"mailto:licensing@oatsstudios.com\">licensing@oatsstudios.com</a>",
+            "about_the_game": "At Oats Studios, the creation of Volume 1 required immense resources. Our wish is to receive funding sourced directly from our audience, as we establish a studio fueled by pure creativity and passion. We have many, many more worlds to create and stories to tell, but we need help from people around the globe. Our goal is to create Volumes 2, 3 and more and eventually, full scale-scale features. If you feel positive about what you’ve seen and want more, please support us by purchasing our additional content as it becomes available. <br />\r\n<br />\r\nWe plan to include in the Oats Studios - Volume 1 Assets as many pieces of concept art, models, footage etc. for each of our shorts, however as part of supporting Oats we will charge for these.<br />\r\n<br />\r\nThe newest DLC available is Zygote: please check out the special announcement below to see whats included. <br />\r\n<br />\r\nWe want users to engage with our content and hope that by opening up resources like these, we inspire young filmmakers.<br />\r\n<br />\r\nAdditionally if people are interested in licencing material for commercial purposes then please send an email to licensing@oatsstudios.com",
+            "short_description": "If you are a fan of Oats Studios and want to support us, then please purchase the Oats Studios - Volume 1 Assets. Zygote DLC now available.",
+            "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/652150/header.jpg?t=1500057853",
+            "website": "https://www.oatsstudios.com",
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Storage:</strong> 15 GB available space</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 999 GB available space</li></ul>"
+            },
+            "mac_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> MacOS 10.10<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Storage:</strong> 15 GB available space</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 999 GB available space</li></ul>"
+            },
+            "linux_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 12 or equivalent distribution<br></li><li><strong>Storage:</strong> 15 GB available space</li></ul>"
+            },
+            "legal_notice": "© 2017 SERSCHA STUDIOS LTD. ALL RIGHTS RESERVED.",
+            "developers": [
+                "Oats Studios"
+            ],
+            "publishers": [
+                "Oats Studios"
+            ],
+            "packages": [
+                190622,
+                190623,
+                193547,
+                194084
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Oats Studios - Volume 1 Assets",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 190622,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Oats Volume 1 Assets - Rakka - 4,49€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 449
+                        },
+                        {
+                            "packageid": 190623,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Oats Volume 1 Assets - Firebase - 4,49€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 449
+                        },
+                        {
+                            "packageid": 193547,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Oats Volume 1 Assets - Zygote - 4,49€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 449
+                        },
+                        {
+                            "packageid": 194084,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Oats Volume 1 Soundtrack - 4,49€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 449
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": true,
+                "linux": true
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "73",
+                    "description": "Violent"
+                },
+                {
+                    "id": "74",
+                    "description": "Gore"
+                },
+                {
+                    "id": "1",
+                    "description": "Action"
+                },
+                {
+                    "id": "25",
+                    "description": "Adventure"
+                },
+                {
+                    "id": "4",
+                    "description": "Casual"
+                },
+                {
+                    "id": "23",
+                    "description": "Indie"
+                },
+                {
+                    "id": "28",
+                    "description": "Simulation"
+                },
+                {
+                    "id": "2",
+                    "description": "Strategy"
+                },
+                {
+                    "id": "58",
+                    "description": "Video Production"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/652150/ss_ac18b5c67ac96d69f2d0dbef2681a262e6fbff4a.600x338.jpg?t=1500057853",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/652150/ss_ac18b5c67ac96d69f2d0dbef2681a262e6fbff4a.1920x1080.jpg?t=1500057853"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/652150/ss_fcd17df29dcbc8e9e9b49afcbd64d463a9900a76.600x338.jpg?t=1500057853",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/652150/ss_fcd17df29dcbc8e9e9b49afcbd64d463a9900a76.1920x1080.jpg?t=1500057853"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/652150/ss_69c6ea855c676204f29d078de80ac422ad05be45.600x338.jpg?t=1500057853",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/652150/ss_69c6ea855c676204f29d078de80ac422ad05be45.1920x1080.jpg?t=1500057853"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/652150/ss_e51e9a129086e3ed73c09773cec577e00f2559cf.600x338.jpg?t=1500057853",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/652150/ss_e51e9a129086e3ed73c09773cec577e00f2559cf.1920x1080.jpg?t=1500057853"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/652150/ss_5cc3ef5088e104f0accce1bb0cc3796792604297.600x338.jpg?t=1500057853",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/652150/ss_5cc3ef5088e104f0accce1bb0cc3796792604297.1920x1080.jpg?t=1500057853"
+                },
+                {
+                    "id": 5,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/652150/ss_110c344ace34ae50a07a600685652d71c18a3505.600x338.jpg?t=1500057853",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/652150/ss_110c344ace34ae50a07a600685652d71c18a3505.1920x1080.jpg?t=1500057853"
+                }
+            ],
+            "achievements": {
+                "total": 0
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "14 Jun, 2017"
+            },
+            "support_info": {
+                "url": "https://www.oatsstudios.com",
+                "email": "info@oatsstudios.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/652150/page_bg_generated_v6b.jpg?t=1500057853",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

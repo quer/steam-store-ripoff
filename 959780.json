@@ -1,0 +1,102 @@
+{
+    "959780": {
+        "success": true,
+        "data": {
+            "type": "demo",
+            "name": "GameWhizzards Demo",
+            "steam_appid": 959780,
+            "required_age": 0,
+            "is_free": true,
+            "detailed_description": "<a href=\"https://steamcommunity.com/linkfilter/?url=https://gamewhizzards.ml\" target=\"_blank\" rel=\"noopener\"  >https://gamewhizzards.ml</a><br><br>Our goal is to bring an MMORPG creation framework to you, allowing everyone to create his own world and let other players play on it. Take your items and gold from one world to the other, giving you the impression of one large world, consiting of smaller, player created worlds. Think of the &quot;Oasis&quot; in Ready Player One: That's what we want to create. VR support will also be included, but you can play without a VR headset, too.<br><br><strong>About the game</strong><br>Think about us building only interfaces to which different vr worlds connect - plus some of our own worlds. Everyone will be able to connect to the main database, being able to access currencies, items etc that all have in common and define in a global database.<br>You can buy the handgranade of doom in world a) and use it in world b) which each have been created by different players.<br><br>The number of accessible worlds will be nearly unlimited, only limited by the number of players who create their own worlds.<br><br>We are using networklibsdotnet with our own data structure, which holds the world configuration and state. It is an authoritive server running with clientside prediction and server reconciliation, according to the valve guide for networking, but coded by our own.<br><br>There will be a library with some predefined items and dungeons etc. but every user will be able to upload his own assets. There will be a c# script interface with an API which allows every action the user wants to, giving him access to the data structure.<br><br>Mechanics will be in World of Warcraft style. We are currently working on an 3D world editor.<br><br>All worlds are open source and allow everyone to view them. there will also be a rating system. everything the user puts into his world (npc's, items etc) will have a point value, determening the rewardness and the difficulty of each dungeon, thus limiting everything a bit. you cant create a dungeon with the imba pwnage dink of uber which gives the char super powers. Maybe in an event - but not by default.<br><br>Some of the worlds will be &quot;hardcore mode&quot;, where you can loose from all your Money up to your whole char nearly everything. Those will be specially rewarding. Levels will be from noob to hardcore. and there will be a hardcore mode. when doing hardcore worlds in hardcore mode, it will be ultra hardcore. In ultra hardcore, you will loose your whole char if you die.<br><br>Everything is aimed at being as ballaneced as possible<br><br><br><strong>Progress</strong><br><br>We have written our own authoritive server with clientside prediction and server recoil. It is a core C# program. No use of Unity networking or photon or any of that crap. The client has been created using Unity. We are using NetworkLibsDOTNet together with our own datastructure, which is being serialized over the network. The data structure has also been done. Character movement and state machine are finisehd, too. The world editor has been implemented. It's now possible to edit worlds runtime and save to/load from the server.",
+            "about_the_game": "<a href=\"https://steamcommunity.com/linkfilter/?url=https://gamewhizzards.ml\" target=\"_blank\" rel=\"noopener\"  >https://gamewhizzards.ml</a><br><br>Our goal is to bring an MMORPG creation framework to you, allowing everyone to create his own world and let other players play on it. Take your items and gold from one world to the other, giving you the impression of one large world, consiting of smaller, player created worlds. Think of the &quot;Oasis&quot; in Ready Player One: That's what we want to create. VR support will also be included, but you can play without a VR headset, too.<br><br><strong>About the game</strong><br>Think about us building only interfaces to which different vr worlds connect - plus some of our own worlds. Everyone will be able to connect to the main database, being able to access currencies, items etc that all have in common and define in a global database.<br>You can buy the handgranade of doom in world a) and use it in world b) which each have been created by different players.<br><br>The number of accessible worlds will be nearly unlimited, only limited by the number of players who create their own worlds.<br><br>We are using networklibsdotnet with our own data structure, which holds the world configuration and state. It is an authoritive server running with clientside prediction and server reconciliation, according to the valve guide for networking, but coded by our own.<br><br>There will be a library with some predefined items and dungeons etc. but every user will be able to upload his own assets. There will be a c# script interface with an API which allows every action the user wants to, giving him access to the data structure.<br><br>Mechanics will be in World of Warcraft style. We are currently working on an 3D world editor.<br><br>All worlds are open source and allow everyone to view them. there will also be a rating system. everything the user puts into his world (npc's, items etc) will have a point value, determening the rewardness and the difficulty of each dungeon, thus limiting everything a bit. you cant create a dungeon with the imba pwnage dink of uber which gives the char super powers. Maybe in an event - but not by default.<br><br>Some of the worlds will be &quot;hardcore mode&quot;, where you can loose from all your Money up to your whole char nearly everything. Those will be specially rewarding. Levels will be from noob to hardcore. and there will be a hardcore mode. when doing hardcore worlds in hardcore mode, it will be ultra hardcore. In ultra hardcore, you will loose your whole char if you die.<br><br>Everything is aimed at being as ballaneced as possible<br><br><br><strong>Progress</strong><br><br>We have written our own authoritive server with clientside prediction and server recoil. It is a core C# program. No use of Unity networking or photon or any of that crap. The client has been created using Unity. We are using NetworkLibsDOTNet together with our own datastructure, which is being serialized over the network. The data structure has also been done. Character movement and state machine are finisehd, too. The world editor has been implemented. It's now possible to edit worlds runtime and save to/load from the server.",
+            "short_description": "Our goal is to bring an MMORPG creation framework to you, allowing everyone to create his own world and let other players play on it. Take your items and gold from one world to the other, giving you the impression of one large world, consiting of smaller, player created worlds.",
+            "fullgame": {
+                "appid": "959690",
+                "name": "Uninitialized"
+            },
+            "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/959780/header.jpg?t=1540641480",
+            "website": "https://gamewhizzards.ml",
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> 7</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> 10</li></ul>"
+            },
+            "mac_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+            },
+            "linux_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+            },
+            "developers": [
+                "Dennis M. Heine"
+            ],
+            "publishers": [
+                "Dennis M. Heine"
+            ],
+            "package_groups": [],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 1,
+                    "description": "Multi-player"
+                },
+                {
+                    "id": 36,
+                    "description": "Online Multi-Player"
+                },
+                {
+                    "id": 20,
+                    "description": "MMO"
+                },
+                {
+                    "id": 10,
+                    "description": "Game demo"
+                },
+                {
+                    "id": 17,
+                    "description": "Includes level editor"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "37",
+                    "description": "Free to Play"
+                },
+                {
+                    "id": "29",
+                    "description": "Massively Multiplayer"
+                },
+                {
+                    "id": "3",
+                    "description": "RPG"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/959780/ss_a9a4d2a709990f5427976a935f88f535071c9e2e.600x338.jpg?t=1540641480",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/959780/ss_a9a4d2a709990f5427976a935f88f535071c9e2e.1920x1080.jpg?t=1540641480"
+                }
+            ],
+            "release_date": {
+                "coming_soon": false,
+                "date": "27 Oct, 2018"
+            },
+            "support_info": {
+                "url": "https://gamewhizzards.ml",
+                "email": "dennis.heine@gmx.de"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/959780/page_bg_generated_v6b.jpg?t=1540641480",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

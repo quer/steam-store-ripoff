@@ -1,0 +1,184 @@
+{
+    "856650": {
+        "success": true,
+        "data": {
+            "type": "game",
+            "name": "Pylon Racer",
+            "steam_appid": 856650,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "Pylon Racer is an experiment. On the one hand it was the one game I craved and could not buy, and on the other it is a sandbox where I can experiment with new rendering and game-play techniques.<br><br><strong>From a games perspective:</strong><br><ul class=\"bb_ul\"><li>True first person gaming. No HUD overlays, no ribbon in the sky to follow, no chase plane views. Fly it the way a pilot would, then watch the TV replay afterwards.<br></li><li>Insanely difficult. It is the <i>&quot;flappy bird&quot;</i> of flight simulation. There is no rookie mode to nurse you around. You will have to practice the turns repeatedly until you are in full control of the airplane.<br></li><li>Accurate simulation of a modern aerobatics plane. <br></li><li>Pure test of pilot skill. No upgrades, especially no in app purchases. Your time only reflects your skill as a pilot. I hope that combined with leaderboards for time and penalties it will foster a community that race each other for the top spot.<br></li><li>Fast stable game-play. Down to the minimum spec, my testers have all managed a guaranteed 60 fps. I feel so strongly about this aspect of gaming, that I will report bad frames as part of your results. In a game this fast, even a single slow (30 fps) frame will through you off balance. Combined with a 1000 fps joystick and flight model simulation, it is the smoothest simulation experience you can get.</li></ul><br><strong>From a developer perspective:</strong><br><ul class=\"bb_ul\"><li>Trees. With 4 million individual leaves in the world, and more than half of them visible in a single frame at times, it was a chance to prove that 3 dimensional trees have a place in flight simulation. It builds on my research in growing convincing trees on the GPU, and I look forward to expanding the vegetation in the future.<br></li><li>Radiosity solution inside the cockpit. Full light bounce simulates the complexities of light and the wide range of light effects. While my initial research showed fantastic promise, a maths bug has forced me to tone it down a little for this release. </li></ul>",
+            "about_the_game": "Pylon Racer is an experiment. On the one hand it was the one game I craved and could not buy, and on the other it is a sandbox where I can experiment with new rendering and game-play techniques.<br><br><strong>From a games perspective:</strong><br><ul class=\"bb_ul\"><li>True first person gaming. No HUD overlays, no ribbon in the sky to follow, no chase plane views. Fly it the way a pilot would, then watch the TV replay afterwards.<br></li><li>Insanely difficult. It is the <i>&quot;flappy bird&quot;</i> of flight simulation. There is no rookie mode to nurse you around. You will have to practice the turns repeatedly until you are in full control of the airplane.<br></li><li>Accurate simulation of a modern aerobatics plane. <br></li><li>Pure test of pilot skill. No upgrades, especially no in app purchases. Your time only reflects your skill as a pilot. I hope that combined with leaderboards for time and penalties it will foster a community that race each other for the top spot.<br></li><li>Fast stable game-play. Down to the minimum spec, my testers have all managed a guaranteed 60 fps. I feel so strongly about this aspect of gaming, that I will report bad frames as part of your results. In a game this fast, even a single slow (30 fps) frame will through you off balance. Combined with a 1000 fps joystick and flight model simulation, it is the smoothest simulation experience you can get.</li></ul><br><strong>From a developer perspective:</strong><br><ul class=\"bb_ul\"><li>Trees. With 4 million individual leaves in the world, and more than half of them visible in a single frame at times, it was a chance to prove that 3 dimensional trees have a place in flight simulation. It builds on my research in growing convincing trees on the GPU, and I look forward to expanding the vegetation in the future.<br></li><li>Radiosity solution inside the cockpit. Full light bounce simulates the complexities of light and the wide range of light effects. While my initial research showed fantastic promise, a maths bug has forced me to tone it down a little for this release. </li></ul>",
+            "short_description": "Experience the thrills of racing high power planes meters off the ground and join the elite ranks of daredevil pylon racers. Master the course, conserve energy in the turns and flip through the chicanes in the ultimate race against time.Pylon Racer - puts you back in the pilot’s seat.",
+            "supported_languages": "English",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/856650/header.jpg?t=1550810112",
+            "website": null,
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> i5<br></li><li><strong>Memory:</strong> 8 MB RAM<br></li><li><strong>Graphics:</strong> Geforce 770<br></li><li><strong>DirectX:</strong> Version 12<br></li><li><strong>Storage:</strong> 500 MB available space<br></li><li><strong>Additional Notes:</strong> Joystick or gamepad required</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> i7<br></li><li><strong>Memory:</strong> 16 MB RAM<br></li><li><strong>Graphics:</strong> GeForce 970<br></li><li><strong>DirectX:</strong> Version 12<br></li><li><strong>Storage:</strong> 500 MB available space<br></li><li><strong>Sound Card:</strong> Yes<br></li><li><strong>Additional Notes:</strong> Joystick or gamepad required</li></ul>"
+            },
+            "mac_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+            },
+            "linux_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+            },
+            "developers": [
+                "Johan Hammes"
+            ],
+            "publishers": [
+                "Johan Hammes"
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 399,
+                "final": 399,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "3,99€"
+            },
+            "packages": [
+                269436
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Pylon Racer",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 269436,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Pylon Racer - 3,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 399
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 18,
+                    "description": "Partial Controller Support"
+                },
+                {
+                    "id": 25,
+                    "description": "Steam Leaderboards"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "23",
+                    "description": "Indie"
+                },
+                {
+                    "id": "9",
+                    "description": "Racing"
+                },
+                {
+                    "id": "28",
+                    "description": "Simulation"
+                },
+                {
+                    "id": "70",
+                    "description": "Early Access"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/856650/ss_1c395e564fb2d2f8384a001b60c263ad96eab9b1.600x338.jpg?t=1550810112",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/856650/ss_1c395e564fb2d2f8384a001b60c263ad96eab9b1.1920x1080.jpg?t=1550810112"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/856650/ss_3a824d8dba75b9ac267602026426f17dcd25b182.600x338.jpg?t=1550810112",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/856650/ss_3a824d8dba75b9ac267602026426f17dcd25b182.1920x1080.jpg?t=1550810112"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/856650/ss_d3e04a0d654f30ac18d131aefee5f4bb71664a3c.600x338.jpg?t=1550810112",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/856650/ss_d3e04a0d654f30ac18d131aefee5f4bb71664a3c.1920x1080.jpg?t=1550810112"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/856650/ss_6bd79d139c0e35493987999da41ad19fd6aa8b1b.600x338.jpg?t=1550810112",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/856650/ss_6bd79d139c0e35493987999da41ad19fd6aa8b1b.1920x1080.jpg?t=1550810112"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/856650/ss_46709888f566971f3171ec3ddac0e05055218263.600x338.jpg?t=1550810112",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/856650/ss_46709888f566971f3171ec3ddac0e05055218263.1920x1080.jpg?t=1550810112"
+                },
+                {
+                    "id": 5,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/856650/ss_d77ed08bb6e6e9c38a6ae3c5dac5691f51f2f57f.600x338.jpg?t=1550810112",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/856650/ss_d77ed08bb6e6e9c38a6ae3c5dac5691f51f2f57f.1920x1080.jpg?t=1550810112"
+                },
+                {
+                    "id": 6,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/856650/ss_ef94e38a5bb55a50801dde93941b50975cb5b96e.600x338.jpg?t=1550810112",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/856650/ss_ef94e38a5bb55a50801dde93941b50975cb5b96e.1920x1080.jpg?t=1550810112"
+                },
+                {
+                    "id": 7,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/856650/ss_38e3a861d26cbaf2526f526c7bb3b923e8349599.600x338.jpg?t=1550810112",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/856650/ss_38e3a861d26cbaf2526f526c7bb3b923e8349599.1920x1080.jpg?t=1550810112"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 256741449,
+                    "name": "gameplay 1",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256741449/movie.293x165.jpg?t=1548740967",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256741449/movie480.webm?t=1548740967",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256741449/movie_max.webm?t=1548740967"
+                    },
+                    "highlight": true
+                },
+                {
+                    "id": 256733491,
+                    "name": "Pylon Racer",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256733491/movie.293x165.jpg?t=1548740975",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256733491/movie480.webm?t=1548740975",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256733491/movie_max.webm?t=1548740975"
+                    },
+                    "highlight": true
+                }
+            ],
+            "release_date": {
+                "coming_soon": false,
+                "date": "21 Feb, 2019"
+            },
+            "support_info": {
+                "url": "",
+                "email": "johan@kolskoot.net"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/856650/page_bg_generated_v6b.jpg?t=1550810112",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

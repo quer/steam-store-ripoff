@@ -1,0 +1,94 @@
+{
+    "608287": {
+        "success": true,
+        "data": {
+            "type": "episode",
+            "name": "Re:ZERO -Starting Life in Another World-: From Zero",
+            "steam_appid": 608287,
+            "required_age": 0,
+            "is_free": false,
+            "controller_support": "full",
+            "detailed_description": "",
+            "about_the_game": "",
+            "short_description": "Subaru laments that he could not do anything or save anyone, and has no options left. Exhausted, he suddenly takes off running at full speed as if he's made a decision...",
+            "fullgame": {
+                "appid": "600930",
+                "name": "Re:ZERO -Starting Life in Another World-"
+            },
+            "supported_languages": "English<strong>*</strong>, Japanese<br><strong>*</strong>languages with full audio support",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/600930/header.jpg?t=1529698077",
+            "website": null,
+            "pc_requirements": [],
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "publishers": [
+                ""
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 199,
+                "final": 199,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "1,99€"
+            },
+            "packages": [
+                161400
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Re:ZERO -Starting Life in Another World-: From Zero",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 161400,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Re:ZERO -Starting Life in Another World-: From Zero - 1,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 199
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 28,
+                    "description": "Full controller support"
+                },
+                {
+                    "id": 33,
+                    "description": "Native Steam Controller Support"
+                }
+            ],
+            "achievements": {
+                "total": 0
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "30 Mar, 2017"
+            },
+            "support_info": {
+                "url": "",
+                "email": ""
+            },
+            "background": "",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

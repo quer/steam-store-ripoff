@@ -1,0 +1,87 @@
+{
+    "491380": {
+        "success": true,
+        "data": {
+            "type": "game",
+            "name": "SteamVR Driver for Razer™ Hydra",
+            "steam_appid": 491380,
+            "required_age": 0,
+            "is_free": true,
+            "detailed_description": "<h1>Usage</h1><p><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/491380/extras/button_mapping.png?t=1469807458\" ><h2 class=\"bb_tag\">Button mapping</h2><ul class=\"bb_ul\"><li><strong>Middle button</strong><br>Mapped to: (Vive) System button<br></li><li><strong>Button 4</strong><br>Mapped to: (Vive) Application Menu button<br></li><li><strong>Bumper button</strong><br>Mapped to: (Vive) Grip button<br></li><li><strong>Joystick button</strong><br>Mapped to: (Vive) Touchpad button<br></li><li><strong>Joystick</strong><br>Mapped to: (Vive) Touchpad<br></li><li><strong>Button 3</strong><br>(Compatibility) &quot;Hold thumbpad&quot;</li></ul></p><br><h1>About the Software</h1>This driver adds support for the Razer Hydra motion controller in SteamVR.<h2 class=\"bb_tag\">IMPORTANT!</h2><strong>Before installation, make sure to uninstall &quot;OpenVR Driver for Razer Hydra&quot; from your programs list in Windows! Not doing so can lead to unexpected behaviour.</strong><h2 class=\"bb_tag\">Compatibility</h2><ul class=\"bb_ul\"><li>To emulate a touch gesture on the Vive's trackpad (e.g. swiping), press and hold <strong>BUTTON3</strong> to start &quot;touching the trackpad&quot;, and then use the joystick to make the gesture.<br></li><li>UE4 games need to be run in compatibility mode. Check this thread for instructions: <a href=\"http://steamcommunity.com/app/491380/discussions/0/360670708779940695/\" target=\"_blank\" rel=\"noreferrer\"  >http://steamcommunity.com/app/491380/discussions/0/360670708779940695/</a></li></ul>",
+            "about_the_game": "This driver adds support for the Razer Hydra motion controller in SteamVR.<h2 class=\"bb_tag\">IMPORTANT!</h2><strong>Before installation, make sure to uninstall &quot;OpenVR Driver for Razer Hydra&quot; from your programs list in Windows! Not doing so can lead to unexpected behaviour.</strong><h2 class=\"bb_tag\">Compatibility</h2><ul class=\"bb_ul\"><li>To emulate a touch gesture on the Vive's trackpad (e.g. swiping), press and hold <strong>BUTTON3</strong> to start &quot;touching the trackpad&quot;, and then use the joystick to make the gesture.<br></li><li>UE4 games need to be run in compatibility mode. Check this thread for instructions: <a href=\"http://steamcommunity.com/app/491380/discussions/0/360670708779940695/\" target=\"_blank\" rel=\"noreferrer\"  >http://steamcommunity.com/app/491380/discussions/0/360670708779940695/</a></li></ul>",
+            "short_description": "This driver adds support for the Razer Hydra motion controller in SteamVR. If you own an Oculus Rift and a Razer Hydra – you can now play virtually any VIVE VR title on SteamVR!",
+            "supported_languages": "English",
+            "reviews": "“Today is the day all of us old Hydra users have been waiting for! That’s right! (...) anyone with a DK2 or a CV1 and a Razer Hydra can now play ALL of the HTC Vive games that are built in SteamVR! So much more content to enjoy!”<br><a href=\"https://steamcommunity.com/linkfilter/?url=http://www.vrspies.com/realitycheckvr/steamvr-will-now-allow-the-razer-hydra-as-motion-controllers/\" target=\"_blank\" rel=\"noopener\"  >VR Spies</a><br><br>“In one respect this is even better then Oculus Touch – because you immediately have access to a large catalog of games on SteamVR (and navigating SteamVR itself) using motion controllers.”<br><a href=\"https://steamcommunity.com/linkfilter/?url=http://talesfromtherift.com/play-vive-vr-room-scale-games-with-the-oculus-rift-razer-hydra-motion-controllers/\" target=\"_blank\" rel=\"noopener\"  >Tales From The Rift</a><br>",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/491380/header.jpg?t=1469807458",
+            "website": "https://github.com/betavr/steamvr_driver_hydra/",
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Window 7<br></li><li><strong>Storage:</strong> 2 MB available space<br></li><li><strong>Additional Notes:</strong> Razer Hydra motion controller required</li></ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "developers": [
+                "Andras Beck"
+            ],
+            "publishers": [
+                "betaVR"
+            ],
+            "package_groups": [],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "genres": [
+                {
+                    "id": "57",
+                    "description": "Utilities"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/491380/ss_91e0d4f333ae4448d5e87c95bf9b0fbd3dfd2e8c.600x338.jpg?t=1469807458",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/491380/ss_91e0d4f333ae4448d5e87c95bf9b0fbd3dfd2e8c.1920x1080.jpg?t=1469807458"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/491380/ss_5e58415b14760f3e69f46836ae1e8e3913eb9d9f.600x338.jpg?t=1469807458",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/491380/ss_5e58415b14760f3e69f46836ae1e8e3913eb9d9f.1920x1080.jpg?t=1469807458"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/491380/ss_1fc77e21fef6c8f6d5e46169271bbe702e0e2900.600x338.jpg?t=1469807458",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/491380/ss_1fc77e21fef6c8f6d5e46169271bbe702e0e2900.1920x1080.jpg?t=1469807458"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 256666289,
+                    "name": "Hydra Junkers",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256666289/movie.293x165.jpg?t=1469555783",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256666289/movie480.webm?t=1469555783",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256666289/movie_max.webm?t=1469555783"
+                    },
+                    "highlight": true
+                }
+            ],
+            "achievements": {
+                "total": 0
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "28 Jul, 2016"
+            },
+            "support_info": {
+                "url": "https://github.com/betavr/steamvr_driver_hydra/issues",
+                "email": "hydradriver@betavr.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/491380/page_bg_generated_v6b.jpg?t=1469807458",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

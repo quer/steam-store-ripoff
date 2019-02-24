@@ -1,0 +1,122 @@
+{
+    "885260": {
+        "success": true,
+        "data": {
+            "type": "dlc",
+            "name": "PlatONIR - Deluxe Edition",
+            "steam_appid": 885260,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "DLC adds 5 new levels",
+            "about_the_game": "DLC adds 5 new levels",
+            "short_description": "DLC adds 5 new levels",
+            "fullgame": {
+                "appid": "882070",
+                "name": "PlatONIR"
+            },
+            "supported_languages": "English",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/885260/header.jpg?t=1530690775",
+            "website": null,
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP, Vista, 7,8,10<br></li><li><strong>Processor:</strong> 2.0 GHz CPU Dual Core<br></li><li><strong>Memory:</strong> 1024 MB RAM<br></li><li><strong>Graphics:</strong> 512 MB<br></li><li><strong>Storage:</strong> 100 MB available space</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP, Vista, 7,8,10<br></li><li><strong>Processor:</strong> Core i3 or higher<br></li><li><strong>Memory:</strong> 1024 MB RAM<br></li><li><strong>Graphics:</strong> 1024 MB<br></li><li><strong>Storage:</strong> 100 MB available space</li></ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "developers": [
+                "PlatSTUDIO"
+            ],
+            "publishers": [
+                "PlatSTUDIO"
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 79,
+                "final": 39,
+                "discount_percent": 51,
+                "initial_formatted": "0,79€",
+                "final_formatted": "0,39€"
+            },
+            "packages": [
+                281394
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy PlatONIR - Deluxe Edition",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 281394,
+                            "percent_savings_text": "-51%",
+                            "percent_savings": 0,
+                            "option_text": "PlatONIR - Deluxe Edition - <span class=\"discount_original_price\">0,79€</span> 0,39€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 39
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 21,
+                    "description": "Downloadable Content"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "25",
+                    "description": "Adventure"
+                },
+                {
+                    "id": "4",
+                    "description": "Casual"
+                },
+                {
+                    "id": "23",
+                    "description": "Indie"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/885260/ss_ee4b708508c502809c044feeb37083bddaed72de.600x338.jpg?t=1530690775",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/885260/ss_ee4b708508c502809c044feeb37083bddaed72de.1920x1080.jpg?t=1530690775"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/885260/ss_a8261c0aa2cc3b929cab72a856925223b8a1854d.600x338.jpg?t=1530690775",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/885260/ss_a8261c0aa2cc3b929cab72a856925223b8a1854d.1920x1080.jpg?t=1530690775"
+                }
+            ],
+            "release_date": {
+                "coming_soon": false,
+                "date": "4 Jul, 2018"
+            },
+            "support_info": {
+                "url": "",
+                "email": "rn1nnsena0gq@mail.ru"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/885260/page_bg_generated_v6b.jpg?t=1530690775",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

@@ -1,0 +1,200 @@
+{
+    "415140": {
+        "success": true,
+        "data": {
+            "type": "game",
+            "name": "PD Howler 10",
+            "steam_appid": 415140,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "PD Howler 10 is a digital painting and visual effects program for Microsoft Windows (best on 7,8,10...)<br><br>Going beyond advanced digital painting,  Howler includes numerous visual effects tools, like compositing, rotoscoping, re-timing with motion estimation, block interpolation to extrapolate un-finished frames from your 3D program, camera stabilization and camera motion removal.  Add motion blur to stop motion, keyframe FX filters on a timeline, scan frames and clean them up, and a lot more. There is also a 3D capability, particularly useful for generating realistic landscapes, mountains and other items defined by an elevation maps.  PD Howler also supports 2-D animation, light-table, lip-syncing, and working on video.<h2 class=\"bb_tag\">Main Features:</h2><br><ul class=\"bb_ul\"><li>Paint: Digital painting with many types of brushes, including large custom images, image sequences (animated brushes that can be edited on a timeline), natural media brushes, particle brushes to spray paint grass and shrubberies or animate smoke and fireworks, bristle brushes for realistic oils and acrylics, “Orbicle” brushes with audio controlling their appearance, foliage brushes that grow and let you paint a complete tree in a single brush stroke, with 3D depth and ambient occlusion shading, plus a huge complement of presets.<br></li><li>Animate: Video frame editing and post work for special FX, traditional frame-by-frame animation and working with video on video, time stretching, motion estimated interpolation, batch processing, frame repairing, motion tracking, chromakeying, green screen compositing, rotoscoping, rendering of frames with added 'breathing' motion, exposure sheet for manual syncing against an audio track.  Remove camera motion to simplify rotoscoping and other effects, then re-apply the camera's motion.  There's also a very comprehensive set of filters that work in realtime, most of them animatable either directly or on a timeline.<br></li><li>3D: Capabilities include a 3D Designer for creating 3D terrains from elevation maps, adding erosion and sediments, coloration based on elevation and slope, ambient occlusion and raytraced shadows.  Puppy Ray rendering with global illumination and ray tracing on CPU or accelerated on the GPU, volumetric clouds with the animated Particle Modeler, and various filters for stylized lighting and perspective effects. You can render an animation wherein you fly across your landscape and keyframe its parameters. Exports for .obj format, erosion and elevation maps, texture map, shading maps, 3D mesh and feature maps (grass, rock and snow regions.)<br></li><li>FX: Numerous filters for post work in various categories: Adjustment filters, Coloring, Blur, Photographic filters, Sharpening, Convolution filters, Transformation filters (including 3D transforms,) Video related filters, Cleanup, Artistic filters, Stylize filters, Rendered effect filters, and a collection of Animated filters. There is are also sets of filters that combine the main image with the alternate swap image.  You can have multiple animations stored in memory or on disc in order to have them handy to combine and composite.</li></ul><h2 class=\"bb_tag\">Paint features:</h2><br><ul class=\"bb_ul\"><li>Natural media, many presets, fully customizable<br></li><li>Full digitazing tablet support, such as Wacom devices<br></li><li>Custom brushes, bristle brushes, particle brushes, foliage brushes, brushes under the influence of force fields<br></li><li>3D orbiting particle brushes (Orbicles)<br></li><li>Dynamic Rules-based Foliage brushes<br></li><li>Animated (multi-frame) custom brushes<br></li><li>Pigment lifting for realistic paint effects<br></li><li>Well over 100 fast full featured filters.  Real-time is our middle name. See below for more on Filters<br></li><li>Premium color mixing tools.  Red-yellow-blue, complementary, palette mixer, lots more.<br></li><li>Multi-monitor support<br></li><li>Mirror mode and Symmetrical painting, Kaleidoscope mode<br></li><li>Frame your artwork<br></li><li>Brush keying<br></li><li>Brushes whose size is affected by another (Swap) image <br></li><li>Brushes whose size is controlled by an envelope<br></li><li>Brushes whose size is affected by audio</li></ul><h2 class=\"bb_tag\">Additional controls in the context bar that appears with several tools. Main Tools found in the toolbar:</h2><br><ul class=\"bb_ul\"><li>Brush tool: for drawing and painting: Simple, Airbrush, Pen, Pencil, Oils, Tempera, Pastels, Watercolor, Effects brushes (such as Smear), Organic effects (flowers, stars,...), User, Particles, Bristle brushes, Paint on alpha and plenty more brush presets in the media Browser. <br></li><li>Fill tool: to fill with palin colors, gradients or even patterns and images, straight or warped into the shape or selection<br></li><li>The linear tool: draws along a sraight line, but with the current brush, whatever that brush does may not be so straight<br></li><li>The Curve tool: (it's almost like a paint program in itself). Includes animated features for rotoscoping and animating the shape of the curve. Insanely powerful. EVen simulates easing in and out at start and end of the brush stroke, to simulate the look of a tablet pen when using a mouse!<br></li><li>Gradients, Lens flares and special effects: Linear gradient, circular gradient, gradient modes, linear gradient grabber, cumulative selection fader, Warp tool, Nova, awesome(!) lens flares, and Lightning<br></li><li>Text tool: render the text into the image, or as selection to alpha channel, or make it the custom brush, even animated brush<br></li><li>Rectangle too: Hollow or Filled. Hollow is with current brush, filled is with current Fill settings.<br></li><li>Ellipse tool: also hollow or filled circles and ovals<br></li><li>Rectangle to alpha: one of many ways to build sophisticated selections. Use SHift to add/remove with left or right button<br></li><li>Ellipse to alpha<br></li><li>Lasso to alpha<br></li><li>Magic Wand<br></li><li>Custom brush selector tool: pick a region from the current image, turn it into a custom brush, complete with alpha transparency from the current selection mask in the alpha channel.<br></li><li>Color picker<br></li><li>Scroll tool: move the image around.<br></li><li>Zoom tool<br></li><li>Zoom 100%<br></li><li>Fit the image to the window<br></li><li>Undo / Redo tool: use left or right button, even middle scroll button for interactive, blended undo<br></li><li>Clear the image: left click = just do it, right-click shows various options<br></li><li>Color toggle: Primary vs. Secondary colors</li></ul><h2 class=\"bb_tag\">There is also a Sidebar, with numerous controls for:</h2><br><ul class=\"bb_ul\"><li>Previews<br></li><li>Compact color picker<br></li><li>Color: more sophisticated color pickers: RGB, RGB2, Box, Triangle, Wheel, Mixer, Harmony, DOgwaffle color picker, Colors by name, system color picker, hex color picker and more. Any stored image can also act as a color picker.<br></li><li>Color Swatches<br></li><li>Layers<br></li><li>Info<br></li><li>Grids: Ruler, Drawing grid, Visible grid, Artist guides, and the all new Z scale guide (affecting the brush size by the underlying Swap image)</li></ul><h2 class=\"bb_tag\">Animation features:</h2><br><ul class=\"bb_ul\"><li>Traditional animation<br></li><li>Onion skin<br></li><li>Load/Save AVI's, frame sequences<br></li><li>Frame scanning<br></li><li>Line cleanup and non-photo blue removal<br></li><li>Timeline to apply filters<br></li><li>Exposure sheet with lip syncing<br></li><li>Frame sequencer<br></li><li>Rotoscoping matte creation<br></li><li>Motion analysis to create slow motion or add motion blur to stop motion<br></li><li>Animated brush timeline<br></li><li>Animated brush keyframer<br></li><li>Animation retiming<br></li><li>Interlaced video support<br></li><li>Batch processing<br></li><li>Batch conversion and renaming<br></li><li>Particles, 3D hight map, etc.<br></li><li>Image stabilization.  Camera motion smoothing, removal and re-addition.<br></li><li>Motion tracking in Brush keyframer<br></li><li>Motion prediction for frame extrapolation and selective motion blurring<br></li><li>Mirror transform (vertical/horizontal) all frames of an animation frame-level and block-level editing (in/out markers, copy, paste, cut, delete, insert, reverse sequence order, make loopable, time stretching with frame blending...) animated swap channel and alpha channels from DWA or AVI files animated renderings in Raytracing with Puppy Ray</li></ul><h2 class=\"bb_tag\">Filters and Special FX:</h2><br><ul class=\"bb_ul\"><li>Filters for still images + Filters for animations<br></li><li>Adjust: Color, Value, Threshold, Saturation, Hue/Sat/Val, Auto balance, Tint, Value only contrast, Levels, Curves, Color FX, Adjust All...<br></li><li>Color: Map to current gradient, Negative, Invert value, Swap channels, Roll channels, Power curve, Posterize, Color replacer, Solarize, Sepia, Halftone, Halftone plus, Graphic halftone, Duotone, Tritone, 12-bit dither, 8-bit-dither, 1-bit-dither (Optimized, Error diffused, random,...)<br></li><li>Blur: Simple blur, Box filter, Gaussian blur, Custom blur, Motion blur, Zoom blur, Mystic vision, Chroma blur, Radial blur<br></li><li>Photographic: Soft contrast improvement, Light diffusion, Star filter, Fish eye, Fog filter, Sunset, Polarize, Day for night, Remove red from selection<br></li><li>Sharpen: Sharpen, Unsharp mask, Digital photo enhance, maX sharpen<br></li><li>Convolve: Grey emboss, Color emboss,  Edge detect, Sobel edge detect, Color sobel edges, Maximum, Median, Minimum, MaxMin, MinMaxz, High pass, Abs, Gradient convolve, Convolution kernel, Iterative median, Adjustable median, Adjustable maximum, Adjustable minimum<br></li><li>Noise: Value noise, Color noise, Jitter, Jitter blur plus, Film grain<br></li><li>Transform: Transform, Shift, Warp mesh, Isometric 3d, 3D designer, Puppy Ray (Ray tracing) Spherize, Globe, Textrix, Z noise, Twirl, Crystalize, Sinoid, Mosaic, Quilt, Rubber sheet, Wave distort, Mirage, Mirror, Fisheye correction, 3d perspective<br></li><li>Video: Slate color bars, De-interlace, Reverse fields, Reduce flicker, Video lines, Legalize (NTSC), Legalize (PAL), Countdown, TV pixels, Raster lines, Shift RGB, Repair dropput<br></li><li>Artistic: Apply current paper, Wet paint, Brush strokes, Tarnish, Weave, Graphic Pen, Oilify, Cross contour, Woodcut<br></li><li>Stylize: Lighting tool (3D), Glowing edges, Plastic wrap, Waxify<br></li><li>Render: Plasma noise, Bumby toy, Noises (Perlin1, 2, Fractal, Cosine), Radiant, Sky, Dread plating, Cellular, Checkerboard, Cold lava, Europa, Starfield, Brick texture, Woodgrain, Grid, Zrings, Mandelbrot, Triangles, Color cubes<br></li><li>Animated: Starry night, Animated glows and flares, Wiggle warp, Time shift RGB, Multi frame spherize, Tunnel, Wave in breeze, Sunset, Film flicker, Confetti, Multicolor, Time slice by alpha, Stabilize, Merge (keep selection opaque), Fill selection, Stroke path,Motion prediction module, Apply mirror, Undo buffer to animation<br></li><li>Combine with Swap: Mix buffers, Alpha blit, Premultiplied alpha blit, Additive, Subtractive, Multiply, Divide, Screen, Luminance, Complement, Difference, Around grey, Greater than, Less than, Texturize, Binary, Hue, Sat, Val, And, Or, Xor<br></li><li>Composite with Swap: Green screen, Blue screen, Color key<br></li><li>Displace by Swap: Displace, Cloaking displace, Pool displace, Jitter displace, Colortwirl displace<br></li><li>Emboss by Swap and many more: LUA filters (gluas), DoggyFX, AnyFX for PD (by Pixelan), other 3rd-party plugins, make your own (free programming API), Array to Animation, Audio Recorder, Average Frames, CalendarWidget, Channels, Clock, Clock2, DogLuaBrowser, DogLuaEdit, Fieldpack, Forcefield, FramefromClipboard, Halloween_Clock2, Hexadecimal Picker, HexPackedCOlor, MatteCutter, MediaPlayerWidget, ModDogPlayer, Mouth, NumericSelect, Penny, Black hole, BlueRemove, Brick texture, LightBloom, Mirrage, Oilify, RandomFlares, SmudgeStick, Triangles, Tunnel, Wave distort, Wave in Breeze, Composite with image sequence (Greenscreen, Bluescreen, Color key, Alpha key(!), Cell edge composition), Ghosting, Snow fall, Old film, Lightning, heavenly animated Lens flares ...</li></ul>",
+            "about_the_game": "PD Howler 10 is a digital painting and visual effects program for Microsoft Windows (best on 7,8,10...)<br><br>Going beyond advanced digital painting,  Howler includes numerous visual effects tools, like compositing, rotoscoping, re-timing with motion estimation, block interpolation to extrapolate un-finished frames from your 3D program, camera stabilization and camera motion removal.  Add motion blur to stop motion, keyframe FX filters on a timeline, scan frames and clean them up, and a lot more. There is also a 3D capability, particularly useful for generating realistic landscapes, mountains and other items defined by an elevation maps.  PD Howler also supports 2-D animation, light-table, lip-syncing, and working on video.<h2 class=\"bb_tag\">Main Features:</h2><br><ul class=\"bb_ul\"><li>Paint: Digital painting with many types of brushes, including large custom images, image sequences (animated brushes that can be edited on a timeline), natural media brushes, particle brushes to spray paint grass and shrubberies or animate smoke and fireworks, bristle brushes for realistic oils and acrylics, “Orbicle” brushes with audio controlling their appearance, foliage brushes that grow and let you paint a complete tree in a single brush stroke, with 3D depth and ambient occlusion shading, plus a huge complement of presets.<br></li><li>Animate: Video frame editing and post work for special FX, traditional frame-by-frame animation and working with video on video, time stretching, motion estimated interpolation, batch processing, frame repairing, motion tracking, chromakeying, green screen compositing, rotoscoping, rendering of frames with added 'breathing' motion, exposure sheet for manual syncing against an audio track.  Remove camera motion to simplify rotoscoping and other effects, then re-apply the camera's motion.  There's also a very comprehensive set of filters that work in realtime, most of them animatable either directly or on a timeline.<br></li><li>3D: Capabilities include a 3D Designer for creating 3D terrains from elevation maps, adding erosion and sediments, coloration based on elevation and slope, ambient occlusion and raytraced shadows.  Puppy Ray rendering with global illumination and ray tracing on CPU or accelerated on the GPU, volumetric clouds with the animated Particle Modeler, and various filters for stylized lighting and perspective effects. You can render an animation wherein you fly across your landscape and keyframe its parameters. Exports for .obj format, erosion and elevation maps, texture map, shading maps, 3D mesh and feature maps (grass, rock and snow regions.)<br></li><li>FX: Numerous filters for post work in various categories: Adjustment filters, Coloring, Blur, Photographic filters, Sharpening, Convolution filters, Transformation filters (including 3D transforms,) Video related filters, Cleanup, Artistic filters, Stylize filters, Rendered effect filters, and a collection of Animated filters. There is are also sets of filters that combine the main image with the alternate swap image.  You can have multiple animations stored in memory or on disc in order to have them handy to combine and composite.</li></ul><h2 class=\"bb_tag\">Paint features:</h2><br><ul class=\"bb_ul\"><li>Natural media, many presets, fully customizable<br></li><li>Full digitazing tablet support, such as Wacom devices<br></li><li>Custom brushes, bristle brushes, particle brushes, foliage brushes, brushes under the influence of force fields<br></li><li>3D orbiting particle brushes (Orbicles)<br></li><li>Dynamic Rules-based Foliage brushes<br></li><li>Animated (multi-frame) custom brushes<br></li><li>Pigment lifting for realistic paint effects<br></li><li>Well over 100 fast full featured filters.  Real-time is our middle name. See below for more on Filters<br></li><li>Premium color mixing tools.  Red-yellow-blue, complementary, palette mixer, lots more.<br></li><li>Multi-monitor support<br></li><li>Mirror mode and Symmetrical painting, Kaleidoscope mode<br></li><li>Frame your artwork<br></li><li>Brush keying<br></li><li>Brushes whose size is affected by another (Swap) image <br></li><li>Brushes whose size is controlled by an envelope<br></li><li>Brushes whose size is affected by audio</li></ul><h2 class=\"bb_tag\">Additional controls in the context bar that appears with several tools. Main Tools found in the toolbar:</h2><br><ul class=\"bb_ul\"><li>Brush tool: for drawing and painting: Simple, Airbrush, Pen, Pencil, Oils, Tempera, Pastels, Watercolor, Effects brushes (such as Smear), Organic effects (flowers, stars,...), User, Particles, Bristle brushes, Paint on alpha and plenty more brush presets in the media Browser. <br></li><li>Fill tool: to fill with palin colors, gradients or even patterns and images, straight or warped into the shape or selection<br></li><li>The linear tool: draws along a sraight line, but with the current brush, whatever that brush does may not be so straight<br></li><li>The Curve tool: (it's almost like a paint program in itself). Includes animated features for rotoscoping and animating the shape of the curve. Insanely powerful. EVen simulates easing in and out at start and end of the brush stroke, to simulate the look of a tablet pen when using a mouse!<br></li><li>Gradients, Lens flares and special effects: Linear gradient, circular gradient, gradient modes, linear gradient grabber, cumulative selection fader, Warp tool, Nova, awesome(!) lens flares, and Lightning<br></li><li>Text tool: render the text into the image, or as selection to alpha channel, or make it the custom brush, even animated brush<br></li><li>Rectangle too: Hollow or Filled. Hollow is with current brush, filled is with current Fill settings.<br></li><li>Ellipse tool: also hollow or filled circles and ovals<br></li><li>Rectangle to alpha: one of many ways to build sophisticated selections. Use SHift to add/remove with left or right button<br></li><li>Ellipse to alpha<br></li><li>Lasso to alpha<br></li><li>Magic Wand<br></li><li>Custom brush selector tool: pick a region from the current image, turn it into a custom brush, complete with alpha transparency from the current selection mask in the alpha channel.<br></li><li>Color picker<br></li><li>Scroll tool: move the image around.<br></li><li>Zoom tool<br></li><li>Zoom 100%<br></li><li>Fit the image to the window<br></li><li>Undo / Redo tool: use left or right button, even middle scroll button for interactive, blended undo<br></li><li>Clear the image: left click = just do it, right-click shows various options<br></li><li>Color toggle: Primary vs. Secondary colors</li></ul><h2 class=\"bb_tag\">There is also a Sidebar, with numerous controls for:</h2><br><ul class=\"bb_ul\"><li>Previews<br></li><li>Compact color picker<br></li><li>Color: more sophisticated color pickers: RGB, RGB2, Box, Triangle, Wheel, Mixer, Harmony, DOgwaffle color picker, Colors by name, system color picker, hex color picker and more. Any stored image can also act as a color picker.<br></li><li>Color Swatches<br></li><li>Layers<br></li><li>Info<br></li><li>Grids: Ruler, Drawing grid, Visible grid, Artist guides, and the all new Z scale guide (affecting the brush size by the underlying Swap image)</li></ul><h2 class=\"bb_tag\">Animation features:</h2><br><ul class=\"bb_ul\"><li>Traditional animation<br></li><li>Onion skin<br></li><li>Load/Save AVI's, frame sequences<br></li><li>Frame scanning<br></li><li>Line cleanup and non-photo blue removal<br></li><li>Timeline to apply filters<br></li><li>Exposure sheet with lip syncing<br></li><li>Frame sequencer<br></li><li>Rotoscoping matte creation<br></li><li>Motion analysis to create slow motion or add motion blur to stop motion<br></li><li>Animated brush timeline<br></li><li>Animated brush keyframer<br></li><li>Animation retiming<br></li><li>Interlaced video support<br></li><li>Batch processing<br></li><li>Batch conversion and renaming<br></li><li>Particles, 3D hight map, etc.<br></li><li>Image stabilization.  Camera motion smoothing, removal and re-addition.<br></li><li>Motion tracking in Brush keyframer<br></li><li>Motion prediction for frame extrapolation and selective motion blurring<br></li><li>Mirror transform (vertical/horizontal) all frames of an animation frame-level and block-level editing (in/out markers, copy, paste, cut, delete, insert, reverse sequence order, make loopable, time stretching with frame blending...) animated swap channel and alpha channels from DWA or AVI files animated renderings in Raytracing with Puppy Ray</li></ul><h2 class=\"bb_tag\">Filters and Special FX:</h2><br><ul class=\"bb_ul\"><li>Filters for still images + Filters for animations<br></li><li>Adjust: Color, Value, Threshold, Saturation, Hue/Sat/Val, Auto balance, Tint, Value only contrast, Levels, Curves, Color FX, Adjust All...<br></li><li>Color: Map to current gradient, Negative, Invert value, Swap channels, Roll channels, Power curve, Posterize, Color replacer, Solarize, Sepia, Halftone, Halftone plus, Graphic halftone, Duotone, Tritone, 12-bit dither, 8-bit-dither, 1-bit-dither (Optimized, Error diffused, random,...)<br></li><li>Blur: Simple blur, Box filter, Gaussian blur, Custom blur, Motion blur, Zoom blur, Mystic vision, Chroma blur, Radial blur<br></li><li>Photographic: Soft contrast improvement, Light diffusion, Star filter, Fish eye, Fog filter, Sunset, Polarize, Day for night, Remove red from selection<br></li><li>Sharpen: Sharpen, Unsharp mask, Digital photo enhance, maX sharpen<br></li><li>Convolve: Grey emboss, Color emboss,  Edge detect, Sobel edge detect, Color sobel edges, Maximum, Median, Minimum, MaxMin, MinMaxz, High pass, Abs, Gradient convolve, Convolution kernel, Iterative median, Adjustable median, Adjustable maximum, Adjustable minimum<br></li><li>Noise: Value noise, Color noise, Jitter, Jitter blur plus, Film grain<br></li><li>Transform: Transform, Shift, Warp mesh, Isometric 3d, 3D designer, Puppy Ray (Ray tracing) Spherize, Globe, Textrix, Z noise, Twirl, Crystalize, Sinoid, Mosaic, Quilt, Rubber sheet, Wave distort, Mirage, Mirror, Fisheye correction, 3d perspective<br></li><li>Video: Slate color bars, De-interlace, Reverse fields, Reduce flicker, Video lines, Legalize (NTSC), Legalize (PAL), Countdown, TV pixels, Raster lines, Shift RGB, Repair dropput<br></li><li>Artistic: Apply current paper, Wet paint, Brush strokes, Tarnish, Weave, Graphic Pen, Oilify, Cross contour, Woodcut<br></li><li>Stylize: Lighting tool (3D), Glowing edges, Plastic wrap, Waxify<br></li><li>Render: Plasma noise, Bumby toy, Noises (Perlin1, 2, Fractal, Cosine), Radiant, Sky, Dread plating, Cellular, Checkerboard, Cold lava, Europa, Starfield, Brick texture, Woodgrain, Grid, Zrings, Mandelbrot, Triangles, Color cubes<br></li><li>Animated: Starry night, Animated glows and flares, Wiggle warp, Time shift RGB, Multi frame spherize, Tunnel, Wave in breeze, Sunset, Film flicker, Confetti, Multicolor, Time slice by alpha, Stabilize, Merge (keep selection opaque), Fill selection, Stroke path,Motion prediction module, Apply mirror, Undo buffer to animation<br></li><li>Combine with Swap: Mix buffers, Alpha blit, Premultiplied alpha blit, Additive, Subtractive, Multiply, Divide, Screen, Luminance, Complement, Difference, Around grey, Greater than, Less than, Texturize, Binary, Hue, Sat, Val, And, Or, Xor<br></li><li>Composite with Swap: Green screen, Blue screen, Color key<br></li><li>Displace by Swap: Displace, Cloaking displace, Pool displace, Jitter displace, Colortwirl displace<br></li><li>Emboss by Swap and many more: LUA filters (gluas), DoggyFX, AnyFX for PD (by Pixelan), other 3rd-party plugins, make your own (free programming API), Array to Animation, Audio Recorder, Average Frames, CalendarWidget, Channels, Clock, Clock2, DogLuaBrowser, DogLuaEdit, Fieldpack, Forcefield, FramefromClipboard, Halloween_Clock2, Hexadecimal Picker, HexPackedCOlor, MatteCutter, MediaPlayerWidget, ModDogPlayer, Mouth, NumericSelect, Penny, Black hole, BlueRemove, Brick texture, LightBloom, Mirrage, Oilify, RandomFlares, SmudgeStick, Triangles, Tunnel, Wave distort, Wave in Breeze, Composite with image sequence (Greenscreen, Bluescreen, Color key, Alpha key(!), Cell edge composition), Ghosting, Snow fall, Old film, Lightning, heavenly animated Lens flares ...</li></ul>",
+            "short_description": "Going beyond advanced digital painting, Howler includes numerous visual effects tools, like compositing, rotoscoping, re-timing with motion estimation, block interpolation to extrapolate un-finished frames from your 3D program, camera stabilization and camera motion removal.",
+            "supported_languages": "English",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/415140/header.jpg?t=1469131286",
+            "website": "http://www.thebest3d.com",
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7/8/10<br></li><li><strong>Processor:</strong> New enough to support GDI+<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Additional Notes:</strong> Some features won't work in XP or Vista</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7/8/10<br></li><li><strong>Processor:</strong> Quad core or higher will help<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Additional Notes:</strong> Some features won't work in XP or Vista</li></ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "developers": [
+                "Daniel Ritchie - Squirreldome.com",
+                "Philip Staiger - TheBest3D.com"
+            ],
+            "publishers": [
+                "KISS ltd"
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 3699,
+                "final": 3699,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "36,99€"
+            },
+            "packages": [
+                83504
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy PD Howler 10",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 83504,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "PD Howler 10 - 36,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 3699
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "genres": [
+                {
+                    "id": "51",
+                    "description": "Animation & Modeling"
+                },
+                {
+                    "id": "53",
+                    "description": "Design & Illustration"
+                },
+                {
+                    "id": "54",
+                    "description": "Education"
+                },
+                {
+                    "id": "55",
+                    "description": "Photo Editing"
+                },
+                {
+                    "id": "56",
+                    "description": "Software Training"
+                },
+                {
+                    "id": "57",
+                    "description": "Utilities"
+                },
+                {
+                    "id": "58",
+                    "description": "Video Production"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/415140/ss_75c3bcdf54a792ec1237af441f9dcea96c076ada.600x338.jpg?t=1469131286",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/415140/ss_75c3bcdf54a792ec1237af441f9dcea96c076ada.1920x1080.jpg?t=1469131286"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/415140/ss_04d808b121f6b3b93481b67dba9b93c1861e38dd.600x338.jpg?t=1469131286",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/415140/ss_04d808b121f6b3b93481b67dba9b93c1861e38dd.1920x1080.jpg?t=1469131286"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/415140/ss_5e3559ecfb6e09959326841fbb7abc34cdf0af17.600x338.jpg?t=1469131286",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/415140/ss_5e3559ecfb6e09959326841fbb7abc34cdf0af17.1920x1080.jpg?t=1469131286"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/415140/ss_47e25f6614c66ca474b71553d9bbb61774acf9a6.600x338.jpg?t=1469131286",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/415140/ss_47e25f6614c66ca474b71553d9bbb61774acf9a6.1920x1080.jpg?t=1469131286"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/415140/ss_280bde78f3892ad6a9cbac889499a8542ad8acab.600x338.jpg?t=1469131286",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/415140/ss_280bde78f3892ad6a9cbac889499a8542ad8acab.1920x1080.jpg?t=1469131286"
+                },
+                {
+                    "id": 5,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/415140/ss_99535b4857bc6ce5fc5777d26e9620ee2e05ab2d.600x338.jpg?t=1469131286",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/415140/ss_99535b4857bc6ce5fc5777d26e9620ee2e05ab2d.1920x1080.jpg?t=1469131286"
+                },
+                {
+                    "id": 6,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/415140/ss_5f522cd1c8865c6d95fffbd680934564a1e3985f.600x338.jpg?t=1469131286",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/415140/ss_5f522cd1c8865c6d95fffbd680934564a1e3985f.1920x1080.jpg?t=1469131286"
+                },
+                {
+                    "id": 7,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/415140/ss_facf0d2a5be2ace9851ae07fdb6d4d26086b2253.600x338.jpg?t=1469131286",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/415140/ss_facf0d2a5be2ace9851ae07fdb6d4d26086b2253.1920x1080.jpg?t=1469131286"
+                },
+                {
+                    "id": 8,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/415140/ss_97c6e6899bb411d0b602464e938fdcc4fb2a9931.600x338.jpg?t=1469131286",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/415140/ss_97c6e6899bb411d0b602464e938fdcc4fb2a9931.1920x1080.jpg?t=1469131286"
+                },
+                {
+                    "id": 9,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/415140/ss_53c23e37cca3745752c78040db9c3b483f7a17c1.600x338.jpg?t=1469131286",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/415140/ss_53c23e37cca3745752c78040db9c3b483f7a17c1.1920x1080.jpg?t=1469131286"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 256663505,
+                    "name": "PD Howler 10 Trailer",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256663505/movie.293x165.jpg?t=1462257564",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256663505/movie480.webm?t=1462257564",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256663505/movie_max.webm?t=1462257564"
+                    },
+                    "highlight": true
+                },
+                {
+                    "id": 256663506,
+                    "name": "Introducing PD Howler",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256663506/movie.293x165.jpg?t=1462257575",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256663506/movie480.webm?t=1462257575",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256663506/movie_max.webm?t=1462257575"
+                    },
+                    "highlight": true
+                },
+                {
+                    "id": 256663507,
+                    "name": "Howler Features",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256663507/movie.293x165.jpg?t=1462257586",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256663507/movie480.webm?t=1462257586",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256663507/movie_max.webm?t=1462257586"
+                    },
+                    "highlight": true
+                }
+            ],
+            "achievements": {
+                "total": 0
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "6 May, 2016"
+            },
+            "support_info": {
+                "url": "http://www.thebest3d.com/dogwaffle/support",
+                "email": "howler_support@thebest3d.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/415140/page_bg_generated_v6b.jpg?t=1469131286",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

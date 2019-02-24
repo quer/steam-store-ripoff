@@ -1,0 +1,156 @@
+{
+    "863600": {
+        "success": true,
+        "data": {
+            "type": "dlc",
+            "name": "Comet Crasher - Awesome Badge (\"Buy Me Coffee\")",
+            "steam_appid": 863600,
+            "required_age": 0,
+            "is_free": false,
+            "controller_support": "full",
+            "detailed_description": "<h2 class=\"bb_tag\">What's this?</h2>In the rare event that your comet crashing experience is lacking that special kind of bling, look no further. Available for you to feast your eyes upon is a beautiful shiny golden paintjob for your very own comet!<br><br>And that's not all - you also get a star next to your name on your leaderboard entries, so everyone else knows how awesome you are! The leaderboard badge will be colored with your chosen accent color at the time of score submission.<h2 class=\"bb_tag\">Support development!</h2><strong>In all seriousness, this is just a gold paintjob and a star icon.</strong> I made it so that people who really love this game could buy me a coffee to fuel another late night of programming, as the rest of the game is released entirely for free. This DLC does not give you any buffs or in-game advantages; that'd be a bit unfair.<br><br>Game development is hard work; a fair number of long days and nights have gone into the creation of this game. I hope that you've found it enjoyable, perhaps even enough to warrant a pat on a dev's back. If that sounds agreeable to you, you're in the right place - if not, hit that back button and enjoy the game as it is. :)",
+            "about_the_game": "<h2 class=\"bb_tag\">What's this?</h2>In the rare event that your comet crashing experience is lacking that special kind of bling, look no further. Available for you to feast your eyes upon is a beautiful shiny golden paintjob for your very own comet!<br><br>And that's not all - you also get a star next to your name on your leaderboard entries, so everyone else knows how awesome you are! The leaderboard badge will be colored with your chosen accent color at the time of score submission.<h2 class=\"bb_tag\">Support development!</h2><strong>In all seriousness, this is just a gold paintjob and a star icon.</strong> I made it so that people who really love this game could buy me a coffee to fuel another late night of programming, as the rest of the game is released entirely for free. This DLC does not give you any buffs or in-game advantages; that'd be a bit unfair.<br><br>Game development is hard work; a fair number of long days and nights have gone into the creation of this game. I hope that you've found it enjoyable, perhaps even enough to warrant a pat on a dev's back. If that sounds agreeable to you, you're in the right place - if not, hit that back button and enjoy the game as it is. :)",
+            "short_description": "In the rare event that your comet crashing experience is lacking that special kind of bling, look no further. Available for you to feast your eyes upon is a beautiful shiny golden paintjob for your very own comet!",
+            "fullgame": {
+                "appid": "862160",
+                "name": "Comet Crasher"
+            },
+            "supported_languages": "English",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/863600/header.jpg?t=1550051056",
+            "website": null,
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 / 8 / 8.1 / 10<br></li><li><strong>Processor:</strong> Intel i5 or i7, dual-core, 2.4GHz or higher (or AMD equivalent). SSE2 support required.<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> 128 MB video memory or more, DirectX 10 or higher, Shader Model 4 or higher<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Storage:</strong> 100 MB available space<br></li><li><strong>Additional Notes:</strong> Internet connection required to participate in online leaderboard</li></ul>"
+            },
+            "mac_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OS X 10.9 or higher<br></li><li><strong>Processor:</strong> Intel i5 or i7, dual-core, 2.4GHz or higher (or AMD equivalent). SSE2 support required.<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> 128 MB video memory or more, Shader Model 4 or higher<br></li><li><strong>Storage:</strong> 100 MB available space<br></li><li><strong>Additional Notes:</strong> Internet connection required to participate in online leaderboard</li></ul>"
+            },
+            "linux_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 12.04 or higher, or SteamOS 2.0 or newer<br></li><li><strong>Processor:</strong> Intel i5 or i7, dual-core, 2.4GHz or higher (or AMD equivalent). SSE2 support required.<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> 128 MB video memory or more, Shader Model 4 or higher<br></li><li><strong>Storage:</strong> 100 MB available space<br></li><li><strong>Sound Card:</strong> OpenAL-compatible sound card<br></li><li><strong>Additional Notes:</strong> Internet connection required to participate in online leaderboard</li></ul>"
+            },
+            "developers": [
+                "Mika Molenkamp"
+            ],
+            "publishers": [
+                ""
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 329,
+                "final": 329,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "3,29€"
+            },
+            "packages": [
+                272220
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Comet Crasher - Awesome Badge (\"Buy Me Coffee\")",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 272220,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Comet Crasher - Awesome Badge (\"Buy Me Coffee\") - 3,29€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 329
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 21,
+                    "description": "Downloadable Content"
+                },
+                {
+                    "id": 22,
+                    "description": "Steam Achievements"
+                },
+                {
+                    "id": 28,
+                    "description": "Full controller support"
+                },
+                {
+                    "id": 23,
+                    "description": "Steam Cloud"
+                },
+                {
+                    "id": 15,
+                    "description": "Stats"
+                },
+                {
+                    "id": 25,
+                    "description": "Steam Leaderboards"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "1",
+                    "description": "Action"
+                },
+                {
+                    "id": "37",
+                    "description": "Free to Play"
+                },
+                {
+                    "id": "23",
+                    "description": "Indie"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/863600/ss_f8418716232b4e4663fe25583a5fd15f06e0eb59.600x338.jpg?t=1550051056",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/863600/ss_f8418716232b4e4663fe25583a5fd15f06e0eb59.1920x1080.jpg?t=1550051056"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/863600/ss_ccc91c437b70ee257e031a3077a231405c9d3da9.600x338.jpg?t=1550051056",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/863600/ss_ccc91c437b70ee257e031a3077a231405c9d3da9.1920x1080.jpg?t=1550051056"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/863600/ss_f8e2c1e933bffd4c1acdc4478d22e77397e7611e.600x338.jpg?t=1550051056",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/863600/ss_f8e2c1e933bffd4c1acdc4478d22e77397e7611e.1920x1080.jpg?t=1550051056"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/863600/ss_128c4a1c173d9b0c29f333f74362fba21ffa1023.600x338.jpg?t=1550051056",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/863600/ss_128c4a1c173d9b0c29f333f74362fba21ffa1023.1920x1080.jpg?t=1550051056"
+                }
+            ],
+            "release_date": {
+                "coming_soon": false,
+                "date": "13 Feb, 2019"
+            },
+            "support_info": {
+                "url": "",
+                "email": "support@syllendel.nl"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/863600/page_bg_generated_v6b.jpg?t=1550051056",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

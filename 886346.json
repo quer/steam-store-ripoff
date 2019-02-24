@@ -1,0 +1,95 @@
+{
+    "886346": {
+        "success": true,
+        "data": {
+            "type": "episode",
+            "name": "PHOBIA: No Parking",
+            "steam_appid": 886346,
+            "required_age": "17",
+            "is_free": false,
+            "controller_support": "full",
+            "detailed_description": "",
+            "about_the_game": "",
+            "short_description": "When a man is forced to spend the night in his car after it mysteriously breaks down; he has a run into with a terrifying creature.",
+            "fullgame": {
+                "appid": "714920",
+                "name": "PHOBIA"
+            },
+            "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/886346/header.jpg?t=1536346831",
+            "website": null,
+            "pc_requirements": [],
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "publishers": [
+                ""
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 79,
+                "final": 79,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "0,79€"
+            },
+            "packages": [
+                281943
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy PHOBIA: No Parking",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 281943,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "PHOBIA: No Parking - 0,79€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 79
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 28,
+                    "description": "Full controller support"
+                },
+                {
+                    "id": 33,
+                    "description": "Native Steam Controller Support"
+                },
+                {
+                    "id": 13,
+                    "description": "Captions available"
+                }
+            ],
+            "release_date": {
+                "coming_soon": false,
+                "date": "7 Sep, 2018"
+            },
+            "support_info": {
+                "url": "",
+                "email": ""
+            },
+            "background": "",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

@@ -1,0 +1,132 @@
+{
+    "548920": {
+        "success": true,
+        "data": {
+            "type": "dlc",
+            "name": "Zombie Exodus: Safe Haven - Skill Point Bonus",
+            "steam_appid": 548920,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "Get twenty-five bonus points at the start of the game.",
+            "about_the_game": "Get twenty-five bonus points at the start of the game.",
+            "short_description": "Get twenty-five bonus points at the start of the game.",
+            "fullgame": {
+                "appid": "543980",
+                "name": "Zombie Exodus: Safe Haven"
+            },
+            "supported_languages": "English",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/548920/header.jpg?t=1477676970",
+            "website": "https://www.choiceofgames.com/",
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP</li></ul>"
+            },
+            "mac_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 10.6</li></ul>"
+            },
+            "linux_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 12.04</li></ul>"
+            },
+            "developers": [
+                "Hosted Games"
+            ],
+            "publishers": [
+                "Hosted Games"
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 79,
+                "final": 79,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "0,79€"
+            },
+            "packages": [
+                135734
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Zombie Exodus: Safe Haven - Skill Point Bonus",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 135734,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Zombie Exodus: Safe Haven - Skill Point Bonus - 0,79€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 79
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": true,
+                "linux": true
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 21,
+                    "description": "Downloadable Content"
+                },
+                {
+                    "id": 22,
+                    "description": "Steam Achievements"
+                },
+                {
+                    "id": 13,
+                    "description": "Captions available"
+                },
+                {
+                    "id": 23,
+                    "description": "Steam Cloud"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "25",
+                    "description": "Adventure"
+                },
+                {
+                    "id": "23",
+                    "description": "Indie"
+                },
+                {
+                    "id": "3",
+                    "description": "RPG"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/548920/ss_8c91fd47dbda366ade21a179861acc66757ae04e.600x338.jpg?t=1477676970",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/548920/ss_8c91fd47dbda366ade21a179861acc66757ae04e.1920x1080.jpg?t=1477676970"
+                }
+            ],
+            "release_date": {
+                "coming_soon": false,
+                "date": "28 Oct, 2016"
+            },
+            "support_info": {
+                "url": "https://www.choiceofgames.com",
+                "email": "support-zexsh-steam@hostedgames.org"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/548920/page_bg_generated_v6b.jpg?t=1477676970",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

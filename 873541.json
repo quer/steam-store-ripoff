@@ -1,0 +1,122 @@
+{
+    "873541": {
+        "success": true,
+        "data": {
+            "type": "dlc",
+            "name": "Ultimate Sudoku Collection - Even Odd Pack",
+            "steam_appid": 873541,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "Contains 250 puzzles of “Even Odd Sudoku”",
+            "about_the_game": "Contains 250 puzzles of “Even Odd Sudoku”",
+            "short_description": "250 puzzles of “Even Odd Sudoku”",
+            "fullgame": {
+                "appid": "851810",
+                "name": "Ultimate Sudoku Collection"
+            },
+            "supported_languages": "English",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/873541/header.jpg?t=1527586672",
+            "website": null,
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows Vista SP1+<br></li><li><strong>Processor:</strong> 2.0Ghz+<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> Graphics card with DX10 (shader model 4.0) capabilities.<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>"
+            },
+            "mac_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OS X 10.9+<br></li><li><strong>Processor:</strong> 2.0Ghz+<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> Graphics card with DX10 (shader model 4.0) capabilities.<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>"
+            },
+            "linux_requirements": [],
+            "developers": [
+                "Stanley Lam"
+            ],
+            "publishers": [
+                "Stanley Lam"
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 79,
+                "final": 79,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "0,79€"
+            },
+            "packages": [
+                276183
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Ultimate Sudoku Collection - Even Odd Pack",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 276183,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Ultimate Sudoku Collection - Even Odd Pack - 0,79€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 79
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": true,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 21,
+                    "description": "Downloadable Content"
+                },
+                {
+                    "id": 22,
+                    "description": "Steam Achievements"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "4",
+                    "description": "Casual"
+                },
+                {
+                    "id": "37",
+                    "description": "Free to Play"
+                },
+                {
+                    "id": "23",
+                    "description": "Indie"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/873541/ss_e94adefd0843f8f98e2ac080d2e368f72681ee0b.600x338.jpg?t=1527586672",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/873541/ss_e94adefd0843f8f98e2ac080d2e368f72681ee0b.1920x1080.jpg?t=1527586672"
+                }
+            ],
+            "release_date": {
+                "coming_soon": false,
+                "date": "29 May, 2018"
+            },
+            "support_info": {
+                "url": "",
+                "email": "brightskygames@me.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/873541/page_bg_generated_v6b.jpg?t=1527586672",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

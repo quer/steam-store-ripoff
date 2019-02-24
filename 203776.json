@@ -1,0 +1,153 @@
+{
+    "203776": {
+        "success": true,
+        "data": {
+            "type": "dlc",
+            "name": "DLC - Crusader Kings II: Ruler Designer",
+            "steam_appid": 203776,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "Tired of playing as historical characters? The Ruler Designer lets you create your own character when starting a new game. Now you can play Sir Wilfred Death, Elric of Melniboné, or whatever strikes your fancy.<h2 class=\"bb_tag\">Key Features:</h2><ul class=\"bb_ul\"><li>Customize your portrait<br></li><li>Name your Dynasty and design a Coat of Arms<br></li><li>Assign skill points and traits<br></li><li>Create a spouse and offspring<br></li><li>Replace a historical character with your own</li></ul>",
+            "about_the_game": "Tired of playing as historical characters? The Ruler Designer lets you create your own character when starting a new game. Now you can play Sir Wilfred Death, Elric of Melniboné, or whatever strikes your fancy.<h2 class=\"bb_tag\">Key Features:</h2><ul class=\"bb_ul\"><li>Customize your portrait<br></li><li>Name your Dynasty and design a Coat of Arms<br></li><li>Assign skill points and traits<br></li><li>Create a spouse and offspring<br></li><li>Replace a historical character with your own</li></ul>",
+            "short_description": "Tired of playing as historical characters? The Ruler Designer lets you create your own character when starting a new game. Now you can play Sir Wilfred Death, Elric of Melniboné, or whatever strikes your fancy.",
+            "fullgame": {
+                "appid": "203770",
+                "name": "Crusader Kings II"
+            },
+            "supported_languages": "English, French, German, Spanish - Spain",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/203776/header.jpg?t=1491257703",
+            "website": "http://www.crusaderkings.com/",
+            "pc_requirements": {
+                "minimum": "<ul class=\"bb_ul\"><li><strong>OS:</strong> XP/Vista/Windows 7<br>\t\t\t\t\t\t\t\t\t\t\t\t</li><li><strong>Processor:</strong> Intel® Pentium® IV 2.4 GHz or AMD 3500+<br>\t\t\t\t\t\t\t\t\t\t\t\t</li><li><strong>Memory:</strong> 2 GB RAM<br>\t\t\t\t\t\t\t\t\t\t\t\t</li><li><strong>Hard Disk Space:</strong> 2 GB<br>\t\t\t\t\t\t\t\t\t\t\t\t</li><li><strong>Video Card:</strong> NVIDIA® GeForce 8800 or ATI Radeon® X1900, 512mb graphics memory required.<br>\t\t\t\t\t\t\t\t\t\t\t\t</li><li><strong>DirectX®:</strong> 9.0c<br>\t\t\t\t\t\t\t\t\t\t\t\t</li><li><strong>Sound:</strong> Direct X-compatible sound card<br>\t\t\t\t\t\t\t\t\t\t\t\t</li><li><strong>Additional:</strong> 3-button mouse and keyboard<br>\t\t\t\t\t\t\t\t\t\t\t</li></ul>"
+            },
+            "mac_requirements": {
+                "minimum": "<ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OS X 10.6.8 or later<br>\t</li><li><strong>Processor:</strong> Intel Core Duo Processor (2GHz or better)<br>\t</li><li><strong>Memory:</strong> 2 GB RAM<br>\t</li><li><strong>Hard Disk Space:</strong> 2 GB<br>\t</li><li><strong>Video Card:</strong> ATI Radeon HD 6750 /  NVIDIA GeForce 320 /  NVIDIA GeForce<br>9600 or higher</li></ul>"
+            },
+            "linux_requirements": {
+                "minimum": "<ul class=\"bb_ul\"><li><strong>OS: </strong>Ubuntu 12.04 LTS<br>\t</li><li><strong>Processor: </strong>IntelR PentiumR IV 2.4 GHz or AMD 3500+<br>\t</li><li><strong>Memory: </strong>2 GB <br>\t</li><li><strong>Hard disk space: </strong>2 Gb <br>\t</li><li><strong>Video Card: </strong>ATI Radeon HD 6750 / NVIDIA GeForce 320 / NVIDIA GeForce<br>&gt; 9600 or higher, 1024MB graphics memory required.</li></ul>"
+            },
+            "developers": [
+                "Paradox Development Studio"
+            ],
+            "publishers": [
+                "Paradox Interactive"
+            ],
+            "price_overview": {
+                "currency": "USD",
+                "initial": 499,
+                "final": 499,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "$4.99"
+            },
+            "packages": [
+                14252,
+                52397
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy DLC - Crusader Kings II: Ruler Designer",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 14252,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Crusader Kings II: Ruler Designer - $4.99",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 499
+                        },
+                        {
+                            "packageid": 52397,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Crusader Kings II DLC Collection - $119.99",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 11999
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": true,
+                "linux": true
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 1,
+                    "description": "Multi-player"
+                },
+                {
+                    "id": 21,
+                    "description": "Downloadable Content"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "2",
+                    "description": "Strategy"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/203776/ss_3ea8927277a44f78f24fab276079c42d74a08f6f.600x338.jpg?t=1491257703",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/203776/ss_3ea8927277a44f78f24fab276079c42d74a08f6f.1920x1080.jpg?t=1491257703"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/203776/ss_0e1c5c1602816d2c81493bee35000aef7a2e5c01.600x338.jpg?t=1491257703",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/203776/ss_0e1c5c1602816d2c81493bee35000aef7a2e5c01.1920x1080.jpg?t=1491257703"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/203776/ss_029e4fbf23d61713b7d81b72ae3c6140aa037838.600x338.jpg?t=1491257703",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/203776/ss_029e4fbf23d61713b7d81b72ae3c6140aa037838.1920x1080.jpg?t=1491257703"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/203776/ss_33b80a45f0589e4d5ee423d067f6f7dcec23b89e.600x338.jpg?t=1491257703",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/203776/ss_33b80a45f0589e4d5ee423d067f6f7dcec23b89e.1920x1080.jpg?t=1491257703"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/203776/ss_7aba2039b47df2555fe00250c6d41f09fe4d557f.600x338.jpg?t=1491257703",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/203776/ss_7aba2039b47df2555fe00250c6d41f09fe4d557f.1920x1080.jpg?t=1491257703"
+                }
+            ],
+            "recommendations": {
+                "total": 132
+            },
+            "achievements": {
+                "total": 0
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "Apr 18, 2012"
+            },
+            "support_info": {
+                "url": "",
+                "email": ""
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/203776/page_bg_generated_v6b.jpg?t=1491257703",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

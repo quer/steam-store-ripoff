@@ -1,0 +1,257 @@
+{
+    "271944": {
+        "success": true,
+        "data": {
+            "type": "dlc",
+            "name": "DARK SOULS™ II Crown of the Ivory King",
+            "steam_appid": 271944,
+            "required_age": 0,
+            "is_free": false,
+            "controller_support": "full",
+            "detailed_description": "&quot;DARK SOULS™ II Crown of the Ivory King&quot; is the third of 3 large-scale DLC additions to DARK SOULS™ II, and includes all-new stages, maps, boss characters, weapons &amp; armor! In this third DLC, players will find themselves in a world shining bright with the glow of treacherous ice. Can you find and recover the lost crown?",
+            "about_the_game": "&quot;DARK SOULS™ II Crown of the Ivory King&quot; is the third of 3 large-scale DLC additions to DARK SOULS™ II, and includes all-new stages, maps, boss characters, weapons &amp; armor! In this third DLC, players will find themselves in a world shining bright with the glow of treacherous ice. Can you find and recover the lost crown?",
+            "short_description": "&quot;DARK SOULS™ II Crown of the Ivory King&quot; is the third of 3 large-scale DLC additions to DARK SOULS™ II, and includes all-new stages, maps, boss characters, weapons &amp; armor! In this third DLC, players will find themselves in a world shining bright with the glow of treacherous ice. Can you find and recover the lost crown?",
+            "fullgame": {
+                "appid": "236430",
+                "name": "DARK SOULS™ II"
+            },
+            "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Korean, Polish, Portuguese - Brazil, Russian, Traditional Chinese<br><strong>*</strong>languages with full audio support",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/271944/header.jpg?t=1447360025",
+            "website": null,
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows Vista SP2, Windows 7 SP1, Windows 8<br></li><li><strong>Processor:</strong> AMD® Phenom II™ X2 555 3.2Ghz or Intel® Pentium Core ™ 2 Duo E8500 3.17Ghz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA® GeForce® 9600GT, ATI Radeon™ HD 5870<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 12 GB available space<br></li><li><strong>Sound Card:</strong> DirectX 9 sound device<br></li><li><strong>Additional Notes:</strong> Controller support: Microsoft Xbox 360® Controller for Windows® (or equivalent) recommended</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 SP1, Windows 8<br></li><li><strong>Processor:</strong> Intel® CoreTM i3 2100 3.10GHz or AMD® A8 3870K 3.0GHz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA® GeForce® GTX 750 or ATI Radeon™ HD 6870 or higher<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 15 GB available space<br></li><li><strong>Sound Card:</strong> DirectX 9 sound device<br></li><li><strong>Additional Notes:</strong> Controller support: Microsoft Xbox 360® Controller for Windows® (or equivalent) recommended</li></ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "legal_notice": "DARK SOULS™Ⅱ & ©2014 BANDAI NAMCO Games Inc. ©2011-2014 FromSoftware, Inc.",
+            "developers": [
+                "FromSoftware, Inc"
+            ],
+            "publishers": [
+                "BANDAI NAMCO Entertainment",
+                "FromSoftware, Inc"
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 999,
+                "final": 999,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "9,99€"
+            },
+            "packages": [
+                36527,
+                58135,
+                39300
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy DARK SOULS™ II Crown of the Ivory King",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 36527,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "DARK SOULS™ II Crown of the Ivory King - 9,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 999
+                        },
+                        {
+                            "packageid": 58135,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "DARK SOULS™ II: Bundle - 39,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 3999
+                        },
+                        {
+                            "packageid": 39300,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "DARK SOULS™ II - Season Pass - 24,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 2499
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 1,
+                    "description": "Multi-player"
+                },
+                {
+                    "id": 9,
+                    "description": "Co-op"
+                },
+                {
+                    "id": 21,
+                    "description": "Downloadable Content"
+                },
+                {
+                    "id": 22,
+                    "description": "Steam Achievements"
+                },
+                {
+                    "id": 28,
+                    "description": "Full controller support"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "1",
+                    "description": "Action"
+                },
+                {
+                    "id": "3",
+                    "description": "RPG"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/271944/ss_6aa717cde23c35931a08114b6ee35a994a24330a.600x338.jpg?t=1447360025",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/271944/ss_6aa717cde23c35931a08114b6ee35a994a24330a.1920x1080.jpg?t=1447360025"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/271944/ss_c2626b6c4ae896c4ab1a6e095720e9aed265cbf8.600x338.jpg?t=1447360025",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/271944/ss_c2626b6c4ae896c4ab1a6e095720e9aed265cbf8.1920x1080.jpg?t=1447360025"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/271944/ss_d5d675992d573e98a6dc3ef2c27407ced7d02a97.600x338.jpg?t=1447360025",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/271944/ss_d5d675992d573e98a6dc3ef2c27407ced7d02a97.1920x1080.jpg?t=1447360025"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/271944/ss_936e681c0427bdcd9e3ec344ff92deff6941891b.600x338.jpg?t=1447360025",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/271944/ss_936e681c0427bdcd9e3ec344ff92deff6941891b.1920x1080.jpg?t=1447360025"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/271944/ss_a391dfbbf261967cd3bc56b38a22cb4701dd6ae6.600x338.jpg?t=1447360025",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/271944/ss_a391dfbbf261967cd3bc56b38a22cb4701dd6ae6.1920x1080.jpg?t=1447360025"
+                },
+                {
+                    "id": 5,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/271944/ss_f70bb2e25b85d7e6377783658ce165fdf9db8363.600x338.jpg?t=1447360025",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/271944/ss_f70bb2e25b85d7e6377783658ce165fdf9db8363.1920x1080.jpg?t=1447360025"
+                },
+                {
+                    "id": 6,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/271944/ss_9830272d40192707e38563b55481438b7c6090cb.600x338.jpg?t=1447360025",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/271944/ss_9830272d40192707e38563b55481438b7c6090cb.1920x1080.jpg?t=1447360025"
+                },
+                {
+                    "id": 7,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/271944/ss_10398fc5fe634830c283d4fddda1723377c2d5a4.600x338.jpg?t=1447360025",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/271944/ss_10398fc5fe634830c283d4fddda1723377c2d5a4.1920x1080.jpg?t=1447360025"
+                },
+                {
+                    "id": 8,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/271944/ss_2eecceaa0d51bbcdbf4e5e8e0c0249b577054ac4.600x338.jpg?t=1447360025",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/271944/ss_2eecceaa0d51bbcdbf4e5e8e0c0249b577054ac4.1920x1080.jpg?t=1447360025"
+                },
+                {
+                    "id": 9,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/271944/ss_b5571065f235483e13122dd80832488d9c3098b8.600x338.jpg?t=1447360025",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/271944/ss_b5571065f235483e13122dd80832488d9c3098b8.1920x1080.jpg?t=1447360025"
+                },
+                {
+                    "id": 10,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/271944/ss_669f759d768a9c72a9fc7eb025ce75a586d19746.600x338.jpg?t=1447360025",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/271944/ss_669f759d768a9c72a9fc7eb025ce75a586d19746.1920x1080.jpg?t=1447360025"
+                },
+                {
+                    "id": 11,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/271944/ss_418856ae37a17d389509e75e01494067faaf37c0.600x338.jpg?t=1447360025",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/271944/ss_418856ae37a17d389509e75e01494067faaf37c0.1920x1080.jpg?t=1447360025"
+                },
+                {
+                    "id": 12,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/271944/ss_84417cab92d617b25612fe7d4395b1fbcdee01ba.600x338.jpg?t=1447360025",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/271944/ss_84417cab92d617b25612fe7d4395b1fbcdee01ba.1920x1080.jpg?t=1447360025"
+                },
+                {
+                    "id": 13,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/271944/ss_a3383b4bee67d315cef82134ae39611eba40a08c.600x338.jpg?t=1447360025",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/271944/ss_a3383b4bee67d315cef82134ae39611eba40a08c.1920x1080.jpg?t=1447360025"
+                },
+                {
+                    "id": 14,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/271944/ss_04174a6d45b4f52849bfd4a16aff9830e12aafb9.600x338.jpg?t=1447360025",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/271944/ss_04174a6d45b4f52849bfd4a16aff9830e12aafb9.1920x1080.jpg?t=1447360025"
+                },
+                {
+                    "id": 15,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/271944/ss_9dd79064cdfaf58709c913788e479bf61d04e9b2.600x338.jpg?t=1447360025",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/271944/ss_9dd79064cdfaf58709c913788e479bf61d04e9b2.1920x1080.jpg?t=1447360025"
+                },
+                {
+                    "id": 16,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/271944/ss_2e1177e3fea2ff578f0a404c2f513e8396d4dd3c.600x338.jpg?t=1447360025",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/271944/ss_2e1177e3fea2ff578f0a404c2f513e8396d4dd3c.1920x1080.jpg?t=1447360025"
+                },
+                {
+                    "id": 17,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/271944/ss_8c763c4a55f786374d2dbac6a214818a3aa0b0fc.600x338.jpg?t=1447360025",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/271944/ss_8c763c4a55f786374d2dbac6a214818a3aa0b0fc.1920x1080.jpg?t=1447360025"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 2035164,
+                    "name": "Crown of the Ivory King - PEGI",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/2035164/movie.293x165.jpg?t=1447364447",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/2035164/movie480.webm?t=1447364447",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/2035164/movie_max.webm?t=1447364447"
+                    },
+                    "highlight": true
+                }
+            ],
+            "recommendations": {
+                "total": 107
+            },
+            "achievements": {
+                "total": 0
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "29 Sep, 2014"
+            },
+            "support_info": {
+                "url": "http://www.bandainamcoent.com/support",
+                "email": ""
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/271944/page_bg_generated_v6b.jpg?t=1447360025",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

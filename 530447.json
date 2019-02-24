@@ -1,0 +1,97 @@
+{
+    "530447": {
+        "success": true,
+        "data": {
+            "type": "episode",
+            "name": "Battle Disc: Mia Sows Discord!",
+            "steam_appid": 530447,
+            "required_age": 0,
+            "is_free": false,
+            "controller_support": "full",
+            "detailed_description": "",
+            "about_the_game": "",
+            "short_description": "Our heroes are were on a picnic before they became lost in the wilderness. Suddenly, a lovely girl appears from the bushes and they all became friends. Gordon and Ace are the only ones suspicious about the new girl. What could her true intentions be?",
+            "fullgame": {
+                "appid": "530400",
+                "name": "Battle Disc"
+            },
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/530447/header.jpg?t=1477069095",
+            "website": null,
+            "pc_requirements": [],
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "publishers": [
+                ""
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 99,
+                "final": 99,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "0,99€"
+            },
+            "packages": [
+                127723
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Battle Disc: Mia Sows Discord!",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 127723,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Battle Disc: Mia Sows Discord! - 0,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 99
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 28,
+                    "description": "Full controller support"
+                },
+                {
+                    "id": 33,
+                    "description": "Native Steam Controller Support"
+                },
+                {
+                    "id": 13,
+                    "description": "Captions available"
+                }
+            ],
+            "achievements": {
+                "total": 0
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "21 Oct, 2016"
+            },
+            "support_info": {
+                "url": "",
+                "email": ""
+            },
+            "background": "",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

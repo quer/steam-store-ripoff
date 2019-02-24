@@ -1,0 +1,129 @@
+{
+    "418000": {
+        "success": true,
+        "data": {
+            "type": "game",
+            "name": "Demented",
+            "steam_appid": 418000,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "Waking up as Bennet Helms you find yourself in a unknown place, however you do see your family which questions you deeply. <br>You remember almost nothing but you see that something is wrong with this place, and given a choice to either just run or find your family.<br><br>Survive, look for clues and items, hide and try to uncover the mysterious truth of the Visual Corporation.<h2 class=\"bb_tag\">Key features:</h2><h2 class=\"bb_tag\">Sanity</h2>Sanity <strong>controls you</strong>. It will decide many things, and you can even use it to your <strong>advantage</strong>. But what is it actually?<br>The main character is <strong>Bennet Helms</strong> has a brain tumor on the cerebral part of the brain (The part which controls communication,  feelings, sense of reality, etc.). The tumor however can be contained with <strong>constant taking pills</strong>. <br><br>Now, a few <strong>effects</strong> of the Sanity are:<br><ul class=\"bb_ul\"><li>Makes the player <strong>hallucinate</strong> things.<br></li><li>Spawns critters (&quot;They can, and they will hurt you&quot;, the lower the sanity the more critters will come to hunt you)<br></li><li>Decreased vision field. (Depends on the %(percentage) of the players sanity)<br></li><li>Lowers your mental condition (Highlighting of things will be drastically decreased)<br></li><li><strong>45%</strong> Critters starts start spawning<br></li><li><strong>25%</strong> - Walk/Sprint slower <br></li><li><strong>15%</strong> - Disabling the ability to sprint <br></li><li><strong>10%</strong> - Black/White picture<br></li><li><strong>5%</strong> - &quot;<strong>C-Condition</strong>&quot; - You will be very fast, you will ignore pain of the critters (This means you won't be effected if a critter pushes you, for example but you will receive damage), ability to see far objects, medication will be highlighted.<br></li><li><i>*By hurting yourself you can go down to <strong>15% of your HP</strong> (hitpoints). Every <strong>self-injury</strong> gives the sanity bar 20% sanity.</i></li></ul><h2 class=\"bb_tag\">WCD</h2>To simplify WCD is the &quot;<strong>brain</strong>&quot; of the Demented world. However it depends entirely on the players <strong>Health</strong> and Sanity (We will get to that in a moment). Now what does WCD do? It:<br><ul class=\"bb_ul\"><li>Changes the world (A wall was there buddy? Well now it isn't.)<br></li><li>Changes the perception of many things<br></li><li>Spawns <strong>Critters</strong> (Critters are the &quot;monsters&quot;)<br></li><li>Adds &quot;corruption&quot; to the world<br></li><li>Plays trick with your mind<br></li><li> System Shutdown (SS) - Changes the power in the facility.<br></li><li>And other</li></ul><h2 class=\"bb_tag\">Radiation</h2><strong>Radiation</strong> is also a strong part of the game, as it can be <strong>rewarding</strong> but can be quite <strong>opposite</strong> as well. Also it can stop the decaying of Sanity but as the Radiation is higher it will hurt you too! Since it is a big part we cannot reveal all of the effects of the radiation.<br>Some <strong>effects</strong> of Radiation are:<br><ul class=\"bb_ul\"><li><strong>Slows</strong>, or stops sanity from decaying. Depends on the percentage of the radiation.<br>Even with little radiation you lose bits of health. It depends on the percentage of the radiation.<br></li><li><strong>40+ REMs</strong> - Occasionally image blurring, and noises in head.<br></li><li><strong>85+REMs</strong> - Walk/Sprint a lot slower, bad reflexes, decreased hearing.</li></ul><h2 class=\"bb_tag\">Future Development</h2><ul class=\"bb_ul\"><li>Make the WCD a heavy impact on the game, by changing, adding or removing whole parts of the map.<br></li><li>Add more effects to the Sanity [For instance: heavy blurring, flashbacks of past, etc.]<br></li><li>Add more effects to the Health[For instance: Add a bleed feature, when low on hp, to fall down sometimes]<br></li><li>Improve the A.I - I have a great idea for you and am developing it as we speak! It'll be a lot of fun [By fun I mean in your most immediate death]<br></li><li>Implementing Physic Engine [Ability to drag objects, boxes etc.]<br></li><li>Optimize and polish textures, models and UI<br></li><li>More intractable objects and voice overs for characters<br></li><li>A lot more to come! </li></ul>",
+            "about_the_game": "Waking up as Bennet Helms you find yourself in a unknown place, however you do see your family which questions you deeply. <br>You remember almost nothing but you see that something is wrong with this place, and given a choice to either just run or find your family.<br><br>Survive, look for clues and items, hide and try to uncover the mysterious truth of the Visual Corporation.<h2 class=\"bb_tag\">Key features:</h2><h2 class=\"bb_tag\">Sanity</h2>Sanity <strong>controls you</strong>. It will decide many things, and you can even use it to your <strong>advantage</strong>. But what is it actually?<br>The main character is <strong>Bennet Helms</strong> has a brain tumor on the cerebral part of the brain (The part which controls communication,  feelings, sense of reality, etc.). The tumor however can be contained with <strong>constant taking pills</strong>. <br><br>Now, a few <strong>effects</strong> of the Sanity are:<br><ul class=\"bb_ul\"><li>Makes the player <strong>hallucinate</strong> things.<br></li><li>Spawns critters (&quot;They can, and they will hurt you&quot;, the lower the sanity the more critters will come to hunt you)<br></li><li>Decreased vision field. (Depends on the %(percentage) of the players sanity)<br></li><li>Lowers your mental condition (Highlighting of things will be drastically decreased)<br></li><li><strong>45%</strong> Critters starts start spawning<br></li><li><strong>25%</strong> - Walk/Sprint slower <br></li><li><strong>15%</strong> - Disabling the ability to sprint <br></li><li><strong>10%</strong> - Black/White picture<br></li><li><strong>5%</strong> - &quot;<strong>C-Condition</strong>&quot; - You will be very fast, you will ignore pain of the critters (This means you won't be effected if a critter pushes you, for example but you will receive damage), ability to see far objects, medication will be highlighted.<br></li><li><i>*By hurting yourself you can go down to <strong>15% of your HP</strong> (hitpoints). Every <strong>self-injury</strong> gives the sanity bar 20% sanity.</i></li></ul><h2 class=\"bb_tag\">WCD</h2>To simplify WCD is the &quot;<strong>brain</strong>&quot; of the Demented world. However it depends entirely on the players <strong>Health</strong> and Sanity (We will get to that in a moment). Now what does WCD do? It:<br><ul class=\"bb_ul\"><li>Changes the world (A wall was there buddy? Well now it isn't.)<br></li><li>Changes the perception of many things<br></li><li>Spawns <strong>Critters</strong> (Critters are the &quot;monsters&quot;)<br></li><li>Adds &quot;corruption&quot; to the world<br></li><li>Plays trick with your mind<br></li><li> System Shutdown (SS) - Changes the power in the facility.<br></li><li>And other</li></ul><h2 class=\"bb_tag\">Radiation</h2><strong>Radiation</strong> is also a strong part of the game, as it can be <strong>rewarding</strong> but can be quite <strong>opposite</strong> as well. Also it can stop the decaying of Sanity but as the Radiation is higher it will hurt you too! Since it is a big part we cannot reveal all of the effects of the radiation.<br>Some <strong>effects</strong> of Radiation are:<br><ul class=\"bb_ul\"><li><strong>Slows</strong>, or stops sanity from decaying. Depends on the percentage of the radiation.<br>Even with little radiation you lose bits of health. It depends on the percentage of the radiation.<br></li><li><strong>40+ REMs</strong> - Occasionally image blurring, and noises in head.<br></li><li><strong>85+REMs</strong> - Walk/Sprint a lot slower, bad reflexes, decreased hearing.</li></ul><h2 class=\"bb_tag\">Future Development</h2><ul class=\"bb_ul\"><li>Make the WCD a heavy impact on the game, by changing, adding or removing whole parts of the map.<br></li><li>Add more effects to the Sanity [For instance: heavy blurring, flashbacks of past, etc.]<br></li><li>Add more effects to the Health[For instance: Add a bleed feature, when low on hp, to fall down sometimes]<br></li><li>Improve the A.I - I have a great idea for you and am developing it as we speak! It'll be a lot of fun [By fun I mean in your most immediate death]<br></li><li>Implementing Physic Engine [Ability to drag objects, boxes etc.]<br></li><li>Optimize and polish textures, models and UI<br></li><li>More intractable objects and voice overs for characters<br></li><li>A lot more to come! </li></ul>",
+            "short_description": "Enter the crooked world of Demented, where everything seems to be fine. But it isn't. It's up to you to find out.",
+            "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/418000/header.jpg?t=1447856834",
+            "website": "www.intercido.com",
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7+<br></li><li><strong>Processor:</strong> Inter Core II Duo + or Amd Athlon 64 x2<br></li><li><strong>Memory:</strong> 2048 MB RAM<br></li><li><strong>Graphics:</strong> Nvidia 9800 GTX vs Ati Radeon HD 5670<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 768 MB available space</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7+<br></li><li><strong>Processor:</strong> Intel® Core i7-3820 or AMD FX 8320E<br></li><li><strong>Memory:</strong> 4096 MB RAM<br></li><li><strong>Graphics:</strong> NVidia GTX 660+ or ATI Radeon HD 7870<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>"
+            },
+            "mac_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac 10.0+<br></li><li><strong>Processor:</strong> Intel Core i5-650<br></li><li><strong>Graphics:</strong> Nvidia GeForce GT 650M<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac 10.0+<br></li><li><strong>Processor:</strong> Intel® Core i7-3820<br></li><li><strong>Graphics:</strong> AMD Radeon R9 M390<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>"
+            },
+            "linux_requirements": [],
+            "developers": [
+                "VisualTech48"
+            ],
+            "publishers": [
+                "Intercido"
+            ],
+            "package_groups": [],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 22,
+                    "description": "Steam Achievements"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "23",
+                    "description": "Indie"
+                },
+                {
+                    "id": "70",
+                    "description": "Early Access"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/418000/ss_0b9b20aab862536ff28c70954bb90136b1642005.600x338.jpg?t=1447856834",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/418000/ss_0b9b20aab862536ff28c70954bb90136b1642005.1920x1080.jpg?t=1447856834"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/418000/ss_49ed19314ab7920b310e103a7d0fbf26a4172111.600x338.jpg?t=1447856834",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/418000/ss_49ed19314ab7920b310e103a7d0fbf26a4172111.1920x1080.jpg?t=1447856834"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/418000/ss_64ceceebffd341435f46a0cd5e75c836a906eeca.600x338.jpg?t=1447856834",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/418000/ss_64ceceebffd341435f46a0cd5e75c836a906eeca.1920x1080.jpg?t=1447856834"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/418000/ss_6f5b6d86aecc767c98fb1d90b8447ced525d5d8b.600x338.jpg?t=1447856834",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/418000/ss_6f5b6d86aecc767c98fb1d90b8447ced525d5d8b.1920x1080.jpg?t=1447856834"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/418000/ss_782a10e1e287074f595c66fb6eb944338c4b3082.600x338.jpg?t=1447856834",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/418000/ss_782a10e1e287074f595c66fb6eb944338c4b3082.1920x1080.jpg?t=1447856834"
+                },
+                {
+                    "id": 5,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/418000/ss_8e95055c54dd6fae104465d3c98bbbe188f62a30.600x338.jpg?t=1447856834",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/418000/ss_8e95055c54dd6fae104465d3c98bbbe188f62a30.1920x1080.jpg?t=1447856834"
+                },
+                {
+                    "id": 6,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/418000/ss_6f04a7fead99a370c4680212441446902fbf2ba0.600x338.jpg?t=1447856834",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/418000/ss_6f04a7fead99a370c4680212441446902fbf2ba0.1920x1080.jpg?t=1447856834"
+                },
+                {
+                    "id": 7,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/418000/ss_3a6840f92c43720221acbe7646b5ee55fe4b8c57.600x338.jpg?t=1447856834",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/418000/ss_3a6840f92c43720221acbe7646b5ee55fe4b8c57.1920x1080.jpg?t=1447856834"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 256658140,
+                    "name": "Enter Demented",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256658140/movie.293x165.jpg?t=1447856012",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256658140/movie480.webm?t=1447856012",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256658140/movie_max.webm?t=1447856012"
+                    },
+                    "highlight": true
+                }
+            ],
+            "achievements": {
+                "total": 0
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "18 Nov, 2015"
+            },
+            "support_info": {
+                "url": "https://www.intercido.com/contact.html",
+                "email": "support@intercido.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/418000/page_bg_generated_v6b.jpg?t=1447856834",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

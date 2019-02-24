@@ -1,0 +1,248 @@
+{
+    "644910": {
+        "success": true,
+        "data": {
+            "type": "dlc",
+            "name": "Insane Robots - Robot Pack 1",
+            "steam_appid": 644910,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "Unlocks robots Veneron, K3-DDP, Mugsoy and Zafarb for use in local, online and friends multiplayer modes, plus single-player quick battles.<br><br><ul class=\"bb_ul\"><li>Veneron - You will be the next trophy on the wall<br></li><li>K3-DDP - Angry that you won't let it sleep<br></li><li>Mugsoy - Boss bot with an agenda<br></li><li>Zafarb - Repair-bot with a smile. Not that you'd know.</li></ul>",
+            "about_the_game": "Unlocks robots Veneron, K3-DDP, Mugsoy and Zafarb for use in local, online and friends multiplayer modes, plus single-player quick battles.<br><br><ul class=\"bb_ul\"><li>Veneron - You will be the next trophy on the wall<br></li><li>K3-DDP - Angry that you won't let it sleep<br></li><li>Mugsoy - Boss bot with an agenda<br></li><li>Zafarb - Repair-bot with a smile. Not that you'd know.</li></ul>",
+            "short_description": "Unlocks robots Veneron, K3-DDP, Mugsoy and Zafarb for use in local and online multiplayer game modes.",
+            "fullgame": {
+                "appid": "516030",
+                "name": "Insane Robots"
+            },
+            "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/644910/header.jpg?t=1542406074",
+            "website": "http://www.insanerobots.com",
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP or later<br></li><li><strong>Processor:</strong> 2Ghz or better<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Storage:</strong> 1 MB available space<br></li><li><strong>Sound Card:</strong> Optional</li></ul>"
+            },
+            "mac_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OS X<br></li><li><strong>Processor:</strong> 2Ghz or better<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Storage:</strong> 1 MB available space<br></li><li><strong>Sound Card:</strong> Optional</li></ul>"
+            },
+            "linux_requirements": [],
+            "legal_notice": "©2014-18 Playniac Limited. All rights reserved. Insane Robots and the Insane Robots logo are trademarks of Playniac Limited.",
+            "developers": [
+                "Playniac"
+            ],
+            "publishers": [
+                "Playniac"
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 299,
+                "final": 299,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "2,99€"
+            },
+            "packages": [
+                180975,
+                281880,
+                281879
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Insane Robots - Robot Pack 1",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 180975,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Insane Robots - Robot Pack 1 - 2,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 299
+                        },
+                        {
+                            "packageid": 281880,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Insane Robots - Season Pass - 14,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 1499
+                        },
+                        {
+                            "packageid": 281879,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Insane Robots - Deluxe Edition - 32,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 3299
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": true,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 1,
+                    "description": "Multi-player"
+                },
+                {
+                    "id": 36,
+                    "description": "Online Multi-Player"
+                },
+                {
+                    "id": 37,
+                    "description": "Local Multi-Player"
+                },
+                {
+                    "id": 24,
+                    "description": "Shared/Split Screen"
+                },
+                {
+                    "id": 27,
+                    "description": "Cross-Platform Multiplayer"
+                },
+                {
+                    "id": 21,
+                    "description": "Downloadable Content"
+                },
+                {
+                    "id": 22,
+                    "description": "Steam Achievements"
+                },
+                {
+                    "id": 29,
+                    "description": "Steam Trading Cards"
+                },
+                {
+                    "id": 18,
+                    "description": "Partial Controller Support"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "25",
+                    "description": "Adventure"
+                },
+                {
+                    "id": "4",
+                    "description": "Casual"
+                },
+                {
+                    "id": "23",
+                    "description": "Indie"
+                },
+                {
+                    "id": "3",
+                    "description": "RPG"
+                },
+                {
+                    "id": "2",
+                    "description": "Strategy"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/644910/ss_8cb1056c5a89ed1415aedefe6f140d16a8d713e6.600x338.jpg?t=1542406074",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/644910/ss_8cb1056c5a89ed1415aedefe6f140d16a8d713e6.1920x1080.jpg?t=1542406074"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/644910/ss_723ef162b9e85bc1a2c934ef0e349cb142c5bbb1.600x338.jpg?t=1542406074",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/644910/ss_723ef162b9e85bc1a2c934ef0e349cb142c5bbb1.1920x1080.jpg?t=1542406074"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/644910/ss_02281ef9297c5106cff42d3e33efeb71f93962f9.600x338.jpg?t=1542406074",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/644910/ss_02281ef9297c5106cff42d3e33efeb71f93962f9.1920x1080.jpg?t=1542406074"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/644910/ss_a3429e211ad206d57494594c081e15fb7d264960.600x338.jpg?t=1542406074",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/644910/ss_a3429e211ad206d57494594c081e15fb7d264960.1920x1080.jpg?t=1542406074"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/644910/ss_3c2389e8b184463dcf24abcb6bf2381dd637ade0.600x338.jpg?t=1542406074",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/644910/ss_3c2389e8b184463dcf24abcb6bf2381dd637ade0.1920x1080.jpg?t=1542406074"
+                },
+                {
+                    "id": 5,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/644910/ss_7f020c28a0bf9de91d9c3d824522d731cab4e493.600x338.jpg?t=1542406074",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/644910/ss_7f020c28a0bf9de91d9c3d824522d731cab4e493.1920x1080.jpg?t=1542406074"
+                },
+                {
+                    "id": 6,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/644910/ss_63b0d05b05f189ab50d8fedcd7a1a1786601cfb9.600x338.jpg?t=1542406074",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/644910/ss_63b0d05b05f189ab50d8fedcd7a1a1786601cfb9.1920x1080.jpg?t=1542406074"
+                },
+                {
+                    "id": 7,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/644910/ss_3bf3212ec0ce5e1bdc117b7823599123eac79772.600x338.jpg?t=1542406074",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/644910/ss_3bf3212ec0ce5e1bdc117b7823599123eac79772.1920x1080.jpg?t=1542406074"
+                },
+                {
+                    "id": 8,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/644910/ss_4c0480f798cb485c380710e885c8d0f419076ded.600x338.jpg?t=1542406074",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/644910/ss_4c0480f798cb485c380710e885c8d0f419076ded.1920x1080.jpg?t=1542406074"
+                },
+                {
+                    "id": 9,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/644910/ss_d7d839decd05268acf50d7e9e7d8183ded901006.600x338.jpg?t=1542406074",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/644910/ss_d7d839decd05268acf50d7e9e7d8183ded901006.1920x1080.jpg?t=1542406074"
+                },
+                {
+                    "id": 10,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/644910/ss_76e838c216421b8c69725ad1186ff6f498cafc03.600x338.jpg?t=1542406074",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/644910/ss_76e838c216421b8c69725ad1186ff6f498cafc03.1920x1080.jpg?t=1542406074"
+                },
+                {
+                    "id": 11,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/644910/ss_02855ebec6b4652056c0aa8e6f6fb83487391e99.600x338.jpg?t=1542406074",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/644910/ss_02855ebec6b4652056c0aa8e6f6fb83487391e99.1920x1080.jpg?t=1542406074"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 256694311,
+                    "name": "Insane Robots - Robot Pack 1",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256694311/movie.293x165.jpg?t=1533733832",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256694311/movie480.webm?t=1533733832",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256694311/movie_max.webm?t=1533733832"
+                    },
+                    "highlight": true
+                }
+            ],
+            "release_date": {
+                "coming_soon": false,
+                "date": "24 Aug, 2018"
+            },
+            "support_info": {
+                "url": "",
+                "email": "support@playniac.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/644910/page_bg_generated_v6b.jpg?t=1542406074",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

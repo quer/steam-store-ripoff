@@ -1,0 +1,103 @@
+{
+    "779260": {
+        "success": true,
+        "data": {
+            "type": "game",
+            "name": "Kode Studio",
+            "steam_appid": 779260,
+            "required_age": 0,
+            "is_free": true,
+            "detailed_description": "Kode Studio is an all-in-one integrated development environment for portable and high performance game development and creative coding. The bundled Kha framework provides a low-level but easy to learn API on top of the Haxe programming language (similar to Java or C#) and GLSL (for shader programming). Your program can be exported to very efficient HTML5 which makes use of the latest browser features where available (WebGL 2, WebAudio,...) but falls back gracefully when run in older browsers all the way back to Internet Explorer 9. But your program can also be exported to small and efficient binaries for all currently common systems. This includes support for PlayStation 4, Xbox One and Switch (please contact us with prove of your developer status with the console manufacturers to receive the console plugins).<br />\r\nKode Studio is based on Visual Studio Code and many of its extensions can be used.",
+            "about_the_game": "Kode Studio is an all-in-one integrated development environment for portable and high performance game development and creative coding. The bundled Kha framework provides a low-level but easy to learn API on top of the Haxe programming language (similar to Java or C#) and GLSL (for shader programming). Your program can be exported to very efficient HTML5 which makes use of the latest browser features where available (WebGL 2, WebAudio,...) but falls back gracefully when run in older browsers all the way back to Internet Explorer 9. But your program can also be exported to small and efficient binaries for all currently common systems. This includes support for PlayStation 4, Xbox One and Switch (please contact us with prove of your developer status with the console manufacturers to receive the console plugins).<br />\r\nKode Studio is based on Visual Studio Code and many of its extensions can be used.",
+            "short_description": "Use the Kha framework to develop super-portable high performance games in the Haxe programming language (similar to Java or C#) and GLSL. Export to HTML5 or create native binaries for all common systems. Kode Studio bundles all required functionality in one easy to use all-in-one IDE.",
+            "supported_languages": "English",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/779260/header.jpg?t=1542310832",
+            "website": "http://kha.tech",
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong> Dual-core processor<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Shader Model 4.0 Compatible (DirectX 11)<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+            },
+            "mac_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> 10.11<br></li><li><strong>Processor:</strong> Dual-core processor<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Metal Compatible<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+            },
+            "linux_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Tested in Ubuntu 14.04 and newer<br></li><li><strong>Processor:</strong> Dual-core processor<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL 3.3 Compatible<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+            },
+            "developers": [
+                "Robert Konrad"
+            ],
+            "publishers": [
+                "Robert Konrad"
+            ],
+            "package_groups": [],
+            "platforms": {
+                "windows": true,
+                "mac": true,
+                "linux": true
+            },
+            "genres": [
+                {
+                    "id": "57",
+                    "description": "Utilities"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/779260/ss_c3d0b54f0bb873eab957232843bb5ce488340f05.600x338.jpg?t=1542310832",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/779260/ss_c3d0b54f0bb873eab957232843bb5ce488340f05.1920x1080.jpg?t=1542310832"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/779260/ss_4bac231ae58a64d719af90f95f688d72abd412df.600x338.jpg?t=1542310832",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/779260/ss_4bac231ae58a64d719af90f95f688d72abd412df.1920x1080.jpg?t=1542310832"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/779260/ss_89d5c246081d8a7ccd8af825a3044669b28b6bc0.600x338.jpg?t=1542310832",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/779260/ss_89d5c246081d8a7ccd8af825a3044669b28b6bc0.1920x1080.jpg?t=1542310832"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/779260/ss_5203c97d442b17d593161980d3a36fb2c9d0c2df.600x338.jpg?t=1542310832",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/779260/ss_5203c97d442b17d593161980d3a36fb2c9d0c2df.1920x1080.jpg?t=1542310832"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/779260/ss_e0921f4d13905ffd15078fd2f94333e1f3781aae.600x338.jpg?t=1542310832",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/779260/ss_e0921f4d13905ffd15078fd2f94333e1f3781aae.1920x1080.jpg?t=1542310832"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 256705106,
+                    "name": "White Rect",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256705106/movie.293x165.jpg?t=1525204421",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256705106/movie480.webm?t=1525204421",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256705106/movie_max.webm?t=1525204421"
+                    },
+                    "highlight": true
+                }
+            ],
+            "achievements": {
+                "total": 0
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "1 May, 2018"
+            },
+            "support_info": {
+                "url": "http://forum.kode.tech",
+                "email": ""
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/779260/page_bg_generated_v6b.jpg?t=1542310832",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

@@ -1,0 +1,141 @@
+{
+    "527310": {
+        "success": true,
+        "data": {
+            "type": "game",
+            "name": "Bubble Labs VR",
+            "steam_appid": 527310,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "<h1>Just Updated</h1><p>Repost from my medium page (@phiLine) Dated - Aug 8th<h2 class=\"bb_tag\">bubble labs first dev blog entry</h2>So, It’s been many weeks since I’ve been developing my Virtual Reality experience code-named Project Bubble Labs. What came about after experimenting with making a chemistry educational experience surprised me, and the purity of my new project gives me fresh ideas for the VR medium. As more and more people get to try the leading HMDs on the market, it is important to make experiences that can be replayed and passed between a group easily — without the need of long on boarding processes. I have tried to stick to this motive while making my game and I hope my insight onto details for user friendliness go un-noticed.<h2 class=\"bb_tag\">what started project bubble labs?</h2>In the past quarter before dedicating time towards unity3d and my own personal projects, I took a chemistry class. I didn’t really get the best grade in the end but it made me think about what kinds of ways can students get more excited for chemistry. For me, the labs were fun and spectacular with beautiful colors and interactions between substances; while the tests were hard, it was always easy to get involved with the lab directive. However, I know this was not the case for many students in my class in college, and even more so for those in high school chemistry. Or perhaps, the students would not have access to good lab equipment, teachers, or more than even an intro class. I wanted to make a Virtual Reality experience that would mimic the lab experience, in an environment that does not punish the user.<br><br>I started brainstorming what my MVP for this kind of interaction would look like. All I wanted was to pour one glass of liquid substance into a container with another with a log detecting the shift. I ultimately landed with using Nvidia Flex for my particle system. For those who don’t know what Flex is — “ FleX is a particle based simulation technique for real-time visual effect. Because FleX uses a unified particle representation for all object types, it enables new effects where different simulated substances can interact with each other seamlessly.” Basically this particle interaction system would allow me to create a realistic liquid effect in VR.<br><br>Immediately I was met with technical difficulties with these particles. Only reaching 50fps avg was no suitable and I began to explore other options. However, despite the framerate, the technology was very fun and enjoyable to use. The more than I played with it, the more I wanted to make an experience just using Flex and playing with liquids. The thrash got real, and I put the chemistry game on the backburner. It was time to turn off the gravity and have some fun with liquid bubbles.<h2 class=\"bb_tag\">the prototype</h2>Everything changed when I removed the gravity in my scene. I was brought with great delight to play with these liquids in zero gravity — it was seriously like being on the International Space Station! Watching the particles interact organically was very rewarding. I quickly threw together an emitter and a random color changer onto the Vive controller and began exploring this new physics world.<br><br>Something about bubbles made me giddy. I decided to dive right into this project. Next up was a full HSV color wheel picker. I experimented with different designs but the one I ultimately decided on was to use the steam controller touchpad to radially input Hue, and then take the distance from the center to affect both Saturation and Value. The design worked great and the users loved it. I might put some more effort into this and try and list this to the asset store.<br><br>One thing you may have noticed watching the this gif was that there were not that many particles in the world (only about 1000). This changed drastically when I updated to unity version 5.4 beta and then soon there-after to 5.4 stable. The update drastically improved my performance which meant that both this experience and my chemistry application could come into fruition. Things were really coming together for Bubble Labs.<h2 class=\"bb_tag\">design considerations and polish</h2>The user had to interact. Spawning bubbles was fun and all, but without a way to interact, you would lose a lot of the freedom that the vive gives you with the one-to-one controllers. I ultimately decided on a hand fan to interact with the bubbles, and the choice was solid. You get these really neat interactions with the bubbles, and having your hands in the world drastically improves the replayability of this experience. (Look towards the bottom to see this hand fan in action!)<br><br>This game had to be simple. The mechanic is pure and playful and seeing others try this environment really set the idea into stone. Over the next week I focused hard on making haptic feedback work as well as some sound design. I tried to go the route of procedural sound but it seemed all too complicated and in the end detracted from the experience. The point of this experience was not to have a point, and overly complicating things would be silly.<br><br>I had to add something to the controllers too. At the time they were the only objects in the scene and they had to stand out. I’m a huge fan of splatoon, and I thought squirt guns would be perfect for my design. I had a friend make me a bubble gun model and then found an asset on the store for a liquid shader to put in the containers. The effect turned out pretty cool.<h2 class=\"bb_tag\">the future of bubble labs</h2>This week will all be about polish and as I approach the launch to steam, I will be adding a small UI-tutorial, and a pause menu. The great thing about being in a class is that I get to do a lot of user-testing. I have made a small questionnaire for students to answer after they experience my game, and it provides a lot of good data regarding trends of bugs and requested features.<br><br>However, as these changes roll out, I’ve considered the further applications of this kind of environment. I really love audio reactive visualizers and music games. VR games like AudioShield and the now audio reactive TiltBrush. This is a concept that has always been with me since my days of messing around with Milkdrop presets on my old thinkpad — love it. As I approach the time leading up to launch, I hope to really think about the further application of Bubble Labs and how it can be used as a peaceful tool for pure relaxation.</p><br><h1>About the Game</h1>Are you a kid or a kid at heart? Playfully experiment with bubbles in a zero-gravity dream-like environment with Bubble Labs! Interact with liquid physics as if you were in outer space with simple controls -- perfect for any beginner to jump into VR. Sculpt and mold your creations with a full spectrum of colors, and watch the organic nature of liquids unfold before your eyes.<br><br><strong>Key Features Include:</strong><br><ul class=\"bb_ul\"><li> A Full Color Wheel For Full Artistic Freedom<br></li><li> Simple Tooltips and Intuitive Controls<br></li><li> Cheap Price and Free Updates For Life</li></ul><br>For use with Nvidia graphics cards <strong>ONLY</strong>! This application uses the latest particle physics library, <strong>Flex</strong> by Nvidia.<br>Try downloading the demo if you are unsure if the game will run on your PC. If the game crashes, try updating your game-ready drivers via Geforce experience or through the Nvidia website.<br>Song used in trailer #1: Omni - Bon Bon",
+            "about_the_game": "Are you a kid or a kid at heart? Playfully experiment with bubbles in a zero-gravity dream-like environment with Bubble Labs! Interact with liquid physics as if you were in outer space with simple controls -- perfect for any beginner to jump into VR. Sculpt and mold your creations with a full spectrum of colors, and watch the organic nature of liquids unfold before your eyes.<br><br><strong>Key Features Include:</strong><br><ul class=\"bb_ul\"><li> A Full Color Wheel For Full Artistic Freedom<br></li><li> Simple Tooltips and Intuitive Controls<br></li><li> Cheap Price and Free Updates For Life</li></ul><br>For use with Nvidia graphics cards <strong>ONLY</strong>! This application uses the latest particle physics library, <strong>Flex</strong> by Nvidia.<br>Try downloading the demo if you are unsure if the game will run on your PC. If the game crashes, try updating your game-ready drivers via Geforce experience or through the Nvidia website.<br>Song used in trailer #1: Omni - Bon Bon",
+            "short_description": "Bubble Labs is perfect way to introduce people to VR. The controls were designed with beginners and kids in mind, so that people of all ages can play. Create, mold, and experiment with liquid physics using Nvidia's flex particle physics! You will be amazed with the physics and colors of this world.",
+            "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/527310/header.jpg?t=1497369730",
+            "website": "https://medium.com/@phiLine",
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10, Windows 7<br></li><li><strong>Processor:</strong> Intel® i5-4590<br></li><li><strong>Memory:</strong> 4 MB RAM<br></li><li><strong>Graphics:</strong> GTX 970 or greater (cannot use AMD cards!)<br></li><li><strong>Storage:</strong> 25 MB available space<br></li><li><strong>Additional Notes:</strong> Only for use with Nvidia cards</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Intel® intel i7-6700k<br></li><li><strong>Memory:</strong> 4 MB RAM<br></li><li><strong>Graphics:</strong> GTX 1060 or greater<br></li><li><strong>Storage:</strong> 25 MB available space</li></ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "developers": [
+                "Kishan Emens (dev)",
+                "Tavius Woods (art)"
+            ],
+            "publishers": [
+                "Kishan Emens"
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 299,
+                "final": 299,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "2,99€"
+            },
+            "packages": [
+                126489
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Bubble Labs VR",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 126489,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Bubble Labs - 2,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 299
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "4",
+                    "description": "Casual"
+                },
+                {
+                    "id": "28",
+                    "description": "Simulation"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/527310/ss_c85f2a24d3b4939d388955e56c276ddaeede082a.600x338.jpg?t=1497369730",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/527310/ss_c85f2a24d3b4939d388955e56c276ddaeede082a.1920x1080.jpg?t=1497369730"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/527310/ss_f7074aa2eef0a361de968e05604091c45986ad55.600x338.jpg?t=1497369730",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/527310/ss_f7074aa2eef0a361de968e05604091c45986ad55.1920x1080.jpg?t=1497369730"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/527310/ss_507308cad6d231ca57b213016e1c403c1c5fc014.600x338.jpg?t=1497369730",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/527310/ss_507308cad6d231ca57b213016e1c403c1c5fc014.1920x1080.jpg?t=1497369730"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/527310/ss_764aeed4adc15e166b2aeea4b8824bfbcf8c45a6.600x338.jpg?t=1497369730",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/527310/ss_764aeed4adc15e166b2aeea4b8824bfbcf8c45a6.1920x1080.jpg?t=1497369730"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/527310/ss_63ba76d2919e3df0bda96e01215263c4714807dc.600x338.jpg?t=1497369730",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/527310/ss_63ba76d2919e3df0bda96e01215263c4714807dc.1920x1080.jpg?t=1497369730"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 256670549,
+                    "name": "Trailer #1",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256670549/movie.293x165.jpg?t=1479530545",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256670549/movie480.webm?t=1479530545",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256670549/movie_max.webm?t=1479530545"
+                    },
+                    "highlight": true
+                }
+            ],
+            "achievements": {
+                "total": 0
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "8 Jun, 2017"
+            },
+            "support_info": {
+                "url": "https://medium.com/@phiLine",
+                "email": "phi.Liney@gmail.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/527310/page_bg_generated_v6b.jpg?t=1497369730",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

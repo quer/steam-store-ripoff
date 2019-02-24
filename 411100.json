@@ -1,0 +1,130 @@
+{
+    "411100": {
+        "success": true,
+        "data": {
+            "type": "dlc",
+            "name": "RONIN - Special Edition Upgrade",
+            "steam_appid": 411100,
+            "required_age": 0,
+            "is_free": false,
+            "controller_support": "full",
+            "detailed_description": "",
+            "about_the_game": "",
+            "short_description": "",
+            "fullgame": {
+                "appid": "274230",
+                "name": "RONIN"
+            },
+            "supported_languages": "English, Polish, Russian, French, Italian, German, Spanish - Spain, Portuguese - Brazil, Romanian",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/411100/header.jpg?t=1447378504",
+            "website": "https://twitter.com/RoninGame",
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows Vista or Later<br></li><li><strong>Processor:</strong> Intel Core™ Duo or faster<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL 3.0 compliant video card<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP, 7, or 8</li></ul>"
+            },
+            "mac_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OS 10.6+<br></li><li><strong>Processor:</strong> 2.8 GHz Intel Core 2 Duo or better<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>"
+            },
+            "linux_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 12.04 or later<br></li><li><strong>Processor:</strong> 1.8 GHz Dual-Core<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>"
+            },
+            "legal_notice": "Copyright 2015 Tomasz Wacławek. All Rights Reserved.",
+            "developers": [
+                "Tomasz Wacławek"
+            ],
+            "publishers": [
+                "Devolver Digital"
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 699,
+                "final": 699,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "6,99€"
+            },
+            "packages": [
+                81926
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy RONIN - Special Edition Upgrade",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 81926,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "RONIN - Special Edition Content - 6,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 699
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": true,
+                "linux": true
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 21,
+                    "description": "Downloadable Content"
+                },
+                {
+                    "id": 22,
+                    "description": "Steam Achievements"
+                },
+                {
+                    "id": 28,
+                    "description": "Full controller support"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "1",
+                    "description": "Action"
+                },
+                {
+                    "id": "23",
+                    "description": "Indie"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/411100/ss_c1bfd4c8abc33e01d0b1a5f7fab1f3e459ef5a04.600x338.jpg?t=1447378504",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/411100/ss_c1bfd4c8abc33e01d0b1a5f7fab1f3e459ef5a04.1920x1080.jpg?t=1447378504"
+                }
+            ],
+            "achievements": {
+                "total": 0
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "10 Nov, 2015"
+            },
+            "support_info": {
+                "url": "",
+                "email": "t.waclawek@gmail.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/411100/page_bg_generated_v6b.jpg?t=1447378504",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

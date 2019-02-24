@@ -1,0 +1,160 @@
+{
+    "988870": {
+        "success": true,
+        "data": {
+            "type": "dlc",
+            "name": "Ballistic Overkill - Wraith: La Muerte",
+            "steam_appid": 988870,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "Alternate costume for Ballistic Overkill. Contains new La Muerte skin for Wraith class.",
+            "about_the_game": "Alternate costume for Ballistic Overkill. Contains new La Muerte skin for Wraith class.",
+            "short_description": "This content requires the base game Ballistic Overkill on Steam in order to play.",
+            "fullgame": {
+                "appid": "296300",
+                "name": "Ballistic Overkill"
+            },
+            "supported_languages": "English<strong>*</strong>, Portuguese, French, Italian, German, Spanish - Spain, Portuguese - Brazil, Simplified Chinese, Swedish, Turkish, Russian, Traditional Chinese, Polish, Hungarian<br><strong>*</strong>languages with full audio support",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/988870/header.jpg?t=1544619120",
+            "website": null,
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 or newer<br></li><li><strong>Processor:</strong> Intel Core 2 Duo 2.0 GHz or better<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD Graphics 4000 or better<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 4 GB available space</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 or newer<br></li><li><strong>Processor:</strong> Intel Core i5 2.5 GHz or better<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> GeForce 8000 Series or better<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 8 GB available space</li></ul>"
+            },
+            "mac_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mountain Lion<br></li><li><strong>Processor:</strong> Intel Core 2 Duo 2.0 GHZ or better<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD Graphics 4000 or better<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 4 GB available space</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mountain Lion<br></li><li><strong>Processor:</strong> Intel Core i5 2.5 GHz or better<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> GeForce 8000 Series or better<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 8 GB available space</li></ul>"
+            },
+            "linux_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Linux Ubuntu 12.04 or newer<br></li><li><strong>Processor:</strong> Intel Core 2 Duo 2.0 GHZ or better<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD Graphics 4000 or better<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 4 GB available space</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Linux Ubuntu 12.04 or newer<br></li><li><strong>Processor:</strong> Intel Core i5 2.5 GHz or better<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> GeForce 8000 Series or better<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 8 GB available space</li></ul>"
+            },
+            "developers": [
+                "Aquiris Game Studio"
+            ],
+            "publishers": [
+                "Green Man Gaming Publishing"
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 569,
+                "final": 569,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "5,69€"
+            },
+            "packages": [
+                325735
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Ballistic Overkill - Wraith: La Muerte",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 325735,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Ballistic Overkill - Wraith: La Muerte - 5,69€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 569
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": true,
+                "linux": true
+            },
+            "categories": [
+                {
+                    "id": 1,
+                    "description": "Multi-player"
+                },
+                {
+                    "id": 36,
+                    "description": "Online Multi-Player"
+                },
+                {
+                    "id": 27,
+                    "description": "Cross-Platform Multiplayer"
+                },
+                {
+                    "id": 21,
+                    "description": "Downloadable Content"
+                },
+                {
+                    "id": 22,
+                    "description": "Steam Achievements"
+                },
+                {
+                    "id": 29,
+                    "description": "Steam Trading Cards"
+                },
+                {
+                    "id": 23,
+                    "description": "Steam Cloud"
+                },
+                {
+                    "id": 8,
+                    "description": "Valve Anti-Cheat enabled"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "1",
+                    "description": "Action"
+                },
+                {
+                    "id": "4",
+                    "description": "Casual"
+                },
+                {
+                    "id": "23",
+                    "description": "Indie"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/988870/ss_510827f2f6f5457fbb12608298433f5987d83664.600x338.jpg?t=1544619120",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/988870/ss_510827f2f6f5457fbb12608298433f5987d83664.1920x1080.jpg?t=1544619120"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/988870/ss_5ed736c86deb30451cd09bd82e533501dcfdc127.600x338.jpg?t=1544619120",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/988870/ss_5ed736c86deb30451cd09bd82e533501dcfdc127.1920x1080.jpg?t=1544619120"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/988870/ss_b548ed9d49c700deae3d294c811998d51d1a6e15.600x338.jpg?t=1544619120",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/988870/ss_b548ed9d49c700deae3d294c811998d51d1a6e15.1920x1080.jpg?t=1544619120"
+                }
+            ],
+            "achievements": {
+                "total": 0
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "12 Dec, 2018"
+            },
+            "support_info": {
+                "url": "https://greenmangaming.zendesk.com/hc/en-us/requests/new",
+                "email": "support@aquiris.com.br"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/988870/page_bg_generated_v6b.jpg?t=1544619120",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

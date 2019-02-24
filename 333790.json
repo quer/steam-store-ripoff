@@ -1,0 +1,110 @@
+{
+    "333790": {
+        "success": true,
+        "data": {
+            "type": "dlc",
+            "name": "The Pewdieverse DLC",
+            "steam_appid": 333790,
+            "required_age": 0,
+            "is_free": true,
+            "detailed_description": "The Pewdieverse DLC contains Pewdiepie FaceRig Avatar. The DLC requires the base application <a href=\"https://steamcommunity.com/linkfilter/?url=http://FaceRig\" target=\"_blank\" rel=\"noopener\"  >FaceRig</a> on Steam in order to run.",
+            "about_the_game": "The Pewdieverse DLC contains Pewdiepie FaceRig Avatar. The DLC requires the base application <a href=\"https://steamcommunity.com/linkfilter/?url=http://FaceRig\" target=\"_blank\" rel=\"noopener\"  >FaceRig</a> on Steam in order to run.",
+            "short_description": "The Pewdieverse DLC contains Pewdiepie FaceRig Avatar. The DLC requires the base application FaceRig on Steam in order to run.",
+            "fullgame": {
+                "appid": "274920",
+                "name": "FaceRig"
+            },
+            "supported_languages": "English",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/333790/header.jpg?t=1524670468",
+            "website": "http://www.facerig.com",
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Storage:</strong> 50 MB available space</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>Storage:</strong> 50 MB available space</li></ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "legal_notice": "© 2014 Holotech Studios",
+            "developers": [
+                "Holotech Studios"
+            ],
+            "publishers": [
+                ""
+            ],
+            "packages": [
+                54824
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy The Pewdieverse DLC",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 54824,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "The Pewdieverse DLC - Free",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": true,
+                            "price_in_cents_with_discount": 0
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 21,
+                    "description": "Downloadable Content"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "51",
+                    "description": "Animation & Modeling"
+                },
+                {
+                    "id": "58",
+                    "description": "Video Production"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/333790/ss_2fa67c7bbe7edfbb438bbaeaccf63abdf0a64da2.600x338.jpg?t=1524670468",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/333790/ss_2fa67c7bbe7edfbb438bbaeaccf63abdf0a64da2.1920x1080.jpg?t=1524670468"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/333790/ss_2dbe96c248dcc33ce1d72c2bed4da5e58a88771c.600x338.jpg?t=1524670468",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/333790/ss_2dbe96c248dcc33ce1d72c2bed4da5e58a88771c.1920x1080.jpg?t=1524670468"
+                }
+            ],
+            "achievements": {
+                "total": 0
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "1 Dec, 2014"
+            },
+            "support_info": {
+                "url": "https://facerig.com/forum",
+                "email": "info@facerig.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/333790/page_bg_generated_v6b.jpg?t=1524670468",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

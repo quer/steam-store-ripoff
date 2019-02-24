@@ -1,0 +1,152 @@
+{
+    "584820": {
+        "success": true,
+        "data": {
+            "type": "dlc",
+            "name": "Tower Mode",
+            "steam_appid": 584820,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "These colorful ninjas received a new training in JumpBall. <br />\r\nThis is the Tower Mode.<br />\r\n<br />\r\nJump while dodge the spikes in order to reach the end of each stage. <br />\r\n<br />\r\nDuring the gameplay you only need to use two buttons: For jump and high jump.<br />\r\n<br />\r\nSee how many points you can do, see if you can be a true ninja of JumpBall.",
+            "about_the_game": "These colorful ninjas received a new training in JumpBall. <br />\r\nThis is the Tower Mode.<br />\r\n<br />\r\nJump while dodge the spikes in order to reach the end of each stage. <br />\r\n<br />\r\nDuring the gameplay you only need to use two buttons: For jump and high jump.<br />\r\n<br />\r\nSee how many points you can do, see if you can be a true ninja of JumpBall.",
+            "short_description": "Jump while balancing on the ball.",
+            "fullgame": {
+                "appid": "537360",
+                "name": "JumpBall"
+            },
+            "supported_languages": "English",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/584820/header.jpg?t=1512431267",
+            "website": "https://www.facebook.com/andrebertagliagames",
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP<br></li><li><strong>Processor:</strong> 32 bits<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> DirectX or OpenGL Compatible Video card</li></ul>"
+            },
+            "mac_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OS X 10.8 or above<br></li><li><strong>Processor:</strong> Any CPU that support SSE2 instructions set<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> Video card with DX9 support (shader model 3.0) or DX11 with a feature level 3.0 support</li></ul>"
+            },
+            "linux_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 12.04+ or above<br></li><li><strong>Processor:</strong> Any CPU that support SSE2 instructions set<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> Video card with DX9 support (shader model 3.0) or DX11 with a feature level 3.0 support</li></ul>"
+            },
+            "developers": [
+                "André Bertaglia"
+            ],
+            "publishers": [
+                "André Bertaglia"
+            ],
+            "packages": [
+                238572
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Tower Mode",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 238572,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Jumpball: Tower Mode - Commercial License - 1,59€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 159
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": true,
+                "linux": true
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 21,
+                    "description": "Downloadable Content"
+                },
+                {
+                    "id": 29,
+                    "description": "Steam Trading Cards"
+                },
+                {
+                    "id": 18,
+                    "description": "Partial Controller Support"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "4",
+                    "description": "Casual"
+                },
+                {
+                    "id": "23",
+                    "description": "Indie"
+                },
+                {
+                    "id": "18",
+                    "description": "Sports"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/584820/ss_3571c7d050d6747fa3a6f6c0c818a64b9455b4cc.600x338.jpg?t=1512431267",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/584820/ss_3571c7d050d6747fa3a6f6c0c818a64b9455b4cc.1920x1080.jpg?t=1512431267"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/584820/ss_12449163eaf1a5b038020aa98c4fe947bef762a7.600x338.jpg?t=1512431267",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/584820/ss_12449163eaf1a5b038020aa98c4fe947bef762a7.1920x1080.jpg?t=1512431267"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/584820/ss_fd89efa66f4ad5144e8ebc40f417be9cbabcc315.600x338.jpg?t=1512431267",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/584820/ss_fd89efa66f4ad5144e8ebc40f417be9cbabcc315.1920x1080.jpg?t=1512431267"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/584820/ss_ed0888f95d626cebbecdb67acbe54be5ee8be3e8.600x338.jpg?t=1512431267",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/584820/ss_ed0888f95d626cebbecdb67acbe54be5ee8be3e8.1920x1080.jpg?t=1512431267"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/584820/ss_7c4d4224a805dea27701f9e5539a57e8b738cf2b.600x338.jpg?t=1512431267",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/584820/ss_7c4d4224a805dea27701f9e5539a57e8b738cf2b.1920x1080.jpg?t=1512431267"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 256678535,
+                    "name": "Tower Mode DLC",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256678535/movie.293x165.jpg?t=1485958888",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256678535/movie480.webm?t=1485958888",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256678535/movie_max.webm?t=1485958888"
+                    },
+                    "highlight": true
+                }
+            ],
+            "release_date": {
+                "coming_soon": false,
+                "date": "1 Feb, 2017"
+            },
+            "support_info": {
+                "url": "https://www.facebook.com/andrebertagliagames",
+                "email": "andrelegitimus@gmail.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/584820/page_bg_generated_v6b.jpg?t=1512431267",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

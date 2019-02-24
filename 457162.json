@@ -1,0 +1,198 @@
+{
+    "457162": {
+        "success": true,
+        "data": {
+            "type": "dlc",
+            "name": "Rocket League® - Vulcan",
+            "steam_appid": 457162,
+            "required_age": 0,
+            "is_free": false,
+            "controller_support": "full",
+            "detailed_description": "Defend the universe (and your goal line) with Vulcan, the most elite sports-craft in the galaxy!",
+            "about_the_game": "Defend the universe (and your goal line) with Vulcan, the most elite sports-craft in the galaxy!",
+            "short_description": "Defend the universe (and your goal line) with Vulcan, the most elite sports-craft in the galaxy!",
+            "fullgame": {
+                "appid": "252950",
+                "name": "Rocket League®"
+            },
+            "supported_languages": "English, French, Italian, German, Spanish - Spain, Dutch, Portuguese, Japanese, Korean, Russian, Turkish",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/457162/header.jpg?t=1531335661",
+            "website": "http://www.rocketleaguegame.com",
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 or Newer<br></li><li><strong>Processor:</strong> 2.4 GHz Dual core<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GTX 260 or ATI 4850<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 5 GB available space</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 or Newer<br></li><li><strong>Processor:</strong> 2.5+ GHz Quad core<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GTX 660 or better, ATI 7950 or better<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 5 GB available space<br></li><li><strong>Additional Notes:</strong> Gamepad or Controller Recommended</li></ul>"
+            },
+            "mac_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> MacOS X 10.8.5<br></li><li><strong>Processor:</strong> Intel Core i5 2.4 GHz<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL 4.1 - ATI Radeon HD 5670, NVIDIA GeForce GT 640M, Intel HD Graphics 4000 or Iris Pro Graphics<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 5 GB available space</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> MacOS X 10.8.5 or Newer<br></li><li><strong>Processor:</strong> Intel Core i7 2.4 GHz<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL 4.1 - ATI Radeon HD 5670, NVIDIA GeForce GT 640M<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 5 GB available space<br></li><li><strong>Additional Notes:</strong> Gamepad or Controller Recommended</li></ul>"
+            },
+            "linux_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Processor:</strong> 2.4 GHz Dual core<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GTX 260 or ATI 4850<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 5 GB available space</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>Processor:</strong> 2.5+ GHz Quad core<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GTX 660 or better, ATI 7950 or better<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 5 GB available space<br></li><li><strong>Additional Notes:</strong> Gamepad or Controller Recommended</li></ul>"
+            },
+            "legal_notice": "Copyright © 2015-2016, Psyonix Inc. ROCKET LEAGUE is the registered trademark of PSYONIX and the ROCKET LEAGUE and PSYONIX logos are the trademarks of Psyonix Inc. Copyrights and trademarks are protected under United States, foreign country, and international laws and treaties. All rights reserved.",
+            "developers": [
+                "Psyonix, Inc."
+            ],
+            "publishers": [
+                "Psyonix, Inc."
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 199,
+                "final": 199,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "1,99€"
+            },
+            "packages": [
+                99186
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Rocket League® - Vulcan",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 99186,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Rocket League® - Vulcan - 1,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 199
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": true,
+                "linux": true
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 1,
+                    "description": "Multi-player"
+                },
+                {
+                    "id": 9,
+                    "description": "Co-op"
+                },
+                {
+                    "id": 24,
+                    "description": "Shared/Split Screen"
+                },
+                {
+                    "id": 27,
+                    "description": "Cross-Platform Multiplayer"
+                },
+                {
+                    "id": 21,
+                    "description": "Downloadable Content"
+                },
+                {
+                    "id": 22,
+                    "description": "Steam Achievements"
+                },
+                {
+                    "id": 28,
+                    "description": "Full controller support"
+                },
+                {
+                    "id": 29,
+                    "description": "Steam Trading Cards"
+                },
+                {
+                    "id": 23,
+                    "description": "Steam Cloud"
+                },
+                {
+                    "id": 15,
+                    "description": "Stats"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "1",
+                    "description": "Action"
+                },
+                {
+                    "id": "23",
+                    "description": "Indie"
+                },
+                {
+                    "id": "9",
+                    "description": "Racing"
+                },
+                {
+                    "id": "18",
+                    "description": "Sports"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/457162/ss_7fa7b743a1c30a459abec3c42169a8c1ca1388d8.600x338.jpg?t=1531335661",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/457162/ss_7fa7b743a1c30a459abec3c42169a8c1ca1388d8.1920x1080.jpg?t=1531335661"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/457162/ss_e8ba9ccf46d971e2dc58aa82e70ed2e907abbb5c.600x338.jpg?t=1531335661",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/457162/ss_e8ba9ccf46d971e2dc58aa82e70ed2e907abbb5c.1920x1080.jpg?t=1531335661"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/457162/ss_58fc353552f1eea3ef9a923d785a3cd4a0117d9c.600x338.jpg?t=1531335661",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/457162/ss_58fc353552f1eea3ef9a923d785a3cd4a0117d9c.1920x1080.jpg?t=1531335661"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/457162/ss_5f61144daa1e2bad5c2b63fdf762e8d558470481.600x338.jpg?t=1531335661",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/457162/ss_5f61144daa1e2bad5c2b63fdf762e8d558470481.1920x1080.jpg?t=1531335661"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 256675705,
+                    "name": "Rocket League® - Starbase ARC Trailer",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256675705/movie.293x165.jpg?t=1481148457",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256675705/movie480.webm?t=1481148457",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256675705/movie_max.webm?t=1481148457"
+                    },
+                    "highlight": true
+                }
+            ],
+            "recommendations": {
+                "total": 285
+            },
+            "achievements": {
+                "total": 0
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "7 Dec, 2016"
+            },
+            "support_info": {
+                "url": "http://psyonix.com/forum/viewforum.php?f=34",
+                "email": "rlsupport@psyonix.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/457162/page_bg_generated_v6b.jpg?t=1531335661",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

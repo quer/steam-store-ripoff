@@ -1,0 +1,152 @@
+{
+    "959320": {
+        "success": true,
+        "data": {
+            "type": "video",
+            "name": "Blanca",
+            "steam_appid": 959320,
+            "required_age": 0,
+            "is_free": false,
+            "controller_support": "full",
+            "detailed_description": "<h1>Steam Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>Juan and his wife, Blanca, live a calm and normal life, until Juan is kidnapped by dangerous drug traffickers. On a journey to find her husband, Blanca discovers astonishing underground drug labs where the smugglers put together makeshift submarines to transport the drugs to the Mexican coast. Against her will and common sense, Blanca has no choice other than to follow the cartel.",
+            "about_the_game": "Juan and his wife, Blanca, live a calm and normal life, until Juan is kidnapped by dangerous drug traffickers. On a journey to find her husband, Blanca discovers astonishing underground drug labs where the smugglers put together makeshift submarines to transport the drugs to the Mexican coast. Against her will and common sense, Blanca has no choice other than to follow the cartel.",
+            "short_description": "Blanca puts her life at risk in search of her husband who has been kidnapped by dangerous drug traffickers.",
+            "fullgame": {
+                "appid": null,
+                "name": "Uninitialized"
+            },
+            "supported_languages": "Spanish - Spain",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/959320/header.jpg?t=1539272085",
+            "website": null,
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong> Intel Core 2 or AMD equivalent<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 200 MB available space<br></li><li><strong>Additional Notes:</strong> Network Bandwidth of 5Mbps for 540p, 3Mbps for 360p.</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Intel Core I3+ or AMD equivalent recommended for HD 1080p playback<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 500 MB available space<br></li><li><strong>Additional Notes:</strong> Network Bandwidth of 12Mbps for 1080p or 8Mbps for 720p.</li></ul>"
+            },
+            "mac_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OSX 10.7<br></li><li><strong>Processor:</strong> Intel Core 2 or AMD equivalent<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 200 MB available space<br></li><li><strong>Additional Notes:</strong> Network Bandwidth of 5Mbps for 540p, 3Mbps for 360p.</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OSX 10.10+<br></li><li><strong>Processor:</strong> Intel Core I3+ or AMD equivalent recommended for HD 1080p playback<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 500 MB available space<br></li><li><strong>Additional Notes:</strong> Network Bandwidth of 12Mbps for 1080p or 8Mbps for 720p.</li></ul>"
+            },
+            "linux_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Linux Ubuntu 12.04 or later, SteamOS 2.20 or later<br></li><li><strong>Processor:</strong> Intel Core 2 or AMD equivalent<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 200 MB available space<br></li><li><strong>Additional Notes:</strong> Network Bandwidth of 5Mbps for 540p, 3Mbps for 360p.</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Linux Ubuntu 12.04 or later, SteamOS 2.20 or later<br></li><li><strong>Processor:</strong> Intel Core I3+ or AMD equivalent recommended for HD 1080p playback<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 500 MB available space<br></li><li><strong>Additional Notes:</strong> Network Bandwidth of 12Mbps for 1080p or 8Mbps for 720p.</li></ul>"
+            },
+            "developers": [
+                "64A Films"
+            ],
+            "publishers": [
+                "Gaumont Distribution TV, LLC"
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 399,
+                "final": 399,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "3,99€"
+            },
+            "packages": [
+                313617,
+                313616
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Blanca",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 313617,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Blanca - 3,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 399
+                        },
+                        {
+                            "packageid": 313616,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Blanca - 10,79€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 1079
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": true,
+                "linux": true
+            },
+            "categories": [
+                {
+                    "id": 28,
+                    "description": "Full controller support"
+                },
+                {
+                    "id": 33,
+                    "description": "Native Steam Controller Support"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "80",
+                    "description": "Movie"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/959320/ss_98d029c334c11c5d730862a7c7da06c9718daec3.600x338.jpg?t=1539272085",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/959320/ss_98d029c334c11c5d730862a7c7da06c9718daec3.1920x1080.jpg?t=1539272085"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/959320/ss_52bdab5286690f6b65a94be402c27b13b917fa48.600x338.jpg?t=1539272085",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/959320/ss_52bdab5286690f6b65a94be402c27b13b917fa48.1920x1080.jpg?t=1539272085"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/959320/ss_7d41c1b305db9a8056dc60ad2c3d00565b7759d8.600x338.jpg?t=1539272085",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/959320/ss_7d41c1b305db9a8056dc60ad2c3d00565b7759d8.1920x1080.jpg?t=1539272085"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/959320/ss_9a91ef1d10a299b6b6b48c842a7f81c6c1fbee45.600x338.jpg?t=1539272085",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/959320/ss_9a91ef1d10a299b6b6b48c842a7f81c6c1fbee45.1920x1080.jpg?t=1539272085"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/959320/ss_103e55538fbddfb79d031e099cc1adcc088cdeda.600x338.jpg?t=1539272085",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/959320/ss_103e55538fbddfb79d031e099cc1adcc088cdeda.1920x1080.jpg?t=1539272085"
+                }
+            ],
+            "achievements": {
+                "total": 0
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "11 Oct, 2018"
+            },
+            "support_info": {
+                "url": "",
+                "email": "pdsorders@premieredigital.net"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/959320/page_bg_generated_v6b.jpg?t=1539272085",
+            "content_descriptors": {
+                "ids": [
+                    5
+                ],
+                "notes": "for graphic violence and criminal drug smuggling."
+            }
+        }
+    }
+}

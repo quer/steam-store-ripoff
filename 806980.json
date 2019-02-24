@@ -1,0 +1,80 @@
+{
+    "806980": {
+        "success": true,
+        "data": {
+            "type": "demo",
+            "name": "DJ Mole Demo",
+            "steam_appid": 806980,
+            "required_age": 0,
+            "is_free": true,
+            "detailed_description": "DJ Mole Demo",
+            "about_the_game": "DJ Mole Demo",
+            "short_description": "DJ Mole Demo",
+            "fullgame": {
+                "appid": "806880",
+                "name": "DJ Mole"
+            },
+            "supported_languages": "English, French, Italian, German, Spanish - Spain",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/806980/header.jpg?t=1520528519",
+            "website": null,
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> WINDOWS XP / WINDOWS VISTA / WINDOWS 7 / WINDOWS 8 / WINDOWS 10<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> DirectX or OpenGL Compatible Video card<br></li><li><strong>Storage:</strong> 20 MB available space</li></ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "developers": [
+                "LittleAngel Studio"
+            ],
+            "publishers": [
+                "OtakuMaker SARL"
+            ],
+            "package_groups": [],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 10,
+                    "description": "Game demo"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "1",
+                    "description": "Action"
+                },
+                {
+                    "id": "4",
+                    "description": "Casual"
+                },
+                {
+                    "id": "23",
+                    "description": "Indie"
+                },
+                {
+                    "id": "2",
+                    "description": "Strategy"
+                }
+            ],
+            "release_date": {
+                "coming_soon": false,
+                "date": "8 Mar, 2018"
+            },
+            "support_info": {
+                "url": "",
+                "email": "steam@otakumaker.com"
+            },
+            "background": "",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

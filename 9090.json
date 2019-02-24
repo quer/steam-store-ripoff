@@ -1,0 +1,71 @@
+{
+    "9090": {
+        "success": true,
+        "data": {
+            "type": "demo",
+            "name": "Quake III Team Arena Demo",
+            "steam_appid": 9090,
+            "required_age": 0,
+            "is_free": true,
+            "detailed_description": "",
+            "about_the_game": "",
+            "short_description": "",
+            "fullgame": {
+                "appid": "2350",
+                "name": "QUAKE III: Team Arena"
+            },
+            "supported_languages": "English",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/9090/header.jpg?t=1447351117",
+            "website": null,
+            "pc_requirements": {
+                "minimum": "<p>3-D Hardware Accelerator with full OpenGL&reg; support, Pentium II(R) 300 Mhz or AMD&reg; 350 Mhz K6&reg;-2 processor or Athlon&reg; processor, Windows 2000/XP/Vista operating system, 64 MB RAM, 16 MB video card, 400 MB of uncompressed hard disk space for each game, 100 MB of free hard drive space for the Windows swap file (in addition to install space), a 100% Windows&reg; 2000/XP-compatible computer system (including compatible 32-bit drivers for video card, sound card and input devices), 100% DirectX 3.0 or higher compatible sound card, 100% Microsoft-compatible mouse and driver</p>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "developers": [
+                "id Software"
+            ],
+            "publishers": [
+                "id Software"
+            ],
+            "package_groups": [],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "metacritic": {
+                "score": 69
+            },
+            "categories": [
+                {
+                    "id": 1,
+                    "description": "Multi-player"
+                },
+                {
+                    "id": 10,
+                    "description": "Game demo"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "1",
+                    "description": "Action"
+                }
+            ],
+            "release_date": {
+                "coming_soon": false,
+                "date": "3 Aug, 2007"
+            },
+            "support_info": {
+                "url": "",
+                "email": ""
+            },
+            "background": "",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

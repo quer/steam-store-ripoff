@@ -1,0 +1,86 @@
+{
+    "411184": {
+        "success": true,
+        "data": {
+            "type": "episode",
+            "name": "Dota 2 Player Profiles: MVPHot6 - HEEN",
+            "steam_appid": 411184,
+            "required_age": 0,
+            "is_free": true,
+            "controller_support": "full",
+            "detailed_description": "",
+            "about_the_game": "",
+            "short_description": "From team MVPHot6, learn more about HEEN",
+            "fullgame": {
+                "appid": "411180",
+                "name": "Dota 2 Player Profiles"
+            },
+            "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/411184/header.jpg?t=1467157363",
+            "website": "",
+            "pc_requirements": [],
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "publishers": [
+                ""
+            ],
+            "packages": [
+                81951
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Dota 2 Player Profiles: MVPHot6 - HEEN",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 81951,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Dota 2 Player Profiles - Free",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": true,
+                            "price_in_cents_with_discount": 0
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": true,
+                "linux": true
+            },
+            "categories": [
+                {
+                    "id": 28,
+                    "description": "Full controller support"
+                },
+                {
+                    "id": 33,
+                    "description": "Native Steam Controller Support"
+                }
+            ],
+            "achievements": {
+                "total": 0
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "28 Jun, 2016"
+            },
+            "support_info": {
+                "url": "",
+                "email": ""
+            },
+            "background": "",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

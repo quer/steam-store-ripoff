@@ -1,0 +1,148 @@
+{
+    "872100": {
+        "success": true,
+        "data": {
+            "type": "dlc",
+            "name": "Restoration: Blessed Donation",
+            "steam_appid": 872100,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "This content does not change the game in any way, shape or form.",
+            "about_the_game": "This content does not change the game in any way, shape or form.",
+            "short_description": "Purchase this donation to help support future updates and games from Team Syukino!",
+            "fullgame": {
+                "appid": "688380",
+                "name": "Restoration"
+            },
+            "supported_languages": "English",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/872100/header.jpg?t=1535934287",
+            "website": null,
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7/8.1/10<br></li><li><strong>Processor:</strong> N/A<br></li><li><strong>Graphics:</strong> N/A<br></li><li><strong>Sound Card:</strong> N/A<br></li><li><strong>Additional Notes:</strong> Donation</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 8.1/10<br></li><li><strong>Processor:</strong> N/A<br></li><li><strong>Graphics:</strong> N/A<br></li><li><strong>Sound Card:</strong> N/A<br></li><li><strong>Additional Notes:</strong> Donation</li></ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "legal_notice": "Restoration is the sole property of Atsumora Sythe, Aka Syu-Syu.<br />\r\n*Team Syukino*",
+            "developers": [
+                "Team Syukino"
+            ],
+            "publishers": [
+                "Team Syukino"
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 159,
+                "final": 159,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "1,59€"
+            },
+            "packages": [
+                275645,
+                276458
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Restoration: Blessed Donation",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 275645,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Restoration: Blessed Donation - 1,59€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 159
+                        }
+                    ]
+                },
+                {
+                    "name": "subscriptions",
+                    "title": "Buy Restoration: Blessed Donation Subscription Plan",
+                    "description": "To be billed on a recurring basis.",
+                    "selection_text": "Select a subscription plan",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "true",
+                    "subs": [
+                        {
+                            "packageid": 276458,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "1 Month(s) @ 2,39€/Month",
+                            "option_description": "<p class=\"game_purchase_subscription\">3,99€ at checkout, auto-renewed every 1 month(s) at 2,39€.</p>",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 399
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 21,
+                    "description": "Downloadable Content"
+                },
+                {
+                    "id": 22,
+                    "description": "Steam Achievements"
+                },
+                {
+                    "id": 18,
+                    "description": "Partial Controller Support"
+                },
+                {
+                    "id": 23,
+                    "description": "Steam Cloud"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "23",
+                    "description": "Indie"
+                },
+                {
+                    "id": "3",
+                    "description": "RPG"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/872100/ss_33b19ec5615f8f43b0ad72f7bf48da6721337181.600x338.jpg?t=1535934287",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/872100/ss_33b19ec5615f8f43b0ad72f7bf48da6721337181.1920x1080.jpg?t=1535934287"
+                }
+            ],
+            "release_date": {
+                "coming_soon": false,
+                "date": "28 May, 2018"
+            },
+            "support_info": {
+                "url": "",
+                "email": "Syukino56@gmail.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/872100/page_bg_generated_v6b.jpg?t=1535934287",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

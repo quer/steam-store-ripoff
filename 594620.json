@@ -1,0 +1,120 @@
+{
+    "594620": {
+        "success": true,
+        "data": {
+            "type": "dlc",
+            "name": "CuVRball - Unlimited Play",
+            "steam_appid": 594620,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "This DLC gives you access to play CuVRball for however long you want.",
+            "about_the_game": "This DLC gives you access to play CuVRball for however long you want.",
+            "short_description": "This DLC gives you access to play CuVRball for however long you want.",
+            "fullgame": {
+                "appid": "539190",
+                "name": "CuVRball"
+            },
+            "supported_languages": "English",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/594620/header.jpg?t=1487360120",
+            "website": "http://www.hypergolicgames.com/",
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 SP1, Windows 8.1, Windows 10<br></li><li><strong>Processor:</strong> Intel i5-4590, AMD FX 8350<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GeForce GTX 970, AMD Radeon R9 290<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "developers": [
+                "Hypergolic Games"
+            ],
+            "publishers": [
+                ""
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 1499,
+                "final": 1499,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "14,99€"
+            },
+            "packages": [
+                155270
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy CuVRball - Unlimited Play",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 155270,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "CuVRball - Unlimited Play - 14,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 1499
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 36,
+                    "description": "Online Multi-Player"
+                },
+                {
+                    "id": 21,
+                    "description": "Downloadable Content"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "1",
+                    "description": "Action"
+                },
+                {
+                    "id": "4",
+                    "description": "Casual"
+                },
+                {
+                    "id": "23",
+                    "description": "Indie"
+                },
+                {
+                    "id": "18",
+                    "description": "Sports"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/594620/ss_d245bae1c9da599aae3a93b22e810356ec5e9aa4.600x338.jpg?t=1487360120",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/594620/ss_d245bae1c9da599aae3a93b22e810356ec5e9aa4.1920x1080.jpg?t=1487360120"
+                }
+            ],
+            "release_date": {
+                "coming_soon": false,
+                "date": "17 Feb, 2017"
+            },
+            "support_info": {
+                "url": "http://www.hypergolicgames.com/",
+                "email": "Trevor@hypergolicgames.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/594620/page_bg_generated_v6b.jpg?t=1487360120",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

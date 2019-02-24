@@ -1,0 +1,307 @@
+{
+    "325430": {
+        "success": true,
+        "data": {
+            "type": "game",
+            "name": "Metaverse",
+            "steam_appid": 325430,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "<h1>v0.7.0.0 - New tutorial, plus tons of features</h1><p>[h1]Welcome to Metaverse version 0.7.0.0![/h1]<br>We're so excited to release this to you.  This is our biggest update ever.  In addition to the new tutorial and start of story mode, we've added tons of new features and polish.  Thanks for all your support and feedback along the way!<br><br>[h1]A note for users with existing game saves:[/h1]<br>The updated Metaverse planet looks quite a bit different from the one you've got now.  But we worked hard to make sure not to break your current planet or B.I.T.s.  If you want to, you can remain on your current planet as is and keep building your base.  The main difference for you will be that you will need to deploy your new Quantum Core when you load the game.  But if you really want the full experience, we recommend starting fresh by clicking the New Simulation button in the main menu.  This will erase your current game save and let you start fresh with the new tutorial and planet.  If you have B.I.T. schematics in the Simulation Deck, you should publish them to Workshop before you erase your game save, so that you can download them again after you click New Simulation.<br><br>Also, be sure to check out the new free Construction Kit, which has support for VR.  You can find out more about it here: <a href=\"http://store.steampowered.com/app/422630\" target=\"_blank\" rel=\"noreferrer\"  id=\"dynamiclink_0\" >http://store.steampowered.com/app/422630</a><br><br>[h1]And without further ado, here's what's new:[/h1]<br><ul class=\"bb_ul\">  <li>Brand new tutorial and start of story mode.<br>  </li><li>New GFR-AR7 Assault Rifle.<br>  </li><li>New gear select menu.<br>  </li><li>Updated all B.I.T. materials.<br>  </li><li>Added new Structural B.I.T. models.<br>  </li><li>The LAIR has been removed from the game, in favor of a new Quantum Core.<br>  </li><li>Added compass and lat/lon to the HUD.<br>  </li><li>Added ability to melee.<br>  </li><li>Added Take All button to backpack.<br>  </li><li>Added oxygen and stamina.<br>  </li><li>Health, stamina, oxygen, and energy automatically fill up when in range of a Bio Generator or the Quantum Core.<br>  </li><li>Max player energy is now 3x what it was before.<br>  </li><li>Added Situation station basics.  More to come soon.<br>  </li><li>Added Bio Generator to Technical B.I.T. category.  Build these to re-generate barren terrain and to replenish your vitals.<br>  </li><li>Weapons now use ammunition instead of energy.<br>  </li><li>Added Lethal and Non-Lethal ammunition to Essential B.I.T. category.<br>  </li><li>New music for tutorial.<br>  </li><li>Added ability to double-click to install gear.<br>  </li><li>Added ability to hold Shift to queue up 10 item at a time in the Fabricator.<br>  </li><li>New block place and take holograms.<br>  </li><li>Much improved UI for the Simulation station.<br>  </li><li>Added ability to paint B.I.T.s in the Simulation station.<br>  </li><li>New sounds for pick and place in the Simulation station.<br>  </li><li>Added ability to move up and down in the Simulation station.<br>  </li><li>Massive improvement in B.I.T. place/edit performance when dealing with lots of B.I.T.s.<br>  </li><li>New ship in intro video.<br>  </li><li>Quantum Beacons now teleport you to the last used Quantum Beacon.<br>  </li><li>Multiplayer UI is now in the main menu.<br>  </li><li>Added UI sounds.<br>  </li><li>Updated description text for all periodic table elements.<br>  </li><li>Less lag when loading saved B.I.T. schematics.<br>  </li><li>Fixed periodic table row labeled 51-71 instead of 57-71.  Also fixed a couple of periodic table elements being wrong.<br>  </li><li>Fixed Omni UI slow to load.<br>  </li><li>Fixed the loud bleep noise at the start of the game.<br>  </li><li>Fixed being able to fabricate B.I.T.s without selecting a pattern.<br>  </li><li>Fixed clicking the Fabricate button really fast could sometimes get you more B.I.T.s than you had resources for.<br>  </li><li>Fixed B.I.T. placement being jittery sometimes.<br>  </li><li>Disable auto-adjacent B.I.T. placement when switching B.I.T. types.  Same when using Undo.<br>  </li><li>Fixed terrain flickering black under certain lighting conditions.<br>  </li><li>Fixed terrain looking white in the distance at night.<br>  </li><li>Fixed B.I.T. Boxes not containing the full amounts of some items when you drop them when you die.<br>  </li><li>Fixed a bug where gear could become broken if removed from a gear slot.</li></ul></p><br><h1>About the Game</h1><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/325430/extras/steamDesc.png?t=1459465109\" ><br>Dig, discover, design, deploy, and defend. Explore your very own planet, and eventually help conquer or help build up the planets of others.<h2 class=\"bb_tag\">What is Metaverse?</h2>Metaverse is a voxel based action/adventure (Sci-Fi!) game about digging, discovering, designing, deploying, and defending.  But we see it as more than a game.  Metaverse is an ever-evolving platform, shaped by the actions of its players.  Right now that involves players giving feedback about the direction of development.  Before long, players will have a much more direct role in how Metaverse shapes up by traveling to the planets of other players and by trading and selling their fabrications.  Fabrications are custom objects that can be created in-game by players, using the materials harvested from their planet.  See below for more details.<h2 class=\"bb_tag\">What can I do in Metaverse right now?</h2><u>Story</u><br>Metaverse has what we believe to be an awesome storyline.  Of course, we <i>would</i> say that!  So we’ll let you be the judge.  Tell us what you think so we can make improvements, create story branches, or even change its entire direction.  We’re excited to build this thing with you!  We’ve built out the first chapter of the story in the form of a tutorial.  If you rush through and don’t stop to smell the roses or explore, there’s about 25-30 minutes of playable story in the game right now.<br><br><u>Sandbox Mode</u><br>After the tutorial, you’re dropped straight into sandbox mode.  In this mode, you can explore your planet.  This is also where you can dig and create (though a major component of creating is also found in Metaverse’s Fabricator).  Because of the technical challenges involved with setting up procedural terrains otherwise, most voxel based games offer only either completely cubed geometry or completely rounded geometry.  Metaverse, being a simulation from the future, has cracked the code, and is able to beautifully combine the two in a way that makes logical sense!  The procedurally generated planet that currently ships with Metaverse is 300 Km in diameter, which is indeed very big.  For now, let’s just call it, “New Texas.”  If you were to run in a straight line without stopping, we estimate it would take you about 28 hours to completely circle the planet. Metaverse does not have biomes right now, but that is a planned feature, and we’ve already done a lot of the development work needed to support that.  You tell us what’s most important to you, and that’s where we’ll focus development!<br><br><u>Fabricator</u><br>In the Fabricator, you can process the raw resources you’ve collected from your planet into refined materials.  Using these refined materials in the Simulation mode of the Fabricator, you can create just about anything you want.  And as long as you’ve got enough refined resources for the elements you’ve used, you can fabricate it into an actual object that can be taken outside to your planet and deployed.  Elements in the fabricator are based on real periodic table elements, and have accurate densities.  So if you make the walls of your base out of titanium, they're going to be significantly stronger than if you had made them with clay.<h2 class=\"bb_tag\">What are the limitations right now?</h2>Metaverse <i>is</i> Early Access, so there will be bugs.  We’re working hard to sort these out, and with your help, will stomp out the ones that are most important to you as quickly as possible.  And if you find something lacking, we want to hear about it!<h2 class=\"bb_tag\">Is Metaverse under active development?</h2>Yes, very much so!  Metaverse is now a full time project, <u><i>not</i></u> an on-the-nights-and-weekends project!<h2 class=\"bb_tag\">I have an idea for Metaverse!</h2>Great!  We want to hear it!  Please head over to the <a href=\"http://steamcommunity.com/app/325430/discussions/\" target=\"_blank\" rel=\"noreferrer\"  >Metaverse discussion forums</a> and let your voice be heard.  Metaverse is a game meant to be directed by its community.  That’s why we’re releasing as Early Access, after all!<h2 class=\"bb_tag\">I found a bug!</h2>Great!  Please do us a favor and send an email to <a href=\"mailto:support@jointhemetaverse.com\">support@jointhemetaverse.com</a>.  That will get your bug into our help desk software and allow you to track its status as we work to fix it.<br><br><br><i>Metaverse exists to be the exemplification of the democratization of knowledge and thereby the dissemination of power, primarily through the novel exploitation of computation through collaboration within simulation.</i>",
+            "about_the_game": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/325430/extras/steamDesc.png?t=1459465109\" ><br>Dig, discover, design, deploy, and defend. Explore your very own planet, and eventually help conquer or help build up the planets of others.<h2 class=\"bb_tag\">What is Metaverse?</h2>Metaverse is a voxel based action/adventure (Sci-Fi!) game about digging, discovering, designing, deploying, and defending.  But we see it as more than a game.  Metaverse is an ever-evolving platform, shaped by the actions of its players.  Right now that involves players giving feedback about the direction of development.  Before long, players will have a much more direct role in how Metaverse shapes up by traveling to the planets of other players and by trading and selling their fabrications.  Fabrications are custom objects that can be created in-game by players, using the materials harvested from their planet.  See below for more details.<h2 class=\"bb_tag\">What can I do in Metaverse right now?</h2><u>Story</u><br>Metaverse has what we believe to be an awesome storyline.  Of course, we <i>would</i> say that!  So we’ll let you be the judge.  Tell us what you think so we can make improvements, create story branches, or even change its entire direction.  We’re excited to build this thing with you!  We’ve built out the first chapter of the story in the form of a tutorial.  If you rush through and don’t stop to smell the roses or explore, there’s about 25-30 minutes of playable story in the game right now.<br><br><u>Sandbox Mode</u><br>After the tutorial, you’re dropped straight into sandbox mode.  In this mode, you can explore your planet.  This is also where you can dig and create (though a major component of creating is also found in Metaverse’s Fabricator).  Because of the technical challenges involved with setting up procedural terrains otherwise, most voxel based games offer only either completely cubed geometry or completely rounded geometry.  Metaverse, being a simulation from the future, has cracked the code, and is able to beautifully combine the two in a way that makes logical sense!  The procedurally generated planet that currently ships with Metaverse is 300 Km in diameter, which is indeed very big.  For now, let’s just call it, “New Texas.”  If you were to run in a straight line without stopping, we estimate it would take you about 28 hours to completely circle the planet. Metaverse does not have biomes right now, but that is a planned feature, and we’ve already done a lot of the development work needed to support that.  You tell us what’s most important to you, and that’s where we’ll focus development!<br><br><u>Fabricator</u><br>In the Fabricator, you can process the raw resources you’ve collected from your planet into refined materials.  Using these refined materials in the Simulation mode of the Fabricator, you can create just about anything you want.  And as long as you’ve got enough refined resources for the elements you’ve used, you can fabricate it into an actual object that can be taken outside to your planet and deployed.  Elements in the fabricator are based on real periodic table elements, and have accurate densities.  So if you make the walls of your base out of titanium, they're going to be significantly stronger than if you had made them with clay.<h2 class=\"bb_tag\">What are the limitations right now?</h2>Metaverse <i>is</i> Early Access, so there will be bugs.  We’re working hard to sort these out, and with your help, will stomp out the ones that are most important to you as quickly as possible.  And if you find something lacking, we want to hear about it!<h2 class=\"bb_tag\">Is Metaverse under active development?</h2>Yes, very much so!  Metaverse is now a full time project, <u><i>not</i></u> an on-the-nights-and-weekends project!<h2 class=\"bb_tag\">I have an idea for Metaverse!</h2>Great!  We want to hear it!  Please head over to the <a href=\"http://steamcommunity.com/app/325430/discussions/\" target=\"_blank\" rel=\"noreferrer\"  >Metaverse discussion forums</a> and let your voice be heard.  Metaverse is a game meant to be directed by its community.  That’s why we’re releasing as Early Access, after all!<h2 class=\"bb_tag\">I found a bug!</h2>Great!  Please do us a favor and send an email to <a href=\"mailto:support@jointhemetaverse.com\">support@jointhemetaverse.com</a>.  That will get your bug into our help desk software and allow you to track its status as we work to fix it.<br><br><br><i>Metaverse exists to be the exemplification of the democratization of knowledge and thereby the dissemination of power, primarily through the novel exploitation of computation through collaboration within simulation.</i>",
+            "short_description": "In Metaverse you will dig, discover, design, deploy, and defend. Explore, build upon, or tear apart your own procedurally generated voxel planet. And now in the early stages of our multiplayer implementation, help conquer or build the planets of others.",
+            "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/325430/header.jpg?t=1459465109",
+            "website": "http://www.jointhemetaverse.com/",
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows Vista (SP2), Windows 7, Windows 8<br></li><li><strong>Processor:</strong> Intel Core 2 Duo, AMD Athlon X2, or equal at 2.0 GHz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> DirectX 9.0c-compatible, SM 3.0-compatible, 256MB VRAM<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 1 GB available space<br></li><li><strong>Sound Card:</strong> DirectX 9.0c-compatible, 16-bit</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 or Windows 8<br></li><li><strong>Processor:</strong> QuadCore 2.0 GHz +<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> DirectX 9.0c-compatible, SM 3.0-compatible, 512MB VRAM+; NVIDIA GeForce 8800 GTS or better<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 8 GB available space<br></li><li><strong>Sound Card:</strong> DirectX 9.0c-compatible, 16-bit</li></ul>"
+            },
+            "mac_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OS X Mavericks<br></li><li><strong>Processor:</strong> 2.0 GHz Intel Core i5 (Dual Core)<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL-compatible, 256MB VRAM<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OS X Mavericks<br></li><li><strong>Processor:</strong> 2.2 GHz Intel Core i7 (Quad Core)<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL-compatible, 512MB VRAM+; NVIDIA GeForce GT 750M or better<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 8 MB available space</li></ul>"
+            },
+            "linux_requirements": [],
+            "legal_notice": "Metaverse game code, audio materials, and visual materials © 2016 Metaware Limited, LLC. All Rights Reserved.",
+            "developers": [
+                "Metaware Limited, LLC"
+            ],
+            "publishers": [
+                "Metaware Limited, LLC"
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 1999,
+                "final": 1999,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "19,99€"
+            },
+            "packages": [
+                60041,
+                60042
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Metaverse",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 60041,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Metaverse - 19,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 1999
+                        },
+                        {
+                            "packageid": 60042,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Metaverse 4-Pack - 54,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 5499
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": true,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 1,
+                    "description": "Multi-player"
+                },
+                {
+                    "id": 27,
+                    "description": "Cross-Platform Multiplayer"
+                },
+                {
+                    "id": 30,
+                    "description": "Steam Workshop"
+                },
+                {
+                    "id": 18,
+                    "description": "Partial Controller Support"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "1",
+                    "description": "Action"
+                },
+                {
+                    "id": "25",
+                    "description": "Adventure"
+                },
+                {
+                    "id": "23",
+                    "description": "Indie"
+                },
+                {
+                    "id": "3",
+                    "description": "RPG"
+                },
+                {
+                    "id": "28",
+                    "description": "Simulation"
+                },
+                {
+                    "id": "70",
+                    "description": "Early Access"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/325430/ss_3aa9fae00925bb89f220ac8ee515f4cf76fef5f6.600x338.jpg?t=1459465109",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/325430/ss_3aa9fae00925bb89f220ac8ee515f4cf76fef5f6.1920x1080.jpg?t=1459465109"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/325430/ss_cb06be199d8577955b43317538a387d1b4f93fed.600x338.jpg?t=1459465109",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/325430/ss_cb06be199d8577955b43317538a387d1b4f93fed.1920x1080.jpg?t=1459465109"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/325430/ss_9948d5cd04d2e98e32c067820f9b7b1c5e693977.600x338.jpg?t=1459465109",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/325430/ss_9948d5cd04d2e98e32c067820f9b7b1c5e693977.1920x1080.jpg?t=1459465109"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/325430/ss_31f085653d1ed02ace1da9857319904723754349.600x338.jpg?t=1459465109",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/325430/ss_31f085653d1ed02ace1da9857319904723754349.1920x1080.jpg?t=1459465109"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/325430/ss_b2b7b964f3f6fa6510ba89b14304db54dd8927c2.600x338.jpg?t=1459465109",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/325430/ss_b2b7b964f3f6fa6510ba89b14304db54dd8927c2.1920x1080.jpg?t=1459465109"
+                },
+                {
+                    "id": 5,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/325430/ss_0f15b96bb9112ec79970d79fa053cd54e5d4b436.600x338.jpg?t=1459465109",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/325430/ss_0f15b96bb9112ec79970d79fa053cd54e5d4b436.1920x1080.jpg?t=1459465109"
+                },
+                {
+                    "id": 6,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/325430/ss_1016e083e97958f1a8ae7d6f3d34408bff78455d.600x338.jpg?t=1459465109",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/325430/ss_1016e083e97958f1a8ae7d6f3d34408bff78455d.1920x1080.jpg?t=1459465109"
+                },
+                {
+                    "id": 7,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/325430/ss_94f506b1150f25372011aeb2f2f8f547be27d283.600x338.jpg?t=1459465109",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/325430/ss_94f506b1150f25372011aeb2f2f8f547be27d283.1920x1080.jpg?t=1459465109"
+                },
+                {
+                    "id": 8,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/325430/ss_f84ea43f1b938bbb38cf82cc653bf8671fc4c4c1.600x338.jpg?t=1459465109",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/325430/ss_f84ea43f1b938bbb38cf82cc653bf8671fc4c4c1.1920x1080.jpg?t=1459465109"
+                },
+                {
+                    "id": 9,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/325430/ss_eff49c3bba1438bfb93d580157f3ef2fd8bfe6c3.600x338.jpg?t=1459465109",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/325430/ss_eff49c3bba1438bfb93d580157f3ef2fd8bfe6c3.1920x1080.jpg?t=1459465109"
+                },
+                {
+                    "id": 10,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/325430/ss_5cbe4d49d7100d00a84fd9699e56fe02d9adf37c.600x338.jpg?t=1459465109",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/325430/ss_5cbe4d49d7100d00a84fd9699e56fe02d9adf37c.1920x1080.jpg?t=1459465109"
+                },
+                {
+                    "id": 11,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/325430/ss_ee02ab0aaf351046bb5390f45e357c348ec98132.600x338.jpg?t=1459465109",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/325430/ss_ee02ab0aaf351046bb5390f45e357c348ec98132.1920x1080.jpg?t=1459465109"
+                },
+                {
+                    "id": 12,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/325430/ss_dadc6c7938a90918c703c6e15b1b725b61457bff.600x338.jpg?t=1459465109",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/325430/ss_dadc6c7938a90918c703c6e15b1b725b61457bff.1920x1080.jpg?t=1459465109"
+                },
+                {
+                    "id": 13,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/325430/ss_9ff3a9ee5ef8635c1ef0cfb6f000f2c8913d9c6f.600x338.jpg?t=1459465109",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/325430/ss_9ff3a9ee5ef8635c1ef0cfb6f000f2c8913d9c6f.1920x1080.jpg?t=1459465109"
+                },
+                {
+                    "id": 14,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/325430/ss_318a8c24940757b1b8cc09ec7bdf0f1d440804e5.600x338.jpg?t=1459465109",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/325430/ss_318a8c24940757b1b8cc09ec7bdf0f1d440804e5.1920x1080.jpg?t=1459465109"
+                },
+                {
+                    "id": 15,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/325430/ss_94a2186e0a012b39bf67f929a0a3ddc41a7882af.600x338.jpg?t=1459465109",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/325430/ss_94a2186e0a012b39bf67f929a0a3ddc41a7882af.1920x1080.jpg?t=1459465109"
+                },
+                {
+                    "id": 16,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/325430/ss_1126393efa531b1c5f5786808869b1b5e6a41150.600x338.jpg?t=1459465109",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/325430/ss_1126393efa531b1c5f5786808869b1b5e6a41150.1920x1080.jpg?t=1459465109"
+                },
+                {
+                    "id": 17,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/325430/ss_3e8dba6a51baf5be3faf417e48a04b1accb0f6dd.600x338.jpg?t=1459465109",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/325430/ss_3e8dba6a51baf5be3faf417e48a04b1accb0f6dd.1920x1080.jpg?t=1459465109"
+                },
+                {
+                    "id": 18,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/325430/ss_d379762574a09c684b73c817b53f9916dfe09e7f.600x338.jpg?t=1459465109",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/325430/ss_d379762574a09c684b73c817b53f9916dfe09e7f.1920x1080.jpg?t=1459465109"
+                },
+                {
+                    "id": 19,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/325430/ss_646def5d483a27348af36623bf999f7964238a91.600x338.jpg?t=1459465109",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/325430/ss_646def5d483a27348af36623bf999f7964238a91.1920x1080.jpg?t=1459465109"
+                },
+                {
+                    "id": 20,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/325430/ss_94a2186e0a012b39bf67f929a0a3ddc41a7882af.600x338.jpg?t=1459465109",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/325430/ss_94a2186e0a012b39bf67f929a0a3ddc41a7882af.1920x1080.jpg?t=1459465109"
+                },
+                {
+                    "id": 21,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/325430/ss_f84ea43f1b938bbb38cf82cc653bf8671fc4c4c1.600x338.jpg?t=1459465109",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/325430/ss_f84ea43f1b938bbb38cf82cc653bf8671fc4c4c1.1920x1080.jpg?t=1459465109"
+                },
+                {
+                    "id": 22,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/325430/ss_1126393efa531b1c5f5786808869b1b5e6a41150.600x338.jpg?t=1459465109",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/325430/ss_1126393efa531b1c5f5786808869b1b5e6a41150.1920x1080.jpg?t=1459465109"
+                },
+                {
+                    "id": 23,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/325430/ss_cb06be199d8577955b43317538a387d1b4f93fed.600x338.jpg?t=1459465109",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/325430/ss_cb06be199d8577955b43317538a387d1b4f93fed.1920x1080.jpg?t=1459465109"
+                },
+                {
+                    "id": 24,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/325430/ss_9948d5cd04d2e98e32c067820f9b7b1c5e693977.600x338.jpg?t=1459465109",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/325430/ss_9948d5cd04d2e98e32c067820f9b7b1c5e693977.1920x1080.jpg?t=1459465109"
+                },
+                {
+                    "id": 25,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/325430/ss_3e8dba6a51baf5be3faf417e48a04b1accb0f6dd.600x338.jpg?t=1459465109",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/325430/ss_3e8dba6a51baf5be3faf417e48a04b1accb0f6dd.1920x1080.jpg?t=1459465109"
+                },
+                {
+                    "id": 26,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/325430/ss_d379762574a09c684b73c817b53f9916dfe09e7f.600x338.jpg?t=1459465109",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/325430/ss_d379762574a09c684b73c817b53f9916dfe09e7f.1920x1080.jpg?t=1459465109"
+                },
+                {
+                    "id": 27,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/325430/ss_646def5d483a27348af36623bf999f7964238a91.600x338.jpg?t=1459465109",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/325430/ss_646def5d483a27348af36623bf999f7964238a91.1920x1080.jpg?t=1459465109"
+                },
+                {
+                    "id": 28,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/325430/ss_31f085653d1ed02ace1da9857319904723754349.600x338.jpg?t=1459465109",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/325430/ss_31f085653d1ed02ace1da9857319904723754349.1920x1080.jpg?t=1459465109"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 2034722,
+                    "name": "Metaverse Trailer",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/2034722/movie.293x165.jpg?t=1449441078",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/2034722/movie480.webm?t=1449441078",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/2034722/movie_max.webm?t=1449441078"
+                    },
+                    "highlight": true
+                }
+            ],
+            "achievements": {
+                "total": 0
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "5 Apr, 2016"
+            },
+            "support_info": {
+                "url": "http://support.jointhemetaverse.com",
+                "email": "support@jointhemetaverse.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/325430/page_bg_generated_v6b.jpg?t=1459465109",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

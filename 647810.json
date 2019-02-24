@@ -1,0 +1,165 @@
+{
+    "647810": {
+        "success": true,
+        "data": {
+            "type": "game",
+            "name": "Verto Studio VR",
+            "steam_appid": 647810,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "<h1>Verto Studio VR Update With Looking Glass Display Support</h1><p><h2 class=\"bb_tag\">Version 2.4.0 is Here!</h2><br>This update's most exciting addition to Verto Studio VR is Looking Glass Display support!  You can now use the HoloPlay mirroring feature to display a real-time hologram of your Verto Studio 3D scenes without the requirement of AR additional glasses or goggles!  To use this feature, simply plug in a HoloPlay compatable display such as the Looking Glass Display, and click the HP button in Desktop Mode to enable the feature!  We are very excited to see what the creative community of Verto Studio users come up with now that they can display their 3D work in a whole new way!  For more information about Looking Glass support, give the updated user guide a read!<br><br>Additionally, the following changes have been made for this release:<br><br><ul class=\"bb_ul\"><li>Added Voice commands to VR mode when running on Windows 10 (off by default, see user guide for details)<br></li><li>Several improvements to Desktop Mode, including the ability to resize/maximize the Desktop Mode window.<br></li><li>Ability to enact &quot;skinny&quot; transform handles / (on by default) in desktop mode or to disable them entirely.  <br></li><li>Use native windows file-open dialogs when selecting import/texture features running outside of VR mode.<br></li><li>Stability improvements and bug fixes</li></ul></p><br><h1>About the Software</h1>VertoStudio VR is a fully-capable 3D modeling studio designed to run entirely in VR!  No mirroring or external software is required of any kind. You can use it to import FBX, OBJ, DAE (and more) directly in front of you, then configure every aspect of the visual display of these scenes directly down to the individual polygons.  It also supports a full-scale desktop 3D modeling mode that can run at the same time as the VR mode!<br><br>Whether you are mocking up a quick VR workflow, or designing production VR environments, this tool eliminates all of the pipeline complexity involved with getting 3D assets and content into VR quickly.  Using Verto Studio, there is no more guesswork in designing for VR.  By including a traditional desktop-based 3D modeling mode, artists can move into VR at their own pace, and leverage the benefits of both modes as they navigate their way into this new technology.<br><br>Verto Studio VR Features <br><ul class=\"bb_ul\"><li> Create 3D scenes from scratch without the need for external computers or software. <br></li><li> Prefabs: Plane, Cube, Sphere, Torus, Cylinder, Sketch (draw in 3D), Terrain height map (image based), Text (supports custom ttf fonts)<br></li><li> Object edit mode: Rotate, Translate, Scale, Select entire objects and manipulate their transforms.<br></li><li> Includes real-world unit system for editing absolute position and scale of objects in meters. <br></li><li> Snap to grid, snap to vertex, snap to edge, snap to face<br></li><li> Low-Poly CSG (Union, Intersect, Subtract, Chisel)<br></li><li> Live polycount reduction (quadratic mesh simplification),<br></li><li> UV texcoord editing<br></li><li> Subdivide<br></li><li> Mesh smooth<br></li><li> Vertex weld<br></li><li> Grabbing objects &amp; polygonal selections via grip buttons.<br></li><li> Teleport and Fly locomotion support<br></li><li> VR Skyboxes environments: Includes Blue sky, gray sky, light grey environments (or can be disabled).<br></li><li> Immersive VR (IVR) scale setting via simple control to easily dial in scale of entire scene.<br></li><li> Left-handed controller mode.<br></li><li> Multiple editable lights<br></li><li> Material editing: Phong, Reflective/refractive environment mapping, Bump mapping, Toon shading<br></li><li> Runs custom GLSL shaders created in other versions of the app<br></li><li> File importing: FBX, DAE, OBJ, and more<br></li><li> File Exporting: OBJ and vsxproj (Verto Studio)<br></li><li> Concurrent editing features (drop into desktop editor while in VR at the same time).<br></li><li> Export Verto Studio scenes to cloud drive. <br></li><li> Full-featured Desktop Mode allowing editing concurrent with VR viewer (two-user mode).<br></li><li> VR Voice Commands on Windows 10 &quot;Edit&quot;, &quot;Select All&quot;, &quot;Delete&quot;, etc.<br></li><li> HoloPlay mirroring support for Looking Glass Displays<br></li><li> Complete file compatibility with the HoloLens, iOS, and Mac versions of Verto Studio 3D<br></li><li> and more!</li></ul>",
+            "about_the_game": "VertoStudio VR is a fully-capable 3D modeling studio designed to run entirely in VR!  No mirroring or external software is required of any kind. You can use it to import FBX, OBJ, DAE (and more) directly in front of you, then configure every aspect of the visual display of these scenes directly down to the individual polygons.  It also supports a full-scale desktop 3D modeling mode that can run at the same time as the VR mode!<br><br>Whether you are mocking up a quick VR workflow, or designing production VR environments, this tool eliminates all of the pipeline complexity involved with getting 3D assets and content into VR quickly.  Using Verto Studio, there is no more guesswork in designing for VR.  By including a traditional desktop-based 3D modeling mode, artists can move into VR at their own pace, and leverage the benefits of both modes as they navigate their way into this new technology.<br><br>Verto Studio VR Features <br><ul class=\"bb_ul\"><li> Create 3D scenes from scratch without the need for external computers or software. <br></li><li> Prefabs: Plane, Cube, Sphere, Torus, Cylinder, Sketch (draw in 3D), Terrain height map (image based), Text (supports custom ttf fonts)<br></li><li> Object edit mode: Rotate, Translate, Scale, Select entire objects and manipulate their transforms.<br></li><li> Includes real-world unit system for editing absolute position and scale of objects in meters. <br></li><li> Snap to grid, snap to vertex, snap to edge, snap to face<br></li><li> Low-Poly CSG (Union, Intersect, Subtract, Chisel)<br></li><li> Live polycount reduction (quadratic mesh simplification),<br></li><li> UV texcoord editing<br></li><li> Subdivide<br></li><li> Mesh smooth<br></li><li> Vertex weld<br></li><li> Grabbing objects &amp; polygonal selections via grip buttons.<br></li><li> Teleport and Fly locomotion support<br></li><li> VR Skyboxes environments: Includes Blue sky, gray sky, light grey environments (or can be disabled).<br></li><li> Immersive VR (IVR) scale setting via simple control to easily dial in scale of entire scene.<br></li><li> Left-handed controller mode.<br></li><li> Multiple editable lights<br></li><li> Material editing: Phong, Reflective/refractive environment mapping, Bump mapping, Toon shading<br></li><li> Runs custom GLSL shaders created in other versions of the app<br></li><li> File importing: FBX, DAE, OBJ, and more<br></li><li> File Exporting: OBJ and vsxproj (Verto Studio)<br></li><li> Concurrent editing features (drop into desktop editor while in VR at the same time).<br></li><li> Export Verto Studio scenes to cloud drive. <br></li><li> Full-featured Desktop Mode allowing editing concurrent with VR viewer (two-user mode).<br></li><li> VR Voice Commands on Windows 10 &quot;Edit&quot;, &quot;Select All&quot;, &quot;Delete&quot;, etc.<br></li><li> HoloPlay mirroring support for Looking Glass Displays<br></li><li> Complete file compatibility with the HoloLens, iOS, and Mac versions of Verto Studio 3D<br></li><li> and more!</li></ul>",
+            "short_description": "VertoStudio VR is a fully-capable 3D modeling studio designed to run entirely in VR! You can use it to import FBX, OBJ, DAE (and more) directly in front of you, then configure every aspect of the visual display of these scenes directly down to the individual polygons.",
+            "supported_languages": "English",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/647810/header.jpg?t=1550110596",
+            "website": "https://vertostudio.com/",
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 7 SP1 x64 or Newer<br></li><li><strong>Processor:</strong> Intel Core i5-4590 equivalent or greater<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> GeForce GTX 970 or AMD Radeon RX 480</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Intel Core i7 4770<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> GTX 980 equivalent</li></ul>"
+            },
+            "mac_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+            },
+            "linux_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+            },
+            "developers": [
+                "Verto Studio LLC"
+            ],
+            "publishers": [
+                "Verto Studio LLC"
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 1679,
+                "final": 1679,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "16,79€"
+            },
+            "packages": [
+                182119
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Verto Studio VR",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 182119,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Verto Studio VR - 16,79€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 1679
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "genres": [
+                {
+                    "id": "51",
+                    "description": "Animation & Modeling"
+                },
+                {
+                    "id": "53",
+                    "description": "Design & Illustration"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/647810/ss_d7d28ac1d8b5930f968598c40e3e280dcf6331aa.600x338.jpg?t=1550110596",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/647810/ss_d7d28ac1d8b5930f968598c40e3e280dcf6331aa.1920x1080.jpg?t=1550110596"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/647810/ss_f8fcfdb601ec455b2f7528224098bcd8c7f93ede.600x338.jpg?t=1550110596",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/647810/ss_f8fcfdb601ec455b2f7528224098bcd8c7f93ede.1920x1080.jpg?t=1550110596"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/647810/ss_c5a979cdfd292c15be6ce8bbe6d5b25630ddc825.600x338.jpg?t=1550110596",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/647810/ss_c5a979cdfd292c15be6ce8bbe6d5b25630ddc825.1920x1080.jpg?t=1550110596"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/647810/ss_dffedd044d8f663429ec45f3493630ff51cf4205.600x338.jpg?t=1550110596",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/647810/ss_dffedd044d8f663429ec45f3493630ff51cf4205.1920x1080.jpg?t=1550110596"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/647810/ss_dbf7629671eb09b020753450a5066b1f57ace141.600x338.jpg?t=1550110596",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/647810/ss_dbf7629671eb09b020753450a5066b1f57ace141.1920x1080.jpg?t=1550110596"
+                },
+                {
+                    "id": 5,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/647810/ss_e032f77b6c333a410cb28c9fc109b7843e9e82b5.600x338.jpg?t=1550110596",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/647810/ss_e032f77b6c333a410cb28c9fc109b7843e9e82b5.1920x1080.jpg?t=1550110596"
+                },
+                {
+                    "id": 6,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/647810/ss_b5744d2db31415bad9eec1d53d5d50e74e4eb522.600x338.jpg?t=1550110596",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/647810/ss_b5744d2db31415bad9eec1d53d5d50e74e4eb522.1920x1080.jpg?t=1550110596"
+                },
+                {
+                    "id": 7,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/647810/ss_84f7bc89c25bd5b834a9b4101741117e79af7149.600x338.jpg?t=1550110596",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/647810/ss_84f7bc89c25bd5b834a9b4101741117e79af7149.1920x1080.jpg?t=1550110596"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 256742996,
+                    "name": "Looking Glass",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256742996/movie.293x165.jpg?t=1550110591",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256742996/movie480.webm?t=1550110591",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256742996/movie_max.webm?t=1550110591"
+                    },
+                    "highlight": true
+                },
+                {
+                    "id": 256690729,
+                    "name": "Trailer",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256690729/movie.293x165.jpg?t=1500584865",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256690729/movie480.webm?t=1500584865",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256690729/movie_max.webm?t=1500584865"
+                    },
+                    "highlight": true
+                }
+            ],
+            "achievements": {
+                "total": 0
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "20 Jul, 2017"
+            },
+            "support_info": {
+                "url": "https://vertostudio.com/",
+                "email": "vertostudio3d@gmail.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/647810/page_bg_generated_v6b.jpg?t=1550110596",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

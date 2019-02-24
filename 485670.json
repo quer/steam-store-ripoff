@@ -1,0 +1,298 @@
+{
+    "485670": {
+        "success": true,
+        "data": {
+            "type": "game",
+            "name": "Mini Golf Arena",
+            "steam_appid": 485670,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/485670/extras/steamPageBanner.png?t=1535123671\" ><br><strong>Mini Golf Arena</strong> is an exciting multiplayer mini golf game for up to 24 players online. <br>Compete with players from all over the world!<h2 class=\"bb_tag\"><strong>Features:</strong></h2><ul class=\"bb_ul\"><li> 7 Golf courses with 18 holes (126 holes total).<br></li><li> Full ball customization (Hats, Trails, Models, Colors).<br></li><li> Support Steam Workshop. <br>Build &amp; play custom maps together with your friends.<br></li><li> Support up to 24 players online.<br></li><li> Chat &amp; voice chat support.<br></li><li> Unique gaming experience.</li></ul>",
+            "about_the_game": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/485670/extras/steamPageBanner.png?t=1535123671\" ><br><strong>Mini Golf Arena</strong> is an exciting multiplayer mini golf game for up to 24 players online. <br>Compete with players from all over the world!<h2 class=\"bb_tag\"><strong>Features:</strong></h2><ul class=\"bb_ul\"><li> 7 Golf courses with 18 holes (126 holes total).<br></li><li> Full ball customization (Hats, Trails, Models, Colors).<br></li><li> Support Steam Workshop. <br>Build &amp; play custom maps together with your friends.<br></li><li> Support up to 24 players online.<br></li><li> Chat &amp; voice chat support.<br></li><li> Unique gaming experience.</li></ul>",
+            "short_description": "Mini Golf Arena is an exciting multiplayer mini golf game for up to 24 players online. Build &amp; play custom maps together with your friends.",
+            "supported_languages": "English<strong>*</strong>, Russian<strong>*</strong><br><strong>*</strong>languages with full audio support",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/485670/header.jpg?t=1535123671",
+            "website": null,
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP<br></li><li><strong>Processor:</strong> Intel Core 2 Duo 2GHz or higher<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce 8800GT<br></li><li><strong>Storage:</strong> 1 GB available space<br></li><li><strong>Sound Card:</strong> DirectX®-compatible</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong> Quad Core Processor<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 560<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
+            },
+            "mac_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OSX 10.8 Mountain Lion<br></li><li><strong>Processor:</strong> 1.8GHz Intel dual-core and above<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD5000 with minimum 512MB VRAM and Pixel Shader 3.0 support<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
+            },
+            "linux_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Processor:</strong> SSE2 instruction set support.<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> shader model 3.0<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
+            },
+            "developers": [
+                "Evoluta Studio"
+            ],
+            "publishers": [
+                "Evoluta Studio"
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 899,
+                "final": 89,
+                "discount_percent": 90,
+                "initial_formatted": "8,99€",
+                "final_formatted": "0,89€"
+            },
+            "packages": [
+                109235,
+                341352
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Mini Golf Arena",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 109235,
+                            "percent_savings_text": "-90%",
+                            "percent_savings": 0,
+                            "option_text": "Mini Golf Arena - <span class=\"discount_original_price\">8,99€</span> 0,89€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 89
+                        },
+                        {
+                            "packageid": 341352,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Mini Golf Arena - Commercial License - 8,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 899
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": true,
+                "linux": true
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 1,
+                    "description": "Multi-player"
+                },
+                {
+                    "id": 36,
+                    "description": "Online Multi-Player"
+                },
+                {
+                    "id": 27,
+                    "description": "Cross-Platform Multiplayer"
+                },
+                {
+                    "id": 22,
+                    "description": "Steam Achievements"
+                },
+                {
+                    "id": 29,
+                    "description": "Steam Trading Cards"
+                },
+                {
+                    "id": 30,
+                    "description": "Steam Workshop"
+                },
+                {
+                    "id": 23,
+                    "description": "Steam Cloud"
+                },
+                {
+                    "id": 15,
+                    "description": "Stats"
+                },
+                {
+                    "id": 25,
+                    "description": "Steam Leaderboards"
+                },
+                {
+                    "id": 17,
+                    "description": "Includes level editor"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "4",
+                    "description": "Casual"
+                },
+                {
+                    "id": "23",
+                    "description": "Indie"
+                },
+                {
+                    "id": "29",
+                    "description": "Massively Multiplayer"
+                },
+                {
+                    "id": "28",
+                    "description": "Simulation"
+                },
+                {
+                    "id": "18",
+                    "description": "Sports"
+                },
+                {
+                    "id": "70",
+                    "description": "Early Access"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/485670/ss_4f621b806d06250fd3b7354311b837eb8c18f9ae.600x338.jpg?t=1535123671",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/485670/ss_4f621b806d06250fd3b7354311b837eb8c18f9ae.1920x1080.jpg?t=1535123671"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/485670/ss_a55909524cbb6701d199e619039d9b2663cf8468.600x338.jpg?t=1535123671",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/485670/ss_a55909524cbb6701d199e619039d9b2663cf8468.1920x1080.jpg?t=1535123671"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/485670/ss_23b1b384e0f8ae238a63ed3a0dd0eb2695498a0a.600x338.jpg?t=1535123671",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/485670/ss_23b1b384e0f8ae238a63ed3a0dd0eb2695498a0a.1920x1080.jpg?t=1535123671"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/485670/ss_1eb66cab017cf1b3ad26d7e11c2da66ccb8d2d2a.600x338.jpg?t=1535123671",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/485670/ss_1eb66cab017cf1b3ad26d7e11c2da66ccb8d2d2a.1920x1080.jpg?t=1535123671"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/485670/ss_afa95a638f70de696867460a715c62673ea358f2.600x338.jpg?t=1535123671",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/485670/ss_afa95a638f70de696867460a715c62673ea358f2.1920x1080.jpg?t=1535123671"
+                },
+                {
+                    "id": 5,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/485670/ss_dc8d7ca00aba307790bc065d463bbb200e16959d.600x338.jpg?t=1535123671",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/485670/ss_dc8d7ca00aba307790bc065d463bbb200e16959d.1920x1080.jpg?t=1535123671"
+                },
+                {
+                    "id": 6,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/485670/ss_ed68a4c49b5d4528d8da1c356ea56bc8da10764b.600x338.jpg?t=1535123671",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/485670/ss_ed68a4c49b5d4528d8da1c356ea56bc8da10764b.1920x1080.jpg?t=1535123671"
+                },
+                {
+                    "id": 7,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/485670/ss_c678a15f26c45202d3a07626c3393e6d0d1d8bb2.600x338.jpg?t=1535123671",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/485670/ss_c678a15f26c45202d3a07626c3393e6d0d1d8bb2.1920x1080.jpg?t=1535123671"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 256716554,
+                    "name": "Teaser Trailer ENG",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256716554/movie.293x165.jpg?t=1526040984",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256716554/movie480.webm?t=1526040984",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256716554/movie_max.webm?t=1526040984"
+                    },
+                    "highlight": true
+                },
+                {
+                    "id": 256717721,
+                    "name": "Community Update 2",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256717721/movie.293x165.jpg?t=1527113390",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256717721/movie480.webm?t=1527113390",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256717721/movie_max.webm?t=1527113390"
+                    },
+                    "highlight": true
+                },
+                {
+                    "id": 256716399,
+                    "name": "Community Update 1",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256716399/movie.293x165.jpg?t=1527154019",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256716399/movie480.webm?t=1527154019",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256716399/movie_max.webm?t=1527154019"
+                    },
+                    "highlight": true
+                },
+                {
+                    "id": 256714342,
+                    "name": "Trailer ENG",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256714342/movie.293x165.jpg?t=1526040992",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256714342/movie480.webm?t=1526040992",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256714342/movie_max.webm?t=1526040992"
+                    },
+                    "highlight": false
+                }
+            ],
+            "achievements": {
+                "total": 12,
+                "highlighted": [
+                    {
+                        "name": "MASTER",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/485670/60af93656c4a126f270dcf42507f301ac8b9d552.jpg"
+                    },
+                    {
+                        "name": "OUT OF BOUNDS!",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/485670/cbadb4eee6a1515da62b0b10e0a8eb49374fb441.jpg"
+                    },
+                    {
+                        "name": "HOLE IN ONE!",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/485670/939172a68a4002f5726c735aad188ac2246b889e.jpg"
+                    },
+                    {
+                        "name": "FULL FORCE!",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/485670/01b1171a4c0d42919ccaebfaaea230beeccc9086.jpg"
+                    },
+                    {
+                        "name": "Albatross",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/485670/eeb8ced481ba30b844f6c0280b502da8f7ac3b7b.jpg"
+                    },
+                    {
+                        "name": "Eagle!",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/485670/1c5de268efaf143a9fad62dca5d6cae30ff6e851.jpg"
+                    },
+                    {
+                        "name": "BIRDIE!",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/485670/36c71e711d2180ca62b1f9ad4b4717898d9f6576.jpg"
+                    },
+                    {
+                        "name": "PAR",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/485670/3da1647ba7db38c68373247aa4412f24ca0f3292.jpg"
+                    },
+                    {
+                        "name": "BOGEY",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/485670/3a77e8f2993165dba520a25a5520990e618a0961.jpg"
+                    },
+                    {
+                        "name": "DOUBLE BOGEY!",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/485670/df2a0f28dd2f1960c20fe7eabcac92e1010e730c.jpg"
+                    }
+                ]
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "21 Apr, 2018"
+            },
+            "support_info": {
+                "url": "",
+                "email": "support@evolutastudio.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/485670/page_bg_generated_v6b.jpg?t=1535123671",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

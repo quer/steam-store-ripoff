@@ -1,0 +1,178 @@
+{
+    "258512": {
+        "success": true,
+        "data": {
+            "type": "dlc",
+            "name": "Ohm Cloud",
+            "steam_appid": 258512,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "Get up to 200 Projects in your Ohm Studio account!",
+            "about_the_game": "Get up to 200 Projects in your Ohm Studio account!",
+            "short_description": "Get up to 200 Projects in your Ohm Studio account!",
+            "fullgame": {
+                "appid": "241660",
+                "name": "Ohm Studio"
+            },
+            "supported_languages": "English",
+            "reviews": "“Ohm Studio now frees us from the previous limitations that we may not have even been aware of. The future is here.”<br>9/10 – <a href=\"https://steamcommunity.com/linkfilter/?url=http://www.musictech.net/2013/09/ohm-studio-review/\" target=\"_blank\" rel=\"noopener\"  >MusicTech</a><br>",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/258512/header.jpg?t=1447359038",
+            "website": "http://www.ohmstudio.com",
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP Service Pack 2<br></li><li><strong>Processor:</strong> Pentium 4 or Athlon 64<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> 9 years old graphic card<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 1 GB available space<br></li><li><strong>Sound Card:</strong> DirectX/MME compatible sound card<br></li><li><strong>Additional Notes:</strong> (disk space depends on how many projects you make)</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong> Pentium 4 or Athlon 64<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> 3 years old graphic card or better<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 50 GB available space<br></li><li><strong>Sound Card:</strong> ASIO compatible sound card<br></li><li><strong>Additional Notes:</strong> (disk space depends on how many projects you make)</li></ul>"
+            },
+            "mac_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> MacOS 10.5.8<br></li><li><strong>Processor:</strong> Intel Processor<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Integrated Intel graphics<br></li><li><strong>Storage:</strong> 1 GB available space<br></li><li><strong>Sound Card:</strong> Integrated sound card<br></li><li><strong>Additional Notes:</strong> (disk space depends on how many projects you make)</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> MacOS 10.5.8 or later<br></li><li><strong>Processor:</strong> Intel Processor<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Original graphic card or better<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 50 GB available space<br></li><li><strong>Sound Card:</strong> CoreAudio compatible sound card<br></li><li><strong>Additional Notes:</strong> (disk space depends on how many projects you make)</li></ul>"
+            },
+            "linux_requirements": [],
+            "legal_notice": "Copyright © 2013 Ohm Force — In order to use Ohm Studio, Users must indicate that they have read and agreed to the <a href=\"https://steamcommunity.com/linkfilter/?url=http://www.ohmstudio.com/doc/terms\" target=\"_blank\" rel=\"noopener\"  >Terms of Use</a>.",
+            "developers": [
+                "GRAOUMF"
+            ],
+            "publishers": [
+                "Ohm Force"
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 899,
+                "final": 899,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "8,99€",
+                "recurring_sub": 35085,
+                "recurring_sub_desc": "8,99€ at checkout, auto-renewed every 1 month(s) at 8,99€."
+            },
+            "packages": [
+                35083,
+                35353,
+                35355,
+                35083,
+                35353,
+                35355
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Ohm Cloud",
+                    "description": "Get up to 200 Projects in your Ohm Studio account!  To be billed on a recurring basis.",
+                    "selection_text": "Select a subscription plan",
+                    "save_text": "Save up to 21%",
+                    "display_type": "1",
+                    "is_recurring_subscription": "true",
+                    "subs": [
+                        {
+                            "packageid": 35083,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "1 Month(s) @ 8,99€/Month",
+                            "option_description": "<p class=\"game_purchase_subscription\">8,99€ at checkout, auto-renewed every 1 month(s) at 8,99€.</p>",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 899
+                        },
+                        {
+                            "packageid": 35353,
+                            "percent_savings_text": "-11%",
+                            "percent_savings": 11,
+                            "option_text": "3 Month(s) @ 7,99€/Month",
+                            "option_description": "<p class=\"game_purchase_subscription\">23,99€ at checkout, auto-renewed every 3 month(s) at 23,99€.</p>",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 2399
+                        },
+                        {
+                            "packageid": 35355,
+                            "percent_savings_text": "-21%",
+                            "percent_savings": 21,
+                            "option_text": "12 Month(s) @ 7,08€/Month",
+                            "option_description": "<p class=\"game_purchase_subscription\">84,99€ at checkout, auto-renewed every 12 month(s) at 84,99€.</p>",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 8499
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": true,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 1,
+                    "description": "Multi-player"
+                },
+                {
+                    "id": 9,
+                    "description": "Co-op"
+                },
+                {
+                    "id": 27,
+                    "description": "Cross-Platform Multiplayer"
+                },
+                {
+                    "id": 21,
+                    "description": "Downloadable Content"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "52",
+                    "description": "Audio Production"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/258512/ss_e22fa2bd907e49bde92b903e7181a84810e14cbc.600x338.jpg?t=1447359038",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/258512/ss_e22fa2bd907e49bde92b903e7181a84810e14cbc.1920x1080.jpg?t=1447359038"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/258512/ss_d987fc0e0236d17d38950978822d4066b27159a8.600x338.jpg?t=1447359038",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/258512/ss_d987fc0e0236d17d38950978822d4066b27159a8.1920x1080.jpg?t=1447359038"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/258512/ss_e22fa2bd907e49bde92b903e7181a84810e14cbc.600x338.jpg?t=1447359038",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/258512/ss_e22fa2bd907e49bde92b903e7181a84810e14cbc.1920x1080.jpg?t=1447359038"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/258512/ss_d34cb1ac3d933a5cdd39d6c951a9d1959cf45521.600x338.jpg?t=1447359038",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/258512/ss_d34cb1ac3d933a5cdd39d6c951a9d1959cf45521.1920x1080.jpg?t=1447359038"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/258512/ss_273febe9591a28d5ff7bbf8149bc10c29194c67b.600x338.jpg?t=1447359038",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/258512/ss_273febe9591a28d5ff7bbf8149bc10c29194c67b.1920x1080.jpg?t=1447359038"
+                },
+                {
+                    "id": 5,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/258512/ss_4a670cccecc94aade445861f384301698167bc15.600x338.jpg?t=1447359038",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/258512/ss_4a670cccecc94aade445861f384301698167bc15.1920x1080.jpg?t=1447359038"
+                }
+            ],
+            "release_date": {
+                "coming_soon": false,
+                "date": "9 Dec, 2013"
+            },
+            "support_info": {
+                "url": "http://forum.ohmstudio.com/",
+                "email": "support@ohmstudio.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/258512/page_bg_generated_v6b.jpg?t=1447359038",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

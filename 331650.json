@@ -1,0 +1,182 @@
+{
+    "331650": {
+        "success": true,
+        "data": {
+            "type": "game",
+            "name": "Carmageddon TDR 2000",
+            "steam_appid": 331650,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/331650/extras/TDR_Overview.png?t=1549522955\" ><br>Yes, it's the game literally... <strong>SOME </strong>of you asked for! And so, in the spirit of &quot;well, alright then, if you <i>insist...</i>&quot; we present the third game in the Carmageddon series, in the knowledge that some of you Carma fans out there would like to have a complete Carmageddon collection in your Steam library. Nothing wrong with that.<br><br>Anyway, here's what the blurb on the back of the DVD case had to say about <strong>Carmageddon: TDR 2000:</strong><br><br>The world's most controversial racing game returns with incredible graphics, fantastic game play and even more outrageous fun!<br><br>Max Damage, imprisoned for life, plots his escape. However, there's the small matter of an army of police, hordes of gangsters and thousands of enraged inhabitants - all with homicide on their minds. To succeed, it will take a four wheeling genius with no morals, a killer instinct and a burning passion to escape. <br><br>No such person existed... until now!<br><br><ul class=\"bb_ul\"><li>Drive 50 totally destructible vehicles.<br></li><li>Over 48 missions and races to complete.<br></li><li>9 completely 3D single player environments to explore and destroy.<br></li><li>7 multi-player game types in 9 custom maps.</li></ul><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/331650/extras/FAQ.png?t=1549522955\" ><h2 class=\"bb_tag\">Known Issue</h2>Symptoms: When you start a mission, the game crashes to the desktop with an error about Directx, address 0x80070057.<br>Solutions: There's an easy fix, disable the MIP Filter. You can do this by running TDR 2000 Setup and opening the &quot;Advanced Settings&quot; dialog, and setting MIP Filter to &quot;none&quot;. Another solution is to disable the Fog.<h2 class=\"bb_tag\">Command Line Interface</h2>Command line options for the game are:<br><br><strong>-profile</strong>(w) Reprofile system<br><strong>-setup</strong>(s) Access setup dialog<br><strong>-fulltextures</strong>(f) Use fullsize textures<br><strong>-join</strong>(j) &quot;IP address&quot; Join TCP/IP game at specified IP address<br><strong>-create</strong>(cr) Create a TCP/IP server<br><strong>-clientserver</strong>(cs) Specifies client/server mode<br><strong>-dedicated</strong>(d) Specifies dedicated server mode<br><strong>-console</strong>(co) Specifies console output mode<br><strong>-gamescript</strong>(g) &quot;FileName.txt&quot; Specifies gamescript to use<br><strong>-maxDataRate</strong>(mdr) [value] Specifies data rate settings<br><strong>-dataRateFalloff</strong>(drfp) [value]<br><strong>-debugFile</strong>(df) &quot;FileName.txt&quot; Specifies alternate name for dbg.txt<br><strong>-optionsFile</strong>(of) &quot;FileName.txt&quot; Specifies alternate name for options.txt file<br><strong>-serverName</strong>(sn) &quot;ServerName&quot; Specifies server name[/b]<h2 class=\"bb_tag\">Multiplayer</h2>How do I set up dedicated server games?<br>To set up a dedicated server, create a shortcut to Carmageddon: TDR2000, and add <strong>-cr -d -co -cs</strong> to your command line. This will use the options you have already in your Multiplayer settings.",
+            "about_the_game": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/331650/extras/TDR_Overview.png?t=1549522955\" ><br>Yes, it's the game literally... <strong>SOME </strong>of you asked for! And so, in the spirit of &quot;well, alright then, if you <i>insist...</i>&quot; we present the third game in the Carmageddon series, in the knowledge that some of you Carma fans out there would like to have a complete Carmageddon collection in your Steam library. Nothing wrong with that.<br><br>Anyway, here's what the blurb on the back of the DVD case had to say about <strong>Carmageddon: TDR 2000:</strong><br><br>The world's most controversial racing game returns with incredible graphics, fantastic game play and even more outrageous fun!<br><br>Max Damage, imprisoned for life, plots his escape. However, there's the small matter of an army of police, hordes of gangsters and thousands of enraged inhabitants - all with homicide on their minds. To succeed, it will take a four wheeling genius with no morals, a killer instinct and a burning passion to escape. <br><br>No such person existed... until now!<br><br><ul class=\"bb_ul\"><li>Drive 50 totally destructible vehicles.<br></li><li>Over 48 missions and races to complete.<br></li><li>9 completely 3D single player environments to explore and destroy.<br></li><li>7 multi-player game types in 9 custom maps.</li></ul><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/331650/extras/FAQ.png?t=1549522955\" ><h2 class=\"bb_tag\">Known Issue</h2>Symptoms: When you start a mission, the game crashes to the desktop with an error about Directx, address 0x80070057.<br>Solutions: There's an easy fix, disable the MIP Filter. You can do this by running TDR 2000 Setup and opening the &quot;Advanced Settings&quot; dialog, and setting MIP Filter to &quot;none&quot;. Another solution is to disable the Fog.<h2 class=\"bb_tag\">Command Line Interface</h2>Command line options for the game are:<br><br><strong>-profile</strong>(w) Reprofile system<br><strong>-setup</strong>(s) Access setup dialog<br><strong>-fulltextures</strong>(f) Use fullsize textures<br><strong>-join</strong>(j) &quot;IP address&quot; Join TCP/IP game at specified IP address<br><strong>-create</strong>(cr) Create a TCP/IP server<br><strong>-clientserver</strong>(cs) Specifies client/server mode<br><strong>-dedicated</strong>(d) Specifies dedicated server mode<br><strong>-console</strong>(co) Specifies console output mode<br><strong>-gamescript</strong>(g) &quot;FileName.txt&quot; Specifies gamescript to use<br><strong>-maxDataRate</strong>(mdr) [value] Specifies data rate settings<br><strong>-dataRateFalloff</strong>(drfp) [value]<br><strong>-debugFile</strong>(df) &quot;FileName.txt&quot; Specifies alternate name for dbg.txt<br><strong>-optionsFile</strong>(of) &quot;FileName.txt&quot; Specifies alternate name for options.txt file<br><strong>-serverName</strong>(sn) &quot;ServerName&quot; Specifies server name[/b]<h2 class=\"bb_tag\">Multiplayer</h2>How do I set up dedicated server games?<br>To set up a dedicated server, create a shortcut to Carmageddon: TDR2000, and add <strong>-cr -d -co -cs</strong> to your command line. This will use the options you have already in your Multiplayer settings.",
+            "short_description": "Yes, it's the game literally... SOME of you asked for! And so, in the spirit of &quot;well, alright then, if you insist...&quot; we present the third game in the Carmageddon series, in the knowledge that some of you Carma fans out there would like to have a complete Carmageddon collection in your Steam library. Nothing wrong with that.",
+            "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/331650/header.jpg?t=1549522955",
+            "website": "http://www.carmageddon.com",
+            "pc_requirements": {
+                "minimum": "<strong>Minimale :</strong><br><ul class=\"bb_ul\"><li><strong>Système d'exploitation :</strong> Windows XP/Vista/7/8<br></li><li><strong>Processeur :</strong> 1.8 GHz Processor<br></li><li><strong>Graphiques :</strong> 3D graphics card compatible with DirectX 7<br></li><li><strong>Espace disque :</strong> 1 GB d'espace disque disponible<br></li><li><strong>Carte son :</strong> directx compatible</li></ul>",
+                "recommended": "<strong>Recommandée :</strong><br><ul class=\"bb_ul\"><li><strong>Système d'exploitation :</strong> Windows XP/Vista/7/8<br></li><li><strong>Processeur :</strong> 1.8 GHz Processor<br></li><li><strong>Mémoire vive :</strong> 1 GB de mémoire<br></li><li><strong>Graphiques :</strong> 3D graphics card compatible with DirectX 9<br></li><li><strong>Espace disque :</strong> 1 GB d'espace disque disponible<br></li><li><strong>Carte son :</strong> directx compatible</li></ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "legal_notice": "<strong>LEGAL:</strong> © Stainless Games Ltd. All rights reserved.",
+            "developers": [
+                "Torus Games"
+            ],
+            "publishers": [
+                "THQ Nordic"
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 399,
+                "final": 399,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "3,99€"
+            },
+            "packages": [
+                53980
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Carmageddon TDR 2000",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 53980,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Carmageddon TDR 2000 - 3,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 399
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 1,
+                    "description": "Multi-player"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "1",
+                    "description": "Action"
+                },
+                {
+                    "id": "23",
+                    "description": "Indie"
+                },
+                {
+                    "id": "9",
+                    "description": "Racing"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/331650/ss_8af926b2fff5646211f23eb2b3a328ab2344265a.600x338.jpg?t=1549522955",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/331650/ss_8af926b2fff5646211f23eb2b3a328ab2344265a.1920x1080.jpg?t=1549522955"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/331650/ss_537fc1abddc8da06f9e3e9d5c46c5d17845252c1.600x338.jpg?t=1549522955",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/331650/ss_537fc1abddc8da06f9e3e9d5c46c5d17845252c1.1920x1080.jpg?t=1549522955"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/331650/ss_5477457ca600f78da69df01aa72b9d05bf79bb88.600x338.jpg?t=1549522955",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/331650/ss_5477457ca600f78da69df01aa72b9d05bf79bb88.1920x1080.jpg?t=1549522955"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/331650/ss_f3b390f709ce10f373b50271235acfa694d8c655.600x338.jpg?t=1549522955",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/331650/ss_f3b390f709ce10f373b50271235acfa694d8c655.1920x1080.jpg?t=1549522955"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/331650/ss_892fa64c1b00ea83a387aea41cffd334a3d45313.600x338.jpg?t=1549522955",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/331650/ss_892fa64c1b00ea83a387aea41cffd334a3d45313.1920x1080.jpg?t=1549522955"
+                },
+                {
+                    "id": 5,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/331650/ss_f1a21dab70ac2008045245230f67f05041194577.600x338.jpg?t=1549522955",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/331650/ss_f1a21dab70ac2008045245230f67f05041194577.1920x1080.jpg?t=1549522955"
+                },
+                {
+                    "id": 6,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/331650/ss_78e2c7975f9ec79a0d0f6f432cfcdc7d013bceea.600x338.jpg?t=1549522955",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/331650/ss_78e2c7975f9ec79a0d0f6f432cfcdc7d013bceea.1920x1080.jpg?t=1549522955"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 2035571,
+                    "name": "TDR2000 Title",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/2035571/movie.293x165.jpg?t=1447365111",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/2035571/movie480.webm?t=1447365111",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/2035571/movie_max.webm?t=1447365111"
+                    },
+                    "highlight": true
+                },
+                {
+                    "id": 2035572,
+                    "name": "TDR2000 Narrative",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/2035572/movie.293x165.jpg?t=1447365111",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/2035572/movie480.webm?t=1447365111",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/2035572/movie_max.webm?t=1447365111"
+                    },
+                    "highlight": true
+                },
+                {
+                    "id": 2035573,
+                    "name": "TDR2000 Intro",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/2035573/movie.293x165.jpg?t=1447365111",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/2035573/movie480.webm?t=1447365111",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/2035573/movie_max.webm?t=1447365111"
+                    },
+                    "highlight": true
+                }
+            ],
+            "recommendations": {
+                "total": 125
+            },
+            "achievements": {
+                "total": 0
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "4 Dec, 2014"
+            },
+            "support_info": {
+                "url": "",
+                "email": "support@quanticlab.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/331650/page_bg_generated_v6b.jpg?t=1549522955",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

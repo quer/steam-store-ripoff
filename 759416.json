@@ -1,0 +1,90 @@
+{
+    "759416": {
+        "success": true,
+        "data": {
+            "type": "episode",
+            "name": "Sea Smackdown: Großer Kurfürst",
+            "steam_appid": 759416,
+            "required_age": 0,
+            "is_free": true,
+            "controller_support": "full",
+            "detailed_description": "",
+            "about_the_game": "",
+            "short_description": "Witness a battleship brawl as Großer Kurfürst charges in and lives to tell the tale!",
+            "fullgame": {
+                "appid": "758350",
+                "name": "Sea Smackdown"
+            },
+            "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/759416/header.jpg?t=1512152639",
+            "website": null,
+            "pc_requirements": [],
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "publishers": [
+                ""
+            ],
+            "packages": [
+                223757
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Sea Smackdown: Großer Kurfürst",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 223757,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Sea Smackdown - Free",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": true,
+                            "price_in_cents_with_discount": 0
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 28,
+                    "description": "Full controller support"
+                },
+                {
+                    "id": 33,
+                    "description": "Native Steam Controller Support"
+                },
+                {
+                    "id": 14,
+                    "description": "Commentary available"
+                }
+            ],
+            "achievements": {
+                "total": 0
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "1 Dec, 2017"
+            },
+            "support_info": {
+                "url": "",
+                "email": ""
+            },
+            "background": "",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

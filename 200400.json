@@ -1,0 +1,88 @@
+{
+    "200400": {
+        "success": true,
+        "data": {
+            "type": "demo",
+            "name": "Wasteland Angel Demo",
+            "steam_appid": 200400,
+            "required_age": 0,
+            "is_free": true,
+            "detailed_description": "",
+            "about_the_game": "",
+            "short_description": "",
+            "fullgame": {
+                "appid": "46520",
+                "name": "Wasteland Angel"
+            },
+            "supported_languages": "English, French, German, Russian",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/200400/header.jpg?t=1447354678",
+            "website": "http://www.wastelandangel.com",
+            "pc_requirements": {
+                "minimum": "<ul>\n\t\t\t\t\t\t\t\t <li><strong>Operating system:</strong>Windows&reg; XP/Vista/7\n\t\t\t\t\t\t\t\t <li><strong>Processor:</strong> Intel&reg; 2.0GHz CPU \n\t\t\t\t\t\t\t\t <li><strong>Memory:</strong> 2GB\n\t\t\t\t\t\t\t\t <li><strong>Hard disk space:</strong> 4GB\n\t\t\t\t\t\t\t\t <li><strong>Video:</strong> 256 MB of dedicated video memory with support for pixel shader 3.0. (nVidia 8600 or equivalent) \n\t\t\t\t\t\t\t\t <li><strong>Sound:</strong> Sound card with DirectX 9.0c support\n\t\t\t\t\t\t\t\t <li><strong>DirectX&reg;:</strong> 9.0c\n\t\t\t\t\t\t\t\t </ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "developers": [
+                "Octane Games",
+                "Meridian4"
+            ],
+            "publishers": [
+                "Meridian4"
+            ],
+            "package_groups": [],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 10,
+                    "description": "Game demo"
+                },
+                {
+                    "id": 22,
+                    "description": "Steam Achievements"
+                },
+                {
+                    "id": 18,
+                    "description": "Partial Controller Support"
+                },
+                {
+                    "id": 25,
+                    "description": "Steam Leaderboards"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "1",
+                    "description": "Action"
+                },
+                {
+                    "id": "23",
+                    "description": "Indie"
+                }
+            ],
+            "achievements": {
+                "total": 0
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "Sep 9, 2011"
+            },
+            "support_info": {
+                "url": "",
+                "email": ""
+            },
+            "background": "",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

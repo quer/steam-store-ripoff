@@ -1,0 +1,68 @@
+{
+    "931": {
+        "success": true,
+        "data": {
+            "type": "movie",
+            "name": "Team Fortress 2 Trailer 2",
+            "steam_appid": 931,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "",
+            "about_the_game": "",
+            "short_description": "",
+            "fullgame": {
+                "appid": "440",
+                "name": "Team Fortress 2"
+            },
+            "supported_languages": "English",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/440/header.jpg?t=1539304875",
+            "website": "http://ep2.half-life2.com",
+            "pc_requirements": [],
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "developers": [
+                "Valve"
+            ],
+            "publishers": [
+                "Valve"
+            ],
+            "package_groups": [],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "genres": [
+                {
+                    "id": "1",
+                    "description": "Action"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 931,
+                    "name": "Team Fortress 2 Trailer 2",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/931/movie.jpg?t=1519429823",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/931/movie480.webm?t=1519429823",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/931/movie_max.webm?t=1519429823"
+                    },
+                    "highlight": false
+                }
+            ],
+            "release_date": {
+                "coming_soon": false,
+                "date": "31 Aug, 2006"
+            },
+            "support_info": {
+                "url": "",
+                "email": ""
+            },
+            "background": "",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

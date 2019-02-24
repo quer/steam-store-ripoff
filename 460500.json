@@ -1,0 +1,108 @@
+{
+    "460500": {
+        "success": true,
+        "data": {
+            "type": "demo",
+            "name": "HordeZ Demo",
+            "steam_appid": 460500,
+            "required_age": 0,
+            "is_free": true,
+            "detailed_description": "A demo version of HordeZ showing off one level of the game. Supports multiplayer with the full version but only on Level 1. Difficulty is limited to 3 (out of 6) and only one map is available (out of 11). <br />\r\n<br />\r\nDefault mode is Arcade mode. Make sure you have the right controller in the right hand (health indicator).",
+            "about_the_game": "A demo version of HordeZ showing off one level of the game. Supports multiplayer with the full version but only on Level 1. Difficulty is limited to 3 (out of 6) and only one map is available (out of 11). <br />\r\n<br />\r\nDefault mode is Arcade mode. Make sure you have the right controller in the right hand (health indicator).",
+            "short_description": "A demo version of HordeZ showing off one level of the game. Supports multiplayer with the full version but only on Level 1. Difficulty is limited to 3 (out of 6) and only one map is available (out of 11).",
+            "fullgame": {
+                "appid": "412050",
+                "name": "HordeZ"
+            },
+            "supported_languages": "English, Simplified Chinese",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/460500/header.jpg?t=1479991467",
+            "website": "http://www.zenzvr.com",
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 7, 8, 8.1, 10<br></li><li><strong>Processor:</strong> Intel Core i5 4590 or AMD FX 8350 or greater<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> GeForce GTX 970 or AMD Radeon R9 290 or better<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 8, 8.1, 10<br></li><li><strong>Processor:</strong> Intel Core i5 4590 or AMD FX 8350 or greater<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> GeForce GTX 970 or AMD Radeon R9 290 or better</li></ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "developers": [
+                "ZenzVR"
+            ],
+            "publishers": [
+                "ZenzVR"
+            ],
+            "package_groups": [],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 1,
+                    "description": "Multi-player"
+                },
+                {
+                    "id": 36,
+                    "description": "Online Multi-Player"
+                },
+                {
+                    "id": 9,
+                    "description": "Co-op"
+                },
+                {
+                    "id": 38,
+                    "description": "Online Co-op"
+                },
+                {
+                    "id": 10,
+                    "description": "Game demo"
+                },
+                {
+                    "id": 25,
+                    "description": "Steam Leaderboards"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "73",
+                    "description": "Violent"
+                },
+                {
+                    "id": "74",
+                    "description": "Gore"
+                },
+                {
+                    "id": "1",
+                    "description": "Action"
+                },
+                {
+                    "id": "25",
+                    "description": "Adventure"
+                },
+                {
+                    "id": "23",
+                    "description": "Indie"
+                }
+            ],
+            "achievements": {
+                "total": 0
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "23 Nov, 2016"
+            },
+            "support_info": {
+                "url": "http://www.zenzvr.com",
+                "email": "info@zenzvr.com"
+            },
+            "background": "",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

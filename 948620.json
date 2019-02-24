@@ -1,0 +1,104 @@
+{
+    "948620": {
+        "success": true,
+        "data": {
+            "type": "dlc",
+            "name": "Quixer - Donation #1",
+            "steam_appid": 948620,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "Consider donating to support my work! <br />\r\n<br />\r\nNote that this doesn't add any feature.",
+            "about_the_game": "Consider donating to support my work! <br />\r\n<br />\r\nNote that this doesn't add any feature.",
+            "short_description": "Consider donating to support my work! Note that this doesn't add any feature.",
+            "fullgame": {
+                "appid": "941490",
+                "name": "Quixer"
+            },
+            "supported_languages": "English",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/948620/header.jpg?t=1541192355",
+            "website": null,
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Additional Notes:</strong> It's just a donation!</li></ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "developers": [
+                "Senerio"
+            ],
+            "publishers": [
+                ""
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 399,
+                "final": 399,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "3,99€"
+            },
+            "packages": [
+                308663
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Quixer - Donation #1",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 308663,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Quixer - Donation #1 - 3,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 399
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 21,
+                    "description": "Downloadable Content"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "57",
+                    "description": "Utilities"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/948620/ss_b384b47ec0cb7448762dbf15be6d781cd9af4faf.600x338.jpg?t=1541192355",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/948620/ss_b384b47ec0cb7448762dbf15be6d781cd9af4faf.1920x1080.jpg?t=1541192355"
+                }
+            ],
+            "release_date": {
+                "coming_soon": false,
+                "date": "2 Nov, 2018"
+            },
+            "support_info": {
+                "url": "",
+                "email": "senerio_dev@hotmail.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/948620/page_bg_generated_v6b.jpg?t=1541192355",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

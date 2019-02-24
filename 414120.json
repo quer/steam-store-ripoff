@@ -1,0 +1,255 @@
+{
+    "414120": {
+        "success": true,
+        "data": {
+            "type": "game",
+            "name": "Modbox",
+            "steam_appid": 414120,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "<strong>Modbox</strong> is a VR sandbox where you can use mods to create game experiences and share them online. <br><br>Go online to play multiplayer creations together in a variety of game modes - or create your own game worlds by piecing parts together.<br><br><ul class=\"bb_ul\"><li>Select from a large selection of mods to choose content for your creations<br></li><li>Over 1000+ different building parts - with even more included in user created mods on the Steam Workshop<br></li><li>Check out tutorials and our wiki at <a href=\"https://steamcommunity.com/linkfilter/?url=http://www.modboxgame.com/\" target=\"_blank\" rel=\"noopener\"  >http://www.modboxgame.com/</a> on how to build<br></li><li>Share your work on Steam workshop ingame, or try out others online<br></li><li>Construct with primitives by just touching them together. Add in hinge joints, ropes, propellers, rockets, piston, balloons. Then control them by wiring them together with throttles and levers.<br></li><li>Pick up and play with toys to interact with the world - including baseball bats, basketballs, crossbows, pistols, chainsaws...<br></li><li>Add NPCs and characters to your creations to interact with<br></li><li>Use the ModboxSDK to create new building parts, avatars, and starting environments</li></ul>",
+            "about_the_game": "<strong>Modbox</strong> is a VR sandbox where you can use mods to create game experiences and share them online. <br><br>Go online to play multiplayer creations together in a variety of game modes - or create your own game worlds by piecing parts together.<br><br><ul class=\"bb_ul\"><li>Select from a large selection of mods to choose content for your creations<br></li><li>Over 1000+ different building parts - with even more included in user created mods on the Steam Workshop<br></li><li>Check out tutorials and our wiki at <a href=\"https://steamcommunity.com/linkfilter/?url=http://www.modboxgame.com/\" target=\"_blank\" rel=\"noopener\"  >http://www.modboxgame.com/</a> on how to build<br></li><li>Share your work on Steam workshop ingame, or try out others online<br></li><li>Construct with primitives by just touching them together. Add in hinge joints, ropes, propellers, rockets, piston, balloons. Then control them by wiring them together with throttles and levers.<br></li><li>Pick up and play with toys to interact with the world - including baseball bats, basketballs, crossbows, pistols, chainsaws...<br></li><li>Add NPCs and characters to your creations to interact with<br></li><li>Use the ModboxSDK to create new building parts, avatars, and starting environments</li></ul>",
+            "short_description": "Modbox is a VR multiplayer sandbox game - create your own game experiences to play and share with others",
+            "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/414120/header.jpg?t=1499972180",
+            "website": "http://www.modboxgame.com/",
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong> Intel i5-4590<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GTX 970<br></li><li><strong>Storage:</strong> 500 MB available space<br></li><li><strong>Additional Notes:</strong> REQUIRES A HTC VIVE VR HEADSET</li></ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "developers": [
+                "Alientrap"
+            ],
+            "publishers": [
+                "Alientrap"
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 1499,
+                "final": 1499,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "14,99€"
+            },
+            "packages": [
+                83079,
+                162797
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Modbox",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 83079,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Modbox - 14,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 1499
+                        }
+                    ]
+                },
+                {
+                    "name": "subscriptions",
+                    "title": "Buy Modbox Subscription Plan",
+                    "description": "To be billed on a recurring basis.",
+                    "selection_text": "Select a subscription plan",
+                    "save_text": "",
+                    "display_type": "1",
+                    "is_recurring_subscription": "true",
+                    "subs": [
+                        {
+                            "packageid": 162797,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "1 Month(s) @ 36,99€/Month",
+                            "option_description": "<p class=\"game_purchase_subscription\">14,99€ at checkout, auto-renewed every 1 month(s) at 36,99€.</p>",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 1499
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 1,
+                    "description": "Multi-player"
+                },
+                {
+                    "id": 36,
+                    "description": "Online Multi-Player"
+                },
+                {
+                    "id": 38,
+                    "description": "Online Co-op"
+                },
+                {
+                    "id": 31,
+                    "description": "VR Support"
+                },
+                {
+                    "id": 30,
+                    "description": "Steam Workshop"
+                },
+                {
+                    "id": 25,
+                    "description": "Steam Leaderboards"
+                },
+                {
+                    "id": 17,
+                    "description": "Includes level editor"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "4",
+                    "description": "Casual"
+                },
+                {
+                    "id": "23",
+                    "description": "Indie"
+                },
+                {
+                    "id": "28",
+                    "description": "Simulation"
+                },
+                {
+                    "id": "70",
+                    "description": "Early Access"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/414120/ss_9be97becd42ae83886b394c9c9a272cdb9390f08.600x338.jpg?t=1499972180",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/414120/ss_9be97becd42ae83886b394c9c9a272cdb9390f08.1920x1080.jpg?t=1499972180"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/414120/ss_02264761cd1bbe59d2b3aa6932d53b8e87f57c50.600x338.jpg?t=1499972180",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/414120/ss_02264761cd1bbe59d2b3aa6932d53b8e87f57c50.1920x1080.jpg?t=1499972180"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/414120/ss_50cf395e79ee23ac8703ec7e16ba2cff67c8bf7e.600x338.jpg?t=1499972180",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/414120/ss_50cf395e79ee23ac8703ec7e16ba2cff67c8bf7e.1920x1080.jpg?t=1499972180"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/414120/ss_1a72f0f93e4398df01f3eb916f9c26b16bd129d0.600x338.jpg?t=1499972180",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/414120/ss_1a72f0f93e4398df01f3eb916f9c26b16bd129d0.1920x1080.jpg?t=1499972180"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/414120/ss_4397fb5ca28c2ed12eb7b067495aaf523639a22d.600x338.jpg?t=1499972180",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/414120/ss_4397fb5ca28c2ed12eb7b067495aaf523639a22d.1920x1080.jpg?t=1499972180"
+                },
+                {
+                    "id": 5,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/414120/ss_c428a751814b18348ac997c9df09a64dda5ee7fb.600x338.jpg?t=1499972180",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/414120/ss_c428a751814b18348ac997c9df09a64dda5ee7fb.1920x1080.jpg?t=1499972180"
+                },
+                {
+                    "id": 6,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/414120/ss_40ade288a9ae862c4bd67c7b041e2c462283af93.600x338.jpg?t=1499972180",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/414120/ss_40ade288a9ae862c4bd67c7b041e2c462283af93.1920x1080.jpg?t=1499972180"
+                },
+                {
+                    "id": 7,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/414120/ss_11cd38a2284b0affe5970ea9eeaa351500550a7a.600x338.jpg?t=1499972180",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/414120/ss_11cd38a2284b0affe5970ea9eeaa351500550a7a.1920x1080.jpg?t=1499972180"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 256689665,
+                    "name": "Voxel Editing",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256689665/movie.293x165.jpg?t=1499550080",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256689665/movie480.webm?t=1499550080",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256689665/movie_max.webm?t=1499550080"
+                    },
+                    "highlight": true
+                },
+                {
+                    "id": 256671634,
+                    "name": "Multiplayer",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256671634/movie.293x165.jpg?t=1499550090",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256671634/movie480.webm?t=1499550090",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256671634/movie_max.webm?t=1499550090"
+                    },
+                    "highlight": true
+                },
+                {
+                    "id": 256658870,
+                    "name": "Modbox - First Trailer - December 2015",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256658870/movie.293x165.jpg?t=1477331022",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256658870/movie480.webm?t=1477331022",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256658870/movie_max.webm?t=1477331022"
+                    },
+                    "highlight": true
+                },
+                {
+                    "id": 256669325,
+                    "name": "Modbox Drones and Dungeons",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256669325/movie.293x165.jpg?t=1471890745",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256669325/movie480.webm?t=1471890745",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256669325/movie_max.webm?t=1471890745"
+                    },
+                    "highlight": true
+                },
+                {
+                    "id": 256662551,
+                    "name": "Modbox Creations 1",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256662551/movie.293x165.jpg?t=1459797774",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256662551/movie480.webm?t=1459797774",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256662551/movie_max.webm?t=1459797774"
+                    },
+                    "highlight": true
+                }
+            ],
+            "recommendations": {
+                "total": 139
+            },
+            "achievements": {
+                "total": 0
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "5 Apr, 2016"
+            },
+            "support_info": {
+                "url": "http://www.alientrap.org",
+                "email": "support@alientrap.org"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/414120/page_bg_generated_v6b.jpg?t=1499972180",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

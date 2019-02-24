@@ -1,0 +1,129 @@
+{
+    "370500": {
+        "success": true,
+        "data": {
+            "type": "dlc",
+            "name": "The Blue Flamingo Soundtrack",
+            "steam_appid": 370500,
+            "required_age": 0,
+            "is_free": false,
+            "controller_support": "full",
+            "detailed_description": "The Soundtrack to The Blue Flamingo presented by Retro Family.",
+            "about_the_game": "The Soundtrack to The Blue Flamingo presented by Retro Family.",
+            "short_description": "The Soundtrack to The Blue Flamingo presented by Retro Family.",
+            "fullgame": {
+                "appid": "302010",
+                "name": "The Blue Flamingo"
+            },
+            "supported_languages": "English, French",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/370500/header.jpg?t=1447374476",
+            "website": "http://mightanddelight.com/index.php?page=theblueflamingo",
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP SP2<br></li><li><strong>Processor:</strong> 2.6 GHz single core<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> DirectX 9.0 compatibility<br></li><li><strong>Storage:</strong> 600 MB available space</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 8<br></li><li><strong>Processor:</strong> 3.0 GHz dual core<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> GeForce 8 series, ATI Radeon HD2xxx</li></ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "developers": [
+                "Might and Delight"
+            ],
+            "publishers": [
+                ""
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 99,
+                "final": 99,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "0,99€"
+            },
+            "packages": [
+                67750
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy The Blue Flamingo Soundtrack",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 67750,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "The Blue Flamingo Soundtrack - 0,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 99
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 21,
+                    "description": "Downloadable Content"
+                },
+                {
+                    "id": 28,
+                    "description": "Full controller support"
+                },
+                {
+                    "id": 29,
+                    "description": "Steam Trading Cards"
+                },
+                {
+                    "id": 25,
+                    "description": "Steam Leaderboards"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "1",
+                    "description": "Action"
+                },
+                {
+                    "id": "23",
+                    "description": "Indie"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/370500/ss_d4ea8dafde5d46934e25391bd1665a488d6037c5.600x338.jpg?t=1447374476",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/370500/ss_d4ea8dafde5d46934e25391bd1665a488d6037c5.1920x1080.jpg?t=1447374476"
+                }
+            ],
+            "achievements": {
+                "total": 0
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "12 May, 2015"
+            },
+            "support_info": {
+                "url": "http://mightanddelight.com/",
+                "email": "contact@mightanddelight.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/370500/page_bg_generated_v6b.jpg?t=1447374476",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "82121": {
+        "success": true,
+        "data": {
+            "type": "movie",
+            "name": "Harveys New Eyes Trailer",
+            "steam_appid": 82121,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "",
+            "about_the_game": "",
+            "short_description": "",
+            "fullgame": {
+                "appid": "219910",
+                "name": "Edna & Harvey: Harvey's New Eyes"
+            },
+            "supported_languages": "English<strong>*</strong>, German<strong>*</strong>, Russian<br><strong>*</strong>languages with full audio support",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/82121/header.jpg?t=1447356868",
+            "website": "http://www.harveysneueaugen.de/",
+            "pc_requirements": {
+                "minimum": "<p><strong>Minimum:</strong></p>\n<ul>\n\t<li><strong>OS:</strong>Windows XP</li>\n\t<li><strong>Processor:</strong>2GHz (Single Core) or 1,8GHz (Dual Core)</li>\n\t<li><strong>Memory:</strong>1536 MB RAM</li>\n\t<li><strong>Graphics:</strong>OpenGL 2.0 compatible with 256 MB RAM</li>\n\t<li><strong>Hard Drive:</strong>3500 MB HD space</li>\n\t<li><strong>Sound:</strong>DirectX compatible</li>\n</ul>",
+                "recommended": "<p><strong>Recommended:</strong></p>\n<ul>\n\t<li><strong>OS:</strong>Windows Vista/7/8</li>\n\t<li><strong>Processor:</strong>2GHz (Single Core) or 1,8GHz (Dual Core)</li>\n\t<li><strong>Memory:</strong>2 GB RAM</li>\n\t<li><strong>Graphics:</strong>OpenGL 2.0 compatible with 512 MB RAM</li>\n\t<li><strong>Hard Drive:</strong>3500 MB HD space</li>\n\t<li><strong>Sound:</strong>DirectX compatible</li>\n</ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "developers": [
+                "Daedalic Entertainment"
+            ],
+            "publishers": [
+                "Daedalic Entertainment"
+            ],
+            "package_groups": [],
+            "platforms": {
+                "windows": true,
+                "mac": true,
+                "linux": false
+            },
+            "genres": [
+                {
+                    "id": "25",
+                    "description": "Adventure"
+                },
+                {
+                    "id": "23",
+                    "description": "Indie"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 82121,
+                    "name": "Harveys New Eyes Trailer",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/82121/movie.293x165.jpg?t=1447356868",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/82121/movie480.webm?t=1447356868",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/82121/movie_max.webm?t=1447356868"
+                    },
+                    "highlight": false
+                }
+            ],
+            "release_date": {
+                "coming_soon": false,
+                "date": "17 Oct, 2012"
+            },
+            "support_info": {
+                "url": "",
+                "email": ""
+            },
+            "background": "",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

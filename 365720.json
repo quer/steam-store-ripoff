@@ -1,0 +1,98 @@
+{
+    "365720": {
+        "success": true,
+        "data": {
+            "type": "mod",
+            "name": "Skyrim Script Extender (SKSE)",
+            "steam_appid": 365720,
+            "required_age": 0,
+            "is_free": true,
+            "detailed_description": "The Skyrim Script Extender (SKSE) is a tool used by many Skyrim mods that expands scripting capabilities and adds additional functionality to the game. This is the same version that is hosted on <a href=\"https://steamcommunity.com/linkfilter/?url=http://skse.silverlock.org\" target=\"_blank\" rel=\"noopener\"  >our main website</a>, but should be the most user-friendly to install and update.<br><br>Once installed, no additional steps are needed to launch Skyrim with SKSE's added functionality. The Steam in-game overlay must be enabled for this integration to work. If you prefer running without the overlay, start Skyrim by launching skse_loader.<br><br>If you use multiple Steam libraries, please make sure to install SKSE to the same library that you have chosen for Skyrim.<br><br>By default, this installation will automatically update to the latest version of SKSE when released. If you prefer to stay on an older version, they will be available via the &quot;betas&quot; tab, allowing you to pick an older build.<br><br>The current version of SKSE is 1.7.3.",
+            "about_the_game": "The Skyrim Script Extender (SKSE) is a tool used by many Skyrim mods that expands scripting capabilities and adds additional functionality to the game. This is the same version that is hosted on <a href=\"https://steamcommunity.com/linkfilter/?url=http://skse.silverlock.org\" target=\"_blank\" rel=\"noopener\"  >our main website</a>, but should be the most user-friendly to install and update.<br><br>Once installed, no additional steps are needed to launch Skyrim with SKSE's added functionality. The Steam in-game overlay must be enabled for this integration to work. If you prefer running without the overlay, start Skyrim by launching skse_loader.<br><br>If you use multiple Steam libraries, please make sure to install SKSE to the same library that you have chosen for Skyrim.<br><br>By default, this installation will automatically update to the latest version of SKSE when released. If you prefer to stay on an older version, they will be available via the &quot;betas&quot; tab, allowing you to pick an older build.<br><br>The current version of SKSE is 1.7.3.",
+            "short_description": "The Skyrim Script Extender (SKSE) is a tool used by many Skyrim mods that expands scripting capabilities and adds additional functionality to the game.",
+            "fullgame": {
+                "appid": null,
+                "name": "Uninitialized"
+            },
+            "supported_languages": "English",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/365720/header.jpg?t=1447373174",
+            "website": "http://skse.silverlock.org",
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP or newer<br></li><li><strong>Processor:</strong> Dual Core 2.0GHz or equivalent processor<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Direct X 9.0c compliant video card with 512 MB of RAM<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 6 GB available space<br></li><li><strong>Sound Card:</strong> DirectX compatible sound card</li></ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "developers": [
+                "The SKSE Team"
+            ],
+            "publishers": [
+                "The SKSE Team"
+            ],
+            "package_groups": [],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 18,
+                    "description": "Partial Controller Support"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "3",
+                    "description": "RPG"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/365720/ss_82e7bbaf63bf07f27e7b408ed6753ef6c0fbfe4e.600x338.jpg?t=1447373174",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/365720/ss_82e7bbaf63bf07f27e7b408ed6753ef6c0fbfe4e.1920x1080.jpg?t=1447373174"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/365720/ss_5612f188c9361235614e1355f436bf7ff917e275.600x338.jpg?t=1447373174",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/365720/ss_5612f188c9361235614e1355f436bf7ff917e275.1920x1080.jpg?t=1447373174"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/365720/ss_60afb1782ad7aca60e76a7b380dbba76c2b7d5c8.600x338.jpg?t=1447373174",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/365720/ss_60afb1782ad7aca60e76a7b380dbba76c2b7d5c8.1920x1080.jpg?t=1447373174"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/365720/ss_ab389bb05a48c90fc7b4ebcdca045111bfa5f144.600x338.jpg?t=1447373174",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/365720/ss_ab389bb05a48c90fc7b4ebcdca045111bfa5f144.1920x1080.jpg?t=1447373174"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/365720/ss_991b62c6c3291ec65ff3c0151188dc85d4c34774.600x338.jpg?t=1447373174",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/365720/ss_991b62c6c3291ec65ff3c0151188dc85d4c34774.1920x1080.jpg?t=1447373174"
+                }
+            ],
+            "achievements": {
+                "total": 0
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "12 Aug, 2015"
+            },
+            "support_info": {
+                "url": "http://skse.silverlock.org",
+                "email": ""
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/365720/page_bg_generated_v6b.jpg?t=1447373174",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

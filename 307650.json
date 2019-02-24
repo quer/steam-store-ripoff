@@ -1,0 +1,120 @@
+{
+    "307650": {
+        "success": true,
+        "data": {
+            "type": "dlc",
+            "name": "Viktor OST",
+            "steam_appid": 307650,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "The complete original soundtrack from the game, <i>Viktor</i>.<br><br>Genre: Symphonic Metal<br>Number of tracks: 18<br>Composer: Steve Mazzaro<br><br>Note: The OST will be downloaded into the Steam game folder for Viktor.",
+            "about_the_game": "The complete original soundtrack from the game, <i>Viktor</i>.<br><br>Genre: Symphonic Metal<br>Number of tracks: 18<br>Composer: Steve Mazzaro<br><br>Note: The OST will be downloaded into the Steam game folder for Viktor.",
+            "short_description": "The complete original soundtrack from the game, Viktor.",
+            "fullgame": {
+                "appid": "296730",
+                "name": "Viktor"
+            },
+            "supported_languages": "English",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/307650/header.jpg?t=1447362309",
+            "website": "http://shoreboundstudios.com/site/viktor",
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Any<br></li><li><strong>Storage:</strong> 120 MB available space<br></li><li><strong>Additional Notes:</strong> Soundtrack supplied in MP3 format</li></ul>"
+            },
+            "mac_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Any</li></ul>"
+            },
+            "linux_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Any</li></ul>"
+            },
+            "developers": [
+                "Shorebound Studios"
+            ],
+            "publishers": [
+                "Shorebound Studios"
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 299,
+                "final": 50,
+                "discount_percent": 83,
+                "initial_formatted": "2,99€",
+                "final_formatted": "0,50€"
+            },
+            "packages": [
+                45912
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Viktor OST",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 45912,
+                            "percent_savings_text": "-83%",
+                            "percent_savings": 0,
+                            "option_text": "Viktor Soundtrack - <span class=\"discount_original_price\">2,99€</span> 0,50€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 50
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 21,
+                    "description": "Downloadable Content"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "1",
+                    "description": "Action"
+                },
+                {
+                    "id": "25",
+                    "description": "Adventure"
+                },
+                {
+                    "id": "23",
+                    "description": "Indie"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/307650/ss_164b349bde3c99ef8c139b5f1c47f2bc5e72bb01.600x338.jpg?t=1447362309",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/307650/ss_164b349bde3c99ef8c139b5f1c47f2bc5e72bb01.1920x1080.jpg?t=1447362309"
+                }
+            ],
+            "release_date": {
+                "coming_soon": false,
+                "date": "13 Jun, 2014"
+            },
+            "support_info": {
+                "url": "http://shoreboundstudios.com/site/contact/",
+                "email": ""
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/307650/page_bg_generated_v6b.jpg?t=1447362309",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

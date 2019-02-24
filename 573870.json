@@ -1,0 +1,145 @@
+{
+    "573870": {
+        "success": true,
+        "data": {
+            "type": "dlc",
+            "name": "DED: Collection Edition",
+            "steam_appid": 573870,
+            "required_age": 0,
+            "is_free": false,
+            "controller_support": "full",
+            "detailed_description": "If you liked the game DED and you want to support the developers - consider getting Collection Edition, which includes:<br><br><ul class=\"bb_ul\"><li>Extended intro<br></li><li>Additional level<br></li><li>Extended outro<br></li><li>Reworked main menu</li></ul>",
+            "about_the_game": "If you liked the game DED and you want to support the developers - consider getting Collection Edition, which includes:<br><br><ul class=\"bb_ul\"><li>Extended intro<br></li><li>Additional level<br></li><li>Extended outro<br></li><li>Reworked main menu</li></ul>",
+            "short_description": "If you liked the game DED and you want to support the developers - consider getting Collection Edition.",
+            "fullgame": {
+                "appid": "571350",
+                "name": "DED"
+            },
+            "supported_languages": "English, German, Spanish - Spain, Russian",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/573870/header.jpg?t=1505223018",
+            "website": null,
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong> 800 MHz<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> Hardware support WebGL - OpenGL 2.1 (GPU Memory - 256MB)<br></li><li><strong>Storage:</strong> 1 MB available space</li></ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Processor:</strong> 800 MHz<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> Hardware support WebGL - OpenGL 2.1 (GPU Memory - 256MB)<br></li><li><strong>Storage:</strong> 1 MB available space</li></ul>"
+            },
+            "developers": [
+                "L. Stotch",
+                "Vladimir Soldatov"
+            ],
+            "publishers": [
+                "L. Stotch",
+                "Vladimir Soldatov"
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 499,
+                "final": 124,
+                "discount_percent": 75,
+                "initial_formatted": "4,99€",
+                "final_formatted": "1,24€"
+            },
+            "packages": [
+                146065
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy DED: Collection Edition",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 146065,
+                            "percent_savings_text": "-75%",
+                            "percent_savings": 0,
+                            "option_text": "DED: Collection Edition - <span class=\"discount_original_price\">4,99€</span> 1,24€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 124
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": true
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 21,
+                    "description": "Downloadable Content"
+                },
+                {
+                    "id": 28,
+                    "description": "Full controller support"
+                },
+                {
+                    "id": 23,
+                    "description": "Steam Cloud"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "1",
+                    "description": "Action"
+                },
+                {
+                    "id": "23",
+                    "description": "Indie"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/573870/ss_d171159182e0f866a7676df51335a15acd728f48.600x338.jpg?t=1505223018",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/573870/ss_d171159182e0f866a7676df51335a15acd728f48.1920x1080.jpg?t=1505223018"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/573870/ss_71c0dcbfef48f78542165f9c26bc876575fff74c.600x338.jpg?t=1505223018",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/573870/ss_71c0dcbfef48f78542165f9c26bc876575fff74c.1920x1080.jpg?t=1505223018"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/573870/ss_2d42c2cfd14b18359319d9b95ea32e8f5d3cbb3c.600x338.jpg?t=1505223018",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/573870/ss_2d42c2cfd14b18359319d9b95ea32e8f5d3cbb3c.1920x1080.jpg?t=1505223018"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/573870/ss_bacc7182022380b476eff8f30a86f3e77e7b10a3.600x338.jpg?t=1505223018",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/573870/ss_bacc7182022380b476eff8f30a86f3e77e7b10a3.1920x1080.jpg?t=1505223018"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/573870/ss_b3014f1017270baa557cb2f31d5bd214164ab1b2.600x338.jpg?t=1505223018",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/573870/ss_b3014f1017270baa557cb2f31d5bd214164ab1b2.1920x1080.jpg?t=1505223018"
+                }
+            ],
+            "release_date": {
+                "coming_soon": false,
+                "date": "15 Feb, 2017"
+            },
+            "support_info": {
+                "url": "",
+                "email": "stotch_steam@list.ru"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/573870/page_bg_generated_v6b.jpg?t=1505223018",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

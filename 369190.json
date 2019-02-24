@@ -1,0 +1,165 @@
+{
+    "369190": {
+        "success": true,
+        "data": {
+            "type": "game",
+            "name": "Shoot 'Em Up Kit",
+            "steam_appid": 369190,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "Create your own professional quality videogames without any programming or scripting using a simple yet powerful drag-and-drop interface.  With the Shoot Em Up Kit a simple game can be created in just a few seconds while lighting, camera views, behaviours, physics settings, shaders, particle effects and AI can be created and modified to fine-tune a complex game. Royalty-free stand-alone executables can be can be created for you to sell or share with the community.<h2 class=\"bb_tag\">Features</h2>Create your own videogame without programming <br>Create your own 2D or 3D shoot ‘em up using a powerful graphics and audio engine. <br>A few seconds and you have a game - creating a game can be as simple as choosing and placing a player model, choosing and placing an enemy model and clicking ‘Play’. <br>Designed and created by games industry professionals who have worked on titles such as Rainbow Six Vegas, Hydrophobia, Assassins Creed and Far Cry 2.<br><br><strong>Use professional graphics tools ... or a pen and paper </strong><br>Create graphics and sound any way you want, including: <br>3D Modelling tools such as XSI or Milkshape <br>Shader Editors to create in-place or post-processing shaders <br>Pen, paper and a scanner <br>Modelling clay and a camera <br>Your favourite painting software <br>The models and images included<br><br><strong>Design your own levels </strong><br>Build levels using your own models or drawings, or use the ones provided <br>Set up lighting and camera views and behaviours <br>Control the Physics settings and watch nVidia’s PhysX simulate your world <br>Use shaders to create powerful visual effects <br>Use default settings to create a game quickly or tweak hundreds of settings to make the game exactly as you want it <br>Choose from many different types of AI, or blend several types together, to bring characters to life<br>Group enemy into waves and add bonuses.<br>Add upgrades such as new weapons or multipliers.<br><br><strong>Tools </strong><br>Create eye-catching particle effects <br>Add music and sound effects to your games <br>Customise behaviours using an easy-to-use tool which allows you to control events <br>Build your own Front-End (Menu) screens or HUD (Head’s-Up–Display) to display the score, etc.<br><br><strong>Tutorials </strong><br>Tutorial Games introduce different features <br>Videos show you step-by-step how to use the tools and features <br>An extensive manual (100+ pages) can be used for reference<br><br><strong>Play and share your own creations </strong><br>Save games as EXE files <br>Share your creations on Steam Workshop (Future feature)<h2 class=\"bb_tag\">Technical Features</h2><strong>Engine </strong><br>Direct9 engine, using XAudio2 for audio <br>Support for user-created HLSL shaders; both model and post-process shaders <br>Default shader supports: diffuse textures, normal mapping, specular mapping, cube mapping, ambient lighting, point lights, spotlights, and directional lights <br>Users can use their own models (x or obj format), textures, shaders, sound effects or music <br>Bone based (Skinned) 3D animation<br><br><strong>Sprites </strong><br>Create sprites from images in many formats (bmp, jpeg, png, tga, dds, dib, and more) <br>Display in 2D or 3D space <br>Billboard Sprites <br>Animation<br><br><strong>Particles </strong><br>2D and 3D particles <br>Control how particles appear over their lifetime - vary speed, colour, or opacity, for example <br>Particles can use Physics effects, and can collide with other objects<br><br><strong>Lights </strong><br>Point, Directional, Spotlights and Ambient lighting <br>Unlimited lights can be placed in a scene <br>Up to 8 active lights<br><br><strong>Levels </strong><br>Multiple levels per game <br>Many settings for customising Player, NPC, Weapon and Bullet behaviours – including Speed, Inertia, Friction, Maximum ammunition, Rate of Fire, Bullet distance, etc. <br>Tags can be placed on any entity to identify interesting points, such as thrusters or the position of a gun <br>Sky boxes (Cubemap or custom model) <br>Collision: Sphere, Box, Cylinder, Custom model. Pixel-perfect collisions <br>Camera: Static, Follow Entity, Rotate in place, Move along spline, Transition effects, FOV <br>Triggers. Link triggers to other items to allow a trigger to activate an enemy, for example; or choose pre-defined events (Kill Player, Game Over or Level Complete) <br>Timers. Count up or down. Like Triggers, Timers can also be linked to other items, and contain pre-defined effects <br>Checkpoints. Options to respawn enemy, reset timers, etc, if the player returns to a checkpoint <br>NPC Generators to control NPC spawning position, frequency, maximum enemy active at once, maximum enemy created by the generator <br>Formations of NPCs. Formations may have their own AI behaviours <br>Splines can be placed and used by NPCs or the Camera. Splines can also be drawn as part of the scene <br>Ground planes can be placed for the Physics system <br>Multiple Level Complete criteria <br>Use Gizmos to move, rotate and scale objects <br>Undo and Redo changes <br>Copy and Paste items for quick editing<br><br><strong>Input </strong><br>Keyboard, Mouse, DirectInput compatible Joystick, Xbox360 controller <br>Support for soft-controls for touch-screen devices <br>Tilt sensors are supported for player controls<br><br><strong>AI </strong><br>Many types of ‘micro-behaviours’ (MoveTo, Chase, Evade, Fire, Wait) which can be combined to produce more sophisticated behaviours <br>Each micro-behaviour has a number of properties which allow the user to fine tune the behaviour<br><br><strong>Physics </strong><br>Uses nVidia’s PhysX physics simulation software <br>Compatible with PhysX remote debugger <br>Set mass, static and dynamic friction, linear and angular damping, and more<br><br><strong>Sound </strong><br>Streamed audio (ogg) <br>Sound effects (ogg, wma and wav) in stereo or 3D audio <br>Properties such as Panning, Range, Volume, Pitch variation and Looping <br>Support for subtitles <br>Control how often sounds are used or repeated<br><br><strong>Behaviour Editor </strong><br>Create custom events and behaviours using a drag-and-drop interface <br>Behaviours can be created which will be triggered by many different in-game events <br>Any properties of the game or an entity can be used or modified <br>Use an object-oriented approach for ease-of-use<br><br><strong>Front End and HUD </strong><br>Customise many types of Front End pages <br>Easily link text or graphics to data from the game to create health bars, for example <br>Select text font, size, style and colour<br><br><br>More details can be found on our website <a href=\"https://steamcommunity.com/linkfilter/?url=http://www.tallstudios.com\" target=\"_blank\" rel=\"noopener\"  >http://www.tallstudios.com</a>",
+            "about_the_game": "Create your own professional quality videogames without any programming or scripting using a simple yet powerful drag-and-drop interface.  With the Shoot Em Up Kit a simple game can be created in just a few seconds while lighting, camera views, behaviours, physics settings, shaders, particle effects and AI can be created and modified to fine-tune a complex game. Royalty-free stand-alone executables can be can be created for you to sell or share with the community.<h2 class=\"bb_tag\">Features</h2>Create your own videogame without programming <br>Create your own 2D or 3D shoot ‘em up using a powerful graphics and audio engine. <br>A few seconds and you have a game - creating a game can be as simple as choosing and placing a player model, choosing and placing an enemy model and clicking ‘Play’. <br>Designed and created by games industry professionals who have worked on titles such as Rainbow Six Vegas, Hydrophobia, Assassins Creed and Far Cry 2.<br><br><strong>Use professional graphics tools ... or a pen and paper </strong><br>Create graphics and sound any way you want, including: <br>3D Modelling tools such as XSI or Milkshape <br>Shader Editors to create in-place or post-processing shaders <br>Pen, paper and a scanner <br>Modelling clay and a camera <br>Your favourite painting software <br>The models and images included<br><br><strong>Design your own levels </strong><br>Build levels using your own models or drawings, or use the ones provided <br>Set up lighting and camera views and behaviours <br>Control the Physics settings and watch nVidia’s PhysX simulate your world <br>Use shaders to create powerful visual effects <br>Use default settings to create a game quickly or tweak hundreds of settings to make the game exactly as you want it <br>Choose from many different types of AI, or blend several types together, to bring characters to life<br>Group enemy into waves and add bonuses.<br>Add upgrades such as new weapons or multipliers.<br><br><strong>Tools </strong><br>Create eye-catching particle effects <br>Add music and sound effects to your games <br>Customise behaviours using an easy-to-use tool which allows you to control events <br>Build your own Front-End (Menu) screens or HUD (Head’s-Up–Display) to display the score, etc.<br><br><strong>Tutorials </strong><br>Tutorial Games introduce different features <br>Videos show you step-by-step how to use the tools and features <br>An extensive manual (100+ pages) can be used for reference<br><br><strong>Play and share your own creations </strong><br>Save games as EXE files <br>Share your creations on Steam Workshop (Future feature)<h2 class=\"bb_tag\">Technical Features</h2><strong>Engine </strong><br>Direct9 engine, using XAudio2 for audio <br>Support for user-created HLSL shaders; both model and post-process shaders <br>Default shader supports: diffuse textures, normal mapping, specular mapping, cube mapping, ambient lighting, point lights, spotlights, and directional lights <br>Users can use their own models (x or obj format), textures, shaders, sound effects or music <br>Bone based (Skinned) 3D animation<br><br><strong>Sprites </strong><br>Create sprites from images in many formats (bmp, jpeg, png, tga, dds, dib, and more) <br>Display in 2D or 3D space <br>Billboard Sprites <br>Animation<br><br><strong>Particles </strong><br>2D and 3D particles <br>Control how particles appear over their lifetime - vary speed, colour, or opacity, for example <br>Particles can use Physics effects, and can collide with other objects<br><br><strong>Lights </strong><br>Point, Directional, Spotlights and Ambient lighting <br>Unlimited lights can be placed in a scene <br>Up to 8 active lights<br><br><strong>Levels </strong><br>Multiple levels per game <br>Many settings for customising Player, NPC, Weapon and Bullet behaviours – including Speed, Inertia, Friction, Maximum ammunition, Rate of Fire, Bullet distance, etc. <br>Tags can be placed on any entity to identify interesting points, such as thrusters or the position of a gun <br>Sky boxes (Cubemap or custom model) <br>Collision: Sphere, Box, Cylinder, Custom model. Pixel-perfect collisions <br>Camera: Static, Follow Entity, Rotate in place, Move along spline, Transition effects, FOV <br>Triggers. Link triggers to other items to allow a trigger to activate an enemy, for example; or choose pre-defined events (Kill Player, Game Over or Level Complete) <br>Timers. Count up or down. Like Triggers, Timers can also be linked to other items, and contain pre-defined effects <br>Checkpoints. Options to respawn enemy, reset timers, etc, if the player returns to a checkpoint <br>NPC Generators to control NPC spawning position, frequency, maximum enemy active at once, maximum enemy created by the generator <br>Formations of NPCs. Formations may have their own AI behaviours <br>Splines can be placed and used by NPCs or the Camera. Splines can also be drawn as part of the scene <br>Ground planes can be placed for the Physics system <br>Multiple Level Complete criteria <br>Use Gizmos to move, rotate and scale objects <br>Undo and Redo changes <br>Copy and Paste items for quick editing<br><br><strong>Input </strong><br>Keyboard, Mouse, DirectInput compatible Joystick, Xbox360 controller <br>Support for soft-controls for touch-screen devices <br>Tilt sensors are supported for player controls<br><br><strong>AI </strong><br>Many types of ‘micro-behaviours’ (MoveTo, Chase, Evade, Fire, Wait) which can be combined to produce more sophisticated behaviours <br>Each micro-behaviour has a number of properties which allow the user to fine tune the behaviour<br><br><strong>Physics </strong><br>Uses nVidia’s PhysX physics simulation software <br>Compatible with PhysX remote debugger <br>Set mass, static and dynamic friction, linear and angular damping, and more<br><br><strong>Sound </strong><br>Streamed audio (ogg) <br>Sound effects (ogg, wma and wav) in stereo or 3D audio <br>Properties such as Panning, Range, Volume, Pitch variation and Looping <br>Support for subtitles <br>Control how often sounds are used or repeated<br><br><strong>Behaviour Editor </strong><br>Create custom events and behaviours using a drag-and-drop interface <br>Behaviours can be created which will be triggered by many different in-game events <br>Any properties of the game or an entity can be used or modified <br>Use an object-oriented approach for ease-of-use<br><br><strong>Front End and HUD </strong><br>Customise many types of Front End pages <br>Easily link text or graphics to data from the game to create health bars, for example <br>Select text font, size, style and colour<br><br><br>More details can be found on our website <a href=\"https://steamcommunity.com/linkfilter/?url=http://www.tallstudios.com\" target=\"_blank\" rel=\"noopener\"  >http://www.tallstudios.com</a>",
+            "short_description": "Create your own professional quality videogames without any programming or scripting. Create games using a simple yet powerful drag-and-drop interface and fine-tune items to customise your game. The Shoot 'Em Up Kit provides a wide range of features to create the game you always imagined.",
+            "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/369190/header.jpg?t=1478384264",
+            "website": "http://www.tallstudios.com",
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP, Vista, 7, 8 or 10<br></li><li><strong>Processor:</strong> Intel Dual-Core 2GHz or AMD Dual-Core 2GHz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Shader Model 3<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 1 GB available space<br></li><li><strong>Sound Card:</strong> DirectX Compatible Sound Card with latest drivers</li></ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "developers": [
+                "Tall Studios"
+            ],
+            "publishers": [
+                "Tall Studios"
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 3699,
+                "final": 3699,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "36,99€"
+            },
+            "packages": [
+                67162
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Shoot 'Em Up Kit",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 67162,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Shoot 'Em Up Kit - 36,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 3699
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 18,
+                    "description": "Partial Controller Support"
+                },
+                {
+                    "id": 17,
+                    "description": "Includes level editor"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "51",
+                    "description": "Animation & Modeling"
+                },
+                {
+                    "id": "53",
+                    "description": "Design & Illustration"
+                },
+                {
+                    "id": "54",
+                    "description": "Education"
+                },
+                {
+                    "id": "57",
+                    "description": "Utilities"
+                },
+                {
+                    "id": "70",
+                    "description": "Early Access"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/369190/ss_5ef258b341b17927cef35098df40aa253035de21.600x338.jpg?t=1478384264",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/369190/ss_5ef258b341b17927cef35098df40aa253035de21.1920x1080.jpg?t=1478384264"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/369190/ss_7dd10050f70edd50bab0a11440c3a5353c73db5c.600x338.jpg?t=1478384264",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/369190/ss_7dd10050f70edd50bab0a11440c3a5353c73db5c.1920x1080.jpg?t=1478384264"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/369190/ss_e5fc6438e4dad8dd5ad18db45e6f00338695e707.600x338.jpg?t=1478384264",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/369190/ss_e5fc6438e4dad8dd5ad18db45e6f00338695e707.1920x1080.jpg?t=1478384264"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/369190/ss_ddddd4e8d0a37ec0f0c17dd61d9d0d5433279441.600x338.jpg?t=1478384264",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/369190/ss_ddddd4e8d0a37ec0f0c17dd61d9d0d5433279441.1920x1080.jpg?t=1478384264"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/369190/ss_e33b31d0a51f21ccb4f79f47b40112b978ab4daa.600x338.jpg?t=1478384264",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/369190/ss_e33b31d0a51f21ccb4f79f47b40112b978ab4daa.1920x1080.jpg?t=1478384264"
+                },
+                {
+                    "id": 5,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/369190/ss_25a556cda5264c263340b6da17b3e1ce01c49855.600x338.jpg?t=1478384264",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/369190/ss_25a556cda5264c263340b6da17b3e1ce01c49855.1920x1080.jpg?t=1478384264"
+                },
+                {
+                    "id": 6,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/369190/ss_33f15b89ee1a4dc22bea14717464a3bfa812909f.600x338.jpg?t=1478384264",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/369190/ss_33f15b89ee1a4dc22bea14717464a3bfa812909f.1920x1080.jpg?t=1478384264"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 2039919,
+                    "name": "Shoot 'Em Up Kit Main Trailer",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/2039919/movie.293x165.jpg?t=1447375946",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/2039919/movie480.webm?t=1447375946",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/2039919/movie_max.webm?t=1447375946"
+                    },
+                    "highlight": true
+                }
+            ],
+            "achievements": {
+                "total": 0
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "5 Jun, 2015"
+            },
+            "support_info": {
+                "url": "http://www.tallstudios.com/contact",
+                "email": "support@tallstudios.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/369190/page_bg_generated_v6b.jpg?t=1478384264",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

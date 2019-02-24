@@ -1,0 +1,98 @@
+{
+    "752930": {
+        "success": true,
+        "data": {
+            "type": "episode",
+            "name": "Love Live! School Idol Project: The Greatest Concert",
+            "steam_appid": 752930,
+            "required_age": 0,
+            "is_free": false,
+            "controller_support": "full",
+            "detailed_description": "",
+            "about_the_game": "",
+            "short_description": "It is a new semester and the group is ranked 19th, which is high enough to be considered for Love Live! μ's next event is at the school festival, but they are forced to perform on the roof.",
+            "fullgame": {
+                "appid": "752220",
+                "name": "Love Live! School Idol Project"
+            },
+            "supported_languages": "English<strong>*</strong>, Japanese<strong>*</strong><br><strong>*</strong>languages with full audio support",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/752930/header.jpg?t=1513821003",
+            "website": null,
+            "pc_requirements": [],
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "publishers": [
+                ""
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 99,
+                "final": 99,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "0,99€"
+            },
+            "packages": [
+                221355
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Love Live! School Idol Project: The Greatest Concert",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 221355,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Love Live! School Idol Project: The Greatest Concert - 0,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 99
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 28,
+                    "description": "Full controller support"
+                },
+                {
+                    "id": 33,
+                    "description": "Native Steam Controller Support"
+                },
+                {
+                    "id": 13,
+                    "description": "Captions available"
+                }
+            ],
+            "achievements": {
+                "total": 0
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "20 Dec, 2017"
+            },
+            "support_info": {
+                "url": "",
+                "email": ""
+            },
+            "background": "",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

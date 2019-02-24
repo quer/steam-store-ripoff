@@ -1,0 +1,202 @@
+{
+    "317490": {
+        "success": true,
+        "data": {
+            "type": "dlc",
+            "name": "SpeedRunners - Youtuber Pack 2",
+            "steam_appid": 317490,
+            "required_age": 0,
+            "is_free": false,
+            "controller_support": "full",
+            "detailed_description": "Play as your favorite Youtuber in SpeedRunners! <br><br>This pack includes:<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/317490/extras/pewdiepieteam.png?t=1534843107\" ><br><br>These are purely cosmetic changes that do not affect gameplay.<br><br>By purchasing these characters, you're able to support #TeamSpeedRunner in King of Speed - the official in-game tournament between SpeedRunner and Falcon. Playing any of them until November 20th will result in your wins counting towards the team's total. If your team wins, all of the sales we make from this DLC go to cancer research.<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/317490/extras/rsz_1kingofspeed_infographic-1.png?t=1534843107\" >",
+            "about_the_game": "Play as your favorite Youtuber in SpeedRunners! <br><br>This pack includes:<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/317490/extras/pewdiepieteam.png?t=1534843107\" ><br><br>These are purely cosmetic changes that do not affect gameplay.<br><br>By purchasing these characters, you're able to support #TeamSpeedRunner in King of Speed - the official in-game tournament between SpeedRunner and Falcon. Playing any of them until November 20th will result in your wins counting towards the team's total. If your team wins, all of the sales we make from this DLC go to cancer research.<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/317490/extras/rsz_1kingofspeed_infographic-1.png?t=1534843107\" >",
+            "short_description": "Play as PewDiePie, Strippin, CinnamonToastKen, or Dodger in this Youtuber DLC pack for SpeedRunners! By purchasing these characters, you're able to support #TeamSpeedRunner in King of Speed - the official in-game tournament between SpeedRunner and Falcon.",
+            "fullgame": {
+                "appid": "207140",
+                "name": "SpeedRunners"
+            },
+            "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/317490/header.jpg?t=1534843107",
+            "website": "http://tinyBuild.com/speedrunners",
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP and up<br></li><li><strong>Processor:</strong> 1Ghz and up<br></li><li><strong>Memory:</strong> 3 GB RAM<br></li><li><strong>Graphics:</strong> Integrated will work fine. Or a toaster.<br></li><li><strong>Network:</strong> Broadband Internet connection</li></ul>"
+            },
+            "mac_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OSX El Capitain<br></li><li><strong>Processor:</strong> 1Ghz and up - tested on fanless MacBooks<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Additional Notes:</strong> Tested on latest OSX on 1.2Ghz &quot;fanless&quot; MacBooks. Works like a charm.</li></ul>"
+            },
+            "linux_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Latest Debian redistributable or SteamOS<br></li><li><strong>Processor:</strong> 1Ghz and up<br></li><li><strong>Graphics:</strong> your toaster<br></li><li><strong>Network:</strong> Broadband Internet connection</li></ul>"
+            },
+            "developers": [
+                "DoubleDutch Games"
+            ],
+            "publishers": [
+                "tinyBuild"
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 299,
+                "final": 299,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "2,99€"
+            },
+            "packages": [
+                48807
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy SpeedRunners - Youtuber Pack 2",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 48807,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "SpeedRunners - Youtuber Pack 2 - 2,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 299
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": true,
+                "linux": true
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 1,
+                    "description": "Multi-player"
+                },
+                {
+                    "id": 9,
+                    "description": "Co-op"
+                },
+                {
+                    "id": 24,
+                    "description": "Shared/Split Screen"
+                },
+                {
+                    "id": 21,
+                    "description": "Downloadable Content"
+                },
+                {
+                    "id": 22,
+                    "description": "Steam Achievements"
+                },
+                {
+                    "id": 28,
+                    "description": "Full controller support"
+                },
+                {
+                    "id": 29,
+                    "description": "Steam Trading Cards"
+                },
+                {
+                    "id": 15,
+                    "description": "Stats"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "1",
+                    "description": "Action"
+                },
+                {
+                    "id": "4",
+                    "description": "Casual"
+                },
+                {
+                    "id": "23",
+                    "description": "Indie"
+                },
+                {
+                    "id": "9",
+                    "description": "Racing"
+                },
+                {
+                    "id": "18",
+                    "description": "Sports"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/317490/ss_efa7700782d88a3a6ef665516802394cd866f9d9.600x338.jpg?t=1534843107",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/317490/ss_efa7700782d88a3a6ef665516802394cd866f9d9.1920x1080.jpg?t=1534843107"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/317490/ss_4738286fef890dcebf5dcee0cae3f56051438339.600x338.jpg?t=1534843107",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/317490/ss_4738286fef890dcebf5dcee0cae3f56051438339.1920x1080.jpg?t=1534843107"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/317490/ss_b3e17f16afd8cc3cddb68894bea763488b64c110.600x338.jpg?t=1534843107",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/317490/ss_b3e17f16afd8cc3cddb68894bea763488b64c110.1920x1080.jpg?t=1534843107"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/317490/ss_442b003ce04ce07f81f3f8bdab429b35b2e4d23f.600x338.jpg?t=1534843107",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/317490/ss_442b003ce04ce07f81f3f8bdab429b35b2e4d23f.1920x1080.jpg?t=1534843107"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/317490/ss_bc10262b2d6b46532248af4630cb93aa268f16eb.600x338.jpg?t=1534843107",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/317490/ss_bc10262b2d6b46532248af4630cb93aa268f16eb.1920x1080.jpg?t=1534843107"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 2035002,
+                    "name": "Youtuber Trailer",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/2035002/movie.293x165.jpg?t=1447364242",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/2035002/movie480.webm?t=1447364242",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/2035002/movie_max.webm?t=1447364242"
+                    },
+                    "highlight": true
+                },
+                {
+                    "id": 2035073,
+                    "name": "Youtuber Pack Trailer",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/2035073/movie.293x165.jpg?t=1447364327",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/2035073/movie480.webm?t=1447364327",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/2035073/movie_max.webm?t=1447364327"
+                    },
+                    "highlight": true
+                }
+            ],
+            "achievements": {
+                "total": 0
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "20 Oct, 2014"
+            },
+            "support_info": {
+                "url": "http://tinyBuild.com",
+                "email": "contact@tinybuildgames.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/317490/page_bg_generated_v6b.jpg?t=1534843107",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

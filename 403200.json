@@ -1,0 +1,357 @@
+{
+    "403200": {
+        "success": true,
+        "data": {
+            "type": "game",
+            "name": "Legends of Dawn Reborn",
+            "steam_appid": 403200,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "Legends of Dawn Reborn invites players to the brutal northerly reaches of Narr. Survival depends on your magic, your sword, and your wits. <br>Legends of Dawn Reborn takes place in a world of Narr and events take place before those from Wave of Darkness released on Steam Early Access in June.<br>What makes Legends of Dawn Reborn unique is an ability to play without restrictions. The world of Narr is a huge place, where you won't stumble upon &quot;invisible walls&quot;, or loading screens. <br>The world of Narr spans across continents through stunning picturesque landscape that stimulates the mind. There are magical regions where the mountains and hills defy gravity, buoyant as balloons. We have also created countless dungeons awaiting for you to discover what mysteries lie within their cold depths, as well as camps, impressive docks and grim fortresses that bear silent witness to battles. Mausoleums and cemeteries also await your exploration.<br><br>Furthermore, the choices you make during game play does not prevent you from trying something else later, or simultaneously if you wish. You are able to play with the classes and combine sword with magic. The choice is entirely up to your creativity.<br>But, bear in mind. All those beautiful landscapes hide a mysterious darkness that has spread from the ancient battlefield of Ashglades; warping and poisoning every creature in its path, creating bloodthirsty monsters.<br><br><strong>What is Legends of Dawn Reborn</strong><br><br>Legends of Dawn Reborn is a re-release of our first RPG title, Legends of Dawn. While we were developing Wave of Darkness, the engine and RPG systems were dramatically improved, so that instead of patching original game we realized that we’d be able to offer much better gaming experience if we take over its content to the new engine and adapt it to the new RPG system rather than to patch it.<br><br>The response to Wave of Darkness during Early Access development phase was very encouraging. The players liked the improvements and in general loved the game much more than the original Legends of Dawn, so we decided to discontinue it and re-release it revamped with the new engine and RPG system “under the hood” so here is the list of differences and similarities:<br><br><strong>Massive Inventory and Items Upgrades:</strong><br><br>One of the biggest concerns players had was item management. We introduced runes as the main component required to craft spells and other resources such as metals, bones, wood and herbs used to craft other items. Players collected all of these resources extensively.<br>This resulted in players having almost all of the inventory space spent on resources of one kind or another. To add insult to injury, there was limit in number of inventory slots and maximum weight players could carry.<br><br>First of all, there is a change in the way inventory works. Players can now expand their inventory so that they can carry much more items. Bags can be bought in stores or you can find them in various itemholders (chests, locked crates, on bodies of defeated humanoids etc). Each bag expands your total inventory space. This way you can expand your starting inventory that has approximately 14 slots to one that has gargantuan 1000+ slots. This means players can carry bunch of items, provided that they are not overly heavy. Since runes, scrolls, keys and other small items have zero weight, this should be enough for even most demanding players.<br><br>Also, magical items, blessed or empowered items can now be crafted if you have scrolls describing such items.<br><br>Regarding empowered items - some items have magical bonuses which draw their power from certain relics. Player can have up to four such relics active at any given time. These relics improve all item’s special bonuses. For example, if you have empowered 'Long Sword of Fire' which causes +5 fire damage on each hit and if this sword is empowered using Jeweled Skulls, if you have one such skull, your sword will cause +10 fire damage, if you have two skulls, sword will cause +15 fire damage etc. up to +25 fire damage if you have four such relics. There are over 20 types of relics scattered throughout the world and thousands of items (practically all equipable items) that can be empowered using such relics. This means all swords, axes and other weapons, armors, helmets, pants, boots, rings, necklaces, shields and many other items can be empowered in this way. Catch is that they do not all use the same relic to empower them so you will have to choose whether you wish to empower your weapons, or armors, or maybe magical rings.<br><br>On the other hand, we have created new types of item parameters. Now, players can find various new magical items. One example of such items are “blessed” items. These items are blessed by one of three main gods - Perun, Svarog or Veles and they give players additional bonuses at the cost - each item has blessing that lasts for up to one hour of gameplay. Once blessing runs out, item behaves as normal non-magical item. Blessings can be 'recharged' using god shrines that are placed throughout the wilderness.<br><br>We have added additional data about weapons such as bonuses to weapon type vs. creature, bonuses to critical hit chance whether you are using small weapons (1 handed swords/maces/axes, knives etc.) or large weapons (staves, pole-arms, 2 handed weapons) and more.<br><br>We have also introduced minimal requirements required to use certain items, such as minimal ability scores, level or skill required. Also, some items can be used only by characters of certain race or gender.<br><br>Item tooltips are heavily updated to reflect all these changes and each item tooltip describes bunch of details regarding specific item. We hope this will give players enough insight into gameplay mechanics without the need to consult the manual. Everything, from basic parameters to magical properties to crafting resources is listed in each item tooltip. Of course, we have also added many new bonuses and expanded all existing items.<br><br>We have also introduced cursed items. So far we had identifiable items. These are magical items whose properties player does not know until he identifies such items using oracle stones. Cursed items act in similar way. They look like normal or magical items but they carry curses with them. Once equipped, curse becomes active and item cannot be removed unless you visit the shrine of good god. Curses range from those that prevent you to regenerate health or faith, to those that destroy your ability to cast spells or even those that remove all your resistances making you helpless in any magical fight. Cursed items can be identified the same way players used to identify magical items - by visiting oracle stones.<br><br>We have also added scrolls of summoning which summon various creatures to fight at your side. We have various elementals you can summon, undead creatures such as zombies or skeletons, and even some reptiles.<br><br>Also, we have added durability to equippable items. Each of these items gets damaged during combat. You can fix them of course. You can buy repair tools and fix all your items as much as you like.<br><br>All these changes are just the start. Changes are too numerous to list them all here, and this is only regarding items. You can expect massive improvements on all other fronts too so you can expect much more regarding overall gameplay experience.<br><br><strong>Unlocking and Keys:</strong><br><br>Unlocking panel is made of rune slots where players place runes that unlock each puzzle. We have added key slot so players can use keys. Each locked chest, crate, or other itemholder has key that can be used to unlock it. You can use keys in addition to rune unlocking. Note that keys are rarely dropped so you will have to decide when its good to use them.<br><br><strong>Smoothed Animations:</strong><br><br>Animation for all dynamic entities are now smoothed over time when transiting between animation states. This is most noticeable on monsters and player characters.<br><br><strong>64-bit OS Support:</strong><br><br>Game and engine are now 64-bit only. Unfortunately that means game will no longer run on 32-bit operating systems, but good news is that memory problems are thing of the past now. Game can now utilize all the RAM you have, well over 2GB per process that is the limit of 32-bit processes.<br><br><strong>Upgraded Physics:</strong><br><br>NVidia Physx is not dependent on external system software anymore. No more separate installation of physics software is required. External physics installation was cause of many problems in the past - from configurations where physics software was not recognized, even though it was installed, to problems with non-steam installations where users simply forgot to install physics software. This is now solved, physics is part of the game itself and should work without any intervention from the user or external software.<br><br><strong>Crafting:</strong><br><br>Crafting is upgraded. Now you can buy or find scrolls of crafting that describe items you wish to create. This gives us much flexibility so now you can craft regular items, magical weapons and armors, blessed items, charged items, empowered items and more. This works for all items types, you can cook food or make armors using armorsmithing or even craft necklaces and ring using jewels and jewelcrafting. Most of the items in the game can be crafted using some skill and/or resource.<br><br><strong>Spells:</strong><br><br>Spells are also upgraded. Now each spell becomes stronger when you use it. This works similar to experience level player has. Each time you use the spell, its &quot;experience&quot; adds up until your spells gains level. Wizards casting fireballs become more experienced as the time passes by and they use the spell more often. Each spell now has more parameters all visible from the tooltips which are also heavily upgraded.<br><br>-\tDreamatrix 2.0, optimized engine used in our Early Access title <strong>Wave of Darkness</strong>;<br>-\tLegends of Dawn Reborn is a 64-bit ONLY title. Streaming technology enables playing without any loading screens. All data seamlessly loads in background;<br>-\tExpandable huge inventory with bags with item stacking and sorting;<br>-\tA completely new informative tooltips with all data about single item type, including runes, potions and spells; Important data about magic level, crafting etc.<br>-\tRedefined Spell generator – create powerful magic out of runes you collect thorough the world; Your spell casting will increase your spell level (visible in tooltips). <br>-       New full screen map with plenty of filters<br>-\tAn advanced and new crafting system; <br>-       Additional combat animations<br>-\tUpgraded Unlocking System with Keys and Runes: using specific runes or keys players can interactively unlock and activate locked chests or crates and other mechanisms in the game; <br>-       New kind of items: Cursed Items, Blessings, Relics etc.<br>-       Major upgrade with keyboard and mouse navigation<br>-\tWith full freedom, explore hundreds of unique locations;<br>-\tHundreds of types of wild creatures and monsters that drop loads of loot;<br>-\tLegends of Dawn quests and the world have small changes;<br>-       Achievement system (150) and Steam Cards<br>-\tLegends of Dawn is no longer supported or available for purchase;<br>-\tIf you already purchased LoD do not buy this LoD Reborn, you are qualified to get it free of charge.",
+            "about_the_game": "Legends of Dawn Reborn invites players to the brutal northerly reaches of Narr. Survival depends on your magic, your sword, and your wits. <br>Legends of Dawn Reborn takes place in a world of Narr and events take place before those from Wave of Darkness released on Steam Early Access in June.<br>What makes Legends of Dawn Reborn unique is an ability to play without restrictions. The world of Narr is a huge place, where you won't stumble upon &quot;invisible walls&quot;, or loading screens. <br>The world of Narr spans across continents through stunning picturesque landscape that stimulates the mind. There are magical regions where the mountains and hills defy gravity, buoyant as balloons. We have also created countless dungeons awaiting for you to discover what mysteries lie within their cold depths, as well as camps, impressive docks and grim fortresses that bear silent witness to battles. Mausoleums and cemeteries also await your exploration.<br><br>Furthermore, the choices you make during game play does not prevent you from trying something else later, or simultaneously if you wish. You are able to play with the classes and combine sword with magic. The choice is entirely up to your creativity.<br>But, bear in mind. All those beautiful landscapes hide a mysterious darkness that has spread from the ancient battlefield of Ashglades; warping and poisoning every creature in its path, creating bloodthirsty monsters.<br><br><strong>What is Legends of Dawn Reborn</strong><br><br>Legends of Dawn Reborn is a re-release of our first RPG title, Legends of Dawn. While we were developing Wave of Darkness, the engine and RPG systems were dramatically improved, so that instead of patching original game we realized that we’d be able to offer much better gaming experience if we take over its content to the new engine and adapt it to the new RPG system rather than to patch it.<br><br>The response to Wave of Darkness during Early Access development phase was very encouraging. The players liked the improvements and in general loved the game much more than the original Legends of Dawn, so we decided to discontinue it and re-release it revamped with the new engine and RPG system “under the hood” so here is the list of differences and similarities:<br><br><strong>Massive Inventory and Items Upgrades:</strong><br><br>One of the biggest concerns players had was item management. We introduced runes as the main component required to craft spells and other resources such as metals, bones, wood and herbs used to craft other items. Players collected all of these resources extensively.<br>This resulted in players having almost all of the inventory space spent on resources of one kind or another. To add insult to injury, there was limit in number of inventory slots and maximum weight players could carry.<br><br>First of all, there is a change in the way inventory works. Players can now expand their inventory so that they can carry much more items. Bags can be bought in stores or you can find them in various itemholders (chests, locked crates, on bodies of defeated humanoids etc). Each bag expands your total inventory space. This way you can expand your starting inventory that has approximately 14 slots to one that has gargantuan 1000+ slots. This means players can carry bunch of items, provided that they are not overly heavy. Since runes, scrolls, keys and other small items have zero weight, this should be enough for even most demanding players.<br><br>Also, magical items, blessed or empowered items can now be crafted if you have scrolls describing such items.<br><br>Regarding empowered items - some items have magical bonuses which draw their power from certain relics. Player can have up to four such relics active at any given time. These relics improve all item’s special bonuses. For example, if you have empowered 'Long Sword of Fire' which causes +5 fire damage on each hit and if this sword is empowered using Jeweled Skulls, if you have one such skull, your sword will cause +10 fire damage, if you have two skulls, sword will cause +15 fire damage etc. up to +25 fire damage if you have four such relics. There are over 20 types of relics scattered throughout the world and thousands of items (practically all equipable items) that can be empowered using such relics. This means all swords, axes and other weapons, armors, helmets, pants, boots, rings, necklaces, shields and many other items can be empowered in this way. Catch is that they do not all use the same relic to empower them so you will have to choose whether you wish to empower your weapons, or armors, or maybe magical rings.<br><br>On the other hand, we have created new types of item parameters. Now, players can find various new magical items. One example of such items are “blessed” items. These items are blessed by one of three main gods - Perun, Svarog or Veles and they give players additional bonuses at the cost - each item has blessing that lasts for up to one hour of gameplay. Once blessing runs out, item behaves as normal non-magical item. Blessings can be 'recharged' using god shrines that are placed throughout the wilderness.<br><br>We have added additional data about weapons such as bonuses to weapon type vs. creature, bonuses to critical hit chance whether you are using small weapons (1 handed swords/maces/axes, knives etc.) or large weapons (staves, pole-arms, 2 handed weapons) and more.<br><br>We have also introduced minimal requirements required to use certain items, such as minimal ability scores, level or skill required. Also, some items can be used only by characters of certain race or gender.<br><br>Item tooltips are heavily updated to reflect all these changes and each item tooltip describes bunch of details regarding specific item. We hope this will give players enough insight into gameplay mechanics without the need to consult the manual. Everything, from basic parameters to magical properties to crafting resources is listed in each item tooltip. Of course, we have also added many new bonuses and expanded all existing items.<br><br>We have also introduced cursed items. So far we had identifiable items. These are magical items whose properties player does not know until he identifies such items using oracle stones. Cursed items act in similar way. They look like normal or magical items but they carry curses with them. Once equipped, curse becomes active and item cannot be removed unless you visit the shrine of good god. Curses range from those that prevent you to regenerate health or faith, to those that destroy your ability to cast spells or even those that remove all your resistances making you helpless in any magical fight. Cursed items can be identified the same way players used to identify magical items - by visiting oracle stones.<br><br>We have also added scrolls of summoning which summon various creatures to fight at your side. We have various elementals you can summon, undead creatures such as zombies or skeletons, and even some reptiles.<br><br>Also, we have added durability to equippable items. Each of these items gets damaged during combat. You can fix them of course. You can buy repair tools and fix all your items as much as you like.<br><br>All these changes are just the start. Changes are too numerous to list them all here, and this is only regarding items. You can expect massive improvements on all other fronts too so you can expect much more regarding overall gameplay experience.<br><br><strong>Unlocking and Keys:</strong><br><br>Unlocking panel is made of rune slots where players place runes that unlock each puzzle. We have added key slot so players can use keys. Each locked chest, crate, or other itemholder has key that can be used to unlock it. You can use keys in addition to rune unlocking. Note that keys are rarely dropped so you will have to decide when its good to use them.<br><br><strong>Smoothed Animations:</strong><br><br>Animation for all dynamic entities are now smoothed over time when transiting between animation states. This is most noticeable on monsters and player characters.<br><br><strong>64-bit OS Support:</strong><br><br>Game and engine are now 64-bit only. Unfortunately that means game will no longer run on 32-bit operating systems, but good news is that memory problems are thing of the past now. Game can now utilize all the RAM you have, well over 2GB per process that is the limit of 32-bit processes.<br><br><strong>Upgraded Physics:</strong><br><br>NVidia Physx is not dependent on external system software anymore. No more separate installation of physics software is required. External physics installation was cause of many problems in the past - from configurations where physics software was not recognized, even though it was installed, to problems with non-steam installations where users simply forgot to install physics software. This is now solved, physics is part of the game itself and should work without any intervention from the user or external software.<br><br><strong>Crafting:</strong><br><br>Crafting is upgraded. Now you can buy or find scrolls of crafting that describe items you wish to create. This gives us much flexibility so now you can craft regular items, magical weapons and armors, blessed items, charged items, empowered items and more. This works for all items types, you can cook food or make armors using armorsmithing or even craft necklaces and ring using jewels and jewelcrafting. Most of the items in the game can be crafted using some skill and/or resource.<br><br><strong>Spells:</strong><br><br>Spells are also upgraded. Now each spell becomes stronger when you use it. This works similar to experience level player has. Each time you use the spell, its &quot;experience&quot; adds up until your spells gains level. Wizards casting fireballs become more experienced as the time passes by and they use the spell more often. Each spell now has more parameters all visible from the tooltips which are also heavily upgraded.<br><br>-\tDreamatrix 2.0, optimized engine used in our Early Access title <strong>Wave of Darkness</strong>;<br>-\tLegends of Dawn Reborn is a 64-bit ONLY title. Streaming technology enables playing without any loading screens. All data seamlessly loads in background;<br>-\tExpandable huge inventory with bags with item stacking and sorting;<br>-\tA completely new informative tooltips with all data about single item type, including runes, potions and spells; Important data about magic level, crafting etc.<br>-\tRedefined Spell generator – create powerful magic out of runes you collect thorough the world; Your spell casting will increase your spell level (visible in tooltips). <br>-       New full screen map with plenty of filters<br>-\tAn advanced and new crafting system; <br>-       Additional combat animations<br>-\tUpgraded Unlocking System with Keys and Runes: using specific runes or keys players can interactively unlock and activate locked chests or crates and other mechanisms in the game; <br>-       New kind of items: Cursed Items, Blessings, Relics etc.<br>-       Major upgrade with keyboard and mouse navigation<br>-\tWith full freedom, explore hundreds of unique locations;<br>-\tHundreds of types of wild creatures and monsters that drop loads of loot;<br>-\tLegends of Dawn quests and the world have small changes;<br>-       Achievement system (150) and Steam Cards<br>-\tLegends of Dawn is no longer supported or available for purchase;<br>-\tIf you already purchased LoD do not buy this LoD Reborn, you are qualified to get it free of charge.",
+            "short_description": "Legends of Dawn Reborn invites players to the brutal northerly reaches of Narr. Survival depends on your magic, your sword, and your wits. Legends of Dawn Reborn takes place in a world of Narr and events take place before those from Wave of Darkness released on Steam Early Access in June.",
+            "supported_languages": "English<strong>*</strong>, French, Italian, German, Hungarian, Russian<br><strong>*</strong>languages with full audio support",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/403200/header.jpg?t=1447378065",
+            "website": "http://www.dreamatrix.net/site/index.php",
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Win 10-64 bits/Win 8-64 bits/Win 7-64 bits//Win Vista-64 bits<br></li><li><strong>Processor:</strong> Intel Core 2 Duo 2.2 Ghz or AMD Athlon 64 X2 5000+<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> 512 Mb RAM, supporting Pixel Shader 3.0 (Nvidia GeForce 8800 or ATI Radeon HD3850)<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 8500 MB available space<br></li><li><strong>Sound Card:</strong> DirectSound compatible sound card<br></li><li><strong>Additional Notes:</strong> Game uses resources streaming to avoid loading screens therefore SSD or fast HD is highly recommended</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Win 10-64 bits/Win 8-64 bits/Win 7-64 bits//Win Vista-64 bits<br></li><li><strong>Processor:</strong> Intel Core 2 Quad or AMD Phenom X4<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> 1 Gb RAM, supporting Pixel Shader 3.0 (Nvidia GeForce GTX260 or ATI Radeon HD4850)<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 8500 MB available space<br></li><li><strong>Sound Card:</strong> DirectSound compatible sound card<br></li><li><strong>Additional Notes:</strong> Game uses resources streaming to avoid loading screens therefore SSD or fast HD is highly recommended</li></ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "legal_notice": "Copyright © 2013 Dreamatrix. Developed by Dreamatrix. All rights reserved.",
+            "developers": [
+                "Dreamatrix"
+            ],
+            "publishers": [
+                "Dreamatrix"
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 2799,
+                "final": 2799,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "27,99€"
+            },
+            "packages": [
+                78831
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Legends of Dawn Reborn",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 78831,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Legends of Dawn Reborn - 27,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 2799
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 22,
+                    "description": "Steam Achievements"
+                },
+                {
+                    "id": 29,
+                    "description": "Steam Trading Cards"
+                },
+                {
+                    "id": 15,
+                    "description": "Stats"
+                },
+                {
+                    "id": 17,
+                    "description": "Includes level editor"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "1",
+                    "description": "Action"
+                },
+                {
+                    "id": "25",
+                    "description": "Adventure"
+                },
+                {
+                    "id": "23",
+                    "description": "Indie"
+                },
+                {
+                    "id": "3",
+                    "description": "RPG"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/403200/ss_96439bb00c1b61dfaca6b39117bfe1ab25c1bcda.600x338.jpg?t=1447378065",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/403200/ss_96439bb00c1b61dfaca6b39117bfe1ab25c1bcda.1920x1080.jpg?t=1447378065"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/403200/ss_b348fae3b14b8ecd5cc11de8adc7966de5c5a90d.600x338.jpg?t=1447378065",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/403200/ss_b348fae3b14b8ecd5cc11de8adc7966de5c5a90d.1920x1080.jpg?t=1447378065"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/403200/ss_d87b6467fc35f5956f2b8837af6cdf3a33db92b1.600x338.jpg?t=1447378065",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/403200/ss_d87b6467fc35f5956f2b8837af6cdf3a33db92b1.1920x1080.jpg?t=1447378065"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/403200/ss_a1a7449548efb7865722434e441b41e06dd63ad0.600x338.jpg?t=1447378065",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/403200/ss_a1a7449548efb7865722434e441b41e06dd63ad0.1920x1080.jpg?t=1447378065"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/403200/ss_cb32c4b1d2733e254333e3976dddaacc4418ebc7.600x338.jpg?t=1447378065",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/403200/ss_cb32c4b1d2733e254333e3976dddaacc4418ebc7.1920x1080.jpg?t=1447378065"
+                },
+                {
+                    "id": 5,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/403200/ss_30eecd562ed1d9000b3e15897b57565ba3163086.600x338.jpg?t=1447378065",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/403200/ss_30eecd562ed1d9000b3e15897b57565ba3163086.1920x1080.jpg?t=1447378065"
+                },
+                {
+                    "id": 6,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/403200/ss_1293ec6e5b34a387ecba5821bec04a7767db37db.600x338.jpg?t=1447378065",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/403200/ss_1293ec6e5b34a387ecba5821bec04a7767db37db.1920x1080.jpg?t=1447378065"
+                },
+                {
+                    "id": 7,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/403200/ss_a5476c5b26c44523167566885789ca2c0d5b68b5.600x338.jpg?t=1447378065",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/403200/ss_a5476c5b26c44523167566885789ca2c0d5b68b5.1920x1080.jpg?t=1447378065"
+                },
+                {
+                    "id": 8,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/403200/ss_c2d6763590cd7490e40abb4f1a2cb61e405aeac7.600x338.jpg?t=1447378065",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/403200/ss_c2d6763590cd7490e40abb4f1a2cb61e405aeac7.1920x1080.jpg?t=1447378065"
+                },
+                {
+                    "id": 9,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/403200/ss_abb463f51602ac4b76d2abc47dddf564a0d02181.600x338.jpg?t=1447378065",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/403200/ss_abb463f51602ac4b76d2abc47dddf564a0d02181.1920x1080.jpg?t=1447378065"
+                },
+                {
+                    "id": 10,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/403200/ss_419626599aa979e74a8ef97f7105b424015600f8.600x338.jpg?t=1447378065",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/403200/ss_419626599aa979e74a8ef97f7105b424015600f8.1920x1080.jpg?t=1447378065"
+                },
+                {
+                    "id": 11,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/403200/ss_6dd10945d1959fdffe8f5b35f77405ab95582db1.600x338.jpg?t=1447378065",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/403200/ss_6dd10945d1959fdffe8f5b35f77405ab95582db1.1920x1080.jpg?t=1447378065"
+                },
+                {
+                    "id": 12,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/403200/ss_861f990792b22a1a2d1fe844156cf464487d81c5.600x338.jpg?t=1447378065",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/403200/ss_861f990792b22a1a2d1fe844156cf464487d81c5.1920x1080.jpg?t=1447378065"
+                },
+                {
+                    "id": 13,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/403200/ss_cae8d6ee6f5b676df185b8492f42ab7340a92ed8.600x338.jpg?t=1447378065",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/403200/ss_cae8d6ee6f5b676df185b8492f42ab7340a92ed8.1920x1080.jpg?t=1447378065"
+                },
+                {
+                    "id": 14,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/403200/ss_0a773ab9e1acefa09dce84ec1108b1abd096c83e.600x338.jpg?t=1447378065",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/403200/ss_0a773ab9e1acefa09dce84ec1108b1abd096c83e.1920x1080.jpg?t=1447378065"
+                },
+                {
+                    "id": 15,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/403200/ss_f7d95d67f3b678341934fb6fb261e3eaf413c33a.600x338.jpg?t=1447378065",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/403200/ss_f7d95d67f3b678341934fb6fb261e3eaf413c33a.1920x1080.jpg?t=1447378065"
+                },
+                {
+                    "id": 16,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/403200/ss_f84d89d71ffc326d5c089afb748fc08d4eded4f3.600x338.jpg?t=1447378065",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/403200/ss_f84d89d71ffc326d5c089afb748fc08d4eded4f3.1920x1080.jpg?t=1447378065"
+                },
+                {
+                    "id": 17,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/403200/ss_c50192be9c536e8fe12756402c81c69abd50a562.600x338.jpg?t=1447378065",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/403200/ss_c50192be9c536e8fe12756402c81c69abd50a562.1920x1080.jpg?t=1447378065"
+                },
+                {
+                    "id": 18,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/403200/ss_0745790f45513e7e9124aaffc1d89b69e60dae9e.600x338.jpg?t=1447378065",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/403200/ss_0745790f45513e7e9124aaffc1d89b69e60dae9e.1920x1080.jpg?t=1447378065"
+                },
+                {
+                    "id": 19,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/403200/ss_abbc2a83308ccf22a734da049986a9553afbbbab.600x338.jpg?t=1447378065",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/403200/ss_abbc2a83308ccf22a734da049986a9553afbbbab.1920x1080.jpg?t=1447378065"
+                },
+                {
+                    "id": 20,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/403200/ss_4a1bf007f6fa4d5a1b2459f376de37de41ecd75a.600x338.jpg?t=1447378065",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/403200/ss_4a1bf007f6fa4d5a1b2459f376de37de41ecd75a.1920x1080.jpg?t=1447378065"
+                },
+                {
+                    "id": 21,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/403200/ss_bbef4a124fbe9ad128cad081d9418a09e3e89d19.600x338.jpg?t=1447378065",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/403200/ss_bbef4a124fbe9ad128cad081d9418a09e3e89d19.1920x1080.jpg?t=1447378065"
+                },
+                {
+                    "id": 22,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/403200/ss_f5e710132b316cd26943650caef6e550459d4873.600x338.jpg?t=1447378065",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/403200/ss_f5e710132b316cd26943650caef6e550459d4873.1920x1080.jpg?t=1447378065"
+                },
+                {
+                    "id": 23,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/403200/ss_3fcbf54936cee0d4cb02e94a807f00f1339dd86f.600x338.jpg?t=1447378065",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/403200/ss_3fcbf54936cee0d4cb02e94a807f00f1339dd86f.1920x1080.jpg?t=1447378065"
+                },
+                {
+                    "id": 24,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/403200/ss_00a197d130667ead5b1f497cf58658138963ce1a.600x338.jpg?t=1447378065",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/403200/ss_00a197d130667ead5b1f497cf58658138963ce1a.1920x1080.jpg?t=1447378065"
+                },
+                {
+                    "id": 25,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/403200/ss_5fbfa04cd60f63bad3aa7b89769d8ff69c683a48.600x338.jpg?t=1447378065",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/403200/ss_5fbfa04cd60f63bad3aa7b89769d8ff69c683a48.1920x1080.jpg?t=1447378065"
+                },
+                {
+                    "id": 26,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/403200/ss_8ed87e5a20af9b93512f89ebb8ca6c3fb469b889.600x338.jpg?t=1447378065",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/403200/ss_8ed87e5a20af9b93512f89ebb8ca6c3fb469b889.1920x1080.jpg?t=1447378065"
+                },
+                {
+                    "id": 27,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/403200/ss_c648d6f232a2ec4e7beacf1dab3a6caa0a33c4a0.600x338.jpg?t=1447378065",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/403200/ss_c648d6f232a2ec4e7beacf1dab3a6caa0a33c4a0.1920x1080.jpg?t=1447378065"
+                },
+                {
+                    "id": 28,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/403200/ss_0dd3e00c0fbe350c4169ac9b1a49c9101de2400b.600x338.jpg?t=1447378065",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/403200/ss_0dd3e00c0fbe350c4169ac9b1a49c9101de2400b.1920x1080.jpg?t=1447378065"
+                },
+                {
+                    "id": 29,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/403200/ss_b0f2ba3ffe909cc201aeabb9fcda441941aa8605.600x338.jpg?t=1447378065",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/403200/ss_b0f2ba3ffe909cc201aeabb9fcda441941aa8605.1920x1080.jpg?t=1447378065"
+                },
+                {
+                    "id": 30,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/403200/ss_5d9a466604a8fdcc7955c06e8197549112f92cfe.600x338.jpg?t=1447378065",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/403200/ss_5d9a466604a8fdcc7955c06e8197549112f92cfe.1920x1080.jpg?t=1447378065"
+                },
+                {
+                    "id": 31,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/403200/ss_07701a9ebe5962db9b415bef7f6a799950e05926.600x338.jpg?t=1447378065",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/403200/ss_07701a9ebe5962db9b415bef7f6a799950e05926.1920x1080.jpg?t=1447378065"
+                },
+                {
+                    "id": 32,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/403200/ss_d90f61dc1baab38c0a44af1989f9f33cb7e7a4ea.600x338.jpg?t=1447378065",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/403200/ss_d90f61dc1baab38c0a44af1989f9f33cb7e7a4ea.1920x1080.jpg?t=1447378065"
+                },
+                {
+                    "id": 33,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/403200/ss_42963e940df40d77ca60ecd10957e7266ec8fbc3.600x338.jpg?t=1447378065",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/403200/ss_42963e940df40d77ca60ecd10957e7266ec8fbc3.1920x1080.jpg?t=1447378065"
+                },
+                {
+                    "id": 34,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/403200/ss_880818b99273750d5494710d8ba203ed9414a206.600x338.jpg?t=1447378065",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/403200/ss_880818b99273750d5494710d8ba203ed9414a206.1920x1080.jpg?t=1447378065"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 256656741,
+                    "name": "LegendsOfDawn720ingametrailer",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256656741/movie.293x165.jpg?t=1447378245",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256656741/movie480.webm?t=1447378245",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256656741/movie_max.webm?t=1447378245"
+                    },
+                    "highlight": true
+                }
+            ],
+            "achievements": {
+                "total": 143,
+                "highlighted": [
+                    {
+                        "name": "Master of Blades",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/403200/d69b281d02f32b7baf22067faca47c01d1559106.jpg"
+                    },
+                    {
+                        "name": "Master of Maces",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/403200/d69b281d02f32b7baf22067faca47c01d1559106.jpg"
+                    },
+                    {
+                        "name": "Master of Axes",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/403200/d69b281d02f32b7baf22067faca47c01d1559106.jpg"
+                    },
+                    {
+                        "name": "Master of Polearms",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/403200/d69b281d02f32b7baf22067faca47c01d1559106.jpg"
+                    },
+                    {
+                        "name": "Killer",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/403200/4e2f616b848f01273ba0c4f815a5ea6453cfd944.jpg"
+                    },
+                    {
+                        "name": "Survivor",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/403200/4e2f616b848f01273ba0c4f815a5ea6453cfd944.jpg"
+                    },
+                    {
+                        "name": "Destroyer",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/403200/4e2f616b848f01273ba0c4f815a5ea6453cfd944.jpg"
+                    },
+                    {
+                        "name": "Vanquisher of Darkness",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/403200/b7d46c4d9b00770728588a7c7e5660917690c7fe.jpg"
+                    },
+                    {
+                        "name": "Conqueror of Darkness",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/403200/b7d46c4d9b00770728588a7c7e5660917690c7fe.jpg"
+                    },
+                    {
+                        "name": "Destroyer of the Deep",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/403200/b7d46c4d9b00770728588a7c7e5660917690c7fe.jpg"
+                    }
+                ]
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "20 Oct, 2015"
+            },
+            "support_info": {
+                "url": "http://www.dreamatrix.net",
+                "email": "support@dreamatrix.net"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/403200/page_bg_generated_v6b.jpg?t=1447378065",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

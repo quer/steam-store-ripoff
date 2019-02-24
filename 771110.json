@@ -1,0 +1,193 @@
+{
+    "771110": {
+        "success": true,
+        "data": {
+            "type": "dlc",
+            "name": "Zaccaria Pinball - Zankor 2017 Table",
+            "steam_appid": 771110,
+            "required_age": 0,
+            "is_free": false,
+            "controller_support": "full",
+            "detailed_description": "Purchase this DLC disables score limit on this table!<br><br><strong>Zankor 2017</strong><br><br><u>Information:</u><br><ul class=\"bb_ul\"><li>Name: Zankor<br></li><li>Theme: Jungle<br></li><li>Production year: 2017<br></li><li>Type: Solid State (SS)</li></ul><br><u>Features:</u><br><ul class=\"bb_ul\"><li>1 playfield<br></li><li>2 flippers<br></li><li>3 pop bumpers<br></li><li>2 eject holes<br></li><li>4 ramps<br></li><li>2-bank spot targets (2)<br></li><li>3-bank spot targets (1)</li></ul>",
+            "about_the_game": "Purchase this DLC disables score limit on this table!<br><br><strong>Zankor 2017</strong><br><br><u>Information:</u><br><ul class=\"bb_ul\"><li>Name: Zankor<br></li><li>Theme: Jungle<br></li><li>Production year: 2017<br></li><li>Type: Solid State (SS)</li></ul><br><u>Features:</u><br><ul class=\"bb_ul\"><li>1 playfield<br></li><li>2 flippers<br></li><li>3 pop bumpers<br></li><li>2 eject holes<br></li><li>4 ramps<br></li><li>2-bank spot targets (2)<br></li><li>3-bank spot targets (1)</li></ul>",
+            "short_description": "Zankor 2017 Table is a modernized version of the original Zankor table from 1986.",
+            "fullgame": {
+                "appid": "444930",
+                "name": "Zaccaria Pinball"
+            },
+            "supported_languages": "English",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/771110/header.jpg?t=1513616619",
+            "website": null,
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 / Windows 8 / Windows 10<br></li><li><strong>Processor:</strong> Dual Core 1.6 GHz or better<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD Graphics 3000 or equivalent<br></li><li><strong>Storage:</strong> 1 GB available space<br></li><li><strong>Sound Card:</strong> Windows compatible sound card</li></ul>"
+            },
+            "mac_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OS X 10.12<br></li><li><strong>Processor:</strong> Dual Core 1.6 GHz or better<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD Graphics 3000 or equivalent<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
+            },
+            "linux_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 14.04 or SteamOS 2.0 (64 bit)<br></li><li><strong>Processor:</strong> Dual Core 1.6 GHz or better<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD Graphics 3000 or equivalent<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
+            },
+            "developers": [
+                "Magic Pixel Kft."
+            ],
+            "publishers": [
+                ""
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 299,
+                "final": 299,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "2,99€"
+            },
+            "packages": [
+                230337
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Zaccaria Pinball - Zankor 2017 Table",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 230337,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Zaccaria Pinball - Zankor 2017 Table - 2,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 299
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": true,
+                "linux": true
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 1,
+                    "description": "Multi-player"
+                },
+                {
+                    "id": 36,
+                    "description": "Online Multi-Player"
+                },
+                {
+                    "id": 37,
+                    "description": "Local Multi-Player"
+                },
+                {
+                    "id": 24,
+                    "description": "Shared/Split Screen"
+                },
+                {
+                    "id": 27,
+                    "description": "Cross-Platform Multiplayer"
+                },
+                {
+                    "id": 21,
+                    "description": "Downloadable Content"
+                },
+                {
+                    "id": 22,
+                    "description": "Steam Achievements"
+                },
+                {
+                    "id": 28,
+                    "description": "Full controller support"
+                },
+                {
+                    "id": 29,
+                    "description": "Steam Trading Cards"
+                },
+                {
+                    "id": 23,
+                    "description": "Steam Cloud"
+                },
+                {
+                    "id": 25,
+                    "description": "Steam Leaderboards"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "1",
+                    "description": "Action"
+                },
+                {
+                    "id": "4",
+                    "description": "Casual"
+                },
+                {
+                    "id": "37",
+                    "description": "Free to Play"
+                },
+                {
+                    "id": "23",
+                    "description": "Indie"
+                },
+                {
+                    "id": "28",
+                    "description": "Simulation"
+                },
+                {
+                    "id": "18",
+                    "description": "Sports"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/771110/ss_450a8955ac1c52226fc9bbfb371687492e6a5ab8.600x338.jpg?t=1513616619",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/771110/ss_450a8955ac1c52226fc9bbfb371687492e6a5ab8.1920x1080.jpg?t=1513616619"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/771110/ss_9c535af186ef6bfbbc2b10352e7b19c60eb966dd.600x338.jpg?t=1513616619",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/771110/ss_9c535af186ef6bfbbc2b10352e7b19c60eb966dd.1920x1080.jpg?t=1513616619"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/771110/ss_b8b323c563486f6998bbbea210a6912e4c98d746.600x338.jpg?t=1513616619",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/771110/ss_b8b323c563486f6998bbbea210a6912e4c98d746.1920x1080.jpg?t=1513616619"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/771110/ss_60b0238320796f1117360ebc6a4d4c0b804c047a.600x338.jpg?t=1513616619",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/771110/ss_60b0238320796f1117360ebc6a4d4c0b804c047a.1920x1080.jpg?t=1513616619"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/771110/ss_35bda9eb528228c2adbcee6310063820ea605698.600x338.jpg?t=1513616619",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/771110/ss_35bda9eb528228c2adbcee6310063820ea605698.1920x1080.jpg?t=1513616619"
+                }
+            ],
+            "release_date": {
+                "coming_soon": false,
+                "date": "18 Dec, 2017"
+            },
+            "support_info": {
+                "url": "",
+                "email": "contact.magicpixel2012@gmail.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/771110/page_bg_generated_v6b.jpg?t=1513616619",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

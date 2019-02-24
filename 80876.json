@@ -1,0 +1,78 @@
+{
+    "80876": {
+        "success": true,
+        "data": {
+            "type": "movie",
+            "name": "Battle vs. Chess Ingame Trailer",
+            "steam_appid": 80876,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "",
+            "about_the_game": "",
+            "short_description": "",
+            "fullgame": {
+                "appid": "211050",
+                "name": "Battle vs Chess"
+            },
+            "supported_languages": "English, French, German, Hungarian, Italian, Polish, Russian, Spanish - Spain",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/80876/header.jpg?t=1447354262",
+            "website": "http://www.battlevschess.com",
+            "pc_requirements": [],
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "developers": [
+                "Targem Games"
+            ],
+            "publishers": [
+                "ZUXXEZ Entertainment AG"
+            ],
+            "package_groups": [],
+            "platforms": {
+                "windows": true,
+                "mac": true,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 1,
+                    "description": "Multi-player"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "4",
+                    "description": "Casual"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 80876,
+                    "name": "Battle vs. Chess Ingame Trailer",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/80876/movie.293x165.jpg?t=1447354262",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/80876/movie480.webm?t=1447354262",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/80876/movie_max.webm?t=1447354262"
+                    },
+                    "highlight": false
+                }
+            ],
+            "release_date": {
+                "coming_soon": false,
+                "date": "3 Aug, 2012"
+            },
+            "support_info": {
+                "url": "",
+                "email": ""
+            },
+            "background": "",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

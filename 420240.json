@@ -1,0 +1,122 @@
+{
+    "420240": {
+        "success": true,
+        "data": {
+            "type": "dlc",
+            "name": "Monster RPG 1",
+            "steam_appid": 420240,
+            "required_age": 0,
+            "is_free": true,
+            "detailed_description": "The original Monster RPG game. This game was originally released for free in 2007. It's a turn-based JRPG like the sequels. For the sake of completing the series, and due to request, it has been released as free DLC here on Steam. Playing this game is not required to play Monster RPG 2  or Monster RPG 3 (the stories are not connected.)<br />\r\n<br />\r\nThe story sees Coro searching for his son Eny who has gone missing. You must battle your way through the mountains to uncover clues. Monsters are afoot, so it won't be easy.",
+            "about_the_game": "The original Monster RPG game. This game was originally released for free in 2007. It's a turn-based JRPG like the sequels. For the sake of completing the series, and due to request, it has been released as free DLC here on Steam. Playing this game is not required to play Monster RPG 2  or Monster RPG 3 (the stories are not connected.)<br />\r\n<br />\r\nThe story sees Coro searching for his son Eny who has gone missing. You must battle your way through the mountains to uncover clues. Monsters are afoot, so it won't be easy.",
+            "short_description": "The first game in the Monster RPG series follows a father searching for his missing son.",
+            "fullgame": {
+                "appid": "409370",
+                "name": "Monster RPG 2"
+            },
+            "supported_languages": "English",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/420240/header.jpg?t=1545365263",
+            "website": "https://nooskewl.ca/monster",
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP or later<br></li><li><strong>Processor:</strong> 200 MHz<br></li><li><strong>Memory:</strong> 64 MB RAM<br></li><li><strong>DirectX:</strong> Version 7.0<br></li><li><strong>Storage:</strong> 10 MB available space</li></ul>"
+            },
+            "mac_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> macOS 10.6 to 10.12<br></li><li><strong>Processor:</strong> Intel<br></li><li><strong>Memory:</strong> 64 MB RAM<br></li><li><strong>Storage:</strong> 10 MB available space<br></li><li><strong>Additional Notes:</strong> macOS 10.13+ not supported</li></ul>"
+            },
+            "linux_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 14.04 LTS and up<br></li><li><strong>Processor:</strong> 200 MHz<br></li><li><strong>Memory:</strong> 64 MB RAM<br></li><li><strong>Graphics:</strong> Uses XFree86-DGA extension<br></li><li><strong>Storage:</strong> 10 MB available space<br></li><li><strong>Sound Card:</strong> OSS - use padsp on modern Linux</li></ul>"
+            },
+            "legal_notice": "© 2018 Nooskewl",
+            "developers": [
+                "Nooskewl"
+            ],
+            "publishers": [
+                "Nooskewl"
+            ],
+            "packages": [
+                85442
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Monster RPG 1",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 85442,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Monster RPG 1 - Free",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": true,
+                            "price_in_cents_with_discount": 99
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": true,
+                "linux": true
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 21,
+                    "description": "Downloadable Content"
+                },
+                {
+                    "id": 13,
+                    "description": "Captions available"
+                },
+                {
+                    "id": 18,
+                    "description": "Partial Controller Support"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "23",
+                    "description": "Indie"
+                },
+                {
+                    "id": "3",
+                    "description": "RPG"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/420240/ss_8654bc97a3418af81dd97b231ffaaecaa0cd0317.600x338.jpg?t=1545365263",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/420240/ss_8654bc97a3418af81dd97b231ffaaecaa0cd0317.1920x1080.jpg?t=1545365263"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/420240/ss_2b59ed2e336e34e7f80cf19df37ace4b465a0e8f.600x338.jpg?t=1545365263",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/420240/ss_2b59ed2e336e34e7f80cf19df37ace4b465a0e8f.1920x1080.jpg?t=1545365263"
+                }
+            ],
+            "release_date": {
+                "coming_soon": false,
+                "date": "16 Nov, 2015"
+            },
+            "support_info": {
+                "url": "https://nooskewl.ca/contact",
+                "email": "contact@nooskewl.ca"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/420240/page_bg_generated_v6b.jpg?t=1545365263",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

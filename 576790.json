@@ -1,0 +1,161 @@
+{
+    "576790": {
+        "success": true,
+        "data": {
+            "type": "game",
+            "name": "Mesh Maker VR",
+            "steam_appid": 576790,
+            "required_age": 0,
+            "is_free": true,
+            "detailed_description": "Mesh Maker VR is an intuitive, easy to use, and easy to learn VR 3d modeling tool based on vertices. Nearly zero learning curve. Just hop into VR and start making 3d models.<br><br>MMVR is a 100% open source MIT licensed product. Check us out on github: <a href=\"https://steamcommunity.com/linkfilter/?url=https://github.com/createthis/mesh_maker_vr\" target=\"_blank\" rel=\"noopener\"  >https://github.com/createthis/mesh_maker_vr</a><br>MMVR UI is also 100% open source with an MIT license. Check it out too: <a href=\"https://steamcommunity.com/linkfilter/?url=https://github.com/createthis/createthis_vr_ui\" target=\"_blank\" rel=\"noopener\"  >https://github.com/createthis/createthis_vr_ui</a><h2 class=\"bb_tag\">Current Features / ChangeLog</h2><ul class=\"bb_ul\"><li> Save As - 5/16/2017<br></li><li> User Interface (UI) for Load OBJ, including directory traversal - 4/28/2017<br></li><li> Ability to change skybox from Settings (stars, blue sky, and sunset as the first three choices). - 4/1/2017<br></li><li> Eye dropper tool (Tools -&gt; Triangles -&gt; Pick Color) - 3/28/2017<br></li><li> Triangle multi-select mode - 3/24/2017<br></li><li> Fill Tool (ability to color faces) - 3/23/2017<br></li><li> Sphere Primitives - 3/6/2017<br></li><li> Lock Reference Images - 3/3/2017 (allows placing vertices directly on reference image for easy extrusions)<br></li><li> Cylinder Primitives - 2/28/2017<br></li><li> Circle Primitives - 2/22/2017<br></li><li> 3d Tracing Mode - 2/3/2017<br></li><li> Box Select - 1/29/2017<br></li><li> Box Primitives - 1/27/2017<br></li><li> Selection Flip Normals - 1/27/2017<br></li><li> Extrude Face - 1/26/2017<br></li><li> Merge Vertices - 1/26/2017<br></li><li> Plane Primitives - 1/25/2017<br></li><li> Rotation Snapping - 1/25/2017<br></li><li> Multiselect &amp; Copy/Paste - 1/22/2017<br></li><li> Reference Images - 1/16/2017 (top.png, bottom.png, left.png, right.png, front.png, back.png in same folder as executable)<br></li><li> Alignment Tools - 1/16/2017<br></li><li> Object scaling for easy work positioning - 1/19/2017<br></li><li> Settings saved as JSON - 1/16/2017<br></li><li> Ability to adjust snap spacing from Settings - 1/8/2017<br></li><li> Wavefront OBJ Load/Save (no UI for load yet - loads &quot;load.obj&quot; on startup. Save has simple button in radial menu.)<br></li><li> Vertex Create/Move/Delete<br></li><li> Face Create/Delete/Flip<br></li><li> Snapping for Vertex Create/Move<br></li><li> Object rotation and movement for easy work positioning<br></li><li> Teleporting for easy work positioning</li></ul><h2 class=\"bb_tag\">Roadmap</h2>Features will be implemented over time according to their priority. Urgent priority first, then High priority.<br><br><strong>Urgent priority:</strong><br><ol><li> Extrude Along Normal button (locked extrusion axis)<br></li><li> Hide snap 3d crosshair lines unless they hit something<br></li><li> Make snap crosshair disappear when near Tool/Settings Panel &quot;airspace&quot;<br></li><li> Edge extrusion<br></li><li> Mirror/symmetry plane</li></ol>Note: completion of Urgent priority items will be followed by a $5 price increase.<br><br><strong>High priority:</strong><br><ol><li> Subdivide<br></li><li> Proportional Editing Tool</li></ol>Note: completion of High priority items will be followed by a $5 price increase and officially end Early Access status.",
+            "about_the_game": "Mesh Maker VR is an intuitive, easy to use, and easy to learn VR 3d modeling tool based on vertices. Nearly zero learning curve. Just hop into VR and start making 3d models.<br><br>MMVR is a 100% open source MIT licensed product. Check us out on github: <a href=\"https://steamcommunity.com/linkfilter/?url=https://github.com/createthis/mesh_maker_vr\" target=\"_blank\" rel=\"noopener\"  >https://github.com/createthis/mesh_maker_vr</a><br>MMVR UI is also 100% open source with an MIT license. Check it out too: <a href=\"https://steamcommunity.com/linkfilter/?url=https://github.com/createthis/createthis_vr_ui\" target=\"_blank\" rel=\"noopener\"  >https://github.com/createthis/createthis_vr_ui</a><h2 class=\"bb_tag\">Current Features / ChangeLog</h2><ul class=\"bb_ul\"><li> Save As - 5/16/2017<br></li><li> User Interface (UI) for Load OBJ, including directory traversal - 4/28/2017<br></li><li> Ability to change skybox from Settings (stars, blue sky, and sunset as the first three choices). - 4/1/2017<br></li><li> Eye dropper tool (Tools -&gt; Triangles -&gt; Pick Color) - 3/28/2017<br></li><li> Triangle multi-select mode - 3/24/2017<br></li><li> Fill Tool (ability to color faces) - 3/23/2017<br></li><li> Sphere Primitives - 3/6/2017<br></li><li> Lock Reference Images - 3/3/2017 (allows placing vertices directly on reference image for easy extrusions)<br></li><li> Cylinder Primitives - 2/28/2017<br></li><li> Circle Primitives - 2/22/2017<br></li><li> 3d Tracing Mode - 2/3/2017<br></li><li> Box Select - 1/29/2017<br></li><li> Box Primitives - 1/27/2017<br></li><li> Selection Flip Normals - 1/27/2017<br></li><li> Extrude Face - 1/26/2017<br></li><li> Merge Vertices - 1/26/2017<br></li><li> Plane Primitives - 1/25/2017<br></li><li> Rotation Snapping - 1/25/2017<br></li><li> Multiselect &amp; Copy/Paste - 1/22/2017<br></li><li> Reference Images - 1/16/2017 (top.png, bottom.png, left.png, right.png, front.png, back.png in same folder as executable)<br></li><li> Alignment Tools - 1/16/2017<br></li><li> Object scaling for easy work positioning - 1/19/2017<br></li><li> Settings saved as JSON - 1/16/2017<br></li><li> Ability to adjust snap spacing from Settings - 1/8/2017<br></li><li> Wavefront OBJ Load/Save (no UI for load yet - loads &quot;load.obj&quot; on startup. Save has simple button in radial menu.)<br></li><li> Vertex Create/Move/Delete<br></li><li> Face Create/Delete/Flip<br></li><li> Snapping for Vertex Create/Move<br></li><li> Object rotation and movement for easy work positioning<br></li><li> Teleporting for easy work positioning</li></ul><h2 class=\"bb_tag\">Roadmap</h2>Features will be implemented over time according to their priority. Urgent priority first, then High priority.<br><br><strong>Urgent priority:</strong><br><ol><li> Extrude Along Normal button (locked extrusion axis)<br></li><li> Hide snap 3d crosshair lines unless they hit something<br></li><li> Make snap crosshair disappear when near Tool/Settings Panel &quot;airspace&quot;<br></li><li> Edge extrusion<br></li><li> Mirror/symmetry plane</li></ol>Note: completion of Urgent priority items will be followed by a $5 price increase.<br><br><strong>High priority:</strong><br><ol><li> Subdivide<br></li><li> Proportional Editing Tool</li></ol>Note: completion of High priority items will be followed by a $5 price increase and officially end Early Access status.",
+            "short_description": "Mesh Maker VR is an intuitive, easy to use, and easy to learn VR 3d modeling tool based on vertices. Nearly zero learning curve. Just hop into VR and start making 3d models.",
+            "supported_languages": "English",
+            "reviews": "“0.06% of the cost but 0.2% of the power!”<br />\r\nBobotheClown<br />\r\n",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/576790/header.jpg?t=1499738414",
+            "website": null,
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 SP1 or newer<br></li><li><strong>Processor:</strong> Intel Core i5 4590 or greater<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> GeForce GTX 970 or AMD Radeon R9 290 or better<br></li><li><strong>Storage:</strong> 37 MB available space</li></ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "developers": [
+                "CreateThis.com"
+            ],
+            "publishers": [
+                "CreateThis.com"
+            ],
+            "package_groups": [],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "genres": [
+                {
+                    "id": "51",
+                    "description": "Animation & Modeling"
+                },
+                {
+                    "id": "70",
+                    "description": "Early Access"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/576790/ss_9a52264c5ef458edb9a39df9602d866ae4d74afc.600x338.jpg?t=1499738414",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/576790/ss_9a52264c5ef458edb9a39df9602d866ae4d74afc.1920x1080.jpg?t=1499738414"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/576790/ss_f423f0d72bbe8d7936b0c25139fad25cd8cba74c.600x338.jpg?t=1499738414",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/576790/ss_f423f0d72bbe8d7936b0c25139fad25cd8cba74c.1920x1080.jpg?t=1499738414"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/576790/ss_e9a0ae7678df4d86b7066feff74a37123d075791.600x338.jpg?t=1499738414",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/576790/ss_e9a0ae7678df4d86b7066feff74a37123d075791.1920x1080.jpg?t=1499738414"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/576790/ss_873ac65ed07ae0c7392877c4c772a2e34fc3ef90.600x338.jpg?t=1499738414",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/576790/ss_873ac65ed07ae0c7392877c4c772a2e34fc3ef90.1920x1080.jpg?t=1499738414"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/576790/ss_2f2bdb11e7111502127c3c7013f3d6a2ae0495dc.600x338.jpg?t=1499738414",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/576790/ss_2f2bdb11e7111502127c3c7013f3d6a2ae0495dc.1920x1080.jpg?t=1499738414"
+                },
+                {
+                    "id": 5,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/576790/ss_1c4c3329854e378ede66a989d4e5850e2a85d213.600x338.jpg?t=1499738414",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/576790/ss_1c4c3329854e378ede66a989d4e5850e2a85d213.1920x1080.jpg?t=1499738414"
+                },
+                {
+                    "id": 6,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/576790/ss_0feea49596c6b01b77c46325dfbc9ca63e54b428.600x338.jpg?t=1499738414",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/576790/ss_0feea49596c6b01b77c46325dfbc9ca63e54b428.1920x1080.jpg?t=1499738414"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 256685189,
+                    "name": "UX Improvements",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256685189/movie.293x165.jpg?t=1495077745",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256685189/movie480.webm?t=1495077745",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256685189/movie_max.webm?t=1495077745"
+                    },
+                    "highlight": true
+                },
+                {
+                    "id": 256682532,
+                    "name": "Colors, Sky, and Primitives",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256682532/movie.293x165.jpg?t=1491192033",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256682532/movie480.webm?t=1491192033",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256682532/movie_max.webm?t=1491192033"
+                    },
+                    "highlight": true
+                },
+                {
+                    "id": 256679011,
+                    "name": "3d scanner mode trailer",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256679011/movie.293x165.jpg?t=1486163356",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256679011/movie480.webm?t=1486163356",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256679011/movie_max.webm?t=1486163356"
+                    },
+                    "highlight": true
+                },
+                {
+                    "id": 256678878,
+                    "name": "Extrude, Copy/Paste, Rotational Snapping, and More",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256678878/movie.293x165.jpg?t=1485982269",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256678878/movie480.webm?t=1485982269",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256678878/movie_max.webm?t=1485982269"
+                    },
+                    "highlight": true
+                },
+                {
+                    "id": 256678011,
+                    "name": "Reference Images",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256678011/movie.293x165.jpg?t=1484616501",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256678011/movie480.webm?t=1484616501",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256678011/movie_max.webm?t=1484616501"
+                    },
+                    "highlight": true
+                },
+                {
+                    "id": 256677333,
+                    "name": "Steam Trailer",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256677333/movie.293x165.jpg?t=1483378597",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256677333/movie480.webm?t=1483378597",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256677333/movie_max.webm?t=1483378597"
+                    },
+                    "highlight": true
+                }
+            ],
+            "achievements": {
+                "total": 0
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "4 Jan, 2017"
+            },
+            "support_info": {
+                "url": "",
+                "email": "jesse@createthis.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/576790/page_bg_generated_v6b.jpg?t=1499738414",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

@@ -1,0 +1,97 @@
+{
+    "530431": {
+        "success": true,
+        "data": {
+            "type": "episode",
+            "name": "Battle Disc: Ken's Determination!",
+            "steam_appid": 530431,
+            "required_age": 0,
+            "is_free": false,
+            "controller_support": "full",
+            "detailed_description": "",
+            "about_the_game": "",
+            "short_description": "Though Ken and his partner escape from the underground, they run into Gordon once again. Gordon and Ace have a new Beast Disc, Alloy Beast, and they plan to defeat our Heroes. is this the end of Ken's journey?",
+            "fullgame": {
+                "appid": "530400",
+                "name": "Battle Disc"
+            },
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/530431/header.jpg?t=1476465728",
+            "website": null,
+            "pc_requirements": [],
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "publishers": [
+                ""
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 99,
+                "final": 99,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "0,99€"
+            },
+            "packages": [
+                127675
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Battle Disc: Ken's Determination!",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 127675,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Battle Disc: Ken's Determination! - 0,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 99
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 28,
+                    "description": "Full controller support"
+                },
+                {
+                    "id": 33,
+                    "description": "Native Steam Controller Support"
+                },
+                {
+                    "id": 13,
+                    "description": "Captions available"
+                }
+            ],
+            "achievements": {
+                "total": 0
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "14 Oct, 2016"
+            },
+            "support_info": {
+                "url": "",
+                "email": ""
+            },
+            "background": "",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

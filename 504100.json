@@ -1,0 +1,230 @@
+{
+    "504100": {
+        "success": true,
+        "data": {
+            "type": "game",
+            "name": "Russian VR Coasters",
+            "steam_appid": 504100,
+            "required_age": 0,
+            "is_free": false,
+            "controller_support": "full",
+            "detailed_description": "<h1>American VR Coasters</h1><p>Collection of American VR Coasters. Experience 4 types of different VR Coasters that will bring you new amazing impressions!<br><a href=\"http://store.steampowered.com/app/610260/American_VR_Coasters/\" target=\"_blank\" rel=\"noreferrer\"  ><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/504100/extras/capsule_main.png?t=1511112871\" ></a></p><br><h1>About the Game</h1><h2 class=\"bb_tag\">Collection of Russian VR Coasters</h2><br>Experience 4 types of different VR Coasters that will bring you new amazing impressions!<h2 class=\"bb_tag\">Russian Zombies Coaster</h2><br>Extreme Coaster in the city in the times of the zombie apocalypse. Dizzy turns, cruel bloody zombie and lots of tearing adrenaline are waiting for you!<h2 class=\"bb_tag\">Russian Coaster in the Castle</h2><br>Take a ride from the highest tower of the castle, which raises over the local village. Steep descent and vertiginous jump are waiting for you!<h2 class=\"bb_tag\">Russian Coaster in the Andes</h2><br>You will rush close to a huge gap, soar above the alpine village and see the stunning mountain scenery!<h2 class=\"bb_tag\">Russian Coaster in Space</h2><br>Stunning coasters in the depths of the infinite universe! Expansion of space, delightful atmosphere and steep turns!<h2 class=\"bb_tag\">Controls (Keyboard/GamePad):</h2><br>- &quot;R&quot; / &quot;Y&quot; button - recenter;<br>- &quot;Esc&quot; / &quot;B&quot; button - back to main menu;",
+            "about_the_game": "<h2 class=\"bb_tag\">Collection of Russian VR Coasters</h2><br>Experience 4 types of different VR Coasters that will bring you new amazing impressions!<h2 class=\"bb_tag\">Russian Zombies Coaster</h2><br>Extreme Coaster in the city in the times of the zombie apocalypse. Dizzy turns, cruel bloody zombie and lots of tearing adrenaline are waiting for you!<h2 class=\"bb_tag\">Russian Coaster in the Castle</h2><br>Take a ride from the highest tower of the castle, which raises over the local village. Steep descent and vertiginous jump are waiting for you!<h2 class=\"bb_tag\">Russian Coaster in the Andes</h2><br>You will rush close to a huge gap, soar above the alpine village and see the stunning mountain scenery!<h2 class=\"bb_tag\">Russian Coaster in Space</h2><br>Stunning coasters in the depths of the infinite universe! Expansion of space, delightful atmosphere and steep turns!<h2 class=\"bb_tag\">Controls (Keyboard/GamePad):</h2><br>- &quot;R&quot; / &quot;Y&quot; button - recenter;<br>- &quot;Esc&quot; / &quot;B&quot; button - back to main menu;",
+            "short_description": "Collection of Russian VR Coasters. Experience 4 types of different VR Coasters that will bring you new amazing impressions!",
+            "supported_languages": "English",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/504100/header.jpg?t=1511112871",
+            "website": "http://funnytwins.ru/",
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 SP1<br></li><li><strong>Processor:</strong> Intel i5-4430<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce® GTX 760</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 SP1 or newer<br></li><li><strong>Processor:</strong> Intel i5-4590 or greater<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce® GTX 970 or greater</li></ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "developers": [
+                "Funny Twins"
+            ],
+            "publishers": [
+                "Funny Twins"
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 499,
+                "final": 499,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "4,99€"
+            },
+            "packages": [
+                116003,
+                146375
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Russian VR Coasters",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 116003,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Russian VR Coasters - 4,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 499
+                        }
+                    ]
+                },
+                {
+                    "name": "subscriptions",
+                    "title": "Buy Russian VR Coasters Subscription Plan",
+                    "description": "To be billed on a recurring basis.",
+                    "selection_text": "Select a subscription plan",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "true",
+                    "subs": [
+                        {
+                            "packageid": 146375,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "1 Month(s) @ 11,99€/Month",
+                            "option_description": "<p class=\"game_purchase_subscription\">11,99€ at checkout, auto-renewed every 1 month(s) at 11,99€.</p>",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 1199
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 28,
+                    "description": "Full controller support"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "1",
+                    "description": "Action"
+                },
+                {
+                    "id": "4",
+                    "description": "Casual"
+                },
+                {
+                    "id": "23",
+                    "description": "Indie"
+                },
+                {
+                    "id": "28",
+                    "description": "Simulation"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/504100/ss_e3247ba6e963243780b664e2a90881c55709cb4c.600x338.jpg?t=1511112871",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/504100/ss_e3247ba6e963243780b664e2a90881c55709cb4c.1920x1080.jpg?t=1511112871"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/504100/ss_4b1a32529644b53aa0aa75f32fbc50d6b546b230.600x338.jpg?t=1511112871",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/504100/ss_4b1a32529644b53aa0aa75f32fbc50d6b546b230.1920x1080.jpg?t=1511112871"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/504100/ss_764fcab5f61591e03b77104a9354d8d7a0ca53d1.600x338.jpg?t=1511112871",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/504100/ss_764fcab5f61591e03b77104a9354d8d7a0ca53d1.1920x1080.jpg?t=1511112871"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/504100/ss_a9083d39c958bbe59f6eb86cff219f50987177ef.600x338.jpg?t=1511112871",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/504100/ss_a9083d39c958bbe59f6eb86cff219f50987177ef.1920x1080.jpg?t=1511112871"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/504100/ss_7fedbb3a6f8f5b777e5c8febbc34e7089ef66377.600x338.jpg?t=1511112871",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/504100/ss_7fedbb3a6f8f5b777e5c8febbc34e7089ef66377.1920x1080.jpg?t=1511112871"
+                },
+                {
+                    "id": 5,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/504100/ss_831d2ab4315a73a1f59044f9628faa6c9a13d132.600x338.jpg?t=1511112871",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/504100/ss_831d2ab4315a73a1f59044f9628faa6c9a13d132.1920x1080.jpg?t=1511112871"
+                },
+                {
+                    "id": 6,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/504100/ss_ef8e8d292bcb00e924ef93d4d6e65f2fac9eaac3.600x338.jpg?t=1511112871",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/504100/ss_ef8e8d292bcb00e924ef93d4d6e65f2fac9eaac3.1920x1080.jpg?t=1511112871"
+                },
+                {
+                    "id": 7,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/504100/ss_d72aeeba50fb5f11e6160b1a09212068a5c3e165.600x338.jpg?t=1511112871",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/504100/ss_d72aeeba50fb5f11e6160b1a09212068a5c3e165.1920x1080.jpg?t=1511112871"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 256667642,
+                    "name": "Intro",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256667642/movie.293x165.jpg?t=1469595105",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256667642/movie480.webm?t=1469595105",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256667642/movie_max.webm?t=1469595105"
+                    },
+                    "highlight": true
+                },
+                {
+                    "id": 256667608,
+                    "name": "Castle VR Coaster",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256667608/movie.293x165.jpg?t=1469595125",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256667608/movie480.webm?t=1469595125",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256667608/movie_max.webm?t=1469595125"
+                    },
+                    "highlight": true
+                },
+                {
+                    "id": 256667610,
+                    "name": "Space VR Coaster",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256667610/movie.293x165.jpg?t=1469595150",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256667610/movie480.webm?t=1469595150",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256667610/movie_max.webm?t=1469595150"
+                    },
+                    "highlight": true
+                },
+                {
+                    "id": 256667611,
+                    "name": "Zombies VR Coaster",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256667611/movie.293x165.jpg?t=1469595169",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256667611/movie480.webm?t=1469595169",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256667611/movie_max.webm?t=1469595169"
+                    },
+                    "highlight": true
+                },
+                {
+                    "id": 256667614,
+                    "name": "Ande VR Coaster",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256667614/movie.293x165.jpg?t=1469595191",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256667614/movie480.webm?t=1469595191",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256667614/movie_max.webm?t=1469595191"
+                    },
+                    "highlight": true
+                }
+            ],
+            "achievements": {
+                "total": 0
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "27 Jul, 2016"
+            },
+            "support_info": {
+                "url": "",
+                "email": "support@funnytwins.ru"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/504100/page_bg_generated_v6b.jpg?t=1511112871",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

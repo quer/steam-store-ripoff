@@ -1,0 +1,76 @@
+{
+    "500510": {
+        "success": true,
+        "data": {
+            "type": "demo",
+            "name": "ESCHATOS Demo",
+            "steam_appid": 500510,
+            "required_age": 0,
+            "is_free": true,
+            "controller_support": "full",
+            "detailed_description": "",
+            "about_the_game": "",
+            "short_description": "",
+            "fullgame": {
+                "appid": "378770",
+                "name": "ESCHATOS"
+            },
+            "supported_languages": "English, Japanese",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/500510/header.jpg?t=1472747596",
+            "website": null,
+            "pc_requirements": {
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>Graphics:</strong> NVIDIA GeForce GTX460, AMD RADEON HD5700 or better.</li></ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "developers": [
+                "Qute"
+            ],
+            "publishers": [
+                "Degica"
+            ],
+            "package_groups": [],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 10,
+                    "description": "Game demo"
+                },
+                {
+                    "id": 28,
+                    "description": "Full controller support"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "1",
+                    "description": "Action"
+                }
+            ],
+            "achievements": {
+                "total": 0
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "1 Sep, 2016"
+            },
+            "support_info": {
+                "url": "http://degigames.com/support",
+                "email": ""
+            },
+            "background": "",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

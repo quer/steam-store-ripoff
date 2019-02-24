@@ -1,0 +1,148 @@
+{
+    "720720": {
+        "success": true,
+        "data": {
+            "type": "dlc",
+            "name": "Super Trashforce Artworks",
+            "steam_appid": 720720,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "A bundle of 25 artworks from the artist of the Super Thrashforce",
+            "about_the_game": "A bundle of 25 artworks from the artist of the Super Thrashforce",
+            "short_description": "A bundle of artworks from the artist of the Super Thrashforce",
+            "fullgame": {
+                "appid": "710520",
+                "name": "Super Trashforce"
+            },
+            "supported_languages": "English",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/720720/header.jpg?t=1511378145",
+            "website": null,
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Microsoft® Windows® XP / Vista<br></li><li><strong>Processor:</strong> Any<br></li><li><strong>Memory:</strong> 256 MB RAM<br></li><li><strong>Graphics:</strong> Any<br></li><li><strong>Storage:</strong> 50 MB available space<br></li><li><strong>Sound Card:</strong> Ant</li></ul>"
+            },
+            "mac_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Any<br></li><li><strong>Processor:</strong> Any<br></li><li><strong>Storage:</strong> 50 MB available space</li></ul>"
+            },
+            "linux_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Any<br></li><li><strong>Processor:</strong> Any<br></li><li><strong>Storage:</strong> 50 MB available space</li></ul>"
+            },
+            "developers": [
+                "Crystal Box Team"
+            ],
+            "publishers": [
+                "Dagestan Technology"
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 99,
+                "final": 99,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "0,99€"
+            },
+            "packages": [
+                209110
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Super Trashforce Artworks",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 209110,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Super Trashforce Artworks - 0,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 99
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": true,
+                "linux": true
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 21,
+                    "description": "Downloadable Content"
+                },
+                {
+                    "id": 22,
+                    "description": "Steam Achievements"
+                },
+                {
+                    "id": 14,
+                    "description": "Commentary available"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "1",
+                    "description": "Action"
+                },
+                {
+                    "id": "25",
+                    "description": "Adventure"
+                },
+                {
+                    "id": "23",
+                    "description": "Indie"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/720720/ss_d830ade96aa812a03b02becc586ad78ba04a4b89.600x338.jpg?t=1511378145",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/720720/ss_d830ade96aa812a03b02becc586ad78ba04a4b89.1920x1080.jpg?t=1511378145"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/720720/ss_7a850a037a42d142f08806f3726c4b424b52c4b6.600x338.jpg?t=1511378145",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/720720/ss_7a850a037a42d142f08806f3726c4b424b52c4b6.1920x1080.jpg?t=1511378145"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/720720/ss_93830341af1fe66747c8f5188fa53c2f8909d705.600x338.jpg?t=1511378145",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/720720/ss_93830341af1fe66747c8f5188fa53c2f8909d705.1920x1080.jpg?t=1511378145"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/720720/ss_5832783a3ebd6de3a11e7af9e0c7f4119ee30658.600x338.jpg?t=1511378145",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/720720/ss_5832783a3ebd6de3a11e7af9e0c7f4119ee30658.1920x1080.jpg?t=1511378145"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/720720/ss_97edfceb90d5bd32626c97065abbec274f4b5583.600x338.jpg?t=1511378145",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/720720/ss_97edfceb90d5bd32626c97065abbec274f4b5583.1920x1080.jpg?t=1511378145"
+                }
+            ],
+            "release_date": {
+                "coming_soon": false,
+                "date": "22 Nov, 2017"
+            },
+            "support_info": {
+                "url": "http://www.dagestantechnology.ru/",
+                "email": "dagestan.technology@gmail.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/720720/page_bg_generated_v6b.jpg?t=1511378145",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

@@ -1,0 +1,113 @@
+{
+    "359492": {
+        "success": true,
+        "data": {
+            "type": "dlc",
+            "name": "1 Blue Orb",
+            "steam_appid": 359492,
+            "required_age": "16",
+            "is_free": false,
+            "detailed_description": "Get 1 Blue Orb to boost your maximum vitality by 1,000 points.<br />\r\nNote: There are 14 Blue Orbs in the game. You cannot have more than 14 Blue Orbs (20,000 vitality points), even if you purchase extra Blue Orbs.",
+            "about_the_game": "Get 1 Blue Orb to boost your maximum vitality by 1,000 points.<br />\r\nNote: There are 14 Blue Orbs in the game. You cannot have more than 14 Blue Orbs (20,000 vitality points), even if you purchase extra Blue Orbs.",
+            "short_description": "Get 1 Blue Orb to boost your maximum vitality by 1,000 points. Note: Max vitality is 14 Blue Orbs (20,000 points).",
+            "fullgame": {
+                "appid": "329050",
+                "name": "Devil May Cry® 4 Special Edition"
+            },
+            "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Japanese<strong>*</strong><br><strong>*</strong>languages with full audio support",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/359492/header.jpg?t=1447371495",
+            "website": "http://www.capcom.co.jp/devil4se/",
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7, Windows 8.1</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7, Windows 8.1</li></ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "legal_notice": "©CAPCOM CO., LTD. 2008, 2015 ALL RIGHTS RESERVED.<br />\r\nILLUSTRATIONS:Kazuma Kaneko/ATLUS",
+            "developers": [
+                "CAPCOM Co., Ltd."
+            ],
+            "publishers": [
+                "CAPCOM Co., Ltd."
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 99,
+                "final": 99,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "0,99€"
+            },
+            "packages": [
+                64052
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy 1 Blue Orb",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 64052,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "1 Blue Orb - 0,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 99
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 21,
+                    "description": "Downloadable Content"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "1",
+                    "description": "Action"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/359492/ss_7caa3fe03adf3d01f749eba45252b4e386831e18.600x338.jpg?t=1447371495",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/359492/ss_7caa3fe03adf3d01f749eba45252b4e386831e18.1920x1080.jpg?t=1447371495"
+                }
+            ],
+            "achievements": {
+                "total": 0
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "23 Jun, 2015"
+            },
+            "support_info": {
+                "url": "",
+                "email": "Support@capcom.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/359492/page_bg_generated_v6b.jpg?t=1447371495",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

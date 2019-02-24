@@ -1,0 +1,121 @@
+{
+    "749590": {
+        "success": true,
+        "data": {
+            "type": "dlc",
+            "name": "ШП TORRENT + ШП 9.5",
+            "steam_appid": 749590,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "+2 brand new ШП puzzles for you.",
+            "about_the_game": "+2 brand new ШП puzzles for you.",
+            "short_description": "+2 brand new ШП puzzles for you.",
+            "fullgame": {
+                "appid": "727640",
+                "name": "ШП - ShP"
+            },
+            "supported_languages": "Russian, English",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/749590/header.jpg?t=1510286190",
+            "website": null,
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP<br></li><li><strong>Processor:</strong> Pentium II @ 233MHz with MMX™ Technology<br></li><li><strong>Memory:</strong> 256 MB RAM<br></li><li><strong>Graphics:</strong> Windows Forms enabled videoadapter<br></li><li><strong>Storage:</strong> 1 MB available space<br></li><li><strong>Sound Card:</strong> Not needed<br></li><li><strong>Additional Notes:</strong> &quot;Mouse&quot; type Human Interface Device is highly recommended</li></ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "developers": [
+                "Xeneder"
+            ],
+            "publishers": [
+                "Xitilon"
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 99,
+                "final": 99,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "0,99€"
+            },
+            "packages": [
+                220107
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy ШП TORRENT + ШП 9.5",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 220107,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "ШП 9.5 + ШП торрент - 0,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 99
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 24,
+                    "description": "Shared/Split Screen"
+                },
+                {
+                    "id": 21,
+                    "description": "Downloadable Content"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "23",
+                    "description": "Indie"
+                },
+                {
+                    "id": "28",
+                    "description": "Simulation"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/749590/ss_530912b487eae94c53834e68392371aca4881093.600x338.jpg?t=1510286190",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/749590/ss_530912b487eae94c53834e68392371aca4881093.1920x1080.jpg?t=1510286190"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/749590/ss_d3473224259fd2cbeb04ea7544dd6ff0e3d5d885.600x338.jpg?t=1510286190",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/749590/ss_d3473224259fd2cbeb04ea7544dd6ff0e3d5d885.1920x1080.jpg?t=1510286190"
+                }
+            ],
+            "release_date": {
+                "coming_soon": false,
+                "date": "9 Nov, 2017"
+            },
+            "support_info": {
+                "url": "",
+                "email": "xitilon@gmail.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/749590/page_bg_generated_v6b.jpg?t=1510286190",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

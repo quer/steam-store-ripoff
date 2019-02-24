@@ -1,0 +1,94 @@
+{
+    "737371": {
+        "success": true,
+        "data": {
+            "type": "episode",
+            "name": "New Game: Make Sure You Buy It",
+            "steam_appid": 737371,
+            "required_age": 0,
+            "is_free": false,
+            "controller_support": "full",
+            "detailed_description": "",
+            "about_the_game": "",
+            "short_description": "PECO’s master has finally been upped and an event was held, honoring its completion. The anticipation for PECO is pretty high, and a decent-sized crowd showed up for the event. Aoba and the other staff is seated up front and watch Ko and Shizuku talk about the project onstage.",
+            "fullgame": {
+                "appid": "626370",
+                "name": "New Game"
+            },
+            "supported_languages": "English<strong>*</strong>, Japanese<br><strong>*</strong>languages with full audio support",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/626370/header.jpg?t=1529697713",
+            "website": null,
+            "pc_requirements": [],
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "publishers": [
+                ""
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 199,
+                "final": 199,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "1,99€"
+            },
+            "packages": [
+                215516
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy New Game: Make Sure You Buy It",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 215516,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "New Game: Make Sure You Buy It - 1,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 199
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 28,
+                    "description": "Full controller support"
+                },
+                {
+                    "id": 33,
+                    "description": "Native Steam Controller Support"
+                }
+            ],
+            "achievements": {
+                "total": 0
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "26 Oct, 2017"
+            },
+            "support_info": {
+                "url": "",
+                "email": ""
+            },
+            "background": "",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

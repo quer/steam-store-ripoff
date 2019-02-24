@@ -1,0 +1,346 @@
+{
+    "262610": {
+        "success": true,
+        "data": {
+            "type": "game",
+            "name": "Liquid Rhythm",
+            "steam_appid": 262610,
+            "required_age": 0,
+            "is_free": false,
+            "dlc": [
+                268120,
+                268121,
+                268122,
+                268123,
+                268124,
+                268125
+            ],
+            "detailed_description": "<h1>Liquid Rhythm 1.4.5</h1><p>We're excited to announce the latest release of Liquid Rhythm! <strong>Liquid Rhythm v1.4.5</strong> features full compatibility with Cycling '74's Max 7.<br><a href=\"https://steamcommunity.com/linkfilter/?url=http://www.wavedna.com/liquid-rhythm-updated-version-1-4-5/\" target=\"_blank\" rel=\"noopener\"  >http://www.wavedna.com/liquid-rhythm-updated-version-1-4-5/</a></p><br><h1>About the Software</h1>Liquid Rhythm is a wildly innovative beat generator, sequencer, and software MIDI controller. It's powered by a rhythm synthesis engine that gives you instant access to quadrillions of rhythmic patterns that can be manipulated with a comprehensive suite of MIDI effects called Molecule Tools. Paint drum patterns using a palette of note clusters that provide new visualizations for MIDI data, make beats using multi-sample drum instruments or your own samples, and run it standalone or integrate into your workflow through VST/AU/RTAS/Max for Live.<h2 class=\"bb_tag\">Key Features</h2><br><strong>Accent Modifiers</strong><br>Accent Modifiers target the velocity and groove of notes; basically the things that make music not sound like renegade robots hijacked your studio and started making music. You can think of Accent Modifiers as avenues to <u>humanize</u> your beats and free them from totalitarian robotic rule.<br><br><strong>BeatBuilder: BarForm List</strong><br>When you’re creating a drum track, the Beat Builder is your best friend. By default, it’s a really straightforward look at some commonly occurring patterns for whatever instrument you have selected. For example, if you’re working on a snare instrument, the Beat Builder will instantly highlight snare-specific patterns you can insert into regions with one click.<br><br><strong>BeatBuilder: BeatForm Sequencer</strong><br>A regular sequencer loops one or two bars and you input notes one at a time. The BeatForm Sequencer takes that model to the next level:  Each space in the sequencer can hold one or more notes, up to six. You can think of the spaces in the BeatForm sequencer as placeholders for groups of notes. All it ever takes is one click in the BeatForm Sequencer to get a cluster of notes in any given space. <br> <br><strong>BeatSeeker</strong><br>The BeatWeaver Rhythm Synthesizer can be an intimidating mass of information to negotiate through. That’s why the developers at WaveDNA built the BeatSeeker, an intelligent algorithm that highlights the most commonly occurring patterns for whatever instrument you’re working on. Our team of astute scientists studied several hundred songs from a variety of genres to ensure its accuracy. <br><br><strong>In-Line Editing</strong><br>Liquid Rhythm’s Pencil and Paint tools turn the Arranger into something it should always be– a Canvas. Rhythm is art, your screen is an easel, and these are the tools of your trade.<br><br><strong>Media Library</strong><br>Liquid Rhythm features a handful of  distinct kits, each mapped to the General MIDI standard of percussion (which is a fancy way of saying that when you hook up your MIDI drum pad, everything will work just the way you’d expect it to). There are six electronic kits:<br><br><ul class=\"bb_ul\"><li>DnB<br></li><li>Dubstep<br></li><li>HipHop<br></li><li>House<br></li><li>Techno<br></li><li>Trance</li></ul> <br>...and four acoustic kits:<br> <br><ul class=\"bb_ul\"><li>Acoustic<br></li><li>Pop<br></li><li>Rock<br></li><li>Soul</li></ul> <br><strong>The Music Molecule</strong><br>The Music Molecule is a new representation of MIDI. More importantly, it’s a simpler and more musical representation of MIDI. Unlike traditional MIDI editors, Liquid Rhythm doesn’t require you to have any theoretical understanding of music or the piano. It’s our way of grouping notes together in a 4/4 bar to let you actually paint entire bars of music onto your arranger.<br> <br><strong>VST/AU/RTAS</strong><br>Integrate Liquid Rhythm into your studio setup using our VST/AU/RTAS plugins. Check out <a href=\"https://steamcommunity.com/linkfilter/?url=http://www.wavedna.com/daw-videos/\" target=\"_blank\" rel=\"noopener\"  >http://www.wavedna.com/daw-videos/</a> for more compatibility details! <br><br><strong>Max for Live Liquid Rhythm Patch</strong><br>Liquid Rhythm features an exciting new integration system for Ableton Live users: Liquid Rhythm’s powerful MIDI sequencing and editing tools can be used to create and remix MIDI patterns directly in Ableton Live clips. As you jump clip-to-clip in Ableton Live, Liquid Rhythm automatically displays the MIDI contents of each selected clip and Drum Rack information of each track.<br><br><strong>Benefits</strong><br><ul class=\"bb_ul\"><li>Speed up the creation of rhythm tracks in Ableton Live clips.<br></li><li>Integrate with Ableton Drum Racks.<br></li><li>Create and remix MIDI patterns in Ableton Live clips.<br></li><li>Implement your rhythmic ideas into the MIDI clip piano roll instantly.<br></li><li>Build beats entire bars at a time.<br></li><li>Use your own samples to create truly original beats.<br></li><li>Experiment with variations and alternatives to your drum patterns, all in real-time.<br></li><li>See relationships between notes in your MIDI clips with Liquid Rhythm’s Music Molecule MIDI visualization technology.</li></ul><i>This integration is only available when using Liquid Rhythm with Max for Live in Ableton Live 9 Suite. Additionally, Max for Live 6.1.6 is required for Ableton Live Clips Editing.</i><br><br><i>Purchasing Liquid Rhythm on Steam will result in the software ONLY working with the Steam platform running on your computer. If you wish to transfer your license to use Liquid Rhythm outside of Steam there will be a $30 USD fee, please contact <a href=\"mailto:support@wavedna.com\">support@wavedna.com</a>. </i>",
+            "about_the_game": "Liquid Rhythm is a wildly innovative beat generator, sequencer, and software MIDI controller. It's powered by a rhythm synthesis engine that gives you instant access to quadrillions of rhythmic patterns that can be manipulated with a comprehensive suite of MIDI effects called Molecule Tools. Paint drum patterns using a palette of note clusters that provide new visualizations for MIDI data, make beats using multi-sample drum instruments or your own samples, and run it standalone or integrate into your workflow through VST/AU/RTAS/Max for Live.<h2 class=\"bb_tag\">Key Features</h2><br><strong>Accent Modifiers</strong><br>Accent Modifiers target the velocity and groove of notes; basically the things that make music not sound like renegade robots hijacked your studio and started making music. You can think of Accent Modifiers as avenues to <u>humanize</u> your beats and free them from totalitarian robotic rule.<br><br><strong>BeatBuilder: BarForm List</strong><br>When you’re creating a drum track, the Beat Builder is your best friend. By default, it’s a really straightforward look at some commonly occurring patterns for whatever instrument you have selected. For example, if you’re working on a snare instrument, the Beat Builder will instantly highlight snare-specific patterns you can insert into regions with one click.<br><br><strong>BeatBuilder: BeatForm Sequencer</strong><br>A regular sequencer loops one or two bars and you input notes one at a time. The BeatForm Sequencer takes that model to the next level:  Each space in the sequencer can hold one or more notes, up to six. You can think of the spaces in the BeatForm sequencer as placeholders for groups of notes. All it ever takes is one click in the BeatForm Sequencer to get a cluster of notes in any given space. <br> <br><strong>BeatSeeker</strong><br>The BeatWeaver Rhythm Synthesizer can be an intimidating mass of information to negotiate through. That’s why the developers at WaveDNA built the BeatSeeker, an intelligent algorithm that highlights the most commonly occurring patterns for whatever instrument you’re working on. Our team of astute scientists studied several hundred songs from a variety of genres to ensure its accuracy. <br><br><strong>In-Line Editing</strong><br>Liquid Rhythm’s Pencil and Paint tools turn the Arranger into something it should always be– a Canvas. Rhythm is art, your screen is an easel, and these are the tools of your trade.<br><br><strong>Media Library</strong><br>Liquid Rhythm features a handful of  distinct kits, each mapped to the General MIDI standard of percussion (which is a fancy way of saying that when you hook up your MIDI drum pad, everything will work just the way you’d expect it to). There are six electronic kits:<br><br><ul class=\"bb_ul\"><li>DnB<br></li><li>Dubstep<br></li><li>HipHop<br></li><li>House<br></li><li>Techno<br></li><li>Trance</li></ul> <br>...and four acoustic kits:<br> <br><ul class=\"bb_ul\"><li>Acoustic<br></li><li>Pop<br></li><li>Rock<br></li><li>Soul</li></ul> <br><strong>The Music Molecule</strong><br>The Music Molecule is a new representation of MIDI. More importantly, it’s a simpler and more musical representation of MIDI. Unlike traditional MIDI editors, Liquid Rhythm doesn’t require you to have any theoretical understanding of music or the piano. It’s our way of grouping notes together in a 4/4 bar to let you actually paint entire bars of music onto your arranger.<br> <br><strong>VST/AU/RTAS</strong><br>Integrate Liquid Rhythm into your studio setup using our VST/AU/RTAS plugins. Check out <a href=\"https://steamcommunity.com/linkfilter/?url=http://www.wavedna.com/daw-videos/\" target=\"_blank\" rel=\"noopener\"  >http://www.wavedna.com/daw-videos/</a> for more compatibility details! <br><br><strong>Max for Live Liquid Rhythm Patch</strong><br>Liquid Rhythm features an exciting new integration system for Ableton Live users: Liquid Rhythm’s powerful MIDI sequencing and editing tools can be used to create and remix MIDI patterns directly in Ableton Live clips. As you jump clip-to-clip in Ableton Live, Liquid Rhythm automatically displays the MIDI contents of each selected clip and Drum Rack information of each track.<br><br><strong>Benefits</strong><br><ul class=\"bb_ul\"><li>Speed up the creation of rhythm tracks in Ableton Live clips.<br></li><li>Integrate with Ableton Drum Racks.<br></li><li>Create and remix MIDI patterns in Ableton Live clips.<br></li><li>Implement your rhythmic ideas into the MIDI clip piano roll instantly.<br></li><li>Build beats entire bars at a time.<br></li><li>Use your own samples to create truly original beats.<br></li><li>Experiment with variations and alternatives to your drum patterns, all in real-time.<br></li><li>See relationships between notes in your MIDI clips with Liquid Rhythm’s Music Molecule MIDI visualization technology.</li></ul><i>This integration is only available when using Liquid Rhythm with Max for Live in Ableton Live 9 Suite. Additionally, Max for Live 6.1.6 is required for Ableton Live Clips Editing.</i><br><br><i>Purchasing Liquid Rhythm on Steam will result in the software ONLY working with the Steam platform running on your computer. If you wish to transfer your license to use Liquid Rhythm outside of Steam there will be a $30 USD fee, please contact <a href=\"mailto:support@wavedna.com\">support@wavedna.com</a>. </i>",
+            "short_description": "Liquid Rhythm is a wildly innovative beat generator, sequencer, and software MIDI controller. It's powered by a rhythm synthesis engine that gives you instant access to quadrillions of rhythmic patterns that can be manipulated with a comprehensive suite of MIDI effects called Molecule Tools.",
+            "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+            "reviews": "“Bound to rapidly become your go-to solution for beat construction”<br><a href=\"https://steamcommunity.com/linkfilter/?url=http://djtimes.com/liquid-rhythm-beat-constructor-more/\" target=\"_blank\" rel=\"noopener\"  >DJ Times Magazine</a><br><br>“Opening the floodgates of beat heaven”<br><a href=\"https://steamcommunity.com/linkfilter/?url=http://www.emusician.com/gear/1332/review-wave-dna-liquid-rhythm-142/49817\" target=\"_blank\" rel=\"noopener\"  >Electronic Musician Magazine</a><br><br>“Liquid Rhythm’s approach to beat programming is refreshingly original, and incredibly efficient”<br><a href=\"https://steamcommunity.com/linkfilter/?url=http://www.attackmagazine.com/reviews/gear-software/wavedna-liquid-rhythm/\" target=\"_blank\" rel=\"noopener\"  >Attack Magazine</a><br>",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/262610/header.jpg?t=1447359380",
+            "website": "http://www.wavedna.com",
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows Vista<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 500 MB available space<br></li><li><strong>Sound Card:</strong> ASIO or WDM compatible sound device recommended</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>"
+            },
+            "mac_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OSX 10.7.5<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>"
+            },
+            "linux_requirements": [],
+            "legal_notice": "2014 WaveDNA Ltd.",
+            "developers": [
+                "WaveDNA"
+            ],
+            "publishers": [
+                "WaveDNA"
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 220,
+                "final": 220,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "2,20€",
+                "recurring_sub": 63764,
+                "recurring_sub_desc": "2,20€ at checkout, auto-renewed every 1 month(s) at 2,20€."
+            },
+            "packages": [
+                63759,
+                63760,
+                63761,
+                34010,
+                63769,
+                63770,
+                63768,
+                35349,
+                63759,
+                63760,
+                63761,
+                63769,
+                63770,
+                63768
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Liquid Rhythm",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 34010,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Liquid Rhythm - 39,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 3999
+                        },
+                        {
+                            "packageid": 35349,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Liquid Rhythm Collection - 92,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 9299
+                        }
+                    ]
+                },
+                {
+                    "name": "subscriptions",
+                    "title": "Buy Liquid Rhythm Subscription Plan",
+                    "description": "To be billed on a recurring basis.",
+                    "selection_text": "Select a subscription plan",
+                    "save_text": "Save up to 2%",
+                    "display_type": "1",
+                    "is_recurring_subscription": "true",
+                    "subs": [
+                        {
+                            "packageid": 63759,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "1 Month(s) @ 2,20€/Month",
+                            "option_description": "<p class=\"game_purchase_subscription\">2,20€ at checkout, auto-renewed every 1 month(s) at 2,20€.</p>",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 220
+                        },
+                        {
+                            "packageid": 63760,
+                            "percent_savings_text": "-2%",
+                            "percent_savings": 2,
+                            "option_text": "3 Month(s) @ 2,16€/Month",
+                            "option_description": "<p class=\"game_purchase_subscription\">6,49€ at checkout, auto-renewed every 3 month(s) at 6,49€.</p>",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 649
+                        },
+                        {
+                            "packageid": 63761,
+                            "percent_savings_text": "-2%",
+                            "percent_savings": 2,
+                            "option_text": "6 Month(s) @ 2,16€/Month",
+                            "option_description": "<p class=\"game_purchase_subscription\">12,99€ at checkout, auto-renewed every 6 month(s) at 12,99€.</p>",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 1299
+                        }
+                    ]
+                },
+                {
+                    "name": "Collection_edition",
+                    "title": "Buy Liquid Rhythm Collection Subscription",
+                    "description": "To be billed on a recurring basis.",
+                    "selection_text": "Select a subscription plan",
+                    "save_text": "Save up to 18%",
+                    "display_type": "1",
+                    "is_recurring_subscription": "true",
+                    "subs": [
+                        {
+                            "packageid": 63769,
+                            "percent_savings_text": "-18%",
+                            "percent_savings": 18,
+                            "option_text": "1 Month(s) @ 5,49€/Month",
+                            "option_description": "<p class=\"game_purchase_subscription\">4,99€ at checkout, auto-renewed every 1 month(s) at 5,49€.</p>",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 499
+                        },
+                        {
+                            "packageid": 63770,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "3 Month(s) @ 6,66€/Month",
+                            "option_description": "<p class=\"game_purchase_subscription\">17,99€ at checkout, auto-renewed every 3 month(s) at 19,99€.</p>",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 1799
+                        },
+                        {
+                            "packageid": 63768,
+                            "percent_savings_text": "-7%",
+                            "percent_savings": 7,
+                            "option_text": "6 Month(s) @ 6,16€/Month",
+                            "option_description": "<p class=\"game_purchase_subscription\">28,99€ at checkout, auto-renewed every 6 month(s) at 36,99€.</p>",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 2899
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": true,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "52",
+                    "description": "Audio Production"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/262610/ss_6b8acf88bc7578382b88da2cc8d2f4c489de27c4.600x338.jpg?t=1447359380",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/262610/ss_6b8acf88bc7578382b88da2cc8d2f4c489de27c4.1920x1080.jpg?t=1447359380"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/262610/ss_0e6b96d29a53a8791203ccbf6fc101c86c68f2ea.600x338.jpg?t=1447359380",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/262610/ss_0e6b96d29a53a8791203ccbf6fc101c86c68f2ea.1920x1080.jpg?t=1447359380"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/262610/ss_4efa875cea966727198b6c97b51ceb9234c770a7.600x338.jpg?t=1447359380",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/262610/ss_4efa875cea966727198b6c97b51ceb9234c770a7.1920x1080.jpg?t=1447359380"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/262610/ss_2d3af7e0722796f64e1a18207c7e159111885a72.600x338.jpg?t=1447359380",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/262610/ss_2d3af7e0722796f64e1a18207c7e159111885a72.1920x1080.jpg?t=1447359380"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/262610/ss_272fd3bb1a6ae472d0331da8e9b4dce9d645cfcc.600x338.jpg?t=1447359380",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/262610/ss_272fd3bb1a6ae472d0331da8e9b4dce9d645cfcc.1920x1080.jpg?t=1447359380"
+                },
+                {
+                    "id": 5,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/262610/ss_101266552250c589aff5c1e040dd415e95c6a0be.600x338.jpg?t=1447359380",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/262610/ss_101266552250c589aff5c1e040dd415e95c6a0be.1920x1080.jpg?t=1447359380"
+                },
+                {
+                    "id": 6,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/262610/ss_c6165f9e3f9ba2eb5673ce0919211d8f0cb60808.600x338.jpg?t=1447359380",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/262610/ss_c6165f9e3f9ba2eb5673ce0919211d8f0cb60808.1920x1080.jpg?t=1447359380"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 2031702,
+                    "name": "Liquid Rhythm In Action",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/2031702/movie.293x165.jpg?t=1447361165",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/2031702/movie480.webm?t=1447361165",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/2031702/movie_max.webm?t=1447361165"
+                    },
+                    "highlight": true
+                },
+                {
+                    "id": 2033097,
+                    "name": "Version 1.4 Short Trailer",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/2033097/movie.293x165.jpg?t=1447362454",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/2033097/movie480.webm?t=1447362454",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/2033097/movie_max.webm?t=1447362454"
+                    },
+                    "highlight": true
+                },
+                {
+                    "id": 2032938,
+                    "name": "Version 1.4 Long Trailer",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/2032938/movie.293x165.jpg?t=1447362347",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/2032938/movie480.webm?t=1447362347",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/2032938/movie_max.webm?t=1447362347"
+                    },
+                    "highlight": true
+                },
+                {
+                    "id": 2031555,
+                    "name": "Beat Builder: BarForm List",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/2031555/movie.293x165.jpg?t=1447361018",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/2031555/movie480.webm?t=1447361018",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/2031555/movie_max.webm?t=1447361018"
+                    },
+                    "highlight": true
+                },
+                {
+                    "id": 2031556,
+                    "name": "Note Edit Mode",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/2031556/movie.293x165.jpg?t=1447361018",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/2031556/movie480.webm?t=1447361018",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/2031556/movie_max.webm?t=1447361018"
+                    },
+                    "highlight": true
+                },
+                {
+                    "id": 2031557,
+                    "name": "The Arranger",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/2031557/movie.293x165.jpg?t=1447361018",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/2031557/movie480.webm?t=1447361018",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/2031557/movie_max.webm?t=1447361018"
+                    },
+                    "highlight": true
+                },
+                {
+                    "id": 2032990,
+                    "name": "BeatForm Editing",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/2032990/movie.293x165.jpg?t=1447362390",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/2032990/movie480.webm?t=1447362390",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/2032990/movie_max.webm?t=1447362390"
+                    },
+                    "highlight": true
+                },
+                {
+                    "id": 2034560,
+                    "name": "Liquid Rhythm and Sonar X3",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/2034560/movie.293x165.jpg?t=1447363730",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/2034560/movie480.webm?t=1447363730",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/2034560/movie_max.webm?t=1447363730"
+                    },
+                    "highlight": false
+                }
+            ],
+            "achievements": {
+                "total": 2,
+                "highlighted": [
+                    {
+                        "name": "WAVEDNA HELLO WORLD 1",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262610/f6cc8be629db73536392320940cd7ddcdeb16886.jpg"
+                    },
+                    {
+                        "name": "Test achievement 2",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262610/35c1125ecae06d42d54c800531b6a886e48d6e71.jpg"
+                    }
+                ]
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "28 Mar, 2014"
+            },
+            "support_info": {
+                "url": "http://www.wavedna.com/support-contact/",
+                "email": "support@wavedna.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/262610/page_bg_generated_v6b.jpg?t=1447359380",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

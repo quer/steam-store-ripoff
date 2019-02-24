@@ -1,0 +1,221 @@
+{
+    "623270": {
+        "success": true,
+        "data": {
+            "type": "dlc",
+            "name": "AppGameKit - GameGuru Loader",
+            "steam_appid": 623270,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "GameGuru Loader provides a great, efficient way to convert and load GameGuru levels into AppGameKit.<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/623270/extras/new140-1.jpg?t=1518185305\" ><br>GameGuru Loader lets you link the easy building features of GameGuru with the smart coding commands of AppGameKit.<br><br><strong>NOTE: Users will need to already own copies of both GameGuru and AppGameKit to use this DLC.</strong><br><br>The DLC includes: <br><br><ul class=\"bb_ul\"><li>GameGuru to AppGameKit Converter tool<br></li><li>AppGameKit Tier1 source code that loads and displays the converted levels<br></li><li>Highly optimised graphic shaders</li></ul><br>GameGuru is an easy to use 3D game maker designed for making games for PCs. It has an easy to use editor allowing you to create 3D scenes for your games. Levels consist of 3D assets such as terrains, skies, vegetation and scenery objects like buildings and everyday objects. All these assets can be converted and then loaded in and displayed with the included AppGameKit Tier1 Script code.<br><br>GameGuru Loader allows you to go mobile too! As the game media in GameGuru is of a very high quality, it doesn’t always perform well on mobile devices. However, GameGuru Loader includes a converter that can scan all your GameGuru media and convert it to a format ideal for mobile use.<br><br>GameGuru Loader uses a billboard system (flat sprites) to efficiently display the levels on mobile devices where 3D performance has to be carefully managed. Game objects smoothly transition between 3D objects into billboard version. You can also adjust the distance value where this transition occurs to gain even higher frame rates.<br><br>Discover GameGuru<br><a href=\"http://store.steampowered.com/app/266310\" target=\"_blank\" rel=\"noreferrer\"  id=\"dynamiclink_0\" >http://store.steampowered.com/app/266310</a><h2 class=\"bb_tag\">GameGuru Loader Details</h2><strong>NEW! Physically Based Rendering (PBR) Shaders</strong><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/623270/extras/ggl-pbr2.jpg?t=1518185305\" ><br>PBR Shaders support these 7 texture maps:<br><ul class=\"bb_ul\"><li>Diffuse/Albedo maps<br></li><li>Normal maps<br></li><li>Ambient occlusion AO maps<br></li><li>Specular maps<br></li><li>Metallic maps<br></li><li>Roughness/Gloss maps<br></li><li>Illumination maps</li></ul>All 7 texture maps are automatically baked into only 3 textures for real fast rendering<br><br><strong>VR Rendering</strong><br>You can now render your scenes in VR mode for mobile devices!<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/623270/extras/Screenshot_12.jpg?t=1518185305\" ><br><br><strong>The PBR shader supports</strong><br><ul class=\"bb_ul\"><li>Energy conservation<br></li><li>Specular highlight reflection<br></li><li>Material roughness<br></li><li>Environment reflection<br></li><li>Everything is 100% automated and baked for you!</li></ul><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/623270/extras/ggl-pbr1.jpg?t=1518185305\" ><br><strong>New Shaders Added</strong><br><ul class=\"bb_ul\"><li>Water object - any object can look like its made of water. Make rivers, waterfalls, underwater worlds etc<br></li><li>Ice object -  any object can look like ice/diamonds<br></li><li>Mirror object - creates a mirror effect with reflection maps, generated from the objects position<br></li><li>Puddle object - make an object look like a water puddle with reflections<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/623270/extras/ggl-pbr13.jpg?t=1518185305\" ><br></li><li>Glass objects - objects are given a realistic glass-like reflection look<br></li><li>Vignette - a cool post processing effect<br></li><li>FXAA-CV-LS - a new way to sharpen and pull out all the details from your textures. Everything looks much better!</li></ul><br><strong>Reflection Probes Supported</strong><br><ul class=\"bb_ul\"><li>Support for generic, inner and outer reflection map generation<br></li><li>Generic - generic reflection map based on the sky box and terrain settings<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/623270/extras/Screenshot_16.jpg?t=1518185305\" ><br></li><li>Inner - generated reflection probe from the inside of an object (for indoor scenes)<br></li><li>Outer - generate reflection probe based on the object's surroundings<br></li><li>Environment reflection maps generation is 100% automated<br></li><li>Probe cache - probes only update if you move an object to a new position or create a new object (100% automated)</li></ul><br><strong>Other Game Effects and Features</strong><br><ul class=\"bb_ul\"><li>Draw Call Optimiser<br></li><li>PBR Demo and all PBR assets<br></li><li>Head Bobbing - add head moving when you run around your level.<br></li><li>Fake floor reflection<br></li><li>Environment particle snow<br></li><li>Real-time cascade shadows<br></li><li>Real-time water reflection and water movement<br></li><li>Terrain light mapper for real fast mobile friendly shadows on the terrain<br></li><li>Player flashlight supported<br></li><li>Simple AI system supporting GameGuru waypoints<br></li><li>Shaders for Normal and Specular mapping on objects and terrain<br></li><li>Scaling of shaders - going from a simple basemap only terrain to a full terrain using normals, specular and water reflections<br></li><li>Features can be enabled or disabled depending on your game target platform</li></ul><br><strong>Gameplay and AI</strong><br>GameGuru Loader comes with a simple game play system to give you a quick start on making your next own mobile FPS genre games.  Use it as is or expand it to your needs.<br><ul class=\"bb_ul\"><li>Enemy Characters can hold and shoot weapons<br></li><li>Enemy Characters can fall and die<br></li><li>The player can now shoot weapons<br></li><li>The player can die when health is depleted<br></li><li>Desktop First Person Shooter Mouse controls<br></li><li>Mobile controls - virtual joystick and fire button<br></li><li>Enemy shooting decals animations<br></li><li>When the player is hit a decal animates<br></li><li>Player gun cross-hair added<br></li><li>Added sound effects<br></li><li>Music for the game is supported<br></li><li>Directional HUD damage effect</li></ul><br><i>Terrain</i><br>What you see in GameGuru you will see in AppGameKit. The rock textures are calculated by the terrain normal values (just like GameGuru does).<br><br><i>Vegetation</i><br>The vegetation supports up to 10,000 objects per level - wherever you paint your vegetation in GameGuru this will be repeated in your AppGameKit version. There are AppGameKit settings for features such as Vegetation Spreading, Vegetation Distance and Vegetation Grid size.<br><br><i>SkyBox</i><br>The AppGameKit version supports a fully moving sky option. You can set the Horizon Colour value which is used by the fog to naturally fade.<br><br><i>Objects</i><br>All static and dynamic objects will appear. They are also affected by linear fog and fade into sky-box when seen in the distance.<br><br>Post process shaders included with GameGuru Loader include;<br><br><ul class=\"bb_ul\"><li>Bloom<br></li><li>FXAA<br></li><li>Lens flare<br></li><li> Cartoon (cel shading)<br></li><li>Dither (for retro looks)<br></li><li>C64 (for C64 retro look )</li></ul><br>Post processing quality settings Very Low, Low, Middle and High<br>Post processing shaders can be combined in any way you like.<br> <br>Use predefined scene colours such as &quot;morning&quot;,&quot;night&quot;,&quot;day&quot;,&quot;day fog”,”night bright”,”desert”, or define your own.<br><br>You can read more about GameGuru Loader by downloading the <a href=\"https://steamcommunity.com/linkfilter/?url=http://publicdata.thegamecreators.com/Docs/GameGuru Loader User Guide.pdf\" target=\"_blank\" rel=\"noopener\"  >official user guide here.</a><br><br><strong>Platforms</strong><br>This DLC is for the Windows platform only. The GameGuru Loader source code can also be used on Mac &amp; Linux platforms but the converter tool is currently only for Windows. There is documentation that explains how to convert on Mac &amp; Linux manually using a third party tool called xnconvert.<br><br><strong>IMPORTANT NOTE</strong><br>Most of the default media included in GameGuru will work out of the box in GameGuru Loader. Some objects that are not yet supported by AppGameKit might have to be converted or changed in order for them to work correctly in AppGameKit.<br><br>This is sold “as is” with no guarantees, you receive the source code and are able to modify it as you wish; you can add missing functions or change the current function to fit your needs. As this is source code you must know AppGameKit Tier 1 BASIC Script in order to use it and make your games.<br><br>Sadly, there is absolutely no guarantee that you will be able to make every possible level display and work well on mobile devices. Most mobiles are restricted in memory and CPU/GPU speed compared to PCs. Smaller levels might be able to work if you use the reduced media and use the very lowest settings within GameGuru Loader. As mobile devices get faster and have more available memory you will be able to process larger levels and use better quality settings. GameGuru Loader already allows you to scale the quality up and down.<br><br>GameGuru Loader will continue to be improved in line with any developments made with GameGuru and we will release updates to you as they are developed.",
+            "about_the_game": "GameGuru Loader provides a great, efficient way to convert and load GameGuru levels into AppGameKit.<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/623270/extras/new140-1.jpg?t=1518185305\" ><br>GameGuru Loader lets you link the easy building features of GameGuru with the smart coding commands of AppGameKit.<br><br><strong>NOTE: Users will need to already own copies of both GameGuru and AppGameKit to use this DLC.</strong><br><br>The DLC includes: <br><br><ul class=\"bb_ul\"><li>GameGuru to AppGameKit Converter tool<br></li><li>AppGameKit Tier1 source code that loads and displays the converted levels<br></li><li>Highly optimised graphic shaders</li></ul><br>GameGuru is an easy to use 3D game maker designed for making games for PCs. It has an easy to use editor allowing you to create 3D scenes for your games. Levels consist of 3D assets such as terrains, skies, vegetation and scenery objects like buildings and everyday objects. All these assets can be converted and then loaded in and displayed with the included AppGameKit Tier1 Script code.<br><br>GameGuru Loader allows you to go mobile too! As the game media in GameGuru is of a very high quality, it doesn’t always perform well on mobile devices. However, GameGuru Loader includes a converter that can scan all your GameGuru media and convert it to a format ideal for mobile use.<br><br>GameGuru Loader uses a billboard system (flat sprites) to efficiently display the levels on mobile devices where 3D performance has to be carefully managed. Game objects smoothly transition between 3D objects into billboard version. You can also adjust the distance value where this transition occurs to gain even higher frame rates.<br><br>Discover GameGuru<br><a href=\"http://store.steampowered.com/app/266310\" target=\"_blank\" rel=\"noreferrer\"  id=\"dynamiclink_1\" >http://store.steampowered.com/app/266310</a><h2 class=\"bb_tag\">GameGuru Loader Details</h2><strong>NEW! Physically Based Rendering (PBR) Shaders</strong><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/623270/extras/ggl-pbr2.jpg?t=1518185305\" ><br>PBR Shaders support these 7 texture maps:<br><ul class=\"bb_ul\"><li>Diffuse/Albedo maps<br></li><li>Normal maps<br></li><li>Ambient occlusion AO maps<br></li><li>Specular maps<br></li><li>Metallic maps<br></li><li>Roughness/Gloss maps<br></li><li>Illumination maps</li></ul>All 7 texture maps are automatically baked into only 3 textures for real fast rendering<br><br><strong>VR Rendering</strong><br>You can now render your scenes in VR mode for mobile devices!<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/623270/extras/Screenshot_12.jpg?t=1518185305\" ><br><br><strong>The PBR shader supports</strong><br><ul class=\"bb_ul\"><li>Energy conservation<br></li><li>Specular highlight reflection<br></li><li>Material roughness<br></li><li>Environment reflection<br></li><li>Everything is 100% automated and baked for you!</li></ul><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/623270/extras/ggl-pbr1.jpg?t=1518185305\" ><br><strong>New Shaders Added</strong><br><ul class=\"bb_ul\"><li>Water object - any object can look like its made of water. Make rivers, waterfalls, underwater worlds etc<br></li><li>Ice object -  any object can look like ice/diamonds<br></li><li>Mirror object - creates a mirror effect with reflection maps, generated from the objects position<br></li><li>Puddle object - make an object look like a water puddle with reflections<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/623270/extras/ggl-pbr13.jpg?t=1518185305\" ><br></li><li>Glass objects - objects are given a realistic glass-like reflection look<br></li><li>Vignette - a cool post processing effect<br></li><li>FXAA-CV-LS - a new way to sharpen and pull out all the details from your textures. Everything looks much better!</li></ul><br><strong>Reflection Probes Supported</strong><br><ul class=\"bb_ul\"><li>Support for generic, inner and outer reflection map generation<br></li><li>Generic - generic reflection map based on the sky box and terrain settings<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/623270/extras/Screenshot_16.jpg?t=1518185305\" ><br></li><li>Inner - generated reflection probe from the inside of an object (for indoor scenes)<br></li><li>Outer - generate reflection probe based on the object's surroundings<br></li><li>Environment reflection maps generation is 100% automated<br></li><li>Probe cache - probes only update if you move an object to a new position or create a new object (100% automated)</li></ul><br><strong>Other Game Effects and Features</strong><br><ul class=\"bb_ul\"><li>Draw Call Optimiser<br></li><li>PBR Demo and all PBR assets<br></li><li>Head Bobbing - add head moving when you run around your level.<br></li><li>Fake floor reflection<br></li><li>Environment particle snow<br></li><li>Real-time cascade shadows<br></li><li>Real-time water reflection and water movement<br></li><li>Terrain light mapper for real fast mobile friendly shadows on the terrain<br></li><li>Player flashlight supported<br></li><li>Simple AI system supporting GameGuru waypoints<br></li><li>Shaders for Normal and Specular mapping on objects and terrain<br></li><li>Scaling of shaders - going from a simple basemap only terrain to a full terrain using normals, specular and water reflections<br></li><li>Features can be enabled or disabled depending on your game target platform</li></ul><br><strong>Gameplay and AI</strong><br>GameGuru Loader comes with a simple game play system to give you a quick start on making your next own mobile FPS genre games.  Use it as is or expand it to your needs.<br><ul class=\"bb_ul\"><li>Enemy Characters can hold and shoot weapons<br></li><li>Enemy Characters can fall and die<br></li><li>The player can now shoot weapons<br></li><li>The player can die when health is depleted<br></li><li>Desktop First Person Shooter Mouse controls<br></li><li>Mobile controls - virtual joystick and fire button<br></li><li>Enemy shooting decals animations<br></li><li>When the player is hit a decal animates<br></li><li>Player gun cross-hair added<br></li><li>Added sound effects<br></li><li>Music for the game is supported<br></li><li>Directional HUD damage effect</li></ul><br><i>Terrain</i><br>What you see in GameGuru you will see in AppGameKit. The rock textures are calculated by the terrain normal values (just like GameGuru does).<br><br><i>Vegetation</i><br>The vegetation supports up to 10,000 objects per level - wherever you paint your vegetation in GameGuru this will be repeated in your AppGameKit version. There are AppGameKit settings for features such as Vegetation Spreading, Vegetation Distance and Vegetation Grid size.<br><br><i>SkyBox</i><br>The AppGameKit version supports a fully moving sky option. You can set the Horizon Colour value which is used by the fog to naturally fade.<br><br><i>Objects</i><br>All static and dynamic objects will appear. They are also affected by linear fog and fade into sky-box when seen in the distance.<br><br>Post process shaders included with GameGuru Loader include;<br><br><ul class=\"bb_ul\"><li>Bloom<br></li><li>FXAA<br></li><li>Lens flare<br></li><li> Cartoon (cel shading)<br></li><li>Dither (for retro looks)<br></li><li>C64 (for C64 retro look )</li></ul><br>Post processing quality settings Very Low, Low, Middle and High<br>Post processing shaders can be combined in any way you like.<br> <br>Use predefined scene colours such as &quot;morning&quot;,&quot;night&quot;,&quot;day&quot;,&quot;day fog”,”night bright”,”desert”, or define your own.<br><br>You can read more about GameGuru Loader by downloading the <a href=\"https://steamcommunity.com/linkfilter/?url=http://publicdata.thegamecreators.com/Docs/GameGuru Loader User Guide.pdf\" target=\"_blank\" rel=\"noopener\"  >official user guide here.</a><br><br><strong>Platforms</strong><br>This DLC is for the Windows platform only. The GameGuru Loader source code can also be used on Mac &amp; Linux platforms but the converter tool is currently only for Windows. There is documentation that explains how to convert on Mac &amp; Linux manually using a third party tool called xnconvert.<br><br><strong>IMPORTANT NOTE</strong><br>Most of the default media included in GameGuru will work out of the box in GameGuru Loader. Some objects that are not yet supported by AppGameKit might have to be converted or changed in order for them to work correctly in AppGameKit.<br><br>This is sold “as is” with no guarantees, you receive the source code and are able to modify it as you wish; you can add missing functions or change the current function to fit your needs. As this is source code you must know AppGameKit Tier 1 BASIC Script in order to use it and make your games.<br><br>Sadly, there is absolutely no guarantee that you will be able to make every possible level display and work well on mobile devices. Most mobiles are restricted in memory and CPU/GPU speed compared to PCs. Smaller levels might be able to work if you use the reduced media and use the very lowest settings within GameGuru Loader. As mobile devices get faster and have more available memory you will be able to process larger levels and use better quality settings. GameGuru Loader already allows you to scale the quality up and down.<br><br>GameGuru Loader will continue to be improved in line with any developments made with GameGuru and we will release updates to you as they are developed.",
+            "short_description": "GameGuru Loader provides a great, efficient way to convert and load GameGuru levels into AppGameKit, allowing you to link the easy building features of GameGuru with the smart coding commands of AppGameKit.",
+            "fullgame": {
+                "appid": "325180",
+                "name": "AppGameKit: Easy Game Development"
+            },
+            "supported_languages": "English",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/623270/header.jpg?t=1518185305",
+            "website": "http://www.appgamekit.com",
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP SP2 or better<br></li><li><strong>Processor:</strong> Intel Celeron / Athlon Sempron or better<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> Open GL 2.0 compatible or better<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Sound Card:</strong> N/A</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 or better<br></li><li><strong>Processor:</strong> Intel Core 2 / Athlon 2 X2 or better<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia Geforce 470GTX Titan / ATI Radeon 5850 or better<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Sound Card:</strong> N/A</li></ul>"
+            },
+            "mac_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mountain Lion 10.8 or better for IDE (10.7 for compiled apps)<br></li><li><strong>Processor:</strong> Intel Celeron or better<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> Open GL 2.0 compatible or better<br></li><li><strong>Sound Card:</strong> N/A</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mountain Lion 10.9 or better<br></li><li><strong>Processor:</strong> Intel Core 2 or better<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia / ATI (shader model 4.0+, year 2009) or better<br></li><li><strong>Sound Card:</strong> N/A</li></ul>"
+            },
+            "linux_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 14.04 (may work with others)<br></li><li><strong>Processor:</strong> Intel Celeron / Athlon Sempron or better<br></li><li><strong>Graphics:</strong> Open GL 2.0 compatible or better<br></li><li><strong>Sound Card:</strong> N/A<br></li><li><strong>Additional Notes:</strong> Requires Zenity for file browsing</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 14.04 (may work with others)<br></li><li><strong>Processor:</strong> Intel Core 2 / Athlon 2 X2 or better<br></li><li><strong>Graphics:</strong> Nvidia Geforce 470GTX Titan / ATI Radeon 5850 or better<br></li><li><strong>Sound Card:</strong> N/A<br></li><li><strong>Additional Notes:</strong> Requires Zenity for file browsing</li></ul>"
+            },
+            "developers": [
+                "The Game Creators"
+            ],
+            "publishers": [
+                "The Game Creators"
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 3699,
+                "final": 3699,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "36,99€"
+            },
+            "packages": [
+                167830
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy AppGameKit - GameGuru Loader",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 167830,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "AppGameKit - GameGuru Loader - 36,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 3699
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 21,
+                    "description": "Downloadable Content"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "51",
+                    "description": "Animation & Modeling"
+                },
+                {
+                    "id": "53",
+                    "description": "Design & Illustration"
+                },
+                {
+                    "id": "54",
+                    "description": "Education"
+                },
+                {
+                    "id": "56",
+                    "description": "Software Training"
+                },
+                {
+                    "id": "57",
+                    "description": "Utilities"
+                },
+                {
+                    "id": "59",
+                    "description": "Web Publishing"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/623270/ss_0435217a14f9a282e114b8c091b606a3849d5b58.600x338.jpg?t=1518185305",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/623270/ss_0435217a14f9a282e114b8c091b606a3849d5b58.1920x1080.jpg?t=1518185305"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/623270/ss_2480e4872c9708df4a7548ce1b0a412849b916e4.600x338.jpg?t=1518185305",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/623270/ss_2480e4872c9708df4a7548ce1b0a412849b916e4.1920x1080.jpg?t=1518185305"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/623270/ss_103d65a6495fbc5d74112ed8e8d93d796c279152.600x338.jpg?t=1518185305",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/623270/ss_103d65a6495fbc5d74112ed8e8d93d796c279152.1920x1080.jpg?t=1518185305"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/623270/ss_8efbe9ebebf6edd8c99dc2deffab04d60066b237.600x338.jpg?t=1518185305",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/623270/ss_8efbe9ebebf6edd8c99dc2deffab04d60066b237.1920x1080.jpg?t=1518185305"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/623270/ss_aa2268a24d3b8cb1087e56ccf28be8178b07925a.600x338.jpg?t=1518185305",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/623270/ss_aa2268a24d3b8cb1087e56ccf28be8178b07925a.1920x1080.jpg?t=1518185305"
+                },
+                {
+                    "id": 5,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/623270/ss_2a1cc499516d11479a2366df3fd595f68481ca9e.600x338.jpg?t=1518185305",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/623270/ss_2a1cc499516d11479a2366df3fd595f68481ca9e.1920x1080.jpg?t=1518185305"
+                },
+                {
+                    "id": 6,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/623270/ss_f30e5fa18c27bce92cfb91bfb1666c55f5ab16be.600x338.jpg?t=1518185305",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/623270/ss_f30e5fa18c27bce92cfb91bfb1666c55f5ab16be.1920x1080.jpg?t=1518185305"
+                },
+                {
+                    "id": 7,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/623270/ss_48a8a578c163e2b46535ecffb926d4b660be8b8f.600x338.jpg?t=1518185305",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/623270/ss_48a8a578c163e2b46535ecffb926d4b660be8b8f.1920x1080.jpg?t=1518185305"
+                },
+                {
+                    "id": 8,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/623270/ss_2d346c7c8cfd48e7162a9f207dbe5a19f90b3a93.600x338.jpg?t=1518185305",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/623270/ss_2d346c7c8cfd48e7162a9f207dbe5a19f90b3a93.1920x1080.jpg?t=1518185305"
+                },
+                {
+                    "id": 9,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/623270/ss_cbfe2e1222d2f4eca4e328f886831665a266cbd9.600x338.jpg?t=1518185305",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/623270/ss_cbfe2e1222d2f4eca4e328f886831665a266cbd9.1920x1080.jpg?t=1518185305"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 256705100,
+                    "name": "PBR Update",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256705100/movie.293x165.jpg?t=1515162093",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256705100/movie480.webm?t=1515162093",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256705100/movie_max.webm?t=1515162093"
+                    },
+                    "highlight": true
+                },
+                {
+                    "id": 256686992,
+                    "name": "GamePlay",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256686992/movie.293x165.jpg?t=1497361287",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256686992/movie480.webm?t=1497361287",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256686992/movie_max.webm?t=1497361287"
+                    },
+                    "highlight": true
+                },
+                {
+                    "id": 256684442,
+                    "name": "Water Shader",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256684442/movie.293x165.jpg?t=1493995525",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256684442/movie480.webm?t=1493995525",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256684442/movie_max.webm?t=1493995525"
+                    },
+                    "highlight": true
+                },
+                {
+                    "id": 256695087,
+                    "name": "AI Enhancement",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256695087/movie.293x165.jpg?t=1505484095",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256695087/movie480.webm?t=1505484095",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256695087/movie_max.webm?t=1505484095"
+                    },
+                    "highlight": true
+                }
+            ],
+            "achievements": {
+                "total": 0
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "21 Apr, 2017"
+            },
+            "support_info": {
+                "url": "http://www.thegamecreators.com/?m=contact_support",
+                "email": "support@thegamecreators.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/623270/page_bg_generated_v6b.jpg?t=1518185305",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

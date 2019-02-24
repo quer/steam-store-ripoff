@@ -1,0 +1,109 @@
+{
+    "364180": {
+        "success": true,
+        "data": {
+            "type": "dlc",
+            "name": "Goo Tunes (Super Goo Goo OST)",
+            "steam_appid": 364180,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "The soundtrack for Super Goo Goo",
+            "about_the_game": "The soundtrack for Super Goo Goo",
+            "short_description": "The soundtrack for Super Goo Goo",
+            "fullgame": {
+                "appid": "363900",
+                "name": "Super Goo Goo"
+            },
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/364180/header.jpg?t=1447372857",
+            "website": null,
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Any</li></ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "legal_notice": "We are legally obligated to inform you that this ost is 100% redonk funballs",
+            "publishers": [
+                ""
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 99,
+                "final": 99,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "0,99€"
+            },
+            "packages": [
+                65535
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Goo Tunes (Super Goo Goo OST)",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 65535,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Goo Tunes (Super Goo Goo OST) - 0,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 99
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 21,
+                    "description": "Downloadable Content"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "4",
+                    "description": "Casual"
+                },
+                {
+                    "id": "23",
+                    "description": "Indie"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/364180/ss_d63b3b879cba8bd84d12d66ede5a66059b7926c8.600x338.jpg?t=1447372857",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/364180/ss_d63b3b879cba8bd84d12d66ede5a66059b7926c8.1920x1080.jpg?t=1447372857"
+                }
+            ],
+            "release_date": {
+                "coming_soon": false,
+                "date": "16 Apr, 2015"
+            },
+            "support_info": {
+                "url": "http://dumbandfat.com",
+                "email": "greg@dumbandfat.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/364180/page_bg_generated_v6b.jpg?t=1447372857",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

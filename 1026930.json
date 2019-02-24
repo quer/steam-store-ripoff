@@ -1,0 +1,128 @@
+{
+    "1026930": {
+        "success": true,
+        "data": {
+            "type": "dlc",
+            "name": "Arena of Shaelo - Small Donation",
+            "steam_appid": 1026930,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "Donate creators of <a href=\"https://store.steampowered.com/app/1011960/Arena_of_Shaelo/\" target=\"_blank\" rel=\"noreferrer\"  >Arena of Shaelo</a> few dollars.<br><br>Depending on how much we receive from donations, we might do more polishing, new content or a sequel. It will guide our decisions for a next project (e.g. sequel, monetization, genre).<br><br>As stated, this is a donation - this &quot;DLC&quot; contains <strong>no</strong> additional content. The full game is available for free.",
+            "about_the_game": "Donate creators of <a href=\"https://store.steampowered.com/app/1011960/Arena_of_Shaelo/\" target=\"_blank\" rel=\"noreferrer\"  >Arena of Shaelo</a> few dollars.<br><br>Depending on how much we receive from donations, we might do more polishing, new content or a sequel. It will guide our decisions for a next project (e.g. sequel, monetization, genre).<br><br>As stated, this is a donation - this &quot;DLC&quot; contains <strong>no</strong> additional content. The full game is available for free.",
+            "short_description": "Donate creators of Arena of Shaelo few dollars.",
+            "fullgame": {
+                "appid": "1011960",
+                "name": "Arena of Shaelo"
+            },
+            "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1026930/header.jpg?t=1550245398",
+            "website": null,
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10</li></ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 16.04</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 16.04</li></ul>"
+            },
+            "developers": [
+                "Royal Donut"
+            ],
+            "publishers": [
+                ""
+            ],
+            "price_overview": {
+                "currency": "USD",
+                "initial": 999,
+                "final": 999,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "$9.99"
+            },
+            "packages": [
+                341220
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Arena of Shaelo - Small Donation",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 341220,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Arena of Shaelo - small donation - $9.99",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 999
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": true
+            },
+            "categories": [
+                {
+                    "id": 9,
+                    "description": "Co-op"
+                },
+                {
+                    "id": 24,
+                    "description": "Shared/Split Screen"
+                },
+                {
+                    "id": 21,
+                    "description": "Downloadable Content"
+                },
+                {
+                    "id": 13,
+                    "description": "Captions available"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "4",
+                    "description": "Casual"
+                },
+                {
+                    "id": "23",
+                    "description": "Indie"
+                },
+                {
+                    "id": "2",
+                    "description": "Strategy"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1026930/ss_4e85ef49a028481959538b4ed9caf0ef85511762.600x338.jpg?t=1550245398",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1026930/ss_4e85ef49a028481959538b4ed9caf0ef85511762.1920x1080.jpg?t=1550245398"
+                }
+            ],
+            "release_date": {
+                "coming_soon": false,
+                "date": "Feb 15, 2019"
+            },
+            "support_info": {
+                "url": "",
+                "email": "arenaofshaelo@disroot.org"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1026930/page_bg_generated_v6b.jpg?t=1550245398",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

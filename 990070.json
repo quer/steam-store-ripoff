@@ -1,0 +1,76 @@
+{
+    "990070": {
+        "success": true,
+        "data": {
+            "type": "demo",
+            "name": "Ah, Love! Demo",
+            "steam_appid": 990070,
+            "required_age": 0,
+            "is_free": true,
+            "detailed_description": "Includes first screen of 40 levels. Next 80 levels are in the full game version.",
+            "about_the_game": "Includes first screen of 40 levels. Next 80 levels are in the full game version.",
+            "short_description": "Includes first screen of 40 levels. Next 80 levels are in the full game version.",
+            "fullgame": {
+                "appid": "937390",
+                "name": "Ah, Love!"
+            },
+            "supported_languages": "English, Russian, Ukrainian",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/990070/header.jpg?t=1548923025",
+            "website": null,
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP<br></li><li><strong>Processor:</strong> 1 GHz<br></li><li><strong>Memory:</strong> 256 MB RAM<br></li><li><strong>Graphics:</strong> Integrated video<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 100 MB available space<br></li><li><strong>Sound Card:</strong> Integrated audio</li></ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "developers": [
+                "Lowixsama"
+            ],
+            "publishers": [
+                "Xitilon"
+            ],
+            "package_groups": [],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 10,
+                    "description": "Game demo"
+                },
+                {
+                    "id": 22,
+                    "description": "Steam Achievements"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "4",
+                    "description": "Casual"
+                },
+                {
+                    "id": "23",
+                    "description": "Indie"
+                }
+            ],
+            "release_date": {
+                "coming_soon": false,
+                "date": "1 Dec, 2018"
+            },
+            "support_info": {
+                "url": "",
+                "email": "xitilon@gmail.com"
+            },
+            "background": "",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

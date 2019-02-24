@@ -1,0 +1,82 @@
+{
+    "533140": {
+        "success": true,
+        "data": {
+            "type": "demo",
+            "name": "The Planet of the Vicious Creatures Demo",
+            "steam_appid": 533140,
+            "required_age": 0,
+            "is_free": true,
+            "controller_support": "full",
+            "detailed_description": "",
+            "about_the_game": "",
+            "short_description": "",
+            "fullgame": {
+                "appid": "530290",
+                "name": "The Planet of the Vicious Creatures"
+            },
+            "supported_languages": "English, French, Italian, Spanish - Spain, Polish, Portuguese, Portuguese - Brazil, German, Russian",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/533140/header.jpg?t=1539443820",
+            "website": "https://jorgicor.niobe.org/planetvc",
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP<br></li><li><strong>Memory:</strong> 18 MB RAM<br></li><li><strong>Storage:</strong> 3 MB available space</li></ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "legal_notice": "Copyright © 2016 Jorge Giner Cordero",
+            "developers": [
+                "Jorge Giner Cordero"
+            ],
+            "publishers": [
+                "Jorge Giner Cordero"
+            ],
+            "package_groups": [],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 10,
+                    "description": "Game demo"
+                },
+                {
+                    "id": 28,
+                    "description": "Full controller support"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "1",
+                    "description": "Action"
+                },
+                {
+                    "id": "25",
+                    "description": "Adventure"
+                },
+                {
+                    "id": "23",
+                    "description": "Indie"
+                }
+            ],
+            "release_date": {
+                "coming_soon": false,
+                "date": "5 Oct, 2016"
+            },
+            "support_info": {
+                "url": "",
+                "email": "jorge.giner@hotmail.com"
+            },
+            "background": "",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

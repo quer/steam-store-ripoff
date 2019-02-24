@@ -1,0 +1,218 @@
+{
+    "505550": {
+        "success": true,
+        "data": {
+            "type": "game",
+            "name": "Stream Buddy",
+            "steam_appid": 505550,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "Stream Buddy is a tool for Twitch streamers to help you provide more entertainment for your viewers. With Stream Buddy you can use mini-games for giveaways or for fun, and also use a 3d avatar as your persona where when you talk into your microphone, the avatars mouth will move to look like the avatar is talking.<br><br>Stream Buddy hooks into the Twitch API, meaning <strong><u>you will require a Twitch.TV account</u></strong> to use some features, allowing for viewers to interact with Stream Buddy. With the mini-games, players can enter during the lobby phase of the game by typing &quot;!play&quot;, then random players that enter are selected in random chance games to play.<br><br>Another great feature of Stream Buddy is Viewer Street. With Viewer Street, you can watch your stream viewers chatting in real time live as if they are characters walking down the street in Stream Buddy. When a user enters a message in your Twitch chat, their character is created in Stream Buddy Viewer Street and their messages will then appear above their head. If you don't like the viewer, you can use the overhead camera to shoot them down by shooting down a hailstorm of bullets to destroy that viewer.<br><br><strong><u>Features that require a Twitch.TV Account:</u></strong><br>- Mini-games where Twitch viewers can enter.<br>- Viewer Street - where your twitch viewers can appear in Stream Buddy along with their chat messages.<br>- <strong><i>Note: Port 6667 TCP/UDP must be open to access Twitch chat api.</i></strong> Some routers might block this port by default, however you can usually open access to this port in you router settings. Port 6667 is a very common IRC port and Stream Buddy uses it to connect to irc.twitch.tv to access your stream chat in real time.<br><br><strong><u>Features that don't require a Twitch.TV Account:</u></strong><br>- 3d avatar and moving mouth which syncs to your microphone (microphone required moving mouth synced to microphone input).",
+            "about_the_game": "Stream Buddy is a tool for Twitch streamers to help you provide more entertainment for your viewers. With Stream Buddy you can use mini-games for giveaways or for fun, and also use a 3d avatar as your persona where when you talk into your microphone, the avatars mouth will move to look like the avatar is talking.<br><br>Stream Buddy hooks into the Twitch API, meaning <strong><u>you will require a Twitch.TV account</u></strong> to use some features, allowing for viewers to interact with Stream Buddy. With the mini-games, players can enter during the lobby phase of the game by typing &quot;!play&quot;, then random players that enter are selected in random chance games to play.<br><br>Another great feature of Stream Buddy is Viewer Street. With Viewer Street, you can watch your stream viewers chatting in real time live as if they are characters walking down the street in Stream Buddy. When a user enters a message in your Twitch chat, their character is created in Stream Buddy Viewer Street and their messages will then appear above their head. If you don't like the viewer, you can use the overhead camera to shoot them down by shooting down a hailstorm of bullets to destroy that viewer.<br><br><strong><u>Features that require a Twitch.TV Account:</u></strong><br>- Mini-games where Twitch viewers can enter.<br>- Viewer Street - where your twitch viewers can appear in Stream Buddy along with their chat messages.<br>- <strong><i>Note: Port 6667 TCP/UDP must be open to access Twitch chat api.</i></strong> Some routers might block this port by default, however you can usually open access to this port in you router settings. Port 6667 is a very common IRC port and Stream Buddy uses it to connect to irc.twitch.tv to access your stream chat in real time.<br><br><strong><u>Features that don't require a Twitch.TV Account:</u></strong><br>- 3d avatar and moving mouth which syncs to your microphone (microphone required moving mouth synced to microphone input).",
+            "short_description": "Enhance your online Twitch stream with Stream Buddy. Use Stream Buddy to provide mini games for your viewers, adding a new level of viewer interaction! Even more, our 3d avatar system allows you to use a Stream Buddy character without need of webcam, including voice to mouth movement!",
+            "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Russian<strong>*</strong><br><strong>*</strong>languages with full audio support",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/505550/header.jpg?t=1476932441",
+            "website": "http://chrisforge.tech/",
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7, 8, or 10<br></li><li><strong>Processor:</strong> Intel i5 or better<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> 1GB - DirectX 9 or better<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 3 GB available space<br></li><li><strong>Additional Notes:</strong> NVIDIA or AMD/ATI GPU recommended. Microphone for avatar lip sync.</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7, 8, or 10<br></li><li><strong>Processor:</strong> Intel i5 or better<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> 1GB<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 3 GB available space<br></li><li><strong>Additional Notes:</strong> Mid-tier NVIDIA or AMD/ATI GPU or better recommended. Microphone for avatar lip sync.</li></ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "legal_notice": "Copyright © 2016 Stardale Studio Corp.",
+            "ext_user_account_notice": "Twitch.tv ",
+            "developers": [
+                "Stardale Studio"
+            ],
+            "publishers": [
+                "Stardale Studio"
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 329,
+                "final": 329,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "3,29€"
+            },
+            "packages": [
+                116515
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Stream Buddy",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 116515,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Stream Buddy - 3,29€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 329
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 22,
+                    "description": "Steam Achievements"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "57",
+                    "description": "Utilities"
+                },
+                {
+                    "id": "58",
+                    "description": "Video Production"
+                },
+                {
+                    "id": "70",
+                    "description": "Early Access"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/505550/ss_3a1a660a48ebfa394d383814f25f9518ab049f49.600x338.jpg?t=1476932441",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/505550/ss_3a1a660a48ebfa394d383814f25f9518ab049f49.1920x1080.jpg?t=1476932441"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/505550/ss_b7a389e085c8e209b7f865fb90ef21515f0906cc.600x338.jpg?t=1476932441",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/505550/ss_b7a389e085c8e209b7f865fb90ef21515f0906cc.1920x1080.jpg?t=1476932441"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/505550/ss_04998c7532e6da6c065c0a2383285e9b108afad1.600x338.jpg?t=1476932441",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/505550/ss_04998c7532e6da6c065c0a2383285e9b108afad1.1920x1080.jpg?t=1476932441"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/505550/ss_d75019fb559560b1bb22b0da9258fa3dd8d10167.600x338.jpg?t=1476932441",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/505550/ss_d75019fb559560b1bb22b0da9258fa3dd8d10167.1920x1080.jpg?t=1476932441"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/505550/ss_7c784acdc0d9dc2834db013177c551676e2fe564.600x338.jpg?t=1476932441",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/505550/ss_7c784acdc0d9dc2834db013177c551676e2fe564.1920x1080.jpg?t=1476932441"
+                },
+                {
+                    "id": 5,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/505550/ss_399ae48be7ce3311a6cd7cbd92074019b6252edd.600x338.jpg?t=1476932441",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/505550/ss_399ae48be7ce3311a6cd7cbd92074019b6252edd.1920x1080.jpg?t=1476932441"
+                },
+                {
+                    "id": 6,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/505550/ss_cc01ab5286c811d3843ab06b4bdf0debf451cc78.600x338.jpg?t=1476932441",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/505550/ss_cc01ab5286c811d3843ab06b4bdf0debf451cc78.1920x1080.jpg?t=1476932441"
+                },
+                {
+                    "id": 7,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/505550/ss_6069ca7650eb033ea163fa5168d660bcd952702f.600x338.jpg?t=1476932441",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/505550/ss_6069ca7650eb033ea163fa5168d660bcd952702f.1920x1080.jpg?t=1476932441"
+                },
+                {
+                    "id": 8,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/505550/ss_8cbe6ef5c3dc802a07c84a2a64ab0b2aa6e6a8bd.600x338.jpg?t=1476932441",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/505550/ss_8cbe6ef5c3dc802a07c84a2a64ab0b2aa6e6a8bd.1920x1080.jpg?t=1476932441"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 256671933,
+                    "name": "Stream Buddy Early Access Trailer",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256671933/movie.293x165.jpg?t=1476932354",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256671933/movie480.webm?t=1476932354",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256671933/movie_max.webm?t=1476932354"
+                    },
+                    "highlight": true
+                },
+                {
+                    "id": 256672411,
+                    "name": "Connecting to Twitch",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256672411/movie.293x165.jpg?t=1476932365",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256672411/movie480.webm?t=1476932365",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256672411/movie_max.webm?t=1476932365"
+                    },
+                    "highlight": true
+                }
+            ],
+            "achievements": {
+                "total": 24,
+                "highlighted": [
+                    {
+                        "name": "Streamed a total of 1 hour.",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/505550/8e950b1e7415fbc3b5c185d9b46193273078ed78.jpg"
+                    },
+                    {
+                        "name": "Streamed a total of 10 hours.",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/505550/7de459e62b4b5acc2949e1060adeb48ee05d516f.jpg"
+                    },
+                    {
+                        "name": "Streamed a total of 50 hours.",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/505550/d8c8e64eed00aa2f9e04e62b1ca64fa6d17da3b2.jpg"
+                    },
+                    {
+                        "name": "Streamed a total of 100 hours.",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/505550/87bdf3f765a844d343b74c36ee3ea13a4506feee.jpg"
+                    },
+                    {
+                        "name": "Streamed a total of 250 hours.",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/505550/90c40e45d66a01f2f7c7861a55f3c8dfd60463cb.jpg"
+                    },
+                    {
+                        "name": "Streamed a total of 500 hours.",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/505550/0d9f5ca288134b5e411896e4665aa3df4c84e364.jpg"
+                    },
+                    {
+                        "name": "Streamed a total of 750 hours.",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/505550/48e97bf6f49f2018bec87fec62b45f1a19334953.jpg"
+                    },
+                    {
+                        "name": "Streamed a total of 1000 hours.",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/505550/c4b1a593dec1dd531413fb3c959efb45b42a63d7.jpg"
+                    },
+                    {
+                        "name": "Streamed a total of 2000 hours.",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/505550/77b5ce9634a98c5603bce1be36a58eee6cd1b3e4.jpg"
+                    },
+                    {
+                        "name": "Streamed a total of 5000 hours.",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/505550/16ef6061401b57edc01a17c879c43d2ec11a1f81.jpg"
+                    }
+                ]
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "19 Oct, 2016"
+            },
+            "support_info": {
+                "url": "http://chrisforge.tech/",
+                "email": "support@blocklings.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/505550/page_bg_generated_v6b.jpg?t=1476932441",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

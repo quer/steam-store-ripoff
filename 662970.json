@@ -1,0 +1,139 @@
+{
+    "662970": {
+        "success": true,
+        "data": {
+            "type": "dlc",
+            "name": "RPG Maker MV - MADO",
+            "steam_appid": 662970,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "<h2 class=\"bb_tag\">The Ultimate tool to easily customize your windows</h2>MADO is tool created for the RPG Maker MV series. It lets you customize the window graphic used in your game. MADO includes, 50 themes for frame, corners and background patterns! You're just a few clicks away from making the perfect windows to match your game world! These include:<br><br><ul class=\"bb_ul\"><li>Standard<br></li><li>Modern<br></li><li>Pop<br></li><li>Material<br></li><li>Machine<br></li><li>Other</li></ul><br>With that much choices, you can customize your game windows to fit several game themes such as the classic fantasy RPG, futuristic worlds, high-school romance, horror and much more.<h2 class=\"bb_tag\">Installing MADO</h2><br><ul class=\"bb_ul\"><li>Open RPG Maker MV and your Project.<br></li><li>Select Tools -&gt; RPG Maker MV Tools...<br></li><li>Select Window Maker -&gt; Add<br></li><li>Press OK.<br></li><li>Press the newly added icon to start using MADO! There is a guide to help you use it in the Help Tab.</li></ul><br><strong>NOTE:</strong> MADO installs a plugin to your desired project. This is how it will modify the windows of your game.<h2 class=\"bb_tag\">Customizing MADO</h2>You can also add your own original window graphic parts! <br><ul class=\"bb_ul\"><li>Go to the Root Folder of the Tool. Normally this is in Steam\\steamapps\\common\\RPG Maker MV\\tool\\MADO\\Parts</li></ul><ul class=\"bb_ul\"><li>You will see an img folder. This is where you will place the new Window Graphics you wish to use. Window_ID050 is a template that you can follow.<br></li><li>Once you are done, simply name your new graphic as &quot;Window_ID0XX&quot; 0XX being the new number. This is the unique ID of your graphic.<br></li><li>The thumbs folder is a small preview of your newly made window graphic to display on the tool itself. Make sure to add a thumb image on your newly created graphic as well! <br></li><li>Go back to parts folder and open setting.json. <br></li><li>At the very end of &quot;category&quot;: &quot;All&quot; add your newest window graphic such as &quot;051&quot;<br></li><li>Then add the same ID based on which category you want to set it to. If your new window graphic classifies as fantasy, go to &quot;category&quot;: &quot;Standard&quot; and add the latest id at the very end of the id. It would look like something like this:<br>&quot;id&quot;: [&quot;001&quot;,&quot;006&quot;,&quot;007&quot;,&quot;009&quot;,&quot;011&quot;,&quot;012&quot;,&quot;017&quot;,&quot;018&quot;,&quot;036&quot;,&quot;037&quot;, &quot;051&quot;]<br></li><li>Congrats! You have added your own custom graphic!</li></ul>",
+            "about_the_game": "<h2 class=\"bb_tag\">The Ultimate tool to easily customize your windows</h2>MADO is tool created for the RPG Maker MV series. It lets you customize the window graphic used in your game. MADO includes, 50 themes for frame, corners and background patterns! You're just a few clicks away from making the perfect windows to match your game world! These include:<br><br><ul class=\"bb_ul\"><li>Standard<br></li><li>Modern<br></li><li>Pop<br></li><li>Material<br></li><li>Machine<br></li><li>Other</li></ul><br>With that much choices, you can customize your game windows to fit several game themes such as the classic fantasy RPG, futuristic worlds, high-school romance, horror and much more.<h2 class=\"bb_tag\">Installing MADO</h2><br><ul class=\"bb_ul\"><li>Open RPG Maker MV and your Project.<br></li><li>Select Tools -&gt; RPG Maker MV Tools...<br></li><li>Select Window Maker -&gt; Add<br></li><li>Press OK.<br></li><li>Press the newly added icon to start using MADO! There is a guide to help you use it in the Help Tab.</li></ul><br><strong>NOTE:</strong> MADO installs a plugin to your desired project. This is how it will modify the windows of your game.<h2 class=\"bb_tag\">Customizing MADO</h2>You can also add your own original window graphic parts! <br><ul class=\"bb_ul\"><li>Go to the Root Folder of the Tool. Normally this is in Steam\\steamapps\\common\\RPG Maker MV\\tool\\MADO\\Parts</li></ul><ul class=\"bb_ul\"><li>You will see an img folder. This is where you will place the new Window Graphics you wish to use. Window_ID050 is a template that you can follow.<br></li><li>Once you are done, simply name your new graphic as &quot;Window_ID0XX&quot; 0XX being the new number. This is the unique ID of your graphic.<br></li><li>The thumbs folder is a small preview of your newly made window graphic to display on the tool itself. Make sure to add a thumb image on your newly created graphic as well! <br></li><li>Go back to parts folder and open setting.json. <br></li><li>At the very end of &quot;category&quot;: &quot;All&quot; add your newest window graphic such as &quot;051&quot;<br></li><li>Then add the same ID based on which category you want to set it to. If your new window graphic classifies as fantasy, go to &quot;category&quot;: &quot;Standard&quot; and add the latest id at the very end of the id. It would look like something like this:<br>&quot;id&quot;: [&quot;001&quot;,&quot;006&quot;,&quot;007&quot;,&quot;009&quot;,&quot;011&quot;,&quot;012&quot;,&quot;017&quot;,&quot;018&quot;,&quot;036&quot;,&quot;037&quot;, &quot;051&quot;]<br></li><li>Congrats! You have added your own custom graphic!</li></ul>",
+            "short_description": "Ultimate tool to easily customize your windows.",
+            "fullgame": {
+                "appid": "363890",
+                "name": "RPG Maker MV"
+            },
+            "supported_languages": "English, Japanese, French, Italian, German, Spanish - Spain, Arabic, Korean, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/662970/header.jpg?t=1529380223",
+            "website": "http://www.rpgmakerweb.com/",
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> WindowsR 7/8/8.1/10 (32bit/64bit)<br></li><li><strong>Processor:</strong> Intel Core2 Duo or better<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> DirectX 9/OpenGL 4.1 capable GPU<br></li><li><strong>Storage:</strong> 500 MB available space<br></li><li><strong>Additional Notes:</strong> 1280x768 or better Display</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>Graphics:</strong> OpenGL ES 2.0 hardware driver support required for WebGL acceleration. (AMD Catalyst 10.9, nVidia 358.50), iOS 8.0, Android 4.4.4*</li></ul>"
+            },
+            "mac_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OSX 10.10 or better<br></li><li><strong>Processor:</strong> Intel Core2 Duo or better<br></li><li><strong>Graphics:</strong> Compatible OpenGLR</li></ul>"
+            },
+            "linux_requirements": [],
+            "legal_notice": "©2015 KADOKAWA CORPORATION./YOJI OJIMA",
+            "developers": [
+                "KADOKAWA"
+            ],
+            "publishers": [
+                "Degica"
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 999,
+                "final": 999,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "9,99€"
+            },
+            "packages": [
+                188137
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy RPG Maker MV - MADO",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 188137,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "RPG Maker MV - MADO - 9,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 999
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": true,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 21,
+                    "description": "Downloadable Content"
+                },
+                {
+                    "id": 18,
+                    "description": "Partial Controller Support"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "53",
+                    "description": "Design & Illustration"
+                },
+                {
+                    "id": "59",
+                    "description": "Web Publishing"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/662970/ss_18c45157d609e38faf7c4879aed7b550d512d5fd.600x338.jpg?t=1529380223",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/662970/ss_18c45157d609e38faf7c4879aed7b550d512d5fd.1920x1080.jpg?t=1529380223"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/662970/ss_88a41e9bd63d51f5c0a98692d9780615e5676e16.600x338.jpg?t=1529380223",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/662970/ss_88a41e9bd63d51f5c0a98692d9780615e5676e16.1920x1080.jpg?t=1529380223"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/662970/ss_1bb2bb2d1d7f16fc563e8c403b7aa042f1145268.600x338.jpg?t=1529380223",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/662970/ss_1bb2bb2d1d7f16fc563e8c403b7aa042f1145268.1920x1080.jpg?t=1529380223"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/662970/ss_56acdfbb47aff63a78ceff5bc5fa3cb4c0aab8d7.600x338.jpg?t=1529380223",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/662970/ss_56acdfbb47aff63a78ceff5bc5fa3cb4c0aab8d7.1920x1080.jpg?t=1529380223"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/662970/ss_e334dd4d5a6420226afc970e4ab88a4b1c948755.600x338.jpg?t=1529380223",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/662970/ss_e334dd4d5a6420226afc970e4ab88a4b1c948755.1920x1080.jpg?t=1529380223"
+                }
+            ],
+            "achievements": {
+                "total": 0
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "6 Sep, 2017"
+            },
+            "support_info": {
+                "url": "http://www.rpgmakerweb.com/support",
+                "email": ""
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/662970/page_bg_generated_v6b.jpg?t=1529380223",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

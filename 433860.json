@@ -1,0 +1,152 @@
+{
+    "433860": {
+        "success": true,
+        "data": {
+            "type": "demo",
+            "name": "X Rebirth Demo",
+            "steam_appid": 433860,
+            "required_age": 0,
+            "is_free": true,
+            "controller_support": "full",
+            "detailed_description": "",
+            "about_the_game": "",
+            "short_description": "This demo of X Rebirth is based on the expansion Home of Light and lets you take a first glance at the X-Universe.",
+            "fullgame": {
+                "appid": "2870",
+                "name": "X Rebirth"
+            },
+            "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian, German<strong>*</strong>, Korean, Russian, Simplified Chinese, Traditional Chinese<br><strong>*</strong>languages with full audio support",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/433860/header.jpg?t=1533209114",
+            "website": "http://www.egosoft.com/games/x_rebirth/info_en.php",
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10 (64-bit), Windows 8 (64-bit), Windows 7 SP1 (64-bit), Vista SP2 (64-bit), XP SP3 (64-bit)<br></li><li><strong>Processor:</strong> Intel i-Series at 2GHz or AMD equivalent<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GT400 series with 512MB RAM or better, ATI 4870HD with 512MB RAM or better<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 8 GB available space<br></li><li><strong>Sound Card:</strong> DirectX 9.0c Compatible Sound Card</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10 (64-bit), Windows 8 (64-bit), Windows 7 SP1 (64-bit)<br></li><li><strong>Processor:</strong> Intel i5 (Quad) or i7 at 2.5GHz or AMD equivalent<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GT500 series with 1GB RAM or better, ATI 5870HD with 1GB RAM or better<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 12 GB available space<br></li><li><strong>Sound Card:</strong> DirectX 9.0c Compatible Sound Card</li></ul>"
+            },
+            "mac_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OS X 10.9 Mavericks<br></li><li><strong>Processor:</strong> Intel i-Series at 2GHz or AMD equivalent<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Intel Iris Pro<br></li><li><strong>Storage:</strong> 8 GB available space<br></li><li><strong>Sound Card:</strong> OpenAL Soft compatible<br></li><li><strong>Additional Notes:</strong> OpenGL version 4.2</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OS X 10.10 Yosemite<br></li><li><strong>Processor:</strong> Intel i5 (Quad) or i7 at 2.5GHz or AMD equivalent<br></li><li><strong>Memory:</strong> 12 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GT750M, Nvidia GT600 series with 1 GB RAM or better, AMD 6850HD with 1 GB RAM or better<br></li><li><strong>Storage:</strong> 12 GB available space<br></li><li><strong>Sound Card:</strong> OpenAL Soft compatible<br></li><li><strong>Additional Notes:</strong> OpenGL version 4.2</li></ul>"
+            },
+            "linux_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> SteamOS (64-bit) or Ubuntu 14.04 (64-bit)<br></li><li><strong>Processor:</strong> Intel i-Series at 2GHz or AMD equivalent<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Vendor proprietary drivers, Nvidia GT500 series with 1GB RAM or better, ATI 5870HD with 1GB RAM or better<br></li><li><strong>Storage:</strong> 8 GB available space<br></li><li><strong>Sound Card:</strong> OpenAL Soft compatible<br></li><li><strong>Additional Notes:</strong> OpenGL version 4.2</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> SteamOS (64-bit) or Ubuntu 14.04 (64-bit)<br></li><li><strong>Processor:</strong> Intel i5 (Quad) or i7 at 2.5GHz or AMD equivalent<br></li><li><strong>Memory:</strong> 12 GB RAM<br></li><li><strong>Graphics:</strong> Vendor proprietary drivers, Nvidia GT600 series with 1GB RAM or better, ATI 6850HD with 1GB RAM or better<br></li><li><strong>Storage:</strong> 12 GB available space<br></li><li><strong>Sound Card:</strong> OpenAL Soft compatible<br></li><li><strong>Additional Notes:</strong> OpenGL version 4.2</li></ul>"
+            },
+            "developers": [
+                "Egosoft"
+            ],
+            "publishers": [
+                "Egosoft"
+            ],
+            "package_groups": [],
+            "platforms": {
+                "windows": true,
+                "mac": true,
+                "linux": true
+            },
+            "metacritic": {
+                "score": 33
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 10,
+                    "description": "Game demo"
+                },
+                {
+                    "id": 22,
+                    "description": "Steam Achievements"
+                },
+                {
+                    "id": 28,
+                    "description": "Full controller support"
+                },
+                {
+                    "id": 29,
+                    "description": "Steam Trading Cards"
+                },
+                {
+                    "id": 13,
+                    "description": "Captions available"
+                },
+                {
+                    "id": 30,
+                    "description": "Steam Workshop"
+                },
+                {
+                    "id": 23,
+                    "description": "Steam Cloud"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "1",
+                    "description": "Action"
+                },
+                {
+                    "id": "28",
+                    "description": "Simulation"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/433860/ss_64f6c1b961371622babbc09118d45abc8a5e7c3e.600x338.jpg?t=1533209114",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/433860/ss_64f6c1b961371622babbc09118d45abc8a5e7c3e.1920x1080.jpg?t=1533209114"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/433860/ss_1f2d2095eaf1fdb5c791e98c242587ef0f8fd72f.600x338.jpg?t=1533209114",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/433860/ss_1f2d2095eaf1fdb5c791e98c242587ef0f8fd72f.1920x1080.jpg?t=1533209114"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/433860/ss_b56bd701911fc7976f1bb23a3495f1ea357febb6.600x338.jpg?t=1533209114",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/433860/ss_b56bd701911fc7976f1bb23a3495f1ea357febb6.1920x1080.jpg?t=1533209114"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/433860/ss_1548893e382e73b29139b33334c8975a3c3c0dae.600x338.jpg?t=1533209114",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/433860/ss_1548893e382e73b29139b33334c8975a3c3c0dae.1920x1080.jpg?t=1533209114"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/433860/ss_c5feb33a8731502ac887c517782241cccd56de46.600x338.jpg?t=1533209114",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/433860/ss_c5feb33a8731502ac887c517782241cccd56de46.1920x1080.jpg?t=1533209114"
+                },
+                {
+                    "id": 5,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/433860/ss_d37260e1411e4fb800ed61f93ac3f2463ed42875.600x338.jpg?t=1533209114",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/433860/ss_d37260e1411e4fb800ed61f93ac3f2463ed42875.1920x1080.jpg?t=1533209114"
+                },
+                {
+                    "id": 6,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/433860/ss_3120c266e7d8fd1afcbf8a4b3eafcf6b16858055.600x338.jpg?t=1533209114",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/433860/ss_3120c266e7d8fd1afcbf8a4b3eafcf6b16858055.1920x1080.jpg?t=1533209114"
+                },
+                {
+                    "id": 7,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/433860/ss_4db1557b3f1cc6b52ae0222337966752964fe6f1.600x338.jpg?t=1533209114",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/433860/ss_4db1557b3f1cc6b52ae0222337966752964fe6f1.1920x1080.jpg?t=1533209114"
+                }
+            ],
+            "achievements": {
+                "total": 0
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "25 Feb, 2016"
+            },
+            "support_info": {
+                "url": "http://www.egosoft.com/support/index_en.php",
+                "email": "info@egosoft.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/433860/page_bg_generated_v6b.jpg?t=1533209114",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

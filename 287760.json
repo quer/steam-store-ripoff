@@ -1,0 +1,133 @@
+{
+    "287760": {
+        "success": true,
+        "data": {
+            "type": "dlc",
+            "name": "Leadwerks Game Engine - Professional Edition",
+            "steam_appid": 287760,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "Leadwerks Game Engine: Professional Edition gives you full access to our C++ API for ultimate performance, and compatibility with third-party libraries. Use Visual Studio and Code::Blocks to write games with Leadwerks in pure C++.<h2 class=\"bb_tag\">Key Features</h2><strong>Learn to Make Your Own Royalty-Free Games</strong><br>We provide tons of documentation and video tutorials walking you through the steps to build your own 3D games.  Leadwerks is the perfect pathway to go from total noob to pro game developer.  And when you do publish your commercial game, there's no royalties to pay, ever.<br><br><strong>Advanced Graphics</strong><br>Leadwerks makes AAA graphics achievable with hardware tessellation, geometry shaders, and a deferred renderer with up to 32x MSAA.  Our renderer redefines realtime with image quality more like a cg render than real-time games of the past.  The use of OpenGL 4.0 provides equivalent graphics to DirectX 11, with cross-platform support across operating systems, for future expansion.<br><br><strong>Built-in Level Design Tools</strong><br>Build game levels from scratch right in our editor with constructive solid geometry.  Our tools make it easy to sketch out your design and bring your ideas to life.  Anyone can build their own game worlds in Leadwerks, without having to be an expert artist.<br><br><strong>Integrated Lua Script Editor</strong><br>We integrated Lua right into Leadwerks because of its proven track records in hundreds of commercial games including Crysis, World of Warcraft, and Garry's Mod. Lua integrates seamlessly with native code for rapid prototyping and instant control.  The built-in debugger lets you pause your game, step through code, and inspect every variable in the program in real-time.  Lua is perfect for beginners, and the integrated Just-In-Time (JIT) compiler ensures your games will keep running fast as they grow.<br><br><strong>Visual Flowgraph for Advanced Game Mechanics</strong><br>Our unique visual flowgraph enables designers to set up game mechanics, build interactions, and design advanced scripted sequences, without touching a line of code.  The flowgraph system integrates seamlessly with Lua script, allowing script programmers to expose their own functions and add new possibilities for gameplay.<br><br><strong>Royalty-Free License</strong><br>Your games you make are yours.  Yours to play, yours to sell, yours to give away, and do as you please.  You will never be charged royalties for any game you make in Leadwerks.  And because we only rely on free open-source middleware libraries, you never have to worry about purchasing expensive licenses from third parties.<h2 class=\"bb_tag\">Steam Features</h2><ul class=\"bb_ul\"><li>Download and publish game content with Steam Workshop.<br></li><li>Publish your Lua game to the Workshop for other users to play.<br></li><li>Publish image renders and YouTube videos directly to Steam from the editor.<br></li><li>Built-in Steamworks support makes your game ready to publish to Steam.</li></ul><h2 class=\"bb_tag\">Graphics</h2><ul class=\"bb_ul\"><li>OpenGL 4.0 deferred renderer with uniform lighting model supports any number of lights, all casting soft dynamic shadows.<br></li><li>Up to 32x hardware MSAA makes rendered images incredibly sharp and detailed.<br></li><li>Full support for vertex, fragment, geometry, and tessellation shaders.<br></li><li>Dynamic megatexture terrain provides fast rendering of terrains with many layers.<br></li><li>Hierarchical hardware occlusion queries provides fast visibility testing.<br></li><li>Hardware tessellation for dynamic real surface displacement on the GPU.<br></li><li>Normal mapping with specular and cubemap reflections.<br></li><li>Instanced rendering allows fast drawing of large volumes of objects.<br></li><li>Hardware skinning provides fast skinned animation.<br></li><li>Deferred transparency with multiple overlapping layers of shading.<br></li><li>Real-time mesh modification.<br></li><li>Trilinear and up to 16x anisotropic filtering.<br></li><li>Blend and transition animation sequences.<br></li><li>Extract animation sequences in the editor.</li></ul><h2 class=\"bb_tag\">Editor</h2><ul class=\"bb_ul\"><li>Automatic asset management reloads models and textures when they are modified from another application.<br></li><li>Drag and drop import of FBX, DDS, BMP, JPG, PNG, TGA, and PSD files.<br></li><li>Visual interface controls every aspect of the art pipeline.<br></li><li>Constructive solid geometry modeling tools.<br></li><li>Brush primitives include box, wedge, cylinder, sphere, arch, tube, and torus.<br></li><li>Automatic UV mapping.<br></li><li>Brush smooth groups.<br></li><li>GPU-accelerated terrain editor makes sculpting silky smooth and fast.<br></li><li>Built-in shader editor with instant visualization and error highlighting.<br></li><li>Native user interface is used on each supported platform.</li></ul><h2 class=\"bb_tag\">Programming</h2><ul class=\"bb_ul\"><li>Built-in Lua script editor with debugger, code stepping, and syntax highlighting.<br></li><li>Visual flowgraph lets you connect objects to control game interactions and set up scripted sequences.<br></li><li>Launch your game and debug the Lua virtual machine as it runs.<br></li><li>API design with an object-oriented command set lets you code any type of game.<br></li><li>Entity scripts provide a per-object hook interface.<br></li><li>Direct programming gives you control over your game's loop and program structure.<br></li><li>Script variables are displayed in a visual interface and reloaded in real-time.</li></ul><h2 class=\"bb_tag\">AI</h2><ul class=\"bb_ul\"><li>Navmesh pathfinding provides automatic AI navigation that works everywhere.<br></li><li>Character controller movement seamlessly integrated with physics and pathfinding systems.<br></li><li>Set entities to automatically chase another object or navigate to a position.</li></ul><h2 class=\"bb_tag\">Physics</h2><ul class=\"bb_ul\"><li>Fast and accurate rigid body physics.<br></li><li>Constraints including hinge, ball, and sliding joints.<br></li><li>Joint actuators provide fast and stable motorized constraints for doors, robotic arms, and other motion.<br></li><li>Automatic physics shape calculation.<br></li><li>Generate physics shapes in the editor from models or brushes.<br></li><li>Swept collision.<br></li><li>Raycasting with lines or spheres.</li></ul><h2 class=\"bb_tag\">Particles</h2><ul class=\"bb_ul\"><li>Real-time particle editor with instant visualization.<br></li><li>Emission volumes include box, sphere, cylinder, tube, and cone.<br></li><li>Adjustable curve graph for alpha and scale.<br></li><li>Particle animation sheets with adjustable frame counts and layout.<br></li><li>Velocity-based rotation for directional particles like sparks.</li></ul><h2 class=\"bb_tag\">Sound</h2><ul class=\"bb_ul\"><li>3D sound spatialization.<br></li><li>Emit a sound from any entity.<br></li><li>Automatic channel management frees up unneeded channels.<br></li><li>Skip to any time in sound.</li></ul>",
+            "about_the_game": "Leadwerks Game Engine: Professional Edition gives you full access to our C++ API for ultimate performance, and compatibility with third-party libraries. Use Visual Studio and Code::Blocks to write games with Leadwerks in pure C++.<h2 class=\"bb_tag\">Key Features</h2><strong>Learn to Make Your Own Royalty-Free Games</strong><br>We provide tons of documentation and video tutorials walking you through the steps to build your own 3D games.  Leadwerks is the perfect pathway to go from total noob to pro game developer.  And when you do publish your commercial game, there's no royalties to pay, ever.<br><br><strong>Advanced Graphics</strong><br>Leadwerks makes AAA graphics achievable with hardware tessellation, geometry shaders, and a deferred renderer with up to 32x MSAA.  Our renderer redefines realtime with image quality more like a cg render than real-time games of the past.  The use of OpenGL 4.0 provides equivalent graphics to DirectX 11, with cross-platform support across operating systems, for future expansion.<br><br><strong>Built-in Level Design Tools</strong><br>Build game levels from scratch right in our editor with constructive solid geometry.  Our tools make it easy to sketch out your design and bring your ideas to life.  Anyone can build their own game worlds in Leadwerks, without having to be an expert artist.<br><br><strong>Integrated Lua Script Editor</strong><br>We integrated Lua right into Leadwerks because of its proven track records in hundreds of commercial games including Crysis, World of Warcraft, and Garry's Mod. Lua integrates seamlessly with native code for rapid prototyping and instant control.  The built-in debugger lets you pause your game, step through code, and inspect every variable in the program in real-time.  Lua is perfect for beginners, and the integrated Just-In-Time (JIT) compiler ensures your games will keep running fast as they grow.<br><br><strong>Visual Flowgraph for Advanced Game Mechanics</strong><br>Our unique visual flowgraph enables designers to set up game mechanics, build interactions, and design advanced scripted sequences, without touching a line of code.  The flowgraph system integrates seamlessly with Lua script, allowing script programmers to expose their own functions and add new possibilities for gameplay.<br><br><strong>Royalty-Free License</strong><br>Your games you make are yours.  Yours to play, yours to sell, yours to give away, and do as you please.  You will never be charged royalties for any game you make in Leadwerks.  And because we only rely on free open-source middleware libraries, you never have to worry about purchasing expensive licenses from third parties.<h2 class=\"bb_tag\">Steam Features</h2><ul class=\"bb_ul\"><li>Download and publish game content with Steam Workshop.<br></li><li>Publish your Lua game to the Workshop for other users to play.<br></li><li>Publish image renders and YouTube videos directly to Steam from the editor.<br></li><li>Built-in Steamworks support makes your game ready to publish to Steam.</li></ul><h2 class=\"bb_tag\">Graphics</h2><ul class=\"bb_ul\"><li>OpenGL 4.0 deferred renderer with uniform lighting model supports any number of lights, all casting soft dynamic shadows.<br></li><li>Up to 32x hardware MSAA makes rendered images incredibly sharp and detailed.<br></li><li>Full support for vertex, fragment, geometry, and tessellation shaders.<br></li><li>Dynamic megatexture terrain provides fast rendering of terrains with many layers.<br></li><li>Hierarchical hardware occlusion queries provides fast visibility testing.<br></li><li>Hardware tessellation for dynamic real surface displacement on the GPU.<br></li><li>Normal mapping with specular and cubemap reflections.<br></li><li>Instanced rendering allows fast drawing of large volumes of objects.<br></li><li>Hardware skinning provides fast skinned animation.<br></li><li>Deferred transparency with multiple overlapping layers of shading.<br></li><li>Real-time mesh modification.<br></li><li>Trilinear and up to 16x anisotropic filtering.<br></li><li>Blend and transition animation sequences.<br></li><li>Extract animation sequences in the editor.</li></ul><h2 class=\"bb_tag\">Editor</h2><ul class=\"bb_ul\"><li>Automatic asset management reloads models and textures when they are modified from another application.<br></li><li>Drag and drop import of FBX, DDS, BMP, JPG, PNG, TGA, and PSD files.<br></li><li>Visual interface controls every aspect of the art pipeline.<br></li><li>Constructive solid geometry modeling tools.<br></li><li>Brush primitives include box, wedge, cylinder, sphere, arch, tube, and torus.<br></li><li>Automatic UV mapping.<br></li><li>Brush smooth groups.<br></li><li>GPU-accelerated terrain editor makes sculpting silky smooth and fast.<br></li><li>Built-in shader editor with instant visualization and error highlighting.<br></li><li>Native user interface is used on each supported platform.</li></ul><h2 class=\"bb_tag\">Programming</h2><ul class=\"bb_ul\"><li>Built-in Lua script editor with debugger, code stepping, and syntax highlighting.<br></li><li>Visual flowgraph lets you connect objects to control game interactions and set up scripted sequences.<br></li><li>Launch your game and debug the Lua virtual machine as it runs.<br></li><li>API design with an object-oriented command set lets you code any type of game.<br></li><li>Entity scripts provide a per-object hook interface.<br></li><li>Direct programming gives you control over your game's loop and program structure.<br></li><li>Script variables are displayed in a visual interface and reloaded in real-time.</li></ul><h2 class=\"bb_tag\">AI</h2><ul class=\"bb_ul\"><li>Navmesh pathfinding provides automatic AI navigation that works everywhere.<br></li><li>Character controller movement seamlessly integrated with physics and pathfinding systems.<br></li><li>Set entities to automatically chase another object or navigate to a position.</li></ul><h2 class=\"bb_tag\">Physics</h2><ul class=\"bb_ul\"><li>Fast and accurate rigid body physics.<br></li><li>Constraints including hinge, ball, and sliding joints.<br></li><li>Joint actuators provide fast and stable motorized constraints for doors, robotic arms, and other motion.<br></li><li>Automatic physics shape calculation.<br></li><li>Generate physics shapes in the editor from models or brushes.<br></li><li>Swept collision.<br></li><li>Raycasting with lines or spheres.</li></ul><h2 class=\"bb_tag\">Particles</h2><ul class=\"bb_ul\"><li>Real-time particle editor with instant visualization.<br></li><li>Emission volumes include box, sphere, cylinder, tube, and cone.<br></li><li>Adjustable curve graph for alpha and scale.<br></li><li>Particle animation sheets with adjustable frame counts and layout.<br></li><li>Velocity-based rotation for directional particles like sparks.</li></ul><h2 class=\"bb_tag\">Sound</h2><ul class=\"bb_ul\"><li>3D sound spatialization.<br></li><li>Emit a sound from any entity.<br></li><li>Automatic channel management frees up unneeded channels.<br></li><li>Skip to any time in sound.</li></ul>",
+            "short_description": "Leadwerks Game Engine: Professional Edition adds support for creating games with modern C++11. You can access the entire Leadwerks API in Visual Studio. Download Visual Studio for free and get started making your own games, with no royalties to pay, ever.",
+            "fullgame": {
+                "appid": "251810",
+                "name": "Leadwerks Game Engine"
+            },
+            "supported_languages": "English",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/287760/header.jpg?t=1490907529",
+            "website": "http://www.leadwerks.com",
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows Vista, 7, 8, or 8.1<br></li><li><strong>Processor:</strong> 2.0 ghz dual core<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL 4.0 / DirectX 11 capable graphics card or integrated graphics chip<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 200 MB available space<br></li><li><strong>Additional Notes:</strong> Requires Microsoft <a href=\"https://steamcommunity.com/linkfilter/?url=https://www.microsoft.com/en-us/download/details.aspx?id=48146\" target=\"_blank\" rel=\"noopener\"  >Visual Studio 2015</a></li></ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 14.04 LTS 64-bit<br></li><li><strong>Processor:</strong> 2.0 ghz dual core 64-bit<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL 4.0 ATI or Nvidia graphics card with proprietary drivers<br></li><li><strong>Storage:</strong> 200 MB available space<br></li><li><strong>Additional Notes:</strong> Code::Blocks, g++, and other free third-party software must be installed.</li></ul>"
+            },
+            "developers": [
+                "Leadwerks Software"
+            ],
+            "publishers": [
+                ""
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 9299,
+                "final": 9299,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "92,99€"
+            },
+            "packages": [
+                40093
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Leadwerks Game Engine - Professional Edition",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 40093,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Leadwerks Game Engine: Professional Edition - 92,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 9299
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": true
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 21,
+                    "description": "Downloadable Content"
+                },
+                {
+                    "id": 17,
+                    "description": "Includes level editor"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "51",
+                    "description": "Animation & Modeling"
+                },
+                {
+                    "id": "53",
+                    "description": "Design & Illustration"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/287760/ss_482b401839f63744916a118c0953f36f1289f2ed.600x338.jpg?t=1490907529",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/287760/ss_482b401839f63744916a118c0953f36f1289f2ed.1920x1080.jpg?t=1490907529"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/287760/ss_e46cb1f8d4fc2f1a6760aa9fc3ad1e134f1ce82a.600x338.jpg?t=1490907529",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/287760/ss_e46cb1f8d4fc2f1a6760aa9fc3ad1e134f1ce82a.1920x1080.jpg?t=1490907529"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/287760/ss_fc21f546a5100473fab33caf886aeadafb0b0be4.600x338.jpg?t=1490907529",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/287760/ss_fc21f546a5100473fab33caf886aeadafb0b0be4.1920x1080.jpg?t=1490907529"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/287760/ss_4377472446862533553a1575f117f4ff54f5de69.600x338.jpg?t=1490907529",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/287760/ss_4377472446862533553a1575f117f4ff54f5de69.1920x1080.jpg?t=1490907529"
+                }
+            ],
+            "release_date": {
+                "coming_soon": false,
+                "date": "7 Apr, 2014"
+            },
+            "support_info": {
+                "url": "http://www.leadwerks.com/werkspace/page/Company/contact",
+                "email": ""
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/287760/page_bg_generated_v6b.jpg?t=1490907529",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

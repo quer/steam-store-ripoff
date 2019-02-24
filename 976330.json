@@ -1,0 +1,140 @@
+{
+    "976330": {
+        "success": true,
+        "data": {
+            "type": "game",
+            "name": "kHED",
+            "steam_appid": 976330,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "kHED is a 3d low-poly model editor for indie game developers and modding enthusiasts. I released it back in 2009 as a freeware tool and it was quite popular among Half-Life modding community for being easy to learn and functional enough for the job.<br>Currently I'm using it to make models for my upcoming game Ostriv and planning it to be the major modding tool for my game.<br>I decided to release this updated version of the editor in hope it may be useful for other developers and potentially to fund its further development.<h2 class=\"bb_tag\">FEATURES</h2><br>kHED lets you create models of any complexity, but mainly designed for low-poly props (under 10k triangles). There's variety of geometry primitives like Plane, Polygon, Box, Sphere, Cylinder, Tube, Torus, as well as procedural tools like &quot;lathe&quot; and &quot;loft&quot;. Texture mapping tool supports planar, cylindrical, spherical projection, and basic unwrapping functions.<br>There's also a powerful UV editor with a handy model preview and ability to export UV map to use as background for texture creation.<h2 class=\"bb_tag\">Game engines support:</h2><ul class=\"bb_ul\"><li>Import/export Wavefront *.obj files<br></li><li>Directly import Half-Life (GoldSrc) *.mdl and *.smd files <br></li><li>Directly export to Half-Life *.mdl files (<i>NOTE: you need to have studiomdl.exe from Half-Life SDK</i>)<br></li><li>Export to Ostriv assets (buildings, agents, skeletons)<br></li><li>You can also use Milkshape3D import/export plugins<br></li><li>Wide range of supported texture file formats including PSD, DDS, VTX and many others</li></ul><h2 class=\"bb_tag\">Difference from old freeware version:</h2><ul class=\"bb_ul\"><li>Texture transparency support<br></li><li>Multisampled rendering (anti-aliasing)<br></li><li>Rigging feature<br></li><li>Ghost mode to see hidden groups<br></li><li>Regroup &amp; Isolate functions don't cancel applied texture<br></li><li>Added various features to create Ostriv assets<br></li><li>UV editor: copy texture map as normal map or height map<br></li><li>Group selection synchronized with a list in groups panel<br></li><li>Moving groups up/down in a list<br></li><li>Fixed some issues with 4K screen resolution</li></ul>",
+            "about_the_game": "kHED is a 3d low-poly model editor for indie game developers and modding enthusiasts. I released it back in 2009 as a freeware tool and it was quite popular among Half-Life modding community for being easy to learn and functional enough for the job.<br>Currently I'm using it to make models for my upcoming game Ostriv and planning it to be the major modding tool for my game.<br>I decided to release this updated version of the editor in hope it may be useful for other developers and potentially to fund its further development.<h2 class=\"bb_tag\">FEATURES</h2><br>kHED lets you create models of any complexity, but mainly designed for low-poly props (under 10k triangles). There's variety of geometry primitives like Plane, Polygon, Box, Sphere, Cylinder, Tube, Torus, as well as procedural tools like &quot;lathe&quot; and &quot;loft&quot;. Texture mapping tool supports planar, cylindrical, spherical projection, and basic unwrapping functions.<br>There's also a powerful UV editor with a handy model preview and ability to export UV map to use as background for texture creation.<h2 class=\"bb_tag\">Game engines support:</h2><ul class=\"bb_ul\"><li>Import/export Wavefront *.obj files<br></li><li>Directly import Half-Life (GoldSrc) *.mdl and *.smd files <br></li><li>Directly export to Half-Life *.mdl files (<i>NOTE: you need to have studiomdl.exe from Half-Life SDK</i>)<br></li><li>Export to Ostriv assets (buildings, agents, skeletons)<br></li><li>You can also use Milkshape3D import/export plugins<br></li><li>Wide range of supported texture file formats including PSD, DDS, VTX and many others</li></ul><h2 class=\"bb_tag\">Difference from old freeware version:</h2><ul class=\"bb_ul\"><li>Texture transparency support<br></li><li>Multisampled rendering (anti-aliasing)<br></li><li>Rigging feature<br></li><li>Ghost mode to see hidden groups<br></li><li>Regroup &amp; Isolate functions don't cancel applied texture<br></li><li>Added various features to create Ostriv assets<br></li><li>UV editor: copy texture map as normal map or height map<br></li><li>Group selection synchronized with a list in groups panel<br></li><li>Moving groups up/down in a list<br></li><li>Fixed some issues with 4K screen resolution</li></ul>",
+            "short_description": "kHED is a 3d low-poly model editor for indie game developers and modding enthusiasts",
+            "supported_languages": "English",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/976330/header.jpg?t=1546696210",
+            "website": null,
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 or newer<br></li><li><strong>Storage:</strong> 5 MB available space</li></ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "developers": [
+                "yevheniy8"
+            ],
+            "publishers": [
+                "yevheniy8"
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 1329,
+                "final": 1329,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "13,29€"
+            },
+            "packages": [
+                320594
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy kHED",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 320594,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "kHED - 13,29€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 1329
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "genres": [
+                {
+                    "id": "51",
+                    "description": "Animation & Modeling"
+                },
+                {
+                    "id": "60",
+                    "description": "Game Development"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/976330/ss_70060be95f9862a2b79b694d37340f2695dd5998.600x338.jpg?t=1546696210",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/976330/ss_70060be95f9862a2b79b694d37340f2695dd5998.1920x1080.jpg?t=1546696210"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/976330/ss_80014a57ce844de2edf148fa7e6d60c51edaf5f7.600x338.jpg?t=1546696210",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/976330/ss_80014a57ce844de2edf148fa7e6d60c51edaf5f7.1920x1080.jpg?t=1546696210"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/976330/ss_bae5ca060018114a0449aa9c1fdc7119a4baed01.600x338.jpg?t=1546696210",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/976330/ss_bae5ca060018114a0449aa9c1fdc7119a4baed01.1920x1080.jpg?t=1546696210"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/976330/ss_d729a4fce12a3e0415067ebdae030bdbf63f8f06.600x338.jpg?t=1546696210",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/976330/ss_d729a4fce12a3e0415067ebdae030bdbf63f8f06.1920x1080.jpg?t=1546696210"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/976330/ss_feec7351df10a7f01bb2b4a5750eb312050c5a27.600x338.jpg?t=1546696210",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/976330/ss_feec7351df10a7f01bb2b4a5750eb312050c5a27.1920x1080.jpg?t=1546696210"
+                },
+                {
+                    "id": 5,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/976330/ss_1ca59bd238df67985b136454b6db3de1aef7e30d.600x338.jpg?t=1546696210",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/976330/ss_1ca59bd238df67985b136454b6db3de1aef7e30d.1920x1080.jpg?t=1546696210"
+                },
+                {
+                    "id": 6,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/976330/ss_5d8501cb187a110cd937544d5990fc48c7e51e2a.600x338.jpg?t=1546696210",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/976330/ss_5d8501cb187a110cd937544d5990fc48c7e51e2a.1920x1080.jpg?t=1546696210"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 256734299,
+                    "name": "trailer",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256734299/movie.293x165.jpg?t=1544561691",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256734299/movie480.webm?t=1544561691",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256734299/movie_max.webm?t=1544561691"
+                    },
+                    "highlight": true
+                }
+            ],
+            "release_date": {
+                "coming_soon": false,
+                "date": "5 Jan, 2019"
+            },
+            "support_info": {
+                "url": "",
+                "email": "yevheniy@ostrivgame.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/976330/page_bg_generated_v6b.jpg?t=1546696210",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

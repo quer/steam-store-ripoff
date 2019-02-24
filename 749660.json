@@ -1,0 +1,121 @@
+{
+    "749660": {
+        "success": true,
+        "data": {
+            "type": "dlc",
+            "name": "ШПUG+ШПНЦ",
+            "steam_appid": 749660,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "+2 more ШП puzzles. Only in russian language.",
+            "about_the_game": "+2 more ШП puzzles. Only in russian language.",
+            "short_description": "+2 more ШП puzzles. Only in russian language.",
+            "fullgame": {
+                "appid": "727640",
+                "name": "ШП - ShP"
+            },
+            "supported_languages": "Russian",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/749660/header.jpg?t=1510668988",
+            "website": null,
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong> Pentium II @ 233MHz with MMX™ Technology<br></li><li><strong>Memory:</strong> 256 MB RAM<br></li><li><strong>Graphics:</strong> Windows Forms enabled videoadapter<br></li><li><strong>Storage:</strong> 2 MB available space<br></li><li><strong>Sound Card:</strong> Not needed<br></li><li><strong>Additional Notes:</strong> &quot;Mouse&quot; type Human Interface Device is highly recommended</li></ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "developers": [
+                "NoseDevilEugen"
+            ],
+            "publishers": [
+                "Xitilon"
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 99,
+                "final": 99,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "0,99€"
+            },
+            "packages": [
+                220128
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy ШПUG+ШПНЦ",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 220128,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "ШПUG+ШПНЦ - 0,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 99
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 24,
+                    "description": "Shared/Split Screen"
+                },
+                {
+                    "id": 21,
+                    "description": "Downloadable Content"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "23",
+                    "description": "Indie"
+                },
+                {
+                    "id": "28",
+                    "description": "Simulation"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/749660/ss_68878815f8e7ff5057257fed253557397a902236.600x338.jpg?t=1510668988",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/749660/ss_68878815f8e7ff5057257fed253557397a902236.1920x1080.jpg?t=1510668988"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/749660/ss_dfa68cd0018e43b6a9d6bd3808b322f4c47d5e59.600x338.jpg?t=1510668988",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/749660/ss_dfa68cd0018e43b6a9d6bd3808b322f4c47d5e59.1920x1080.jpg?t=1510668988"
+                }
+            ],
+            "release_date": {
+                "coming_soon": false,
+                "date": "14 Nov, 2017"
+            },
+            "support_info": {
+                "url": "",
+                "email": "xitilon@gmail.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/749660/page_bg_generated_v6b.jpg?t=1510668988",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

@@ -1,0 +1,127 @@
+{
+    "350260": {
+        "success": true,
+        "data": {
+            "type": "dlc",
+            "name": "Jones On Fire Soundtrack",
+            "steam_appid": 350260,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "The soundtrack for Jones on Fire. Kitty chip dubstep and lots of meowing.",
+            "about_the_game": "The soundtrack for Jones on Fire. Kitty chip dubstep and lots of meowing.",
+            "short_description": "The soundtrack for Jones on Fire. Kitty chip dubstep and lots of meowing.",
+            "fullgame": {
+                "appid": "270810",
+                "name": "Jones On Fire"
+            },
+            "supported_languages": "English",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/350260/header.jpg?t=1447369104",
+            "website": null,
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Any<br></li><li><strong>Processor:</strong> Any<br></li><li><strong>Memory:</strong> Any MB RAM<br></li><li><strong>Graphics:</strong> Any<br></li><li><strong>Storage:</strong> 20 MB available space<br></li><li><strong>Sound Card:</strong> Any</li></ul>"
+            },
+            "mac_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Any<br></li><li><strong>Processor:</strong> Any<br></li><li><strong>Memory:</strong> Any MB RAM<br></li><li><strong>Graphics:</strong> Any<br></li><li><strong>Storage:</strong> 20 MB available space<br></li><li><strong>Sound Card:</strong> Any</li></ul>"
+            },
+            "linux_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Any<br></li><li><strong>Processor:</strong> Any<br></li><li><strong>Memory:</strong> Any MB RAM<br></li><li><strong>Graphics:</strong> Any<br></li><li><strong>Storage:</strong> 20 MB available space<br></li><li><strong>Sound Card:</strong> Any</li></ul>"
+            },
+            "developers": [
+                "Glass Bottom Games"
+            ],
+            "publishers": [
+                "Glass Bottom Games"
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 499,
+                "final": 499,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "4,99€"
+            },
+            "packages": [
+                60730,
+                59150
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Jones On Fire Soundtrack",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 60730,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Jones On Fire Soundtrack - 4,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 499
+                        },
+                        {
+                            "packageid": 59150,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Hot Tin Roof Deluxe - 22,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 2299
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": true,
+                "linux": true
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 21,
+                    "description": "Downloadable Content"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "4",
+                    "description": "Casual"
+                },
+                {
+                    "id": "23",
+                    "description": "Indie"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/350260/ss_73b5c0cc33c0278880e49de3fd42b4671b397061.600x338.jpg?t=1447369104",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/350260/ss_73b5c0cc33c0278880e49de3fd42b4671b397061.1920x1080.jpg?t=1447369104"
+                }
+            ],
+            "release_date": {
+                "coming_soon": false,
+                "date": "27 Mar, 2015"
+            },
+            "support_info": {
+                "url": "http://glassbottomgames.com",
+                "email": "jonesonfire@glassbottomgames.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/350260/page_bg_generated_v6b.jpg?t=1447369104",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

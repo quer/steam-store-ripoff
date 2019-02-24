@@ -1,0 +1,168 @@
+{
+    "406580": {
+        "success": true,
+        "data": {
+            "type": "dlc",
+            "name": "METAL GEAR SOLID V: THE PHANTOM PAIN - Tuxedo",
+            "steam_appid": 406580,
+            "required_age": "18",
+            "is_free": false,
+            "controller_support": "full",
+            "detailed_description": "Tuxedo that Naked Snake is said to have worn during Operation Snake Eater.<br />\r\nFor the gentleman who knows how to dress for the occasion.<br />\r\n* Usable by Snake or male DD Soldiers.<br />\r\n* You must proceed to a certain point in the story and meet the proper development requirements before this item can be developed.",
+            "about_the_game": "Tuxedo that Naked Snake is said to have worn during Operation Snake Eater.<br />\r\nFor the gentleman who knows how to dress for the occasion.<br />\r\n* Usable by Snake or male DD Soldiers.<br />\r\n* You must proceed to a certain point in the story and meet the proper development requirements before this item can be developed.",
+            "short_description": "Tuxedo that Naked Snake is said to have worn during Operation Snake Eater. For the gentleman who knows how to dress for the occasion.",
+            "fullgame": {
+                "appid": "287700",
+                "name": "METAL GEAR SOLID V: THE PHANTOM PAIN"
+            },
+            "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Japanese<strong>*</strong>, Portuguese - Brazil, Russian<br><strong>*</strong>languages with full audio support",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/406580/header.jpg?t=1468523462",
+            "website": "http://www.metalgearsolid.com",
+            "pc_requirements": {
+                "minimum": "<strong>Минимальные:</strong><br><ul class=\"bb_ul\"><li><strong>ОС:</strong> Windows 7x64, Windows 8x64 (64-bit OS Required)<br></li><li><strong>Процессор:</strong> Intel Core i5-4460 (3.40 GHz) or better; Quad-core or better<br></li><li><strong>Оперативная память:</strong> 4 GB ОЗУ<br></li><li><strong>Видеокарта:</strong> NVIDIA GeForce GTX 650 (2GB) or better (DirectX 11 card Required)<br></li><li><strong>DirectX:</strong> Версии 11<br></li><li><strong>Место на диске:</strong> 28 GB<br></li><li><strong>Звуковая карта:</strong> DirectX 9.0c compatible sound card</li></ul>",
+                "recommended": "<strong>Рекомендованные:</strong><br><ul class=\"bb_ul\"><li><strong>ОС:</strong> Windows 7x64, Windows 8x64 (64-bit OS Required)<br></li><li><strong>Процессор:</strong> Intel Core i7-4790 (3.60GHz) or better; Quad-core or better<br></li><li><strong>Оперативная память:</strong> 8 GB ОЗУ<br></li><li><strong>Видеокарта:</strong> NVIDIA GeForce GTX 760 (DirectX 11 graphic card required)<br></li><li><strong>DirectX:</strong> Версии 11<br></li><li><strong>Место на диске:</strong> 28 GB<br></li><li><strong>Звуковая карта:</strong> DirectX 9.0c compatible sound card (Surround Sound 5.1)</li></ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "legal_notice": "©2015 Konami Digital Entertainment",
+            "developers": [
+                "Konami Digital Entertainment"
+            ],
+            "publishers": [
+                ""
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 99,
+                "final": 99,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "0,99€"
+            },
+            "packages": [
+                80098,
+                80617,
+                132479
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy METAL GEAR SOLID V: THE PHANTOM PAIN - Tuxedo",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 80098,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "METAL GEAR SOLID V: THE PHANTOM PAIN - Tuxedo - 0,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 99
+                        },
+                        {
+                            "packageid": 80617,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "METAL GEAR SOLID V: THE PHANTOM PAIN - Costume and Tack Pack - 4,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 499
+                        },
+                        {
+                            "packageid": 132479,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "METAL GEAR SOLID V: The Definitive Experience - 29,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 2999
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 1,
+                    "description": "Multi-player"
+                },
+                {
+                    "id": 21,
+                    "description": "Downloadable Content"
+                },
+                {
+                    "id": 22,
+                    "description": "Steam Achievements"
+                },
+                {
+                    "id": 28,
+                    "description": "Full controller support"
+                },
+                {
+                    "id": 29,
+                    "description": "Steam Trading Cards"
+                },
+                {
+                    "id": 13,
+                    "description": "Captions available"
+                },
+                {
+                    "id": 23,
+                    "description": "Steam Cloud"
+                },
+                {
+                    "id": 25,
+                    "description": "Steam Leaderboards"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "1",
+                    "description": "Action"
+                },
+                {
+                    "id": "25",
+                    "description": "Adventure"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/406580/ss_729c69bab864973fb949da4e6e3958004db269d6.600x338.jpg?t=1468523462",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/406580/ss_729c69bab864973fb949da4e6e3958004db269d6.1920x1080.jpg?t=1468523462"
+                }
+            ],
+            "achievements": {
+                "total": 0
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "20 Oct, 2015"
+            },
+            "support_info": {
+                "url": "https://us.konami.com/support/",
+                "email": ""
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/406580/page_bg_generated_v6b.jpg?t=1468523462",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

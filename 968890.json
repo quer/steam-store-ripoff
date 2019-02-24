@@ -1,0 +1,196 @@
+{
+    "968890": {
+        "success": true,
+        "data": {
+            "type": "dlc",
+            "name": "Book of Demons - Dungeons & Streamers",
+            "steam_appid": 968890,
+            "required_age": 0,
+            "is_free": true,
+            "detailed_description": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/968890/extras/twitch_1.gif?t=1544460049\" ><br><br><strong>Dungeons &amp; Streamers</strong> is a free DLC that adds <strong>Twitch</strong> and <strong>Mixer</strong> integration to <strong>Book of Demons</strong>. You play the game and your audience goes crazy typing commands in the chat. They spawn monsters and traps, but they can also aid you in your quest. Will they help you or harm you? Try your luck and see if you can outsmart them in the paper dungeons!<h2 class=\"bb_tag\">Features</h2><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/968890/extras/rarestone.png?t=1544460049\" > Allow your <strong>Twitch</strong> or <strong>Mixer</strong> audience to interact with your game<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/968890/extras/rarestone.png?t=1544460049\" > Enable or disable select features<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/968890/extras/rarestone.png?t=1544460049\" > Control audience influence strength <br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/968890/extras/rarestone.png?t=1544460049\" > Limit the interactions to paid subscribers (Twitch)<h2 class=\"bb_tag\"><strong>Types of Interactions</strong></h2><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/968890/extras/ui.gif?t=1544460049\" ><br><br>When in game, the bar at the bottom of the screen always shows the commands available to your audience. In the dungeon, there are always 6 basic interactions (3 positive and 3 negative), followed by two special interactions. Your audience activates the functions by typing the commands in the chat window, for example <i>+heal</i>.<h2 class=\"bb_tag\"><strong>Basic Interactions</strong></h2>Each basic interaction is associated with an activation chance percentage, shown after the name in parenthesis. This is the chance that a viewer’s command will actually work. It falls when too many people trigger the corresponding action and it rises when it sits idle. If too many people trigger the action and it drops to 0% chance, it will go on a cooldown.<br><br><br><strong>Positive:</strong><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/968890/extras/paperheart.png?t=1544460049\" > <i>+heal</i> – drops health or mana globes near player<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/968890/extras/paperheart.png?t=1544460049\" > <i>+hit</i> – deal damage to random monster near player<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/968890/extras/paperheart.png?t=1544460049\" > <i>+drop</i> – spawn a random drop near player (gold, card charge, etc.)<br><br><strong>Negative:</strong><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/968890/extras/poisonheart.png?t=1544460049\" > <i>-spawn</i> – spawn a random monster near player<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/968890/extras/poisonheart.png?t=1544460049\" > <i>-card</i> – apply a negative effect to player’s card (knock, web, etc.)<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/968890/extras/poisonheart.png?t=1544460049\" > <i>-steal</i> – destroy one of the visible drops at random<h2 class=\"bb_tag\"><strong>Special Interactions</strong></h2><br>The special interactions are more powerful and they behave a bit differently. They start on cooldown and once available they can be triggered only once, or they are active for a specified amount of time. After this, they are replaced with another random special action. <br><br><strong>Positive:</strong><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/968890/extras/paperheart.png?t=1544460049\" > <i>+prize</i> – drop a random prize for the player <br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/968890/extras/paperheart.png?t=1544460049\" > <i>+throw</i> – when active, viewers can type <i>+throw</i> to throw random monsters away from player<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/968890/extras/paperheart.png?t=1544460049\" > <i>+godmode</i> – give the player a short divine shield<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/968890/extras/paperheart.png?t=1544460049\" > <i>+stun</i> – when active, viewers can type <i>+stun</i> to stun monsters<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/968890/extras/paperheart.png?t=1544460049\" > <i>+deathrage</i> – trigger player’s deathrage effect<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/968890/extras/paperheart.png?t=1544460049\" > <i>+freeze</i> – when active, viewers can type <i>+freeze</i> to freeze random monsters<br><br><strong>Negative:</strong><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/968890/extras/poisonheart.png?t=1544460049\" > <i>-stun</i> – stun the player<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/968890/extras/poisonheart.png?t=1544460049\" > <i>-poison</i> – poison player<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/968890/extras/poisonheart.png?t=1544460049\" > <i>-boss</i> – spawn a random boss near player<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/968890/extras/poisonheart.png?t=1544460049\" > <i>-freeze</i> – freeze player<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/968890/extras/poisonheart.png?t=1544460049\" > <i>-burn</i> – spawn fire under player<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/968890/extras/poisonheart.png?t=1544460049\" > <i>-icetrap</i> – surround player with icicles<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/968890/extras/poisonheart.png?t=1544460049\" > <i>-mouse</i> – when active, viewers can type <i>-mouse</i> to knock players mouse cursor<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/968890/extras/poisonheart.png?t=1544460049\" > <i>-throw</i> – when active, viewers can type <i>-throw</i> to throw random monsters towards player<h2 class=\"bb_tag\"><strong>Legendary Card Voting</strong></h2><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/968890/extras/voting.gif?t=1544460049\" ><br><br>When you find a magic card, you will need to bring it to the Sage for identification. When this is a Legendary card (the most rare type of cards) you will be presented with two different cards for your audience to choose. During the vote, your viewers must type <i>+vote1</i> or <i>+vote2</i>. Everyone is entitled to one vote. If there is a tie, the card is selected at random. <br><br>In the options, you can disable this feature or set the length of the vote (default 30 sec).<h2 class=\"bb_tag\"><strong>How to connect</strong></h2><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/968890/extras/twitchconnect.gif?t=1544460049\" ><br><br>Before you can start playing with your audience, you need to connect <strong>Book of Demons</strong> to your Twitch or Mixer account. After you install the DLC, a new button appears in the lower right corner of the character selection screen. It opens the <strong>Dungeons &amp; Streamers</strong> connection and configuration window.<br><br>Set up your connection with either Twitch or Mixer on the left side, by entering the name of your channel and requesting an OAuth token (Twitch) or by logging into Mixer in the external browser. For Twitch mode you can also limit the interactions to your paid channel subscribers. <br><br>On the right side, you can tweak the integration options. Hover on the checkbox labels for an explanation of each feature.<h2 class=\"bb_tag\"><strong>Viewer Influence Option</strong></h2><br>The Viewer Influence slider allows you to adjust the extent to which your audience can affect your game. Making it lower will make your game more balanced, but your audience will have fewer opportunities to spawn threats or aids. If you set it to High you will be totally at the mercy of your viewers and their actions will decide the difficulty level of the game. <br><br><i><strong>Note:</strong> viewer influence also automatically scales with the number of viewers active in the channel, so having more active viewers should NOT make the game any less balanced. </i>",
+            "about_the_game": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/968890/extras/twitch_1.gif?t=1544460049\" ><br><br><strong>Dungeons &amp; Streamers</strong> is a free DLC that adds <strong>Twitch</strong> and <strong>Mixer</strong> integration to <strong>Book of Demons</strong>. You play the game and your audience goes crazy typing commands in the chat. They spawn monsters and traps, but they can also aid you in your quest. Will they help you or harm you? Try your luck and see if you can outsmart them in the paper dungeons!<h2 class=\"bb_tag\">Features</h2><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/968890/extras/rarestone.png?t=1544460049\" > Allow your <strong>Twitch</strong> or <strong>Mixer</strong> audience to interact with your game<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/968890/extras/rarestone.png?t=1544460049\" > Enable or disable select features<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/968890/extras/rarestone.png?t=1544460049\" > Control audience influence strength <br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/968890/extras/rarestone.png?t=1544460049\" > Limit the interactions to paid subscribers (Twitch)<h2 class=\"bb_tag\"><strong>Types of Interactions</strong></h2><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/968890/extras/ui.gif?t=1544460049\" ><br><br>When in game, the bar at the bottom of the screen always shows the commands available to your audience. In the dungeon, there are always 6 basic interactions (3 positive and 3 negative), followed by two special interactions. Your audience activates the functions by typing the commands in the chat window, for example <i>+heal</i>.<h2 class=\"bb_tag\"><strong>Basic Interactions</strong></h2>Each basic interaction is associated with an activation chance percentage, shown after the name in parenthesis. This is the chance that a viewer’s command will actually work. It falls when too many people trigger the corresponding action and it rises when it sits idle. If too many people trigger the action and it drops to 0% chance, it will go on a cooldown.<br><br><br><strong>Positive:</strong><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/968890/extras/paperheart.png?t=1544460049\" > <i>+heal</i> – drops health or mana globes near player<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/968890/extras/paperheart.png?t=1544460049\" > <i>+hit</i> – deal damage to random monster near player<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/968890/extras/paperheart.png?t=1544460049\" > <i>+drop</i> – spawn a random drop near player (gold, card charge, etc.)<br><br><strong>Negative:</strong><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/968890/extras/poisonheart.png?t=1544460049\" > <i>-spawn</i> – spawn a random monster near player<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/968890/extras/poisonheart.png?t=1544460049\" > <i>-card</i> – apply a negative effect to player’s card (knock, web, etc.)<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/968890/extras/poisonheart.png?t=1544460049\" > <i>-steal</i> – destroy one of the visible drops at random<h2 class=\"bb_tag\"><strong>Special Interactions</strong></h2><br>The special interactions are more powerful and they behave a bit differently. They start on cooldown and once available they can be triggered only once, or they are active for a specified amount of time. After this, they are replaced with another random special action. <br><br><strong>Positive:</strong><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/968890/extras/paperheart.png?t=1544460049\" > <i>+prize</i> – drop a random prize for the player <br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/968890/extras/paperheart.png?t=1544460049\" > <i>+throw</i> – when active, viewers can type <i>+throw</i> to throw random monsters away from player<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/968890/extras/paperheart.png?t=1544460049\" > <i>+godmode</i> – give the player a short divine shield<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/968890/extras/paperheart.png?t=1544460049\" > <i>+stun</i> – when active, viewers can type <i>+stun</i> to stun monsters<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/968890/extras/paperheart.png?t=1544460049\" > <i>+deathrage</i> – trigger player’s deathrage effect<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/968890/extras/paperheart.png?t=1544460049\" > <i>+freeze</i> – when active, viewers can type <i>+freeze</i> to freeze random monsters<br><br><strong>Negative:</strong><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/968890/extras/poisonheart.png?t=1544460049\" > <i>-stun</i> – stun the player<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/968890/extras/poisonheart.png?t=1544460049\" > <i>-poison</i> – poison player<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/968890/extras/poisonheart.png?t=1544460049\" > <i>-boss</i> – spawn a random boss near player<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/968890/extras/poisonheart.png?t=1544460049\" > <i>-freeze</i> – freeze player<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/968890/extras/poisonheart.png?t=1544460049\" > <i>-burn</i> – spawn fire under player<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/968890/extras/poisonheart.png?t=1544460049\" > <i>-icetrap</i> – surround player with icicles<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/968890/extras/poisonheart.png?t=1544460049\" > <i>-mouse</i> – when active, viewers can type <i>-mouse</i> to knock players mouse cursor<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/968890/extras/poisonheart.png?t=1544460049\" > <i>-throw</i> – when active, viewers can type <i>-throw</i> to throw random monsters towards player<h2 class=\"bb_tag\"><strong>Legendary Card Voting</strong></h2><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/968890/extras/voting.gif?t=1544460049\" ><br><br>When you find a magic card, you will need to bring it to the Sage for identification. When this is a Legendary card (the most rare type of cards) you will be presented with two different cards for your audience to choose. During the vote, your viewers must type <i>+vote1</i> or <i>+vote2</i>. Everyone is entitled to one vote. If there is a tie, the card is selected at random. <br><br>In the options, you can disable this feature or set the length of the vote (default 30 sec).<h2 class=\"bb_tag\"><strong>How to connect</strong></h2><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/968890/extras/twitchconnect.gif?t=1544460049\" ><br><br>Before you can start playing with your audience, you need to connect <strong>Book of Demons</strong> to your Twitch or Mixer account. After you install the DLC, a new button appears in the lower right corner of the character selection screen. It opens the <strong>Dungeons &amp; Streamers</strong> connection and configuration window.<br><br>Set up your connection with either Twitch or Mixer on the left side, by entering the name of your channel and requesting an OAuth token (Twitch) or by logging into Mixer in the external browser. For Twitch mode you can also limit the interactions to your paid channel subscribers. <br><br>On the right side, you can tweak the integration options. Hover on the checkbox labels for an explanation of each feature.<h2 class=\"bb_tag\"><strong>Viewer Influence Option</strong></h2><br>The Viewer Influence slider allows you to adjust the extent to which your audience can affect your game. Making it lower will make your game more balanced, but your audience will have fewer opportunities to spawn threats or aids. If you set it to High you will be totally at the mercy of your viewers and their actions will decide the difficulty level of the game. <br><br><i><strong>Note:</strong> viewer influence also automatically scales with the number of viewers active in the channel, so having more active viewers should NOT make the game any less balanced. </i>",
+            "short_description": "Dungeons &amp; Streamers is a free DLC that adds Twitch and Mixer integration to Book of Demons. You play the game and your audience goes crazy typing commands in the chat. They spawn monsters and traps, but they can also aid you in your quest. Will they help you or harm you?",
+            "fullgame": {
+                "appid": "449960",
+                "name": "Book of Demons"
+            },
+            "supported_languages": "English<strong>*</strong>, Polish, French, Italian, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese, German, Turkish<br><strong>*</strong>languages with full audio support",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/968890/header.jpg?t=1544460049",
+            "website": "http://www.bookofdemons.com",
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7, 8, 8.1, 10<br></li><li><strong>Processor:</strong> 1.7 GHz Dual Core or Greater<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> 512 MB DirectX 9.0c compatible graphics card<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 1 GB available space<br></li><li><strong>Sound Card:</strong> DirectX 9.0c compatible</li></ul>"
+            },
+            "mac_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OSX 10.12+<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Open GL 3.3+ Compliant<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
+            },
+            "linux_requirements": [],
+            "developers": [
+                "Thing Trunk"
+            ],
+            "publishers": [
+                "Thing Trunk"
+            ],
+            "package_groups": [],
+            "platforms": {
+                "windows": true,
+                "mac": true,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 21,
+                    "description": "Downloadable Content"
+                },
+                {
+                    "id": 22,
+                    "description": "Steam Achievements"
+                },
+                {
+                    "id": 29,
+                    "description": "Steam Trading Cards"
+                },
+                {
+                    "id": 13,
+                    "description": "Captions available"
+                },
+                {
+                    "id": 18,
+                    "description": "Partial Controller Support"
+                },
+                {
+                    "id": 23,
+                    "description": "Steam Cloud"
+                },
+                {
+                    "id": 15,
+                    "description": "Stats"
+                },
+                {
+                    "id": 25,
+                    "description": "Steam Leaderboards"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "1",
+                    "description": "Action"
+                },
+                {
+                    "id": "25",
+                    "description": "Adventure"
+                },
+                {
+                    "id": "4",
+                    "description": "Casual"
+                },
+                {
+                    "id": "23",
+                    "description": "Indie"
+                },
+                {
+                    "id": "3",
+                    "description": "RPG"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/968890/ss_c703eb014683c46f60595807fdca72784760c15d.600x338.jpg?t=1544460049",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/968890/ss_c703eb014683c46f60595807fdca72784760c15d.1920x1080.jpg?t=1544460049"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/968890/ss_e839212fe22f724e705104e7e25f785cb23f971a.600x338.jpg?t=1544460049",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/968890/ss_e839212fe22f724e705104e7e25f785cb23f971a.1920x1080.jpg?t=1544460049"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/968890/ss_f926af32c9273c5650ed4901e2b4b2eedd4c2df5.600x338.jpg?t=1544460049",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/968890/ss_f926af32c9273c5650ed4901e2b4b2eedd4c2df5.1920x1080.jpg?t=1544460049"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/968890/ss_9933e92e5c4b55c845746e7c693ee0cd9f4d3d5b.600x338.jpg?t=1544460049",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/968890/ss_9933e92e5c4b55c845746e7c693ee0cd9f4d3d5b.1920x1080.jpg?t=1544460049"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/968890/ss_66156fcc805944f2c0f6bff26e2dc96f0ca1afed.600x338.jpg?t=1544460049",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/968890/ss_66156fcc805944f2c0f6bff26e2dc96f0ca1afed.1920x1080.jpg?t=1544460049"
+                },
+                {
+                    "id": 5,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/968890/ss_b89eaccda3b76065b0325ea12458e02bba7fbb78.600x338.jpg?t=1544460049",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/968890/ss_b89eaccda3b76065b0325ea12458e02bba7fbb78.1920x1080.jpg?t=1544460049"
+                },
+                {
+                    "id": 6,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/968890/ss_78b6da9d258760fa90480b6a102a6218ec33d6ce.600x338.jpg?t=1544460049",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/968890/ss_78b6da9d258760fa90480b6a102a6218ec33d6ce.1920x1080.jpg?t=1544460049"
+                },
+                {
+                    "id": 7,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/968890/ss_d23466da6ac20847244ac94d2c2d1eee406b8008.600x338.jpg?t=1544460049",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/968890/ss_d23466da6ac20847244ac94d2c2d1eee406b8008.1920x1080.jpg?t=1544460049"
+                },
+                {
+                    "id": 8,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/968890/ss_4699579d9329bb9121d93292a64df0f2e428cbee.600x338.jpg?t=1544460049",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/968890/ss_4699579d9329bb9121d93292a64df0f2e428cbee.1920x1080.jpg?t=1544460049"
+                },
+                {
+                    "id": 9,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/968890/ss_0252dc49b116a0af4f7473ff08734bafc033fccc.600x338.jpg?t=1544460049",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/968890/ss_0252dc49b116a0af4f7473ff08734bafc033fccc.1920x1080.jpg?t=1544460049"
+                },
+                {
+                    "id": 10,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/968890/ss_c6ef851276fc282dd5b55762ea67b0998c249971.600x338.jpg?t=1544460049",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/968890/ss_c6ef851276fc282dd5b55762ea67b0998c249971.1920x1080.jpg?t=1544460049"
+                },
+                {
+                    "id": 11,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/968890/ss_10c79e32e2d4f91bd9da3e6b2fcf12c6b58d922c.600x338.jpg?t=1544460049",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/968890/ss_10c79e32e2d4f91bd9da3e6b2fcf12c6b58d922c.1920x1080.jpg?t=1544460049"
+                },
+                {
+                    "id": 12,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/968890/ss_303d3bcf0e0c0b7f142bec95c19cfc88d9402e1a.600x338.jpg?t=1544460049",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/968890/ss_303d3bcf0e0c0b7f142bec95c19cfc88d9402e1a.1920x1080.jpg?t=1544460049"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 256736845,
+                    "name": "Dungeons and Streamers Trailer",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256736845/movie.293x165.jpg?t=1543415593",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256736845/movie480.webm?t=1543415593",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256736845/movie_max.webm?t=1543415593"
+                    },
+                    "highlight": true
+                }
+            ],
+            "achievements": {
+                "total": 0
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "28 Nov, 2018"
+            },
+            "support_info": {
+                "url": "http://www.thingtrunk.com",
+                "email": "support@thingtrunk.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/968890/page_bg_generated_v6b.jpg?t=1544460049",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

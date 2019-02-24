@@ -1,0 +1,160 @@
+{
+    "610520": {
+        "success": true,
+        "data": {
+            "type": "dlc",
+            "name": "White Noise 2 - Supporter Pack",
+            "steam_appid": 610520,
+            "required_age": 0,
+            "is_free": false,
+            "controller_support": "full",
+            "detailed_description": "The White Noise 2 Supporter pack was created as a &quot;Thank you&quot; gift to our Early Access supporters. It features 2 new items:<h2 class=\"bb_tag\">The Metal Flashlight</h2><br><i>Powerful and sturdy, this flashlight will work even under the harshest conditions.</i><br><br>A new flashlight with improved Range<h2 class=\"bb_tag\">The Fungus</h2><br><i>This unearthly Fungus feeds from the bodily remains that other predators leave behind.</i><br><br>An Idol with improved Detection and the Spores trait, increasing the Creature's speed when it's nearby.",
+            "about_the_game": "The White Noise 2 Supporter pack was created as a &quot;Thank you&quot; gift to our Early Access supporters. It features 2 new items:<h2 class=\"bb_tag\">The Metal Flashlight</h2><br><i>Powerful and sturdy, this flashlight will work even under the harshest conditions.</i><br><br>A new flashlight with improved Range<h2 class=\"bb_tag\">The Fungus</h2><br><i>This unearthly Fungus feeds from the bodily remains that other predators leave behind.</i><br><br>An Idol with improved Detection and the Spores trait, increasing the Creature's speed when it's nearby.",
+            "short_description": "The White Noise 2 Supporter Pack features 2 new items: The Metal Flashlight and the Fungus Idol.",
+            "fullgame": {
+                "appid": "503350",
+                "name": "White Noise 2"
+            },
+            "supported_languages": "English, Spanish - Spain, Italian, Finnish, Russian, French, German, Portuguese, Norwegian, Hungarian, Simplified Chinese",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/610520/header.jpg?t=1512667059",
+            "website": null,
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP SP3<br></li><li><strong>Processor:</strong> Dual Core processor<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> DirectX 10 capable hardware<br></li><li><strong>Storage:</strong> 1200 MB available space<br></li><li><strong>Additional Notes:</strong> 64bit OS recommended but not required</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 or newer<br></li><li><strong>Processor:</strong> Quad core processor<br></li><li><strong>Graphics:</strong> GeForce 660 or better<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>"
+            },
+            "mac_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OS X 10.8+, tested on OSX 10.10+<br></li><li><strong>Processor:</strong> 2.5GHz dual-core Intel Core i5<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL 2 Graphics card<br></li><li><strong>Storage:</strong> 1400 MB available space</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OS X 10.8+, tested on OSX 10.10+<br></li><li><strong>Processor:</strong> Quad core processor<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>"
+            },
+            "linux_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 12.10 or newer<br></li><li><strong>Processor:</strong> Dual Core processor<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL 2 Graphics card<br></li><li><strong>Storage:</strong> 1400 MB available space<br></li><li><strong>Additional Notes:</strong> For AMD Graphic cards, MESA drivers newer than 10.1.5 are recommended.</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 16.10 or newer<br></li><li><strong>Processor:</strong> Quad Core Processor<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> GeForce 660 or better<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>"
+            },
+            "developers": [
+                "Milkstone Studios"
+            ],
+            "publishers": [
+                ""
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 199,
+                "final": 199,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "1,99€"
+            },
+            "packages": [
+                162960
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy White Noise 2 - Supporter Pack",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 162960,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "White Noise 2 - Supporter Pack - 1,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 199
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": true,
+                "linux": true
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 1,
+                    "description": "Multi-player"
+                },
+                {
+                    "id": 36,
+                    "description": "Online Multi-Player"
+                },
+                {
+                    "id": 9,
+                    "description": "Co-op"
+                },
+                {
+                    "id": 38,
+                    "description": "Online Co-op"
+                },
+                {
+                    "id": 27,
+                    "description": "Cross-Platform Multiplayer"
+                },
+                {
+                    "id": 21,
+                    "description": "Downloadable Content"
+                },
+                {
+                    "id": 22,
+                    "description": "Steam Achievements"
+                },
+                {
+                    "id": 28,
+                    "description": "Full controller support"
+                },
+                {
+                    "id": 23,
+                    "description": "Steam Cloud"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "25",
+                    "description": "Adventure"
+                },
+                {
+                    "id": "23",
+                    "description": "Indie"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/610520/ss_86b088422a72a50ac8a239a2a56b2a61823fa29e.600x338.jpg?t=1512667059",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/610520/ss_86b088422a72a50ac8a239a2a56b2a61823fa29e.1920x1080.jpg?t=1512667059"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/610520/ss_709c7a2c2c78b71ccab4f563d32ce09c4f08b65d.600x338.jpg?t=1512667059",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/610520/ss_709c7a2c2c78b71ccab4f563d32ce09c4f08b65d.1920x1080.jpg?t=1512667059"
+                }
+            ],
+            "achievements": {
+                "total": 0
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "6 Apr, 2017"
+            },
+            "support_info": {
+                "url": "http://www.milkstonestudios.com",
+                "email": "support@milkstonestudios.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/610520/page_bg_generated_v6b.jpg?t=1512667059",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

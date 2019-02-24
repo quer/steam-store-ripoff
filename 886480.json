@@ -1,0 +1,145 @@
+{
+    "886480": {
+        "success": true,
+        "data": {
+            "type": "game",
+            "name": "Audiate",
+            "steam_appid": 886480,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "<h1>Important</h1><p><strong>Requires OpenVR controllers or trackers. HMD is not used. </strong></p><br><h1>About the Software</h1>Audiate allows you to map any MIDI-capable audio/video production tool to the position, orientation, and buttons on any OpenVR input device. With six assignable inputs per control from position &amp; rotation alone it provides far more control per hand than would be possible with traditional finger-operated faders, knobs, &amp; modwheels.  <br><br><strong>Note</strong>: The HMD display is not used, Audiate is intended to be integrated into an existing production tool-chain alongside physical instruments, other control surfaces, &amp; software. It acts as an additional control surface for you to map as you see fit. As with most physical control surfaces it does not output actual musical notes as MIDI or audio streams, instead it focuses on providing hands-on control of live and post-production effects provided by MIDI capable hardware &amp; software. <br><br>In effect the application operates like a 6-dimensional floating MIDI modwheel.<h2 class=\"bb_tag\">Application Features</h2><ul class=\"bb_ul\"><li>\tMap OpenVR input devices to any MIDI software &amp; hardware<br></li><li>\tLoad &amp; save patch configurations<br></li><li>\tPre-configured library patches available in banks<br></li><li>\tConfigurable control code number lists<br></li><li>\tConfigurable surface size &amp; optional haptics<br></li><li>\tExtremely low CPU/GPU usage, performs no 3D rendering<br></li><li>\tDetailed documentation including tutorials for several popular DAWs</li></ul><br>Audiate is built on top of VR input hardware as this offers unparalleled accuracy and low-latency tracking on consumer-grade hardware. These requirements are as important to music production as they are to VR. <br><br>For further details please see the application documentation, this is available in PDF format on the store page.<h2 class=\"bb_tag\">Example Usages</h2><br><ul class=\"bb_ul\"><li>\tAttach a tracker to an arm, leg, foot or head to control a physical instrument or effect while performing<br></li><li>\tAttach a tracker to any instrument, allowing for electric-guitar-like neck shake vibrato effects<br></li><li>\tRecording multiple automation values simultaneously during mastering<br></li><li>\tControl panning for surround-sound media<br></li><li>\tControlling MIDI-capable stage-lighting</li></ul><h2 class=\"bb_tag\">Hardware Support</h2><br>Please note that the HMD is not used in this application. Audio production tools generally require significant system resources and are also often vulnerable to undesirable latency issues on busy systems. Audiate is designed to work alongside these tools as an enhancement to an existing tool chain rather than a replacement; as such it tries to keep its own system requirements to an absolute minimum. <br><br>The following input devices have pre-configured profiles:<br><br><ul class=\"bb_ul\"><li>HTC Vive Controllers<br></li><li>HTC Vive Trackers<br></li><li>Oculus Rift</li></ul><br>Support for other devices can be added by editing the application configuration files. Any OpenVR-compatible input device is supported. <br><br>All tracked controllers provide the following inputs:<br><ul class=\"bb_ul\"><li>3 position analogue axes per controller<br></li><li>3 rotation analogue axes per controller</li></ul><br>In addition to this, a Vive Controller also provides:<br><ul class=\"bb_ul\"><li>\t3 button-based analogue axes per controller (trigger &amp; touchpad x/y)<br></li><li>\t1 digital axis (grip button)</li></ul><br>Any additional inputs provided by OpenVR devices can be configured to make use of them. Functionality is provided to normalize &amp; smooth values if required. Some trackers also allow for adding custom-built inputs via exposed electrical hookups, advanced users can build and configure entirely custom devices of their own design. <br><br>The configuration system can also be used to provide inputs bound to button presses. For example a user could set up a series of X, Y, &amp; Z axes that only output when a particular button is held, with the previous value being held until next used.<h2 class=\"bb_tag\"><h2 class=\"bb_tag\">Application Support</h2></h2><br>Audiate can work with any application or hardware that is capable of using MIDI control codes to change parameter values. This includes VST-based musical instruments &amp; effect modules, as well as other usages outside of audio/video production. Hardware modules with MIDI capabilities can be connected in the usual way to the system running Audiate. It is not required that the connected module is capable of customizing it's own mappings, Audiate can be configured to make use of hard-coded ones such as those found in keyboard synths. Support is provided for mapping files (midnam &amp; csv) to aid in the setting up of devices by listing the control name inside Audiate. <br><br>Value output is typically the absolute value which works in most cases however support is provided for software/hardware that requires relative input, as commonly used by &quot;infinite knob&quot;-based control surfaces. This mode exists to provide support in DAWs that are known to be difficult in their MIDI connectivity. Full details of the capabilities of this emulation mode are available in the manual.",
+            "about_the_game": "Audiate allows you to map any MIDI-capable audio/video production tool to the position, orientation, and buttons on any OpenVR input device. With six assignable inputs per control from position &amp; rotation alone it provides far more control per hand than would be possible with traditional finger-operated faders, knobs, &amp; modwheels.  <br><br><strong>Note</strong>: The HMD display is not used, Audiate is intended to be integrated into an existing production tool-chain alongside physical instruments, other control surfaces, &amp; software. It acts as an additional control surface for you to map as you see fit. As with most physical control surfaces it does not output actual musical notes as MIDI or audio streams, instead it focuses on providing hands-on control of live and post-production effects provided by MIDI capable hardware &amp; software. <br><br>In effect the application operates like a 6-dimensional floating MIDI modwheel.<h2 class=\"bb_tag\">Application Features</h2><ul class=\"bb_ul\"><li>\tMap OpenVR input devices to any MIDI software &amp; hardware<br></li><li>\tLoad &amp; save patch configurations<br></li><li>\tPre-configured library patches available in banks<br></li><li>\tConfigurable control code number lists<br></li><li>\tConfigurable surface size &amp; optional haptics<br></li><li>\tExtremely low CPU/GPU usage, performs no 3D rendering<br></li><li>\tDetailed documentation including tutorials for several popular DAWs</li></ul><br>Audiate is built on top of VR input hardware as this offers unparalleled accuracy and low-latency tracking on consumer-grade hardware. These requirements are as important to music production as they are to VR. <br><br>For further details please see the application documentation, this is available in PDF format on the store page.<h2 class=\"bb_tag\">Example Usages</h2><br><ul class=\"bb_ul\"><li>\tAttach a tracker to an arm, leg, foot or head to control a physical instrument or effect while performing<br></li><li>\tAttach a tracker to any instrument, allowing for electric-guitar-like neck shake vibrato effects<br></li><li>\tRecording multiple automation values simultaneously during mastering<br></li><li>\tControl panning for surround-sound media<br></li><li>\tControlling MIDI-capable stage-lighting</li></ul><h2 class=\"bb_tag\">Hardware Support</h2><br>Please note that the HMD is not used in this application. Audio production tools generally require significant system resources and are also often vulnerable to undesirable latency issues on busy systems. Audiate is designed to work alongside these tools as an enhancement to an existing tool chain rather than a replacement; as such it tries to keep its own system requirements to an absolute minimum. <br><br>The following input devices have pre-configured profiles:<br><br><ul class=\"bb_ul\"><li>HTC Vive Controllers<br></li><li>HTC Vive Trackers<br></li><li>Oculus Rift</li></ul><br>Support for other devices can be added by editing the application configuration files. Any OpenVR-compatible input device is supported. <br><br>All tracked controllers provide the following inputs:<br><ul class=\"bb_ul\"><li>3 position analogue axes per controller<br></li><li>3 rotation analogue axes per controller</li></ul><br>In addition to this, a Vive Controller also provides:<br><ul class=\"bb_ul\"><li>\t3 button-based analogue axes per controller (trigger &amp; touchpad x/y)<br></li><li>\t1 digital axis (grip button)</li></ul><br>Any additional inputs provided by OpenVR devices can be configured to make use of them. Functionality is provided to normalize &amp; smooth values if required. Some trackers also allow for adding custom-built inputs via exposed electrical hookups, advanced users can build and configure entirely custom devices of their own design. <br><br>The configuration system can also be used to provide inputs bound to button presses. For example a user could set up a series of X, Y, &amp; Z axes that only output when a particular button is held, with the previous value being held until next used.<h2 class=\"bb_tag\"><h2 class=\"bb_tag\">Application Support</h2></h2><br>Audiate can work with any application or hardware that is capable of using MIDI control codes to change parameter values. This includes VST-based musical instruments &amp; effect modules, as well as other usages outside of audio/video production. Hardware modules with MIDI capabilities can be connected in the usual way to the system running Audiate. It is not required that the connected module is capable of customizing it's own mappings, Audiate can be configured to make use of hard-coded ones such as those found in keyboard synths. Support is provided for mapping files (midnam &amp; csv) to aid in the setting up of devices by listing the control name inside Audiate. <br><br>Value output is typically the absolute value which works in most cases however support is provided for software/hardware that requires relative input, as commonly used by &quot;infinite knob&quot;-based control surfaces. This mode exists to provide support in DAWs that are known to be difficult in their MIDI connectivity. Full details of the capabilities of this emulation mode are available in the manual.",
+            "short_description": "Map MIDI-capable audio/video production tools to the position, orientation, and buttons on any OpenVR input device. With six assignable inputs per control from position/rotation alone Audiate provides far more control per hand than would be possible with traditional MIDI control surfaces.",
+            "supported_languages": "English",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/886480/header.jpg?t=1542309379",
+            "website": null,
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 SP1 or later<br></li><li><strong>Processor:</strong> any<br></li><li><strong>Memory:</strong> 256 MB RAM<br></li><li><strong>Graphics:</strong> not applicable<br></li><li><strong>Storage:</strong> 80 MB available space<br></li><li><strong>Sound Card:</strong> not applicable<br></li><li><strong>Additional Notes:</strong> minimal application footprint</li></ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "developers": [
+                "Fraser K"
+            ],
+            "publishers": [
+                "Fraser K"
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 2499,
+                "final": 2499,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "24,99€"
+            },
+            "packages": [
+                282002
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Audiate",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 282002,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Audiate - 24,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 2499
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 23,
+                    "description": "Steam Cloud"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "52",
+                    "description": "Audio Production"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/886480/ss_a04c8dddea22f05421b3c08156168b8ec46870f4.600x338.jpg?t=1542309379",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/886480/ss_a04c8dddea22f05421b3c08156168b8ec46870f4.1920x1080.jpg?t=1542309379"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/886480/ss_f226e89f672d0a3653b4a6bcbb5e5391c051c7ad.600x338.jpg?t=1542309379",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/886480/ss_f226e89f672d0a3653b4a6bcbb5e5391c051c7ad.1920x1080.jpg?t=1542309379"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/886480/ss_5fe37547b485d9923602d2a2dca2141b51ca6731.600x338.jpg?t=1542309379",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/886480/ss_5fe37547b485d9923602d2a2dca2141b51ca6731.1920x1080.jpg?t=1542309379"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/886480/ss_56fa80adb8b24885d43220986656075a66d10103.600x338.jpg?t=1542309379",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/886480/ss_56fa80adb8b24885d43220986656075a66d10103.1920x1080.jpg?t=1542309379"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/886480/ss_e746aecf5d3fcbf3d22dbb727cc0c6773b720851.600x338.jpg?t=1542309379",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/886480/ss_e746aecf5d3fcbf3d22dbb727cc0c6773b720851.1920x1080.jpg?t=1542309379"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 256731279,
+                    "name": "Wub Wub Wub Demo",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256731279/movie.293x165.jpg?t=1539538352",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256731279/movie480.webm?t=1539538352",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256731279/movie_max.webm?t=1539538352"
+                    },
+                    "highlight": true
+                },
+                {
+                    "id": 256733673,
+                    "name": "Introduction to Audiate",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256733673/movie.293x165.jpg?t=1540851930",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256733673/movie480.webm?t=1540851930",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256733673/movie_max.webm?t=1540851930"
+                    },
+                    "highlight": true
+                }
+            ],
+            "achievements": {
+                "total": 0
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "29 Oct, 2018"
+            },
+            "support_info": {
+                "url": "",
+                "email": "audiate@fraserk.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/886480/page_bg_generated_v6b.jpg?t=1542309379",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

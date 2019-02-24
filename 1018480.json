@@ -1,0 +1,123 @@
+{
+    "1018480": {
+        "success": true,
+        "data": {
+            "type": "dlc",
+            "name": "A Game About - Donation",
+            "steam_appid": 1018480,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "This DLC contains <strong>no new content</strong> and does not modify the existing game in any way. It is a mean to show financial support to my game development endeavour if you liked <i>A Game About</i>.<br><br>Me and the Giraffe of Good Luck will forever be thankful for your donation. Thank you so much.",
+            "about_the_game": "This DLC contains <strong>no new content</strong> and does not modify the existing game in any way. It is a mean to show financial support to my game development endeavour if you liked <i>A Game About</i>.<br><br>Me and the Giraffe of Good Luck will forever be thankful for your donation. Thank you so much.",
+            "short_description": "Donate if you liked A Game About and want to support me financially in my game dev projects.",
+            "fullgame": {
+                "appid": "927990",
+                "name": "A Game About"
+            },
+            "supported_languages": "English",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1018480/header.jpg?t=1548109946",
+            "website": "https://www.olivierb.org/",
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7</li></ul>"
+            },
+            "mac_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OSX</li></ul>"
+            },
+            "linux_requirements": [],
+            "developers": [
+                "byolivierb"
+            ],
+            "publishers": [
+                ""
+            ],
+            "price_overview": {
+                "currency": "USD",
+                "initial": 199,
+                "final": 199,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "$1.99"
+            },
+            "packages": [
+                337631
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy A Game About - Donation",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 337631,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Donation - $1.99",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 199
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": true,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 21,
+                    "description": "Downloadable Content"
+                },
+                {
+                    "id": 22,
+                    "description": "Steam Achievements"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "37",
+                    "description": "Free to Play"
+                },
+                {
+                    "id": "23",
+                    "description": "Indie"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1018480/ss_96928727b965e65651b474459295022c9b53abce.600x338.jpg?t=1548109946",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1018480/ss_96928727b965e65651b474459295022c9b53abce.1920x1080.jpg?t=1548109946"
+                }
+            ],
+            "achievements": {
+                "total": 0
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "Jan 21, 2019"
+            },
+            "support_info": {
+                "url": "https://www.olivierb.org/",
+                "email": "contact@olivierb.org"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1018480/page_bg_generated_v6b.jpg?t=1548109946",
+            "content_descriptors": {
+                "ids": [
+                    5
+                ],
+                "notes": "Presence of expletives and uses of drugs."
+            }
+        }
+    }
+}

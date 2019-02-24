@@ -1,0 +1,67 @@
+{
+    "3210": {
+        "success": true,
+        "data": {
+            "type": "demo",
+            "name": "Painkiller Demo",
+            "steam_appid": 3210,
+            "required_age": 0,
+            "is_free": true,
+            "detailed_description": "",
+            "about_the_game": "",
+            "short_description": "",
+            "fullgame": {
+                "appid": "3200",
+                "name": "Uninitialized"
+            },
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/3210/header.jpg?t=1447350963",
+            "website": "http://www.painkillergame.com",
+            "pc_requirements": {
+                "minimum": "<p><strong>Minimum Requirements:</strong> Win 98/2000/Me/XP, 1GHz Processor, 256MB RAM, DirextX 9.0 64MB Video Card, 3.4GB HDD Space</p>\n\t\t\t\t\t<p><strong>Recommended Requirements:</strong> 3GHz Processor, 512MB RAM, 128MB Video Card</p>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "developers": [
+                "People Can Fly"
+            ],
+            "publishers": [
+                "Nordic Games"
+            ],
+            "package_groups": [],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 10,
+                    "description": "Game demo"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "1",
+                    "description": "Action"
+                }
+            ],
+            "release_date": {
+                "coming_soon": false,
+                "date": "24 Jan, 2007"
+            },
+            "support_info": {
+                "url": "",
+                "email": ""
+            },
+            "background": "",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

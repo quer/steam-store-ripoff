@@ -1,0 +1,209 @@
+{
+    "949790": {
+        "success": true,
+        "data": {
+            "type": "game",
+            "name": "Rogue Bit",
+            "steam_appid": 949790,
+            "required_age": 0,
+            "is_free": false,
+            "controller_support": "full",
+            "detailed_description": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/949790/extras/headline-transparent2.png?t=1548000217\" ><br><br>You play the game as a single bit of computer memory. You can invade other bytes around you and thus modify their values. <br><br>The game features various types of puzzles:<h2 class=\"bb_tag\">Explore</h2><br>With ability to XOR into adjacent bytes, you can navigate your way through existing data in the memory. The game automatically marks the bytes you cannot go through without getting yourself overwritten and prevents you entering those. Both binary and ASCII views are available, which you can utilize to find an open path for a particular puzzle.<h2 class=\"bb_tag\">Decipher programs</h2><br>Various programs run on the computer you are trying to escape from. The game includes a disassembler showing you the assembly language corresponding to the machine code that is being executed. Don't worry if you don't know any Assembly. There are only a handful of CPU instructions and they are introduced gradually as you complete the puzzles. Reading the assembly code, you can track the program logic, see which parts of RAM it reads and writes to and manipulate data in those locations to get the program to do what you want.<h2 class=\"bb_tag\">Invade CPU registers</h2><br>The computer you are trying to escape has a simple CPU with a couple of registers. You can trick the CPU to load yourself into the registers and affect code execution or offload yourself into otherwise unreachable memory locations.<h2 class=\"bb_tag\">Hack</h2><br>For some puzzles, it isn't enough to change the data in RAM or registers. You can also change the machine code to get the computer to do different things.<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/949790/extras/logo-transparent2.png?t=1548000217\" ><h2 class=\"bb_tag\">Tips</h2><br>Carefully observe the bytes on the screen and what the CPU is doing. Sometimes you need to read the code in straightforward manner. Sometimes you need to work your way backwards: find the line of the code you want executed and then trace the code backwards to figure out how to trick the CPU to get to that instruction.<br><br>The game only has about 30 puzzles, but some of those might take considerable effort to solve. So take it easy and don't rush to the end. If you solve a puzzle by accident, don't go forward until you understand why it happened. You might miss some small detail and get completely stuck on the next puzzle.<h2 class=\"bb_tag\">TL;DR</h2><br>The game is about the way computers work internally. This isn't a game about writing new programs, but hacking existing programs and their data to clear the path or teleport across memory until you find a way to escape the computer completely. <br><br>Having some programming knowledge makes the game easier, but it isn't required. All the elements required to solve the puzzles are explained in the game.",
+            "about_the_game": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/949790/extras/headline-transparent2.png?t=1548000217\" ><br><br>You play the game as a single bit of computer memory. You can invade other bytes around you and thus modify their values. <br><br>The game features various types of puzzles:<h2 class=\"bb_tag\">Explore</h2><br>With ability to XOR into adjacent bytes, you can navigate your way through existing data in the memory. The game automatically marks the bytes you cannot go through without getting yourself overwritten and prevents you entering those. Both binary and ASCII views are available, which you can utilize to find an open path for a particular puzzle.<h2 class=\"bb_tag\">Decipher programs</h2><br>Various programs run on the computer you are trying to escape from. The game includes a disassembler showing you the assembly language corresponding to the machine code that is being executed. Don't worry if you don't know any Assembly. There are only a handful of CPU instructions and they are introduced gradually as you complete the puzzles. Reading the assembly code, you can track the program logic, see which parts of RAM it reads and writes to and manipulate data in those locations to get the program to do what you want.<h2 class=\"bb_tag\">Invade CPU registers</h2><br>The computer you are trying to escape has a simple CPU with a couple of registers. You can trick the CPU to load yourself into the registers and affect code execution or offload yourself into otherwise unreachable memory locations.<h2 class=\"bb_tag\">Hack</h2><br>For some puzzles, it isn't enough to change the data in RAM or registers. You can also change the machine code to get the computer to do different things.<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/949790/extras/logo-transparent2.png?t=1548000217\" ><h2 class=\"bb_tag\">Tips</h2><br>Carefully observe the bytes on the screen and what the CPU is doing. Sometimes you need to read the code in straightforward manner. Sometimes you need to work your way backwards: find the line of the code you want executed and then trace the code backwards to figure out how to trick the CPU to get to that instruction.<br><br>The game only has about 30 puzzles, but some of those might take considerable effort to solve. So take it easy and don't rush to the end. If you solve a puzzle by accident, don't go forward until you understand why it happened. You might miss some small detail and get completely stuck on the next puzzle.<h2 class=\"bb_tag\">TL;DR</h2><br>The game is about the way computers work internally. This isn't a game about writing new programs, but hacking existing programs and their data to clear the path or teleport across memory until you find a way to escape the computer completely. <br><br>Having some programming knowledge makes the game easier, but it isn't required. All the elements required to solve the puzzles are explained in the game.",
+            "short_description": "A single bit of computer memory became sentient and decided to escape from digital into the real world. Explore RAM, modify bytes and hack machine code and CPU registers to set it free.",
+            "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/949790/header.jpg?t=1548000217",
+            "website": null,
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP or newer<br></li><li><strong>Processor:</strong> Core2Duo 1.0 GHz<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> 128MB Video RAM, OpenGL 1.1+<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>"
+            },
+            "mac_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 10.9 Mavericks<br></li><li><strong>Processor:</strong> Core2Duo 1.0 GHz<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> 128MB Video RAM, OpenGL 1.1+<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>"
+            },
+            "linux_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Any 32bit or 64bit<br></li><li><strong>Processor:</strong> Core2Duo 1.0 GHz<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> 128MB Video RAM, OpenGL 1.1+<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>"
+            },
+            "developers": [
+                "Bigosaur"
+            ],
+            "publishers": [
+                "Bigosaur"
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 399,
+                "final": 259,
+                "discount_percent": 35,
+                "initial_formatted": "3,99€",
+                "final_formatted": "2,59€"
+            },
+            "packages": [
+                309081
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Rogue Bit",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 309081,
+                            "percent_savings_text": "-35%",
+                            "percent_savings": 0,
+                            "option_text": "Rogue Bit - <span class=\"discount_original_price\">3,99€</span> 2,59€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 259
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": true,
+                "linux": true
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 22,
+                    "description": "Steam Achievements"
+                },
+                {
+                    "id": 28,
+                    "description": "Full controller support"
+                },
+                {
+                    "id": 17,
+                    "description": "Includes level editor"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "23",
+                    "description": "Indie"
+                },
+                {
+                    "id": "28",
+                    "description": "Simulation"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/949790/ss_1800e96a82686d98182a6bcce5a592fc4c114bd1.600x338.jpg?t=1548000217",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/949790/ss_1800e96a82686d98182a6bcce5a592fc4c114bd1.1920x1080.jpg?t=1548000217"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/949790/ss_69eaa69df0ef4a2d489eff2e36921d345bd49dcd.600x338.jpg?t=1548000217",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/949790/ss_69eaa69df0ef4a2d489eff2e36921d345bd49dcd.1920x1080.jpg?t=1548000217"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/949790/ss_a3cb12b7049a1adf02d517c8df19541c946306b9.600x338.jpg?t=1548000217",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/949790/ss_a3cb12b7049a1adf02d517c8df19541c946306b9.1920x1080.jpg?t=1548000217"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/949790/ss_126727e583383c569f44d2ad6e8c733b0383e045.600x338.jpg?t=1548000217",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/949790/ss_126727e583383c569f44d2ad6e8c733b0383e045.1920x1080.jpg?t=1548000217"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/949790/ss_4f7c993020fbc080ef3f7c8abd931b55a7490e8e.600x338.jpg?t=1548000217",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/949790/ss_4f7c993020fbc080ef3f7c8abd931b55a7490e8e.1920x1080.jpg?t=1548000217"
+                },
+                {
+                    "id": 5,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/949790/ss_93ec36d466f0d7f7866e6a9452d83342bb27f135.600x338.jpg?t=1548000217",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/949790/ss_93ec36d466f0d7f7866e6a9452d83342bb27f135.1920x1080.jpg?t=1548000217"
+                },
+                {
+                    "id": 6,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/949790/ss_ccbf0f8557708cddb847e8f829355f49b8c8e76a.600x338.jpg?t=1548000217",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/949790/ss_ccbf0f8557708cddb847e8f829355f49b8c8e76a.1920x1080.jpg?t=1548000217"
+                },
+                {
+                    "id": 7,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/949790/ss_cecc9bf4645a803b4fdca5ed50e8200ea5117ef8.600x338.jpg?t=1548000217",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/949790/ss_cecc9bf4645a803b4fdca5ed50e8200ea5117ef8.1920x1080.jpg?t=1548000217"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 256729780,
+                    "name": "Trailer",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256729780/movie.293x165.jpg?t=1537601340",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256729780/movie480.webm?t=1537601340",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256729780/movie_max.webm?t=1537601340"
+                    },
+                    "highlight": true
+                }
+            ],
+            "achievements": {
+                "total": 9,
+                "highlighted": [
+                    {
+                        "name": "Eureka",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/949790/fc143eb96b2afc37a227aea07031661de064bf57.jpg"
+                    },
+                    {
+                        "name": "Explorer",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/949790/9aeaf4087b1816d3c234311bb6e255246ed18bd7.jpg"
+                    },
+                    {
+                        "name": "Teleport",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/949790/c5086f6ca74a73b31b13870a3d15e7547cb43c0a.jpg"
+                    },
+                    {
+                        "name": "Inside",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/949790/16134f5d9f06167405f49833e2ad6e75165733e3.jpg"
+                    },
+                    {
+                        "name": "Rebel",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/949790/62212c1473cd8658e777db6e4fd402054bbb4f18.jpg"
+                    },
+                    {
+                        "name": "Calculator",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/949790/dd92639dbb54401e949eca02544db9f5774e2e8c.jpg"
+                    },
+                    {
+                        "name": "Success",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/949790/8cba386b6545679490f19fa9c88a4e05bed27451.jpg"
+                    },
+                    {
+                        "name": "Secret",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/949790/d4dd6576b5d7cdc2b7ef69739b384ccecba3ea57.jpg"
+                    },
+                    {
+                        "name": "Zero",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/949790/1bca1797c8c8433dab1389b51c0122c5a34bf997.jpg"
+                    }
+                ]
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "10 Oct, 2018"
+            },
+            "support_info": {
+                "url": "",
+                "email": "rogue@bigosaur.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/949790/page_bg_generated_v6b.jpg?t=1548000217",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

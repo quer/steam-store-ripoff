@@ -1,0 +1,91 @@
+{
+    "826251": {
+        "success": true,
+        "data": {
+            "type": "episode",
+            "name": "The Ancient Magus' Bride: Better to ask the way than go astray",
+            "steam_appid": 826251,
+            "required_age": 0,
+            "is_free": false,
+            "controller_support": "full",
+            "detailed_description": "",
+            "about_the_game": "",
+            "short_description": "Lindel finishes the staff that Chise had finished carving. As she finishes, she meets an old friend, who offers her some wise advice.",
+            "fullgame": {
+                "appid": "826210",
+                "name": "The Ancient Magus' Bride"
+            },
+            "supported_languages": "English<strong>*</strong>, Japanese<br><strong>*</strong>languages with full audio support",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/826210/header.jpg?t=1529512566",
+            "website": null,
+            "pc_requirements": [],
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "publishers": [
+                ""
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 159,
+                "final": 159,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "1,59€"
+            },
+            "packages": [
+                253854
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy The Ancient Magus' Bride: Better to ask the way than go astray",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 253854,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "The Ancient Magus' Bride: Better to ask the way than go astray - 1,59€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 159
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 28,
+                    "description": "Full controller support"
+                },
+                {
+                    "id": 33,
+                    "description": "Native Steam Controller Support"
+                }
+            ],
+            "release_date": {
+                "coming_soon": false,
+                "date": "20 Jun, 2018"
+            },
+            "support_info": {
+                "url": "",
+                "email": ""
+            },
+            "background": "",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

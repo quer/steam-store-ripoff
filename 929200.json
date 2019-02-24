@@ -1,0 +1,204 @@
+{
+    "929200": {
+        "success": true,
+        "data": {
+            "type": "game",
+            "name": "吞食孔明传 Tunshi Kongming Legends",
+            "steam_appid": 929200,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "<h1>我们正在做最后调试</h1><p>大家承让了，本次上线的游戏是一个相对较为完善的版本，包含了多周目及全新的系统，我们正在做最后的版本调试，尽量的排除掉一些不必要的因素，以及未知的BUG，这可能还需要较短几周时间，请大家稍作休息，一旦完成后我们会立刻发布至steam商店，再此感谢，鞠躬。<br>自去年开始的两年时间里，我们重新绘制了200个不同的角色原画，在音乐等方面进行了完全的重构，并为游戏中上百位角色录制了战斗CV。用独特的场景美术和UI，再加上中国特色的三国历史剧本及回合制的游戏玩法，将游戏打磨到了一个新的阶段。我们在技术上并没有任何优势，只能通过更多的时间来钻研制作，我们这一群对三国有着狂热喜爱的人，一直在坚持。这部作品承载着我们太多的汗水和心血，我们想竭尽全力的让“他”出现在大家的面前。<h2 class=\"bb_tag\">以下为Version超长内容调整公告</h2><br>新系统设定及功能调整：<br>---------------------------<br>系统UI全面重置，现在可以更加直观的看到角色的配置及菜单画面。<br>移除了原有的训练所，新增「练兵」系统，现在可通过剧情、隐藏、战斗等方式获得练兵值，分配给任意角色，有效提升角色的基础等级。<br>练兵系统中加入了等级限制，随二周目的开启后，将消除等级限制。<br>新增「伤害训练」系统，可在不同的剧本场合对木桩进行伤害测试及挑战，以获取相应的奖励。<br>现在「军师天赋」新增80项天赋，可通过剧情、隐藏、战斗等方式入手。<br>现在「军师天赋」系统不再跟随军师个人而确定，可进行自由任意组合，同时加入了最大天赋点数，可随剧本获得提升。<br>新增「辅助属性」伤害、辅助、击破、阵亡，它们将加入到武将综合统计，可在状态菜单及武将编成所内查看。<br>新增「功绩系统」章节过关及综合表现平分，各种直观统计因素（辅助属性、造诣、隐藏等），决定章节及通关的评价，该评价可影响到二周目的奖励。<br>新增「包裹NPC」随机掉落的包括可换取金钱或者练兵。<br>新增「道具NPC」可通过各类物品交换获得奖励。<br>重置了所有「天气效果」显示，现在可以更加明显的看到天气效果。<br>现在隐藏的获取数量可在造诣菜单中查看。<br>现在游戏中的系统设定增加，战斗特效，场景名前，跳过动画，自动存档，云存档等功能，可在设置菜单中更改。<br>现在存档的数量增加为8个，在非战斗场合可开启自动存档功能。<br>现在游戏的操作方式可由WASD进行控制，新增了行军菜单及战斗菜单的Num1-9快捷键操作。<br>保留了原来方向键的操作方式，使用手柄操作时可直接适配，但无法使用菜单快捷键。<br>优化了部分场景（如赤壁战船）的画面解析，有效提升FPS。<br><br>周目系统完全公开：<br>-------------------------<br>游戏通关后可开启周目，在周目中可获得多种奖励（可多周目重复累积），包含如下：<br>01. 本阵经验练兵及金钱加成。<br>02. 本阵在编武将初始化继承。<br>03. 本阵军师天赋数全阶继承。<br>04. 本阵阵法及军印完全继承。<br>05. 本阵全道具、全饰品继承。<br>06. 本阵所有造诣达成数继承。<br>07. 本阵全隐藏武将加入可能。<br>08. 本阵战斗士气基础值提升。<br>09. 敌阵全武将战斗数据强化。<br>10. 敌阵全武将在野乱入可能。<br>11. 双方同武将重复出现可能。<br>12. 主线事件及剧本遐想乱入。<br>13. 造诣激活总数突破最大值。<br>14. 随机紫色装备奖励并继承。<br><br>战斗系统改动：<br>---------------------------<br>战斗UI全面重置，略微增加了战斗人物的大小比例。<br>新增「战斗统计」系统，现在战斗结束后，敌我双方的伤害输出及回复效果都会得到统计，直观的表现。<br>现在计策的选择不再会遮挡武将状态栏的显示。<br>现在对本阵使用计策或道具时候，可显示角色的能力和属性。<br>现在使用常规计策时，可显示计策的单体及全体综合成功率。<br>新增敌阵的总大将出现方式，已骑乘方式出现。同时获得「骑乘」属性，该属性最高为五阶，每阶段的「骑乘」属性都可降低所有伤害，并且降低受到的控制几率。<br>现在1-7章节中出现的在野武将几率提升了300%<br>战斗中现在可显示天气和场景特效，并优化了战斗选择目标提示光效。<br>现在全军会心一击的系统判定伤害由150%下降至125%<br>现在士气高涨时，本阵武将技的攻击伤害加成由150%提升为200%，真武将技的士气需求移除，士气伤害加成提升为250%，其余所有伤害加成则继续维持150%<br>现在士气低下时，本阵最低伤害由50%提升为75%，而武将技的最低伤害不再受到士气低下影响，可维持100%<br>剧本中本阵获得的所有兵力及策略点加成移除。<br><br>计策改动及调整：<br>------------------------------<br>取消了所有战场计策地形效果，水属性计策不再获得战场属性伤害加成，风属性不再获得先生速度加成，四属性计策基础伤害现在完全一致。<br>现在「回复计」所有恢复性计策，不再受到智力属性的加成，它们将在装备属性上获得额外提升。<br>现在「军定计」使全军在战斗中受到攻击后士气不再下降，持续2回合。<br>现在「护城计」使全军的防御力提升20%下降至12%<br>现在「血路计」使全体敌军，下降至随机三名敌将在几回合内受到的所有回复效果减半。<br>现在「烟遁计」原有功能移除、替换为可使我军单体的物理回避率提升15%，持续5回合。<br>现在「暗杀计」可在暗黑之中突入敌阵，无视一切外力直接斩杀一名兵力少于四分之一的敌将。<br>现在「令杀计」计策命中率计算方式由普通攻击的命中计算方式代替。<br>现在「疑心计」命中之后的持续回合数获得了延长。<br>现在「落雷计」基础计策伤害降低至90，伤害不再固定，会随着武将的等级获得巨额提升。<br>新增「复策计」修身养性，恢复我军单体35%的策略值。<br>新增「行进计」行军动众，使我军单体的先手行动率提升25点，持续5回合。<br>移除「缩地计」在洞穴之中任可使用地遁烟。<br><br>阵型改动及调整：<br>------------------------------<br>现在「寂静阵」兵力回复效果下降50%提升为下降40%<br>现在「锋矢阵」全员命中率下降10%提升为下降5%<br>现在「锋矢阵」全员命中率下降10%提升为下降5%<br>现在「八卦阵」四门随机获得免疫和反击的属性由100%下降为50%，生门武将不再无法行动，取而代之的是无法进行恢复。<br><br>道具改动及调整：<br>------------------------------<br>现在四属性计策天书的命中判定不再由智力加成决定，将统一固定为90%<br>「护身烟」现在使用结束后在可遇敌的场合中，加入了连续使用的询问。<br>「军运牌」新增道具，可提升特殊宝箱的开启次数，每次连击时都会自动消耗一枚。<br>「辅助丹」现在所有在战斗前使用丹药的持续时间统一下降为5回合。<br>「张角巾」移除原有效果，现在可使风属性计策的先手行动率提升20点。<br>「圣火令」移除原有效果，现在可使火属性计策伤害提升10%<br>「黄石公」移除原有效果，现在可使地属性计策的策略成功率提升8%<br>「玉龙璧」移除原有效果，现在可使水属性计策的策略值消耗减少15%<br>「大会心丹」现在在战斗中可使我军单体武将下一次物理攻击的会心率提升50%，会心伤害提升25%<br>「傀儡之符」原名傀儡娃娃，现在在战斗中阵亡后，可使攻击者陷入鬼魅状态，几回合内无法行动，装备随之消失。<br>新增了特定的剧情道具。<br><br>装备改动及调整：<br>------------------------------<br>现在绿色装备锻造到真打阶层后，也可获得额外的特殊属性加成，同时增加以下装备：<br>「怒龙剑」、「倚天剑」、「巨灵剑」、「双刃剑」、「太康刃」、「钩镰刀」、<br>「会心枪」、「玲珑枪」、「雁翎枪」、「破城枪」、「南仙杖」、「豪风杖」、<br>「乾坤杖」、「金泽斧」、「崩雷斧」、「灵宝弓」、「梨花箭」、「地藏服」、<br>「软猬甲」、「孟德新书」、「檀椎」、「古琴」、「项羽护手」。<br><br>造诣改动及调整：<br>------------------------------<br>造诣「强石之躯」与「初心奋战」的难度等级进行了对换。<br>造诣「逆魏之王」与「万年之师」拥有了新的达成方式。<br>造诣「千人击破」与「百人击破」的达成方式难度获得下降。<br>新增了四个通关后的隐藏造诣。<br><br>武将特性调整及改动：<br>-----------------------<br>★颜良武将技「会心」调整。<br>原：5回合内颜良的普通攻击提升55%会心一击效果。<br>现：接下来的五次普通攻击必定触发会心一击，同时提升25%的会心伤害。<br>颜良的被动会心一击加成由22%提升至25%<br><br>★孔明武将技「天变」调整。<br>原：天变对应的属性策略伤害增强，并附加一次自身最高等同属性全体策略伤害。<br>现：（战场属性不再生效，水属性计策地形加成移除）<br>孔明变换地属性战场，全军使用地属性计策的策略成功率提升17%<br>孔明变换水属性战场，全军使用水属性计策的策略值消耗减少50%<br>孔明变换火属性战场，全军使用火属性计策的策略伤害提升20%<br>孔明变换风属性战场，全军使用风属性计策的先手行动率提升40<br>明变化战场属性后，全军受到对应属性的策略伤害下降25%<br>增加了天变都战场的特效显示。<br><br>★甘宁武将技「水意」移除，新增三个武将技<br>「乱水」水乱波动，战场中任意将领使用水属性计后便可使甘宁进入水刃状态，同时回复其5%的兵力，持续5回合。<br>「聚水」甘宁使用水属性计策后可使自身进入水刃状态。<br>「水刃」甘宁下一回合的普通攻击可附加50%自身最高阶的水属性计策伤害，并消耗策略值。<br><br>★黄盖武将技「守将」调整。<br>原：黄盖可为全军降低25%所有伤害，持续3回合。<br>现：黄盖开启守护结界，自身受到普通攻击的伤害降低25%，并随机挑衅至多两名敌将，使其在接下来的两回合中强制普攻自己。<br><br>★黄盖武将技「苦肉」调整。<br>原：黄盖拥有更高的几率被敌人所攻击。<br>现：黄盖受到的策略伤害永久增加10%<br><br>★孙坚武将技「战意」调整。<br>现在孙坚使用武将技战意时，可立即回复自生33%的兵力。<br><br>★孙策武将技「炎黄」调整。<br>现在孙策的武将技可以对敌将单体造成伤害的同时削减目标的策略值。<br><br>★关索武将技「不动」新增。<br>关索开启武圣的回合，可获得不动之体的加护，降低受到的所有伤害75%<br><br>★关平武将技「旋力」调整。<br>现在关平的武将技可附加自身的防御力后对敌将单体进行多次大力斩击，造成三段伤害。<br><br>★孙尚香武将技「枭姬」调整。<br>现在孙尚香的跃身攻击对敌将单体造成伤害，若敌将武属性高于自身时可将其击晕。<br><br>★太史慈武将技「强敌」调整。<br>敌人的数量比我方每多一人，太史慈的攻防及全属性便提升10%，最多可提升50%，现在每回合都会加入判定。<br><br>★貂蝉武将技「魅惑」调整。<br>原：貂蝉献舞，随机魅惑2名敌将，使其必定率丧失行动一回合。<br>现：貂蝉献舞，随机魅惑4名敌将，使其有一定几率丧失行动一回合。<br><br>★貂蝉武将技「引诱」调整。<br>原：貂蝉使用疑心，离间，叛离计的成功率提升15%<br>现：貂蝉使用疑心，离间，叛离计的持续时间延长一回合。<br><br>★法正武将技「鼓舞」调整。<br>现在法正进入战场时，提升全军25点初始士气下降至12点。<br><br>★马良武将技「神复」调整。<br>现在马良医治友军，立刻恢复我军单体武将25%的兵力下降至10%，之后每回合持续恢复10%，直到武将兵力全满为止。<br><br>★刘封武将技「战返」调整。<br>现在刘封使用斩月后，若敌将的兵力少于自身，则可返还全部的战气（需冷却一回合）<br><br>★祝融武将技「逆生」调整。<br>现在祝融受到南蛮诅咒，兵力回复效果永久下降35%下降至25%<br><br>★陈登武将技「智复」调整。<br>现在陈登施展法术，立刻回复全军45%的策略点下降至25%。<br><br>★糜竺移除原有被动，武将技「不懈」新增。<br>糜竺勤学苦练，使用计策失败后，任意计策的成功率提升17%，连续失败时最大可叠加三次。<br><br>★简雍移除原有被动，武将技「速驾」新增。<br>简雍善于护驾，对己方使用计策时，先手行动率将大幅度提升。<br><br>★孙乾移除原有被动，武将技「勉励」新增。<br>在战斗中每当友军击杀敌将时，孙乾将自动给予犒赏。<br><br>新增敌将邓艾、文鸯、司马师的被动技能特效。<br><br>剧本调整及BUG修复：<br>-----------------------<br>黑山黑化张角、赤壁江陵蔡冒、汉墓马腾之魂、北魏许昌邓艾、洛阳决战司马的剧本战斗难度调整，获得相应下降。<br>增加了特定场合中的NPC。<br>增加了额外的支线剧本任务。<br>增加了全章节通关结局及隐藏结局。<br>修复了西川霞萌关、建宁城、越隽城逃跑后可直接进城的BUG。<br>修复了洛阳与司马懿决战时因存档导致跳出的BUG。<br>修复了物品描述与实际出入的BUG。<br>修复了战斗前可附加多种辅助属性的BUG。<br>修复了本阵在大地图中某些将领的光圈颜色表示。<br>修复了部分武将在编辑所消失的BUG。<br>修复了部分剧本对话中，角色头像与名称不符的BUG。<br>修复了武将CV在第四章后无法正常播放的BUG。<br>修复了敌将在使用特定的技能计策时的AI。<br>修复了陷入无法攻击、无法策略、无法阵型时的UI。</p><br><h1>About the Game</h1>《吞食孔明传》是一款传统的大型回合制角色扮演游戏，游戏讲述了在东汉末年的战乱之中，<br>诸葛孔明与刘关张三人从桃园结义开始至一统天下的传奇故事。<br>在本作中，包含了与历史相符的八个章节的正统剧本：<br>Stage1「黄巾之乱」 Stage2「浊世君王」 Stage3「卧龙意志」 Stage4「赤壁大战」<br>Stage5「荆襄四郡」 Stage6「西征巴蜀」 Stage7「北伐中原」 Stage8「天下一统」<br>-----------------------------------------------------------------------------------------------<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/929200/extras/haibao.png?t=1549187771\" ><br>-----------------------------------------------------------------------------------------------<h2 class=\"bb_tag\">回合制系统及特殊玩法</h2>本作中，超过200名三国武将登场，玩家通过剧本可加入并使用的角色多达50位以上，每位角色<br>都加入了中文声优出演。<br>本作中，可通过剧情和隐藏搜集多种军师天赋，并任意组合它们来强化本阵的作战能力。<br>本作中，可寻找的隐藏物品达200种以上。<br>本作中，武将可习得的计策和将技总数达到100以上。<br>本作中，通过剧本和隐藏可习得多种阵法，以提升本阵队伍总体的战力。<br>本作中，每位角色的武将技都是独一无二的，每位武将皆可发挥各自的功能。<br>本作中，装备可通过特定的道具进行升级，锻造后的装备可能出现新的隐藏效果。<br>本作中，士气系统是战斗中最为关键的因素之一，左右了全队的伤害输出。<br>本作中，有80种隐藏的成就，完成它们可追求极致的难度挑战。<br>本作中，提供了战斗数据统计，精准的体现出不同玩家的操作及战斗技巧的使用。<br>本作中，二周目进行可获全武将解锁，敌将乱入，道具继承，天赋扩展及特殊装备等丰富的周目<br>奖励。<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/929200/extras/ttt01.png?t=1549187771\" ><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/929200/extras/01.png?t=1549187771\" ><br>本作中，通过剧情和隐藏总计可收入玩家阵营的武将可达50人以上，包括敌阵武将在内，所有<br>角色都配置了声优的出演。<br>兵力：角色的生命值，对于普通攻击的有大幅度影响。「等级成长」Hp<br>策略：角色的策略值，使用计策时的必要消耗。「等级成长」Mp<br>战气：角色的怒气值，当怒气槽蓄满后，可释放武将技。「初始恒定」Ap<br>攻击属性：角色装备武器所附加的基础攻击力。「依据装备」Atk<br>防御属性：降低受到敌人攻击所受到的伤害，受到防具影响。「依据装备」Def<br>武力属性：角色的普通攻击伤害，受到此属性的大幅度影响。「初始恒定」Str<br>技巧属性：决定了的普攻命中、会心概率及额外的策略成功率加成。「初始恒定」Dex<br>智力属性：决定了角色的策略的伤害，策略的命中及回避率。「初始恒定」Int<br>速度属性：速度的高低决定了角色出手顺序，以及物理攻击的回避率。「初始恒定」Agi<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/929200/extras/ttt02.png?t=1549187771\" ><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/929200/extras/02.png?t=1549187771\" ><br>军师一职在游戏中有着至关重要的作用。每位角色都拥有做为一名军师的权利。游戏中，通过任务以及隐藏，可以搜集大量的军师符文，对角色任命「军师」后，这些「军师天赋」将被激活。随着剧情的发展，军师最多拥有九项天赋，可任意进行搭配，这些天赋可以为团队带来极大的增益效果。<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/929200/extras/ttt03.png?t=1549187771\" ><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/929200/extras/05.png?t=1549187771\" ><br>锻造是装备升级的一个必要过程，游戏中角色的武器和防具均可以进行锻造，通过锻造提升它们的基础属性。每次锻造需要消耗一定量的魂石，不同阶层的装备则所需的魂石不同，装备颜色分别对应了初、锻、匠、真四个等级，高阶装备在锻造到真打阶层时，还会增加额外的附带属性。<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/929200/extras/ttt04.png?t=1549187771\" ><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/929200/extras/06.png?t=1549187771\" ><br>阵型的配置是本作战斗系统的重要组成部分，游戏中总计包含了包括「白马、鱼鳞、背水、连环、冲方」在内的十五种阵法和对应刻印，它们相生相克，分布在不同章节内。刘备军可以在剧本中通过搜寻和剧情获得「阵法刻印」来习得相应的阵法。基础阵型可在行军时设置，某些特殊阵型必须进入战斗方能设置，比如「八卦阵」。除此之外，开启阵型的必要条件是战斗队伍至少有五人存活。反之在阵法启动中如果有两名角色阵亡，阵法将会立刻解散。<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/929200/extras/ttt05.png?t=1549187771\" ><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/929200/extras/07.png?t=1549187771\" ><br>本作中，每位角色除了基础的八项属性之外，都会拥有至少两个或以上的技能，它们在游戏中是独一无二的，被称为「武将技」，在一般情况下，每位角色都会拥有至少一个「主动」和一个「被动」形态的武将技，他们的作用大不相同。在大多数场合，武将技的种类决定了一个角色在队伍中的定位。<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/929200/extras/ttt06.png?t=1549187771\" ><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/929200/extras/10.png?t=1549187771\" ><br>游戏中每场战斗结束后，参与战斗的各位武将数据统计都会逐一显示，他们在本场战斗中的输出和辅助、死亡及击破都会记录在角色的个人统计版面中，这些数据直接影响到章节结束时的战绩和评价，同时也能帮助玩家分析判断，以便找到最为适合的武将阵容组合。<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/929200/extras/ttt07.png?t=1549187771\" ><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/929200/extras/08.png?t=1549187771\" ><br>战斗中敌我双方武将通过攻击、使用计策、道具和武将技等方式，可以提升或降低全军的士气，每场战斗的初始士气为100，士气高于100时，刘备军全队的输出会有相应的加成。当士气达到峰值255时，全军的伤害输出提升至平时的1.5倍。反之士气低落至0时，输出能力降低50%。<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/929200/extras/ttt08.png?t=1549187771\" ><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/929200/extras/03.png?t=1549187771\" ><br>本作中除武将技之外，每位角色还会在不同的等级习得不同的「计策」，计策与物理伤害不同，它们拥有独立的判定方法及充足害能力和辅助效果，每个计策都需要消耗角色一定的策略值，一道计策的成功与失败取决于敌我双方的「智」属性，此外，双方的智属性差别较大时，计策往往容易成功，反之亦会失败。<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/929200/extras/ttt09.png?t=1549187771\" ><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/929200/extras/04.png?t=1549187771\" ><br>隐藏一词在本作中出现的频率较高。隐藏的道具和装备随处可见，它们通常存在于各个城池、村落、宿屋内的瓦罐中。刘备军可通过各种搜索，搜集到各类隐藏道具。通常来说通过搜寻隐藏获得的装备，都是相对稀有的，它们比商店内出售的装备更为出色。因此每到一个新的城池，先开始搜寻一番再说吧！<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/929200/extras/ttt10.png?t=1549187771\" ><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/929200/extras/11.png?t=1549187771\" ><br>本作中含有大量隐藏的挑战剧本和任务事件，成功完成后便会获得相应的成就，它们在游戏中被称之为「造诣」。造诣数量是游戏完成度的绝对表现，它们可以通过各种支线任务或者剧情来获得。这是专门为挑战难度的玩家而准备的，当强敌来袭时不要惊慌，逆剧情而行，尝试着击败它们，或者完成相应的操作，即可获得相应的造诣，同时解锁Steam内的成就。当然即使不完成这些造诣，也不会影响游戏的顺利通关。<br>在游戏通关之后便可激活二周目。在二周目中，自黄巾之乱始便可解锁全武将，可任意调用不再受到剧情限制，同时会有更多的在野武将角色可以搜集，并且包含有各种丰富的天赋奖励和道具继承，此外敌阵也会发生翻天覆地的变化，剧情乱入等皆有可能。",
+            "about_the_game": "《吞食孔明传》是一款传统的大型回合制角色扮演游戏，游戏讲述了在东汉末年的战乱之中，<br>诸葛孔明与刘关张三人从桃园结义开始至一统天下的传奇故事。<br>在本作中，包含了与历史相符的八个章节的正统剧本：<br>Stage1「黄巾之乱」 Stage2「浊世君王」 Stage3「卧龙意志」 Stage4「赤壁大战」<br>Stage5「荆襄四郡」 Stage6「西征巴蜀」 Stage7「北伐中原」 Stage8「天下一统」<br>-----------------------------------------------------------------------------------------------<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/929200/extras/haibao.png?t=1549187771\" ><br>-----------------------------------------------------------------------------------------------<h2 class=\"bb_tag\">回合制系统及特殊玩法</h2>本作中，超过200名三国武将登场，玩家通过剧本可加入并使用的角色多达50位以上，每位角色<br>都加入了中文声优出演。<br>本作中，可通过剧情和隐藏搜集多种军师天赋，并任意组合它们来强化本阵的作战能力。<br>本作中，可寻找的隐藏物品达200种以上。<br>本作中，武将可习得的计策和将技总数达到100以上。<br>本作中，通过剧本和隐藏可习得多种阵法，以提升本阵队伍总体的战力。<br>本作中，每位角色的武将技都是独一无二的，每位武将皆可发挥各自的功能。<br>本作中，装备可通过特定的道具进行升级，锻造后的装备可能出现新的隐藏效果。<br>本作中，士气系统是战斗中最为关键的因素之一，左右了全队的伤害输出。<br>本作中，有80种隐藏的成就，完成它们可追求极致的难度挑战。<br>本作中，提供了战斗数据统计，精准的体现出不同玩家的操作及战斗技巧的使用。<br>本作中，二周目进行可获全武将解锁，敌将乱入，道具继承，天赋扩展及特殊装备等丰富的周目<br>奖励。<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/929200/extras/ttt01.png?t=1549187771\" ><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/929200/extras/01.png?t=1549187771\" ><br>本作中，通过剧情和隐藏总计可收入玩家阵营的武将可达50人以上，包括敌阵武将在内，所有<br>角色都配置了声优的出演。<br>兵力：角色的生命值，对于普通攻击的有大幅度影响。「等级成长」Hp<br>策略：角色的策略值，使用计策时的必要消耗。「等级成长」Mp<br>战气：角色的怒气值，当怒气槽蓄满后，可释放武将技。「初始恒定」Ap<br>攻击属性：角色装备武器所附加的基础攻击力。「依据装备」Atk<br>防御属性：降低受到敌人攻击所受到的伤害，受到防具影响。「依据装备」Def<br>武力属性：角色的普通攻击伤害，受到此属性的大幅度影响。「初始恒定」Str<br>技巧属性：决定了的普攻命中、会心概率及额外的策略成功率加成。「初始恒定」Dex<br>智力属性：决定了角色的策略的伤害，策略的命中及回避率。「初始恒定」Int<br>速度属性：速度的高低决定了角色出手顺序，以及物理攻击的回避率。「初始恒定」Agi<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/929200/extras/ttt02.png?t=1549187771\" ><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/929200/extras/02.png?t=1549187771\" ><br>军师一职在游戏中有着至关重要的作用。每位角色都拥有做为一名军师的权利。游戏中，通过任务以及隐藏，可以搜集大量的军师符文，对角色任命「军师」后，这些「军师天赋」将被激活。随着剧情的发展，军师最多拥有九项天赋，可任意进行搭配，这些天赋可以为团队带来极大的增益效果。<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/929200/extras/ttt03.png?t=1549187771\" ><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/929200/extras/05.png?t=1549187771\" ><br>锻造是装备升级的一个必要过程，游戏中角色的武器和防具均可以进行锻造，通过锻造提升它们的基础属性。每次锻造需要消耗一定量的魂石，不同阶层的装备则所需的魂石不同，装备颜色分别对应了初、锻、匠、真四个等级，高阶装备在锻造到真打阶层时，还会增加额外的附带属性。<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/929200/extras/ttt04.png?t=1549187771\" ><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/929200/extras/06.png?t=1549187771\" ><br>阵型的配置是本作战斗系统的重要组成部分，游戏中总计包含了包括「白马、鱼鳞、背水、连环、冲方」在内的十五种阵法和对应刻印，它们相生相克，分布在不同章节内。刘备军可以在剧本中通过搜寻和剧情获得「阵法刻印」来习得相应的阵法。基础阵型可在行军时设置，某些特殊阵型必须进入战斗方能设置，比如「八卦阵」。除此之外，开启阵型的必要条件是战斗队伍至少有五人存活。反之在阵法启动中如果有两名角色阵亡，阵法将会立刻解散。<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/929200/extras/ttt05.png?t=1549187771\" ><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/929200/extras/07.png?t=1549187771\" ><br>本作中，每位角色除了基础的八项属性之外，都会拥有至少两个或以上的技能，它们在游戏中是独一无二的，被称为「武将技」，在一般情况下，每位角色都会拥有至少一个「主动」和一个「被动」形态的武将技，他们的作用大不相同。在大多数场合，武将技的种类决定了一个角色在队伍中的定位。<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/929200/extras/ttt06.png?t=1549187771\" ><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/929200/extras/10.png?t=1549187771\" ><br>游戏中每场战斗结束后，参与战斗的各位武将数据统计都会逐一显示，他们在本场战斗中的输出和辅助、死亡及击破都会记录在角色的个人统计版面中，这些数据直接影响到章节结束时的战绩和评价，同时也能帮助玩家分析判断，以便找到最为适合的武将阵容组合。<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/929200/extras/ttt07.png?t=1549187771\" ><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/929200/extras/08.png?t=1549187771\" ><br>战斗中敌我双方武将通过攻击、使用计策、道具和武将技等方式，可以提升或降低全军的士气，每场战斗的初始士气为100，士气高于100时，刘备军全队的输出会有相应的加成。当士气达到峰值255时，全军的伤害输出提升至平时的1.5倍。反之士气低落至0时，输出能力降低50%。<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/929200/extras/ttt08.png?t=1549187771\" ><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/929200/extras/03.png?t=1549187771\" ><br>本作中除武将技之外，每位角色还会在不同的等级习得不同的「计策」，计策与物理伤害不同，它们拥有独立的判定方法及充足害能力和辅助效果，每个计策都需要消耗角色一定的策略值，一道计策的成功与失败取决于敌我双方的「智」属性，此外，双方的智属性差别较大时，计策往往容易成功，反之亦会失败。<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/929200/extras/ttt09.png?t=1549187771\" ><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/929200/extras/04.png?t=1549187771\" ><br>隐藏一词在本作中出现的频率较高。隐藏的道具和装备随处可见，它们通常存在于各个城池、村落、宿屋内的瓦罐中。刘备军可通过各种搜索，搜集到各类隐藏道具。通常来说通过搜寻隐藏获得的装备，都是相对稀有的，它们比商店内出售的装备更为出色。因此每到一个新的城池，先开始搜寻一番再说吧！<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/929200/extras/ttt10.png?t=1549187771\" ><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/929200/extras/11.png?t=1549187771\" ><br>本作中含有大量隐藏的挑战剧本和任务事件，成功完成后便会获得相应的成就，它们在游戏中被称之为「造诣」。造诣数量是游戏完成度的绝对表现，它们可以通过各种支线任务或者剧情来获得。这是专门为挑战难度的玩家而准备的，当强敌来袭时不要惊慌，逆剧情而行，尝试着击败它们，或者完成相应的操作，即可获得相应的造诣，同时解锁Steam内的成就。当然即使不完成这些造诣，也不会影响游戏的顺利通关。<br>在游戏通关之后便可激活二周目。在二周目中，自黄巾之乱始便可解锁全武将，可任意调用不再受到剧情限制，同时会有更多的在野武将角色可以搜集，并且包含有各种丰富的天赋奖励和道具继承，此外敌阵也会发生翻天覆地的变化，剧情乱入等皆有可能。",
+            "short_description": "吞食孔明传是一款传统的回合制角色扮演独立游戏，讲述了东汉末年的战乱之中，诸葛孔明与刘关张三人从桃园结义开始至一统天下的传奇故事。八个章节的正统剧本，两百位武将登场，可加入玩家阵营突破五十名，二周目开启，百种天赋技能及成就待解锁。",
+            "supported_languages": "Simplified Chinese<strong>*</strong><br><strong>*</strong>languages with full audio support",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/929200/header.jpg?t=1549187771",
+            "website": "http://www.twk2nd.com",
+            "pc_requirements": {
+                "minimum": "<strong>最低配置:</strong><br><ul class=\"bb_ul\"><li><strong>操作系统:</strong> windows7、10<br></li><li><strong>处理器:</strong> Intel Core i3<br></li><li><strong>内存:</strong> 4096 MB RAM<br></li><li><strong>图形:</strong> Intel graphics HD<br></li><li><strong>DirectX 版本:</strong> 9.0c<br></li><li><strong>存储空间:</strong> 需要 4096 MB 可用空间<br></li><li><strong>声卡:</strong> Definition Audio<br></li><li><strong>附注事项:</strong> 关闭显卡驱动中的垂直同步可提升全屏FPS</li></ul>",
+                "recommended": "<strong>推荐配置:</strong><br><ul class=\"bb_ul\"><li><strong>操作系统:</strong> windows7、10<br></li><li><strong>处理器:</strong> Intel Core i5<br></li><li><strong>内存:</strong> 8192 MB RAM<br></li><li><strong>图形:</strong> NVIDIA Geforce 5、6、7、8、9、10<br></li><li><strong>DirectX 版本:</strong> 11<br></li><li><strong>存储空间:</strong> 需要 4096 MB 可用空间<br></li><li><strong>声卡:</strong> Definition Audio<br></li><li><strong>附注事项:</strong> 关闭显卡驱动中的垂直同步可提升全屏FPS</li></ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "developers": [
+                "Sunny Show"
+            ],
+            "publishers": [
+                "Sunny Show"
+            ],
+            "package_groups": [],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 22,
+                    "description": "Steam Achievements"
+                },
+                {
+                    "id": 18,
+                    "description": "Partial Controller Support"
+                },
+                {
+                    "id": 23,
+                    "description": "Steam Cloud"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "25",
+                    "description": "Adventure"
+                },
+                {
+                    "id": "23",
+                    "description": "Indie"
+                },
+                {
+                    "id": "3",
+                    "description": "RPG"
+                },
+                {
+                    "id": "2",
+                    "description": "Strategy"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/929200/ss_e4d541ce598aa55a4b97000f01c5b7d4c6943a76.600x338.jpg?t=1549187771",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/929200/ss_e4d541ce598aa55a4b97000f01c5b7d4c6943a76.1920x1080.jpg?t=1549187771"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/929200/ss_9a693ee04cd7cd2d35c252fcd9e8eb445ac6c807.600x338.jpg?t=1549187771",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/929200/ss_9a693ee04cd7cd2d35c252fcd9e8eb445ac6c807.1920x1080.jpg?t=1549187771"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/929200/ss_f69022299e50360ffb026b788ffa9c0f6ec5719c.600x338.jpg?t=1549187771",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/929200/ss_f69022299e50360ffb026b788ffa9c0f6ec5719c.1920x1080.jpg?t=1549187771"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/929200/ss_e2e6af70473bd45fd71bc90305dfb0e19e398b39.600x338.jpg?t=1549187771",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/929200/ss_e2e6af70473bd45fd71bc90305dfb0e19e398b39.1920x1080.jpg?t=1549187771"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/929200/ss_5af44b049a38bc54ee10021f7678622cb5a2d1b3.600x338.jpg?t=1549187771",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/929200/ss_5af44b049a38bc54ee10021f7678622cb5a2d1b3.1920x1080.jpg?t=1549187771"
+                },
+                {
+                    "id": 5,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/929200/ss_75cba300ffb18385677f9234428091d4dad008b6.600x338.jpg?t=1549187771",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/929200/ss_75cba300ffb18385677f9234428091d4dad008b6.1920x1080.jpg?t=1549187771"
+                },
+                {
+                    "id": 6,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/929200/ss_7af8fd50c863935a910c9d37d787cd069a62b347.600x338.jpg?t=1549187771",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/929200/ss_7af8fd50c863935a910c9d37d787cd069a62b347.1920x1080.jpg?t=1549187771"
+                },
+                {
+                    "id": 7,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/929200/ss_5509235f77213319c41d75f466f4b1d08df94497.600x338.jpg?t=1549187771",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/929200/ss_5509235f77213319c41d75f466f4b1d08df94497.1920x1080.jpg?t=1549187771"
+                },
+                {
+                    "id": 8,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/929200/ss_560e914afe5b07ce3361f853d892967707d9c33b.600x338.jpg?t=1549187771",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/929200/ss_560e914afe5b07ce3361f853d892967707d9c33b.1920x1080.jpg?t=1549187771"
+                },
+                {
+                    "id": 9,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/929200/ss_764d9a337e9824aa0daadaf82bc89dccb4f78457.600x338.jpg?t=1549187771",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/929200/ss_764d9a337e9824aa0daadaf82bc89dccb4f78457.1920x1080.jpg?t=1549187771"
+                },
+                {
+                    "id": 10,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/929200/ss_12d199d7fd18ea60e820eb7c9aef233f4fe5c57b.600x338.jpg?t=1549187771",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/929200/ss_12d199d7fd18ea60e820eb7c9aef233f4fe5c57b.1920x1080.jpg?t=1549187771"
+                },
+                {
+                    "id": 11,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/929200/ss_95f9f8e56c793b24b6f175bc0b13ded9e37c2418.600x338.jpg?t=1549187771",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/929200/ss_95f9f8e56c793b24b6f175bc0b13ded9e37c2418.1920x1080.jpg?t=1549187771"
+                },
+                {
+                    "id": 12,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/929200/ss_0137c28e6e08c6d62260fea504ba88b3881264d2.600x338.jpg?t=1549187771",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/929200/ss_0137c28e6e08c6d62260fea504ba88b3881264d2.1920x1080.jpg?t=1549187771"
+                },
+                {
+                    "id": 13,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/929200/ss_c2bf5b5c3915a51efb7da8d1b7f8ee1b3c507100.600x338.jpg?t=1549187771",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/929200/ss_c2bf5b5c3915a51efb7da8d1b7f8ee1b3c507100.1920x1080.jpg?t=1549187771"
+                },
+                {
+                    "id": 14,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/929200/ss_b65590e58a6571e17afa1030c496d276ffd3da79.600x338.jpg?t=1549187771",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/929200/ss_b65590e58a6571e17afa1030c496d276ffd3da79.1920x1080.jpg?t=1549187771"
+                },
+                {
+                    "id": 15,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/929200/ss_bf2f972c44ce00a0bb656b293bf0216d45fea230.600x338.jpg?t=1549187771",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/929200/ss_bf2f972c44ce00a0bb656b293bf0216d45fea230.1920x1080.jpg?t=1549187771"
+                },
+                {
+                    "id": 16,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/929200/ss_f415ea8017effd90250ee607563acfbf754cf8f6.600x338.jpg?t=1549187771",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/929200/ss_f415ea8017effd90250ee607563acfbf754cf8f6.1920x1080.jpg?t=1549187771"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 256740699,
+                    "name": "new0118",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256740699/movie.293x165.jpg?t=1547828092",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256740699/movie480.webm?t=1547828092",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256740699/movie_max.webm?t=1547828092"
+                    },
+                    "highlight": true
+                },
+                {
+                    "id": 256734111,
+                    "name": "new02",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256734111/movie.293x165.jpg?t=1541212706",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256734111/movie480.webm?t=1541212706",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256734111/movie_max.webm?t=1541212706"
+                    },
+                    "highlight": true
+                },
+                {
+                    "id": 256734120,
+                    "name": "new03",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256734120/movie.293x165.jpg?t=1541212712",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256734120/movie480.webm?t=1541212712",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256734120/movie_max.webm?t=1541212712"
+                    },
+                    "highlight": true
+                }
+            ],
+            "release_date": {
+                "coming_soon": true,
+                "date": ""
+            },
+            "support_info": {
+                "url": "http://www.twk2nd.com",
+                "email": "305554630@qq.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/929200/page_bg_generated_v6b.jpg?t=1549187771",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

@@ -1,0 +1,196 @@
+{
+    "564680": {
+        "success": true,
+        "data": {
+            "type": "dlc",
+            "name": "001 Game Creator - MMORPG Kit",
+            "steam_appid": 564680,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "<h1>Suggestions</h1><p>Got a suggestion for a new feature, resource or tutorial you'd like to see added to 001 Game Creator? Let us know on our Steam Forum: <a href=\"http://steamcommunity.com/app/347400/discussions/\" target=\"_blank\" rel=\"noreferrer\"  >http://steamcommunity.com/app/347400/discussions/</a></p><br><h1>About the Game</h1>The MMORPG Expansion DLC provides 001 Game Creator users with a brand new template designed to create massively multiplayer online role-playing games. The package comes with several pre-made maps, interfaces and networking features to allow users to immediately jump in and start building their dream MMO RPGs. Players can build directly off this template or use the assets/scripts to create their own from scratch.<br><br><strong>Feature Highlights:</strong><br><br>- Movement and gameplay networking communication using both UDP/TCP wisely<br>- Dedicated server with support for multiple clients<br>- Admin panel with active server log with administration controls to kick users<br>- Registration/login system with password recovery<br>- Unique item/magic target-based battle system<br>- Chat log to allow players to communicate with each other<br>- Player inventory/magic/equipment management<br>- Shops and Inns for players to buy items/equipment and rest in<br>- NPC dialogue/questing<br>- Compatible with PC/Steam (HTML5 is not available due to browser networking support issues)",
+            "about_the_game": "The MMORPG Expansion DLC provides 001 Game Creator users with a brand new template designed to create massively multiplayer online role-playing games. The package comes with several pre-made maps, interfaces and networking features to allow users to immediately jump in and start building their dream MMO RPGs. Players can build directly off this template or use the assets/scripts to create their own from scratch.<br><br><strong>Feature Highlights:</strong><br><br>- Movement and gameplay networking communication using both UDP/TCP wisely<br>- Dedicated server with support for multiple clients<br>- Admin panel with active server log with administration controls to kick users<br>- Registration/login system with password recovery<br>- Unique item/magic target-based battle system<br>- Chat log to allow players to communicate with each other<br>- Player inventory/magic/equipment management<br>- Shops and Inns for players to buy items/equipment and rest in<br>- NPC dialogue/questing<br>- Compatible with PC/Steam (HTML5 is not available due to browser networking support issues)",
+            "short_description": "Connect with players around the world to complete quests, battle against one another and take part in a story.",
+            "fullgame": {
+                "appid": "347400",
+                "name": "001 Game Creator"
+            },
+            "supported_languages": "English, French, Italian, German, Spanish - Spain, Danish, Norwegian, Polish, Portuguese - Brazil",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/564680/header.jpg?t=1544877372",
+            "website": "https://001gamecreator.com/",
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Microsoft® Windows® XP / Vista / 7 / 8 / 10 (32-bit/64-bit)<br></li><li><strong>Processor:</strong> 2.0 GHz or faster processor<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> 1024 x 768 pixels or higher desktop resolution<br></li><li><strong>Additional Notes:</strong> OpenGL v2.1 or above</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Microsoft® Windows® 7 / 8 / 10 (32-bit/64-bit)<br></li><li><strong>Processor:</strong> 2.0 GHz or faster processor<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> 1024 x 768 pixels or higher desktop resolution<br></li><li><strong>Additional Notes:</strong> OpenGL v3.0 or above</li></ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "developers": [
+                "SoftWeir Inc."
+            ],
+            "publishers": [
+                "SoftWeir Inc."
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 2099,
+                "final": 2099,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "20,99€"
+            },
+            "packages": [
+                142499
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy 001 Game Creator - MMORPG Kit",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 142499,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "001 Game Creator - MMORPG Kit - 20,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 2099
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 21,
+                    "description": "Downloadable Content"
+                },
+                {
+                    "id": 22,
+                    "description": "Steam Achievements"
+                },
+                {
+                    "id": 18,
+                    "description": "Partial Controller Support"
+                },
+                {
+                    "id": 15,
+                    "description": "Stats"
+                },
+                {
+                    "id": 17,
+                    "description": "Includes level editor"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "51",
+                    "description": "Animation & Modeling"
+                },
+                {
+                    "id": "53",
+                    "description": "Design & Illustration"
+                },
+                {
+                    "id": "54",
+                    "description": "Education"
+                },
+                {
+                    "id": "56",
+                    "description": "Software Training"
+                },
+                {
+                    "id": "57",
+                    "description": "Utilities"
+                },
+                {
+                    "id": "58",
+                    "description": "Video Production"
+                },
+                {
+                    "id": "59",
+                    "description": "Web Publishing"
+                },
+                {
+                    "id": "60",
+                    "description": "Game Development"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/564680/ss_03395d27a6d637f9ebc4d614500dc57f61750594.600x338.jpg?t=1544877372",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/564680/ss_03395d27a6d637f9ebc4d614500dc57f61750594.1920x1080.jpg?t=1544877372"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/564680/ss_afb84043bc7ea7b6a83c6dc4cb95541b86a2d4e1.600x338.jpg?t=1544877372",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/564680/ss_afb84043bc7ea7b6a83c6dc4cb95541b86a2d4e1.1920x1080.jpg?t=1544877372"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/564680/ss_3d5c06016dbf018ff3a6f416a1d84069ad1af492.600x338.jpg?t=1544877372",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/564680/ss_3d5c06016dbf018ff3a6f416a1d84069ad1af492.1920x1080.jpg?t=1544877372"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/564680/ss_aac5f1af9dbe8def86d6dd4c1e7bd2817a7f60a0.600x338.jpg?t=1544877372",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/564680/ss_aac5f1af9dbe8def86d6dd4c1e7bd2817a7f60a0.1920x1080.jpg?t=1544877372"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/564680/ss_a36a1df2a2f517ff334b25f49c12f826b8ef3f3d.600x338.jpg?t=1544877372",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/564680/ss_a36a1df2a2f517ff334b25f49c12f826b8ef3f3d.1920x1080.jpg?t=1544877372"
+                },
+                {
+                    "id": 5,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/564680/ss_9bbd09f0783186e9f237ec2b95bf0c1eb97cec54.600x338.jpg?t=1544877372",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/564680/ss_9bbd09f0783186e9f237ec2b95bf0c1eb97cec54.1920x1080.jpg?t=1544877372"
+                },
+                {
+                    "id": 6,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/564680/ss_2d0ee5467f267562ac2ca761fbca27e56f4eff0a.600x338.jpg?t=1544877372",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/564680/ss_2d0ee5467f267562ac2ca761fbca27e56f4eff0a.1920x1080.jpg?t=1544877372"
+                },
+                {
+                    "id": 7,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/564680/ss_570f0d245c34842ca51e8d7790e59d31d0513430.600x338.jpg?t=1544877372",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/564680/ss_570f0d245c34842ca51e8d7790e59d31d0513430.1920x1080.jpg?t=1544877372"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 256679150,
+                    "name": "MMORPG Kit Trailer",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256679150/movie.293x165.jpg?t=1486994715",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256679150/movie480.webm?t=1486994715",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256679150/movie_max.webm?t=1486994715"
+                    },
+                    "highlight": true
+                }
+            ],
+            "release_date": {
+                "coming_soon": false,
+                "date": "13 Feb, 2017"
+            },
+            "support_info": {
+                "url": "https://001gamecreator.com/support-overview/",
+                "email": "support@001gamecreator.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/564680/page_bg_generated_v6b.jpg?t=1544877372",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

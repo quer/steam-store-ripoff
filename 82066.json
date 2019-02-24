@@ -1,0 +1,82 @@
+{
+    "82066": {
+        "success": true,
+        "data": {
+            "type": "movie",
+            "name": "Lucius Trailer",
+            "steam_appid": 82066,
+            "required_age": "18",
+            "is_free": false,
+            "detailed_description": "",
+            "about_the_game": "",
+            "short_description": "",
+            "fullgame": {
+                "appid": "218640",
+                "name": "Lucius"
+            },
+            "supported_languages": "English",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/82066/header.jpg?t=1447356736",
+            "website": null,
+            "pc_requirements": [],
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "developers": [
+                "Shiver Games"
+            ],
+            "publishers": [
+                ""
+            ],
+            "package_groups": [],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "1",
+                    "description": "Action"
+                },
+                {
+                    "id": "25",
+                    "description": "Adventure"
+                },
+                {
+                    "id": "23",
+                    "description": "Indie"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 82066,
+                    "name": "Lucius Trailer",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/82066/movie.293x165.jpg?t=1447356736",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/82066/movie480.webm?t=1447356736",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/82066/movie_max.webm?t=1447356736"
+                    },
+                    "highlight": false
+                }
+            ],
+            "release_date": {
+                "coming_soon": false,
+                "date": "26 Sep, 2012"
+            },
+            "support_info": {
+                "url": "",
+                "email": ""
+            },
+            "background": "",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

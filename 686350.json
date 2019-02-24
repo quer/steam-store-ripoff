@@ -1,0 +1,144 @@
+{
+    "686350": {
+        "success": true,
+        "data": {
+            "type": "dlc",
+            "name": "Immersion Chess: Advanced AI",
+            "steam_appid": 686350,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "AI for more demanding players. DLC covers all three stages of the Chess game: opening, middlegame and endgame.<br><br><strong>Opening Book</strong> is based on more than 300k grandmaster games and it takes result of each game into account. Algorithm is also focused on strong diversity and it makes moves with occurrence probability, so almost every game is different, while keeping high level of play.<br><br><strong>Middlegame</strong> algorithm for levels 8, 9 and 10 differs mostly in depth calculation. It also takes clock settings into account.<br><br><strong>Endgame</strong> stage uses so called SYGYZY tables, which makes AI play extremely precise.",
+            "about_the_game": "AI for more demanding players. DLC covers all three stages of the Chess game: opening, middlegame and endgame.<br><br><strong>Opening Book</strong> is based on more than 300k grandmaster games and it takes result of each game into account. Algorithm is also focused on strong diversity and it makes moves with occurrence probability, so almost every game is different, while keeping high level of play.<br><br><strong>Middlegame</strong> algorithm for levels 8, 9 and 10 differs mostly in depth calculation. It also takes clock settings into account.<br><br><strong>Endgame</strong> stage uses so called SYGYZY tables, which makes AI play extremely precise.",
+            "short_description": "AI for more demanding players. DLC covers all three stages of the Chess game: opening, middlegame and endgame.Opening Book is based on more than 300k grandmaster games and it takes result of each game into account.",
+            "fullgame": {
+                "appid": "631660",
+                "name": "Immersion Chess"
+            },
+            "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/686350/header.jpg?t=1504687598",
+            "website": null,
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 SP1 or newer<br></li><li><strong>Processor:</strong> Intel i5-4590 equivalent or greater<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GTX 970 / AMD 290 equivalent or greater (VR)</li></ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "developers": [
+                "Immersion"
+            ],
+            "publishers": [
+                ""
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 99,
+                "final": 99,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "0,99€"
+            },
+            "packages": [
+                196473
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Immersion Chess: Advanced AI",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 196473,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Immersion Chess: Advanced AI - 0,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 99
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 1,
+                    "description": "Multi-player"
+                },
+                {
+                    "id": 36,
+                    "description": "Online Multi-Player"
+                },
+                {
+                    "id": 27,
+                    "description": "Cross-Platform Multiplayer"
+                },
+                {
+                    "id": 21,
+                    "description": "Downloadable Content"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "4",
+                    "description": "Casual"
+                },
+                {
+                    "id": "37",
+                    "description": "Free to Play"
+                },
+                {
+                    "id": "18",
+                    "description": "Sports"
+                },
+                {
+                    "id": "2",
+                    "description": "Strategy"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/686350/ss_caccec13fec8219c9b0b67f936572cbb41aa704a.600x338.jpg?t=1504687598",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/686350/ss_caccec13fec8219c9b0b67f936572cbb41aa704a.1920x1080.jpg?t=1504687598"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 256694512,
+                    "name": "Trailer_01",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256694512/movie.293x165.jpg?t=1504687587",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256694512/movie480.webm?t=1504687587",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256694512/movie_max.webm?t=1504687587"
+                    },
+                    "highlight": true
+                }
+            ],
+            "release_date": {
+                "coming_soon": false,
+                "date": "6 Sep, 2017"
+            },
+            "support_info": {
+                "url": "",
+                "email": "support.ich@immersion.pl"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/686350/page_bg_generated_v6b.jpg?t=1504687598",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

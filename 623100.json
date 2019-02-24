@@ -1,0 +1,167 @@
+{
+    "623100": {
+        "success": true,
+        "data": {
+            "type": "dlc",
+            "name": "AppGameKit VR",
+            "steam_appid": 623100,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "AppGameKit VR adds powerful and easy to use VR commands to your core AppGameKit Script language.<br><br>With just a few commands you can start to develop your own VR experiences, from detecting the head mounted displays to registering touch events from the touch controllers.<h2 class=\"bb_tag\">*** NEW*** </h2>AppGameKit VR AppGameKit VR now comes with a new Plug-in for Leap Motion support!<br><br><strong>Note: <i>Users must already own AppGameKit and have an OpenVR compatible head mounted display (HMD) and HTC Vive controllers or optional Touch controllers to use this DLC. To use the Leap Motion Plug-in you must own the Leap Motion hardware. This DLC is currently only available for the Windows platform.</i></strong><br><br><i>The AppGameKit VR DLC includes:</i><br><ul class=\"bb_ul\"><li>AppGameKit VR Plugin for AppGameKit Tier1 Script<br></li><li>Tier 2 C++ Library<br></li><li>AppGameKit VR Getting Starter Guide PDF<br></li><li>AppGameKit VR Leap Moton Plugin for AppGameKit Tier1 Script<br></li><li>Leap Motion Tier2 C++ Libray<br></li><li>AppGameKit VR Leap Motion User Guide PDF</li></ul><br><strong>AppGameKit VR Commands</strong><br>These new VR commands will empower you to:<br><br><ul class=\"bb_ul\"><li>Diagnostic checks on the hardware and SteamVR<br></li><li>Initialise the HMD<br></li><li>Create standing or seated VR experiences<br></li><li>Set the scale and camera ranges<br></li><li>Render a 3D scene to the HMD<br></li><li>Read the 3D values and angles of the HMD<br></li><li>Control the position and rotation of a player within the 3D scene<br></li><li>Read the 3D values and angles of the player<br></li><li>Read the values of both the users left and right hands<br></li><li>Read all the buttons and joystick values from controller devices</li></ul><br>There are over 60 commands provided and we’ve created some getting started demos to show you how to get up and running with your own creations.<h2 class=\"bb_tag\">The AppGameKit Command List</h2><br><strong>Setup Commands</strong><br><ul class=\"bb_ul\"><li>IsHmdPresent<br></li><li>IsRuntimeInstalled<br></li><li>Init<br></li><li>ErrorMessagesOn<br></li><li>SetTrackingSpace<br></li><li>GetTrackingSpace<br></li><li>ResetSeatedZeroPose<br></li><li>SetCameraRange<br></li><li>SetWorldScale<br></li><li>GetWorldScale<br></li><li>Render</li></ul><br><strong>Player Commands</strong><br><ul class=\"bb_ul\"><li>SetPlayerPosition<br></li><li>SetPlayerRotation<br></li><li>MovePlayerLocalX<br></li><li>MovePlayerLocalY<br></li><li>MovePlayerLocalZ<br></li><li>RotatePlayerLocalX<br></li><li>RotatePlayerLocalY<br></li><li>RotatePlayerLocalZ<br></li><li>LockPlayerTurn<br></li><li>LockPlayerPitch<br></li><li>GetPlayerX<br></li><li>GetPlayerY<br></li><li>GetPlayerZ<br></li><li>GetPlayerAngleX<br></li><li>GetPlayerAngleY<br></li><li>GetPlayerAngleZ<br></li><li>GetHMDX<br></li><li>GetHMDY<br></li><li>GetHMDZ<br></li><li>GetHMDAngleX<br></li><li>GetHMDAngleY<br></li><li>GetHMDAngleZ<br></li><li>GetRightHandX<br></li><li>GetRightHandY<br></li><li>GetRightHandZ<br></li><li>GetRightHandAngleX<br></li><li>GetRightHandAngleY<br></li><li>GetRightHandAngleZ<br></li><li>GetLeftHandX<br></li><li>GetLeftHandY<br></li><li>GetLeftHandZ<br></li><li>GetLeftHandAngleX<br></li><li>GetLeftHandAngleY<br></li><li>GetLeftHandAngleZ</li></ul><br><strong>Controller Commands</strong><br><ul class=\"bb_ul\"><li>RightControllerFound<br></li><li>LeftControllerFound<br></li><li>RightController_JoyX<br></li><li>RightController_JoyY<br></li><li>LeftController_JoyX<br></li><li>LeftController_JoyY<br></li><li>RightController_Trigger<br></li><li>LeftController_Trigger<br></li><li>RightController_Grip<br></li><li>LeftController_Grip<br></li><li>RightController_Button1<br></li><li>LeftController_Button1<br></li><li>RightController_Button2<br></li><li>LeftController_Button2<br></li><li>RightController_TriggerPulse<br></li><li>LeftController_TriggerPulse<br></li><li>LeftController_GetFingerPointed<br></li><li>RightController_GetFingerPointed<br></li><li>LeftController_GetThumbUp<br></li><li>RightController_GetThumbUp</li></ul>",
+            "about_the_game": "AppGameKit VR adds powerful and easy to use VR commands to your core AppGameKit Script language.<br><br>With just a few commands you can start to develop your own VR experiences, from detecting the head mounted displays to registering touch events from the touch controllers.<h2 class=\"bb_tag\">*** NEW*** </h2>AppGameKit VR AppGameKit VR now comes with a new Plug-in for Leap Motion support!<br><br><strong>Note: <i>Users must already own AppGameKit and have an OpenVR compatible head mounted display (HMD) and HTC Vive controllers or optional Touch controllers to use this DLC. To use the Leap Motion Plug-in you must own the Leap Motion hardware. This DLC is currently only available for the Windows platform.</i></strong><br><br><i>The AppGameKit VR DLC includes:</i><br><ul class=\"bb_ul\"><li>AppGameKit VR Plugin for AppGameKit Tier1 Script<br></li><li>Tier 2 C++ Library<br></li><li>AppGameKit VR Getting Starter Guide PDF<br></li><li>AppGameKit VR Leap Moton Plugin for AppGameKit Tier1 Script<br></li><li>Leap Motion Tier2 C++ Libray<br></li><li>AppGameKit VR Leap Motion User Guide PDF</li></ul><br><strong>AppGameKit VR Commands</strong><br>These new VR commands will empower you to:<br><br><ul class=\"bb_ul\"><li>Diagnostic checks on the hardware and SteamVR<br></li><li>Initialise the HMD<br></li><li>Create standing or seated VR experiences<br></li><li>Set the scale and camera ranges<br></li><li>Render a 3D scene to the HMD<br></li><li>Read the 3D values and angles of the HMD<br></li><li>Control the position and rotation of a player within the 3D scene<br></li><li>Read the 3D values and angles of the player<br></li><li>Read the values of both the users left and right hands<br></li><li>Read all the buttons and joystick values from controller devices</li></ul><br>There are over 60 commands provided and we’ve created some getting started demos to show you how to get up and running with your own creations.<h2 class=\"bb_tag\">The AppGameKit Command List</h2><br><strong>Setup Commands</strong><br><ul class=\"bb_ul\"><li>IsHmdPresent<br></li><li>IsRuntimeInstalled<br></li><li>Init<br></li><li>ErrorMessagesOn<br></li><li>SetTrackingSpace<br></li><li>GetTrackingSpace<br></li><li>ResetSeatedZeroPose<br></li><li>SetCameraRange<br></li><li>SetWorldScale<br></li><li>GetWorldScale<br></li><li>Render</li></ul><br><strong>Player Commands</strong><br><ul class=\"bb_ul\"><li>SetPlayerPosition<br></li><li>SetPlayerRotation<br></li><li>MovePlayerLocalX<br></li><li>MovePlayerLocalY<br></li><li>MovePlayerLocalZ<br></li><li>RotatePlayerLocalX<br></li><li>RotatePlayerLocalY<br></li><li>RotatePlayerLocalZ<br></li><li>LockPlayerTurn<br></li><li>LockPlayerPitch<br></li><li>GetPlayerX<br></li><li>GetPlayerY<br></li><li>GetPlayerZ<br></li><li>GetPlayerAngleX<br></li><li>GetPlayerAngleY<br></li><li>GetPlayerAngleZ<br></li><li>GetHMDX<br></li><li>GetHMDY<br></li><li>GetHMDZ<br></li><li>GetHMDAngleX<br></li><li>GetHMDAngleY<br></li><li>GetHMDAngleZ<br></li><li>GetRightHandX<br></li><li>GetRightHandY<br></li><li>GetRightHandZ<br></li><li>GetRightHandAngleX<br></li><li>GetRightHandAngleY<br></li><li>GetRightHandAngleZ<br></li><li>GetLeftHandX<br></li><li>GetLeftHandY<br></li><li>GetLeftHandZ<br></li><li>GetLeftHandAngleX<br></li><li>GetLeftHandAngleY<br></li><li>GetLeftHandAngleZ</li></ul><br><strong>Controller Commands</strong><br><ul class=\"bb_ul\"><li>RightControllerFound<br></li><li>LeftControllerFound<br></li><li>RightController_JoyX<br></li><li>RightController_JoyY<br></li><li>LeftController_JoyX<br></li><li>LeftController_JoyY<br></li><li>RightController_Trigger<br></li><li>LeftController_Trigger<br></li><li>RightController_Grip<br></li><li>LeftController_Grip<br></li><li>RightController_Button1<br></li><li>LeftController_Button1<br></li><li>RightController_Button2<br></li><li>LeftController_Button2<br></li><li>RightController_TriggerPulse<br></li><li>LeftController_TriggerPulse<br></li><li>LeftController_GetFingerPointed<br></li><li>RightController_GetFingerPointed<br></li><li>LeftController_GetThumbUp<br></li><li>RightController_GetThumbUp</li></ul>",
+            "short_description": "AppGameKit VR adds powerful and easy to use VR commands to your core AppGameKit Script language.",
+            "fullgame": {
+                "appid": "325180",
+                "name": "AppGameKit: Easy Game Development"
+            },
+            "supported_languages": "English",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/623100/header.jpg?t=1516886036",
+            "website": "http://www.appgamekit.com",
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 or better<br></li><li><strong>Processor:</strong> Intel Celeron / Athlon Sempron or better<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Open GL 2.0 compatible or better<br></li><li><strong>Sound Card:</strong> N/A</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 or better<br></li><li><strong>Processor:</strong> Intel® i5-4590, AMD FX 8350 equivalent or better<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce® GTX 970, AMD Radeon™ R9 290 equivalent or better<br></li><li><strong>Sound Card:</strong> N/A</li></ul>"
+            },
+            "mac_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mountain Lion 10.8 or better for IDE (10.7 for compiled apps)<br></li><li><strong>Processor:</strong> Intel Celeron or better<br></li><li><strong>Storage:</strong> 3 GB available space<br></li><li><strong>Sound Card:</strong> N/A</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mountain Lion 10.9 or better<br></li><li><strong>Processor:</strong> Intel Core 2 or better<br></li><li><strong>Graphics:</strong> Nvidia / ATI (shader model 4.0+, year 2009) or better<br></li><li><strong>Storage:</strong> 3 GB available space</li></ul>"
+            },
+            "linux_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 14.04 (may work with others)<br></li><li><strong>Processor:</strong> Intel Celeron / Athlon Sempron or better<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> Open GL 2.0 compatible or better<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Sound Card:</strong> N/A<br></li><li><strong>Additional Notes:</strong> Requires Zenity for file browsing</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 14.04 (may work with others)<br></li><li><strong>Processor:</strong> Intel Core 2 / Athlon 2 X2 or better<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia Geforce 470GTX Titan / ATI Radeon 5850 or better<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Sound Card:</strong> N/A<br></li><li><strong>Additional Notes:</strong> Requires Zenity for file browsing</li></ul>"
+            },
+            "developers": [
+                "The Game Creators"
+            ],
+            "publishers": [
+                "The Game Creators"
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 2799,
+                "final": 2799,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "27,99€"
+            },
+            "packages": [
+                167719
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy AppGameKit VR",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 167719,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "AppGameKit VR - 27,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 2799
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 21,
+                    "description": "Downloadable Content"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "51",
+                    "description": "Animation & Modeling"
+                },
+                {
+                    "id": "53",
+                    "description": "Design & Illustration"
+                },
+                {
+                    "id": "54",
+                    "description": "Education"
+                },
+                {
+                    "id": "56",
+                    "description": "Software Training"
+                },
+                {
+                    "id": "57",
+                    "description": "Utilities"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/623100/ss_e1ea169f0244d26e353de78cfbcce5777af68744.600x338.jpg?t=1516886036",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/623100/ss_e1ea169f0244d26e353de78cfbcce5777af68744.1920x1080.jpg?t=1516886036"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/623100/ss_d2e51a1c7959812613673ddca1d01ebc51f821a7.600x338.jpg?t=1516886036",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/623100/ss_d2e51a1c7959812613673ddca1d01ebc51f821a7.1920x1080.jpg?t=1516886036"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/623100/ss_b8881a7bf7000e8956334c0292d99141f550103b.600x338.jpg?t=1516886036",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/623100/ss_b8881a7bf7000e8956334c0292d99141f550103b.1920x1080.jpg?t=1516886036"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/623100/ss_1595a369531288d7d795ab172f24293ec4d65ccd.600x338.jpg?t=1516886036",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/623100/ss_1595a369531288d7d795ab172f24293ec4d65ccd.1920x1080.jpg?t=1516886036"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 256685326,
+                    "name": "AppGameKit - VR",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256685326/movie.293x165.jpg?t=1495204656",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256685326/movie480.webm?t=1495204656",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256685326/movie_max.webm?t=1495204656"
+                    },
+                    "highlight": true
+                },
+                {
+                    "id": 256689975,
+                    "name": "Drum Kit & Duck Shoot",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256689975/movie.293x165.jpg?t=1500046772",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256689975/movie480.webm?t=1500046772",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256689975/movie_max.webm?t=1500046772"
+                    },
+                    "highlight": true
+                }
+            ],
+            "achievements": {
+                "total": 0
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "19 May, 2017"
+            },
+            "support_info": {
+                "url": "http://www.thegamecreators.com/?m=contact_support",
+                "email": "support@thegamecreators.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/623100/page_bg_generated_v6b.jpg?t=1516886036",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

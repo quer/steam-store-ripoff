@@ -1,0 +1,91 @@
+{
+    "830481": {
+        "success": true,
+        "data": {
+            "type": "episode",
+            "name": "Black Clover: To the Royal Capital of the Clover Kingdom!",
+            "steam_appid": 830481,
+            "required_age": 0,
+            "is_free": false,
+            "controller_support": "full",
+            "detailed_description": "",
+            "about_the_game": "",
+            "short_description": "Asta and Yuno spend six months training for the upcoming Magic Knights Entrance Exam. Everyone seems to think Yuno is sure to pass, but worries that Asta is just wasting his time.",
+            "fullgame": {
+                "appid": "738380",
+                "name": "Black Clover"
+            },
+            "supported_languages": "English<strong>*</strong>, Japanese<br><strong>*</strong>languages with full audio support",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/738380/header.jpg?t=1529619926",
+            "website": null,
+            "pc_requirements": [],
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "publishers": [
+                ""
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 159,
+                "final": 159,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "1,59€"
+            },
+            "packages": [
+                255851
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Black Clover: To the Royal Capital of the Clover Kingdom!",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 255851,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Black Clover: To the Royal Capital of the Clover Kingdom! - 1,59€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 159
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 28,
+                    "description": "Full controller support"
+                },
+                {
+                    "id": 33,
+                    "description": "Native Steam Controller Support"
+                }
+            ],
+            "release_date": {
+                "coming_soon": false,
+                "date": "20 Jun, 2018"
+            },
+            "support_info": {
+                "url": "",
+                "email": ""
+            },
+            "background": "",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

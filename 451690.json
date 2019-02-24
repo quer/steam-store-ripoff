@@ -1,0 +1,161 @@
+{
+    "451690": {
+        "success": true,
+        "data": {
+            "type": "dlc",
+            "name": "Simply Chess - Premium Upgrade!",
+            "steam_appid": 451690,
+            "required_age": 0,
+            "is_free": false,
+            "controller_support": "full",
+            "detailed_description": "This DLC lets you support the continued development of Simply Chess and get a few bonuses out of it, in the process!<br><ul class=\"bb_ul\"><li> No more cross-promotions for our other games. This way you can create a new game 7 seconds faster*!<br></li><li> The game will now have a way to show up in your Steam Library.<br></li><li> Unlocks the &quot;Patron of the Arts&quot; achievement.<br></li><li> Adds a &quot;Limitless&quot; level of AI which unlocks the full potential of the Stockfish AI. You will not beat this AI. It is a helpful learning tool for analyzing what _should_ be done in a given situation.<br></li><li> Any new features we add to Premium, you will get automatically!</li></ul><br><br>*: An average game of Simply Chess is around 40 minutes, so you will get a 0.3% speed improvement!  SO FAST!<br><br>PLEASE NOTE: If you already own the Premium version through the previous In-App-Purchase system, you don't need to buy the DLC. You will be granted a DLC key the first time you play a game, for &quot;free&quot; (eg: you've already paid for it by buying the IAP whenever you did that) .",
+            "about_the_game": "This DLC lets you support the continued development of Simply Chess and get a few bonuses out of it, in the process!<br><ul class=\"bb_ul\"><li> No more cross-promotions for our other games. This way you can create a new game 7 seconds faster*!<br></li><li> The game will now have a way to show up in your Steam Library.<br></li><li> Unlocks the &quot;Patron of the Arts&quot; achievement.<br></li><li> Adds a &quot;Limitless&quot; level of AI which unlocks the full potential of the Stockfish AI. You will not beat this AI. It is a helpful learning tool for analyzing what _should_ be done in a given situation.<br></li><li> Any new features we add to Premium, you will get automatically!</li></ul><br><br>*: An average game of Simply Chess is around 40 minutes, so you will get a 0.3% speed improvement!  SO FAST!<br><br>PLEASE NOTE: If you already own the Premium version through the previous In-App-Purchase system, you don't need to buy the DLC. You will be granted a DLC key the first time you play a game, for &quot;free&quot; (eg: you've already paid for it by buying the IAP whenever you did that) .",
+            "short_description": "This DLC lets you support the continued development of Simply Chess and get a few bonuses out of it, in the process! No more cross-promos (7 second win!); Simply Chess will show up in your Steam Library!; Unlocks the &quot;Patron of the Arts&quot; achievement; adds &quot;Limitless&quot; AI (un-nerfed Stockfish 6); automatically get any...",
+            "fullgame": {
+                "appid": "312280",
+                "name": "Simply Chess"
+            },
+            "supported_languages": "English, Spanish - Spain, Polish, Finnish, Russian",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/451690/header.jpg?t=1485975637",
+            "website": "http://bluelinegamestudios.com/simply-chess/",
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Additional Notes:</strong> Only requires base version of Simply Chess, no additional requirements.</li></ul>"
+            },
+            "mac_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Additional Notes:</strong> Only requires base version of Simply Chess, no additional requirements.</li></ul>"
+            },
+            "linux_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Additional Notes:</strong> Only requires base version of Simply Chess, no additional requirements.</li></ul>"
+            },
+            "developers": [
+                "BlueLine Games"
+            ],
+            "publishers": [
+                "BlueLine Games"
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 499,
+                "final": 499,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "4,99€"
+            },
+            "packages": [
+                97261
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Simply Chess - Premium Upgrade!",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 97261,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Simply Chess - Premium Upgrade! - 4,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 499
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": true,
+                "linux": true
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 1,
+                    "description": "Multi-player"
+                },
+                {
+                    "id": 27,
+                    "description": "Cross-Platform Multiplayer"
+                },
+                {
+                    "id": 21,
+                    "description": "Downloadable Content"
+                },
+                {
+                    "id": 22,
+                    "description": "Steam Achievements"
+                },
+                {
+                    "id": 28,
+                    "description": "Full controller support"
+                },
+                {
+                    "id": 29,
+                    "description": "Steam Trading Cards"
+                },
+                {
+                    "id": 23,
+                    "description": "Steam Cloud"
+                },
+                {
+                    "id": 15,
+                    "description": "Stats"
+                },
+                {
+                    "id": 25,
+                    "description": "Steam Leaderboards"
+                },
+                {
+                    "id": 32,
+                    "description": "Steam Turn Notifications"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "4",
+                    "description": "Casual"
+                },
+                {
+                    "id": "37",
+                    "description": "Free to Play"
+                },
+                {
+                    "id": "23",
+                    "description": "Indie"
+                },
+                {
+                    "id": "2",
+                    "description": "Strategy"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/451690/ss_924cc5eadf07d91a9486d25e938ed0874af5320e.600x338.jpg?t=1485975637",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/451690/ss_924cc5eadf07d91a9486d25e938ed0874af5320e.1920x1080.jpg?t=1485975637"
+                }
+            ],
+            "release_date": {
+                "coming_soon": false,
+                "date": "13 Apr, 2016"
+            },
+            "support_info": {
+                "url": "http://bluelinegamestudios.com",
+                "email": "support@bluelinegamestudios.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/451690/page_bg_generated_v6b.jpg?t=1485975637",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

@@ -1,0 +1,208 @@
+{
+    "466200": {
+        "success": true,
+        "data": {
+            "type": "dlc",
+            "name": "Scourge of War: Quatre Bras",
+            "steam_appid": 466200,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "Scourge of War: Quatre Bras is an expansion for the acclaimed real-time wargame Scourge of War: Waterloo.<br><br>Following and expanding on the scope of the base game, Scourge of War: Quatre Bras heavily focuses on realism about units, formations, tactics, weapon ranges and more.<br><br>You will find all of the historical units that originally fought, in an extremely accurate order of battle. Each unit has its own commander and objectives: under the orders of Marshal Michel Ney, the Duke of Wellington or the Prince William of Orange, you are able to chose which side to take to victory in five new scenarios covering all the critical phases of the battle of Quatre Bras!<br><br>The battlefield is meticulously represented in a extensively researched historical 5-mile x 5-mile map. You will be pleased to find all of the features (and more!) that have made Scourge of War: Waterloo one of the best simulators of Napoleonic warfare ever created.<br><br><br><strong>Features</strong><br><br><ul class=\"bb_ul\"><li>Extensively researched Order of Battle<br></li><li>Historical 5 mile x 5 mile battlefield map<br></li><li>Five scenarios covering critical actions during the battle.<br></li><li>Exclusive new loading screen art from Mitchell Nolte: “The 79th Highlanders”</li></ul><br><strong>AI, Gameplay and UI Additions</strong><br><ul class=\"bb_ul\"><li>Added new slider Toolbar for player feedback (mod menu)<br></li><li>Added the 'targeting' logic for cavalry squadrons (see slider toolbar)<br></li><li>Improved Hannover flags added.<br></li><li>Removed the ability for cavalry to capture and bring enemy guns into action.<br></li><li>Removed auto-run reaction of troops under fire.<br></li><li>Increased melee penalty for skirmishers.<br></li><li>Skirmishers now fall back at shorter distance from nearest enemy if supported.<br></li><li>Improved control of TC units when near the enemy and under fire.<br></li><li>Improved Cavalry and Infantry Square logic and dynamics.<br></li><li>Improved brigade command AI.<br></li><li>Reactivated cavalry orders in courier menu.<br></li><li>Added new battle statistics screen on 'end of battle' screen.<br></li><li>Improved AI stances when stationary and when at long range from the enemy.<br></li><li>Historical variant adjustments for WL10 and WL20</li></ul><br><strong>Modding improvements</strong><br><ul class=\"bb_ul\"><li>Enabled modder access to skills level and defensive ground bonus with three new AI functions: DBonusVal(), GetLevel() and GetPoints().<br></li><li>Added two new variables: #unitAItype, #onlyoffAItype.<br></li><li>Fixed dump of 'dumpoobscen' command.<br></li><li>Fixed problem with additional column for French unit names in the scenario files created using 'dumpscen' or 'dumpoobscen'.<br></li><li>Corrected ORDTACDivPlay AI function.<br></li><li>Corrected 'friendcloseyds()' AI function.<br></li><li>Corrected GetOrders()  AI function - brigade AI is now more under player control when using stances, stationary and far from the enemy.</li></ul>",
+            "about_the_game": "Scourge of War: Quatre Bras is an expansion for the acclaimed real-time wargame Scourge of War: Waterloo.<br><br>Following and expanding on the scope of the base game, Scourge of War: Quatre Bras heavily focuses on realism about units, formations, tactics, weapon ranges and more.<br><br>You will find all of the historical units that originally fought, in an extremely accurate order of battle. Each unit has its own commander and objectives: under the orders of Marshal Michel Ney, the Duke of Wellington or the Prince William of Orange, you are able to chose which side to take to victory in five new scenarios covering all the critical phases of the battle of Quatre Bras!<br><br>The battlefield is meticulously represented in a extensively researched historical 5-mile x 5-mile map. You will be pleased to find all of the features (and more!) that have made Scourge of War: Waterloo one of the best simulators of Napoleonic warfare ever created.<br><br><br><strong>Features</strong><br><br><ul class=\"bb_ul\"><li>Extensively researched Order of Battle<br></li><li>Historical 5 mile x 5 mile battlefield map<br></li><li>Five scenarios covering critical actions during the battle.<br></li><li>Exclusive new loading screen art from Mitchell Nolte: “The 79th Highlanders”</li></ul><br><strong>AI, Gameplay and UI Additions</strong><br><ul class=\"bb_ul\"><li>Added new slider Toolbar for player feedback (mod menu)<br></li><li>Added the 'targeting' logic for cavalry squadrons (see slider toolbar)<br></li><li>Improved Hannover flags added.<br></li><li>Removed the ability for cavalry to capture and bring enemy guns into action.<br></li><li>Removed auto-run reaction of troops under fire.<br></li><li>Increased melee penalty for skirmishers.<br></li><li>Skirmishers now fall back at shorter distance from nearest enemy if supported.<br></li><li>Improved control of TC units when near the enemy and under fire.<br></li><li>Improved Cavalry and Infantry Square logic and dynamics.<br></li><li>Improved brigade command AI.<br></li><li>Reactivated cavalry orders in courier menu.<br></li><li>Added new battle statistics screen on 'end of battle' screen.<br></li><li>Improved AI stances when stationary and when at long range from the enemy.<br></li><li>Historical variant adjustments for WL10 and WL20</li></ul><br><strong>Modding improvements</strong><br><ul class=\"bb_ul\"><li>Enabled modder access to skills level and defensive ground bonus with three new AI functions: DBonusVal(), GetLevel() and GetPoints().<br></li><li>Added two new variables: #unitAItype, #onlyoffAItype.<br></li><li>Fixed dump of 'dumpoobscen' command.<br></li><li>Fixed problem with additional column for French unit names in the scenario files created using 'dumpscen' or 'dumpoobscen'.<br></li><li>Corrected ORDTACDivPlay AI function.<br></li><li>Corrected 'friendcloseyds()' AI function.<br></li><li>Corrected GetOrders()  AI function - brigade AI is now more under player control when using stances, stationary and far from the enemy.</li></ul>",
+            "short_description": "1815. Quatre Bras, a small village with no more than 4 houses located in Belgium. But this peaceful place will assume a key in determining the Europe’s fate.",
+            "fullgame": {
+                "appid": "369390",
+                "name": "Scourge of War: Waterloo"
+            },
+            "supported_languages": "English<strong>*</strong>, French, Italian<br><strong>*</strong>languages with full audio support",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/466200/header.jpg?t=1478180413",
+            "website": "http://matrixgames.com/products/574/details/Scourge.of.War:.Waterloo",
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OS: Windows XP (SP2+), Vista/7/8/10 (Runs in Compatibility Mode Windows 7)<br></li><li><strong>Processor:</strong> CPU: Dual Core 1.5 GHz CPU or higher<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Video: 256 MB Dedicated Video Card with DirectX 9.0c or higher. Video card should NOT be integrated on motherboard, but should be separate, no shared memory<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Sound Card:</strong> DirectX Compatible Sound Card</li></ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "legal_notice": "©2015 Slitherine Ltd. All Rights Reserved. Scourge of War: Waterloo, Slitherine Ltd. and their Logos are all trademarks of Slitherine Ltd. All other marks and trademarks are the property of their respective owners. Developed by NorbSoftDev & Slitherine Ltd.",
+            "developers": [
+                "NorbSoftDev"
+            ],
+            "publishers": [
+                "Slitherine Ltd."
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 1999,
+                "final": 479,
+                "discount_percent": 76,
+                "initial_formatted": "19,99€",
+                "final_formatted": "4,79€"
+            },
+            "packages": [
+                102422
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Scourge of War: Quatre Bras",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 102422,
+                            "percent_savings_text": "-76%",
+                            "percent_savings": 0,
+                            "option_text": "Scourge of War: Quatre Bras - <span class=\"discount_original_price\">19,99€</span> 4,79€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 479
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 1,
+                    "description": "Multi-player"
+                },
+                {
+                    "id": 9,
+                    "description": "Co-op"
+                },
+                {
+                    "id": 21,
+                    "description": "Downloadable Content"
+                },
+                {
+                    "id": 29,
+                    "description": "Steam Trading Cards"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "28",
+                    "description": "Simulation"
+                },
+                {
+                    "id": "2",
+                    "description": "Strategy"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/466200/ss_770efe03176b11e59025a48b1cfe50bbd39320ea.600x338.jpg?t=1478180413",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/466200/ss_770efe03176b11e59025a48b1cfe50bbd39320ea.1920x1080.jpg?t=1478180413"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/466200/ss_f47bb25ebdd65ce64d5468178f29507d568948e0.600x338.jpg?t=1478180413",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/466200/ss_f47bb25ebdd65ce64d5468178f29507d568948e0.1920x1080.jpg?t=1478180413"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/466200/ss_191b834068f6de4f973fa30be820f8994a6e92b8.600x338.jpg?t=1478180413",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/466200/ss_191b834068f6de4f973fa30be820f8994a6e92b8.1920x1080.jpg?t=1478180413"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/466200/ss_73a7e2f4f1d5b90d0c6b9435fd310e2ba710d788.600x338.jpg?t=1478180413",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/466200/ss_73a7e2f4f1d5b90d0c6b9435fd310e2ba710d788.1920x1080.jpg?t=1478180413"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/466200/ss_02d8802a04dd101d98c2b0408dcc0de7568f3913.600x338.jpg?t=1478180413",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/466200/ss_02d8802a04dd101d98c2b0408dcc0de7568f3913.1920x1080.jpg?t=1478180413"
+                },
+                {
+                    "id": 5,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/466200/ss_fc60f472529f20a465964cfd9db176d64be99df8.600x338.jpg?t=1478180413",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/466200/ss_fc60f472529f20a465964cfd9db176d64be99df8.1920x1080.jpg?t=1478180413"
+                },
+                {
+                    "id": 6,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/466200/ss_0da010891a5b3619ab325bccd322d2d77d3bfeb8.600x338.jpg?t=1478180413",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/466200/ss_0da010891a5b3619ab325bccd322d2d77d3bfeb8.1920x1080.jpg?t=1478180413"
+                },
+                {
+                    "id": 7,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/466200/ss_f6b7f2bf63fbfeb7ceb04975e7033a83905ed45d.600x338.jpg?t=1478180413",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/466200/ss_f6b7f2bf63fbfeb7ceb04975e7033a83905ed45d.1920x1080.jpg?t=1478180413"
+                },
+                {
+                    "id": 8,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/466200/ss_f762f46f6ad9bf03f3075519da755c3d9922eb6c.600x338.jpg?t=1478180413",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/466200/ss_f762f46f6ad9bf03f3075519da755c3d9922eb6c.1920x1080.jpg?t=1478180413"
+                },
+                {
+                    "id": 9,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/466200/ss_33729efa669bd781ec36706e4d058ae620fd6584.600x338.jpg?t=1478180413",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/466200/ss_33729efa669bd781ec36706e4d058ae620fd6584.1920x1080.jpg?t=1478180413"
+                },
+                {
+                    "id": 10,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/466200/ss_fcad278d5a6bcd8dd477ad3735bdafae380ea40c.600x338.jpg?t=1478180413",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/466200/ss_fcad278d5a6bcd8dd477ad3735bdafae380ea40c.1920x1080.jpg?t=1478180413"
+                },
+                {
+                    "id": 11,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/466200/ss_12666dcb8a84c437b263c4a5583422b23a44fcaa.600x338.jpg?t=1478180413",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/466200/ss_12666dcb8a84c437b263c4a5583422b23a44fcaa.1920x1080.jpg?t=1478180413"
+                },
+                {
+                    "id": 12,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/466200/ss_fc5e65f6f37f4a1f7a9258cc61b7b13ec52e3023.600x338.jpg?t=1478180413",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/466200/ss_fc5e65f6f37f4a1f7a9258cc61b7b13ec52e3023.1920x1080.jpg?t=1478180413"
+                },
+                {
+                    "id": 13,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/466200/ss_4c13a36496b3c8c584b3ee24aeea7ef3b6331e7e.600x338.jpg?t=1478180413",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/466200/ss_4c13a36496b3c8c584b3ee24aeea7ef3b6331e7e.1920x1080.jpg?t=1478180413"
+                },
+                {
+                    "id": 14,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/466200/ss_1e66b9f3ba42779e58ad34f86d1fb65119b2b072.600x338.jpg?t=1478180413",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/466200/ss_1e66b9f3ba42779e58ad34f86d1fb65119b2b072.1920x1080.jpg?t=1478180413"
+                },
+                {
+                    "id": 15,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/466200/ss_7cd7e2d767acbb666f87bae96c68afb9cd245df3.600x338.jpg?t=1478180413",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/466200/ss_7cd7e2d767acbb666f87bae96c68afb9cd245df3.1920x1080.jpg?t=1478180413"
+                },
+                {
+                    "id": 16,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/466200/ss_e71d5fd3ab3a6b6ba2df74ff3731454843c9dcb4.600x338.jpg?t=1478180413",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/466200/ss_e71d5fd3ab3a6b6ba2df74ff3731454843c9dcb4.1920x1080.jpg?t=1478180413"
+                }
+            ],
+            "achievements": {
+                "total": 0
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "16 Jun, 2016"
+            },
+            "support_info": {
+                "url": "www.slitherine.com",
+                "email": "support@slitherine.co.uk"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/466200/page_bg_generated_v6b.jpg?t=1478180413",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

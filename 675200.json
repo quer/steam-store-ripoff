@@ -1,0 +1,127 @@
+{
+    "675200": {
+        "success": true,
+        "data": {
+            "type": "dlc",
+            "name": "Choice of Zombies - Delta Force Operator",
+            "steam_appid": 675200,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "Start the game as a retired Delta Force operator. With all the combat experience you have under your belt, surviving the zombiepocalypse should be a snap.",
+            "about_the_game": "Start the game as a retired Delta Force operator. With all the combat experience you have under your belt, surviving the zombiepocalypse should be a snap.",
+            "short_description": "Start the game as a retired Delta Force operator. With all the combat experience you have under your belt, surviving the zombiepocalypse should be a snap.",
+            "fullgame": {
+                "appid": "675180",
+                "name": "Choice of Zombies"
+            },
+            "supported_languages": "English",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/675200/header.jpg?t=1500055567",
+            "website": "https://www.choiceofgames.com/",
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7</li></ul>"
+            },
+            "mac_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 10.6</li></ul>"
+            },
+            "linux_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 12.04</li></ul>"
+            },
+            "developers": [
+                "Choice of Games"
+            ],
+            "publishers": [
+                "Choice of Games"
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 79,
+                "final": 79,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "0,79€"
+            },
+            "packages": [
+                192301
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Choice of Zombies - Delta Force Operator",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 192301,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Choice of Zombies - Delta Force Operator - 0,79€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 79
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": true,
+                "linux": true
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 21,
+                    "description": "Downloadable Content"
+                },
+                {
+                    "id": 13,
+                    "description": "Captions available"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "25",
+                    "description": "Adventure"
+                },
+                {
+                    "id": "23",
+                    "description": "Indie"
+                },
+                {
+                    "id": "3",
+                    "description": "RPG"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/675200/ss_74ab2ad4642569644808aa0d20325a4369825b30.600x338.jpg?t=1500055567",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/675200/ss_74ab2ad4642569644808aa0d20325a4369825b30.1920x1080.jpg?t=1500055567"
+                }
+            ],
+            "achievements": {
+                "total": 0
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "14 Jul, 2017"
+            },
+            "support_info": {
+                "url": "https://www.choiceofgames.com/contact-us/",
+                "email": "support-zombies-steam@choiceofgames.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/675200/page_bg_generated_v6b.jpg?t=1500055567",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

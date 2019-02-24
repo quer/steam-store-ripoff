@@ -1,0 +1,150 @@
+{
+    "544770": {
+        "success": true,
+        "data": {
+            "type": "dlc",
+            "name": "Grand Starter Bundle",
+            "steam_appid": 544770,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "The Grand Starter Bundle includes FOUR Steam Tempest cards and Two Epic packs!<br />\r\n<br />\r\nFuse your new Steam Tempest cards for huge power gains and use your new Epics to improve your deck.",
+            "about_the_game": "The Grand Starter Bundle includes FOUR Steam Tempest cards and Two Epic packs!<br />\r\n<br />\r\nFuse your new Steam Tempest cards for huge power gains and use your new Epics to improve your deck.",
+            "short_description": "The Grand Starter Bundle includes FOUR Steam Tempest cards and Two Epic packs!",
+            "fullgame": {
+                "appid": "452230",
+                "name": "Spellstone"
+            },
+            "supported_languages": "English, French, German, Spanish - Spain, Portuguese - Brazil, Russian",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/544770/header.jpg?t=1479851335",
+            "website": null,
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong> Core i5 or Core i7<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> GTX 400 Series or Better<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>"
+            },
+            "mac_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 10.8 or greater<br></li><li><strong>Processor:</strong> Core i5 or Core i7<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Discrete GPU required<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>"
+            },
+            "linux_requirements": [],
+            "developers": [
+                "Synapse Games"
+            ],
+            "publishers": [
+                "Kongregate"
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 999,
+                "final": 999,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "9,99€"
+            },
+            "packages": [
+                134253
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Grand Starter Bundle",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 134253,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Spellstone - Grand Starter Bundle - 9,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 999
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": true,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 36,
+                    "description": "Online Multi-Player"
+                },
+                {
+                    "id": 27,
+                    "description": "Cross-Platform Multiplayer"
+                },
+                {
+                    "id": 21,
+                    "description": "Downloadable Content"
+                },
+                {
+                    "id": 22,
+                    "description": "Steam Achievements"
+                },
+                {
+                    "id": 29,
+                    "description": "Steam Trading Cards"
+                },
+                {
+                    "id": 35,
+                    "description": "In-App Purchases"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "25",
+                    "description": "Adventure"
+                },
+                {
+                    "id": "37",
+                    "description": "Free to Play"
+                },
+                {
+                    "id": "3",
+                    "description": "RPG"
+                },
+                {
+                    "id": "2",
+                    "description": "Strategy"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/544770/ss_dbb00870dd14850ddda2413d0cfa9bf50b6bddde.600x338.jpg?t=1479851335",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/544770/ss_dbb00870dd14850ddda2413d0cfa9bf50b6bddde.1920x1080.jpg?t=1479851335"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/544770/ss_8f83dc08378c2515815db0bb5403e3f369277288.600x338.jpg?t=1479851335",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/544770/ss_8f83dc08378c2515815db0bb5403e3f369277288.1920x1080.jpg?t=1479851335"
+                }
+            ],
+            "achievements": {
+                "total": 0
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "22 Nov, 2016"
+            },
+            "support_info": {
+                "url": "https://support.synapsegames.com/?game=spellstone",
+                "email": "support@synapsegames.zendesk.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/544770/page_bg_generated_v6b.jpg?t=1479851335",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

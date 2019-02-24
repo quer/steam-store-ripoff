@@ -1,0 +1,68 @@
+{
+    "623980": {
+        "success": true,
+        "data": {
+            "type": "demo",
+            "name": "SONAR Demo",
+            "steam_appid": 623980,
+            "required_age": 0,
+            "is_free": true,
+            "detailed_description": "",
+            "about_the_game": "",
+            "short_description": "",
+            "fullgame": {
+                "appid": "380080",
+                "name": "SONAR Steam Editions"
+            },
+            "supported_languages": "English, French, Italian, German, Spanish - Spain, Japanese, Portuguese - Brazil, Simplified Chinese",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/623980/header.jpg?t=1511553786",
+            "website": null,
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7, 8, or 10 (32- or 64-bit)<br></li><li><strong>Processor:</strong> 2.6GHz Intel or AMD multi-core processor<br></li><li><strong>Graphics:</strong> 1280x800 (1920 x 1080+ recommended)<br></li><li><strong>Sound Card:</strong> WDM/KS, WASAPI, or MME compatible device</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>Sound Card:</strong> ASIO compatible</li></ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "developers": [
+                "Cakewalk"
+            ],
+            "publishers": [
+                "Cakewalk"
+            ],
+            "package_groups": [],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 10,
+                    "description": "Game demo"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "52",
+                    "description": "Audio Production"
+                }
+            ],
+            "achievements": {
+                "total": 0
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "8 Aug, 2017"
+            },
+            "support_info": {
+                "url": "www.cakewalk.com/support/contact",
+                "email": "sethkellogg@cakewalk.com"
+            },
+            "background": "",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

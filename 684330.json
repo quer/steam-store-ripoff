@@ -1,0 +1,159 @@
+{
+    "684330": {
+        "success": true,
+        "data": {
+            "type": "game",
+            "name": "Impromptu Vector Field Painter",
+            "steam_appid": 684330,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "A vector field is a uniform grid of vectors that can be used to influence the motion of particles. Basically, each point on a 3D grid imparts a force on nearby particles. Vector fields can be used to make super cool particle effects, but the fields aren't easy to make themselves: typically fields are painstakingly authored by some arcane process in 3D software or by a generator script. Painting them in VR is much more intuitive. Vector Field Painter lets you do that, and is also usable with keyboard and mouse if you don't have VR gear.<br />\r\n<br />\r\nThis tool lets you paint and visualise 3D vector fields in real-time, inspect the results from all directions, and save them out to .FGA format for use in other software, or your own games. You can also import your own existing vector fields, modify them in the tool and save them out again. This could save you a lot of time if you're already making use of vector fields, or make them more accessible to you if you aren't yet. <br />\r\n<br />\r\nThis tool is made in Unreal Engine 4 and includes its UE4 project files and code, so you can make your own modifications to the tool, or, if you're working on a UE4 project yourself, you can import the entire tool into your project and paint vector fields in your own environments, onto and around your own objects.<br />\r\n<br />\r\nThe tool is reliably performant editing vector fields up to a resolution of 16x16x16 (4096 grid points); performance creating vector fields at higher resolutions depends on your hardware and whether you're using VR mode. Default options go up to 64x64x64 (262,144 grid points); the UE4 project files can be modified to allow higher resolutions.",
+            "about_the_game": "A vector field is a uniform grid of vectors that can be used to influence the motion of particles. Basically, each point on a 3D grid imparts a force on nearby particles. Vector fields can be used to make super cool particle effects, but the fields aren't easy to make themselves: typically fields are painstakingly authored by some arcane process in 3D software or by a generator script. Painting them in VR is much more intuitive. Vector Field Painter lets you do that, and is also usable with keyboard and mouse if you don't have VR gear.<br />\r\n<br />\r\nThis tool lets you paint and visualise 3D vector fields in real-time, inspect the results from all directions, and save them out to .FGA format for use in other software, or your own games. You can also import your own existing vector fields, modify them in the tool and save them out again. This could save you a lot of time if you're already making use of vector fields, or make them more accessible to you if you aren't yet. <br />\r\n<br />\r\nThis tool is made in Unreal Engine 4 and includes its UE4 project files and code, so you can make your own modifications to the tool, or, if you're working on a UE4 project yourself, you can import the entire tool into your project and paint vector fields in your own environments, onto and around your own objects.<br />\r\n<br />\r\nThe tool is reliably performant editing vector fields up to a resolution of 16x16x16 (4096 grid points); performance creating vector fields at higher resolutions depends on your hardware and whether you're using VR mode. Default options go up to 64x64x64 (262,144 grid points); the UE4 project files can be modified to allow higher resolutions.",
+            "short_description": "Paint 3D Vector Fields and save them out to .FGA format for use in other software, or your own games.",
+            "supported_languages": "English",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/684330/header.jpg?t=1508405270",
+            "website": "https://impromptu-games.itch.io/impromptuvf",
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7/8/10<br></li><li><strong>Processor:</strong> Intel i5-4590, AMD FX 8350 equivalent or better.<br></li><li><strong>Memory:</strong> 4000 MB RAM<br></li><li><strong>Graphics:</strong> Nvidia GeForce GTX 970, AMD Radeon R9 290 equivalent or better.<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "developers": [
+                "Impromptu Games"
+            ],
+            "publishers": [
+                "Impromptu Games"
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 1679,
+                "final": 1679,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "16,79€"
+            },
+            "packages": [
+                195720
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Impromptu Vector Field Painter",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 195720,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Impromptu Vector Field Painter - 16,79€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 1679
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 23,
+                    "description": "Steam Cloud"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "51",
+                    "description": "Animation & Modeling"
+                },
+                {
+                    "id": "57",
+                    "description": "Utilities"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/684330/ss_2aebbf34dfc1ccb67447284abdf60f82fbb10b7f.600x338.jpg?t=1508405270",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/684330/ss_2aebbf34dfc1ccb67447284abdf60f82fbb10b7f.1920x1080.jpg?t=1508405270"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/684330/ss_fdc68048a57bfd46657fce43f1e66733138c0795.600x338.jpg?t=1508405270",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/684330/ss_fdc68048a57bfd46657fce43f1e66733138c0795.1920x1080.jpg?t=1508405270"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/684330/ss_ffae4699534b501ceb45dc017a288949f08bdae2.600x338.jpg?t=1508405270",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/684330/ss_ffae4699534b501ceb45dc017a288949f08bdae2.1920x1080.jpg?t=1508405270"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/684330/ss_603a9d7a99edef9895b65bd02071541a2c7932ad.600x338.jpg?t=1508405270",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/684330/ss_603a9d7a99edef9895b65bd02071541a2c7932ad.1920x1080.jpg?t=1508405270"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/684330/ss_0d76221459a5d36cca51c3cfb5a4f265eadd09ef.600x338.jpg?t=1508405270",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/684330/ss_0d76221459a5d36cca51c3cfb5a4f265eadd09ef.1920x1080.jpg?t=1508405270"
+                },
+                {
+                    "id": 5,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/684330/ss_ff3d35a9335e2236c0f9ea6f8ec4867615dd34d2.600x338.jpg?t=1508405270",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/684330/ss_ff3d35a9335e2236c0f9ea6f8ec4867615dd34d2.1920x1080.jpg?t=1508405270"
+                },
+                {
+                    "id": 6,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/684330/ss_954e3509a12b2584a9016e78d58b5efa59692de8.600x338.jpg?t=1508405270",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/684330/ss_954e3509a12b2584a9016e78d58b5efa59692de8.1920x1080.jpg?t=1508405270"
+                },
+                {
+                    "id": 7,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/684330/ss_00acc2060184968022c0550b238a502d46352a50.600x338.jpg?t=1508405270",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/684330/ss_00acc2060184968022c0550b238a502d46352a50.1920x1080.jpg?t=1508405270"
+                },
+                {
+                    "id": 8,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/684330/ss_a20a7252cf1ba4e9636659168ceec0a93326c43d.600x338.jpg?t=1508405270",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/684330/ss_a20a7252cf1ba4e9636659168ceec0a93326c43d.1920x1080.jpg?t=1508405270"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 256690835,
+                    "name": "Demonstration",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256690835/movie.293x165.jpg?t=1500865247",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256690835/movie480.webm?t=1500865247",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256690835/movie_max.webm?t=1500865247"
+                    },
+                    "highlight": true
+                }
+            ],
+            "achievements": {
+                "total": 0
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "12 Aug, 2017"
+            },
+            "support_info": {
+                "url": "http://www.impromptugames.com",
+                "email": ""
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/684330/page_bg_generated_v6b.jpg?t=1508405270",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

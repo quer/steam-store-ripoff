@@ -1,0 +1,169 @@
+{
+    "656490": {
+        "success": true,
+        "data": {
+            "type": "game",
+            "name": "Automobile Tycoon",
+            "steam_appid": 656490,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "<h2 class=\"bb_tag\">Basic gameplay:</h2>Automobile Tycoon is a simulator of a car manufacturing company where you develop, produce and sell cars. The game is turn based and covers a period of automotive history between 1905 and 2020.<h2 class=\"bb_tag\">Mechanics:</h2><br>- turn based<br>- relatively fast paced (1 turn = 1 quarter, so the game does not drag on)<br>- gameplay ranges from 1905 to 2020 with historical events like world wars, economic crises and inflation (can be disabled if desired)<br>- various starting dates (1905,1920,1948,1960,1980)<br>- various car types (sedan, pickup, cabriolet, minicar, etc) new ones unlocked depending on year<h2 class=\"bb_tag\">Core design goals:</h2><br><strong>1. Focus on running a car company (it's a tycoon not a car designer simulator)</strong><br>The game is about three primary activities a car manufacturing company need to undertake: developing a car, producing a car and selling a car. I tied to balance all those aspects without making any single one dominant. First your engineers research parts and develop a car then you set up, modernize and expand your factory and next you decide on distribution and marketing. All these are accompanied by secondary activities like paying taxes, taking bank loans and so on.<br><br><strong>2. Fast paced (simulated 100 years of automotive history in mere 400 turns)</strong><br>I tried to make it so the game does not drag on. Each turn represents one quarter, so it goes relatively fast without slowdowns. If you add to it historical events (world wars, economic crises) then you need to adapt your strategy quite often.<br>Also I used mechanics to reduce the need of micromangement and tried to make a convenient to use interface which allows you to execute your strategic decisions swiftly.<br><br><strong>3. Streamlined gameflow</strong><br>While the player is allowed to produce everything there is an incentive to stick to a limited line of models, so you don't need to deal with tons of micromanagement if you want to play optimally. Interface has options to quickly execute your strategic priorities, for example if you want to quickly boost your production you can enable &quot;work overtime&quot; option which makes you pay significantly higher wages for a modest boost of production. Especially introducing new models is streamlined, you just need to enter the model price once and set up region wide optional discounts, no need to check tons of identical boxes and setting every single time.<h2 class=\"bb_tag\">To people who played my other games (Stellar Monarch, Lords, Europe1300, etc)</h2><strong>Similarities:</strong><br>* as usual, I will cut down micromanagement, not to the extend of Stellar Monarch of course, but still I will try to remove things that take too much of your time without presenting interesting decisions<br>* focus on a few core mechanics and making everything consistent<br>* stable bug free executable that works on very low spec machines and don't use up much HDD space<br>* clear and easy to use interface<br>* regular updates, swift bug fixes<br><br><strong>Differences:</strong><br>* this game will be easier to understand :) Fortunatelly, running a car manufacturing company is much more strightforward than running an interstellar empire, so I can use more familiar mechanics while implementing the more complex ones deeper inside the game. <br>* probably the game will be localized to several languages<br>* Steam Trading Cards should be available earlier than in Stellar Monarch (immediatelly upon release probably)",
+            "about_the_game": "<h2 class=\"bb_tag\">Basic gameplay:</h2>Automobile Tycoon is a simulator of a car manufacturing company where you develop, produce and sell cars. The game is turn based and covers a period of automotive history between 1905 and 2020.<h2 class=\"bb_tag\">Mechanics:</h2><br>- turn based<br>- relatively fast paced (1 turn = 1 quarter, so the game does not drag on)<br>- gameplay ranges from 1905 to 2020 with historical events like world wars, economic crises and inflation (can be disabled if desired)<br>- various starting dates (1905,1920,1948,1960,1980)<br>- various car types (sedan, pickup, cabriolet, minicar, etc) new ones unlocked depending on year<h2 class=\"bb_tag\">Core design goals:</h2><br><strong>1. Focus on running a car company (it's a tycoon not a car designer simulator)</strong><br>The game is about three primary activities a car manufacturing company need to undertake: developing a car, producing a car and selling a car. I tied to balance all those aspects without making any single one dominant. First your engineers research parts and develop a car then you set up, modernize and expand your factory and next you decide on distribution and marketing. All these are accompanied by secondary activities like paying taxes, taking bank loans and so on.<br><br><strong>2. Fast paced (simulated 100 years of automotive history in mere 400 turns)</strong><br>I tried to make it so the game does not drag on. Each turn represents one quarter, so it goes relatively fast without slowdowns. If you add to it historical events (world wars, economic crises) then you need to adapt your strategy quite often.<br>Also I used mechanics to reduce the need of micromangement and tried to make a convenient to use interface which allows you to execute your strategic decisions swiftly.<br><br><strong>3. Streamlined gameflow</strong><br>While the player is allowed to produce everything there is an incentive to stick to a limited line of models, so you don't need to deal with tons of micromanagement if you want to play optimally. Interface has options to quickly execute your strategic priorities, for example if you want to quickly boost your production you can enable &quot;work overtime&quot; option which makes you pay significantly higher wages for a modest boost of production. Especially introducing new models is streamlined, you just need to enter the model price once and set up region wide optional discounts, no need to check tons of identical boxes and setting every single time.<h2 class=\"bb_tag\">To people who played my other games (Stellar Monarch, Lords, Europe1300, etc)</h2><strong>Similarities:</strong><br>* as usual, I will cut down micromanagement, not to the extend of Stellar Monarch of course, but still I will try to remove things that take too much of your time without presenting interesting decisions<br>* focus on a few core mechanics and making everything consistent<br>* stable bug free executable that works on very low spec machines and don't use up much HDD space<br>* clear and easy to use interface<br>* regular updates, swift bug fixes<br><br><strong>Differences:</strong><br>* this game will be easier to understand :) Fortunatelly, running a car manufacturing company is much more strightforward than running an interstellar empire, so I can use more familiar mechanics while implementing the more complex ones deeper inside the game. <br>* probably the game will be localized to several languages<br>* Steam Trading Cards should be available earlier than in Stellar Monarch (immediatelly upon release probably)",
+            "short_description": "Car manufacturing company simulator. Turn based, fast paced, covers 100 years of automotive history.",
+            "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, German<strong>*</strong>, Polish<strong>*</strong>, Russian<strong>*</strong><br><strong>*</strong>languages with full audio support",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/656490/header.jpg?t=1536046081",
+            "website": "http://www.silverlemurgames.com/automobiletycoon/",
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Win XP or better<br></li><li><strong>Graphics:</strong> Screen resolution minimum 1024x768.<br></li><li><strong>Additional Notes:</strong> The game should run on almost any hardware, even outdated one. In case of problems run &quot;safe&quot; mode version.</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Win 10, Win 7, Win XP<br></li><li><strong>Graphics:</strong> Any non integrated card should be perfect.<br></li><li><strong>Storage:</strong> 99 MB available space<br></li><li><strong>Additional Notes:</strong> In case of problems run &quot;safe&quot; mode version.</li></ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "developers": [
+                "Silver Lemur Games"
+            ],
+            "publishers": [
+                "Silver Lemur Games"
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 1499,
+                "final": 1499,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "14,99€"
+            },
+            "packages": [
+                185340
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Automobile Tycoon",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 185340,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Automobile Tycoon - 14,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 1499
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "23",
+                    "description": "Indie"
+                },
+                {
+                    "id": "28",
+                    "description": "Simulation"
+                },
+                {
+                    "id": "2",
+                    "description": "Strategy"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/656490/ss_4baac1b7d3bf6b6507681ba2bec98b3418a87654.600x338.jpg?t=1536046081",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/656490/ss_4baac1b7d3bf6b6507681ba2bec98b3418a87654.1920x1080.jpg?t=1536046081"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/656490/ss_a5fdee6b733aa5861aa9f46364b4f3b2801429d1.600x338.jpg?t=1536046081",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/656490/ss_a5fdee6b733aa5861aa9f46364b4f3b2801429d1.1920x1080.jpg?t=1536046081"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/656490/ss_26091eee0f140b9e2d93a926de9be0840c3a32e1.600x338.jpg?t=1536046081",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/656490/ss_26091eee0f140b9e2d93a926de9be0840c3a32e1.1920x1080.jpg?t=1536046081"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/656490/ss_c6c972f6cb8e7d0a62f3008b8b7e6775b92a6aa9.600x338.jpg?t=1536046081",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/656490/ss_c6c972f6cb8e7d0a62f3008b8b7e6775b92a6aa9.1920x1080.jpg?t=1536046081"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/656490/ss_f90b59262a0d215c9e562813bbfac1e66ab19444.600x338.jpg?t=1536046081",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/656490/ss_f90b59262a0d215c9e562813bbfac1e66ab19444.1920x1080.jpg?t=1536046081"
+                },
+                {
+                    "id": 5,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/656490/ss_070a890a73dbd40b5aef9313398fcaa64719c259.600x338.jpg?t=1536046081",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/656490/ss_070a890a73dbd40b5aef9313398fcaa64719c259.1920x1080.jpg?t=1536046081"
+                },
+                {
+                    "id": 6,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/656490/ss_2f1a1d0b3adb20554107e3f5fd1c210456028fbf.600x338.jpg?t=1536046081",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/656490/ss_2f1a1d0b3adb20554107e3f5fd1c210456028fbf.1920x1080.jpg?t=1536046081"
+                },
+                {
+                    "id": 7,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/656490/ss_42dcdf445d9b21106e3aa980ef1ec64e204efa06.600x338.jpg?t=1536046081",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/656490/ss_42dcdf445d9b21106e3aa980ef1ec64e204efa06.1920x1080.jpg?t=1536046081"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 256695162,
+                    "name": "Automobile Tycoon - Trailer (EA)",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256695162/movie.293x165.jpg?t=1505205347",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256695162/movie480.webm?t=1505205347",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256695162/movie_max.webm?t=1505205347"
+                    },
+                    "highlight": true
+                },
+                {
+                    "id": 256688619,
+                    "name": "Automobile Tycoon -  DevBlog#1 - Prototype",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256688619/movie.293x165.jpg?t=1504804168",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256688619/movie480.webm?t=1504804168",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256688619/movie_max.webm?t=1504804168"
+                    },
+                    "highlight": true
+                }
+            ],
+            "achievements": {
+                "total": 0
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "4 Sep, 2018"
+            },
+            "support_info": {
+                "url": "http://www.silverlemurgames.com/automobiletycoon/",
+                "email": "silverlemurgames@gmail.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/656490/page_bg_generated_v6b.jpg?t=1536046081",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

@@ -1,0 +1,121 @@
+{
+    "984970": {
+        "success": true,
+        "data": {
+            "type": "dlc",
+            "name": "DARK PLACES - Support DLC",
+            "steam_appid": 984970,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "The game is distributed for free however you can support us by purchase this DLC.",
+            "about_the_game": "The game is distributed for free however you can support us by purchase this DLC.",
+            "short_description": "This 'support dlc' does not add any new content to the game. Having this simply keeps the game listed in your steam library. Thank you for your support.",
+            "fullgame": {
+                "appid": "926810",
+                "name": "Dark Places"
+            },
+            "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/984970/header.jpg?t=1549568953",
+            "website": null,
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Any</li></ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "legal_notice": "© Copyright 2018 Madbox Entertainment. All Rights Reserved.",
+            "developers": [
+                "Madbox Entertainmet"
+            ],
+            "publishers": [
+                "Madbox Entertainmet"
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 99,
+                "final": 99,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "0,99€"
+            },
+            "packages": [
+                324254
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy DARK PLACES - Support DLC",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 324254,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "DARK PLACES - Support DLC - 0,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 99
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 21,
+                    "description": "Downloadable Content"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "25",
+                    "description": "Adventure"
+                },
+                {
+                    "id": "37",
+                    "description": "Free to Play"
+                },
+                {
+                    "id": "23",
+                    "description": "Indie"
+                },
+                {
+                    "id": "28",
+                    "description": "Simulation"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/984970/ss_14696890e42c7745e39de7291e343a01aaa649f6.600x338.jpg?t=1549568953",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/984970/ss_14696890e42c7745e39de7291e343a01aaa649f6.1920x1080.jpg?t=1549568953"
+                }
+            ],
+            "release_date": {
+                "coming_soon": false,
+                "date": "20 Nov, 2018"
+            },
+            "support_info": {
+                "url": "",
+                "email": "MedBox.GameStudio@gmail.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/984970/page_bg_generated_v6b.jpg?t=1549568953",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

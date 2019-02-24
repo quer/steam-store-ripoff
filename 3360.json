@@ -1,0 +1,119 @@
+{
+    "3360": {
+        "success": true,
+        "data": {
+            "type": "game",
+            "name": "Big Money! Deluxe",
+            "steam_appid": 3360,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "",
+            "about_the_game": "",
+            "short_description": "",
+            "supported_languages": "English",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/3360/header.jpg?t=1447350880",
+            "website": null,
+            "pc_requirements": {
+                "minimum": "<p><strong>Minimum Requirements:</strong> Windows 98/ME/2000/XP, 128 MB RAM, 500MHz or faster, DirectX: 7.0</p>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "developers": [
+                "PopCap Games, Inc."
+            ],
+            "publishers": [
+                "PopCap Games, Inc."
+            ],
+            "demos": [
+                {
+                    "appid": 3362,
+                    "description": ""
+                }
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 499,
+                "final": 499,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "4,99€"
+            },
+            "packages": [
+                136
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Big Money! Deluxe",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 136,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Big Money! Deluxe - 4,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 499
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "4",
+                    "description": "Casual"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/3360/0000000548.600x338.jpg?t=1447350880",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/3360/0000000548.1920x1080.jpg?t=1447350880"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/3360/0000000549.600x338.jpg?t=1447350880",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/3360/0000000549.1920x1080.jpg?t=1447350880"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/3360/0000000550.600x338.jpg?t=1447350880",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/3360/0000000550.1920x1080.jpg?t=1447350880"
+                }
+            ],
+            "achievements": {
+                "total": 0
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "30 Aug, 2006"
+            },
+            "support_info": {
+                "url": "",
+                "email": ""
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/3360/page_bg_generated_v6b.jpg?t=1447350880",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

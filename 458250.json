@@ -1,0 +1,93 @@
+{
+    "458250": {
+        "success": true,
+        "data": {
+            "type": "episode",
+            "name": "CS:GO Player Profiles: karrigan - Astralis",
+            "steam_appid": 458250,
+            "required_age": 0,
+            "is_free": true,
+            "controller_support": "full",
+            "detailed_description": "",
+            "about_the_game": "",
+            "short_description": "From team Astralis, learn more about karrigan",
+            "fullgame": {
+                "appid": "413850",
+                "name": "CS:GO Player Profiles"
+            },
+            "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/458250/header.jpg?t=1469489049",
+            "website": "",
+            "pc_requirements": [],
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "publishers": [
+                ""
+            ],
+            "packages": [
+                82994
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy CS:GO Player Profiles: karrigan - Astralis",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 82994,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "CS:GO Player Profiles - Free",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": true,
+                            "price_in_cents_with_discount": 0
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": true,
+                "linux": true
+            },
+            "categories": [
+                {
+                    "id": 28,
+                    "description": "Full controller support"
+                },
+                {
+                    "id": 33,
+                    "description": "Native Steam Controller Support"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/458250/ss_80d4a5c2a5132be335d849a0e51437575b95c4a9.600x338.jpg?t=1469489049",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/458250/ss_80d4a5c2a5132be335d849a0e51437575b95c4a9.1920x1080.jpg?t=1469489049"
+                }
+            ],
+            "achievements": {
+                "total": 0
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "28 Jun, 2016"
+            },
+            "support_info": {
+                "url": "",
+                "email": ""
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/458250/page_bg_generated_v6b.jpg?t=1469489049",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

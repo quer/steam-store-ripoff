@@ -1,0 +1,71 @@
+{
+    "1003": {
+        "success": true,
+        "data": {
+            "type": "demo",
+            "name": "Rag Doll Kung Fu Demo",
+            "steam_appid": 1003,
+            "required_age": 0,
+            "is_free": true,
+            "detailed_description": "",
+            "about_the_game": "",
+            "short_description": "",
+            "fullgame": {
+                "appid": "1002",
+                "name": "Rag Doll Kung Fu"
+            },
+            "supported_languages": "English",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1003/header.jpg?t=1476891878",
+            "website": "http://www.ragdollkungfu.com/",
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong> Pentium3 800 MHz (or compatible), 256 MB RAM, GeForce 2 (or compatible), Windows 98, Internet connection for Steam<br><br>Will be choppy with 8 AI players or in a big online game. Multi mice will only work with Windows XP<br>\t\t\t\t\t<strong>Recommended:</strong> Pentium4 1500 MHz (or compatible), 512MB RAM, DirectX 9 compatible graphics card, Windows XP, Internet connection for Steam<br><br>Will work fine with most DirectX 9 compatible graphics cards."
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "developers": [
+                "Mark Healey"
+            ],
+            "publishers": [
+                "Mark Healey"
+            ],
+            "package_groups": [],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "metacritic": {
+                "score": 69
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 10,
+                    "description": "Game demo"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "23",
+                    "description": "Indie"
+                }
+            ],
+            "release_date": {
+                "coming_soon": false,
+                "date": "Oct 12, 2005"
+            },
+            "support_info": {
+                "url": "",
+                "email": ""
+            },
+            "background": "",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

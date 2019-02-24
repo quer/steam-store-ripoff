@@ -1,0 +1,72 @@
+{
+    "5159": {
+        "success": true,
+        "data": {
+            "type": "movie",
+            "name": "Mass Effect HD Trailer",
+            "steam_appid": 5159,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "",
+            "about_the_game": "",
+            "short_description": "",
+            "fullgame": {
+                "appid": "17460",
+                "name": "Mass Effect"
+            },
+            "supported_languages": "English",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/17460/header.jpg?t=1447351599",
+            "website": "http://masseffect.bioware.com/",
+            "pc_requirements": [],
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "developers": [
+                "BioWare"
+            ],
+            "publishers": [
+                "Electronic Arts"
+            ],
+            "package_groups": [],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "genres": [
+                {
+                    "id": "3",
+                    "description": "RPG"
+                },
+                {
+                    "id": "1",
+                    "description": "Action"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 5159,
+                    "name": "Mass Effect HD Trailer",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/5159/movie.jpg?t=1447351600",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/5159/movie480.webm?t=1447351600",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/5159/movie_max.webm?t=1447351600"
+                    },
+                    "highlight": false
+                }
+            ],
+            "release_date": {
+                "coming_soon": false,
+                "date": "19 Dec, 2008"
+            },
+            "support_info": {
+                "url": "",
+                "email": ""
+            },
+            "background": "",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

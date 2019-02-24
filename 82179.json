@@ -1,0 +1,82 @@
+{
+    "82179": {
+        "success": true,
+        "data": {
+            "type": "movie",
+            "name": "Home Trailer 2",
+            "steam_appid": 82179,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "",
+            "about_the_game": "",
+            "short_description": "",
+            "fullgame": {
+                "appid": "215670",
+                "name": "Home"
+            },
+            "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/82179/header.jpg?t=1447356970",
+            "website": "http://www.homehorror.com",
+            "pc_requirements": {
+                "minimum": "<p><strong>Minimum:</strong></p>\n<ul>\n\t<li><strong>OS:</strong> Windows XP</li>\n\t<li><strong>Processor:</strong> Core 2 Duo</li>\n\t<li><strong>Memory:</strong> 2 GB RAM</li>\n\t<li><strong>Graphics:</strong> Graphics card with 256 MB RAM</li>\n\t<li><strong>Hard Drive:</strong> 100 MB HD space</li>\n\t<li><strong>Sound:</strong> Soundblaster or equivalent</li>\n</ul>",
+                "recommended": "<p><strong>Recommended:</strong></p>\n<ul>\n\t<li><strong>OS:</strong> Windows 7</li>\n\t<li><strong>Processor:</strong> Core 2 Duo or above</li>\n\t<li><strong>Memory:</strong> 4 GB RAM</li>\n\t<li><strong>Graphics:</strong> Graphics card with 512 MB RAM</li>\n\t<li><strong>Hard Drive:</strong> 300 MB HD space</li>\n\t<li><strong>Sound:</strong> Soundblaster or equivalent</li>\n</ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "legal_notice": "Home by Benjamin Rivers is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License",
+            "developers": [
+                "Benjamin Rivers"
+            ],
+            "publishers": [
+                ""
+            ],
+            "package_groups": [],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "25",
+                    "description": "Adventure"
+                },
+                {
+                    "id": "23",
+                    "description": "Indie"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 82179,
+                    "name": "Home Trailer 2",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/82179/movie.293x165.jpg?t=1447356970",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/82179/movie480.webm?t=1447356970",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/82179/movie_max.webm?t=1447356970"
+                    },
+                    "highlight": false
+                }
+            ],
+            "release_date": {
+                "coming_soon": false,
+                "date": "31 Oct, 2012"
+            },
+            "support_info": {
+                "url": "http://www.homehorror.com/contact-support/",
+                "email": "support@homehorror.com"
+            },
+            "background": "",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

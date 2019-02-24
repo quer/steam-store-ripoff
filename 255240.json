@@ -1,0 +1,120 @@
+{
+    "255240": {
+        "success": true,
+        "data": {
+            "type": "dlc",
+            "name": "Legend of Dungeon Original Soundtrack",
+            "steam_appid": 255240,
+            "required_age": 0,
+            "is_free": false,
+            "controller_support": "full",
+            "detailed_description": "The Legend of Dungeon Original Soundtrack, which the music in the game is generated from. By David Dirig",
+            "about_the_game": "The Legend of Dungeon Original Soundtrack, which the music in the game is generated from. By David Dirig",
+            "short_description": "The Legend of Dungeon Original Soundtrack, which the music in the game is generated from.",
+            "fullgame": {
+                "appid": "238280",
+                "name": "Legend of Dungeon"
+            },
+            "supported_languages": "English",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/255240/header.jpg?t=1447358813",
+            "website": "http://robotloveskitty.com/LoD/",
+            "pc_requirements": [],
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "publishers": [
+                ""
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 399,
+                "final": 399,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "3,99€"
+            },
+            "packages": [
+                31529
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Legend of Dungeon Original Soundtrack",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 31529,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Legend of Dungeon Original Soundtrack - 3,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 399
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": true,
+                "linux": true
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 24,
+                    "description": "Shared/Split Screen"
+                },
+                {
+                    "id": 21,
+                    "description": "Downloadable Content"
+                },
+                {
+                    "id": 28,
+                    "description": "Full controller support"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "1",
+                    "description": "Action"
+                },
+                {
+                    "id": "23",
+                    "description": "Indie"
+                },
+                {
+                    "id": "3",
+                    "description": "RPG"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/255240/ss_fca0e58e0a6ad5838e089ccfb61b87cb4e839f52.600x338.jpg?t=1447358813",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/255240/ss_fca0e58e0a6ad5838e089ccfb61b87cb4e839f52.1920x1080.jpg?t=1447358813"
+                }
+            ],
+            "release_date": {
+                "coming_soon": false,
+                "date": "7 Jun, 2015"
+            },
+            "support_info": {
+                "url": "http://robotloveskitty.com/bugs/index.php",
+                "email": "robot@robotloveskitty.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/255240/page_bg_generated_v6b.jpg?t=1447358813",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

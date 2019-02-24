@@ -1,0 +1,82 @@
+{
+    "775250": {
+        "success": true,
+        "data": {
+            "type": "demo",
+            "name": "Infinos Gaiden Demo",
+            "steam_appid": 775250,
+            "required_age": 0,
+            "is_free": true,
+            "detailed_description": "",
+            "about_the_game": "",
+            "short_description": "",
+            "fullgame": {
+                "appid": "771070",
+                "name": "Infinos Gaiden"
+            },
+            "supported_languages": "English, Japanese",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/775250/header.jpg?t=1514978414",
+            "website": "http://picorinnesoft.web.fc2.com/infinos_gaiden.html",
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> windows10,8,7,vista,xp<br></li><li><strong>Processor:</strong> CPU 1.5GHz<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> 1024 x 768<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 50 MB available space</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> windows10,8,7,vista,xp<br></li><li><strong>Processor:</strong> CPU 2GHz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> 1280 x 800<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 50 MB available space</li></ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "legal_notice": "Copyright Picorinne Soft.",
+            "developers": [
+                "Picorinne Soft"
+            ],
+            "publishers": [
+                "Picorinne Soft"
+            ],
+            "package_groups": [],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 10,
+                    "description": "Game demo"
+                },
+                {
+                    "id": 18,
+                    "description": "Partial Controller Support"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "1",
+                    "description": "Action"
+                },
+                {
+                    "id": "37",
+                    "description": "Free to Play"
+                },
+                {
+                    "id": "23",
+                    "description": "Indie"
+                }
+            ],
+            "release_date": {
+                "coming_soon": false,
+                "date": "3 Jan, 2018"
+            },
+            "support_info": {
+                "url": "http://picorinnesoft.web.fc2.com",
+                "email": "picorinnesoft@gmail.com"
+            },
+            "background": "",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

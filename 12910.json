@@ -1,0 +1,71 @@
+{
+    "12910": {
+        "success": true,
+        "data": {
+            "type": "demo",
+            "name": "AudioSurf Demo",
+            "steam_appid": 12910,
+            "required_age": 0,
+            "is_free": true,
+            "detailed_description": "",
+            "about_the_game": "",
+            "short_description": "",
+            "fullgame": {
+                "appid": "12900",
+                "name": "AudioSurf"
+            },
+            "supported_languages": "English",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/12910/header.jpg?t=1447351253",
+            "website": null,
+            "pc_requirements": {
+                "minimum": "<p><strong>Minimum:</strong></p>\n\t\t\t\t\t<ul>\n\t\t\t\t\t<li><strong>OS:</strong> Microsoft&reg; Windows&reg; XP/Vista</li>\n\t\t\t\t\t<li><strong>Processor:</strong> 1.6 GHz Intel&reg; Pentium&reg; 4 </li>\n\t\t\t\t\t<li><strong>Memory:</strong> 512 MB RAM </li>\n\t\t\t\t\t<li><strong>Graphics:</strong> 32 MB NVIDIA GeForce&reg; 2 (support for Pixel Shader 3.0 recommended)</li>\n\t\t\t\t\t<li><strong>DirectX Version:</strong> DirectX&reg; 9.0 or higher</li>\n\t\t\t\t\t<li><strong>Sound:</strong> DirectX&reg; 9.0c-compatible sound card</li></ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "developers": [
+                "Dylan Fitterer"
+            ],
+            "publishers": [
+                ""
+            ],
+            "package_groups": [],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "metacritic": {
+                "score": 85
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 10,
+                    "description": "Game demo"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "23",
+                    "description": "Indie"
+                }
+            ],
+            "release_date": {
+                "coming_soon": false,
+                "date": "Feb 15, 2008"
+            },
+            "support_info": {
+                "url": "",
+                "email": ""
+            },
+            "background": "",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

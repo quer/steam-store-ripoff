@@ -1,0 +1,94 @@
+{
+    "606564": {
+        "success": true,
+        "data": {
+            "type": "episode",
+            "name": "NANBAKA: A Fraud and a Hero",
+            "steam_appid": 606564,
+            "required_age": 0,
+            "is_free": false,
+            "controller_support": "full",
+            "detailed_description": "",
+            "about_the_game": "",
+            "short_description": "Jyugo and the gang are advancing through the New Year’s Tournament without a hitch. In the Hyakunin Isshu event, Uno wins against the Building 3 inmates, Trois and Honey. The 4th event is a physical match revolved around a spinning top, but Niko unintentionally enters the match.",
+            "fullgame": {
+                "appid": "600910",
+                "name": "NANBAKA"
+            },
+            "supported_languages": "English<strong>*</strong>, Japanese<br><strong>*</strong>languages with full audio support",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/600910/header.jpg?t=1529697666",
+            "website": null,
+            "pc_requirements": [],
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "publishers": [
+                ""
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 199,
+                "final": 199,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "1,99€"
+            },
+            "packages": [
+                160288
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy NANBAKA: A Fraud and a Hero",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 160288,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "NANBAKA: A Fraud and a Hero - 1,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 199
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 28,
+                    "description": "Full controller support"
+                },
+                {
+                    "id": 33,
+                    "description": "Native Steam Controller Support"
+                }
+            ],
+            "achievements": {
+                "total": 0
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "30 Mar, 2017"
+            },
+            "support_info": {
+                "url": "",
+                "email": ""
+            },
+            "background": "",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

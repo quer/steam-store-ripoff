@@ -1,0 +1,74 @@
+{
+    "803860": {
+        "success": true,
+        "data": {
+            "type": "advertising",
+            "name": "Battlezone: Combat Commander Free Multiplayer",
+            "steam_appid": 803860,
+            "required_age": 0,
+            "is_free": true,
+            "detailed_description": "",
+            "about_the_game": "",
+            "short_description": "Play Battlezone: Combat Commander Multiplayer Free Until Monday at 10AM Pacific!",
+            "fullgame": {
+                "appid": null,
+                "name": "Uninitialized"
+            },
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/803860/header.jpg?t=1532659818",
+            "website": "https://store.steampowered.com/app/624970",
+            "pc_requirements": [],
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "publishers": [
+                ""
+            ],
+            "packages": [
+                292328
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Battlezone: Combat Commander Free Multiplayer",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 292328,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Battlezone: Combat Commander Beta - Free",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": true,
+                            "price_in_cents_with_discount": 0
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "achievements": {
+                "total": 0
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "26 Jul, 2018"
+            },
+            "support_info": {
+                "url": "",
+                "email": ""
+            },
+            "background": "",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

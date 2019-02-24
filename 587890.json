@@ -1,0 +1,116 @@
+{
+    "587890": {
+        "success": true,
+        "data": {
+            "type": "dlc",
+            "name": "Donation - Level 4",
+            "steam_appid": 587890,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "This DLC will add, or change, nothing to the game. But if you like <i>In the Darkness of the Sea</i> and wish to give a little something, you can buy this DLC.",
+            "about_the_game": "This DLC will add, or change, nothing to the game. But if you like <i>In the Darkness of the Sea</i> and wish to give a little something, you can buy this DLC.",
+            "short_description": "This DLC will add, or change, nothing to the game. But if you like In the Darkness of the Sea and wish to give a little something, you can buy this DLC.",
+            "fullgame": {
+                "appid": "587840",
+                "name": "In the Darkness of the Sea"
+            },
+            "supported_languages": "English",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/587890/header.jpg?t=1485989533",
+            "website": null,
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 or up</li></ul>"
+            },
+            "mac_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OS X 10.9</li></ul>"
+            },
+            "linux_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 12.04</li></ul>"
+            },
+            "developers": [
+                "Olivier LeClair"
+            ],
+            "publishers": [
+                "Olivier LeClair"
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 999,
+                "final": 999,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "9,99€"
+            },
+            "packages": [
+                152019
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Donation - Level 4",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 152019,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Donation - $9.99 - 9,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 999
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 21,
+                    "description": "Downloadable Content"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "25",
+                    "description": "Adventure"
+                },
+                {
+                    "id": "23",
+                    "description": "Indie"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/587890/ss_91dd2f8fac50ab5256fcba3f7cdd2831c53d2779.600x338.jpg?t=1485989533",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/587890/ss_91dd2f8fac50ab5256fcba3f7cdd2831c53d2779.1920x1080.jpg?t=1485989533"
+                }
+            ],
+            "release_date": {
+                "coming_soon": false,
+                "date": "1 Feb, 2017"
+            },
+            "support_info": {
+                "url": "",
+                "email": "olivier.leclair93@gmail.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/587890/page_bg_generated_v6b.jpg?t=1485989533",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

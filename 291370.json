@@ -1,0 +1,233 @@
+{
+    "291370": {
+        "success": true,
+        "data": {
+            "type": "game",
+            "name": "Undead Overlord",
+            "steam_appid": 291370,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/291370/extras/DangerEarlyAccessGame.png?t=1453799191\" > <i>&quot;Danger, Will Robinson!&quot;</i><br><i>Filled with bugs, shorter than you want it to be, lacking features you crave, and just *not* fully tuned yet - this alpha release may infect your brain and leave you curled, twitching in a corner, while you jones for more zombie goodness. Play at your own risk!</i><br><br>That having been said . . .<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/291370/extras/BrainsAreAttractive.png?t=1453799191\" ><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/291370/extras/YouAreTheHorde.png?t=1453799191\" ><br>Raw, aggressive hunger - there's nothing like being a Zombie when you want to do some damage! Now you can control your own horde of zombies and lay waste to the tidy world that humans have created for themselves. Feast on their brains, grow, mutate, and gain incredible powers. Take over a small town (deputies are delicious!). Overwhelm the arriving SWAT units, gather civilian bodies, and reduce a mighty city to rubble. Feast on the remains of generals as their weapons lie smoldering and scattered.<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/291370/extras/MayhemHasNeverTastedSoGood.png?t=1453799191\" ><br>Undead Overlord is the world's most succulent Zombie Dominion RTS. Zoom into a world where destruction is the goal. Mindless zombies? Not when you are the controlling Mind!<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/291370/extras/HaventYouAlwaysWantedToTakeOverTheWorld.png?t=1453799191\" ><br>We’re proud to make our Alpha1 build available on Steam Early Access. The game was approved for distribution on Steam through the Greenlight program last fall, after just over a month’s worth of voting, but the game still needed more work at that point. The fact of the matter is - it *still* needs more work!<br><br>You all know about Beta software. Well . . . Alpha comes before Beta, so it's full of crawling bugs and creeping inconsistencies that we haven't had time to stomp out just yet - but you can help us do the stomping, and have some fun in the process!<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/291370/extras/zombie_mob.png?t=1453799191\" ><br><br><strong>Alpha1.16</strong> lets you experience the beginnings of the reign of the Undead Overlord with the first five story missions, two skirmish maps, and a special alphaTest map available to those who take part in the game’s Early Access program. Play the game like you're riding a bucking bronco - ride that sucker into submission. Then participate in forum discussions on the current state of the game, have your say, and join us as we add more missions, more maps, new features, and work towards a full release.<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/291370/extras/divideBar.png?t=1453799191\" ><br><br><strong>Alpha1.16a</strong> <img src=\"https://steamcdn-a.akamaihd.net/steam/apps/291370/extras/spacer.png?t=1453799191\" > Jan. 21, 2016 (Current Version)<br><br><strong>New</strong><br><ul class=\"bb_ul\"><li>added sound to burning vehicle hulks<br></li><li>collision sounds for grenades</li></ul><strong>Tuning</strong><br><ul class=\"bb_ul\"><li>Mission 05<br><ol><li>military command tent downgraded to a small encampment of Cougar teams, to distract less from the primary mission objective<br></li><li>city center warehouses much better defended, and now feature a group of scientists that are the primary mission goal<br></li><li>lots of new props added, more random survivor groups added<br></li><li>end mission objective location arrow added, enabled after Tank goal completed<br></li><li>some groups of humans now using wander hint parents to wander about within a limited space on the map</li></ol></li><li>Mission 04<br><ol><li>squads around military base will now (mostly) all reinforce each other when base is attacked, making the end of m04 a bit tougher</li></ol></li><li>improved sound of landmine explosions and grenades with new SoundData Prefab tools<br></li><li>swapped m04 + m05 blurbs in the Mission Select screen to better match the audio plays for those missions, small editorial tweaks to blurbs</li></ul><strong>Fixes</strong><br><ul class=\"bb_ul\"><li>turrets can’t fire through walls<br></li><li>a few bad textures in m05 cleaned up<br></li><li>fixed missing landmine sounds in skirmishes<br></li><li>fixed the “rotate camera” goal in the m01 tutorial not showing a goal arrow in the scene<br></li><li>fixed burning truck behind gas station in m04 not carved out of navmesh<br></li><li>fixed alpha test menu enabled in skirmish missions by default<br></li><li>fixed no chaos earned for killing a goat</li></ul><strong>Known Bugs</strong><br><ul class=\"bb_ul\"><li>missing collision for animated police car in m02</li></ul><br><strong>Alpha1.16</strong> <img src=\"https://steamcdn-a.akamaihd.net/steam/apps/291370/extras/spacer.png?t=1453799191\" > Oct. 29, 2015<br><br><strong>New</strong><br><ul class=\"bb_ul\"><li>Mission 04 - “Night Terrors”<br></li><li>Mission 05 - “Breakthrough”<br></li><li>New human weapon - machine gun turret<br></li><li>Mission Select screen updates:<br><ol><li>Separate sections for mission maps vs. skirmish maps<br></li><li>Updated scene graphics<br></li><li>New radio plays for new missions</li></ol></li><li>Bonus goals - all missions (including the two new ones) now have two functional bonus goals<br></li><li>Pooling and limiting for footstep sounds - footstep sounds don’t go missing, and don’t overlap so much that they cause weird audio artifacts<br></li><li>Added Steam Cloud support<br></li><li>Better lighting for destroyed pieces of destructibles after the destruction has happened - no longer tied to the character lighting</li></ul><strong>Tuning</strong><br><ul class=\"bb_ul\"><li>Boss upgrades cost more<br></li><li>Speed Zombie ranged attack less powerful<br></li><li>Reviewed and tuned starting and max chaos levels for all maps</li></ul><strong>Fixes</strong><br><ul class=\"bb_ul\"><li>Possible to target the Speed Zombie bile projectile for attack<br></li><li>Mission 01 - Humans running out of bounds<br></li><li>Mission 02 - Goat bonus linked to the wrong character (female rifle unit)<br></li><li>Mission 03 - Swat reinforcements visible at edge of the map and mini map at beginning of the mission<br></li><li>Mission 03 - Speed Zombie mutation pop-up and counter-attack notice pop-up working again<br></li><li>Skirmish 01 - Military spawning out of forward base are backtracking before finding their way<br></li><li>Misc bug fixes</li></ul><br><a href=\"http://steamcommunity.com/app/291370/discussions/0/43099722167879535/\" target=\"_blank\" rel=\"noreferrer\"  >Check out the forums</a> for the complete release notes.<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/291370/extras/divideBar.png?t=1453799191\" ><h2 class=\"bb_tag\">Current Features List</h2><strong>&gt;</strong> 5 Missions + 2 Skirmish Maps<br><strong>&gt;</strong> Mutations: 3 Boss Zombies, each with its own Special Ability<br><strong>&gt;</strong> 8 Destructible Vehicles<br><strong>&gt;</strong> 10+ Human Types<br><strong>&gt;</strong> 15+ Destructible Object Types<br><strong>&gt;</strong> 7 Human Weapon Types - Baseball Bat, Pistol, Assault Rifle, Shotgun, Grenade, Land Mines, Machine Gun Emplacement<br><strong>&gt;</strong> Bonus: alphaTest map<h2 class=\"bb_tag\">Planned Features List</h2><strong>+</strong> 4 more Missions<br><strong>+</strong> 1 more Skirmish Maps<br><strong>+</strong> new Human Weapons (Molotov Cocktail, Rocket Launcher)<br><strong>+</strong> more Human Types<br><strong>+</strong> Zombie Upgrades<br><strong>+</strong> Boss Human<br><strong>+</strong> A whole bunch of bug fixes, game tuning, and graphical improvements . . .<br><strong>+</strong> Possible stretch goals based on community feedback!<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/291370/extras/spacer.png?t=1453799191\" ><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/291370/extras/spacer.png?t=1453799191\" >",
+            "about_the_game": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/291370/extras/DangerEarlyAccessGame.png?t=1453799191\" > <i>&quot;Danger, Will Robinson!&quot;</i><br><i>Filled with bugs, shorter than you want it to be, lacking features you crave, and just *not* fully tuned yet - this alpha release may infect your brain and leave you curled, twitching in a corner, while you jones for more zombie goodness. Play at your own risk!</i><br><br>That having been said . . .<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/291370/extras/BrainsAreAttractive.png?t=1453799191\" ><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/291370/extras/YouAreTheHorde.png?t=1453799191\" ><br>Raw, aggressive hunger - there's nothing like being a Zombie when you want to do some damage! Now you can control your own horde of zombies and lay waste to the tidy world that humans have created for themselves. Feast on their brains, grow, mutate, and gain incredible powers. Take over a small town (deputies are delicious!). Overwhelm the arriving SWAT units, gather civilian bodies, and reduce a mighty city to rubble. Feast on the remains of generals as their weapons lie smoldering and scattered.<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/291370/extras/MayhemHasNeverTastedSoGood.png?t=1453799191\" ><br>Undead Overlord is the world's most succulent Zombie Dominion RTS. Zoom into a world where destruction is the goal. Mindless zombies? Not when you are the controlling Mind!<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/291370/extras/HaventYouAlwaysWantedToTakeOverTheWorld.png?t=1453799191\" ><br>We’re proud to make our Alpha1 build available on Steam Early Access. The game was approved for distribution on Steam through the Greenlight program last fall, after just over a month’s worth of voting, but the game still needed more work at that point. The fact of the matter is - it *still* needs more work!<br><br>You all know about Beta software. Well . . . Alpha comes before Beta, so it's full of crawling bugs and creeping inconsistencies that we haven't had time to stomp out just yet - but you can help us do the stomping, and have some fun in the process!<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/291370/extras/zombie_mob.png?t=1453799191\" ><br><br><strong>Alpha1.16</strong> lets you experience the beginnings of the reign of the Undead Overlord with the first five story missions, two skirmish maps, and a special alphaTest map available to those who take part in the game’s Early Access program. Play the game like you're riding a bucking bronco - ride that sucker into submission. Then participate in forum discussions on the current state of the game, have your say, and join us as we add more missions, more maps, new features, and work towards a full release.<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/291370/extras/divideBar.png?t=1453799191\" ><br><br><strong>Alpha1.16a</strong> <img src=\"https://steamcdn-a.akamaihd.net/steam/apps/291370/extras/spacer.png?t=1453799191\" > Jan. 21, 2016 (Current Version)<br><br><strong>New</strong><br><ul class=\"bb_ul\"><li>added sound to burning vehicle hulks<br></li><li>collision sounds for grenades</li></ul><strong>Tuning</strong><br><ul class=\"bb_ul\"><li>Mission 05<br><ol><li>military command tent downgraded to a small encampment of Cougar teams, to distract less from the primary mission objective<br></li><li>city center warehouses much better defended, and now feature a group of scientists that are the primary mission goal<br></li><li>lots of new props added, more random survivor groups added<br></li><li>end mission objective location arrow added, enabled after Tank goal completed<br></li><li>some groups of humans now using wander hint parents to wander about within a limited space on the map</li></ol></li><li>Mission 04<br><ol><li>squads around military base will now (mostly) all reinforce each other when base is attacked, making the end of m04 a bit tougher</li></ol></li><li>improved sound of landmine explosions and grenades with new SoundData Prefab tools<br></li><li>swapped m04 + m05 blurbs in the Mission Select screen to better match the audio plays for those missions, small editorial tweaks to blurbs</li></ul><strong>Fixes</strong><br><ul class=\"bb_ul\"><li>turrets can’t fire through walls<br></li><li>a few bad textures in m05 cleaned up<br></li><li>fixed missing landmine sounds in skirmishes<br></li><li>fixed the “rotate camera” goal in the m01 tutorial not showing a goal arrow in the scene<br></li><li>fixed burning truck behind gas station in m04 not carved out of navmesh<br></li><li>fixed alpha test menu enabled in skirmish missions by default<br></li><li>fixed no chaos earned for killing a goat</li></ul><strong>Known Bugs</strong><br><ul class=\"bb_ul\"><li>missing collision for animated police car in m02</li></ul><br><strong>Alpha1.16</strong> <img src=\"https://steamcdn-a.akamaihd.net/steam/apps/291370/extras/spacer.png?t=1453799191\" > Oct. 29, 2015<br><br><strong>New</strong><br><ul class=\"bb_ul\"><li>Mission 04 - “Night Terrors”<br></li><li>Mission 05 - “Breakthrough”<br></li><li>New human weapon - machine gun turret<br></li><li>Mission Select screen updates:<br><ol><li>Separate sections for mission maps vs. skirmish maps<br></li><li>Updated scene graphics<br></li><li>New radio plays for new missions</li></ol></li><li>Bonus goals - all missions (including the two new ones) now have two functional bonus goals<br></li><li>Pooling and limiting for footstep sounds - footstep sounds don’t go missing, and don’t overlap so much that they cause weird audio artifacts<br></li><li>Added Steam Cloud support<br></li><li>Better lighting for destroyed pieces of destructibles after the destruction has happened - no longer tied to the character lighting</li></ul><strong>Tuning</strong><br><ul class=\"bb_ul\"><li>Boss upgrades cost more<br></li><li>Speed Zombie ranged attack less powerful<br></li><li>Reviewed and tuned starting and max chaos levels for all maps</li></ul><strong>Fixes</strong><br><ul class=\"bb_ul\"><li>Possible to target the Speed Zombie bile projectile for attack<br></li><li>Mission 01 - Humans running out of bounds<br></li><li>Mission 02 - Goat bonus linked to the wrong character (female rifle unit)<br></li><li>Mission 03 - Swat reinforcements visible at edge of the map and mini map at beginning of the mission<br></li><li>Mission 03 - Speed Zombie mutation pop-up and counter-attack notice pop-up working again<br></li><li>Skirmish 01 - Military spawning out of forward base are backtracking before finding their way<br></li><li>Misc bug fixes</li></ul><br><a href=\"http://steamcommunity.com/app/291370/discussions/0/43099722167879535/\" target=\"_blank\" rel=\"noreferrer\"  >Check out the forums</a> for the complete release notes.<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/291370/extras/divideBar.png?t=1453799191\" ><h2 class=\"bb_tag\">Current Features List</h2><strong>&gt;</strong> 5 Missions + 2 Skirmish Maps<br><strong>&gt;</strong> Mutations: 3 Boss Zombies, each with its own Special Ability<br><strong>&gt;</strong> 8 Destructible Vehicles<br><strong>&gt;</strong> 10+ Human Types<br><strong>&gt;</strong> 15+ Destructible Object Types<br><strong>&gt;</strong> 7 Human Weapon Types - Baseball Bat, Pistol, Assault Rifle, Shotgun, Grenade, Land Mines, Machine Gun Emplacement<br><strong>&gt;</strong> Bonus: alphaTest map<h2 class=\"bb_tag\">Planned Features List</h2><strong>+</strong> 4 more Missions<br><strong>+</strong> 1 more Skirmish Maps<br><strong>+</strong> new Human Weapons (Molotov Cocktail, Rocket Launcher)<br><strong>+</strong> more Human Types<br><strong>+</strong> Zombie Upgrades<br><strong>+</strong> Boss Human<br><strong>+</strong> A whole bunch of bug fixes, game tuning, and graphical improvements . . .<br><strong>+</strong> Possible stretch goals based on community feedback!<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/291370/extras/spacer.png?t=1453799191\" ><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/291370/extras/spacer.png?t=1453799191\" >",
+            "short_description": "Raw, aggressive hunger - there's nothing like being a Zombie when you want to do some damage! Now you can control your own horde of zombies! Mayhem has never tasted so good . . .",
+            "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/291370/header.jpg?t=1453799191",
+            "website": "http://www.undeadoverlord.com",
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> WinXP or later<br></li><li><strong>Processor:</strong> Dual Core CPU @ 2.0GHz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GT400 series with 512MB RAM or better, ATI 4870HD with 512MB RAM or better<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
+            },
+            "mac_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OSX 10.6<br></li><li><strong>Processor:</strong> Dual Core CPU @ 2.0GHz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
+            },
+            "linux_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 12.04<br></li><li><strong>Processor:</strong> Dual Core CPU @ 2.0GHz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
+            },
+            "legal_notice": "Copyright JumpCore Productions, Inc. 2012-2016",
+            "developers": [
+                "JumpCore Productions"
+            ],
+            "publishers": [
+                "JumpCore Productions"
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 1499,
+                "final": 1499,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "14,99€"
+            },
+            "packages": [
+                40862
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Undead Overlord",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 40862,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Undead Overlord - 14,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 1499
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": true,
+                "linux": true
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 22,
+                    "description": "Steam Achievements"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "23",
+                    "description": "Indie"
+                },
+                {
+                    "id": "2",
+                    "description": "Strategy"
+                },
+                {
+                    "id": "70",
+                    "description": "Early Access"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/291370/ss_a377ef8a6e4136bf50284f77326251374146212a.600x338.jpg?t=1453799191",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/291370/ss_a377ef8a6e4136bf50284f77326251374146212a.1920x1080.jpg?t=1453799191"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/291370/ss_d65c0d221c2f426d5547afdcfaba3a15b7029b2f.600x338.jpg?t=1453799191",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/291370/ss_d65c0d221c2f426d5547afdcfaba3a15b7029b2f.1920x1080.jpg?t=1453799191"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/291370/ss_58f61e25205dfd76d3247db5b13b774aa9dff977.600x338.jpg?t=1453799191",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/291370/ss_58f61e25205dfd76d3247db5b13b774aa9dff977.1920x1080.jpg?t=1453799191"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/291370/ss_cdf6785ddeb94f14f43b0fcf0f10ca56062f99e7.600x338.jpg?t=1453799191",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/291370/ss_cdf6785ddeb94f14f43b0fcf0f10ca56062f99e7.1920x1080.jpg?t=1453799191"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/291370/ss_a5ef59cdd0bb31e06cef8083fd990532286604fd.600x338.jpg?t=1453799191",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/291370/ss_a5ef59cdd0bb31e06cef8083fd990532286604fd.1920x1080.jpg?t=1453799191"
+                },
+                {
+                    "id": 5,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/291370/ss_48b8ab6999fd0ca06a8653ad94ddba8a0cb6106c.600x338.jpg?t=1453799191",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/291370/ss_48b8ab6999fd0ca06a8653ad94ddba8a0cb6106c.1920x1080.jpg?t=1453799191"
+                },
+                {
+                    "id": 6,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/291370/ss_9e8f0b98245300f786340235e7b24a300bd8eb05.600x338.jpg?t=1453799191",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/291370/ss_9e8f0b98245300f786340235e7b24a300bd8eb05.1920x1080.jpg?t=1453799191"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 2031898,
+                    "name": "Undead Overlord - Game Trailer",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/2031898/movie.293x165.jpg?t=1447361332",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/2031898/movie480.webm?t=1447361332",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/2031898/movie_max.webm?t=1447361332"
+                    },
+                    "highlight": true
+                },
+                {
+                    "id": 2031894,
+                    "name": "Undead Overlord - Tank Zombie",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/2031894/movie.293x165.jpg?t=1447361331",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/2031894/movie480.webm?t=1447361331",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/2031894/movie_max.webm?t=1447361331"
+                    },
+                    "highlight": true
+                },
+                {
+                    "id": 2031896,
+                    "name": "Undead Overlord - Grunt Zombie",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/2031896/movie.293x165.jpg?t=1447361331",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/2031896/movie480.webm?t=1447361331",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/2031896/movie_max.webm?t=1447361331"
+                    },
+                    "highlight": true
+                },
+                {
+                    "id": 2031895,
+                    "name": "Undead Overlord - Speed Zombie",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/2031895/movie.293x165.jpg?t=1447361331",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/2031895/movie480.webm?t=1447361331",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/2031895/movie_max.webm?t=1447361331"
+                    },
+                    "highlight": true
+                }
+            ],
+            "recommendations": {
+                "total": 174
+            },
+            "achievements": {
+                "total": 9,
+                "highlighted": [
+                    {
+                        "name": "When you gotta go...",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/291370/cbffdb8f8d55fdb1edcb281f5fe061a97c47d4be.jpg"
+                    },
+                    {
+                        "name": "That was so in tents",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/291370/cbffdb8f8d55fdb1edcb281f5fe061a97c47d4be.jpg"
+                    },
+                    {
+                        "name": "What about second breakfast?",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/291370/cbffdb8f8d55fdb1edcb281f5fe061a97c47d4be.jpg"
+                    },
+                    {
+                        "name": "We're coming to get you, Barbara!",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/291370/cbffdb8f8d55fdb1edcb281f5fe061a97c47d4be.jpg"
+                    },
+                    {
+                        "name": "Send more cops",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/291370/cbffdb8f8d55fdb1edcb281f5fe061a97c47d4be.jpg"
+                    },
+                    {
+                        "name": "For the Herd",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/291370/ba602a68e8b24fe3cdda3fff61ec96376dcf1323.jpg"
+                    },
+                    {
+                        "name": "Strike!",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/291370/ba602a68e8b24fe3cdda3fff61ec96376dcf1323.jpg"
+                    },
+                    {
+                        "name": "People Killing People",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/291370/ba602a68e8b24fe3cdda3fff61ec96376dcf1323.jpg"
+                    },
+                    {
+                        "name": "Blood Lust",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/291370/ba602a68e8b24fe3cdda3fff61ec96376dcf1323.jpg"
+                    }
+                ]
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "18 Jul, 2014"
+            },
+            "support_info": {
+                "url": "",
+                "email": "online@jumpcore.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/291370/page_bg_generated_v6b.jpg?t=1453799191",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

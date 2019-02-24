@@ -1,0 +1,188 @@
+{
+    "250300": {
+        "success": true,
+        "data": {
+            "type": "dlc",
+            "name": "F-15C for DCS World",
+            "steam_appid": 250300,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "<strong>Note: This is the exact same simulation of the F-15C as featured in DCS: Flaming Cliffs 3.</strong><br><br>The F-15 has often been labeled as the greatest fighter aircraft in the world from the 1970s until the early 21st century. Designed to counter the exaggerated capabilities of the Soviet MiG-25 &quot;Foxbat&quot;, the F-15 has been the backbone of U.S. air defense for three decades. The F-15C, equipped with improved avionics and weapons over the original F-15A, has scored over 100 air-to-air victories in the service of Israel, Saudi Arabia, and the U.S. without suffering any losses.<br><br>The F-15C rules the Beyond Visual Range arena (BVR). No slouch in a dogfight, the F-15C excels at finding targets, positively identifying them as hostile, and engaging them with AIM-120 AMRAAM missiles before the enemy can respond.<br><br>The F-15C's versatile pulse-Doppler radar system can look up at high-flying targets and down at low-flying targets without being confused by ground clutter. It can detect and track aircraft and small high-speed targets at distances beyond visual range down to close range, and at altitudes down to tree-top level. The radar feeds target information into the central computer for effective weapons delivery. For close-in dogfights, the radar automatically acquires enemy aircraft, and this information is projected on the head-up display.<br><br>F-15C for DCS World focuses on ease of use without complicated cockpit interaction, significantly reducing the learning curve. As such, F-15C features keyboard and joystick cockpit commands with a focus on the most mission critical of cockpit systems.<br><br>Read more about the F-15C for DCS World here: <a href=\"https://steamcommunity.com/linkfilter/?url=http://www.digitalcombatsimulator.com/en/products/eagle/\" target=\"_blank\" rel=\"noopener\"  >http://www.digitalcombatsimulator.com/en/products/eagle/</a><h2 class=\"bb_tag\">Features:</h2><ul class=\"bb_ul\"><li>Detailed and accurate 3D model and animations<br></li><li>Six Degrees of Freedom (6DOF) capable cockpit<br></li><li>Professional Flight Model (PFM)<br></li><li>Campaign and missions<br></li><li>F-15C skins from a wide array of squadrons<br></li><li>Both Simulation and Game modes</li></ul><br>The F-15C for DCS World includes a Professional Flight Model (PFM). Highlights of the PFM include:<br><br>Aircraft performance is constantly recalculated based on standard physics equations describing the translational and rotational motion of a rigid body under the influence of external forces and moments, regardless of the nature of their origin. <br><br>•\tTrajectory and angular motion looks more natural due to the correct modeling of the inertial properties of the aircraft.<br>•\tUnlike with Standard Flight Model (SFM) aircraft, the F-15C AFM does not show noticeable transitions between modes, which appear as unnaturally sharp attitude or position change. For example: when executing a tailslide, advanced flight maneuvers, landing when not wings level, and touching down with a single wheel.<br>•\tAFM naturally takes into account the gyroscopic effects on the plane's rotation (SFM does not model this at all).<br>•\tAsymmetric external forces (such as differential throttle), as well as external forces not applied through the aircraft center of gravity (eg, engine thrust and drag from asymmetric stores) are properly modeled throughout the flight envelope, causing properly applied torque.<br>•\tAircraft center of gravity can shift with AFM based on various in-flight events.<br>•\tThere is a concept of lateral and longitudinal center, which may shift depending on fuel load and external stores.<br>•\tAFM naturally models asymmetrical external stores which properly influences performance depending on airspeed, G load, and other factors.<br><br>The aerodynamic model of the AFM calculates aerodynamic characteristics of the aircraft, considering it a set of interconnected airframe elements, such as wings, fuselage, stabilators, etc. Each of these components has its aerodynamics calculated separately based on local angles of attack, airspeeds, mach numbers, and airflow, also considering pilot input as well as each component's damage state. <br><br>•\tAircraft aerodynamics are fully modeled for the entire flight envelope.<br>•\tLateral and longitudinal control effects as well as balance along each axis vary based on angle of attack and lateral and longitudinal static stability.<br>•\tWing autorotation is naturally taken into account when rolling at high angles of attack.<br>•\tKinematic, aerodynamic and inertial effects of each of the three axes of static stability is naturally calculated, such as in sideslip when rolling, or rolling during rudder movement, etc.<br>•\tSideslip angle is not just based on pilot input, as is the case with SFM, but also considers aircraft attitude.<br>•\tFor aircraft damage, changes in performance are not hard-coded but are calculated dynamically by fully or partially excluding affected components from physics calculations.<br>•\tThe aircraft stall is properly modeled, creating realistic wing rocking and wandering aircraft nose behavior.<br>Dynamic jet engine modeling considers a complex set of parameters including the air intake, compressor, combustor, turbine, and the afterburner nozzles. <br>•\tEngine RPM depends on altitude and Mach number, as well as atmospheric conditions such as temperature and air pressure.<br>•\tBrief engine overspeed is modeled in throttle response.<br>•\tEngine overspeed and throttling response, as well as general throttle control (response speed) vary based on current RPM.<br>•\tTurbine exhaust temperature is modeled in intricate detail, considering multiple parameters such as engine RPM, flight parameters, and atmospheric conditions.<br>•\tFuel consumption is calculated realistically based on both engine RPM and flight parameters.<br>•\tEngine operating parameters, such as RPM and exhaust temperature, are accurately modeled during the entire startup and shutdown process. F-15's AFM properly models such events turbine windmill in a disabled engine, engine relighting, and automatic air start.",
+            "about_the_game": "<strong>Note: This is the exact same simulation of the F-15C as featured in DCS: Flaming Cliffs 3.</strong><br><br>The F-15 has often been labeled as the greatest fighter aircraft in the world from the 1970s until the early 21st century. Designed to counter the exaggerated capabilities of the Soviet MiG-25 &quot;Foxbat&quot;, the F-15 has been the backbone of U.S. air defense for three decades. The F-15C, equipped with improved avionics and weapons over the original F-15A, has scored over 100 air-to-air victories in the service of Israel, Saudi Arabia, and the U.S. without suffering any losses.<br><br>The F-15C rules the Beyond Visual Range arena (BVR). No slouch in a dogfight, the F-15C excels at finding targets, positively identifying them as hostile, and engaging them with AIM-120 AMRAAM missiles before the enemy can respond.<br><br>The F-15C's versatile pulse-Doppler radar system can look up at high-flying targets and down at low-flying targets without being confused by ground clutter. It can detect and track aircraft and small high-speed targets at distances beyond visual range down to close range, and at altitudes down to tree-top level. The radar feeds target information into the central computer for effective weapons delivery. For close-in dogfights, the radar automatically acquires enemy aircraft, and this information is projected on the head-up display.<br><br>F-15C for DCS World focuses on ease of use without complicated cockpit interaction, significantly reducing the learning curve. As such, F-15C features keyboard and joystick cockpit commands with a focus on the most mission critical of cockpit systems.<br><br>Read more about the F-15C for DCS World here: <a href=\"https://steamcommunity.com/linkfilter/?url=http://www.digitalcombatsimulator.com/en/products/eagle/\" target=\"_blank\" rel=\"noopener\"  >http://www.digitalcombatsimulator.com/en/products/eagle/</a><h2 class=\"bb_tag\">Features:</h2><ul class=\"bb_ul\"><li>Detailed and accurate 3D model and animations<br></li><li>Six Degrees of Freedom (6DOF) capable cockpit<br></li><li>Professional Flight Model (PFM)<br></li><li>Campaign and missions<br></li><li>F-15C skins from a wide array of squadrons<br></li><li>Both Simulation and Game modes</li></ul><br>The F-15C for DCS World includes a Professional Flight Model (PFM). Highlights of the PFM include:<br><br>Aircraft performance is constantly recalculated based on standard physics equations describing the translational and rotational motion of a rigid body under the influence of external forces and moments, regardless of the nature of their origin. <br><br>•\tTrajectory and angular motion looks more natural due to the correct modeling of the inertial properties of the aircraft.<br>•\tUnlike with Standard Flight Model (SFM) aircraft, the F-15C AFM does not show noticeable transitions between modes, which appear as unnaturally sharp attitude or position change. For example: when executing a tailslide, advanced flight maneuvers, landing when not wings level, and touching down with a single wheel.<br>•\tAFM naturally takes into account the gyroscopic effects on the plane's rotation (SFM does not model this at all).<br>•\tAsymmetric external forces (such as differential throttle), as well as external forces not applied through the aircraft center of gravity (eg, engine thrust and drag from asymmetric stores) are properly modeled throughout the flight envelope, causing properly applied torque.<br>•\tAircraft center of gravity can shift with AFM based on various in-flight events.<br>•\tThere is a concept of lateral and longitudinal center, which may shift depending on fuel load and external stores.<br>•\tAFM naturally models asymmetrical external stores which properly influences performance depending on airspeed, G load, and other factors.<br><br>The aerodynamic model of the AFM calculates aerodynamic characteristics of the aircraft, considering it a set of interconnected airframe elements, such as wings, fuselage, stabilators, etc. Each of these components has its aerodynamics calculated separately based on local angles of attack, airspeeds, mach numbers, and airflow, also considering pilot input as well as each component's damage state. <br><br>•\tAircraft aerodynamics are fully modeled for the entire flight envelope.<br>•\tLateral and longitudinal control effects as well as balance along each axis vary based on angle of attack and lateral and longitudinal static stability.<br>•\tWing autorotation is naturally taken into account when rolling at high angles of attack.<br>•\tKinematic, aerodynamic and inertial effects of each of the three axes of static stability is naturally calculated, such as in sideslip when rolling, or rolling during rudder movement, etc.<br>•\tSideslip angle is not just based on pilot input, as is the case with SFM, but also considers aircraft attitude.<br>•\tFor aircraft damage, changes in performance are not hard-coded but are calculated dynamically by fully or partially excluding affected components from physics calculations.<br>•\tThe aircraft stall is properly modeled, creating realistic wing rocking and wandering aircraft nose behavior.<br>Dynamic jet engine modeling considers a complex set of parameters including the air intake, compressor, combustor, turbine, and the afterburner nozzles. <br>•\tEngine RPM depends on altitude and Mach number, as well as atmospheric conditions such as temperature and air pressure.<br>•\tBrief engine overspeed is modeled in throttle response.<br>•\tEngine overspeed and throttling response, as well as general throttle control (response speed) vary based on current RPM.<br>•\tTurbine exhaust temperature is modeled in intricate detail, considering multiple parameters such as engine RPM, flight parameters, and atmospheric conditions.<br>•\tFuel consumption is calculated realistically based on both engine RPM and flight parameters.<br>•\tEngine operating parameters, such as RPM and exhaust temperature, are accurately modeled during the entire startup and shutdown process. F-15's AFM properly models such events turbine windmill in a disabled engine, engine relighting, and automatic air start.",
+            "short_description": "Note: This is the exact same simulation of the F-15C as featured in DCS: Flaming Cliffs 3.The F-15 has often been labeled as the greatest fighter aircraft in the world from the 1970s until the early 21st century. Designed to counter the exaggerated capabilities of the Soviet MiG-25 &quot;Foxbat&quot;, the F-15 has been the backbone of U.",
+            "fullgame": {
+                "appid": "223750",
+                "name": "DCS World Steam Edition"
+            },
+            "supported_languages": "English<strong>*</strong>, German, Spanish - Spain, Czech, Russian, French<br><strong>*</strong>languages with full audio support",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/250300/header.jpg?t=1548861319",
+            "website": "http://www.digitalcombatsimulator.com/en/",
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 64-bit Windows 7/8/10<br></li><li><strong>Processor:</strong> Core i3<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 770 / ATI R9 280X DirectX11<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 60 GB available space<br></li><li><strong>Sound Card:</strong> DirectX11 - compatible<br></li><li><strong>Additional Notes:</strong> Requires DCS World and internet activation.</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 64-bit Windows 7/8/10<br></li><li><strong>Processor:</strong> Core i5+<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 980 / ATI R9 Fury DirectX11 or better<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 60 GB available space<br></li><li><strong>Sound Card:</strong> DirectX11 - compatible<br></li><li><strong>Additional Notes:</strong> Requires DCS World and internet activation.</li></ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "legal_notice": "The Fighter Collection Ltd, Imperial War Museum, Duxford Airfield, Cambridge, CB2 4QR, England, UK. (c) 2017 The Fighter Collection, DCS is a registered trademarks of The Fighter Collection Ltd.<br />\r\n<br />\r\nAll rights reserved. (c) 2017 Eagle Dynamics SA.",
+            "drm_notice": "Starforce ProActive<br>10 machine activation limit",
+            "developers": [
+                "Eagle Dynamics SA"
+            ],
+            "publishers": [
+                "The Fighter Collection"
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 1270,
+                "final": 1270,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "12,70€"
+            },
+            "packages": [
+                43488
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy F-15C for DCS World",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 43488,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "F-15C for DCS World - 12,70€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 1270
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 1,
+                    "description": "Multi-player"
+                },
+                {
+                    "id": 21,
+                    "description": "Downloadable Content"
+                },
+                {
+                    "id": 13,
+                    "description": "Captions available"
+                },
+                {
+                    "id": 18,
+                    "description": "Partial Controller Support"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "28",
+                    "description": "Simulation"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/250300/ss_c36c6628106580d7cec3d15d2a923b8b6f256db9.600x338.jpg?t=1548861319",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/250300/ss_c36c6628106580d7cec3d15d2a923b8b6f256db9.1920x1080.jpg?t=1548861319"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/250300/ss_a865ac9cdc83ee0b5e046b8f87086ead393dda27.600x338.jpg?t=1548861319",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/250300/ss_a865ac9cdc83ee0b5e046b8f87086ead393dda27.1920x1080.jpg?t=1548861319"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/250300/ss_38d310293941854abb6155a183ba3d3005d807b9.600x338.jpg?t=1548861319",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/250300/ss_38d310293941854abb6155a183ba3d3005d807b9.1920x1080.jpg?t=1548861319"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/250300/ss_d2feb421ad24f5b209eaeab86cc3e96cffa68157.600x338.jpg?t=1548861319",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/250300/ss_d2feb421ad24f5b209eaeab86cc3e96cffa68157.1920x1080.jpg?t=1548861319"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/250300/ss_ac382862021d5ba82b006b9ebd2899bd7c9ff509.600x338.jpg?t=1548861319",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/250300/ss_ac382862021d5ba82b006b9ebd2899bd7c9ff509.1920x1080.jpg?t=1548861319"
+                },
+                {
+                    "id": 5,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/250300/ss_85c1ca4c85a31a97111dfa42a4cc6586a0aebfdb.600x338.jpg?t=1548861319",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/250300/ss_85c1ca4c85a31a97111dfa42a4cc6586a0aebfdb.1920x1080.jpg?t=1548861319"
+                },
+                {
+                    "id": 6,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/250300/ss_c80956d19a265ae8f89f5df8f56c2f3c559c8a68.600x338.jpg?t=1548861319",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/250300/ss_c80956d19a265ae8f89f5df8f56c2f3c559c8a68.1920x1080.jpg?t=1548861319"
+                },
+                {
+                    "id": 7,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/250300/ss_fb44dc661e0b89e2d26da0b5a5f11c9c6e6a1ee9.600x338.jpg?t=1548861319",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/250300/ss_fb44dc661e0b89e2d26da0b5a5f11c9c6e6a1ee9.1920x1080.jpg?t=1548861319"
+                },
+                {
+                    "id": 8,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/250300/ss_3a111e26191890e71ec5dbd52b2587f8abdf5ce2.600x338.jpg?t=1548861319",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/250300/ss_3a111e26191890e71ec5dbd52b2587f8abdf5ce2.1920x1080.jpg?t=1548861319"
+                },
+                {
+                    "id": 9,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/250300/ss_60ebcae607879d3e9058687c24a3780c95fe2a72.600x338.jpg?t=1548861319",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/250300/ss_60ebcae607879d3e9058687c24a3780c95fe2a72.1920x1080.jpg?t=1548861319"
+                },
+                {
+                    "id": 10,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/250300/ss_b271e07dc32cbcf97ba50f84da739b711eff8e9b.600x338.jpg?t=1548861319",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/250300/ss_b271e07dc32cbcf97ba50f84da739b711eff8e9b.1920x1080.jpg?t=1548861319"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 2033059,
+                    "name": "F-15C: DCS Flaming Cliffs",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/2033059/movie.293x165.jpg?t=1447362423",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/2033059/movie480.webm?t=1447362423",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/2033059/movie_max.webm?t=1447362423"
+                    },
+                    "highlight": true
+                }
+            ],
+            "achievements": {
+                "total": 0
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "30 Apr, 2014"
+            },
+            "support_info": {
+                "url": "http://forums.eagle.ru/index.php",
+                "email": ""
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/250300/page_bg_generated_v6b.jpg?t=1548861319",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

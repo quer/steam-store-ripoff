@@ -1,0 +1,84 @@
+{
+    "582180": {
+        "success": true,
+        "data": {
+            "type": "demo",
+            "name": "Captain Lycop: Invasion of the Heters Demo",
+            "steam_appid": 582180,
+            "required_age": 0,
+            "is_free": true,
+            "detailed_description": "",
+            "about_the_game": "",
+            "short_description": "",
+            "fullgame": {
+                "appid": "525070",
+                "name": "Captain Lycop : Invasion of the Heters"
+            },
+            "supported_languages": "English, French, German",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/582180/header.jpg?t=1488377477",
+            "website": "http://aeronie.fr/lycop/index_en.html",
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows Vista<br></li><li><strong>Processor:</strong> 1.6 GHz<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> NVIDIA Geforce 530M<br></li><li><strong>Storage:</strong> 150 MB available space</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows Seven<br></li><li><strong>Processor:</strong> 2.4 Ghz<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA Geforce 630M<br></li><li><strong>Storage:</strong> 150 MB available space</li></ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 12.04<br></li><li><strong>Processor:</strong> 1.6 GHz<br></li><li><strong>Graphics:</strong> NVIDIA Geforce 530M<br></li><li><strong>Storage:</strong> 150 MB available space</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 12.04<br></li><li><strong>Processor:</strong> 2.4 GHz<br></li><li><strong>Graphics:</strong> NVIDIA Geforce 630M<br></li><li><strong>Storage:</strong> 150 MB available space</li></ul>"
+            },
+            "developers": [
+                "Aéronie"
+            ],
+            "publishers": [
+                "Aéronie"
+            ],
+            "package_groups": [],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": true
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 10,
+                    "description": "Game demo"
+                },
+                {
+                    "id": 18,
+                    "description": "Partial Controller Support"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "1",
+                    "description": "Action"
+                },
+                {
+                    "id": "25",
+                    "description": "Adventure"
+                },
+                {
+                    "id": "23",
+                    "description": "Indie"
+                }
+            ],
+            "release_date": {
+                "coming_soon": false,
+                "date": "10 Feb, 2017"
+            },
+            "support_info": {
+                "url": "https://bitbucket.org/aeronie/lycop",
+                "email": "aeronie.studio+lycop@gmail.com"
+            },
+            "background": "",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

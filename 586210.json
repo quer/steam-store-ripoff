@@ -1,0 +1,132 @@
+{
+    "586210": {
+        "success": true,
+        "data": {
+            "type": "game",
+            "name": "OVRdrop",
+            "steam_appid": 586210,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "OVRdrop is a Utility Application for SteamVR that can mirror a Desktop Window, an entire Monitor, or a WebCam into a Cross Game SteamVR Overlay. OVRdrop works on SteamVR and should be fully compatible with any SteamVR headset, though you will need tracked controllers for many of the features. It is known to work for the HTC Vive as well as the Oculus Rift, though <strong>some games may not be compatible with the Rift</strong>. The only major downside is that Cross Game Overlays will always draw on top of game geometry because Depth information is not fed to the Compositor by SteamVR games.<br><br>If you have any issues getting started, be sure to check the FAQ on our GitHub which I'll try to keep updated with the most common questions. If you find any bugs, please post them to our issue tracker on our GitHub. I'm at the ready to fix any bugs that are found!<h2 class=\"bb_tag\">Compatibility</h2><br><strong>OVRdrop requires Windows 8/8.1 or 10. Windows 7 not supported due to technical limitations.</strong> Support for Windows 7 is planned for the future.<br><br><strong>Limited Oculus Rift/OSVR Support!</strong> OVRdrop should work perfectly with any SteamVR compatible headset <strong>when running through SteamVR</strong>. However some games will override the SteamVR SDK when using an Oculus Rift or an OSVR HMD, and prevent SteamVR from drawing to the headset. <strong>In this case, OVRdrop will not work with those games.</strong> Please check our Compatibility guide on our GitHub for more information. Please report Oculus Rift/OSVR success or failure on our GitHub Issue Tracker.<br><br><strong>Certain Oculus Rift games can be fixed and made to work with SteamVR/OVRdrop! Please see the <a href=\"http://steamcommunity.com/games/586210/announcements/detail/1280555122088744691\" target=\"_blank\" rel=\"noreferrer\"  >announcement here</a> for more details.</strong><br><br><strong>OVRdrop will only work on the Oculus Rift in games that do not force the Oculus SDK! This is not something that can be fixed on our end.</strong><br><br><strong>OVRdrop will only work on the OSVR HMD in games that do not force the OSVR SDK! This is not something that can be fixed on our end.</strong><br><br><strong>HTC Vive is so far known to have 100% compatibility when running through SteamVR.</strong> However, some games could possibly break controller interaction. Please check our Compatibility guide on our GitHub for more information.<h2 class=\"bb_tag\">Features</h2><ul class=\"bb_ul\"><li>Can clone almost any Desktop Window into VR.<br></li><li>Can clone an entire monitor into VR.<br></li><li>Can clone WebCam sources into VR.<br></li><li>Side By Side 3D support for displaying Side By Side 3D content into VR.<br></li><li>Works with almost any SteamVR Compatible game. Should work with any game that utilizes the SteamVR SDKs. On the Rift, certain Rift games will use the Oculus SDK even when you use SteamVR. On the Vive and other SteamVR compatible headsets every game should work.<br></li><li>Easily Attach the Overlay to the World, the Screen (like a HUD), or one of the Controllers.<br></li><li>Send Mouse Clicks through to the target application, without leaving VR. (World/Controller attached Overlays only). Allows for Left, Right, and Middle Click as well as ScrollWheel (Horizontal and Vertical wheels).<br></li><li>Move, Rotate, and Scale the Overlay without leaving VR. (World attached Overlays only).<br></li><li>The Overlay can Animate when you look at it, such as changing transparency, scale, or moving out of the way.<br></li><li>Allows configurable Capture FPS.<br></li><li>Allows configurable Crop Region. You can clone just a subset of a window instead of the whole window if desired.<br></li><li>Configurable Outline for the Overlay (can disable if desired) to make the Overlay more visible.<br></li><li>Configurable Quality Settings. Clone a window as is or use Bilinear or Trilinear filtering to smooth edges, increasing perceived quality.<br></li><li>Options to enable display of the Desktop Cursor on the Overlay when it moves over the target application.<br></li><li>Haptic Feedback support!<br></li><li>Save/Load support.</li></ul>",
+            "about_the_game": "OVRdrop is a Utility Application for SteamVR that can mirror a Desktop Window, an entire Monitor, or a WebCam into a Cross Game SteamVR Overlay. OVRdrop works on SteamVR and should be fully compatible with any SteamVR headset, though you will need tracked controllers for many of the features. It is known to work for the HTC Vive as well as the Oculus Rift, though <strong>some games may not be compatible with the Rift</strong>. The only major downside is that Cross Game Overlays will always draw on top of game geometry because Depth information is not fed to the Compositor by SteamVR games.<br><br>If you have any issues getting started, be sure to check the FAQ on our GitHub which I'll try to keep updated with the most common questions. If you find any bugs, please post them to our issue tracker on our GitHub. I'm at the ready to fix any bugs that are found!<h2 class=\"bb_tag\">Compatibility</h2><br><strong>OVRdrop requires Windows 8/8.1 or 10. Windows 7 not supported due to technical limitations.</strong> Support for Windows 7 is planned for the future.<br><br><strong>Limited Oculus Rift/OSVR Support!</strong> OVRdrop should work perfectly with any SteamVR compatible headset <strong>when running through SteamVR</strong>. However some games will override the SteamVR SDK when using an Oculus Rift or an OSVR HMD, and prevent SteamVR from drawing to the headset. <strong>In this case, OVRdrop will not work with those games.</strong> Please check our Compatibility guide on our GitHub for more information. Please report Oculus Rift/OSVR success or failure on our GitHub Issue Tracker.<br><br><strong>Certain Oculus Rift games can be fixed and made to work with SteamVR/OVRdrop! Please see the <a href=\"http://steamcommunity.com/games/586210/announcements/detail/1280555122088744691\" target=\"_blank\" rel=\"noreferrer\"  >announcement here</a> for more details.</strong><br><br><strong>OVRdrop will only work on the Oculus Rift in games that do not force the Oculus SDK! This is not something that can be fixed on our end.</strong><br><br><strong>OVRdrop will only work on the OSVR HMD in games that do not force the OSVR SDK! This is not something that can be fixed on our end.</strong><br><br><strong>HTC Vive is so far known to have 100% compatibility when running through SteamVR.</strong> However, some games could possibly break controller interaction. Please check our Compatibility guide on our GitHub for more information.<h2 class=\"bb_tag\">Features</h2><ul class=\"bb_ul\"><li>Can clone almost any Desktop Window into VR.<br></li><li>Can clone an entire monitor into VR.<br></li><li>Can clone WebCam sources into VR.<br></li><li>Side By Side 3D support for displaying Side By Side 3D content into VR.<br></li><li>Works with almost any SteamVR Compatible game. Should work with any game that utilizes the SteamVR SDKs. On the Rift, certain Rift games will use the Oculus SDK even when you use SteamVR. On the Vive and other SteamVR compatible headsets every game should work.<br></li><li>Easily Attach the Overlay to the World, the Screen (like a HUD), or one of the Controllers.<br></li><li>Send Mouse Clicks through to the target application, without leaving VR. (World/Controller attached Overlays only). Allows for Left, Right, and Middle Click as well as ScrollWheel (Horizontal and Vertical wheels).<br></li><li>Move, Rotate, and Scale the Overlay without leaving VR. (World attached Overlays only).<br></li><li>The Overlay can Animate when you look at it, such as changing transparency, scale, or moving out of the way.<br></li><li>Allows configurable Capture FPS.<br></li><li>Allows configurable Crop Region. You can clone just a subset of a window instead of the whole window if desired.<br></li><li>Configurable Outline for the Overlay (can disable if desired) to make the Overlay more visible.<br></li><li>Configurable Quality Settings. Clone a window as is or use Bilinear or Trilinear filtering to smooth edges, increasing perceived quality.<br></li><li>Options to enable display of the Desktop Cursor on the Overlay when it moves over the target application.<br></li><li>Haptic Feedback support!<br></li><li>Save/Load support.</li></ul>",
+            "short_description": "OVRdrop is a Utility Application for SteamVR that can mirror a Desktop Window, an entire Monitor, or a WebCam into a Cross Game SteamVR Overlay.",
+            "supported_languages": "English",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/586210/header.jpg?t=1498086379",
+            "website": "http://www.ovrdrop.com",
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 8/8.1 or Windows 10<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce® GTX 970 / AMD Radeon™ R9 290 equivalent or greater<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 100 MB available space<br></li><li><strong>Additional Notes:</strong> Windows 7 is NOT supported due to technical limitations</li></ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "developers": [
+                "Nicholas Ewalt"
+            ],
+            "publishers": [
+                "Nicholas Ewalt"
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 1499,
+                "final": 1499,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "14,99€"
+            },
+            "packages": [
+                151473
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy OVRdrop",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 151473,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "OVRdrop - 14,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 1499
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "genres": [
+                {
+                    "id": "57",
+                    "description": "Utilities"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/586210/ss_76d2b9c3792e1a64f3b2bb82ec790c8eaeb38f13.600x338.jpg?t=1498086379",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/586210/ss_76d2b9c3792e1a64f3b2bb82ec790c8eaeb38f13.1920x1080.jpg?t=1498086379"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/586210/ss_6df84dfb95599cbdec393fc7d4e2e9ac59edf638.600x338.jpg?t=1498086379",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/586210/ss_6df84dfb95599cbdec393fc7d4e2e9ac59edf638.1920x1080.jpg?t=1498086379"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/586210/ss_5093679030642ebf8223226dd3520ab159aa6514.600x338.jpg?t=1498086379",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/586210/ss_5093679030642ebf8223226dd3520ab159aa6514.1920x1080.jpg?t=1498086379"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/586210/ss_a9770457245898febff411a63dd9b48859346f39.600x338.jpg?t=1498086379",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/586210/ss_a9770457245898febff411a63dd9b48859346f39.1920x1080.jpg?t=1498086379"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/586210/ss_6cd2af915fa635ffaf9f712e3bde9f69285f1a75.600x338.jpg?t=1498086379",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/586210/ss_6cd2af915fa635ffaf9f712e3bde9f69285f1a75.1920x1080.jpg?t=1498086379"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 256682065,
+                    "name": "Trailer 1",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256682065/movie.293x165.jpg?t=1490864536",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256682065/movie480.webm?t=1490864536",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256682065/movie_max.webm?t=1490864536"
+                    },
+                    "highlight": true
+                }
+            ],
+            "recommendations": {
+                "total": 212
+            },
+            "achievements": {
+                "total": 0
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "31 Mar, 2017"
+            },
+            "support_info": {
+                "url": "https://github.com/Hotrian/OVRdrop-Public",
+                "email": "Hotrian@Gmail.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/586210/page_bg_generated_v6b.jpg?t=1498086379",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

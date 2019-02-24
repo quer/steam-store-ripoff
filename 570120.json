@@ -1,0 +1,185 @@
+{
+    "570120": {
+        "success": true,
+        "data": {
+            "type": "dlc",
+            "name": "Zaccaria Pinball - Space Shuttle 2016 Table",
+            "steam_appid": 570120,
+            "required_age": 0,
+            "is_free": false,
+            "controller_support": "full",
+            "detailed_description": "Purchase this DLC disables score limit on this table!<br><br><strong>Space Shuttle 2016</strong><br><br><u>Information:</u><br><ul class=\"bb_ul\"><li>Name: Space Shuttle<br></li><li>Theme: Space Adventure<br></li><li>Production year: 2016<br></li><li>Type: Solid State (SS)</li></ul><br><u>Features:</u><br><ul class=\"bb_ul\"><li>1 playfield<br></li><li>4 flippers<br></li><li>3 pop bumpers<br></li><li>2 eject holes<br></li><li>1 kickback lane<br></li><li>3 ramps<br></li><li>1-bank spot targets (2)<br></li><li>2-bank spot targets (1)<br></li><li>4-bank spot targets (1)<br></li><li>6-bank drop targets (1)</li></ul>",
+            "about_the_game": "Purchase this DLC disables score limit on this table!<br><br><strong>Space Shuttle 2016</strong><br><br><u>Information:</u><br><ul class=\"bb_ul\"><li>Name: Space Shuttle<br></li><li>Theme: Space Adventure<br></li><li>Production year: 2016<br></li><li>Type: Solid State (SS)</li></ul><br><u>Features:</u><br><ul class=\"bb_ul\"><li>1 playfield<br></li><li>4 flippers<br></li><li>3 pop bumpers<br></li><li>2 eject holes<br></li><li>1 kickback lane<br></li><li>3 ramps<br></li><li>1-bank spot targets (2)<br></li><li>2-bank spot targets (1)<br></li><li>4-bank spot targets (1)<br></li><li>6-bank drop targets (1)</li></ul>",
+            "short_description": "Space Shuttle 2016 Table is an space adventure themed pinball table.",
+            "fullgame": {
+                "appid": "444930",
+                "name": "Zaccaria Pinball"
+            },
+            "supported_languages": "English",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/570120/header.jpg?t=1504181637",
+            "website": null,
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 / Windows 8 / Windows 10<br></li><li><strong>Processor:</strong> Dual Core 1.6 GHz or better<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD Graphics 3000 or equivalent<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Sound Card:</strong> Windows compatible sound card</li></ul>"
+            },
+            "mac_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OS X 10.12<br></li><li><strong>Processor:</strong> Dual Core 1.6 GHz or better<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD Graphics 3000 or equivalent<br></li><li><strong>Storage:</strong> 700 MB available space</li></ul>"
+            },
+            "linux_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 14.04 or SteamOS 2.0 (64 bit)<br></li><li><strong>Processor:</strong> Dual Core 1.6 GHz or better<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD Graphics 3000 or equivalent<br></li><li><strong>Storage:</strong> 700 MB available space</li></ul>"
+            },
+            "developers": [
+                "Magic Pixel Kft."
+            ],
+            "publishers": [
+                ""
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 299,
+                "final": 299,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "2,99€"
+            },
+            "packages": [
+                144498
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Zaccaria Pinball - Space Shuttle 2016 Table",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 144498,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Zaccaria Pinball - Space Shuttle 2016 Table - 2,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 299
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": true,
+                "linux": true
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 24,
+                    "description": "Shared/Split Screen"
+                },
+                {
+                    "id": 27,
+                    "description": "Cross-Platform Multiplayer"
+                },
+                {
+                    "id": 21,
+                    "description": "Downloadable Content"
+                },
+                {
+                    "id": 22,
+                    "description": "Steam Achievements"
+                },
+                {
+                    "id": 28,
+                    "description": "Full controller support"
+                },
+                {
+                    "id": 29,
+                    "description": "Steam Trading Cards"
+                },
+                {
+                    "id": 23,
+                    "description": "Steam Cloud"
+                },
+                {
+                    "id": 25,
+                    "description": "Steam Leaderboards"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "4",
+                    "description": "Casual"
+                },
+                {
+                    "id": "37",
+                    "description": "Free to Play"
+                },
+                {
+                    "id": "28",
+                    "description": "Simulation"
+                },
+                {
+                    "id": "18",
+                    "description": "Sports"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/570120/ss_df7678b41b2a50b6f2a011dcabc89c523ac011d1.600x338.jpg?t=1504181637",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/570120/ss_df7678b41b2a50b6f2a011dcabc89c523ac011d1.1920x1080.jpg?t=1504181637"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/570120/ss_bbe47c02caf2e15d15b6974789b88f0eb42e006b.600x338.jpg?t=1504181637",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/570120/ss_bbe47c02caf2e15d15b6974789b88f0eb42e006b.1920x1080.jpg?t=1504181637"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/570120/ss_49e66ae28c7b8d7c2da316e01e3df759ff817295.600x338.jpg?t=1504181637",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/570120/ss_49e66ae28c7b8d7c2da316e01e3df759ff817295.1920x1080.jpg?t=1504181637"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/570120/ss_a75b5e89ac1acee651ce5e06b86bf071588d95f5.600x338.jpg?t=1504181637",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/570120/ss_a75b5e89ac1acee651ce5e06b86bf071588d95f5.1920x1080.jpg?t=1504181637"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/570120/ss_c96ace9894d185b1ff26d53c3140b3d78365162a.600x338.jpg?t=1504181637",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/570120/ss_c96ace9894d185b1ff26d53c3140b3d78365162a.1920x1080.jpg?t=1504181637"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 256682019,
+                    "name": "Zaccaria Pinball - Space Shuttle 2016 Trailer",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256682019/movie.293x165.jpg?t=1504181631",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256682019/movie480.webm?t=1504181631",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256682019/movie_max.webm?t=1504181631"
+                    },
+                    "highlight": true
+                }
+            ],
+            "release_date": {
+                "coming_soon": false,
+                "date": "16 Dec, 2016"
+            },
+            "support_info": {
+                "url": "",
+                "email": "contact.magicpixel2012@gmail.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/570120/page_bg_generated_v6b.jpg?t=1504181637",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

@@ -1,0 +1,235 @@
+{
+    "992480": {
+        "success": true,
+        "data": {
+            "type": "game",
+            "name": "Sudoku3D",
+            "steam_appid": 992480,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "Sudoku puzzle - from easy to hardcore... Fully random generation with a choice of field size and difficulty.<br><ul class=\"bb_ul\"><li>Possibility to choose size from 3x3 to 9x9.<br></li><li>The choice of complexity from 1 to 9 (a certain analogue of the probability of an empty cell from 10% to 90%).<br></li><li>As the level of complexity increases, several solutions appear, but only the one that was originally generated will be true!<br></li><li>Since In this version of Sudoku there is a choice of size, the rule of small composite squares 3x3 as part of a full 9x9 does not actual.</li></ul>",
+            "about_the_game": "Sudoku puzzle - from easy to hardcore... Fully random generation with a choice of field size and difficulty.<br><ul class=\"bb_ul\"><li>Possibility to choose size from 3x3 to 9x9.<br></li><li>The choice of complexity from 1 to 9 (a certain analogue of the probability of an empty cell from 10% to 90%).<br></li><li>As the level of complexity increases, several solutions appear, but only the one that was originally generated will be true!<br></li><li>Since In this version of Sudoku there is a choice of size, the rule of small composite squares 3x3 as part of a full 9x9 does not actual.</li></ul>",
+            "short_description": "Sudoku puzzle - from easy to hardcore... Fully random generation with a choice of field size and difficulty.",
+            "supported_languages": "English, Russian",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/992480/header.jpg?t=1550418661",
+            "website": null,
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 7 64-bit<br></li><li><strong>Processor:</strong> Intel or AMD processor, 2.5 GHz or faster.<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce 470 GTX or AMD Radeon 6870 HD series card or higher<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Storage:</strong> 250 MB available space</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 7/8/10 64-bit<br></li><li><strong>Processor:</strong> Quad-core Intel or AMD processor, 3.0 GHz or faster.<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce 680 GTX or Radeon HD 7970 card or higher<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 350 MB available space</li></ul>"
+            },
+            "mac_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+            },
+            "linux_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+            },
+            "developers": [
+                "Shmurdik"
+            ],
+            "publishers": [
+                "Shmurdik"
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 159,
+                "final": 159,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "1,59€"
+            },
+            "packages": [
+                327126,
+                332888
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Sudoku3D",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 327126,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Sudoku3D - 1,59€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 159
+                        }
+                    ]
+                },
+                {
+                    "name": "subscriptions",
+                    "title": "Buy Sudoku3D Subscription Plan",
+                    "description": "To be billed on a recurring basis.",
+                    "selection_text": "Select a subscription plan",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "true",
+                    "subs": [
+                        {
+                            "packageid": 332888,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "1 Month(s) @ 0,79€/Month",
+                            "option_description": "<p class=\"game_purchase_subscription\">1,59€ at checkout, auto-renewed every 1 month(s) at 0,79€.</p>",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 159
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 22,
+                    "description": "Steam Achievements"
+                },
+                {
+                    "id": 18,
+                    "description": "Partial Controller Support"
+                },
+                {
+                    "id": 23,
+                    "description": "Steam Cloud"
+                },
+                {
+                    "id": 15,
+                    "description": "Stats"
+                },
+                {
+                    "id": 25,
+                    "description": "Steam Leaderboards"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "4",
+                    "description": "Casual"
+                },
+                {
+                    "id": "23",
+                    "description": "Indie"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/992480/ss_f91479d84f165f10cfbc35b86a00a077fe2105cd.600x338.jpg?t=1550418661",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/992480/ss_f91479d84f165f10cfbc35b86a00a077fe2105cd.1920x1080.jpg?t=1550418661"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/992480/ss_946251c47da5837dedfdaa55d34f6e6d5e7acffb.600x338.jpg?t=1550418661",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/992480/ss_946251c47da5837dedfdaa55d34f6e6d5e7acffb.1920x1080.jpg?t=1550418661"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/992480/ss_7d06e5fa50f92644afbcdbe7810905a9bf24c2ce.600x338.jpg?t=1550418661",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/992480/ss_7d06e5fa50f92644afbcdbe7810905a9bf24c2ce.1920x1080.jpg?t=1550418661"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/992480/ss_95c6e23b670967261f12f3cfe237d59c884542f8.600x338.jpg?t=1550418661",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/992480/ss_95c6e23b670967261f12f3cfe237d59c884542f8.1920x1080.jpg?t=1550418661"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/992480/ss_1d8dcd30b245da5cc3a6aa9ec39c5875d8319966.600x338.jpg?t=1550418661",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/992480/ss_1d8dcd30b245da5cc3a6aa9ec39c5875d8319966.1920x1080.jpg?t=1550418661"
+                },
+                {
+                    "id": 5,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/992480/ss_403643dd29386e474c9eefbfec3b2a2fd9b9fb82.600x338.jpg?t=1550418661",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/992480/ss_403643dd29386e474c9eefbfec3b2a2fd9b9fb82.1920x1080.jpg?t=1550418661"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 256737203,
+                    "name": "Gameplay",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256737203/movie.293x165.jpg?t=1543924542",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256737203/movie480.webm?t=1543924542",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256737203/movie_max.webm?t=1543924542"
+                    },
+                    "highlight": true
+                }
+            ],
+            "achievements": {
+                "total": 23,
+                "highlighted": [
+                    {
+                        "name": "It was easy",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/992480/87be1940ca94317db6a0ba170768a074a43703f6.jpg"
+                    },
+                    {
+                        "name": "3x3x10",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/992480/f4fe0b4b43daf8cec75be31c51373752004c3709.jpg"
+                    },
+                    {
+                        "name": "Zzz",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/992480/b3f3a693fce97888dd196dfef3bcb87ef7d9aa9b.jpg"
+                    },
+                    {
+                        "name": "3x3x1",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/992480/738e4860d150fdb613c8090502d25093d7def7b7.jpg"
+                    },
+                    {
+                        "name": "4x4x1",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/992480/647808f5256f98c269fb4018f5026af7fe773ee3.jpg"
+                    },
+                    {
+                        "name": "5x5x1",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/992480/d563540e276afe398a603b99ae5713e50245bc1e.jpg"
+                    },
+                    {
+                        "name": "6x6x1",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/992480/63c25e0609756d81ac7236b1e800f0a021c1d31a.jpg"
+                    },
+                    {
+                        "name": "7x7x1",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/992480/22544c8a58e3893f97ad2f0877c2f99d378b9563.jpg"
+                    },
+                    {
+                        "name": "8x8x1",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/992480/d92c29fb513d7b2657a4ca1f43e752b3875d89bf.jpg"
+                    },
+                    {
+                        "name": "9x9x1",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/992480/eebcd4a8691795f3d4f86a5d0d68807844f845ae.jpg"
+                    }
+                ]
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "23 Dec, 2018"
+            },
+            "support_info": {
+                "url": "https://t.me/Shmurdik",
+                "email": ""
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/992480/page_bg_generated_v6b.jpg?t=1550418661",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

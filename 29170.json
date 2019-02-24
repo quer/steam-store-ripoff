@@ -1,0 +1,65 @@
+{
+    "29170": {
+        "success": true,
+        "data": {
+            "type": "demo",
+            "name": "Blueberry Garden Demo",
+            "steam_appid": 29170,
+            "required_age": 0,
+            "is_free": true,
+            "detailed_description": "",
+            "about_the_game": "",
+            "short_description": "",
+            "fullgame": {
+                "appid": "29160",
+                "name": "Blueberry Garden"
+            },
+            "supported_languages": "English",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/29170/header.jpg?t=1447352242",
+            "website": "http://www.eriksvedang.com/blueberrygarden",
+            "pc_requirements": {
+                "minimum": "<ul>\n\t\t\t\t\t<li><strong>Operating System: </strong>Microsoft® Windows® XP / Vista</li>\n\t\t\t\t\t<li><strong>Processor: </strong>2.0 GHz Dual Core</li>\n\t\t\t\t\t<li><strong>Memory: </strong>1 GB RAM</li>\n\t\t\t\t\t<li><strong>Hard Disk Space: </strong>40 MB</li>\n\t\t\t\t\t<li><strong>Video Card: </strong>NVIDIA® GeForce™ or better, DirectX® 9.0c compatible video card, Shader Model 3.0 required. Video card must have 256 MB</li>\n\t\t\t\t\t<li><strong>Sound Card: </strong>DirectX® 9.0c compatible sound card</li>\n\t\t\t\t\t<li><strong>Additional Requirements: </strong>NET 2.0 Framework, XNA 3.0 support</li>\n\t\t\t\t\t<li><strong>DirectX® Version: </strong>DirectX® 9.0c</li>\n\t\t\t\t\t</ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "developers": [
+                "Erik Svedäng"
+            ],
+            "publishers": [
+                "Erik Svedäng"
+            ],
+            "package_groups": [],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "metacritic": {
+                "score": 68
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 10,
+                    "description": "Game demo"
+                }
+            ],
+            "release_date": {
+                "coming_soon": false,
+                "date": "10 Jun, 2009"
+            },
+            "support_info": {
+                "url": "",
+                "email": ""
+            },
+            "background": "",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

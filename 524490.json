@@ -1,0 +1,161 @@
+{
+    "524490": {
+        "success": true,
+        "data": {
+            "type": "game",
+            "name": "Shadron",
+            "steam_appid": 524490,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "Shadron is a procedural graphics editor based on GLSL shaders. Using a simple scripting language, you can define images, animations, 2D or 3D models, cubemaps, particle systems, and even audio. Describe how they are generated with shader code. You can load image files or use intermediate outputs as textures and alter them in any way you can imagine. A library of functions that are commonly used in procedural graphics is readily available for use in your scripts.<br><br><ul class=\"bb_ul\"><li> Includes 17 commented example scripts for your inspiration</li></ul><br>This version requires Steam to run in the background. If that is an issue, you can buy the standalone version from the official website.<br><br><strong>Warning</strong>: Basic programming skills required!<br><br>Please watch the introduction tutorial to see if this program is for you. There will be more tutorials coming soon.<br><br>Shadron is a very versatile tool with many applications. What can you do with it?<br><br><ul class=\"bb_ul\"><li> <strong>Create game assets.</strong> Create natural-looking seamlessly-tiled procedurally-generated textures using the bundled gradient noise functions. Generate 3D heightmap terrain. Create environment maps (cubemaps). Design and test materials with many different texture channels.<br></li><li> <strong>Perform trivial image modifications.</strong> Sometimes, it can be much easier than using conventional image editors, especially when applying the same modification on multiple images.<br></li><li> <strong>Create simple icons or animations.</strong> They will be mathematically precise, and for certain types of animations, some form of procedural generation is essential. Spinning loading progress animation included as an example.<br></li><li> <strong>Create videos.</strong> All of the demos in the trailer were created only using Shadron, including the intro. You can have text, 3D perspective, particles, raytracing - anything, as long as you're able to write it in code. 4K resolution at 60 FPS is not a problem for Shadron.<br></li><li> <strong>Design shaders or learn how to write them.</strong> Preview how they're going to look and see the changes as you type. No need to worry about setting up the rest of OpenGL.<br></li><li> <strong>Play around with shaders.</strong> The possibilities of shaders are endless. Just experiment, be creative, and you might even surprise yourself.</li></ul>There are probably many other uses I didn't even think of.",
+            "about_the_game": "Shadron is a procedural graphics editor based on GLSL shaders. Using a simple scripting language, you can define images, animations, 2D or 3D models, cubemaps, particle systems, and even audio. Describe how they are generated with shader code. You can load image files or use intermediate outputs as textures and alter them in any way you can imagine. A library of functions that are commonly used in procedural graphics is readily available for use in your scripts.<br><br><ul class=\"bb_ul\"><li> Includes 17 commented example scripts for your inspiration</li></ul><br>This version requires Steam to run in the background. If that is an issue, you can buy the standalone version from the official website.<br><br><strong>Warning</strong>: Basic programming skills required!<br><br>Please watch the introduction tutorial to see if this program is for you. There will be more tutorials coming soon.<br><br>Shadron is a very versatile tool with many applications. What can you do with it?<br><br><ul class=\"bb_ul\"><li> <strong>Create game assets.</strong> Create natural-looking seamlessly-tiled procedurally-generated textures using the bundled gradient noise functions. Generate 3D heightmap terrain. Create environment maps (cubemaps). Design and test materials with many different texture channels.<br></li><li> <strong>Perform trivial image modifications.</strong> Sometimes, it can be much easier than using conventional image editors, especially when applying the same modification on multiple images.<br></li><li> <strong>Create simple icons or animations.</strong> They will be mathematically precise, and for certain types of animations, some form of procedural generation is essential. Spinning loading progress animation included as an example.<br></li><li> <strong>Create videos.</strong> All of the demos in the trailer were created only using Shadron, including the intro. You can have text, 3D perspective, particles, raytracing - anything, as long as you're able to write it in code. 4K resolution at 60 FPS is not a problem for Shadron.<br></li><li> <strong>Design shaders or learn how to write them.</strong> Preview how they're going to look and see the changes as you type. No need to worry about setting up the rest of OpenGL.<br></li><li> <strong>Play around with shaders.</strong> The possibilities of shaders are endless. Just experiment, be creative, and you might even surprise yourself.</li></ul>There are probably many other uses I didn't even think of.",
+            "short_description": "Shadron is the ultimate graphics editor for programmers. Create images, animations, 3D models, particle systems and more with a simple scripting language based on GLSL shaders. See the output of your scripts in real time and tweak your creations using adjustable parameters.",
+            "supported_languages": "English",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/524490/header.jpg?t=1541368501",
+            "website": "https://www.arteryengine.com/shadron/",
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 or later<br></li><li><strong>Processor:</strong> Any<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> Any GPU compatible with OpenGL 3 / 4<br></li><li><strong>Storage:</strong> 32 MB available space</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 / 8.1 / 10<br></li><li><strong>Processor:</strong> Intel i5 / i7<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GTX 400 series or later / AMD Radeon 6000 series or later</li></ul>"
+            },
+            "mac_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> macOS 10.8 or later<br></li><li><strong>Processor:</strong> Any<br></li><li><strong>Graphics:</strong> Any GPU compatible with OpenGL 3 / 4<br></li><li><strong>Storage:</strong> 32 MB available space</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> macOS 10.12 or later<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GTX 400 series or later</li></ul>"
+            },
+            "linux_requirements": [],
+            "developers": [
+                "Viktor Chlumský"
+            ],
+            "publishers": [
+                "Viktor Chlumský"
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 1499,
+                "final": 1499,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "14,99€"
+            },
+            "packages": [
+                125037
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Shadron",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 125037,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Shadron - 14,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 1499
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": true,
+                "linux": false
+            },
+            "genres": [
+                {
+                    "id": "51",
+                    "description": "Animation & Modeling"
+                },
+                {
+                    "id": "53",
+                    "description": "Design & Illustration"
+                },
+                {
+                    "id": "57",
+                    "description": "Utilities"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/524490/ss_41d4c5f78cf568e659e32495d4045e135e8b2e25.600x338.jpg?t=1541368501",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/524490/ss_41d4c5f78cf568e659e32495d4045e135e8b2e25.1920x1080.jpg?t=1541368501"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/524490/ss_54859de47395f9d45274c1df9cb78c52df3d1bb1.600x338.jpg?t=1541368501",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/524490/ss_54859de47395f9d45274c1df9cb78c52df3d1bb1.1920x1080.jpg?t=1541368501"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/524490/ss_a4b74451e92a265a722c5a1bde9357b6b90dc53d.600x338.jpg?t=1541368501",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/524490/ss_a4b74451e92a265a722c5a1bde9357b6b90dc53d.1920x1080.jpg?t=1541368501"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/524490/ss_3fa1f8903b05947eb991ca5f0d065e228fc21882.600x338.jpg?t=1541368501",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/524490/ss_3fa1f8903b05947eb991ca5f0d065e228fc21882.1920x1080.jpg?t=1541368501"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/524490/ss_b39a8d6e7c148e8929d03f220bf39269f3331cf7.600x338.jpg?t=1541368501",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/524490/ss_b39a8d6e7c148e8929d03f220bf39269f3331cf7.1920x1080.jpg?t=1541368501"
+                },
+                {
+                    "id": 5,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/524490/ss_3f93856ecf2632569084bd66692511ad2c10493f.600x338.jpg?t=1541368501",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/524490/ss_3f93856ecf2632569084bd66692511ad2c10493f.1920x1080.jpg?t=1541368501"
+                },
+                {
+                    "id": 6,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/524490/ss_afd4114edd8124f32e93014adf0e994197bf02dd.600x338.jpg?t=1541368501",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/524490/ss_afd4114edd8124f32e93014adf0e994197bf02dd.1920x1080.jpg?t=1541368501"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 256669932,
+                    "name": "Greenlight Trailer",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256669932/movie.293x165.jpg?t=1473082717",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256669932/movie480.webm?t=1473082717",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256669932/movie_max.webm?t=1473082717"
+                    },
+                    "highlight": true
+                },
+                {
+                    "id": 256669935,
+                    "name": "Introduction Tutorial",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256669935/movie.293x165.jpg?t=1473082842",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256669935/movie480.webm?t=1473082842",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256669935/movie_max.webm?t=1473082842"
+                    },
+                    "highlight": true
+                }
+            ],
+            "achievements": {
+                "total": 0
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "5 Sep, 2016"
+            },
+            "support_info": {
+                "url": "",
+                "email": "chlumsky@arteryengine.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/524490/page_bg_generated_v6b.jpg?t=1541368501",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

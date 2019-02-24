@@ -1,0 +1,156 @@
+{
+    "876400": {
+        "success": true,
+        "data": {
+            "type": "dlc",
+            "name": "MY FIGHT - EeOneGuy",
+            "steam_appid": 876400,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "You can open a new game character in the game My Fight - Ivangya, having bought this set of DLC.<br />\r\nThe character will be immediately available after purchase.",
+            "about_the_game": "You can open a new game character in the game My Fight - Ivangya, having bought this set of DLC.<br />\r\nThe character will be immediately available after purchase.",
+            "short_description": "You can open a new game character in the game My Fight - Ivangya, having bought this set of DLC. The character will be immediately available after purchase.",
+            "fullgame": {
+                "appid": "526290",
+                "name": "MY FIGHT"
+            },
+            "supported_languages": "Russian<strong>*</strong>, English<br><strong>*</strong>languages with full audio support",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/876400/header.jpg?t=1528206395",
+            "website": null,
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows Vista, Windows 7, Windows 8<br></li><li><strong>Processor:</strong> Intel Core Duo, 2.4 GHz / AMD Athlon X2, 2.8 GHz<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce 8800 GTS / AMD Radeon 3850<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 50 MB available space</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows Vista, Windows 7, Windows 8<br></li><li><strong>Processor:</strong> Intel Core i5 750, 2.67 GHz / AMD Phenom II X4 965, 3.4 GHz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 560 / AMD Radeon HD 6950<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 50 MB available space</li></ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "developers": [
+                "TrisPix Studio"
+            ],
+            "publishers": [
+                "TrisPix Studio"
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 79,
+                "final": 51,
+                "discount_percent": 35,
+                "initial_formatted": "0,79€",
+                "final_formatted": "0,51€"
+            },
+            "packages": [
+                277482
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy MY FIGHT - EeOneGuy",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 277482,
+                            "percent_savings_text": "-35%",
+                            "percent_savings": 0,
+                            "option_text": "MY FIGHT - EeOneGuy - <span class=\"discount_original_price\">0,79€</span> 0,51€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 51
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 36,
+                    "description": "Online Multi-Player"
+                },
+                {
+                    "id": 37,
+                    "description": "Local Multi-Player"
+                },
+                {
+                    "id": 24,
+                    "description": "Shared/Split Screen"
+                },
+                {
+                    "id": 21,
+                    "description": "Downloadable Content"
+                },
+                {
+                    "id": 22,
+                    "description": "Steam Achievements"
+                },
+                {
+                    "id": 29,
+                    "description": "Steam Trading Cards"
+                },
+                {
+                    "id": 35,
+                    "description": "In-App Purchases"
+                },
+                {
+                    "id": 23,
+                    "description": "Steam Cloud"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "1",
+                    "description": "Action"
+                },
+                {
+                    "id": "23",
+                    "description": "Indie"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/876400/ss_7997c3ee25f80f62750eeab708a1d4e6cf09bc20.600x338.jpg?t=1528206395",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/876400/ss_7997c3ee25f80f62750eeab708a1d4e6cf09bc20.1920x1080.jpg?t=1528206395"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/876400/ss_ae1b6d37d5364131d93ca28c7139c9a3f88e7174.600x338.jpg?t=1528206395",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/876400/ss_ae1b6d37d5364131d93ca28c7139c9a3f88e7174.1920x1080.jpg?t=1528206395"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/876400/ss_4dfe88d3bdaffe427244b533db65031958ad3998.600x338.jpg?t=1528206395",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/876400/ss_4dfe88d3bdaffe427244b533db65031958ad3998.1920x1080.jpg?t=1528206395"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/876400/ss_ede5d8a09ab0affbad64b4c8758320f876614b74.600x338.jpg?t=1528206395",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/876400/ss_ede5d8a09ab0affbad64b4c8758320f876614b74.1920x1080.jpg?t=1528206395"
+                }
+            ],
+            "release_date": {
+                "coming_soon": false,
+                "date": "5 Jun, 2018"
+            },
+            "support_info": {
+                "url": "",
+                "email": "trispixstudio@gmail.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/876400/page_bg_generated_v6b.jpg?t=1528206395",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

@@ -1,0 +1,153 @@
+{
+    "1005350": {
+        "success": true,
+        "data": {
+            "type": "dlc",
+            "name": "Plunder - Donation",
+            "steam_appid": 1005350,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "This DLC has no content and is just for donations. We want to make upgrades to this game, but we also need to keep our jobs. Donations allow us to prioritize the game and making new content. <br />\r\n<br />\r\nIf you donate and would like a little boost, please email us and we will add 1000 coins to your account, or the account of your choice. For example, you can donate here, and request to give the coins to a streamer in order to help them quickly unlock some more levels.<br />\r\n<br />\r\nWe plan to move this functionality to In-App Purchases, but that is not currently a priority.",
+            "about_the_game": "This DLC has no content and is just for donations. We want to make upgrades to this game, but we also need to keep our jobs. Donations allow us to prioritize the game and making new content. <br />\r\n<br />\r\nIf you donate and would like a little boost, please email us and we will add 1000 coins to your account, or the account of your choice. For example, you can donate here, and request to give the coins to a streamer in order to help them quickly unlock some more levels.<br />\r\n<br />\r\nWe plan to move this functionality to In-App Purchases, but that is not currently a priority.",
+            "short_description": "This DLC has no content and is just for donations. We want to make upgrades to this game, but we also need to keep our jobs. Donations allow us to prioritize the game and making new content. If you donate and would like a little boost, please email us at grambogames@outlook.",
+            "fullgame": {
+                "appid": "964960",
+                "name": "Plunder"
+            },
+            "supported_languages": "English",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1005350/header.jpg?t=1547679755",
+            "website": null,
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 SP1 or newer.<br></li><li><strong>Processor:</strong> Intel Core i5 4590 or AMD FX 8350 or greater.<br></li><li><strong>Memory:</strong> 4 MB RAM<br></li><li><strong>Graphics:</strong> GeForce GTX 970 or AMD Radeon R9 290 or better.</li></ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "developers": [
+                "Scott Grambo",
+                "Ross Grambo"
+            ],
+            "publishers": [
+                "Grambo Games L.L.P"
+            ],
+            "price_overview": {
+                "currency": "USD",
+                "initial": 499,
+                "final": 499,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "$4.99"
+            },
+            "packages": [
+                332444
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Plunder - Donation",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 332444,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Plunder - Donation - $4.99",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 499
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 21,
+                    "description": "Downloadable Content"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "1",
+                    "description": "Action"
+                },
+                {
+                    "id": "4",
+                    "description": "Casual"
+                },
+                {
+                    "id": "37",
+                    "description": "Free to Play"
+                },
+                {
+                    "id": "23",
+                    "description": "Indie"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1005350/ss_752b0983cedec0760367297386753940d6fc5e62.600x338.jpg?t=1547679755",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1005350/ss_752b0983cedec0760367297386753940d6fc5e62.1920x1080.jpg?t=1547679755"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1005350/ss_f9eea01404c01775157f8042e3bedc988a051dc8.600x338.jpg?t=1547679755",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1005350/ss_f9eea01404c01775157f8042e3bedc988a051dc8.1920x1080.jpg?t=1547679755"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1005350/ss_1ea94d219ca50eb4af483d376d3934fcfadbe7c4.600x338.jpg?t=1547679755",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1005350/ss_1ea94d219ca50eb4af483d376d3934fcfadbe7c4.1920x1080.jpg?t=1547679755"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1005350/ss_7148358e0b0c8fd1758750044a35a7b1bd0f94fe.600x338.jpg?t=1547679755",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1005350/ss_7148358e0b0c8fd1758750044a35a7b1bd0f94fe.1920x1080.jpg?t=1547679755"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1005350/ss_c8b06c40c2ef30cd706bee67e35516304fbacd5a.600x338.jpg?t=1547679755",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1005350/ss_c8b06c40c2ef30cd706bee67e35516304fbacd5a.1920x1080.jpg?t=1547679755"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 256739032,
+                    "name": "Main",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256739032/movie.293x165.jpg?t=1547679743",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256739032/movie480.webm?t=1547679743",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256739032/movie_max.webm?t=1547679743"
+                    },
+                    "highlight": true
+                }
+            ],
+            "release_date": {
+                "coming_soon": false,
+                "date": "Jan 16, 2019"
+            },
+            "support_info": {
+                "url": "https://grambogames.com",
+                "email": "grambogames@outlook.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1005350/page_bg_generated_v6b.jpg?t=1547679755",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

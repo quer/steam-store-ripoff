@@ -1,0 +1,132 @@
+{
+    "629791": {
+        "success": true,
+        "data": {
+            "type": "dlc",
+            "name": "EVE Online: 240 PLEX",
+            "steam_appid": 629791,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "<h1>Steam Created Accounts Only</h1><p><h2 class=\"bb_tag\">This content can only be accessed with EVE Online accounts created through Steam. Existing EVE Online accounts not created through Steam cannot benefit from it.</h2></p><br><h1>About the Game</h1>PLEX is an item that can be traded between players on the regional market. PLEX can also be used in the New Eden Store to upgrade your account to Omega Clone state, purchase virtual goods, and activate other account services. <br><br>To use PLEX in the New Eden Store, PLEX must be placed in your PLEX Vault. The PLEX Vault is a secure location in your inventory, shared across all characters on your account, where PLEX can be placed for use in the New Eden Store. You can find the PLEX Vault in your inventory in the list of locations to the left of the window.",
+            "about_the_game": "PLEX is an item that can be traded between players on the regional market. PLEX can also be used in the New Eden Store to upgrade your account to Omega Clone state, purchase virtual goods, and activate other account services. <br />\r\n<br />\r\nTo use PLEX in the New Eden Store, PLEX must be placed in your PLEX Vault. The PLEX Vault is a secure location in your inventory, shared across all characters on your account, where PLEX can be placed for use in the New Eden Store. You can find the PLEX Vault in your inventory in the list of locations to the left of the window.",
+            "short_description": "PLEX is an in-game item that can be purchased here or on the regional EVE Online market for ISK. It can be used in the New Eden Store to purchase Omega Clone State game time, virtual goods and account services such as Multiple Character Training.",
+            "fullgame": {
+                "appid": "8500",
+                "name": "EVE Online"
+            },
+            "supported_languages": "English<strong>*</strong>, German, Russian, French, Japanese<br><strong>*</strong>languages with full audio support",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/629791/header.jpg?t=1550573929",
+            "website": "http://www.eveonline.com",
+            "pc_requirements": {
+                "minimum": "<strong>Minimum: </strong><br>\t\t\t\t\t<ul class=\"bb_ul\"><li><strong>Supported OS:</strong> Windows 7 / 8.1 / 10<br>\t\t\t\t\t</li><li><strong>Processor:</strong> CPU that supports SSE2 (Intel Dual Core @ 2.0 GHz, AMD Dual Core @ 2.0 GHz)<br>\t\t\t\t\t</li><li><strong>Memory:</strong> 2 GB<br>\t\t\t\t\t</li><li><strong>Hard Drive:</strong> 20 GB Free Space  <br>\t\t\t\t\t</li><li><strong>Video:</strong> GPU with 256 MB VRAM or more that supports Shader Model 3 and DirectX 9.0c (AMD Radeon 2600 XT or NVIDIA GeForce 8600 GTS)<br>\t\t\t\t\t</li><li><strong>Audio:</strong> Supports SSE, Direct Sound compatible<br>\t\t\t\t\t</li><li><strong>Drivers:</strong> DirectX® 9.0c (included) and latest video drivers<br>\t\t\t\t\t</li><li><strong>Network:</strong> ADSL connection (or faster)<br>\t\t\t\t\t</li><li>Note that older graphics cards such as the NVIDIA 6000 and 7000 series may work but are not officially supported. Please note that Windows 95, 98, ME, NT, 2000, XP and Vista are not supported.<br>\t\t\t\t\t</li><li>Note: the minimum screen resolution for EVE is 1024x768. Audio hardware must be Direct Sound compatible. For optimum performance, use latest drivers available.</li></ul>",
+                "recommended": "<strong>Recommended: </strong><br>\t\t\t\t\t<ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 / 8.1 / 10<br>\t\t\t\t\t</li><li><strong>Processor:</strong> Intel Pentium i7 Series or AMD X4 @ 2.0 GHz or greater<br>\t\t\t\t\t</li><li><strong>Memory:</strong> 4 GB or greater<br>\t\t\t\t\t</li><li><strong>Hard Drive:</strong> 20 GB free space <br>\t\t\t\t\t</li><li><strong>Video:</strong> AMD Radeon 6790 or NVIDIA GeForce GTX 560 or better with at least 1 GB VRAM<br>\t\t\t\t\t</li><li><strong>Audio:</strong> Supports SSE, Direct Sound compatible<br>\t\t\t\t\t</li><li><strong>Drivers:</strong> DirectX® 11 (included) and latest video drivers<br>\t\t\t\t\t</li><li><strong>Network:</strong> ADSL connection or faster</li></ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "developers": [
+                "CCP"
+            ],
+            "publishers": [
+                "CCP"
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 999,
+                "final": 999,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "9,99€"
+            },
+            "packages": [
+                171249
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy EVE Online: 240 PLEX",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 171249,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "EVE Online: 240 PLEX - 9,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 999
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": true,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 1,
+                    "description": "Multi-player"
+                },
+                {
+                    "id": 36,
+                    "description": "Online Multi-Player"
+                },
+                {
+                    "id": 20,
+                    "description": "MMO"
+                },
+                {
+                    "id": 21,
+                    "description": "Downloadable Content"
+                },
+                {
+                    "id": 29,
+                    "description": "Steam Trading Cards"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "37",
+                    "description": "Free to Play"
+                },
+                {
+                    "id": "29",
+                    "description": "Massively Multiplayer"
+                },
+                {
+                    "id": "3",
+                    "description": "RPG"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/629791/ss_b7337dfb211b76d8f624ac053a60b8a794aa8742.600x338.jpg?t=1550573929",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/629791/ss_b7337dfb211b76d8f624ac053a60b8a794aa8742.1920x1080.jpg?t=1550573929"
+                }
+            ],
+            "achievements": {
+                "total": 0
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "9 May, 2017"
+            },
+            "support_info": {
+                "url": "http://support.eveonline.com",
+                "email": "support@eveonline.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/629791/page_bg_generated_v6b.jpg?t=1550573929",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

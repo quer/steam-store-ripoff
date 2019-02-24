@@ -1,0 +1,97 @@
+{
+    "530426": {
+        "success": true,
+        "data": {
+            "type": "episode",
+            "name": "Battle Disc: Escape from the Lost Space!",
+            "steam_appid": 530426,
+            "required_age": 0,
+            "is_free": false,
+            "controller_support": "full",
+            "detailed_description": "",
+            "about_the_game": "",
+            "short_description": "Ken and Blaze were unable to escape through the checkpoint before the Reborn Fire started to cleanse the Fire Land. Miraculously, The Fire Sparrow beast disc transported them into a mysterious space. Will our heroes be imprisoned in this land forever?",
+            "fullgame": {
+                "appid": "530400",
+                "name": "Battle Disc"
+            },
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/530426/header.jpg?t=1476465533",
+            "website": null,
+            "pc_requirements": [],
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "publishers": [
+                ""
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 99,
+                "final": 99,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "0,99€"
+            },
+            "packages": [
+                127660
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Battle Disc: Escape from the Lost Space!",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 127660,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Battle Disc: Escape from the Lost Space! - 0,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 99
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 28,
+                    "description": "Full controller support"
+                },
+                {
+                    "id": 33,
+                    "description": "Native Steam Controller Support"
+                },
+                {
+                    "id": 13,
+                    "description": "Captions available"
+                }
+            ],
+            "achievements": {
+                "total": 0
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "14 Oct, 2016"
+            },
+            "support_info": {
+                "url": "",
+                "email": ""
+            },
+            "background": "",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

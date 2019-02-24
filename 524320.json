@@ -1,0 +1,143 @@
+{
+    "524320": {
+        "success": true,
+        "data": {
+            "type": "dlc",
+            "name": "Krimson Ermac",
+            "steam_appid": 524320,
+            "required_age": "18",
+            "is_free": false,
+            "controller_support": "full",
+            "detailed_description": "Play as Krimson Ermac. A portion of Krimson Ermac proceeds will go towards funding Mortal Kombat X Tournament Prize Pools.",
+            "about_the_game": "Play as Krimson Ermac. A portion of Krimson Ermac proceeds will go towards funding Mortal Kombat X Tournament Prize Pools.",
+            "short_description": "Play as Krimson Ermac. A portion of Krimson Ermac proceeds will go towards funding Mortal Kombat X Tournament Prize Pools.",
+            "fullgame": {
+                "appid": "307780",
+                "name": "Mortal Kombat X"
+            },
+            "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, Spanish - Spain<strong>*</strong>, Polish, Portuguese - Brazil<strong>*</strong>, Russian, German<strong>*</strong><br><strong>*</strong>languages with full audio support",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/524320/header.jpg?t=1547832690",
+            "website": "http://www.mortalkombat.com",
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 64-bit: Vista, Win 7, Win 8, Win 10<br></li><li><strong>Processor:</strong> Intel Core i5-750, 2.67 GHz | AMD Phenom II X4 965, 3.4 GHz<br></li><li><strong>Memory:</strong> 3 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 460 | AMD Radeon HD 5850<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 36 GB available space</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 64-bit: Win 7, Win 8, Win 10<br></li><li><strong>Processor:</strong> Intel Core i7-3770, 3.4 GHz | AMD FX-8350, 4.0 GHz<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 660 | AMD Radeon HD 7950<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 44 GB available space</li></ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "legal_notice": "MORTAL KOMBAT XL software © 2016 Warner Bros. Entertainment Inc. Developed by NetherRealm Studios. ALIEN and PREDATOR ™ & © 2016 Twentieth Century Fox Film Corporation. All rights reserved. JASON VOORHEES and all related elements are trademarks of and © New Line Productions, Inc.  The Texas Chainsaw Massacre © 1974 VORTEX, INC. /KIM HENKEL/TOBE HOOPER Leatherface™ and The Texas Chainsaw Massacre™ are trademarks of VORTEX, INC./KIM HENKEL/TOBE HOOPER. All Rights Reserved. All other trademarks and copyrights are the property of their respective owners.  All rights reserved.<br />\r\n<br />\r\nWB GAMES LOGO, WB SHIELD, NETHERREALM STUDIOS LOGO, MORTAL KOMBAT, THE DRAGON LOGO, and all related characters and elements are trademarks of and © Warner Bros. Entertainment Inc. <br />\r\n(s16)",
+            "developers": [
+                "NetherRealm Studios",
+                "High Voltage Software",
+                "QLOC"
+            ],
+            "publishers": [
+                ""
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 199,
+                "final": 199,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "1,99€"
+            },
+            "packages": [
+                124983
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Krimson Ermac",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 124983,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Krimson Ermac - 1,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 199
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 1,
+                    "description": "Multi-player"
+                },
+                {
+                    "id": 21,
+                    "description": "Downloadable Content"
+                },
+                {
+                    "id": 22,
+                    "description": "Steam Achievements"
+                },
+                {
+                    "id": 28,
+                    "description": "Full controller support"
+                },
+                {
+                    "id": 29,
+                    "description": "Steam Trading Cards"
+                },
+                {
+                    "id": 23,
+                    "description": "Steam Cloud"
+                },
+                {
+                    "id": 25,
+                    "description": "Steam Leaderboards"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "1",
+                    "description": "Action"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/524320/ss_d4baafec18897fccd8eb8d1f73f74cb3a9a94626.600x338.jpg?t=1547832690",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/524320/ss_d4baafec18897fccd8eb8d1f73f74cb3a9a94626.1920x1080.jpg?t=1547832690"
+                }
+            ],
+            "achievements": {
+                "total": 0
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "4 Oct, 2016"
+            },
+            "support_info": {
+                "url": "http://support.wbgames.com",
+                "email": "support@wbgames.com or Wbgames.intsupport@warnerbros.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/524320/page_bg_generated_v6b.jpg?t=1547832690",
+            "content_descriptors": {
+                "ids": [
+                    2,
+                    5
+                ],
+                "notes": null
+            }
+        }
+    }
+}

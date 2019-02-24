@@ -1,0 +1,111 @@
+{
+    "918170": {
+        "success": true,
+        "data": {
+            "type": "game",
+            "name": "Curiosity",
+            "steam_appid": 918170,
+            "required_age": 0,
+            "is_free": true,
+            "detailed_description": "A simple world where the player is able to change things that are not supposed to be changed. Welcome to Curiosity, the game where you can hack. Try out different hacks, get creative, entertain yourself! And hey, maybe you'll find a secret or two along the way!<br><br>This is an infinite platformer with horizontal player movement. When the game is started, two tabs open: one with the platformer itself, and one that appears to be a command prompt. A narrator starts speaking, and quickly notes that the platformer seems to be dull and uninteresting. He then tutorials the player on how to &quot;hack&quot;. &quot;Hacking&quot; gives the ability to change important variables in the code and to enable things that affect the environment.<br><br>As the narrator will explain, to &quot;hack&quot;, the player must press the &quot;h&quot; key while the platformer tab is selected. The platformer will then freeze as it waits for input from the hacking tab (the one that looks like a command prompt). The player then must switch to the command prompt, type in a &quot;hack&quot;, and press enter. They will then be prompted to enter an integer (numbers), string (words), or boolean (true/false) to complete the hack. After completing the hack, the player can go back to the platformer to see what changed.<br><br>Here's an example of what happens in the hacking tab with a player doubling their speed:<br>-------------------<br>Enter Hack: <strong>speed</strong><br>-------------------<br>Speed Hack:<br>-------------------<br>Variable Type: Integer<br>Default State: 6<br>Current State: 6<br>-------------------<br>Enter new speed: <strong>12</strong><br>Hack Successful!<br>-------------------<br>Hacking process complete<br>Go back to the game<br>-------------------<br><br>The game encourages using trial and error to see what each hack does (and using the hack &quot;list&quot; to see which hacks exist), but here's what they do if you don't want to test them out for yourself:<br><br>&quot;ascend&quot; - Enter a boolean. When enabled, platforms rise into the sky whenever the player steps on them.<br>&quot;birdNumber&quot; - Enter an integer. Affects the maximum amount of birds the player can spawn.<br>&quot;birdPoop&quot; - Enter a boolean. When enabled, birds will occasionally drop bird poop.<br>&quot;birdPoopRate&quot; - Enter an integer. Affects the rate at which birds can drop poop (&quot;birdPoop&quot; must be enabled to see this change).<br>&quot;birdSpeed&quot; - Enter an integer. Affects the speed at which the birds fly.<br>&quot;blackhole&quot; - Enter a boolean. Enables a blackhole that sucks in all sprites and the player's mouse. The game warns you to have caution, since it will take control of your mouse while this hack is enabled.<br>&quot;clearScreen&quot; - Enter a boolean. When enabled, the command prompt is cleared.<br>&quot;clone&quot; - Enter a boolean. When enabled, clones of the player can be created by pressing the space bar.<br>&quot;color&quot; - Enter three integers, as instructed. Affects the background color of the sky.<br>&quot;deathTouch&quot; - Enter a boolean. When enabled, the player destroys whatever they touch.<br>&quot;fly&quot; - Enter a boolean. When enabled, the player can fly.<br>&quot;gravity&quot; - Enter an integer. Affects the strength of the game's gravity.<br>&quot;jump&quot; - Enter an integer. Affects the player's jump height.<br>&quot;language&quot; - Enter a string as prompted. Changes the language of the words &quot;Dull Platformer&quot; at the top of the tab, and of the &quot;Ouch&quot; said by sprites when they crash their heads into platforms.<br>&quot;list&quot; - Shows this list of hacks. Does not show the hack &quot;secret&quot;.<br>&quot;morph&quot; - Enter a string as prompted. Changes the player into other sprites in the game. Your hit-box and abilities are updated accordingly.<br>&quot;mousePlay&quot; - Enter a boolean. When enabled, the player becomes your mouse, and the game attempts to give your mouse collision detection. As with the hack &quot;blackhole&quot;, the game cautions you that this hack will take control of your mouse.<br>&quot;multiplayer&quot; - Enter a boolean. When enabled, a second player can join by playing on the same keyboard as instructed.<br>&quot;music&quot; - Enter a string as prompted. Allows players to change the sounds of the game to a song, silence, or the tutorial again.<br>&quot;secret&quot; - Enter a boolean. When enabled, the birds and flowers get sunglasses.<br>&quot;speed&quot; - Enter an integer. Affects the speed of the player.<br>&quot;weather&quot; - Enter a string as prompted. Changes the weather of the platformer.<br><br>As players experiment with different hacks, 5 pieces of a key can be found. When the player finds all 5 pieces, the narrator comes back to speak to you and the ending is unlocked.",
+            "about_the_game": "A simple world where the player is able to change things that are not supposed to be changed. Welcome to Curiosity, the game where you can hack. Try out different hacks, get creative, entertain yourself! And hey, maybe you'll find a secret or two along the way!<br><br>This is an infinite platformer with horizontal player movement. When the game is started, two tabs open: one with the platformer itself, and one that appears to be a command prompt. A narrator starts speaking, and quickly notes that the platformer seems to be dull and uninteresting. He then tutorials the player on how to &quot;hack&quot;. &quot;Hacking&quot; gives the ability to change important variables in the code and to enable things that affect the environment.<br><br>As the narrator will explain, to &quot;hack&quot;, the player must press the &quot;h&quot; key while the platformer tab is selected. The platformer will then freeze as it waits for input from the hacking tab (the one that looks like a command prompt). The player then must switch to the command prompt, type in a &quot;hack&quot;, and press enter. They will then be prompted to enter an integer (numbers), string (words), or boolean (true/false) to complete the hack. After completing the hack, the player can go back to the platformer to see what changed.<br><br>Here's an example of what happens in the hacking tab with a player doubling their speed:<br>-------------------<br>Enter Hack: <strong>speed</strong><br>-------------------<br>Speed Hack:<br>-------------------<br>Variable Type: Integer<br>Default State: 6<br>Current State: 6<br>-------------------<br>Enter new speed: <strong>12</strong><br>Hack Successful!<br>-------------------<br>Hacking process complete<br>Go back to the game<br>-------------------<br><br>The game encourages using trial and error to see what each hack does (and using the hack &quot;list&quot; to see which hacks exist), but here's what they do if you don't want to test them out for yourself:<br><br>&quot;ascend&quot; - Enter a boolean. When enabled, platforms rise into the sky whenever the player steps on them.<br>&quot;birdNumber&quot; - Enter an integer. Affects the maximum amount of birds the player can spawn.<br>&quot;birdPoop&quot; - Enter a boolean. When enabled, birds will occasionally drop bird poop.<br>&quot;birdPoopRate&quot; - Enter an integer. Affects the rate at which birds can drop poop (&quot;birdPoop&quot; must be enabled to see this change).<br>&quot;birdSpeed&quot; - Enter an integer. Affects the speed at which the birds fly.<br>&quot;blackhole&quot; - Enter a boolean. Enables a blackhole that sucks in all sprites and the player's mouse. The game warns you to have caution, since it will take control of your mouse while this hack is enabled.<br>&quot;clearScreen&quot; - Enter a boolean. When enabled, the command prompt is cleared.<br>&quot;clone&quot; - Enter a boolean. When enabled, clones of the player can be created by pressing the space bar.<br>&quot;color&quot; - Enter three integers, as instructed. Affects the background color of the sky.<br>&quot;deathTouch&quot; - Enter a boolean. When enabled, the player destroys whatever they touch.<br>&quot;fly&quot; - Enter a boolean. When enabled, the player can fly.<br>&quot;gravity&quot; - Enter an integer. Affects the strength of the game's gravity.<br>&quot;jump&quot; - Enter an integer. Affects the player's jump height.<br>&quot;language&quot; - Enter a string as prompted. Changes the language of the words &quot;Dull Platformer&quot; at the top of the tab, and of the &quot;Ouch&quot; said by sprites when they crash their heads into platforms.<br>&quot;list&quot; - Shows this list of hacks. Does not show the hack &quot;secret&quot;.<br>&quot;morph&quot; - Enter a string as prompted. Changes the player into other sprites in the game. Your hit-box and abilities are updated accordingly.<br>&quot;mousePlay&quot; - Enter a boolean. When enabled, the player becomes your mouse, and the game attempts to give your mouse collision detection. As with the hack &quot;blackhole&quot;, the game cautions you that this hack will take control of your mouse.<br>&quot;multiplayer&quot; - Enter a boolean. When enabled, a second player can join by playing on the same keyboard as instructed.<br>&quot;music&quot; - Enter a string as prompted. Allows players to change the sounds of the game to a song, silence, or the tutorial again.<br>&quot;secret&quot; - Enter a boolean. When enabled, the birds and flowers get sunglasses.<br>&quot;speed&quot; - Enter an integer. Affects the speed of the player.<br>&quot;weather&quot; - Enter a string as prompted. Changes the weather of the platformer.<br><br>As players experiment with different hacks, 5 pieces of a key can be found. When the player finds all 5 pieces, the narrator comes back to speak to you and the ending is unlocked.",
+            "short_description": "A simple world where the player is able to change things that are not supposed to be changed. Welcome to Curiosity, the game where you can hack. Try out different hacks, get creative, entertain yourself! And hey, maybe you'll find a secret or two along the way!",
+            "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/918170/header.jpg?t=1533918455",
+            "website": null,
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Widows 7<br></li><li><strong>Processor:</strong> Working CPU<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> Any<br></li><li><strong>Storage:</strong> 132 MB available space<br></li><li><strong>Sound Card:</strong> Any</li></ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "legal_notice": "© Nicholas W Pellegrino, 2016",
+            "developers": [
+                "Nicholas Pellegrino"
+            ],
+            "publishers": [
+                "Nicholas Pellegrino"
+            ],
+            "package_groups": [],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "4",
+                    "description": "Casual"
+                },
+                {
+                    "id": "37",
+                    "description": "Free to Play"
+                },
+                {
+                    "id": "23",
+                    "description": "Indie"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/918170/ss_27a38cdcb5221be98637c347596d99067c42a31d.600x338.jpg?t=1533918455",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/918170/ss_27a38cdcb5221be98637c347596d99067c42a31d.1920x1080.jpg?t=1533918455"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/918170/ss_d3b0e83f9d0710c383118800101285e0ac55ce8a.600x338.jpg?t=1533918455",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/918170/ss_d3b0e83f9d0710c383118800101285e0ac55ce8a.1920x1080.jpg?t=1533918455"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/918170/ss_8af2043a1583dc403239f668e141eecd74161150.600x338.jpg?t=1533918455",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/918170/ss_8af2043a1583dc403239f668e141eecd74161150.1920x1080.jpg?t=1533918455"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/918170/ss_a689717815910083c63d582bb316e1ea803ef9ad.600x338.jpg?t=1533918455",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/918170/ss_a689717815910083c63d582bb316e1ea803ef9ad.1920x1080.jpg?t=1533918455"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/918170/ss_5617ab498ecb6ad499266b8baeb513e2cbbc9f20.600x338.jpg?t=1533918455",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/918170/ss_5617ab498ecb6ad499266b8baeb513e2cbbc9f20.1920x1080.jpg?t=1533918455"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 256724653,
+                    "name": "Curiosity Trailer",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256724653/movie.293x165.jpg?t=1533918446",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256724653/movie480.webm?t=1533918446",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256724653/movie_max.webm?t=1533918446"
+                    },
+                    "highlight": true
+                }
+            ],
+            "achievements": {
+                "total": 0
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "10 Aug, 2018"
+            },
+            "support_info": {
+                "url": "",
+                "email": "business.slick.programming@gmail.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/918170/page_bg_generated_v6b.jpg?t=1533918455",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

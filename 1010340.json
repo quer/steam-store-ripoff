@@ -1,0 +1,119 @@
+{
+    "1010340": {
+        "success": true,
+        "data": {
+            "type": "dlc",
+            "name": "100 Medium Puzzles",
+            "steam_appid": 1010340,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "An extra 100 medium picross puzzles for the Infinipicross 2.0 game.",
+            "about_the_game": "An extra 100 medium picross puzzles for the Infinipicross 2.0 game.",
+            "short_description": "An extra 100 medium picross puzzles for the Infinipicross 2.0 game.",
+            "fullgame": {
+                "appid": "875110",
+                "name": "InfiniPicross 2.0"
+            },
+            "supported_languages": "English, French, Italian, German, Spanish - Spain, Arabic, Bulgarian, Czech, Danish, Dutch, Finnish, Greek, Hungarian, Japanese, Korean, Norwegian, Polish, Portuguese, Portuguese - Brazil, Romanian, Russian, Simplified Chinese, Swedish, Thai, Traditional Chinese, Turkish, Ukrainian, Spanish - Latin America, Vietnamese",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1010340/header.jpg?t=1547415320",
+            "website": null,
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong> 1 GHz<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL 2.0<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+            },
+            "mac_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Mac OS X 10.7.3<br></li><li><strong>Processor:</strong> 1 GHz<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL 2.0<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+            },
+            "linux_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Ubuntu 14.04<br></li><li><strong>Processor:</strong> 1 GHz<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL 2.0<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+            },
+            "developers": [
+                "ReverseImpact"
+            ],
+            "publishers": [
+                ""
+            ],
+            "price_overview": {
+                "currency": "USD",
+                "initial": 199,
+                "final": 199,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "$1.99"
+            },
+            "packages": [
+                334425
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy 100 Medium Puzzles",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 334425,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "100 Medium Puzzles - $1.99",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 199
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": true,
+                "linux": true
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 21,
+                    "description": "Downloadable Content"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "4",
+                    "description": "Casual"
+                },
+                {
+                    "id": "23",
+                    "description": "Indie"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1010340/ss_5fa7403cc256e65f22df49b394a1e0c58ba6ecb2.600x338.jpg?t=1547415320",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1010340/ss_5fa7403cc256e65f22df49b394a1e0c58ba6ecb2.1920x1080.jpg?t=1547415320"
+                }
+            ],
+            "release_date": {
+                "coming_soon": false,
+                "date": "Jan 13, 2019"
+            },
+            "support_info": {
+                "url": "",
+                "email": "support@reverseimpact.net"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1010340/page_bg_generated_v6b.jpg?t=1547415320",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

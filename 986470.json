@@ -1,0 +1,135 @@
+{
+    "986470": {
+        "success": true,
+        "data": {
+            "type": "dlc",
+            "name": "Luvocious - VR Donation",
+            "steam_appid": 986470,
+            "required_age": 0,
+            "is_free": false,
+            "controller_support": "full",
+            "detailed_description": "This DLC is just a donation and does not affect the game in any shape or form.",
+            "about_the_game": "This DLC is just a donation and does not affect the game in any shape or form.",
+            "short_description": "Donate to help finance and support the VR updates of Luvocious as well as Team Syukino as a whole.",
+            "fullgame": {
+                "appid": "714730",
+                "name": "Luvocious"
+            },
+            "supported_languages": "English",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/986470/header.jpg?t=1542863106",
+            "website": null,
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7/8.1/10<br></li><li><strong>Processor:</strong> Intel Core 2 Duo or better<br></li><li><strong>Graphics:</strong> Intel HD graphics 4400 or more, Radeon HD graphics 5430 or more, OpenGL 3.0 or more Recommended system environment<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 700 MB available space<br></li><li><strong>Sound Card:</strong> Any</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> NVIDIA® GeForce® 400 series, AMD Radeon™ HD 5000 series<br></li><li><strong>Graphics:</strong> NVIDIA® GeForce® 400 series, AMD Radeon™ HD 5000 series<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Storage:</strong> 700 MB available space<br></li><li><strong>Sound Card:</strong> Any</li></ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "legal_notice": "Luvocious is the sole property of Syu-Syu aka Atsumora Sythe<br />\r\nand apart of Team Syukino.",
+            "developers": [
+                "Team Syukino"
+            ],
+            "publishers": [
+                "Team Syukino"
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 399,
+                "final": 399,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "3,99€"
+            },
+            "packages": [
+                324771
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Luvocious - VR Donation",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 324771,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Luvocious - VR Donation - 3,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 399
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 21,
+                    "description": "Downloadable Content"
+                },
+                {
+                    "id": 22,
+                    "description": "Steam Achievements"
+                },
+                {
+                    "id": 28,
+                    "description": "Full controller support"
+                },
+                {
+                    "id": 23,
+                    "description": "Steam Cloud"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "25",
+                    "description": "Adventure"
+                },
+                {
+                    "id": "4",
+                    "description": "Casual"
+                },
+                {
+                    "id": "23",
+                    "description": "Indie"
+                },
+                {
+                    "id": "3",
+                    "description": "RPG"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/986470/ss_1b7eb1a655419961102b90d74e0f1b587c1df74f.600x338.jpg?t=1542863106",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/986470/ss_1b7eb1a655419961102b90d74e0f1b587c1df74f.1920x1080.jpg?t=1542863106"
+                }
+            ],
+            "release_date": {
+                "coming_soon": false,
+                "date": "21 Nov, 2018"
+            },
+            "support_info": {
+                "url": "",
+                "email": "Syukino56@gmail.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/986470/page_bg_generated_v6b.jpg?t=1542863106",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

@@ -1,0 +1,131 @@
+{
+    "801930": {
+        "success": true,
+        "data": {
+            "type": "dlc",
+            "name": "BOXIT Map Forest",
+            "steam_appid": 801930,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "Welcome to the Forest!<br />\r\n<br />\r\nPlay all BOX IT puzzles in a now location - the forest!",
+            "about_the_game": "Welcome to the Forest!<br />\r\n<br />\r\nPlay all BOX IT puzzles in a now location - the forest!",
+            "short_description": "Welcome to the Forest!",
+            "fullgame": {
+                "appid": "704940",
+                "name": "BOX IT"
+            },
+            "supported_languages": "English",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/801930/header.jpg?t=1528129817",
+            "website": null,
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Win7/8/10 64-bit<br></li><li><strong>Processor:</strong> Core 2 Duo E8200 2.66GHz or Phenom II X2 545<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> DirectX 11 compatible graphics card with at least 1GB dedicated VRAM.<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 5 GB available space<br></li><li><strong>Additional Notes:</strong> Mobile and Integrated GPUs might work but have no official support.</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Win7/8/10 64-bit<br></li><li><strong>Processor:</strong> Core 2 Quad Q9550 2.83GHz or Phenom II X4 955<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> DirectX 11 compatible graphics card with at least 1GB dedicated VRAM.<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 5 GB available space<br></li><li><strong>Additional Notes:</strong> Mobile and Integrated GPUs might work but have no official support.</li></ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "developers": [
+                "Phoenix Coalition"
+            ],
+            "publishers": [
+                "Phoenix Coalition"
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 159,
+                "final": 159,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "1,59€"
+            },
+            "packages": [
+                244070
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy BOXIT Map Forest",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 244070,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "BOXIT Map Forest - 1,59€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 159
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 21,
+                    "description": "Downloadable Content"
+                },
+                {
+                    "id": 18,
+                    "description": "Partial Controller Support"
+                },
+                {
+                    "id": 23,
+                    "description": "Steam Cloud"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "4",
+                    "description": "Casual"
+                },
+                {
+                    "id": "23",
+                    "description": "Indie"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/801930/ss_14d91d1064a5b2934389782e7f936e670f06d163.600x338.jpg?t=1528129817",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/801930/ss_14d91d1064a5b2934389782e7f936e670f06d163.1920x1080.jpg?t=1528129817"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/801930/ss_561e8813cfe396073c4f14ea32d725874b46fecd.600x338.jpg?t=1528129817",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/801930/ss_561e8813cfe396073c4f14ea32d725874b46fecd.1920x1080.jpg?t=1528129817"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/801930/ss_a1c60de546140edcdf613e533cf251ea517cd888.600x338.jpg?t=1528129817",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/801930/ss_a1c60de546140edcdf613e533cf251ea517cd888.1920x1080.jpg?t=1528129817"
+                }
+            ],
+            "release_date": {
+                "coming_soon": false,
+                "date": "4 Jun, 2018"
+            },
+            "support_info": {
+                "url": "https://www.facebook.com/PhoenixCoalitionDev/",
+                "email": ""
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/801930/page_bg_generated_v6b.jpg?t=1528129817",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

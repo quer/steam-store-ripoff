@@ -1,0 +1,86 @@
+{
+    "630541": {
+        "success": true,
+        "data": {
+            "type": "episode",
+            "name": "Pixvana 360 Production Series: The Seattle Sounders FC",
+            "steam_appid": 630541,
+            "required_age": 0,
+            "is_free": true,
+            "controller_support": "full",
+            "detailed_description": "",
+            "about_the_game": "",
+            "short_description": "The Seattle Sounders FC brings fans into the heart of matchday frenzy with their first 360 video experience. Lace up your virtual cleats and join the team along their historic turnaround, journey to the playoffs, and eventual win at the 2016 MLS Cup championship.",
+            "fullgame": {
+                "appid": "630530",
+                "name": "Pixvana 360 Production Series"
+            },
+            "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/630541/header.jpg?t=1494456008",
+            "website": null,
+            "pc_requirements": [],
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "publishers": [
+                ""
+            ],
+            "packages": [
+                171532
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Pixvana 360 Production Series: The Seattle Sounders FC",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 171532,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Pixvana 360 Sample Content - Free",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": true,
+                            "price_in_cents_with_discount": 0
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 28,
+                    "description": "Full controller support"
+                },
+                {
+                    "id": 33,
+                    "description": "Native Steam Controller Support"
+                }
+            ],
+            "achievements": {
+                "total": 0
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "10 May, 2017"
+            },
+            "support_info": {
+                "url": "",
+                "email": ""
+            },
+            "background": "",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}
