@@ -27,12 +27,12 @@
                 "Ubisoft"
             ],
             "price_overview": {
-                "currency": "USD",
-                "initial": 999,
-                "final": 999,
+                "currency": "EUR",
+                "initial": 499,
+                "final": 499,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "$9.99"
+                "final_formatted": "4,99€"
             },
             "packages": [
                 699,
@@ -52,21 +52,21 @@
                             "packageid": 699,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Tom Clancy's Splinter Cell® - $9.99",
+                            "option_text": "Tom Clancy's Splinter Cell® - 4,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 999
+                            "price_in_cents_with_discount": 499
                         },
                         {
                             "packageid": 4158,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Tom Clancy's Splinter Cell Elite Echelon Edition - $39.99",
+                            "option_text": "Tom Clancy's Splinter Cell Elite Echelon Edition - 29,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 3999
+                            "price_in_cents_with_discount": 2999
                         }
                     ]
                 }
@@ -127,7 +127,7 @@
             },
             "release_date": {
                 "coming_soon": false,
-                "date": "Apr 1, 2008"
+                "date": "1 Apr, 2008"
             },
             "support_info": {
                 "url": "https://support.ubi.com/en-US/",
