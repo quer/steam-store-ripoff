@@ -5,7 +5,7 @@
             "type": "game",
             "name": "Mass Effect",
             "steam_appid": 17460,
-            "required_age": "17",
+            "required_age": 0,
             "is_free": false,
             "detailed_description": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/17460/extras/MassEffect_HeroTitle.png?t=1447351599\" ><br><br>As Commander Shepard, you lead an elite squad on a heroic, action-packed adventure throughout the galaxy.                    <br><br>Discover the imminent danger from an ancient threat and battle the traitorous Saren and his deadly army to save civilization.  The fate of all life depends on your actions!                    <br>\t\t\t\t\t<ul class=\"bb_ul\"><li>2007 New York Times Game of the Year                    <br>\t\t\t\t\t</li><li>A Stunning universe with high resolution graphics and textures                    <br>\t\t\t\t\t</li><li>Controls and interface optimized for PC gamers                    <br>\t\t\t\t\t</li><li>Includes free additional content  face off against the horrific Batarians                    <br>\t\t\t\t\t</li><li>Customize your character and embark on a pulse-pounding adventure in an immersive open-ended storyline                    <br>\t\t\t\t\t</li><li>Incredible real-time character interaction                    <br>\t\t\t\t\t</li><li>Thrilling, tactical combat as you lead an elite squad of three                    <br>\t\t\t\t\t</li><li>Interplanetary exploration of an epic proportion                    </li></ul>",
             "about_the_game": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/17460/extras/MassEffect_HeroTitle.png?t=1447351599\" ><br><br>As Commander Shepard, you lead an elite squad on a heroic, action-packed adventure throughout the galaxy.                    <br><br>Discover the imminent danger from an ancient threat and battle the traitorous Saren and his deadly army to save civilization.  The fate of all life depends on your actions!                    <br>\t\t\t\t\t<ul class=\"bb_ul\"><li>2007 New York Times Game of the Year                    <br>\t\t\t\t\t</li><li>A Stunning universe with high resolution graphics and textures                    <br>\t\t\t\t\t</li><li>Controls and interface optimized for PC gamers                    <br>\t\t\t\t\t</li><li>Includes free additional content  face off against the horrific Batarians                    <br>\t\t\t\t\t</li><li>Customize your character and embark on a pulse-pounding adventure in an immersive open-ended storyline                    <br>\t\t\t\t\t</li><li>Incredible real-time character interaction                    <br>\t\t\t\t\t</li><li>Thrilling, tactical combat as you lead an elite squad of three                    <br>\t\t\t\t\t</li><li>Interplanetary exploration of an epic proportion                    </li></ul>",
@@ -27,12 +27,12 @@
                 "Electronic Arts"
             ],
             "price_overview": {
-                "currency": "USD",
-                "initial": 1999,
-                "final": 1999,
+                "currency": "EUR",
+                "initial": 999,
+                "final": 999,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "$19.99"
+                "final_formatted": "9,99€"
             },
             "packages": [
                 1259,
@@ -52,21 +52,21 @@
                             "packageid": 1259,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Mass Effect - $19.99",
+                            "option_text": "Mass Effect - 9,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1999
+                            "price_in_cents_with_discount": 999
                         },
                         {
                             "packageid": 18260,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Mass Effect Collection - $34.99",
+                            "option_text": "Mass Effect Collection - 27,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 3499
+                            "price_in_cents_with_discount": 2799
                         }
                     ]
                 }
@@ -178,7 +178,7 @@
             },
             "release_date": {
                 "coming_soon": false,
-                "date": "Dec 19, 2008"
+                "date": "19 Dec, 2008"
             },
             "support_info": {
                 "url": "https://help.ea.com/",
