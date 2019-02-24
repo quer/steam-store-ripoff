@@ -26,12 +26,12 @@
                 "DimleTeam"
             ],
             "price_overview": {
-                "currency": "USD",
-                "initial": 199,
-                "final": 179,
+                "currency": "EUR",
+                "initial": 159,
+                "final": 143,
                 "discount_percent": 10,
-                "initial_formatted": "$1.99",
-                "final_formatted": "$1.79"
+                "initial_formatted": "1,59€",
+                "final_formatted": "1,43€"
             },
             "packages": [
                 340020
@@ -50,11 +50,11 @@
                             "packageid": 340020,
                             "percent_savings_text": "-10%",
                             "percent_savings": 0,
-                            "option_text": "Northern Lights - <span class=\"discount_original_price\">$1.99</span> $1.79",
+                            "option_text": "Northern Lights - <span class=\"discount_original_price\">1,59€</span> 1,43€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 179
+                            "price_in_cents_with_discount": 143
                         }
                     ]
                 }
@@ -163,7 +163,7 @@
             },
             "release_date": {
                 "coming_soon": false,
-                "date": "Feb 18, 2019"
+                "date": "18 Feb, 2019"
             },
             "support_info": {
                 "url": "https://dimle.net/",
