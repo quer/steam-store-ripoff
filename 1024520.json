@@ -25,12 +25,12 @@
                 "GameDEN"
             ],
             "price_overview": {
-                "currency": "USD",
-                "initial": 499,
-                "final": 449,
+                "currency": "EUR",
+                "initial": 399,
+                "final": 359,
                 "discount_percent": 10,
-                "initial_formatted": "$4.99",
-                "final_formatted": "$4.49"
+                "initial_formatted": "3,99€",
+                "final_formatted": "3,59€"
             },
             "packages": [
                 340250
@@ -49,11 +49,11 @@
                             "packageid": 340250,
                             "percent_savings_text": "-10%",
                             "percent_savings": 0,
-                            "option_text": "Viking: Sigurd's Adventure - <span class=\"discount_original_price\">$4.99</span> $4.49",
+                            "option_text": "Viking: Sigurd's Adventure - <span class=\"discount_original_price\">3,99€</span> 3,59€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 449
+                            "price_in_cents_with_discount": 359
                         }
                     ]
                 }
@@ -155,7 +155,7 @@
             ],
             "release_date": {
                 "coming_soon": false,
-                "date": "Feb 18, 2019"
+                "date": "18 Feb, 2019"
             },
             "support_info": {
                 "url": "",
