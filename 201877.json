@@ -5,7 +5,7 @@
             "type": "dlc",
             "name": "Assassin's Creed Revelations - The Ancestors Character Pack",
             "steam_appid": 201877,
-            "required_age": 0,
+            "required_age": "18",
             "is_free": false,
             "detailed_description": "<p>The Ancestors Character Pack features four new multiplayer characters, including: the swashbuckling Privateer, the devious siren Corsair, the battle-tested Brigand, and the bloodthirsty Gladiator. Each character is unique, with personalized taunts, weapons, and stylized assassination techniques.</p>",
             "about_the_game": "<p>The Ancestors Character Pack features four new multiplayer characters, including: the swashbuckling Privateer, the devious siren Corsair, the battle-tested Brigand, and the bloodthirsty Gladiator. Each character is unique, with personalized taunts, weapons, and stylized assassination techniques.</p>",
@@ -31,12 +31,12 @@
                 "Ubisoft"
             ],
             "price_overview": {
-                "currency": "USD",
-                "initial": 399,
-                "final": 399,
+                "currency": "EUR",
+                "initial": 299,
+                "final": 299,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "$3.99"
+                "final_formatted": "2,99€"
             },
             "packages": [
                 12568,
@@ -56,21 +56,21 @@
                             "packageid": 12568,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Assassin's Creed Revelations - The Ancestors Character Pack - $3.99",
+                            "option_text": "Assassin's Creed Revelations - The Ancestors Character Pack - 2,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 399
+                            "price_in_cents_with_discount": 299
                         },
                         {
                             "packageid": 13858,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Assassin's Creed Revelations - Gold Edition - $29.99",
+                            "option_text": "Assassin's Creed Revelations - Gold Edition - 19,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 2999
+                            "price_in_cents_with_discount": 1999
                         }
                     ]
                 }
@@ -132,7 +132,7 @@
             },
             "release_date": {
                 "coming_soon": false,
-                "date": "Dec 13, 2011"
+                "date": "13 Dec, 2011"
             },
             "support_info": {
                 "url": "",
