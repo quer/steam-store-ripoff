@@ -5,7 +5,7 @@
             "type": "game",
             "name": "Prototype 2",
             "steam_appid": 115320,
-            "required_age": "17",
+            "required_age": "18",
             "is_free": false,
             "dlc": [
                 115340
@@ -30,17 +30,16 @@
                 "Activision"
             ],
             "price_overview": {
-                "currency": "USD",
-                "initial": 3999,
-                "final": 999,
+                "currency": "EUR",
+                "initial": 2999,
+                "final": 749,
                 "discount_percent": 75,
-                "initial_formatted": "$39.99",
-                "final_formatted": "$9.99"
+                "initial_formatted": "29,99€",
+                "final_formatted": "7,49€"
             },
             "packages": [
                 15706,
-                47880,
-                1675
+                47880
             ],
             "package_groups": [
                 {
@@ -56,31 +55,21 @@
                             "packageid": 15706,
                             "percent_savings_text": "-75%",
                             "percent_savings": 0,
-                            "option_text": "Prototype 2 - <span class=\"discount_original_price\">$39.99</span> $9.99",
+                            "option_text": "Prototype 2 - <span class=\"discount_original_price\">29,99€</span> 7,49€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 999
+                            "price_in_cents_with_discount": 749
                         },
                         {
                             "packageid": 47880,
                             "percent_savings_text": "-75%",
                             "percent_savings": 0,
-                            "option_text": "Prototype Franchise Pack - <span class=\"discount_original_price\">$59.99</span> $14.99",
+                            "option_text": "Prototype Franchise Pack - <span class=\"discount_original_price\">49,99€</span> 12,49€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1499
-                        },
-                        {
-                            "packageid": 1675,
-                            "percent_savings_text": "-75%",
-                            "percent_savings": 0,
-                            "option_text": "Prototype™ - <span class=\"discount_original_price\">$19.99</span> $4.99",
-                            "option_description": "",
-                            "can_get_free_license": "0",
-                            "is_free_license": false,
-                            "price_in_cents_with_discount": 499
+                            "price_in_cents_with_discount": 1249
                         }
                     ]
                 }
@@ -213,7 +202,7 @@
             },
             "release_date": {
                 "coming_soon": false,
-                "date": "Jul 24, 2012"
+                "date": "26 Jul, 2012"
             },
             "support_info": {
                 "url": "http://www.activision.com/support",
