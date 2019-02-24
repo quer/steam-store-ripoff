@@ -5,7 +5,7 @@
             "type": "game",
             "name": "Prototype™",
             "steam_appid": 10150,
-            "required_age": "17",
+            "required_age": 0,
             "is_free": false,
             "detailed_description": "You are the Prototype, Alex Mercer, a man without memory armed with amazing shape-shifting abilities, hunting your way to the heart of the conspiracy which created you; making those responsible pay.<br>                    <ul class=\"bb_ul\"><li><strong>Fast &amp; Deadly Shape-Shifting Combat:</strong> Reconfigure your body to the situation at hand. From Claws to Blades to Hammers to Whips, choose the right weapon for the situation. Change to a shield or armor for defense, or use advanced sensory powers (thermal vision, infected vision) to track your enemies<br>                    </li><li><strong>Over-the-Top Locomotion &amp; Agility:</strong> Seamlessly and fluidly bound from building to building, run up walls, bounce off cars and everything in your path. Adaptive parkour lets you move freely through the open-world environments of New York City.<br>                    </li><li><strong>Unique Disguising Abilities:</strong> Consume anyone at anytime, take on their appearances and assume their memories and special abilities.<br>                    </li><li><strong>Deep, Conspiracy-Driven Storyline:</strong> Wake up with no memory of the past...just mysterious powers and a link to a town in Idaho. Delve into the mysteries of your origin, the true nature of your power and your part in a conspiracy 40 years in the making.<br>                    </li></ul>",
             "about_the_game": "You are the Prototype, Alex Mercer, a man without memory armed with amazing shape-shifting abilities, hunting your way to the heart of the conspiracy which created you; making those responsible pay.<br>                    <ul class=\"bb_ul\"><li><strong>Fast &amp; Deadly Shape-Shifting Combat:</strong> Reconfigure your body to the situation at hand. From Claws to Blades to Hammers to Whips, choose the right weapon for the situation. Change to a shield or armor for defense, or use advanced sensory powers (thermal vision, infected vision) to track your enemies<br>                    </li><li><strong>Over-the-Top Locomotion &amp; Agility:</strong> Seamlessly and fluidly bound from building to building, run up walls, bounce off cars and everything in your path. Adaptive parkour lets you move freely through the open-world environments of New York City.<br>                    </li><li><strong>Unique Disguising Abilities:</strong> Consume anyone at anytime, take on their appearances and assume their memories and special abilities.<br>                    </li><li><strong>Deep, Conspiracy-Driven Storyline:</strong> Wake up with no memory of the past...just mysterious powers and a link to a town in Idaho. Delve into the mysteries of your origin, the true nature of your power and your part in a conspiracy 40 years in the making.<br>                    </li></ul>",
@@ -26,15 +26,15 @@
                 "Activision"
             ],
             "price_overview": {
-                "currency": "USD",
+                "currency": "EUR",
                 "initial": 1999,
                 "final": 499,
                 "discount_percent": 75,
-                "initial_formatted": "$19.99",
-                "final_formatted": "$4.99"
+                "initial_formatted": "19,99€",
+                "final_formatted": "4,99€"
             },
             "packages": [
-                1675,
+                1685,
                 47880
             ],
             "package_groups": [
@@ -48,10 +48,10 @@
                     "is_recurring_subscription": "false",
                     "subs": [
                         {
-                            "packageid": 1675,
+                            "packageid": 1685,
                             "percent_savings_text": "-75%",
                             "percent_savings": 0,
-                            "option_text": "Prototype™ - <span class=\"discount_original_price\">$19.99</span> $4.99",
+                            "option_text": "Prototype™ - <span class=\"discount_original_price\">19,99€</span> 4,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
@@ -61,11 +61,11 @@
                             "packageid": 47880,
                             "percent_savings_text": "-75%",
                             "percent_savings": 0,
-                            "option_text": "Prototype Franchise Pack - <span class=\"discount_original_price\">$59.99</span> $14.99",
+                            "option_text": "Prototype Franchise Pack - <span class=\"discount_original_price\">49,99€</span> 12,49€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1499
+                            "price_in_cents_with_discount": 1249
                         }
                     ]
                 }
@@ -155,7 +155,7 @@
             },
             "release_date": {
                 "coming_soon": false,
-                "date": "Jun 10, 2009"
+                "date": "12 Jun, 2009"
             },
             "support_info": {
                 "url": "http://support.activision.com/",
