@@ -25,12 +25,12 @@
                 "SergeyDo"
             ],
             "price_overview": {
-                "currency": "USD",
-                "initial": 999,
-                "final": 849,
+                "currency": "EUR",
+                "initial": 799,
+                "final": 679,
                 "discount_percent": 15,
-                "initial_formatted": "$9.99",
-                "final_formatted": "$8.49"
+                "initial_formatted": "7,99€",
+                "final_formatted": "6,79€"
             },
             "packages": [
                 336967
@@ -49,11 +49,11 @@
                             "packageid": 336967,
                             "percent_savings_text": "-15%",
                             "percent_savings": 0,
-                            "option_text": "DUST-UP - <span class=\"discount_original_price\">$9.99</span> $8.49",
+                            "option_text": "DUST-UP - <span class=\"discount_original_price\">7,99€</span> 6,79€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 849
+                            "price_in_cents_with_discount": 679
                         }
                     ]
                 }
@@ -149,7 +149,7 @@
             ],
             "release_date": {
                 "coming_soon": false,
-                "date": "Feb 22, 2019"
+                "date": "22 Feb, 2019"
             },
             "support_info": {
                 "url": "",
