@@ -31,12 +31,12 @@
                 ""
             ],
             "price_overview": {
-                "currency": "USD",
-                "initial": 2999,
-                "final": 2999,
+                "currency": "EUR",
+                "initial": 2699,
+                "final": 2699,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "$29.99"
+                "final_formatted": "26,99€"
             },
             "packages": [
                 343484
@@ -55,11 +55,11 @@
                             "packageid": 343484,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Closers: Operator Pack - $29.99",
+                            "option_text": "Closers: Operator Pack - 26,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 2999
+                            "price_in_cents_with_discount": 2699
                         }
                     ]
                 }
@@ -146,7 +146,7 @@
             },
             "release_date": {
                 "coming_soon": false,
-                "date": "Feb 14, 2019"
+                "date": "14 Feb, 2019"
             },
             "support_info": {
                 "url": "http://support.enmasse.com/closers",
