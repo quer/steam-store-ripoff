@@ -25,12 +25,12 @@
                 "Lotus GamesTr"
             ],
             "price_overview": {
-                "currency": "USD",
-                "initial": 99,
-                "final": 59,
-                "discount_percent": 40,
-                "initial_formatted": "$0.99",
-                "final_formatted": "$0.59"
+                "currency": "EUR",
+                "initial": 79,
+                "final": 47,
+                "discount_percent": 41,
+                "initial_formatted": "0,79€",
+                "final_formatted": "0,47€"
             },
             "packages": [
                 334095
@@ -47,13 +47,13 @@
                     "subs": [
                         {
                             "packageid": 334095,
-                            "percent_savings_text": "-40%",
+                            "percent_savings_text": "-41%",
                             "percent_savings": 0,
-                            "option_text": "Saving Simon - <span class=\"discount_original_price\">$0.99</span> $0.59",
+                            "option_text": "Saving Simon - <span class=\"discount_original_price\">0,79€</span> 0,47€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 59
+                            "price_in_cents_with_discount": 47
                         }
                     ]
                 }
@@ -124,7 +124,7 @@
             ],
             "release_date": {
                 "coming_soon": false,
-                "date": "Feb 21, 2019"
+                "date": "21 Feb, 2019"
             },
             "support_info": {
                 "url": "",

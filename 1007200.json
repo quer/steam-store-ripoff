@@ -32,12 +32,12 @@
                 "CyO Entertainment"
             ],
             "price_overview": {
-                "currency": "USD",
-                "initial": 2499,
-                "final": 2124,
+                "currency": "EUR",
+                "initial": 2099,
+                "final": 1784,
                 "discount_percent": 15,
-                "initial_formatted": "$24.99",
-                "final_formatted": "$21.24"
+                "initial_formatted": "20,99€",
+                "final_formatted": "17,84€"
             },
             "packages": [
                 333177
@@ -56,11 +56,11 @@
                             "packageid": 333177,
                             "percent_savings_text": "-15%",
                             "percent_savings": 0,
-                            "option_text": "Mutagen Extinction - <span class=\"discount_original_price\">$24.99</span> $21.24",
+                            "option_text": "Mutagen Extinction - <span class=\"discount_original_price\">20,99€</span> 17,84€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 2124
+                            "price_in_cents_with_discount": 1784
                         }
                     ]
                 }
@@ -197,7 +197,7 @@
             },
             "release_date": {
                 "coming_soon": false,
-                "date": "Feb 21, 2019"
+                "date": "21 Feb, 2019"
             },
             "support_info": {
                 "url": "http://mutagen.cyoentertainment.com",

@@ -29,12 +29,12 @@
                 "European Games Group AG"
             ],
             "price_overview": {
-                "currency": "USD",
-                "initial": 999,
-                "final": 699,
+                "currency": "EUR",
+                "initial": 819,
+                "final": 573,
                 "discount_percent": 30,
-                "initial_formatted": "$9.99",
-                "final_formatted": "$6.99"
+                "initial_formatted": "8,19€",
+                "final_formatted": "5,73€"
             },
             "packages": [
                 334372
@@ -53,11 +53,11 @@
                             "packageid": 334372,
                             "percent_savings_text": "-30%",
                             "percent_savings": 0,
-                            "option_text": "Space Rabbits in Space - <span class=\"discount_original_price\">$9.99</span> $6.99",
+                            "option_text": "Space Rabbits in Space - <span class=\"discount_original_price\">8,19€</span> 5,73€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 699
+                            "price_in_cents_with_discount": 573
                         }
                     ]
                 }
@@ -206,7 +206,7 @@
             },
             "release_date": {
                 "coming_soon": false,
-                "date": "Feb 19, 2019"
+                "date": "19 Feb, 2019"
             },
             "support_info": {
                 "url": "http://ventilatorshark.com",

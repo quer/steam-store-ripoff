@@ -26,12 +26,12 @@
                 "QUIKIN Games"
             ],
             "price_overview": {
-                "currency": "USD",
-                "initial": 99,
-                "final": 99,
+                "currency": "EUR",
+                "initial": 100,
+                "final": 100,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "$0.99"
+                "final_formatted": "1,--€"
             },
             "packages": [
                 333621
@@ -50,11 +50,11 @@
                             "packageid": 333621,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Achievement Collector: Dog - $0.99",
+                            "option_text": "Achievement Collector: Dog - 1,--€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 99
+                            "price_in_cents_with_discount": 100
                         }
                     ]
                 }
@@ -178,7 +178,7 @@
             },
             "release_date": {
                 "coming_soon": false,
-                "date": "Jan 25, 2019"
+                "date": "25 Jan, 2019"
             },
             "support_info": {
                 "url": "",

@@ -31,12 +31,12 @@
                 }
             ],
             "price_overview": {
-                "currency": "USD",
-                "initial": 9999,
-                "final": 9999,
+                "currency": "EUR",
+                "initial": 10999,
+                "final": 10999,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "$99.99"
+                "final_formatted": "109,99€"
             },
             "packages": [
                 17005,
@@ -56,17 +56,17 @@
                             "packageid": 17005,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "3D Coat Amateur - $99.99",
+                            "option_text": "3D Coat Amateur - 109,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 9999
+                            "price_in_cents_with_discount": 10999
                         },
                         {
                             "packageid": 17006,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "3DCoat Professional - $379.00",
+                            "option_text": "3DCoat Professional - 379,--€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
@@ -246,7 +246,7 @@
             },
             "release_date": {
                 "coming_soon": false,
-                "date": "Oct 2, 2012"
+                "date": "2 Oct, 2012"
             },
             "support_info": {
                 "url": "http://3dcoat.com/company/contacts/",
