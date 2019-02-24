@@ -31,12 +31,12 @@
                 ""
             ],
             "price_overview": {
-                "currency": "USD",
-                "initial": 99,
-                "final": 59,
-                "discount_percent": 40,
-                "initial_formatted": "$0.99",
-                "final_formatted": "$0.59"
+                "currency": "EUR",
+                "initial": 79,
+                "final": 47,
+                "discount_percent": 41,
+                "initial_formatted": "0,79€",
+                "final_formatted": "0,47€"
             },
             "packages": [
                 345195
@@ -53,13 +53,13 @@
                     "subs": [
                         {
                             "packageid": 345195,
-                            "percent_savings_text": "-40%",
+                            "percent_savings_text": "-41%",
                             "percent_savings": 0,
-                            "option_text": "Hentai Waifu - soundtrack - <span class=\"discount_original_price\">$0.99</span> $0.59",
+                            "option_text": "Hentai Waifu - soundtrack - <span class=\"discount_original_price\">0,79€</span> 0,47€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 59
+                            "price_in_cents_with_discount": 47
                         }
                     ]
                 }
@@ -101,7 +101,7 @@
             },
             "release_date": {
                 "coming_soon": false,
-                "date": "Feb 22, 2019"
+                "date": "22 Feb, 2019"
             },
             "support_info": {
                 "url": "https://www.facebook.com/RED13INDIE",
