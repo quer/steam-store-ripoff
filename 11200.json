@@ -5,7 +5,7 @@
             "type": "game",
             "name": "Shadowgrounds Survivor",
             "steam_appid": 11200,
-            "required_age": "17",
+            "required_age": 0,
             "is_free": false,
             "detailed_description": "<strong>Surviving is only half the game.</strong><br>\t\t\t\t\tThe award-winning atmosphere and gameplay mechanics of the original Shadowgrounds make a triumphant return in this spin off/sequel armed with a slick new feature set!<br>\t\t\t\t\tShadowgrounds Survivor tells the story of the last remaining humans on Jupiter's moon Ganymede, where the alien onslaught is in full force.<br>\t\t\t\t\t<ul class=\"bb_ul\"><li><strong>3 playable characters</strong> with impressive new tactics<br>\t\t\t\t\t</li><li><strong>RPG-like upgrade system</strong> for weapons and characters - including special attacks such as the all-engrossing Napalm Flame and the mighty Brute Slayer.<br>\t\t\t\t\t</li><li><strong>Campaign mode</strong> deepens the Shadowgrounds story and expands it to new locations, including snow and ice environments, an abandoned cargo tunnel and the suffering New Atlantis colony.<br>\t\t\t\t\t</li><li><strong>Survival mode</strong> focuses on all-out alien slaughtering action – choose a character to suit your playing style and blast the aliens back to outer space! <br>\t\t\t\t\t</li><li><strong>New gameplay features</strong> such as the Sentry Turret and the powerful Mech!<br>\t\t\t\t\t</li><li><strong>New graphics enhancements</strong> including raging snowstorm effects, new weapon effects and much more.<br>\t\t\t\t\t</li><li><strong>AGEIA PhysX</strong> brings the world alive with hundreds of physics objects that take the destruction to the next level.<br>\t\t\t\t\t</li><li><strong>Editor tools</strong> allow players to take part in the active Shadowgrounds mod community - or just enjoy the results!</li></ul>",
             "about_the_game": "<strong>Surviving is only half the game.</strong><br>\t\t\t\t\tThe award-winning atmosphere and gameplay mechanics of the original Shadowgrounds make a triumphant return in this spin off/sequel armed with a slick new feature set!<br>\t\t\t\t\tShadowgrounds Survivor tells the story of the last remaining humans on Jupiter's moon Ganymede, where the alien onslaught is in full force.<br>\t\t\t\t\t<ul class=\"bb_ul\"><li><strong>3 playable characters</strong> with impressive new tactics<br>\t\t\t\t\t</li><li><strong>RPG-like upgrade system</strong> for weapons and characters - including special attacks such as the all-engrossing Napalm Flame and the mighty Brute Slayer.<br>\t\t\t\t\t</li><li><strong>Campaign mode</strong> deepens the Shadowgrounds story and expands it to new locations, including snow and ice environments, an abandoned cargo tunnel and the suffering New Atlantis colony.<br>\t\t\t\t\t</li><li><strong>Survival mode</strong> focuses on all-out alien slaughtering action – choose a character to suit your playing style and blast the aliens back to outer space! <br>\t\t\t\t\t</li><li><strong>New gameplay features</strong> such as the Sentry Turret and the powerful Mech!<br>\t\t\t\t\t</li><li><strong>New graphics enhancements</strong> including raging snowstorm effects, new weapon effects and much more.<br>\t\t\t\t\t</li><li><strong>AGEIA PhysX</strong> brings the world alive with hundreds of physics objects that take the destruction to the next level.<br>\t\t\t\t\t</li><li><strong>Editor tools</strong> allow players to take part in the active Shadowgrounds mod community - or just enjoy the results!</li></ul>",
@@ -34,12 +34,12 @@
                 }
             ],
             "price_overview": {
-                "currency": "USD",
+                "currency": "EUR",
                 "initial": 999,
                 "final": 999,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "$9.99"
+                "final_formatted": "9,99€"
             },
             "packages": [
                 551,
@@ -60,7 +60,7 @@
                             "packageid": 551,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Shadowgrounds Survivor - $9.99",
+                            "option_text": "Shadowgrounds Survivor - 9,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
@@ -70,7 +70,7 @@
                             "packageid": 230358,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Shadowgrounds: Survivor - Commercial License - $12.99",
+                            "option_text": "Shadowgrounds: Survivor - Commercial License - 12,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
@@ -80,11 +80,11 @@
                             "packageid": 552,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Shadowgrounds Pack - $12.99",
+                            "option_text": "Shadowgrounds Pack - 9,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1299
+                            "price_in_cents_with_discount": 999
                         }
                     ]
                 }
@@ -162,7 +162,7 @@
             },
             "release_date": {
                 "coming_soon": false,
-                "date": "Nov 14, 2007"
+                "date": "14 Nov, 2007"
             },
             "support_info": {
                 "url": "",
