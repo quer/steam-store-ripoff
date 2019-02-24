@@ -25,15 +25,15 @@
                 "Viva Media"
             ],
             "price_overview": {
-                "currency": "USD",
-                "initial": 999,
-                "final": 999,
+                "currency": "EUR",
+                "initial": 499,
+                "final": 499,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "$9.99"
+                "final_formatted": "4,99€"
             },
             "packages": [
-                1906,
+                1907,
                 82677
             ],
             "package_groups": [
@@ -47,24 +47,24 @@
                     "is_recurring_subscription": "false",
                     "subs": [
                         {
-                            "packageid": 1906,
+                            "packageid": 1907,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Mata Hari - $9.99",
+                            "option_text": "Mata Hari - 4,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 999
+                            "price_in_cents_with_discount": 499
                         },
                         {
                             "packageid": 82677,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Sinister Stories Bundle 2 - $79.99",
+                            "option_text": "Sinister Stories Bundle 2 - 73,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 7999
+                            "price_in_cents_with_discount": 7399
                         }
                     ]
                 }
@@ -152,7 +152,7 @@
             },
             "release_date": {
                 "coming_soon": false,
-                "date": "Jul 29, 2009"
+                "date": "29 Jul, 2009"
             },
             "support_info": {
                 "url": "",
