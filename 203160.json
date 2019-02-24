@@ -5,7 +5,7 @@
             "type": "game",
             "name": "Tomb Raider",
             "steam_appid": 203160,
-            "required_age": "17",
+            "required_age": "18",
             "is_free": false,
             "controller_support": "full",
             "dlc": [
@@ -67,12 +67,12 @@
                 "Feral Interactive (Linux)"
             ],
             "price_overview": {
-                "currency": "USD",
+                "currency": "EUR",
                 "initial": 1999,
                 "final": 299,
                 "discount_percent": 85,
-                "initial_formatted": "$19.99",
-                "final_formatted": "$2.99"
+                "initial_formatted": "19,99€",
+                "final_formatted": "2,99€"
             },
             "packages": [
                 26016,
@@ -93,7 +93,7 @@
                             "packageid": 26016,
                             "percent_savings_text": "-85%",
                             "percent_savings": 0,
-                            "option_text": "Tomb Raider - <span class=\"discount_original_price\">$19.99</span> $2.99",
+                            "option_text": "Tomb Raider - <span class=\"discount_original_price\">19,99€</span> 2,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
@@ -103,7 +103,7 @@
                             "packageid": 49783,
                             "percent_savings_text": "-85%",
                             "percent_savings": 0,
-                            "option_text": "Tomb Raider GOTY Edition - <span class=\"discount_original_price\">$29.99</span> $4.49",
+                            "option_text": "Tomb Raider GOTY Edition - <span class=\"discount_original_price\">29,99€</span> 4,49€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
@@ -113,7 +113,7 @@
                             "packageid": 26160,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Tomb Raider - The Final Hours Digital Book - $1.99",
+                            "option_text": "Tomb Raider - The Final Hours Digital Book - 1,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
@@ -221,12 +221,12 @@
             ],
             "movies": [
                 {
-                    "id": 256663328,
-                    "name": "TR- Launch and Accolades ESRB ENG",
-                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256663328/movie.293x165.jpg?t=1461666307",
+                    "id": 256663321,
+                    "name": "TR- Launch and Accolades PEGI ENG",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256663321/movie.293x165.jpg?t=1461660154",
                     "webm": {
-                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256663328/movie480.webm?t=1461666307",
-                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256663328/movie_max.webm?t=1461666307"
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256663321/movie480.webm?t=1461660154",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256663321/movie_max.webm?t=1461660154"
                     },
                     "highlight": true
                 },
@@ -251,22 +251,22 @@
                     "highlight": true
                 },
                 {
-                    "id": 2028388,
-                    "name": "Tomb Raider - Turning Point Trailer ESRB",
-                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/2028388/movie.293x165.jpg?t=1447357498",
+                    "id": 2028387,
+                    "name": "Tomb Raider - Turning Point Trailer",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/2028387/movie.293x165.jpg?t=1447357498",
                     "webm": {
-                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/2028388/movie480.webm?t=1447357498",
-                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/2028388/movie_max.webm?t=1447357498"
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/2028387/movie480.webm?t=1447357498",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/2028387/movie_max.webm?t=1447357498"
                     },
                     "highlight": false
                 },
                 {
-                    "id": 2028390,
-                    "name": "Tomb Raider - Crossroads Trailer ESRB",
-                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/2028390/movie.293x165.jpg?t=1447357499",
+                    "id": 2028389,
+                    "name": "Tomb Raider - Crossroads Trailer",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/2028389/movie.293x165.jpg?t=1447357499",
                     "webm": {
-                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/2028390/movie480.webm?t=1447357499",
-                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/2028390/movie_max.webm?t=1447357499"
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/2028389/movie480.webm?t=1447357499",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/2028389/movie_max.webm?t=1447357499"
                     },
                     "highlight": false
                 }
@@ -321,7 +321,7 @@
             },
             "release_date": {
                 "coming_soon": false,
-                "date": "Mar 4, 2013"
+                "date": "4 Mar, 2013"
             },
             "support_info": {
                 "url": "http://support.na.square-enix.com/",
