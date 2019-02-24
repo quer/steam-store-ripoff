@@ -25,12 +25,12 @@
                 "Dexion Games"
             ],
             "price_overview": {
-                "currency": "USD",
-                "initial": 99,
-                "final": 74,
+                "currency": "EUR",
+                "initial": 79,
+                "final": 59,
                 "discount_percent": 25,
-                "initial_formatted": "$0.99",
-                "final_formatted": "$0.74"
+                "initial_formatted": "0,79€",
+                "final_formatted": "0,59€"
             },
             "packages": [
                 340987
@@ -49,11 +49,11 @@
                             "packageid": 340987,
                             "percent_savings_text": "-25%",
                             "percent_savings": 0,
-                            "option_text": "Color Jump - <span class=\"discount_original_price\">$0.99</span> $0.74",
+                            "option_text": "Color Jump - <span class=\"discount_original_price\">0,79€</span> 0,59€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 74
+                            "price_in_cents_with_discount": 59
                         }
                     ]
                 }
@@ -139,7 +139,7 @@
             ],
             "release_date": {
                 "coming_soon": false,
-                "date": "Feb 21, 2019"
+                "date": "21 Feb, 2019"
             },
             "support_info": {
                 "url": "",
