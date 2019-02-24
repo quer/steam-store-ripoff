@@ -31,12 +31,12 @@
                 }
             ],
             "price_overview": {
-                "currency": "USD",
-                "initial": 399,
-                "final": 359,
+                "currency": "EUR",
+                "initial": 329,
+                "final": 296,
                 "discount_percent": 10,
-                "initial_formatted": "$3.99",
-                "final_formatted": "$3.59"
+                "initial_formatted": "3,29€",
+                "final_formatted": "2,96€"
             },
             "packages": [
                 342044
@@ -55,11 +55,11 @@
                             "packageid": 342044,
                             "percent_savings_text": "-10%",
                             "percent_savings": 0,
-                            "option_text": "Horror Stories - <span class=\"discount_original_price\">$3.99</span> $3.59",
+                            "option_text": "Horror Stories - <span class=\"discount_original_price\">3,29€</span> 2,96€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 359
+                            "price_in_cents_with_discount": 296
                         }
                     ]
                 }
@@ -163,7 +163,7 @@
             },
             "release_date": {
                 "coming_soon": false,
-                "date": "Feb 21, 2019"
+                "date": "21 Feb, 2019"
             },
             "support_info": {
                 "url": "",
