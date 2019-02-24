@@ -25,12 +25,12 @@
                 "NRDSlab"
             ],
             "price_overview": {
-                "currency": "USD",
-                "initial": 999,
-                "final": 899,
-                "discount_percent": 10,
-                "initial_formatted": "$9.99",
-                "final_formatted": "$8.99"
+                "currency": "EUR",
+                "initial": 819,
+                "final": 819,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "8,19€"
             },
             "packages": [
                 338428
@@ -47,13 +47,13 @@
                     "subs": [
                         {
                             "packageid": 338428,
-                            "percent_savings_text": "-10%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Flying in Labyrinth - <span class=\"discount_original_price\">$9.99</span> $8.99",
+                            "option_text": "Flying in Labyrinth - 8,19€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 899
+                            "price_in_cents_with_discount": 819
                         }
                     ]
                 }
@@ -138,7 +138,7 @@
             ],
             "release_date": {
                 "coming_soon": false,
-                "date": "Feb 17, 2019"
+                "date": "17 Feb, 2019"
             },
             "support_info": {
                 "url": "",
