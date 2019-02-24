@@ -32,12 +32,12 @@
                 "Iceberg Interactive"
             ],
             "price_overview": {
-                "currency": "USD",
+                "currency": "EUR",
                 "initial": 999,
                 "final": 999,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "$9.99"
+                "final_formatted": "9,99€"
             },
             "packages": [
                 11698,
@@ -58,7 +58,7 @@
                             "packageid": 11698,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Nuclear Dawn - $9.99",
+                            "option_text": "Nuclear Dawn - 9,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
@@ -68,21 +68,21 @@
                             "packageid": 11699,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Nuclear Dawn - Four Pack - $29.99",
+                            "option_text": "Nuclear Dawn - Four Pack - 27,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 2999
+                            "price_in_cents_with_discount": 2799
                         },
                         {
                             "packageid": 66789,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Iceberg Interactive - Cool as Ice Bundle - $99.99",
+                            "option_text": "Iceberg Interactive - Cool as Ice Bundle - 92,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 9999
+                            "price_in_cents_with_discount": 9299
                         }
                     ]
                 }
@@ -364,7 +364,7 @@
             },
             "release_date": {
                 "coming_soon": false,
-                "date": "Sep 26, 2011"
+                "date": "26 Sep, 2011"
             },
             "support_info": {
                 "url": "http://www.gameconnect.net",
