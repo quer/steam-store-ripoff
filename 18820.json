@@ -31,12 +31,12 @@
                 }
             ],
             "price_overview": {
-                "currency": "USD",
-                "initial": 499,
-                "final": 499,
+                "currency": "EUR",
+                "initial": 399,
+                "final": 399,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "$4.99"
+                "final_formatted": "3,99€"
             },
             "packages": [
                 2697,
@@ -56,21 +56,21 @@
                             "packageid": 2697,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Zero Gear - $4.99",
+                            "option_text": "Zero Gear - 3,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 499
+                            "price_in_cents_with_discount": 399
                         },
                         {
                             "packageid": 2698,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Zero Gear - Four Pack - $9.99",
+                            "option_text": "Zero Gear - Four Pack - 8,19€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 999
+                            "price_in_cents_with_discount": 819
                         }
                     ]
                 }
@@ -260,7 +260,7 @@
             },
             "release_date": {
                 "coming_soon": false,
-                "date": "Jan 12, 2010"
+                "date": "12 Jan, 2010"
             },
             "support_info": {
                 "url": "",
