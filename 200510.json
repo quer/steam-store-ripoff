@@ -5,7 +5,7 @@
             "type": "game",
             "name": "XCOM: Enemy Unknown",
             "steam_appid": 200510,
-            "required_age": "17",
+            "required_age": "18",
             "is_free": false,
             "controller_support": "full",
             "dlc": [
@@ -50,17 +50,17 @@
                 }
             ],
             "price_overview": {
-                "currency": "USD",
-                "initial": 2999,
-                "final": 2999,
+                "currency": "EUR",
+                "initial": 1999,
+                "final": 1999,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "$29.99"
+                "final_formatted": "19,99€"
             },
             "packages": [
                 17222,
-                46437,
-                37429
+                37429,
+                46437
             ],
             "package_groups": [
                 {
@@ -76,7 +76,17 @@
                             "packageid": 17222,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "XCOM: Enemy Unknown - $29.99",
+                            "option_text": "XCOM: Enemy Unknown - 19,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 1999
+                        },
+                        {
+                            "packageid": 37429,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "XCOM: Enemy Unknown Complete Pack - 29,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
@@ -86,21 +96,11 @@
                             "packageid": 46437,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "XCOM: Enemy Unknown + The Bureau: XCOM Declassified - $49.98",
+                            "option_text": "XCOM: Enemy Unknown + The Bureau: XCOM Declassified - 39,98€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 4998
-                        },
-                        {
-                            "packageid": 37429,
-                            "percent_savings_text": "",
-                            "percent_savings": 0,
-                            "option_text": "XCOM: Enemy Unknown Complete Pack - $49.99",
-                            "option_description": "",
-                            "can_get_free_license": "0",
-                            "is_free_license": false,
-                            "price_in_cents_with_discount": 4999
+                            "price_in_cents_with_discount": 3998
                         }
                     ]
                 }
@@ -289,7 +289,7 @@
             },
             "release_date": {
                 "coming_soon": false,
-                "date": "Oct 8, 2012"
+                "date": "11 Oct, 2012"
             },
             "support_info": {
                 "url": "support.2k.com",
