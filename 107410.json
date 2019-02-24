@@ -5,7 +5,7 @@
             "type": "game",
             "name": "Arma 3",
             "steam_appid": 107410,
-            "required_age": "17",
+            "required_age": 0,
             "is_free": false,
             "dlc": [
                 601670,
@@ -40,12 +40,12 @@
                 "Bohemia Interactive"
             ],
             "price_overview": {
-                "currency": "USD",
-                "initial": 3999,
-                "final": 3999,
+                "currency": "EUR",
+                "initial": 3499,
+                "final": 3499,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "$39.99"
+                "final_formatted": "34,99€"
             },
             "packages": [
                 31539,
@@ -67,41 +67,41 @@
                             "packageid": 31539,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Arma 3 - $39.99",
+                            "option_text": "Arma 3 - 34,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 3999
+                            "price_in_cents_with_discount": 3499
                         },
                         {
                             "packageid": 95419,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Arma 3 Apex Edition - $69.99",
+                            "option_text": "Arma 3 Apex Edition - 59,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 6999
+                            "price_in_cents_with_discount": 5999
                         },
                         {
                             "packageid": 45019,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Arma 3 DLC Bundle 1 - $19.99",
+                            "option_text": "Arma 3 DLC Bundle 1 - 16,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1999
+                            "price_in_cents_with_discount": 1699
                         },
                         {
                             "packageid": 163922,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Arma 3 DLC Bundle 2 - $24.99",
+                            "option_text": "Arma 3 DLC Bundle 2 - 22,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 2499
+                            "price_in_cents_with_discount": 2299
                         }
                     ]
                 }
@@ -266,22 +266,22 @@
             ],
             "movies": [
                 {
-                    "id": 2029388,
-                    "name": "Arma 3 Launch Trailer",
-                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/2029388/movie.293x165.jpg?t=1447358827",
+                    "id": 2029387,
+                    "name": "Arma 3 Launch Trailer (EU)",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/2029387/movie.293x165.jpg?t=1447358825",
                     "webm": {
-                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/2029388/movie480.webm?t=1447358827",
-                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/2029388/movie_max.webm?t=1447358827"
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/2029387/movie480.webm?t=1447358825",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/2029387/movie_max.webm?t=1447358825"
                     },
                     "highlight": true
                 },
                 {
-                    "id": 2036855,
-                    "name": "33 Things About Arma 3 Trailer (US)",
-                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/2036855/movie.293x165.jpg?t=1447368200",
+                    "id": 2036837,
+                    "name": "33 Things About Arma 3 Trailer",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/2036837/movie.293x165.jpg?t=1447368160",
                     "webm": {
-                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/2036855/movie480.webm?t=1447368200",
-                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/2036855/movie_max.webm?t=1447368200"
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/2036837/movie480.webm?t=1447368160",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/2036837/movie_max.webm?t=1447368160"
                     },
                     "highlight": true
                 }
@@ -336,7 +336,7 @@
             },
             "release_date": {
                 "coming_soon": false,
-                "date": "Sep 12, 2013"
+                "date": "12 Sep, 2013"
             },
             "support_info": {
                 "url": "http://arma3.com/faq",
