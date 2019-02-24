@@ -29,12 +29,12 @@
                 "Frederik Holst"
             ],
             "price_overview": {
-                "currency": "USD",
-                "initial": 199,
-                "final": 159,
+                "currency": "EUR",
+                "initial": 159,
+                "final": 127,
                 "discount_percent": 20,
-                "initial_formatted": "$1.99",
-                "final_formatted": "$1.59"
+                "initial_formatted": "1,59€",
+                "final_formatted": "1,27€"
             },
             "packages": [
                 342122
@@ -53,11 +53,11 @@
                             "packageid": 342122,
                             "percent_savings_text": "-20%",
                             "percent_savings": 0,
-                            "option_text": "Maze Of Time - <span class=\"discount_original_price\">$1.99</span> $1.59",
+                            "option_text": "Maze Of Time - <span class=\"discount_original_price\">1,59€</span> 1,27€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 159
+                            "price_in_cents_with_discount": 127
                         }
                     ]
                 }
@@ -192,7 +192,7 @@
             },
             "release_date": {
                 "coming_soon": false,
-                "date": "Feb 23, 2019"
+                "date": "23 Feb, 2019"
             },
             "support_info": {
                 "url": "",
