@@ -34,12 +34,12 @@
                 "Zillion Whales"
             ],
             "price_overview": {
-                "currency": "USD",
-                "initial": 499,
-                "final": 449,
+                "currency": "EUR",
+                "initial": 449,
+                "final": 404,
                 "discount_percent": 10,
-                "initial_formatted": "$4.99",
-                "final_formatted": "$4.49"
+                "initial_formatted": "4,49€",
+                "final_formatted": "4,04€"
             },
             "packages": [
                 336754
@@ -58,11 +58,11 @@
                             "packageid": 336754,
                             "percent_savings_text": "-10%",
                             "percent_savings": 0,
-                            "option_text": "Mushroom Wars 2 - Episode 3: Red & Furious - <span class=\"discount_original_price\">$4.99</span> $4.49",
+                            "option_text": "Mushroom Wars 2 - Episode 3: Red & Furious - <span class=\"discount_original_price\">4,49€</span> 4,04€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 449
+                            "price_in_cents_with_discount": 404
                         }
                     ]
                 }
@@ -184,7 +184,7 @@
             ],
             "release_date": {
                 "coming_soon": false,
-                "date": "Feb 19, 2019"
+                "date": "19 Feb, 2019"
             },
             "support_info": {
                 "url": "http://mushroomwars2.com/",
