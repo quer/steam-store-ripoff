@@ -33,15 +33,15 @@
                 }
             ],
             "price_overview": {
-                "currency": "USD",
+                "currency": "EUR",
                 "initial": 999,
                 "final": 999,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "$9.99"
+                "final_formatted": "9,99€"
             },
             "packages": [
-                904
+                905
             ],
             "package_groups": [
                 {
@@ -54,10 +54,10 @@
                     "is_recurring_subscription": "false",
                     "subs": [
                         {
-                            "packageid": 904,
+                            "packageid": 905,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Dracula Origin - $9.99",
+                            "option_text": "Dracula Origin - 9,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
@@ -167,7 +167,7 @@
             },
             "release_date": {
                 "coming_soon": false,
-                "date": "Aug 7, 2008"
+                "date": "7 Aug, 2008"
             },
             "support_info": {
                 "url": "http://frogwares.com/support/",
