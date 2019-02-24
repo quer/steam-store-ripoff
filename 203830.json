@@ -32,12 +32,12 @@
                 "Daedalic Entertainment"
             ],
             "price_overview": {
-                "currency": "USD",
-                "initial": 3499,
-                "final": 349,
+                "currency": "EUR",
+                "initial": 3199,
+                "final": 319,
                 "discount_percent": 90,
-                "initial_formatted": "$34.99",
-                "final_formatted": "$3.49"
+                "initial_formatted": "31,99€",
+                "final_formatted": "3,19€"
             },
             "packages": [
                 19218,
@@ -58,7 +58,7 @@
                             "packageid": 19218,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "The Dark Eye - $19.99",
+                            "option_text": "The Dark Eye - 19,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
@@ -68,21 +68,21 @@
                             "packageid": 44166,
                             "percent_savings_text": "-90%",
                             "percent_savings": 0,
-                            "option_text": "The Dark Eye Universe Bundle - <span class=\"discount_original_price\">$34.99</span> $3.49",
+                            "option_text": "The Dark Eye Universe Bundle - <span class=\"discount_original_price\">31,99€</span> 3,19€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 349
+                            "price_in_cents_with_discount": 319
                         },
                         {
                             "packageid": 55062,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "The Daedalic Armageddon Bundle - $129.99",
+                            "option_text": "The Daedalic Armageddon Bundle - 120,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 12999
+                            "price_in_cents_with_discount": 12099
                         }
                     ]
                 }
@@ -207,7 +207,7 @@
             },
             "release_date": {
                 "coming_soon": false,
-                "date": "Jun 22, 2012"
+                "date": "22 Jun, 2012"
             },
             "support_info": {
                 "url": "http://forum.daedalic.de/",
