@@ -30,12 +30,12 @@
                 ""
             ],
             "price_overview": {
-                "currency": "USD",
-                "initial": 499,
-                "final": 299,
+                "currency": "EUR",
+                "initial": 399,
+                "final": 239,
                 "discount_percent": 40,
-                "initial_formatted": "$4.99",
-                "final_formatted": "$2.99"
+                "initial_formatted": "3,99€",
+                "final_formatted": "2,39€"
             },
             "packages": [
                 344334
@@ -54,11 +54,11 @@
                             "packageid": 344334,
                             "percent_savings_text": "-40%",
                             "percent_savings": 0,
-                            "option_text": "Full-On Paintball - Extra Weapons Pack - <span class=\"discount_original_price\">$4.99</span> $2.99",
+                            "option_text": "Full-On Paintball - Extra Weapons Pack - <span class=\"discount_original_price\">3,99€</span> 2,39€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 299
+                            "price_in_cents_with_discount": 239
                         }
                     ]
                 }
@@ -129,7 +129,7 @@
             ],
             "release_date": {
                 "coming_soon": false,
-                "date": "Feb 18, 2019"
+                "date": "18 Feb, 2019"
             },
             "support_info": {
                 "url": "http://www.gamepainters.com",
