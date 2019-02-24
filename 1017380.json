@@ -25,12 +25,12 @@
                 "Magic Factory"
             ],
             "price_overview": {
-                "currency": "USD",
-                "initial": 999,
-                "final": 599,
-                "discount_percent": 40,
-                "initial_formatted": "$9.99",
-                "final_formatted": "$5.99"
+                "currency": "EUR",
+                "initial": 819,
+                "final": 819,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "8,19€"
             },
             "packages": [
                 337221
@@ -47,13 +47,13 @@
                     "subs": [
                         {
                             "packageid": 337221,
-                            "percent_savings_text": "-40%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "天空傳説 - <span class=\"discount_original_price\">$9.99</span> $5.99",
+                            "option_text": "天空傳説 - 8,19€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 599
+                            "price_in_cents_with_discount": 819
                         }
                     ]
                 }
@@ -134,7 +134,7 @@
             ],
             "release_date": {
                 "coming_soon": false,
-                "date": "Feb 17, 2019"
+                "date": "17 Feb, 2019"
             },
             "support_info": {
                 "url": "",
