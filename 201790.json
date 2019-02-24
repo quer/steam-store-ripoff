@@ -41,12 +41,12 @@
                 }
             ],
             "price_overview": {
-                "currency": "USD",
+                "currency": "EUR",
                 "initial": 1499,
                 "final": 1499,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "$14.99"
+                "final_formatted": "14,99€"
             },
             "packages": [
                 15594,
@@ -66,7 +66,7 @@
                             "packageid": 15594,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Orcs Must Die! 2 - $14.99",
+                            "option_text": "Orcs Must Die! 2 - 14,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
@@ -76,11 +76,11 @@
                             "packageid": 17881,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Orcs Must Die! 2 - Complete Pack - $24.99",
+                            "option_text": "Orcs Must Die! 2 - Complete Pack - 22,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 2499
+                            "price_in_cents_with_discount": 2299
                         }
                     ]
                 }
@@ -257,7 +257,7 @@
             },
             "release_date": {
                 "coming_soon": false,
-                "date": "Jul 30, 2012"
+                "date": "30 Jul, 2012"
             },
             "support_info": {
                 "url": "http://support.robotentertainment.com",
