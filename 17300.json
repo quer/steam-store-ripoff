@@ -5,7 +5,7 @@
             "type": "game",
             "name": "Crysis",
             "steam_appid": 17300,
-            "required_age": "17",
+            "required_age": 0,
             "is_free": false,
             "detailed_description": "<h1>Multiplayer</h1><p><ul class=\"bb_ul\"><li><strong><u>NOTE: GameSpy has ended hosted multiplayer services for this game. </u><br>As of June 2014, our friends at GameSpy have ended all hosted game services, which will affect the online multiplayer aspect of this game. Because of technical challenges and concerns, EA does not have a solution to keep these services up and running at this time, and online services for this game and other EA games on the GameSpy platform have ended.  </strong></p><br><h1>About the Game</h1><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/17300/extras/CRYSpcLOGO.png?t=1447351450\" ><br><br><ul class=\"bb_ul\"><li><strong>Adapt to Survive</strong>  An epic story thrusts players into an ever-changing environment, forcing them to adapt their tactics and approach to conquer battlefields ranging from newly frozen jungle to zero-gravity alien environments.<br>\t\t\t\t\t</li><li><strong>Suit up!</strong>  A high-tech Nanosuit allows gamers to augment their abilities in real time on the battlefield. Players can choose to enhance their speed, strength, armor and cloaking abilities to approach situations in creative tactical ways.<br>\t\t\t\t\t</li><li><strong>Customizable Weaponry</strong>  A huge arsenal of modular weaponry gives gamers unprecedented control over their play style. Blow the opposition away with experimental weapons, discover alien technology and utilize custom ammunition from incendiary-tipped rounds to tactical munitions that can silently put foes to sleep.<br>\t\t\t\t\t</li><li><strong>Veni Vidi Vici</strong>  Lifelike enemy AI challenges players to assess a situation and approach it strategically. It isn't about having the fastest trigger finger  players are challenged to be proactive in the fight, not reactive.<br>\t\t\t\t\t</li><li><strong>Zero-G Gameplay</strong>  Battle a horrifying alien species in a true Zero-gravity environment, where physics change everything as players must adapt to moving in Zero-G and contending with the recoil from their weapons and more.<br>\t\t\t\t\t</li><li><strong>Next-Generation Graphics</strong>  Built from the ground up using Crytek's proprietary CryENGINE 2™, Crysis' visuals define &quot;state of the art,&quot; with full DX10 support and scalable options to deliver solid performance on older machines.<br>\t\t\t\t\t</li><li><strong>Open, Physicalized World</strong>  Choose your own path through the open world of Crysis, destroying obstacles, driving vehicles from VTOL's to boats and using the environment itself against your enemies.</li></ul>[/b]\t</li></ul>",
             "about_the_game": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/17300/extras/CRYSpcLOGO.png?t=1447351450\" ><br><br><ul class=\"bb_ul\"><li><strong>Adapt to Survive</strong>  An epic story thrusts players into an ever-changing environment, forcing them to adapt their tactics and approach to conquer battlefields ranging from newly frozen jungle to zero-gravity alien environments.<br>\t\t\t\t\t</li><li><strong>Suit up!</strong>  A high-tech Nanosuit allows gamers to augment their abilities in real time on the battlefield. Players can choose to enhance their speed, strength, armor and cloaking abilities to approach situations in creative tactical ways.<br>\t\t\t\t\t</li><li><strong>Customizable Weaponry</strong>  A huge arsenal of modular weaponry gives gamers unprecedented control over their play style. Blow the opposition away with experimental weapons, discover alien technology and utilize custom ammunition from incendiary-tipped rounds to tactical munitions that can silently put foes to sleep.<br>\t\t\t\t\t</li><li><strong>Veni Vidi Vici</strong>  Lifelike enemy AI challenges players to assess a situation and approach it strategically. It isn't about having the fastest trigger finger  players are challenged to be proactive in the fight, not reactive.<br>\t\t\t\t\t</li><li><strong>Zero-G Gameplay</strong>  Battle a horrifying alien species in a true Zero-gravity environment, where physics change everything as players must adapt to moving in Zero-G and contending with the recoil from their weapons and more.<br>\t\t\t\t\t</li><li><strong>Next-Generation Graphics</strong>  Built from the ground up using Crytek's proprietary CryENGINE 2™, Crysis' visuals define &quot;state of the art,&quot; with full DX10 support and scalable options to deliver solid performance on older machines.<br>\t\t\t\t\t</li><li><strong>Open, Physicalized World</strong>  Choose your own path through the open world of Crysis, destroying obstacles, driving vehicles from VTOL's to boats and using the environment itself against your enemies.</li></ul>[/b]\t[/list]",
@@ -27,12 +27,12 @@
                 "Electronic Arts"
             ],
             "price_overview": {
-                "currency": "USD",
-                "initial": 1999,
-                "final": 1999,
+                "currency": "EUR",
+                "initial": 1499,
+                "final": 1499,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "$19.99"
+                "final_formatted": "14,99€"
             },
             "packages": [
                 980,
@@ -53,31 +53,31 @@
                             "packageid": 980,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Crysis® - $19.99",
+                            "option_text": "Crysis® - 14,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 1499
+                        },
+                        {
+                            "packageid": 987,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Crysis® Maximum Edition - 19,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
                             "price_in_cents_with_discount": 1999
                         },
                         {
-                            "packageid": 987,
-                            "percent_savings_text": "",
-                            "percent_savings": 0,
-                            "option_text": "Crysis® Maximum Edition - $29.99",
-                            "option_description": "",
-                            "can_get_free_license": "0",
-                            "is_free_license": false,
-                            "price_in_cents_with_discount": 2999
-                        },
-                        {
                             "packageid": 15609,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Crysis Collection - $44.99",
+                            "option_text": "Crysis Collection - 39,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 4499
+                            "price_in_cents_with_discount": 3999
                         }
                     ]
                 }
@@ -150,7 +150,7 @@
             },
             "release_date": {
                 "coming_soon": false,
-                "date": "Sep 17, 2008"
+                "date": "17 Sep, 2008"
             },
             "support_info": {
                 "url": "https://help.ea.com/",
