@@ -39,12 +39,12 @@
                 }
             ],
             "price_overview": {
-                "currency": "USD",
+                "currency": "EUR",
                 "initial": 899,
                 "final": 98,
                 "discount_percent": 89,
-                "initial_formatted": "$8.99",
-                "final_formatted": "$0.98"
+                "initial_formatted": "8,99€",
+                "final_formatted": "0,98€"
             },
             "packages": [
                 15156
@@ -63,7 +63,7 @@
                             "packageid": 15156,
                             "percent_savings_text": "-89%",
                             "percent_savings": 0,
-                            "option_text": "Quantum Conundrum - <span class=\"discount_original_price\">$8.99</span> $0.98",
+                            "option_text": "Quantum Conundrum - <span class=\"discount_original_price\">8,99€</span> 0,98€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
@@ -245,7 +245,7 @@
             },
             "release_date": {
                 "coming_soon": false,
-                "date": "Jun 21, 2012"
+                "date": "21 Jun, 2012"
             },
             "support_info": {
                 "url": "",
