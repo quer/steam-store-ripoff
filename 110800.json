@@ -5,7 +5,7 @@
             "type": "game",
             "name": "L.A. Noire",
             "steam_appid": 110800,
-            "required_age": "17",
+            "required_age": "18",
             "is_free": false,
             "dlc": [
                 110810
@@ -31,12 +31,12 @@
                 "Rockstar Games"
             ],
             "price_overview": {
-                "currency": "USD",
-                "initial": 1999,
-                "final": 1999,
+                "currency": "EUR",
+                "initial": 2999,
+                "final": 2999,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "$19.99"
+                "final_formatted": "29,99€"
             },
             "packages": [
                 13740,
@@ -56,17 +56,17 @@
                             "packageid": 13740,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "L.A. Noire - $19.99",
+                            "option_text": "L.A. Noire - 29,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1999
+                            "price_in_cents_with_discount": 2999
                         },
                         {
                             "packageid": 12072,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "L.A. Noire Complete Edition - $29.99",
+                            "option_text": "L.A. Noire Complete Edition - 29,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
@@ -230,7 +230,7 @@
             },
             "release_date": {
                 "coming_soon": false,
-                "date": "Nov 8, 2011"
+                "date": "8 Nov, 2011"
             },
             "support_info": {
                 "url": "",
