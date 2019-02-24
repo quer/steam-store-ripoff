@@ -32,12 +32,12 @@
                 }
             ],
             "price_overview": {
-                "currency": "USD",
-                "initial": 299,
-                "final": 299,
+                "currency": "EUR",
+                "initial": 199,
+                "final": 199,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "$2.99"
+                "final_formatted": "1,99€"
             },
             "packages": [
                 768
@@ -56,11 +56,11 @@
                             "packageid": 768,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Gumboy Tournament - $2.99",
+                            "option_text": "Gumboy Tournament - 1,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 299
+                            "price_in_cents_with_discount": 199
                         }
                     ]
                 }
@@ -164,7 +164,7 @@
             },
             "release_date": {
                 "coming_soon": false,
-                "date": "May 19, 2008"
+                "date": "19 May, 2008"
             },
             "support_info": {
                 "url": "http://feedback.cinemax.cz/?email=Gumboy",
