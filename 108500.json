@@ -27,16 +27,16 @@
                 "IndiePub"
             ],
             "price_overview": {
-                "currency": "USD",
+                "currency": "EUR",
                 "initial": 1999,
                 "final": 1999,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "$19.99"
+                "final_formatted": "19,99€"
             },
             "packages": [
-                13676,
-                305400
+                305400,
+                13676
             ],
             "package_groups": [
                 {
@@ -49,20 +49,20 @@
                     "is_recurring_subscription": "false",
                     "subs": [
                         {
-                            "packageid": 13676,
-                            "percent_savings_text": "",
-                            "percent_savings": 0,
-                            "option_text": "Vessel - $19.99",
-                            "option_description": "",
-                            "can_get_free_license": "0",
-                            "is_free_license": false,
-                            "price_in_cents_with_discount": 1999
-                        },
-                        {
                             "packageid": 305400,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Vessel - Commercial License - $19.99",
+                            "option_text": "Vessel - Commercial License - 16,79€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 1679
+                        },
+                        {
+                            "packageid": 13676,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Vessel - 19,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
@@ -252,7 +252,7 @@
             },
             "release_date": {
                 "coming_soon": false,
-                "date": "Mar 1, 2012"
+                "date": "1 Mar, 2012"
             },
             "support_info": {
                 "url": "",
