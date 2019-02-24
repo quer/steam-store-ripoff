@@ -41,12 +41,12 @@
                 }
             ],
             "price_overview": {
-                "currency": "USD",
-                "initial": 1499,
-                "final": 1499,
+                "currency": "EUR",
+                "initial": 1249,
+                "final": 1249,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "$14.99"
+                "final_formatted": "12,49€"
             },
             "packages": [
                 11072,
@@ -66,21 +66,21 @@
                             "packageid": 11072,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Bastion - $14.99",
+                            "option_text": "Bastion - 12,49€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1499
+                            "price_in_cents_with_discount": 1249
                         },
                         {
                             "packageid": 11157,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Bastion Soundtrack Edition - $24.98",
+                            "option_text": "Bastion Soundtrack Edition - 20,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 2498
+                            "price_in_cents_with_discount": 2099
                         }
                     ]
                 }
@@ -263,7 +263,7 @@
             },
             "release_date": {
                 "coming_soon": false,
-                "date": "Aug 16, 2011"
+                "date": "16 Aug, 2011"
             },
             "support_info": {
                 "url": "",
