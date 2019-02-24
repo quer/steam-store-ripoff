@@ -5,7 +5,7 @@
             "type": "game",
             "name": "Aliens vs. Predator™",
             "steam_appid": 10680,
-            "required_age": "17",
+            "required_age": 0,
             "is_free": false,
             "dlc": [
                 10695,
@@ -36,12 +36,12 @@
                 }
             ],
             "price_overview": {
-                "currency": "USD",
+                "currency": "EUR",
                 "initial": 1499,
                 "final": 1499,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "$14.99"
+                "final_formatted": "14,99€"
             },
             "packages": [
                 2967,
@@ -61,7 +61,7 @@
                             "packageid": 2967,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Aliens vs Predator™ - $14.99",
+                            "option_text": "Aliens vs Predator™ - 14,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
@@ -71,11 +71,11 @@
                             "packageid": 27828,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Aliens vs. Predator - $23.99",
+                            "option_text": "Aliens vs. Predator - 21,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 2399
+                            "price_in_cents_with_discount": 2199
                         }
                     ]
                 }
@@ -217,7 +217,7 @@
             },
             "release_date": {
                 "coming_soon": false,
-                "date": "Feb 16, 2010"
+                "date": "16 Feb, 2010"
             },
             "support_info": {
                 "url": "https://support.sega.co.uk",
