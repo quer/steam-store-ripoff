@@ -5,7 +5,7 @@
             "type": "game",
             "name": "Max Payne 3",
             "steam_appid": 204100,
-            "required_age": "17",
+            "required_age": 0,
             "is_free": false,
             "dlc": [
                 213370,
@@ -39,17 +39,17 @@
                 "Rockstar Games"
             ],
             "price_overview": {
-                "currency": "USD",
+                "currency": "EUR",
                 "initial": 1999,
                 "final": 1999,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "$19.99"
+                "final_formatted": "19,99€"
             },
             "packages": [
                 14906,
                 18261,
-                27273
+                27275
             ],
             "package_groups": [
                 {
@@ -65,7 +65,7 @@
                             "packageid": 14906,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Max Payne 3 - $19.99",
+                            "option_text": "Max Payne 3 - 19,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
@@ -75,17 +75,17 @@
                             "packageid": 18261,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Max Payne 3 Complete - $34.99",
+                            "option_text": "Max Payne 3 Complete - 34,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
                             "price_in_cents_with_discount": 3499
                         },
                         {
-                            "packageid": 27273,
+                            "packageid": 27275,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Max Payne Complete - $54.96",
+                            "option_text": "Max Payne Complete - 54,96€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
@@ -259,7 +259,7 @@
             },
             "release_date": {
                 "coming_soon": false,
-                "date": "May 31, 2012"
+                "date": "31 May, 2012"
             },
             "support_info": {
                 "url": "http://support.rockstargames.com",
