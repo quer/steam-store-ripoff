@@ -5,7 +5,7 @@
             "type": "game",
             "name": "Hell Yeah! Wrath of the Dead Rabbit",
             "steam_appid": 205230,
-            "required_age": 0,
+            "required_age": "12",
             "is_free": false,
             "controller_support": "full",
             "dlc": [
@@ -37,12 +37,12 @@
                 }
             ],
             "price_overview": {
-                "currency": "USD",
-                "initial": 1499,
-                "final": 1499,
+                "currency": "EUR",
+                "initial": 1299,
+                "final": 1299,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "$14.99"
+                "final_formatted": "12,99€"
             },
             "packages": [
                 16797,
@@ -62,21 +62,21 @@
                             "packageid": 16797,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Hell Yeah!  Wrath of the Dead Rabbit - $14.99",
+                            "option_text": "Hell Yeah!  Wrath of the Dead Rabbit - 12,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1499
+                            "price_in_cents_with_discount": 1299
                         },
                         {
                             "packageid": 27826,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Hell Yeah! - $19.49",
+                            "option_text": "Hell Yeah! - 16,49€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1949
+                            "price_in_cents_with_discount": 1649
                         }
                     ]
                 }
@@ -167,22 +167,22 @@
             ],
             "movies": [
                 {
-                    "id": 82085,
-                    "name": "Hell Yeah Gameplay ESRB Trailer",
-                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/82085/movie.293x165.jpg?t=1447356785",
+                    "id": 82080,
+                    "name": "Hell Yeah Gameplay PEGI Trailer",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/82080/movie.293x165.jpg?t=1447356778",
                     "webm": {
-                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/82085/movie480.webm?t=1447356785",
-                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/82085/movie_max.webm?t=1447356785"
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/82080/movie480.webm?t=1447356778",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/82080/movie_max.webm?t=1447356778"
                     },
                     "highlight": true
                 },
                 {
-                    "id": 82082,
-                    "name": "Hell Yeah Monsters ESRB Trailer",
-                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/82082/movie.293x165.jpg?t=1447356780",
+                    "id": 82078,
+                    "name": "Hell Yeah Monsters PEGI Trailer",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/82078/movie.293x165.jpg?t=1447356781",
                     "webm": {
-                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/82082/movie480.webm?t=1447356780",
-                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/82082/movie_max.webm?t=1447356780"
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/82078/movie480.webm?t=1447356781",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/82078/movie_max.webm?t=1447356781"
                     },
                     "highlight": true
                 }
@@ -237,7 +237,7 @@
             },
             "release_date": {
                 "coming_soon": false,
-                "date": "Oct 3, 2012"
+                "date": "3 Oct, 2012"
             },
             "support_info": {
                 "url": "https://support.sega.co.uk",
