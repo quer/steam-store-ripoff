@@ -5,7 +5,7 @@
             "type": "game",
             "name": "Thief",
             "steam_appid": 239160,
-            "required_age": "15",
+            "required_age": "16",
             "is_free": false,
             "controller_support": "full",
             "dlc": [
@@ -40,12 +40,12 @@
                 "Feral Interactive (Mac)"
             ],
             "price_overview": {
-                "currency": "AUD",
-                "initial": 4495,
-                "final": 4495,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "A$ 44.95"
+                "currency": "EUR",
+                "initial": 2999,
+                "final": 449,
+                "discount_percent": 85,
+                "initial_formatted": "29,99€",
+                "final_formatted": "4,49€"
             },
             "packages": [
                 37997,
@@ -64,33 +64,33 @@
                     "subs": [
                         {
                             "packageid": 37997,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-85%",
                             "percent_savings": 0,
-                            "option_text": "Thief - A$ 44.95",
+                            "option_text": "Thief - <span class=\"discount_original_price\">29,99€</span> 4,49€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 4495
+                            "price_in_cents_with_discount": 449
                         },
                         {
                             "packageid": 38079,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-85%",
                             "percent_savings": 0,
-                            "option_text": "Thief: Master Thief Edition - A$ 49.00",
+                            "option_text": "Thief: Master Thief Edition - <span class=\"discount_original_price\">32,99€</span> 4,94€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 4900
+                            "price_in_cents_with_discount": 494
                         },
                         {
                             "packageid": 38196,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-80%",
                             "percent_savings": 0,
-                            "option_text": "Thief DLC: Booster Bundle - A$ 3.50",
+                            "option_text": "Thief DLC: Booster Bundle - <span class=\"discount_original_price\">2,49€</span> 0,49€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 350
+                            "price_in_cents_with_discount": 49
                         }
                     ]
                 }
