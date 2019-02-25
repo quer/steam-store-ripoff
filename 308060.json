@@ -31,12 +31,12 @@
                 "Square Enix"
             ],
             "price_overview": {
-                "currency": "USD",
+                "currency": "EUR",
                 "initial": 1499,
-                "final": 1499,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "$14.99"
+                "final": 749,
+                "discount_percent": 50,
+                "initial_formatted": "14,99€",
+                "final_formatted": "7,49€"
             },
             "packages": [
                 46034
@@ -53,13 +53,13 @@
                     "subs": [
                         {
                             "packageid": 46034,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-50%",
                             "percent_savings": 0,
-                            "option_text": "Black The Fall - $14.99",
+                            "option_text": "Black The Fall - <span class=\"discount_original_price\">14,99€</span> 7,49€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1499
+                            "price_in_cents_with_discount": 749
                         }
                     ]
                 }
@@ -233,12 +233,12 @@
             ],
             "movies": [
                 {
-                    "id": 256689868,
-                    "name": "Black The Fall Launch Trailer ESRB EN",
-                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256689868/movie.293x165.jpg?t=1499788841",
+                    "id": 256689858,
+                    "name": "Black The Fall Launch Trailer PEGI EN",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256689858/movie.293x165.jpg?t=1499788824",
                     "webm": {
-                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256689868/movie480.webm?t=1499788841",
-                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256689868/movie_max.webm?t=1499788841"
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256689858/movie480.webm?t=1499788824",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256689858/movie_max.webm?t=1499788824"
                     },
                     "highlight": true
                 },
@@ -303,7 +303,7 @@
             },
             "release_date": {
                 "coming_soon": false,
-                "date": "Jul 11, 2017"
+                "date": "11 Jul, 2017"
             },
             "support_info": {
                 "url": "http://sqex.to/steamsupport",
