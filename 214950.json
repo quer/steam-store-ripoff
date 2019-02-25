@@ -46,12 +46,12 @@
                 "SEGA"
             ],
             "price_overview": {
-                "currency": "USD",
-                "initial": 5995,
-                "final": 5995,
+                "currency": "EUR",
+                "initial": 5499,
+                "final": 5499,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "$59.95"
+                "final_formatted": "54,99€"
             },
             "packages": [
                 31282
@@ -70,11 +70,11 @@
                             "packageid": 31282,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Total War: Rome II - $59.95",
+                            "option_text": "Total War: Rome II - 54,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 5995
+                            "price_in_cents_with_discount": 5499
                         }
                     ]
                 }
@@ -226,6 +226,26 @@
             ],
             "movies": [
                 {
+                    "id": 2028961,
+                    "name": "Total War: Rome II - Cleopatra PEGI Trailer",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/2028961/movie.293x165.jpg?t=1512132337",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/2028961/movie480.webm?t=1512132337",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/2028961/movie_max.webm?t=1512132337"
+                    },
+                    "highlight": true
+                },
+                {
+                    "id": 2028420,
+                    "name": "Total War: ROME II™ - The Battle of Teutoburg Forest Trailer PEGI",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/2028420/movie.293x165.jpg?t=1512132414",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/2028420/movie480.webm?t=1512132414",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/2028420/movie_max.webm?t=1512132414"
+                    },
+                    "highlight": true
+                },
+                {
                     "id": 2029033,
                     "name": "Total War™: ROME II Hannibal PEGI Trailer",
                     "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/2029033/movie.293x165.jpg?t=1512137549",
@@ -246,16 +266,6 @@
                     "highlight": true
                 },
                 {
-                    "id": 2028960,
-                    "name": "Total War™: ROME II Cleopatra ESRB Trailer",
-                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/2028960/movie.293x165.jpg?t=1512132330",
-                    "webm": {
-                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/2028960/movie480.webm?t=1512132330",
-                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/2028960/movie_max.webm?t=1512132330"
-                    },
-                    "highlight": false
-                },
-                {
                     "id": 2028968,
                     "name": "Total War: Rome II - Cleopatra COB Trailer",
                     "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/2028968/movie.293x165.jpg?t=1512132394",
@@ -266,28 +276,18 @@
                     "highlight": false
                 },
                 {
-                    "id": 2028419,
-                    "name": "Total War: ROME II™ - The Battle of Teutoburg Forest Trailer ESRB",
-                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/2028419/movie.293x165.jpg?t=1512132402",
+                    "id": 82068,
+                    "name": "Total War Rome II Carthage Gameplay Trailer PEGI",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/82068/movie.293x165.jpg?t=1447356771",
                     "webm": {
-                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/2028419/movie480.webm?t=1512132402",
-                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/2028419/movie_max.webm?t=1512132402"
-                    },
-                    "highlight": false
-                },
-                {
-                    "id": 82067,
-                    "name": "Total War Rome II Carthage Gameplay Trailer ESRB",
-                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/82067/movie.293x165.jpg?t=1512132432",
-                    "webm": {
-                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/82067/movie480.webm?t=1512132432",
-                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/82067/movie_max.webm?t=1512132432"
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/82068/movie480.webm?t=1447356771",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/82068/movie_max.webm?t=1447356771"
                     },
                     "highlight": false
                 }
             ],
             "recommendations": {
-                "total": 25573
+                "total": 25577
             },
             "achievements": {
                 "total": 188,
@@ -336,7 +336,7 @@
             },
             "release_date": {
                 "coming_soon": false,
-                "date": "Sep 2, 2013"
+                "date": "2 Sep, 2013"
             },
             "support_info": {
                 "url": "https://support.sega.co.uk",
