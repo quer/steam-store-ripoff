@@ -27,12 +27,12 @@
                 "Square Enix"
             ],
             "price_overview": {
-                "currency": "CNY",
-                "initial": 600,
-                "final": 600,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "¥ 6"
+                "currency": "EUR",
+                "initial": 99,
+                "final": 48,
+                "discount_percent": 52,
+                "initial_formatted": "0,99€",
+                "final_formatted": "0,48€"
             },
             "packages": [
                 4568
@@ -40,22 +40,22 @@
             "package_groups": [
                 {
                     "name": "default",
-                    "title": "购买 Just Cause 2: Monster Truck DLC",
+                    "title": "Buy Just Cause 2: Monster Truck DLC",
                     "description": "",
-                    "selection_text": "选择一个购买选项",
+                    "selection_text": "Select a purchase option",
                     "save_text": "",
                     "display_type": 0,
                     "is_recurring_subscription": "false",
                     "subs": [
                         {
                             "packageid": 4568,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-52%",
                             "percent_savings": 0,
-                            "option_text": "Just Cause 2 DLC - Monster Truck - ¥ 6",
+                            "option_text": "Just Cause 2 DLC - Monster Truck - <span class=\"discount_original_price\">0,99€</span> 0,48€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 600
+                            "price_in_cents_with_discount": 48
                         }
                     ]
                 }
@@ -68,21 +68,21 @@
             "categories": [
                 {
                     "id": 21,
-                    "description": "DLC"
+                    "description": "Downloadable Content"
                 },
                 {
                     "id": 28,
-                    "description": "完全支持控制器"
+                    "description": "Full controller support"
                 }
             ],
             "genres": [
                 {
                     "id": "1",
-                    "description": "动作"
+                    "description": "Action"
                 },
                 {
                     "id": "25",
-                    "description": "冒险"
+                    "description": "Adventure"
                 }
             ],
             "screenshots": [
@@ -97,7 +97,7 @@
             },
             "release_date": {
                 "coming_soon": false,
-                "date": "2010年6月22日"
+                "date": "22 Jun, 2010"
             },
             "support_info": {
                 "url": "",
