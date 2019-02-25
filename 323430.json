@@ -36,10 +36,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 699,
-                "final": 139,
-                "discount_percent": 80,
-                "initial_formatted": "6,99€",
-                "final_formatted": "1,39€"
+                "final": 699,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "6,99€"
             },
             "packages": [
                 50941
@@ -56,13 +56,13 @@
                     "subs": [
                         {
                             "packageid": 50941,
-                            "percent_savings_text": "-80%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Crow - <span class=\"discount_original_price\">6,99€</span> 1,39€",
+                            "option_text": "Crow - 6,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 139
+                            "price_in_cents_with_discount": 699
                         }
                     ]
                 }
