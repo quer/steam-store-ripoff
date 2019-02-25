@@ -5,7 +5,7 @@
             "type": "dlc",
             "name": "Tomb Raider: Animal Instinct",
             "steam_appid": 208801,
-            "required_age": "17",
+            "required_age": "18",
             "is_free": false,
             "controller_support": "full",
             "detailed_description": "The Animal instinct skill lights up XP-laden animals in Survival Instinct mode, to help Lara upgrade more quickly (single player upgrade).",
@@ -43,12 +43,12 @@
                 "Feral Interactive (Linux)"
             ],
             "price_overview": {
-                "currency": "USD",
-                "initial": 99,
-                "final": 49,
+                "currency": "EUR",
+                "initial": 79,
+                "final": 39,
                 "discount_percent": 51,
-                "initial_formatted": "$0.99",
-                "final_formatted": "$0.49"
+                "initial_formatted": "0,79€",
+                "final_formatted": "0,39€"
             },
             "packages": [
                 26616,
@@ -68,21 +68,21 @@
                             "packageid": 26616,
                             "percent_savings_text": "-51%",
                             "percent_savings": 0,
-                            "option_text": "Tomb Raider: Animal Instinct - <span class=\"discount_original_price\">$0.99</span> $0.49",
+                            "option_text": "Tomb Raider: Animal Instinct - <span class=\"discount_original_price\">0,79€</span> 0,39€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 49
+                            "price_in_cents_with_discount": 39
                         },
                         {
                             "packageid": 28255,
                             "percent_savings_text": "-86%",
                             "percent_savings": 0,
-                            "option_text": "Tomb Raider: Adventure Pack - <span class=\"discount_original_price\">$6.99</span> $0.97",
+                            "option_text": "Tomb Raider: Adventure Pack - <span class=\"discount_original_price\">5,49€</span> 0,76€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 97
+                            "price_in_cents_with_discount": 76
                         }
                     ]
                 }
@@ -136,7 +136,7 @@
             },
             "release_date": {
                 "coming_soon": false,
-                "date": "Mar 26, 2013"
+                "date": "26 Mar, 2013"
             },
             "support_info": {
                 "url": "",
