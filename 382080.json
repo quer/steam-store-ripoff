@@ -27,10 +27,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 399,
-                "final": 79,
-                "discount_percent": 80,
-                "initial_formatted": "3,99€",
-                "final_formatted": "0,79€"
+                "final": 399,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "3,99€"
             },
             "packages": [
                 71594
@@ -47,13 +47,13 @@
                     "subs": [
                         {
                             "packageid": 71594,
-                            "percent_savings_text": "-80%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Action Alien - <span class=\"discount_original_price\">3,99€</span> 0,79€",
+                            "option_text": "Action Alien - 3,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 79
+                            "price_in_cents_with_discount": 399
                         }
                     ]
                 }
