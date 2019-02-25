@@ -33,10 +33,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 4599,
-                "final": 1333,
-                "discount_percent": 71,
-                "initial_formatted": "45,99€",
-                "final_formatted": "13,33€"
+                "final": 4599,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "45,99€"
             },
             "packages": [
                 53605
@@ -53,13 +53,13 @@
                     "subs": [
                         {
                             "packageid": 53605,
-                            "percent_savings_text": "-71%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Flashpoint Campaigns: Red Storm - <span class=\"discount_original_price\">45,99€</span> 13,33€",
+                            "option_text": "Flashpoint Campaigns: Red Storm - 45,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1333
+                            "price_in_cents_with_discount": 4599
                         }
                     ]
                 }
