@@ -37,10 +37,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 1999,
-                "final": 1999,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "19,99€"
+                "final": 299,
+                "discount_percent": 85,
+                "initial_formatted": "19,99€",
+                "final_formatted": "2,99€"
             },
             "packages": [
                 53985,
@@ -59,33 +59,33 @@
                     "subs": [
                         {
                             "packageid": 53985,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-85%",
                             "percent_savings": 0,
-                            "option_text": "Lara Croft and the Temple of Osiris - 19,99€",
+                            "option_text": "Lara Croft and the Temple of Osiris - <span class=\"discount_original_price\">19,99€</span> 2,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1999
+                            "price_in_cents_with_discount": 299
                         },
                         {
                             "packageid": 58378,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-85%",
                             "percent_savings": 0,
-                            "option_text": "Lara Croft and the Temple Of Osiris Season Pass Included - 28,99€",
+                            "option_text": "Lara Croft and the Temple Of Osiris Season Pass Included - <span class=\"discount_original_price\">28,99€</span> 4,34€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 2899
+                            "price_in_cents_with_discount": 434
                         },
                         {
                             "packageid": 53993,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-85%",
                             "percent_savings": 0,
-                            "option_text": "Lara Croft and the Temple of Osiris 4-Pack - 59,97€",
+                            "option_text": "Lara Croft and the Temple of Osiris 4-Pack - <span class=\"discount_original_price\">59,97€</span> 8,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 5997
+                            "price_in_cents_with_discount": 899
                         }
                     ]
                 }
