@@ -28,12 +28,12 @@
                 ""
             ],
             "price_overview": {
-                "currency": "USD",
+                "currency": "EUR",
                 "initial": 99,
                 "final": 99,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "$0.99"
+                "final_formatted": "0,99€"
             },
             "packages": [
                 15500,
@@ -54,7 +54,7 @@
                             "packageid": 15500,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Magic 2014 - Sword of the Samurai Foil Conversion - $0.99",
+                            "option_text": "Magic 2014 - Sword of the Samurai Foil Conversion - 0,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
@@ -64,7 +64,7 @@
                             "packageid": 42757,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Magic 2014 - GOLD FOILS - $9.99",
+                            "option_text": "Magic 2014 - GOLD FOILS - 9,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
@@ -74,11 +74,11 @@
                             "packageid": 42755,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Magic 2014 - GOLD COMPLETE - $34.99",
+                            "option_text": "Magic 2014 - GOLD COMPLETE - 31,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 3499
+                            "price_in_cents_with_discount": 3199
                         }
                     ]
                 }
@@ -148,7 +148,7 @@
             },
             "release_date": {
                 "coming_soon": false,
-                "date": "Sep 18, 2013"
+                "date": "18 Sep, 2013"
             },
             "support_info": {
                 "url": "http://wizards.custhelp.com/",
