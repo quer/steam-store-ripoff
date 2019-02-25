@@ -32,12 +32,12 @@
                 }
             ],
             "price_overview": {
-                "currency": "USD",
+                "currency": "EUR",
                 "initial": 999,
                 "final": 999,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "$9.99"
+                "final_formatted": "9,99€"
             },
             "packages": [
                 14997,
@@ -57,7 +57,7 @@
                             "packageid": 14997,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Bang Bang Racing - $9.99",
+                            "option_text": "Bang Bang Racing - 9,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
@@ -78,8 +78,8 @@
                             "packageid": 241364,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "1 Month(s) @ $7.49/Month",
-                            "option_description": "<p class=\"game_purchase_subscription\">$9.99 at checkout, auto-renewed every 1 month(s) at $7.49.</p>",
+                            "option_text": "1 Month(s) @ 7,49€/Month",
+                            "option_description": "<p class=\"game_purchase_subscription\">9,99€ at checkout, auto-renewed every 1 month(s) at 7,49€.</p>",
                             "can_get_free_license": "0",
                             "is_free_license": false,
                             "price_in_cents_with_discount": 999
@@ -241,7 +241,7 @@
             },
             "release_date": {
                 "coming_soon": false,
-                "date": "Jun 8, 2012"
+                "date": "8 Jun, 2012"
             },
             "support_info": {
                 "url": "http://www.digitalreality.eu/support/support",
