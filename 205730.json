@@ -28,12 +28,12 @@
                 "Microsoft Studios"
             ],
             "price_overview": {
-                "currency": "USD",
-                "initial": 1499,
-                "final": 1499,
+                "currency": "EUR",
+                "initial": 1399,
+                "final": 1399,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "$14.99"
+                "final_formatted": "13,99€"
             },
             "packages": [
                 14091
@@ -52,11 +52,11 @@
                             "packageid": 14091,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Insanely Twisted Shadow Planet - $14.99",
+                            "option_text": "Insanely Twisted Shadow Planet - 13,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1499
+                            "price_in_cents_with_discount": 1399
                         }
                     ]
                 }
@@ -166,28 +166,6 @@
                     "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/205730/ss_8c77ba4c73e7c092b1ca90a6425209cd7dd2998d.1920x1080.jpg?t=1447355265"
                 }
             ],
-            "movies": [
-                {
-                    "id": 81560,
-                    "name": "Insanely Twisted Shadow Planet Trailer",
-                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/81560/movie.293x165.jpg?t=1447355667",
-                    "webm": {
-                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/81560/movie480.webm?t=1447355667",
-                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/81560/movie_max.webm?t=1447355667"
-                    },
-                    "highlight": true
-                },
-                {
-                    "id": 81561,
-                    "name": "Insanely Twisted Shadow Planet Hunter Trailer",
-                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/81561/movie.293x165.jpg?t=1447355667",
-                    "webm": {
-                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/81561/movie480.webm?t=1447355667",
-                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/81561/movie_max.webm?t=1447355667"
-                    },
-                    "highlight": true
-                }
-            ],
             "recommendations": {
                 "total": 361
             },
@@ -238,7 +216,7 @@
             },
             "release_date": {
                 "coming_soon": false,
-                "date": "Apr 17, 2012"
+                "date": "17 Apr, 2012"
             },
             "support_info": {
                 "url": "",
