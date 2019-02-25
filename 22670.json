@@ -32,12 +32,12 @@
                 }
             ],
             "price_overview": {
-                "currency": "USD",
+                "currency": "EUR",
                 "initial": 999,
                 "final": 999,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "$9.99"
+                "final_formatted": "9,99€"
             },
             "packages": [
                 6657,
@@ -57,7 +57,7 @@
                             "packageid": 6657,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Alien Breed 3: Descent - $9.99",
+                            "option_text": "Alien Breed 3: Descent - 9,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
@@ -67,11 +67,11 @@
                             "packageid": 7678,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Alien Breed™ Trilogy - $22.99",
+                            "option_text": "Alien Breed™ Trilogy - 20,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 2299
+                            "price_in_cents_with_discount": 2099
                         }
                     ]
                 }
@@ -219,7 +219,7 @@
             },
             "release_date": {
                 "coming_soon": false,
-                "date": "Nov 17, 2010"
+                "date": "17 Nov, 2010"
             },
             "support_info": {
                 "url": "",
