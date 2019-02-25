@@ -35,16 +35,16 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 99,
-                "final": 39,
-                "discount_percent": 61,
-                "initial_formatted": "0,99€",
-                "final_formatted": "0,39€"
+                "final": 99,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "0,99€"
             },
             "packages": [
                 63210,
                 236274,
-                95016,
-                66335
+                66335,
+                95016
             ],
             "package_groups": [
                 {
@@ -58,13 +58,13 @@
                     "subs": [
                         {
                             "packageid": 63210,
-                            "percent_savings_text": "-61%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "UBERMOSH - <span class=\"discount_original_price\">0,99€</span> 0,39€",
+                            "option_text": "UBERMOSH - 0,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 39
+                            "price_in_cents_with_discount": 99
                         },
                         {
                             "packageid": 236274,
@@ -77,16 +77,6 @@
                             "price_in_cents_with_discount": 99
                         },
                         {
-                            "packageid": 95016,
-                            "percent_savings_text": "-70%",
-                            "percent_savings": 0,
-                            "option_text": "UBERMOSH Collection - <span class=\"discount_original_price\">8,19€</span> 2,45€",
-                            "option_description": "",
-                            "can_get_free_license": "0",
-                            "is_free_license": false,
-                            "price_in_cents_with_discount": 245
-                        },
-                        {
                             "packageid": 66335,
                             "percent_savings_text": "",
                             "percent_savings": 0,
@@ -95,6 +85,16 @@
                             "can_get_free_license": "0",
                             "is_free_license": false,
                             "price_in_cents_with_discount": 390
+                        },
+                        {
+                            "packageid": 95016,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "UBERMOSH Collection - 8,19€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 819
                         }
                     ]
                 }
