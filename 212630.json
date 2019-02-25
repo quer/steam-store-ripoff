@@ -5,7 +5,7 @@
             "type": "game",
             "name": "Tom Clancy's Ghost Recon: Future Soldier™",
             "steam_appid": 212630,
-            "required_age": "17",
+            "required_age": 0,
             "is_free": false,
             "dlc": [
                 2028055,
@@ -34,12 +34,12 @@
                 "Ubisoft"
             ],
             "price_overview": {
-                "currency": "USD",
-                "initial": 1999,
-                "final": 1999,
+                "currency": "EUR",
+                "initial": 1499,
+                "final": 1499,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "$19.99"
+                "final_formatted": "14,99€"
             },
             "packages": [
                 15197,
@@ -59,21 +59,21 @@
                             "packageid": 15197,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Tom Clancy's Ghost Recon Future Soldier - Standard - $19.99",
+                            "option_text": "Tom Clancy's Ghost Recon Future Soldier - Standard - 14,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1999
+                            "price_in_cents_with_discount": 1499
                         },
                         {
                             "packageid": 15198,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Tom Clancy's Ghost Recon Future Soldier - Deluxe - $24.99",
+                            "option_text": "Tom Clancy's Ghost Recon Future Soldier - Deluxe - 19,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 2499
+                            "price_in_cents_with_discount": 1999
                         }
                     ]
                 }
@@ -152,7 +152,7 @@
             },
             "release_date": {
                 "coming_soon": false,
-                "date": "Jun 26, 2012"
+                "date": "27 Jun, 2012"
             },
             "support_info": {
                 "url": "https://support.ubi.com/",
