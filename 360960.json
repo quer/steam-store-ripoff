@@ -41,10 +41,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 599,
-                "final": 107,
-                "discount_percent": 82,
-                "initial_formatted": "5,99€",
-                "final_formatted": "1,07€"
+                "final": 599,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "5,99€"
             },
             "packages": [
                 64546,
@@ -63,13 +63,13 @@
                     "subs": [
                         {
                             "packageid": 64546,
-                            "percent_savings_text": "-82%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "POSTAL 2: Paradise Lost - <span class=\"discount_original_price\">5,99€</span> 1,07€",
+                            "option_text": "POSTAL 2: Paradise Lost - 5,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 107
+                            "price_in_cents_with_discount": 599
                         },
                         {
                             "packageid": 235342,
@@ -83,13 +83,13 @@
                         },
                         {
                             "packageid": 69654,
-                            "percent_savings_text": "-85%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "POSTAL 2 + Paradise Lost - <span class=\"discount_original_price\">12,99€</span> 1,94€",
+                            "option_text": "POSTAL 2 + Paradise Lost - 12,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 194
+                            "price_in_cents_with_discount": 1299
                         }
                     ]
                 }
