@@ -36,12 +36,12 @@
                 }
             ],
             "price_overview": {
-                "currency": "USD",
+                "currency": "EUR",
                 "initial": 999,
                 "final": 999,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "$9.99"
+                "final_formatted": "9,99€"
             },
             "packages": [
                 1045
@@ -60,7 +60,7 @@
                             "packageid": 1045,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "World of Goo - $9.99",
+                            "option_text": "World of Goo - 9,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
@@ -193,7 +193,7 @@
             },
             "release_date": {
                 "coming_soon": false,
-                "date": "Oct 13, 2008"
+                "date": "13 Oct, 2008"
             },
             "support_info": {
                 "url": "",

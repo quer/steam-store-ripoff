@@ -43,12 +43,12 @@
                 }
             ],
             "price_overview": {
-                "currency": "USD",
+                "currency": "EUR",
                 "initial": 1999,
                 "final": 199,
                 "discount_percent": 90,
-                "initial_formatted": "$19.99",
-                "final_formatted": "$1.99"
+                "initial_formatted": "19,99€",
+                "final_formatted": "1,99€"
             },
             "packages": [
                 17496,
@@ -70,7 +70,7 @@
                             "packageid": 17496,
                             "percent_savings_text": "-90%",
                             "percent_savings": 0,
-                            "option_text": "Edna & Harvey: Harvey's New Eyes - <span class=\"discount_original_price\">$19.99</span> $1.99",
+                            "option_text": "Edna & Harvey: Harvey's New Eyes - <span class=\"discount_original_price\">19,99€</span> 1,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
@@ -80,7 +80,7 @@
                             "packageid": 69238,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "The Daedalic Comedy Selection - $29.99",
+                            "option_text": "The Daedalic Comedy Selection - 29,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
@@ -90,7 +90,7 @@
                             "packageid": 44162,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Daedalic Adventure Bundle - $39.99",
+                            "option_text": "Daedalic Adventure Bundle - 39,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
@@ -100,11 +100,11 @@
                             "packageid": 55062,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "The Daedalic Armageddon Bundle - $129.99",
+                            "option_text": "The Daedalic Armageddon Bundle - 120,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 12999
+                            "price_in_cents_with_discount": 12099
                         }
                     ]
                 }
@@ -300,7 +300,7 @@
             },
             "release_date": {
                 "coming_soon": false,
-                "date": "Oct 16, 2012"
+                "date": "16 Oct, 2012"
             },
             "support_info": {
                 "url": "http://forum.daedalic.de/",
