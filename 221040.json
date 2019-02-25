@@ -5,7 +5,7 @@
             "type": "game",
             "name": "Resident Evil 6 / Biohazard 6",
             "steam_appid": 221040,
-            "required_age": "16",
+            "required_age": "17",
             "is_free": false,
             "dlc": [
                 232570,
@@ -34,12 +34,12 @@
                 "Capcom"
             ],
             "price_overview": {
-                "currency": "USD",
+                "currency": "EUR",
                 "initial": 2999,
                 "final": 2999,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "$29.99"
+                "final_formatted": "29,99€"
             },
             "packages": [
                 25586,
@@ -59,7 +59,7 @@
                             "packageid": 25586,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Resident Evil 6 - $29.99",
+                            "option_text": "Resident Evil 6 - 29,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
@@ -69,11 +69,11 @@
                             "packageid": 50980,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Resident Evil 6 Complete - $39.99",
+                            "option_text": "Resident Evil 6 Complete - 44,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 3999
+                            "price_in_cents_with_discount": 4499
                         }
                     ]
                 }
@@ -268,22 +268,22 @@
             ],
             "movies": [
                 {
-                    "id": 2028512,
-                    "name": "Resident Evil 6 Trailer ESRB",
-                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/2028512/movie.293x165.jpg?t=1447357673",
+                    "id": 2028513,
+                    "name": "Resident Evil 6 PEGI",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/2028513/movie.293x165.jpg?t=1447357673",
                     "webm": {
-                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/2028512/movie480.webm?t=1447357673",
-                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/2028512/movie_max.webm?t=1447357673"
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/2028513/movie480.webm?t=1447357673",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/2028513/movie_max.webm?t=1447357673"
                     },
                     "highlight": true
                 },
                 {
-                    "id": 2028505,
-                    "name": "Resident Evil 6 X L4D2 Trailer ESRB",
-                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/2028505/movie.293x165.jpg?t=1447357669",
+                    "id": 2028506,
+                    "name": "Resident Evil 6 X L4D2 Trailer PEGI",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/2028506/movie.293x165.jpg?t=1447357669",
                     "webm": {
-                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/2028505/movie480.webm?t=1447357669",
-                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/2028505/movie_max.webm?t=1447357669"
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/2028506/movie480.webm?t=1447357669",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/2028506/movie_max.webm?t=1447357669"
                     },
                     "highlight": true
                 }
@@ -338,7 +338,7 @@
             },
             "release_date": {
                 "coming_soon": false,
-                "date": "Mar 22, 2013"
+                "date": "21 Mar, 2013"
             },
             "support_info": {
                 "url": "http://www.capcom.co.jp/support/contact/",
