@@ -39,12 +39,12 @@
                 }
             ],
             "price_overview": {
-                "currency": "USD",
-                "initial": 1499,
-                "final": 1499,
+                "currency": "EUR",
+                "initial": 1199,
+                "final": 1199,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "$14.99"
+                "final_formatted": "11,99€"
             },
             "packages": [
                 16675,
@@ -65,31 +65,31 @@
                             "packageid": 16675,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Castle Crashers - $14.99",
+                            "option_text": "Castle Crashers - 11,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1499
+                            "price_in_cents_with_discount": 1199
                         },
                         {
                             "packageid": 16965,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Castle Crashers 4-pack - $44.97",
+                            "option_text": "Castle Crashers 4-pack - 35,97€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 4497
+                            "price_in_cents_with_discount": 3597
                         },
                         {
                             "packageid": 43401,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Can't Stop Laughing Bundle - $24.99",
+                            "option_text": "Can't Stop Laughing Bundle - 22,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 2499
+                            "price_in_cents_with_discount": 2299
                         }
                     ]
                 }
@@ -358,7 +358,7 @@
             },
             "release_date": {
                 "coming_soon": false,
-                "date": "Sep 26, 2012"
+                "date": "26 Sep, 2012"
             },
             "support_info": {
                 "url": "http://support.thebehemoth.com",
