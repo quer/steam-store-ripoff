@@ -5,7 +5,7 @@
             "type": "game",
             "name": "Zombie Driver HD",
             "steam_appid": 220820,
-            "required_age": "18",
+            "required_age": 0,
             "is_free": false,
             "controller_support": "full",
             "dlc": [
@@ -41,12 +41,12 @@
                 }
             ],
             "price_overview": {
-                "currency": "USD",
+                "currency": "EUR",
                 "initial": 999,
                 "final": 999,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "$9.99"
+                "final_formatted": "9,99€"
             },
             "packages": [
                 17516,
@@ -68,7 +68,7 @@
                             "packageid": 17516,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Zombie Driver HD - $9.99",
+                            "option_text": "Zombie Driver HD - 9,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
@@ -78,7 +78,7 @@
                             "packageid": 230330,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Zombie Driver HD - Commercial License - $9.99",
+                            "option_text": "Zombie Driver HD - Commercial License - 9,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
@@ -88,7 +88,7 @@
                             "packageid": 17518,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Zombie Driver HD Plus Soundtrack - $12.99",
+                            "option_text": "Zombie Driver HD Plus Soundtrack - 12,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
@@ -98,7 +98,7 @@
                             "packageid": 48344,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Zombie Driver HD Complete Edition - $14.99",
+                            "option_text": "Zombie Driver HD Complete Edition - 14,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
@@ -373,7 +373,7 @@
             },
             "release_date": {
                 "coming_soon": false,
-                "date": "Oct 17, 2012"
+                "date": "17 Oct, 2012"
             },
             "support_info": {
                 "url": "",
