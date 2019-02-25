@@ -5,7 +5,7 @@
             "type": "game",
             "name": "Dead Hungry Diner",
             "steam_appid": 211800,
-            "required_age": 0,
+            "required_age": "7",
             "is_free": false,
             "detailed_description": "<h1>Just Updated</h1><p>Update 1.9 - What's new: <br><ul class=\"bb_ul\"><li>Trading Cards<br></li><li>Achievements<br></li><li>Leaderboards for All-You-Can-Eat  levels (and new difficulty progression) </li></ul></p><br><h1>Update Notes</h1><p><strong>Update 1.8</strong><br>Improvements:<br><ul class=\"bb_ul\"><li>Fullscreen mode completely redone: Less black borders!<br></li><li>Added all the polish and little fixes from the iOS version to the PC version (for the iOS version see <span class=\"bb_removedlink\" data-community-tooltip=\"The URL that was linked here has been removed by our filters.  Usually this is done to prevent phishing and malware attacks.\">{LINK REMOVED}</span><a href=\"#\" class=\"collapsed_link\" style=\"display: none;\">here</a>)<br></li><li>Fixed single click sometimes reported as a double click (and killing a streak sometimes :-( )<br></li><li>Changed DRM wrapper. Should fix cases where game wouldn't start in Steam client but worked as DRM free version.<br></li><li>Sprites grouped in texture atlases and use of hardware texture compression for better support of low spec machines<br></li><li>Added user config file with additional options (for example to fix a missing mouse cursor). These options are published on the <a href=\"http://steamcommunity.com/app/211800/discussions/1/864973577841575716/\" target=\"_blank\" rel=\"noreferrer\"  >Community Forum</a></li></ul><br><strong>Update 1.5</strong><br>New Features:<br><ul class=\"bb_ul\"><li>Three new monster customers: Mummy Girl, Skelley the skeleton lady and the Crazy Weerwolf.<br></li><li>New &quot;affection&quot; game mechanic: Some monsters admire some other monsters so much that they do not engage in a brawl.<br></li><li>Level selection screen: You can replay any level you have played before to get all three stars (with all upgrades you bought so far). And Shady, the shop keeper, only accepts stars as currency to buy upgrades!<br></li><li>Levels are reworked with the new features<br></li><li>Artwork polished</li></ul></p><br><h1>About the Game</h1>Dead Hungry Diner is all about big combos, spells, monsters fighting monsters and finding your flow within the monstrous mayhem!<br>Help Gabe and Gabby, patrons of “The Dead Hungry Diner”, as they feed the creatures of the night buckets and buckets of juicy Brain Berry goop!<br>(Well... that’s the easy part!)<br>Do you know what happens when you place werewolves near vampires?<br>They fight!!! And you don’t want fighting when you have so many other things to take care of...<h2 class=\"bb_tag\"> Key Features</h2><ul class=\"bb_ul\"><li>55 Levels across 5 worlds<br></li><li>6 Unique Monster Types to Manage<br></li><li>2 Game Modes - Story and All-You-Can-Eat<br></li><li>Strategically use Spells and Abilities to Overcome Challenges<br></li><li>Grab Upgrades from the Blackest Market<br></li><li>Keep the Peace with Frankie the Bouncer<br></li><li>Help Defeat the Evil Monster Hunter<br></li><li>Easy to Follow In-Game Tutorials<br></li><li>Can You Achieve Master Ratings on all Levels?<br></li><li>(It’s Very Pretty!)</li></ul><strong>DISCLAIMER:</strong><br>Our Vampires Are 100% Sparkle and Love Triangle free!",
             "about_the_game": "Dead Hungry Diner is all about big combos, spells, monsters fighting monsters and finding your flow within the monstrous mayhem!<br>Help Gabe and Gabby, patrons of “The Dead Hungry Diner”, as they feed the creatures of the night buckets and buckets of juicy Brain Berry goop!<br>(Well... that’s the easy part!)<br>Do you know what happens when you place werewolves near vampires?<br>They fight!!! And you don’t want fighting when you have so many other things to take care of...<h2 class=\"bb_tag\"> Key Features</h2><ul class=\"bb_ul\"><li>55 Levels across 5 worlds<br></li><li>6 Unique Monster Types to Manage<br></li><li>2 Game Modes - Story and All-You-Can-Eat<br></li><li>Strategically use Spells and Abilities to Overcome Challenges<br></li><li>Grab Upgrades from the Blackest Market<br></li><li>Keep the Peace with Frankie the Bouncer<br></li><li>Help Defeat the Evil Monster Hunter<br></li><li>Easy to Follow In-Game Tutorials<br></li><li>Can You Achieve Master Ratings on all Levels?<br></li><li>(It’s Very Pretty!)</li></ul><strong>DISCLAIMER:</strong><br>Our Vampires Are 100% Sparkle and Love Triangle free!",
@@ -33,12 +33,12 @@
                 }
             ],
             "price_overview": {
-                "currency": "USD",
+                "currency": "EUR",
                 "initial": 399,
                 "final": 399,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "$3.99"
+                "final_formatted": "3,99€"
             },
             "packages": [
                 14679
@@ -57,7 +57,7 @@
                             "packageid": 14679,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Dead Hungry Diner - $3.99",
+                            "option_text": "Dead Hungry Diner - 3,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
@@ -196,7 +196,7 @@
             },
             "release_date": {
                 "coming_soon": false,
-                "date": "May 16, 2012"
+                "date": "16 May, 2012"
             },
             "support_info": {
                 "url": "http://www.deadhungrydiner.com/support",
