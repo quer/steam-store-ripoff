@@ -29,10 +29,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 549,
-                "final": 549,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "5,49€"
+                "final": 274,
+                "discount_percent": 50,
+                "initial_formatted": "5,49€",
+                "final_formatted": "2,74€"
             },
             "packages": [
                 50645
@@ -49,13 +49,13 @@
                     "subs": [
                         {
                             "packageid": 50645,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-50%",
                             "percent_savings": 0,
-                            "option_text": "Bin Weevils Arty Arcade - 5,49€",
+                            "option_text": "Bin Weevils Arty Arcade - <span class=\"discount_original_price\">5,49€</span> 2,74€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 549
+                            "price_in_cents_with_discount": 274
                         }
                     ]
                 }
