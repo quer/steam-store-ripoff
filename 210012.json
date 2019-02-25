@@ -5,7 +5,7 @@
             "type": "dlc",
             "name": "Resident Evil: Operation Raccoon City - Echo Six Expansion Pack 1",
             "steam_appid": 210012,
-            "required_age": "18",
+            "required_age": 0,
             "is_free": false,
             "detailed_description": "3 tough new Spec Ops  missions. Following intelligence from Jill Valentine, Echo Six elite squad  continue the hunt for the crucial evidence that will prove Umbrella's guilt in the Raccoon City outbreak. <br />\r\nThe chaos that has overtaken the city means a brutal battle for survival. Every squad member must bring their specialist skills to the fight to ensure the mission succeeds.",
             "about_the_game": "3 tough new Spec Ops  missions. Following intelligence from Jill Valentine, Echo Six elite squad  continue the hunt for the crucial evidence that will prove Umbrella's guilt in the Raccoon City outbreak. <br />\r\nThe chaos that has overtaken the city means a brutal battle for survival. Every squad member must bring their specialist skills to the fight to ensure the mission succeeds.",
@@ -31,12 +31,12 @@
                 "Capcom"
             ],
             "price_overview": {
-                "currency": "USD",
+                "currency": "EUR",
                 "initial": 999,
                 "final": 999,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "$9.99"
+                "final_formatted": "9,99€"
             },
             "packages": [
                 16265,
@@ -56,7 +56,7 @@
                             "packageid": 16265,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Resident Evil Operation Raccoon City Echo Six Expansion Pack 1 - $9.99",
+                            "option_text": "Resident Evil Operation Raccoon City Echo Six Expansion Pack 1 - 9,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
@@ -66,11 +66,11 @@
                             "packageid": 16896,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Resident Evil: Operation Raccoon City Complete Pack - $39.99",
+                            "option_text": "Resident Evil: Operation Raccoon City Complete Pack - 36,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 3999
+                            "price_in_cents_with_discount": 3699
                         }
                     ]
                 }
@@ -151,7 +151,7 @@
             },
             "release_date": {
                 "coming_soon": false,
-                "date": "Sep 24, 2012"
+                "date": "24 Sep, 2012"
             },
             "support_info": {
                 "url": "shop.capcom.com",

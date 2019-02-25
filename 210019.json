@@ -5,7 +5,7 @@
             "type": "dlc",
             "name": "Resident Evil: Operation Raccoon City - Weapon Stash",
             "steam_appid": 210019,
-            "required_age": "18",
+            "required_age": 0,
             "is_free": false,
             "detailed_description": "The ultimate arsenal upgrade! The Raccoon City Weapon Stash gives immediate access to all 8 special weapons including the Combat Shotgun, Anti-Material Rifle, Machine Pistol, Cowboy Shotgun, Perforator, Combat SMG, Matilda, and Classic Launcher.",
             "about_the_game": "The ultimate arsenal upgrade! The Raccoon City Weapon Stash gives immediate access to all 8 special weapons including the Combat Shotgun, Anti-Material Rifle, Machine Pistol, Cowboy Shotgun, Perforator, Combat SMG, Matilda, and Classic Launcher.",
@@ -31,12 +31,12 @@
                 "Capcom"
             ],
             "price_overview": {
-                "currency": "USD",
-                "initial": 499,
-                "final": 499,
+                "currency": "EUR",
+                "initial": 199,
+                "final": 199,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "$4.99"
+                "final_formatted": "1,99€"
             },
             "packages": [
                 14705,
@@ -56,21 +56,21 @@
                             "packageid": 14705,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Resident Evil: Operation Raccoon City: Raccoon City Weapon Stash - $4.99",
+                            "option_text": "Resident Evil: Operation Raccoon City: Raccoon City Weapon Stash - 1,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 499
+                            "price_in_cents_with_discount": 199
                         },
                         {
                             "packageid": 16896,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Resident Evil: Operation Raccoon City Complete Pack - $39.99",
+                            "option_text": "Resident Evil: Operation Raccoon City Complete Pack - 36,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 3999
+                            "price_in_cents_with_discount": 3699
                         }
                     ]
                 }
@@ -151,7 +151,7 @@
             },
             "release_date": {
                 "coming_soon": false,
-                "date": "Sep 24, 2012"
+                "date": "24 Sep, 2012"
             },
             "support_info": {
                 "url": "http://shop.capcom.com",
