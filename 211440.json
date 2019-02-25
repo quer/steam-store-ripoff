@@ -37,12 +37,12 @@
                 }
             ],
             "price_overview": {
-                "currency": "USD",
-                "initial": 499,
-                "final": 499,
+                "currency": "EUR",
+                "initial": 399,
+                "final": 399,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "$4.99"
+                "final_formatted": "3,99€"
             },
             "packages": [
                 15004
@@ -61,11 +61,11 @@
                             "packageid": 15004,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Adventures of Shuggy - $4.99",
+                            "option_text": "Adventures of Shuggy - 3,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 499
+                            "price_in_cents_with_discount": 399
                         }
                     ]
                 }
@@ -249,7 +249,7 @@
             },
             "release_date": {
                 "coming_soon": false,
-                "date": "Jun 13, 2012"
+                "date": "13 Jun, 2012"
             },
             "support_info": {
                 "url": "www.smudgedcat.com/shuggy.htm",

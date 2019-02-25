@@ -5,7 +5,7 @@
             "type": "game",
             "name": "Deadlight",
             "steam_appid": 211400,
-            "required_age": "17",
+            "required_age": "18",
             "is_free": false,
             "controller_support": "full",
             "dlc": [
@@ -32,12 +32,12 @@
                 "Microsoft Studios"
             ],
             "price_overview": {
-                "currency": "USD",
-                "initial": 1499,
-                "final": 1499,
+                "currency": "EUR",
+                "initial": 1199,
+                "final": 1199,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "$14.99"
+                "final_formatted": "11,99€"
             },
             "packages": [
                 17638,
@@ -57,21 +57,21 @@
                             "packageid": 17638,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Deadlight - $14.99",
+                            "option_text": "Deadlight - 11,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1499
+                            "price_in_cents_with_discount": 1199
                         },
                         {
                             "packageid": 17640,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Deadlight: Soundtrack Edition - $19.99",
+                            "option_text": "Deadlight: Soundtrack Edition - 14,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1999
+                            "price_in_cents_with_discount": 1499
                         }
                     ]
                 }
@@ -255,7 +255,7 @@
             },
             "release_date": {
                 "coming_soon": false,
-                "date": "Oct 25, 2012"
+                "date": "25 Oct, 2012"
             },
             "support_info": {
                 "url": "",
