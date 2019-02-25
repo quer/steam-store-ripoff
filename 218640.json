@@ -28,12 +28,12 @@
                 "Shiver Games"
             ],
             "price_overview": {
-                "currency": "USD",
+                "currency": "EUR",
                 "initial": 999,
                 "final": 199,
                 "discount_percent": 80,
-                "initial_formatted": "$9.99",
-                "final_formatted": "$1.99"
+                "initial_formatted": "9,99€",
+                "final_formatted": "1,99€"
             },
             "packages": [
                 35502,
@@ -53,7 +53,7 @@
                             "packageid": 35502,
                             "percent_savings_text": "-80%",
                             "percent_savings": 0,
-                            "option_text": "Lucius - <span class=\"discount_original_price\">$9.99</span> $1.99",
+                            "option_text": "Lucius - <span class=\"discount_original_price\">9,99€</span> 1,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
@@ -63,11 +63,11 @@
                             "packageid": 66219,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Lucius Bundle - $24.99",
+                            "option_text": "Lucius Bundle - 22,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 2499
+                            "price_in_cents_with_discount": 2299
                         }
                     ]
                 }
@@ -249,7 +249,7 @@
             },
             "release_date": {
                 "coming_soon": false,
-                "date": "Oct 26, 2012"
+                "date": "26 Oct, 2012"
             },
             "support_info": {
                 "url": "http://steamcommunity.com/app/218640/discussions/",
