@@ -5,7 +5,7 @@
             "type": "game",
             "name": "Company of Heroes 2",
             "steam_appid": 231430,
-            "required_age": "17",
+            "required_age": "18",
             "is_free": false,
             "dlc": [
                 691120,
@@ -44,12 +44,12 @@
                 "Feral Interactive (Linux)"
             ],
             "price_overview": {
-                "currency": "USD",
+                "currency": "EUR",
                 "initial": 1999,
                 "final": 1999,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "$19.99"
+                "final_formatted": "19,99€"
             },
             "packages": [
                 28773,
@@ -72,7 +72,7 @@
                             "packageid": 28773,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Company of Heroes 2 - $19.99",
+                            "option_text": "Company of Heroes 2 - 19,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
@@ -82,7 +82,7 @@
                             "packageid": 52874,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Company of Heroes Franchise Edition - $69.99",
+                            "option_text": "Company of Heroes Franchise Edition - 69,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
@@ -92,7 +92,7 @@
                             "packageid": 76411,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Company of Heroes 2 - The British Forces - $12.99",
+                            "option_text": "Company of Heroes 2 - The British Forces - 12,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
@@ -102,7 +102,7 @@
                             "packageid": 48941,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Company of Heroes 2 - Ardennes Assault - $19.99",
+                            "option_text": "Company of Heroes 2 - Ardennes Assault - 19,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
@@ -249,12 +249,22 @@
             ],
             "movies": [
                 {
-                    "id": 256656017,
-                    "name": "The British Forces - Launch Trailer ESRB",
-                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256656017/movie.293x165.jpg?t=1447377773",
+                    "id": 256656131,
+                    "name": "The British Forces - Launch Trailer PEGI UK",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256656131/movie.293x165.jpg?t=1447377833",
                     "webm": {
-                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256656017/movie480.webm?t=1447377773",
-                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256656017/movie_max.webm?t=1447377773"
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256656131/movie480.webm?t=1447377833",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256656131/movie_max.webm?t=1447377833"
+                    },
+                    "highlight": true
+                },
+                {
+                    "id": 256656133,
+                    "name": "The British Forces - Launch Trailer PEGI IT",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256656133/movie.293x165.jpg?t=1447377834",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256656133/movie480.webm?t=1447377834",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256656133/movie_max.webm?t=1447377834"
                     },
                     "highlight": true
                 },
@@ -279,12 +289,22 @@
                     "highlight": true
                 },
                 {
-                    "id": 2028894,
-                    "name": "Company of Heroes 2 - More than Tanks Trailer ESRB",
-                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/2028894/movie.293x165.jpg?t=1447358249",
+                    "id": 2028758,
+                    "name": "Company of Heroes 2 - Battlefield Trailer PEGI",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/2028758/movie.293x165.jpg?t=1447358002",
                     "webm": {
-                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/2028894/movie480.webm?t=1447358249",
-                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/2028894/movie_max.webm?t=1447358249"
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/2028758/movie480.webm?t=1447358002",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/2028758/movie_max.webm?t=1447358002"
+                    },
+                    "highlight": true
+                },
+                {
+                    "id": 2028762,
+                    "name": "Company of Heroes 2 - Battlefield Trailer PEGI ES",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/2028762/movie.jpg?t=1447358017",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/2028762/movie480.webm?t=1447358017",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/2028762/movie_max.webm?t=1447358017"
                     },
                     "highlight": true
                 }
@@ -339,7 +359,7 @@
             },
             "release_date": {
                 "coming_soon": false,
-                "date": "Jun 25, 2013"
+                "date": "25 Jun, 2013"
             },
             "support_info": {
                 "url": "https://support.sega.co.uk/hc/en-us/categories/200798539-Company-of-Heroes-Support",
