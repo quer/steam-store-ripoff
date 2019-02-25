@@ -36,12 +36,12 @@
                 "Refract"
             ],
             "price_overview": {
-                "currency": "USD",
-                "initial": 2499,
-                "final": 2499,
+                "currency": "EUR",
+                "initial": 2099,
+                "final": 2099,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "$24.99"
+                "final_formatted": "20,99€"
             },
             "packages": [
                 50612
@@ -60,11 +60,11 @@
                             "packageid": 50612,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Distance - $24.99",
+                            "option_text": "Distance - 20,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 2499
+                            "price_in_cents_with_discount": 2099
                         }
                     ]
                 }
@@ -339,7 +339,7 @@
             },
             "release_date": {
                 "coming_soon": false,
-                "date": "Sep 18, 2018"
+                "date": "18 Sep, 2018"
             },
             "support_info": {
                 "url": "",
