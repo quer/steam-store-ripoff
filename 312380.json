@@ -39,10 +39,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 999,
-                "final": 489,
-                "discount_percent": 51,
-                "initial_formatted": "9,99€",
-                "final_formatted": "4,89€"
+                "final": 999,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "9,99€"
             },
             "packages": [
                 47079
@@ -59,13 +59,13 @@
                     "subs": [
                         {
                             "packageid": 47079,
-                            "percent_savings_text": "-51%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Pandora: Eclipse of Nashira - <span class=\"discount_original_price\">9,99€</span> 4,89€",
+                            "option_text": "Pandora: Eclipse of Nashira - 9,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 489
+                            "price_in_cents_with_discount": 999
                         }
                     ]
                 }

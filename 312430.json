@@ -15,8 +15,8 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/312430/header.jpg?t=1517328091",
             "website": "http://slitherine.com/games/Sovereignty_CrownofKingsPC",
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OS: Vista/7/8/10<br></li><li><strong>Processor:</strong> 2.8 Ghz Dual Core<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia Geforce 200 series or equivalent (OpenGL 3.0 support)<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 500 MB available space<br></li><li><strong>Additional Notes:</strong> Integrated Graphic Cards  such as Intel HD series are not officially supported</li></ul>",
-                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 7 or 8<br></li><li><strong>Processor:</strong> 3.2 GHz Dual Core<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GeForce 500 series or equivalent<br></li><li><strong>DirectX:</strong> Version 11</li></ul>"
+                "minimum": "<strong>Минимальные:</strong><br><ul class=\"bb_ul\"><li><strong>ОС:</strong> OS: Vista/7/8/10<br></li><li><strong>Процессор:</strong> 2.8 Ghz Dual Core<br></li><li><strong>Оперативная память:</strong> 2 GB ОЗУ<br></li><li><strong>Видеокарта:</strong> Nvidia Geforce 200 series or equivalent (OpenGL 3.0 support)<br></li><li><strong>DirectX:</strong> Версии 9.0c<br></li><li><strong>Место на диске:</strong> 500 MB<br></li><li><strong>Дополнительно:</strong> Integrated Graphic Cards  such as Intel HD series are not officially supported</li></ul>",
+                "recommended": "<strong>Рекомендованные:</strong><br><ul class=\"bb_ul\"><li><strong>ОС:</strong> 7 or 8<br></li><li><strong>Процессор:</strong> 3.2 GHz Dual Core<br></li><li><strong>Оперативная память:</strong> 4 GB ОЗУ<br></li><li><strong>Видеокарта:</strong> Nvidia GeForce 500 series or equivalent<br></li><li><strong>DirectX:</strong> Версии 11</li></ul>"
             },
             "mac_requirements": [],
             "linux_requirements": [],
@@ -31,10 +31,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 2299,
-                "final": 689,
-                "discount_percent": 70,
-                "initial_formatted": "22,99€",
-                "final_formatted": "6,89€"
+                "final": 2299,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "22,99€"
             },
             "packages": [
                 47094
@@ -51,13 +51,13 @@
                     "subs": [
                         {
                             "packageid": 47094,
-                            "percent_savings_text": "-70%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Sovereignty: Crown of Kings - <span class=\"discount_original_price\">22,99€</span> 6,89€",
+                            "option_text": "Sovereignty: Crown of Kings - 22,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 689
+                            "price_in_cents_with_discount": 2299
                         }
                     ]
                 }
