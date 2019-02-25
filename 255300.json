@@ -36,10 +36,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 699,
-                "final": 699,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "6,99€"
+                "final": 97,
+                "discount_percent": 86,
+                "initial_formatted": "6,99€",
+                "final_formatted": "0,97€"
             },
             "packages": [
                 31565,
@@ -57,13 +57,13 @@
                     "subs": [
                         {
                             "packageid": 31565,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-86%",
                             "percent_savings": 0,
-                            "option_text": "Journey of a Roach - 6,99€",
+                            "option_text": "Journey of a Roach - <span class=\"discount_original_price\">6,99€</span> 0,97€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 699
+                            "price_in_cents_with_discount": 97
                         },
                         {
                             "packageid": 76471,
