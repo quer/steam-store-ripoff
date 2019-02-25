@@ -27,15 +27,15 @@
                 "BANDAI NAMCO Entertainment"
             ],
             "price_overview": {
-                "currency": "USD",
+                "currency": "EUR",
                 "initial": 1999,
                 "final": 1999,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "$19.99"
+                "final_formatted": "19,99€"
             },
             "packages": [
-                31826
+                31825
             ],
             "package_groups": [
                 {
@@ -48,10 +48,10 @@
                     "is_recurring_subscription": "false",
                     "subs": [
                         {
-                            "packageid": 31826,
+                            "packageid": 31825,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Naruto Shippuden: Ultimate Ninja Storm 3 Full Burst - $19.99",
+                            "option_text": "Naruto Shippuden Ultimate Ninja Storm 3 - EU Version - 19,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
@@ -186,12 +186,12 @@
             ],
             "movies": [
                 {
-                    "id": 256693228,
-                    "name": "NL_STORM3_STEAM_ESRB",
-                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256693228/movie.293x165.jpg?t=1503674502",
+                    "id": 256693227,
+                    "name": "NL_STORM3_STEAM_PEGI",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256693227/movie.293x165.jpg?t=1503674488",
                     "webm": {
-                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256693228/movie480.webm?t=1503674502",
-                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256693228/movie_max.webm?t=1503674502"
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256693227/movie480.webm?t=1503674488",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256693227/movie_max.webm?t=1503674488"
                     },
                     "highlight": true
                 },
@@ -266,7 +266,7 @@
             },
             "release_date": {
                 "coming_soon": false,
-                "date": "Oct 24, 2013"
+                "date": "24 Oct, 2013"
             },
             "support_info": {
                 "url": "http://www.bandainamcoent.com/",
