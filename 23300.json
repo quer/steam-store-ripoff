@@ -32,12 +32,12 @@
                 }
             ],
             "price_overview": {
-                "currency": "USD",
+                "currency": "EUR",
                 "initial": 599,
                 "final": 299,
                 "discount_percent": 50,
-                "initial_formatted": "$5.99",
-                "final_formatted": "$2.99"
+                "initial_formatted": "5,99€",
+                "final_formatted": "2,99€"
             },
             "packages": [
                 1648
@@ -56,7 +56,7 @@
                             "packageid": 1648,
                             "percent_savings_text": "-50%",
                             "percent_savings": 0,
-                            "option_text": "Yosumin!™ - <span class=\"discount_original_price\">$5.99</span> $2.99",
+                            "option_text": "Yosumin!™ - <span class=\"discount_original_price\">5,99€</span> 2,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
@@ -124,7 +124,7 @@
             },
             "release_date": {
                 "coming_soon": false,
-                "date": "May 26, 2009"
+                "date": "26 May, 2009"
             },
             "support_info": {
                 "url": "",
