@@ -5,7 +5,7 @@
             "type": "game",
             "name": "Just Cause™ 3",
             "steam_appid": 225540,
-            "required_age": "17",
+            "required_age": "18",
             "is_free": false,
             "controller_support": "full",
             "dlc": [
@@ -42,12 +42,12 @@
                 "Square Enix"
             ],
             "price_overview": {
-                "currency": "USD",
+                "currency": "EUR",
                 "initial": 1999,
                 "final": 299,
                 "discount_percent": 85,
-                "initial_formatted": "$19.99",
-                "final_formatted": "$2.99"
+                "initial_formatted": "19,99€",
+                "final_formatted": "2,99€"
             },
             "packages": [
                 83242,
@@ -69,7 +69,7 @@
                             "packageid": 83242,
                             "percent_savings_text": "-85%",
                             "percent_savings": 0,
-                            "option_text": "Just Cause 3 - <span class=\"discount_original_price\">$19.99</span> $2.99",
+                            "option_text": "Just Cause 3 - <span class=\"discount_original_price\">19,99€</span> 2,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
@@ -79,7 +79,7 @@
                             "packageid": 83241,
                             "percent_savings_text": "-70%",
                             "percent_savings": 0,
-                            "option_text": "Just Cause 3 - Explosive Weapon Pack - <span class=\"discount_original_price\">$3.99</span> $1.19",
+                            "option_text": "Just Cause 3 - Explosive Weapon Pack - <span class=\"discount_original_price\">3,99€</span> 1,19€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
@@ -89,7 +89,7 @@
                             "packageid": 83239,
                             "percent_savings_text": "-70%",
                             "percent_savings": 0,
-                            "option_text": "Just Cause 3 - Weaponized Vehicle Pack - <span class=\"discount_original_price\">$3.99</span> $1.19",
+                            "option_text": "Just Cause 3 - Weaponized Vehicle Pack - <span class=\"discount_original_price\">3,99€</span> 1,19€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
@@ -189,82 +189,82 @@
             ],
             "movies": [
                 {
-                    "id": 256673315,
-                    "name": "JCS_XL ESRB EN",
-                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256673315/movie.293x165.jpg?t=1477500536",
+                    "id": 256673313,
+                    "name": "JCS_XL PEGI EN",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256673313/movie.293x165.jpg?t=1477500515",
                     "webm": {
-                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256673315/movie480.webm?t=1477500536",
-                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256673315/movie_max.webm?t=1477500536"
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256673313/movie480.webm?t=1477500515",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256673313/movie_max.webm?t=1477500515"
                     },
                     "highlight": true
                 },
                 {
-                    "id": 256658775,
-                    "name": "JC3 Kasabian ESRB ENG",
-                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256658775/movie.293x165.jpg?t=1449067709",
+                    "id": 256658771,
+                    "name": "JC3 Kasabian PEGI ENG",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256658771/movie.293x165.jpg?t=1464972649",
                     "webm": {
-                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256658775/movie480.webm?t=1449067709",
-                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256658775/movie_max.webm?t=1449067709"
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256658771/movie480.webm?t=1464972649",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256658771/movie_max.webm?t=1464972649"
                     },
                     "highlight": true
                 },
                 {
-                    "id": 256657631,
-                    "name": "JC3 Story Trailer ESRB US",
-                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256657631/movie.293x165.jpg?t=1447378619",
+                    "id": 256657632,
+                    "name": "JC3 Story Trailer PEGI EN",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256657632/movie.293x165.jpg?t=1449067732",
                     "webm": {
-                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256657631/movie480.webm?t=1447378619",
-                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256657631/movie_max.webm?t=1447378619"
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256657632/movie480.webm?t=1449067732",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256657632/movie_max.webm?t=1449067732"
                     },
                     "highlight": true
                 },
                 {
-                    "id": 256654884,
-                    "name": "E3 Multi_Choice ESRB",
-                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256654884/movie.293x165.jpg?t=1447377164",
+                    "id": 256654885,
+                    "name": "E3 Multi_Choice PEGI ENG",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256654885/movie.293x165.jpg?t=1449067765",
                     "webm": {
-                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256654884/movie480.webm?t=1447377164",
-                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256654884/movie_max.webm?t=1447377164"
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256654885/movie480.webm?t=1449067765",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256654885/movie_max.webm?t=1449067765"
                     },
                     "highlight": true
                 },
                 {
-                    "id": 2038929,
-                    "name": "JC3 Pre Order ESRB",
-                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/2038929/movie.293x165.jpg?t=1447373655",
+                    "id": 2038934,
+                    "name": "JC3 Pre Order PEGI EN",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/2038934/movie.293x165.jpg?t=1447373667",
                     "webm": {
-                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/2038929/movie480.webm?t=1447373655",
-                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/2038929/movie_max.webm?t=1447373655"
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/2038934/movie480.webm?t=1447373667",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/2038934/movie_max.webm?t=1447373667"
                     },
                     "highlight": true
                 },
                 {
-                    "id": 2037252,
-                    "name": "Firestarter Trailer ESRB",
-                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/2037252/movie.293x165.jpg?t=1447369292",
+                    "id": 2037251,
+                    "name": "Firestarter Trailer PEGI EN",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/2037251/movie.293x165.jpg?t=1447369292",
                     "webm": {
-                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/2037252/movie480.webm?t=1447369292",
-                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/2037252/movie_max.webm?t=1447369292"
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/2037251/movie480.webm?t=1447369292",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/2037251/movie_max.webm?t=1447369292"
                     },
                     "highlight": true
                 },
                 {
-                    "id": 2040261,
-                    "name": "JC3 101 ESRB ENG",
-                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/2040261/movie.293x165.jpg?t=1447376746",
+                    "id": 2040262,
+                    "name": "JC3 101 PEGI ENG",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/2040262/movie.293x165.jpg?t=1449067835",
                     "webm": {
-                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/2040261/movie480.webm?t=1447376746",
-                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/2040261/movie_max.webm?t=1447376746"
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/2040262/movie480.webm?t=1449067835",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/2040262/movie_max.webm?t=1449067835"
                     },
                     "highlight": true
                 },
                 {
-                    "id": 256668234,
-                    "name": "Just Cause 3 DLC Bavarium Sea Heist ESRB EN",
-                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256668234/movie.293x165.jpg?t=1470931001",
+                    "id": 256668226,
+                    "name": "Just Cause 3 DLC Bavarium Sea Heist PEGI ENG",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256668226/movie.293x165.jpg?t=1470930961",
                     "webm": {
-                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256668234/movie480.webm?t=1470931001",
-                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256668234/movie_max.webm?t=1470931001"
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256668226/movie480.webm?t=1470930961",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256668226/movie_max.webm?t=1470930961"
                     },
                     "highlight": true
                 }
@@ -319,7 +319,7 @@
             },
             "release_date": {
                 "coming_soon": false,
-                "date": "Nov 30, 2015"
+                "date": "30 Nov, 2015"
             },
             "support_info": {
                 "url": "https://forums.justcause.com/categories/support",
