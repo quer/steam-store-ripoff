@@ -5,7 +5,7 @@
             "type": "game",
             "name": "Scourge: Outbreak",
             "steam_appid": 227560,
-            "required_age": "17",
+            "required_age": "16",
             "is_free": false,
             "controller_support": "full",
             "dlc": [
@@ -19,11 +19,11 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/227560/header.jpg?t=1478162856",
             "website": "www.scourgeoutbreak.com",
             "pc_requirements": {
-                "minimum": "<strong>Минимальные:</strong><br><ul class=\"bb_ul\"><li><strong>ОС:</strong> Windows XP (SP3), Windows Vista (SP2), Windows 7 and Windows 8<br></li><li><strong>Процессор:</strong> Processor Intel Core 2 Duo, AMD Athlon X2, or equivalent, running at 1.86 GHz or greater<br></li><li><strong>Оперативная память:</strong> 2 GB ОЗУ<br></li><li><strong>Видеокарта:</strong> Video Card DirectX 9.0c compatible, 256 MB of VRAM; NVIDIA GeForce 7900 GS, ATI Radeon HD 2600 Pro 256 MB, or greater<br></li><li><strong>DirectX:</strong> Версии 9.0<br></li><li><strong>Сеть:</strong> Широкополосное подключение к интернету<br></li><li><strong>Место на диске:</strong> 5 GB<br></li><li><strong>Звуковая карта:</strong> Soundcard DirectX 9.0c compatible, 16-bit</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP (SP3), Windows Vista (SP2), Windows 7 and Windows 8<br></li><li><strong>Processor:</strong> Processor Intel Core 2 Duo, AMD Athlon X2, or equivalent, running at 1.86 GHz or greater<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Video Card DirectX 9.0c compatible, 256 MB of VRAM; NVIDIA GeForce 7900 GS, ATI Radeon HD 2600 Pro 256 MB, or greater<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 5 GB available space<br></li><li><strong>Sound Card:</strong> Soundcard DirectX 9.0c compatible, 16-bit</li></ul>"
             },
             "mac_requirements": {
-                "minimum": "<strong>Минимальные:</strong><br><ul class=\"bb_ul\"><li><strong>ОС:</strong> Mac OS X Lion 10.7.5<br></li><li><strong>Процессор:</strong> Intel Core 2 Duo Processor<br></li><li><strong>Оперативная память:</strong> 4 GB ОЗУ<br></li><li><strong>Видеокарта:</strong> Nvidia 8800GT / AMD HD4870 / Intel Iris graphics card with at least 512 MB VRAM<br></li><li><strong>Сеть:</strong> Широкополосное подключение к интернету<br></li><li><strong>Место на диске:</strong> 5 GB<br></li><li><strong>Дополнительно:</strong> Keyboard / mouse or trackpad. Apple Magic Mouse and Trackpad users must remap the Aim control using in-game configuration, since those devices do not allow simultaneous left and right clicks.</li></ul>",
-                "recommended": "<strong>Рекомендованные:</strong><br><ul class=\"bb_ul\"><li><strong>ОС:</strong> Mac OS X Mavericks 10.9.2 or higher<br></li><li><strong>Процессор:</strong> Intel Core i Series processor<br></li><li><strong>Оперативная память:</strong> 8 GB ОЗУ<br></li><li><strong>Видеокарта:</strong> Nvidia 650M / AMD HD5750M with at least 1 GB VRAM<br></li><li><strong>Сеть:</strong> Широкополосное подключение к интернету<br></li><li><strong>Место на диске:</strong> 5 GB<br></li><li><strong>Дополнительно:</strong> Keyboard / 3-button Mouse. Apple Magic Mouse and Trackpad users must remap the Aim control using in-game configuration, since those devices do not allow simultaneous left and right clicks.</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OS X Lion 10.7.5<br></li><li><strong>Processor:</strong> Intel Core 2 Duo Processor<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia 8800GT / AMD HD4870 / Intel Iris graphics card with at least 512 MB VRAM<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 5 GB available space<br></li><li><strong>Additional Notes:</strong> Keyboard / mouse or trackpad. Apple Magic Mouse and Trackpad users must remap the Aim control using in-game configuration, since those devices do not allow simultaneous left and right clicks.</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OS X Mavericks 10.9.2 or higher<br></li><li><strong>Processor:</strong> Intel Core i Series processor<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia 650M / AMD HD5750M with at least 1 GB VRAM<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 5 GB available space<br></li><li><strong>Additional Notes:</strong> Keyboard / 3-button Mouse. Apple Magic Mouse and Trackpad users must remap the Aim control using in-game configuration, since those devices do not allow simultaneous left and right clicks.</li></ul>"
             },
             "linux_requirements": [],
             "developers": [
@@ -39,12 +39,12 @@
                 }
             ],
             "price_overview": {
-                "currency": "USD",
+                "currency": "EUR",
                 "initial": 799,
                 "final": 799,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "$7.99"
+                "final_formatted": "7,99€"
             },
             "packages": [
                 39955,
@@ -65,7 +65,7 @@
                             "packageid": 39955,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Scourge: Outbreak - $7.99",
+                            "option_text": "Scourge: Outbreak - 7,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
@@ -75,7 +75,7 @@
                             "packageid": 39962,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Scourge: Outbreak Ambrosia Bundle - $8.99",
+                            "option_text": "Scourge: Outbreak Ambrosia Bundle - 8,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
@@ -85,11 +85,11 @@
                             "packageid": 39961,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Scourge: Outbreak Death Squad 4-Pack - $24.99",
+                            "option_text": "Scourge: Outbreak Death Squad 4-Pack - 22,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 2499
+                            "price_in_cents_with_discount": 2299
                         }
                     ]
                 }
@@ -216,32 +216,32 @@
                     "highlight": true
                 },
                 {
-                    "id": 2031383,
-                    "name": "Teaser 2 ESRB",
-                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/2031383/movie.293x165.jpg?t=1447360867",
+                    "id": 2031384,
+                    "name": "Teaser 2 PEGI",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/2031384/movie.293x165.jpg?t=1447360867",
                     "webm": {
-                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/2031383/movie480.webm?t=1447360867",
-                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/2031383/movie_max.webm?t=1447360867"
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/2031384/movie480.webm?t=1447360867",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/2031384/movie_max.webm?t=1447360867"
                     },
                     "highlight": true
                 },
                 {
-                    "id": 2030483,
-                    "name": "Teaser 1 ESRB",
-                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/2030483/movie.293x165.jpg?t=1447359842",
+                    "id": 2031337,
+                    "name": "Teaser 1 PEGI",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/2031337/movie.293x165.jpg?t=1447360784",
                     "webm": {
-                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/2030483/movie480.webm?t=1447359842",
-                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/2030483/movie_max.webm?t=1447359842"
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/2031337/movie480.webm?t=1447360784",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/2031337/movie_max.webm?t=1447360784"
                     },
                     "highlight": true
                 },
                 {
-                    "id": 2031386,
-                    "name": "Co-op Trailer ESRB",
-                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/2031386/movie.293x165.jpg?t=1447360867",
+                    "id": 2031387,
+                    "name": "Co-op Trailer PEGI",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/2031387/movie.293x165.jpg?t=1447360868",
                     "webm": {
-                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/2031386/movie480.webm?t=1447360867",
-                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/2031386/movie_max.webm?t=1447360867"
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/2031387/movie480.webm?t=1447360868",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/2031387/movie_max.webm?t=1447360868"
                     },
                     "highlight": true
                 }
@@ -296,7 +296,7 @@
             },
             "release_date": {
                 "coming_soon": false,
-                "date": "Apr 2, 2014"
+                "date": "2 Apr, 2014"
             },
             "support_info": {
                 "url": "http://forums.tragnarion.com/forum.php",

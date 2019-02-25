@@ -32,12 +32,12 @@
                 "Feral Interactive (Mac)"
             ],
             "price_overview": {
-                "currency": "USD",
-                "initial": 1499,
-                "final": 1499,
+                "currency": "EUR",
+                "initial": 1299,
+                "final": 1299,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "$14.99"
+                "final_formatted": "12,99€"
             },
             "packages": [
                 31287
@@ -56,11 +56,11 @@
                             "packageid": 31287,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Castle of Illusion - $14.99",
+                            "option_text": "Castle of Illusion - 12,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1499
+                            "price_in_cents_with_discount": 1299
                         }
                     ]
                 }
@@ -130,6 +130,18 @@
                     "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/227600/ss_1a8051a788f69f792151b16963c0c2fad9bbd1b9.1920x1080.jpg?t=1546281227"
                 }
             ],
+            "movies": [
+                {
+                    "id": 256682138,
+                    "name": "PEGI Trailer",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256682138/movie.293x165.jpg?t=1490886174",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256682138/movie480.webm?t=1490886174",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256682138/movie_max.webm?t=1490886174"
+                    },
+                    "highlight": true
+                }
+            ],
             "recommendations": {
                 "total": 918
             },
@@ -180,7 +192,7 @@
             },
             "release_date": {
                 "coming_soon": false,
-                "date": "Sep 4, 2013"
+                "date": "4 Sep, 2013"
             },
             "support_info": {
                 "url": "https://support.sega.co.uk",
