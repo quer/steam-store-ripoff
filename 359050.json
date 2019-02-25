@@ -27,10 +27,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 99,
-                "final": 99,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "0,99€"
+                "final": 69,
+                "discount_percent": 30,
+                "initial_formatted": "0,99€",
+                "final_formatted": "0,69€"
             },
             "packages": [
                 63904
@@ -47,13 +47,13 @@
                     "subs": [
                         {
                             "packageid": 63904,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-30%",
                             "percent_savings": 0,
-                            "option_text": "Shower With Your Dad Simulator 2015: Do You Still Shower With Your Dad - 0,99€",
+                            "option_text": "Shower With Your Dad Simulator 2015: Do You Still Shower With Your Dad - <span class=\"discount_original_price\">0,99€</span> 0,69€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 99
+                            "price_in_cents_with_discount": 69
                         }
                     ]
                 }
@@ -135,7 +135,7 @@
                 }
             ],
             "recommendations": {
-                "total": 6462
+                "total": 6461
             },
             "achievements": {
                 "total": 21,
