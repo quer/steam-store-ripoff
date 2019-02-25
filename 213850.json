@@ -83,12 +83,12 @@
                 }
             ],
             "price_overview": {
-                "currency": "USD",
+                "currency": "EUR",
                 "initial": 999,
                 "final": 999,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "$9.99"
+                "final_formatted": "9,99€"
             },
             "packages": [
                 28838,
@@ -113,7 +113,7 @@
                             "packageid": 28838,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Magic 2014 - Duels of the Planeswalkers - $9.99",
+                            "option_text": "Magic 2014 - Duels of the Planeswalkers - 9,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
@@ -123,7 +123,7 @@
                             "packageid": 28839,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Magic 2014 - Duels of the Planeswalkers Special Edition - $19.99",
+                            "option_text": "Magic 2014 - Duels of the Planeswalkers Special Edition - 19,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
@@ -133,7 +133,7 @@
                             "packageid": 42756,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Magic 2014 - GOLD GAME - $19.99",
+                            "option_text": "Magic 2014 - GOLD GAME - 19,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
@@ -143,17 +143,17 @@
                             "packageid": 42755,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Magic 2014 - GOLD COMPLETE - $34.99",
+                            "option_text": "Magic 2014 - GOLD COMPLETE - 31,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 3499
+                            "price_in_cents_with_discount": 3199
                         },
                         {
                             "packageid": 28337,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Magic 2014 Sealed Slot 16-20 - $8.99",
+                            "option_text": "Magic 2014 Sealed Slot 16-20 - 8,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
@@ -163,7 +163,7 @@
                             "packageid": 28336,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Magic 2014 Sealed Slot 11-15 - $8.99",
+                            "option_text": "Magic 2014 Sealed Slot 11-15 - 8,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
@@ -173,7 +173,7 @@
                             "packageid": 28335,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Magic 2014 Sealed Slot 06-10 - $8.99",
+                            "option_text": "Magic 2014 Sealed Slot 06-10 - 8,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
@@ -344,7 +344,7 @@
             },
             "release_date": {
                 "coming_soon": false,
-                "date": "Jun 26, 2013"
+                "date": "26 Jun, 2013"
             },
             "support_info": {
                 "url": "http://wizards.custhelp.com/",
