@@ -5,7 +5,7 @@
             "type": "game",
             "name": "Call of Duty®: Advanced Warfare - Gold Edition",
             "steam_appid": 209650,
-            "required_age": "17",
+            "required_age": "18",
             "is_free": false,
             "controller_support": "full",
             "dlc": [
@@ -74,16 +74,16 @@
                 "Activision"
             ],
             "price_overview": {
-                "currency": "USD",
+                "currency": "EUR",
                 "initial": 5999,
                 "final": 5999,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "$59.99"
+                "final_formatted": "59,99€"
             },
             "packages": [
                 62532,
-                48872,
+                48874,
                 48871
             ],
             "package_groups": [
@@ -100,17 +100,17 @@
                             "packageid": 62532,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Call of Duty: Advanced Warfare - Gold Edition - $59.99",
+                            "option_text": "Call of Duty: Advanced Warfare - Gold Edition - 59,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
                             "price_in_cents_with_discount": 5999
                         },
                         {
-                            "packageid": 48872,
+                            "packageid": 48874,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Call of Duty: Advanced Warfare Digital Pro Edition - $99.99",
+                            "option_text": "Call of Duty: Advanced Warfare Digital Pro Edition - 99,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
@@ -120,7 +120,7 @@
                             "packageid": 48871,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Call of Duty: Advanced Warfare - Season Pass - $49.99",
+                            "option_text": "Call of Duty: Advanced Warfare - Season Pass - 49,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
@@ -408,7 +408,7 @@
             },
             "release_date": {
                 "coming_soon": false,
-                "date": "Nov 3, 2014"
+                "date": "3 Nov, 2014"
             },
             "support_info": {
                 "url": "http://support.activision.com/",
