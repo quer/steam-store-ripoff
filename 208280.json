@@ -30,17 +30,17 @@
                 "Dovetail Games - Trains"
             ],
             "price_overview": {
-                "currency": "USD",
+                "currency": "EUR",
                 "initial": 1999,
                 "final": 1999,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "$19.99"
+                "final_formatted": "19,99€"
             },
             "packages": [
                 14767,
-                28070,
-                46129
+                46129,
+                28070
             ],
             "package_groups": [
                 {
@@ -56,31 +56,31 @@
                             "packageid": 14767,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Train Simulator: London to Brighton - $19.99",
+                            "option_text": "Train Simulator: London to Brighton - 19,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
                             "price_in_cents_with_discount": 1999
                         },
                         {
-                            "packageid": 28070,
-                            "percent_savings_text": "",
-                            "percent_savings": 0,
-                            "option_text": "Train Simulator: Class A4 Pacifics Collection - $39.99",
-                            "option_description": "",
-                            "can_get_free_license": "0",
-                            "is_free_license": false,
-                            "price_in_cents_with_discount": 3999
-                        },
-                        {
                             "packageid": 46129,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Train Simulator: Commuter Europe Collection - $44.99",
+                            "option_text": "Train Simulator: Commuter Europe Collection - 33,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 4499
+                            "price_in_cents_with_discount": 3399
+                        },
+                        {
+                            "packageid": 28070,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Train Simulator: Class A4 Pacifics Collection - 36,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 3699
                         }
                     ]
                 }
@@ -174,7 +174,7 @@
             },
             "release_date": {
                 "coming_soon": false,
-                "date": "Jun 7, 2012"
+                "date": "7 Jun, 2012"
             },
             "support_info": {
                 "url": "http://www.railsimulator.com/support.php",
