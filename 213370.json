@@ -5,7 +5,7 @@
             "type": "dlc",
             "name": "Max Payne 3 Rockstar Pass",
             "steam_appid": 213370,
-            "required_age": "17",
+            "required_age": 0,
             "is_free": false,
             "detailed_description": "Purchase the Max Payne 3 Rockstar Pass and get access to all add-on content packs for Max Payne 3 for one discounted price.  All add-on content packs are scheduled to be released from the game’s launch through the end of 2012.  The Rockstar Pass gives you access to brand new multiplayer maps, modes, bursts, items, playable characters, challenges and more, all from the in-game interface.<br />\r\n<br />\r\nNote: All Rockstar Pass downloads are accessible in-game.  To avoid being charged twice, DO NOT purchase additional add-on content from any other source after buying and/or redeeming the Rockstar Pass. To gain access to DLC content, Rockstar Pass owners should proceed to the IN-GAME DLC marketplace and download each DLC pack.",
             "about_the_game": "Purchase the Max Payne 3 Rockstar Pass and get access to all add-on content packs for Max Payne 3 for one discounted price.  All add-on content packs are scheduled to be released from the game’s launch through the end of 2012.  The Rockstar Pass gives you access to brand new multiplayer maps, modes, bursts, items, playable characters, challenges and more, all from the in-game interface.<br />\r\n<br />\r\nNote: All Rockstar Pass downloads are accessible in-game.  To avoid being charged twice, DO NOT purchase additional add-on content from any other source after buying and/or redeeming the Rockstar Pass. To gain access to DLC content, Rockstar Pass owners should proceed to the IN-GAME DLC marketplace and download each DLC pack.",
@@ -28,16 +28,16 @@
                 "Rockstar Games"
             ],
             "price_overview": {
-                "currency": "USD",
+                "currency": "EUR",
                 "initial": 1499,
                 "final": 1499,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "$14.99"
+                "final_formatted": "14,99€"
             },
             "packages": [
                 14907,
-                27273
+                27275
             ],
             "package_groups": [
                 {
@@ -53,17 +53,17 @@
                             "packageid": 14907,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Max Payne 3 Rockstar Pass - $14.99",
+                            "option_text": "Max Payne 3 Rockstar Pass - 14,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
                             "price_in_cents_with_discount": 1499
                         },
                         {
-                            "packageid": 27273,
+                            "packageid": 27275,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Max Payne Complete - $54.96",
+                            "option_text": "Max Payne Complete - 54,96€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
@@ -173,7 +173,7 @@
             },
             "release_date": {
                 "coming_soon": false,
-                "date": "May 31, 2012"
+                "date": "31 May, 2012"
             },
             "support_info": {
                 "url": "http://support.rockstargames.com",
