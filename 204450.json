@@ -5,7 +5,7 @@
             "type": "game",
             "name": "Call of Juarez® Gunslinger",
             "steam_appid": 204450,
-            "required_age": "18",
+            "required_age": 0,
             "is_free": false,
             "controller_support": "full",
             "detailed_description": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/204450/extras/GIF_01_LOGO_A.png?t=1530868506\" ><h2 class=\"bb_tag\">CAN YOU STAND AGAINST THE DEADLIEST GUNSLINGERS WHO EVER LIVED?</h2><br>From the dust of a gold mine to the dirt of a saloon, Call of Juarez® Gunslinger is a real homage to the Wild West tales. Live the epic and violent journey of a ruthless bounty hunter on the trail of the West’s most notorious outlaws. Blurring the lines between man and myth, this adventure made of memorable encounters unveils the untold truth behind some of the greatest legends of the Old West.<br><br><strong>Key Features:</strong><br><br><ul class=\"bb_ul\"><li>Meet the legendary outlaws<br>Billy the Kid, Pat Garrett, Jesse James… Face down the West’s most notorious gunslingers and live the untold stories behind the legends.<br></li><li><strong>Dispense your own justice </strong><br>With a gun holster tied to your leg, become a ruthless bounty hunter on a journey made of all-out gun battles. <br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/204450/extras/GIF_02_AKCJA_B.png?t=1530868506\" ><br></li><li><strong>Prevail in deadly gunfights</strong><br>Master the art of blasting pistols, shooting rifles and dodging bullets. Unleash lethal combos to gun down multiple enemies in split seconds. <br></li><li><strong>Become the West’s finest </strong><br>Choose the specific gun-fighting skills you want to develop and acquire new shooting abilities to become the West’s finest gunslinger.<br></li><li><strong>Experience a lawless land </strong><br>Blaze a trail through the wilderness of the Old West and live an epic adventure through stunning Western landscapes. </li></ul><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/204450/extras/GIF_03_WIDOK_A.png?t=1530868506\" >",
@@ -35,12 +35,12 @@
                 }
             ],
             "price_overview": {
-                "currency": "USD",
-                "initial": 1499,
-                "final": 749,
+                "currency": "EUR",
+                "initial": 1249,
+                "final": 624,
                 "discount_percent": 50,
-                "initial_formatted": "$14.99",
-                "final_formatted": "$7.49"
+                "initial_formatted": "12,49€",
+                "final_formatted": "6,24€"
             },
             "packages": [
                 262760
@@ -59,11 +59,11 @@
                             "packageid": 262760,
                             "percent_savings_text": "-50%",
                             "percent_savings": 0,
-                            "option_text": "Call of Juarez Gunslinger - <span class=\"discount_original_price\">$14.99</span> $7.49",
+                            "option_text": "Call of Juarez Gunslinger - <span class=\"discount_original_price\">12,49€</span> 6,24€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 749
+                            "price_in_cents_with_discount": 624
                         }
                     ]
                 }
@@ -243,7 +243,7 @@
             },
             "release_date": {
                 "coming_soon": false,
-                "date": "May 22, 2013"
+                "date": "22 May, 2013"
             },
             "support_info": {
                 "url": "http://support.techland.pl",
