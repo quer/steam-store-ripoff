@@ -35,10 +35,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 3199,
-                "final": 3199,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "31,99€"
+                "final": 639,
+                "discount_percent": 80,
+                "initial_formatted": "31,99€",
+                "final_formatted": "6,39€"
             },
             "packages": [
                 40199,
@@ -57,23 +57,23 @@
                     "subs": [
                         {
                             "packageid": 40199,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-80%",
                             "percent_savings": 0,
-                            "option_text": "Starpoint Gemini 2 - 31,99€",
+                            "option_text": "Starpoint Gemini 2 - <span class=\"discount_original_price\">31,99€</span> 6,39€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 3199
+                            "price_in_cents_with_discount": 639
                         },
                         {
                             "packageid": 86157,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-80%",
                             "percent_savings": 0,
-                            "option_text": "Starpoint Gemini 2 Gold Pack - 38,99€",
+                            "option_text": "Starpoint Gemini 2 Gold Pack - <span class=\"discount_original_price\">38,99€</span> 7,79€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 3899
+                            "price_in_cents_with_discount": 779
                         },
                         {
                             "packageid": 66789,
