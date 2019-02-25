@@ -5,7 +5,7 @@
             "type": "game",
             "name": "DmC: Devil May Cry",
             "steam_appid": 220440,
-            "required_age": "17",
+            "required_age": "16",
             "is_free": false,
             "controller_support": "full",
             "dlc": [
@@ -35,12 +35,12 @@
                 "Capcom"
             ],
             "price_overview": {
-                "currency": "USD",
+                "currency": "EUR",
                 "initial": 2999,
                 "final": 2999,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "$29.99"
+                "final_formatted": "29,99€"
             },
             "packages": [
                 18995,
@@ -60,7 +60,7 @@
                             "packageid": 18995,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "DmC: Devil May Cry  - $29.99",
+                            "option_text": "DmC: Devil May Cry  - 29,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
@@ -70,7 +70,7 @@
                             "packageid": 50845,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "DmC: Devil May Cry Complete Pack - $39.99",
+                            "option_text": "DmC: Devil May Cry Complete Pack - 39,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
@@ -273,7 +273,7 @@
             },
             "release_date": {
                 "coming_soon": false,
-                "date": "Jan 24, 2013"
+                "date": "24 Jan, 2013"
             },
             "support_info": {
                 "url": "http://www.capcom.co.jp/support/contact/",
