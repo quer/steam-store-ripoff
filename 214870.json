@@ -52,12 +52,12 @@
                 }
             ],
             "price_overview": {
-                "currency": "USD",
+                "currency": "EUR",
                 "initial": 1999,
                 "final": 1999,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "$19.99"
+                "final_formatted": "19,99€"
             },
             "packages": [
                 17859,
@@ -81,7 +81,7 @@
                             "packageid": 17859,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Painkiller Hell & Damnation - $19.99",
+                            "option_text": "Painkiller Hell & Damnation - 19,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
@@ -91,7 +91,7 @@
                             "packageid": 17861,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Painkiller Hell & Damnation Standard 4-pack - $59.99",
+                            "option_text": "Painkiller Hell & Damnation Standard 4-pack - 59,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
@@ -101,7 +101,7 @@
                             "packageid": 17860,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Painkiller Hell & Damnation Collectors - $29.99",
+                            "option_text": "Painkiller Hell & Damnation Collectors - 29,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
@@ -111,7 +111,7 @@
                             "packageid": 35563,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Painkiller Complete Pack - $69.99",
+                            "option_text": "Painkiller Complete Pack - 69,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
@@ -121,7 +121,7 @@
                             "packageid": 18606,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Painkiller Hell and Damnation Collector's Edition Upgrade - $10.00",
+                            "option_text": "Painkiller Hell and Damnation Collector's Edition Upgrade - 10,--€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
@@ -142,8 +142,8 @@
                             "packageid": 241416,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "1 Month(s) @ $14.99/Month",
-                            "option_description": "<p class=\"game_purchase_subscription\">$19.99 at checkout, auto-renewed every 1 month(s) at $14.99.</p>",
+                            "option_text": "1 Month(s) @ 14,99€/Month",
+                            "option_description": "<p class=\"game_purchase_subscription\">19,99€ at checkout, auto-renewed every 1 month(s) at 14,99€.</p>",
                             "can_get_free_license": "0",
                             "is_free_license": false,
                             "price_in_cents_with_discount": 1999
@@ -351,7 +351,7 @@
             },
             "release_date": {
                 "coming_soon": false,
-                "date": "Oct 31, 2012"
+                "date": "31 Oct, 2012"
             },
             "support_info": {
                 "url": "http://forums.steampowered.com/forums/forumdisplay.php?f=146",
