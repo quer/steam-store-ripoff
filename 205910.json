@@ -38,12 +38,12 @@
                 }
             ],
             "price_overview": {
-                "currency": "USD",
+                "currency": "EUR",
                 "initial": 999,
                 "final": 999,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "$9.99"
+                "final_formatted": "9,99€"
             },
             "packages": [
                 15123,
@@ -64,7 +64,7 @@
                             "packageid": 15123,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Tiny and Big: Grandpa's Leftovers - $9.99",
+                            "option_text": "Tiny and Big: Grandpa's Leftovers - 9,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
@@ -74,17 +74,17 @@
                             "packageid": 15124,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Tiny and Big: Grandpa's Leftovers Soundtrack Edition - $14.99",
+                            "option_text": "Tiny and Big: Grandpa's Leftovers Soundtrack Edition - 13,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1499
+                            "price_in_cents_with_discount": 1399
                         },
                         {
                             "packageid": 59828,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "The Black Pants Suspenders Bundle - $14.99",
+                            "option_text": "The Black Pants Suspenders Bundle - 14,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
@@ -240,7 +240,7 @@
             },
             "release_date": {
                 "coming_soon": false,
-                "date": "Jun 19, 2012"
+                "date": "19 Jun, 2012"
             },
             "support_info": {
                 "url": "http://www.tinyandbig.com/support",
