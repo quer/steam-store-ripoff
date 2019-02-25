@@ -15,13 +15,13 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/375320/header.jpg?t=1550129628",
             "website": null,
             "pc_requirements": {
-                "minimum": "<strong>Минимальные:</strong><br><ul class=\"bb_ul\"><li><strong>ОС:</strong> Windows XP SP2, Vista, or Windows 7<br></li><li><strong>Процессор:</strong> 2.0+ GHz or better (dual core recommended)<br></li><li><strong>Оперативная память:</strong> 2 GB ОЗУ<br></li><li><strong>Видеокарта:</strong> NVIDIA 8000 series or higher (Shader Model 3 Compatible)<br></li><li><strong>DirectX:</strong> Версии 9.0c<br></li><li><strong>Место на диске:</strong> 1 GB</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP SP2, Vista, or Windows 7<br></li><li><strong>Processor:</strong> 2.0+ GHz or better (dual core recommended)<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA 8000 series or higher (Shader Model 3 Compatible)<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
             },
             "mac_requirements": {
-                "minimum": "<strong>Минимальные:</strong><br><ul class=\"bb_ul\"><li><strong>ОС:</strong> Snow Leopard (10.6)<br></li><li><strong>Процессор:</strong> Intel<br></li><li><strong>Оперативная память:</strong> 3 GB ОЗУ<br></li><li><strong>Видеокарта:</strong> SM3 512MB VRAM<br></li><li><strong>Место на диске:</strong> 1 GB</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Snow Leopard (10.6)<br></li><li><strong>Processor:</strong> Intel<br></li><li><strong>Memory:</strong> 3 GB RAM<br></li><li><strong>Graphics:</strong> SM3 512MB VRAM<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
             },
             "linux_requirements": {
-                "minimum": "<strong>Минимальные:</strong><br><ul class=\"bb_ul\"><li><strong>ОС:</strong> Linux or Ubuntu<br></li><li><strong>Процессор:</strong> Core 2 Duo<br></li><li><strong>Оперативная память:</strong> 3 GB ОЗУ<br></li><li><strong>Видеокарта:</strong> SM3 512MB VRAM<br></li><li><strong>Место на диске:</strong> 1 MB</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Linux or Ubuntu<br></li><li><strong>Processor:</strong> Core 2 Duo<br></li><li><strong>Memory:</strong> 3 GB RAM<br></li><li><strong>Graphics:</strong> SM3 512MB VRAM<br></li><li><strong>Storage:</strong> 1 MB available space</li></ul>"
             },
             "developers": [
                 "Greendev."
@@ -32,10 +32,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 79,
-                "final": 51,
-                "discount_percent": 35,
-                "initial_formatted": "0,79€",
-                "final_formatted": "0,51€"
+                "final": 79,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "0,79€"
             },
             "packages": [
                 69341
@@ -52,13 +52,13 @@
                     "subs": [
                         {
                             "packageid": 69341,
-                            "percent_savings_text": "-35%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Colortone - <span class=\"discount_original_price\">0,79€</span> 0,51€",
+                            "option_text": "Colortone - 0,79€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 51
+                            "price_in_cents_with_discount": 79
                         }
                     ]
                 }
