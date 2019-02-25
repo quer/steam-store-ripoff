@@ -36,12 +36,12 @@
                 }
             ],
             "price_overview": {
-                "currency": "USD",
+                "currency": "EUR",
                 "initial": 999,
                 "final": 999,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "$9.99"
+                "final_formatted": "9,99€"
             },
             "packages": [
                 26292,
@@ -61,7 +61,7 @@
                             "packageid": 26292,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Sacred Citadel - $9.99",
+                            "option_text": "Sacred Citadel - 9,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
@@ -71,11 +71,11 @@
                             "packageid": 26667,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Sacred Citadel 3-Pack - $24.99",
+                            "option_text": "Sacred Citadel 3-Pack - 22,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 2499
+                            "price_in_cents_with_discount": 2299
                         }
                     ]
                 }
@@ -244,7 +244,7 @@
             },
             "release_date": {
                 "coming_soon": false,
-                "date": "Apr 16, 2013"
+                "date": "16 Apr, 2013"
             },
             "support_info": {
                 "url": "helpcenter.deepsilver.com",
