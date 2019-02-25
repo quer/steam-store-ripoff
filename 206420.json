@@ -66,12 +66,12 @@
                 }
             ],
             "price_overview": {
-                "currency": "USD",
+                "currency": "EUR",
                 "initial": 1499,
                 "final": 1499,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "$14.99"
+                "final_formatted": "14,99€"
             },
             "packages": [
                 30397,
@@ -91,7 +91,7 @@
                             "packageid": 30397,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Saints Row IV - $14.99",
+                            "option_text": "Saints Row IV - 14,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
@@ -101,7 +101,7 @@
                             "packageid": 47804,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Saints Row IV: Game of the Century Edition - $19.99",
+                            "option_text": "Saints Row IV: Game of the Century Edition - 19,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
@@ -208,32 +208,22 @@
             ],
             "movies": [
                 {
-                    "id": 2029166,
-                    "name": "Saints Row IV Launch Trailer ESRB",
-                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/2029166/movie.293x165.jpg?t=1447358580",
+                    "id": 2028792,
+                    "name": "Saints Row 4 E3 Trailer PEGI",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/2028792/movie.293x165.jpg?t=1447358063",
                     "webm": {
-                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/2029166/movie480.webm?t=1447358580",
-                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/2029166/movie_max.webm?t=1447358580"
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/2028792/movie480.webm?t=1447358063",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/2028792/movie_max.webm?t=1447358063"
                     },
                     "highlight": true
                 },
                 {
-                    "id": 2028791,
-                    "name": "Saints Row 4 E3 Trailer",
-                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/2028791/movie.293x165.jpg?t=1447358063",
+                    "id": 2028794,
+                    "name": "Saints Row 4 Meet The President PEGI",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/2028794/movie.293x165.jpg?t=1447358064",
                     "webm": {
-                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/2028791/movie480.webm?t=1447358063",
-                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/2028791/movie_max.webm?t=1447358063"
-                    },
-                    "highlight": true
-                },
-                {
-                    "id": 2028793,
-                    "name": "Saints Row 4 Meet The President",
-                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/2028793/movie.293x165.jpg?t=1447358064",
-                    "webm": {
-                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/2028793/movie480.webm?t=1447358064",
-                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/2028793/movie_max.webm?t=1447358064"
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/2028794/movie480.webm?t=1447358064",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/2028794/movie_max.webm?t=1447358064"
                     },
                     "highlight": true
                 },
@@ -248,12 +238,12 @@
                     "highlight": false
                 },
                 {
-                    "id": 2028887,
-                    "name": "Saints Row IV - Independence Day Trailer ESRB",
-                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/2028887/movie.293x165.jpg?t=1447358242",
+                    "id": 2028885,
+                    "name": "Saints Row IV - Independence Day Trailer PEGI",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/2028885/movie.293x165.jpg?t=1447358242",
                     "webm": {
-                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/2028887/movie480.webm?t=1447358242",
-                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/2028887/movie_max.webm?t=1447358242"
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/2028885/movie480.webm?t=1447358242",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/2028885/movie_max.webm?t=1447358242"
                     },
                     "highlight": false
                 }
@@ -308,7 +298,7 @@
             },
             "release_date": {
                 "coming_soon": false,
-                "date": "Aug 19, 2013"
+                "date": "22 Aug, 2013"
             },
             "support_info": {
                 "url": "helpcenter.deepsilver.com",

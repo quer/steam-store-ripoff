@@ -5,7 +5,7 @@
             "type": "game",
             "name": "Clan of Champions",
             "steam_appid": 206230,
-            "required_age": "18",
+            "required_age": "16",
             "is_free": false,
             "dlc": [
                 215314,
@@ -37,12 +37,12 @@
                 "NIS America, Inc."
             ],
             "price_overview": {
-                "currency": "USD",
+                "currency": "EUR",
                 "initial": 199,
                 "final": 199,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "$1.99"
+                "final_formatted": "1,99€"
             },
             "packages": [
                 17839
@@ -61,7 +61,7 @@
                             "packageid": 17839,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Clan of Champions - $1.99",
+                            "option_text": "Clan of Champions - 1,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
@@ -250,7 +250,7 @@
             },
             "release_date": {
                 "coming_soon": false,
-                "date": "Oct 30, 2012"
+                "date": "30 Oct, 2012"
             },
             "support_info": {
                 "url": "http://nisamerica.com/index.php?nav=s",
