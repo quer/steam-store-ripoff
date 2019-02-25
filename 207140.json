@@ -42,12 +42,12 @@
                 }
             ],
             "price_overview": {
-                "currency": "USD",
+                "currency": "EUR",
                 "initial": 1499,
                 "final": 1499,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "$14.99"
+                "final_formatted": "14,99€"
             },
             "packages": [
                 101765,
@@ -67,7 +67,7 @@
                             "packageid": 101765,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "SpeedRunners - $14.99",
+                            "option_text": "SpeedRunners - 14,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
@@ -77,11 +77,11 @@
                             "packageid": 30605,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "SpeedRunners 4-Pack - $39.99",
+                            "option_text": "SpeedRunners 4-Pack - 36,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 3999
+                            "price_in_cents_with_discount": 3699
                         }
                     ]
                 }
@@ -301,7 +301,7 @@
             },
             "release_date": {
                 "coming_soon": false,
-                "date": "Apr 19, 2016"
+                "date": "19 Apr, 2016"
             },
             "support_info": {
                 "url": "http://tinyBuild.com",
