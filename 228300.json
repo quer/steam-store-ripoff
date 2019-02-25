@@ -5,7 +5,7 @@
             "type": "game",
             "name": "Remember Me",
             "steam_appid": 228300,
-            "required_age": "16",
+            "required_age": "15",
             "is_free": false,
             "controller_support": "full",
             "dlc": [
@@ -32,12 +32,12 @@
                 "Capcom"
             ],
             "price_overview": {
-                "currency": "USD",
-                "initial": 2999,
-                "final": 2999,
+                "currency": "EUR",
+                "initial": 2799,
+                "final": 2799,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "$29.99"
+                "final_formatted": "27,99€"
             },
             "packages": [
                 27234
@@ -56,11 +56,11 @@
                             "packageid": 27234,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Remember Me  - $29.99",
+                            "option_text": "Remember Me  - 27,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 2999
+                            "price_in_cents_with_discount": 2799
                         }
                     ]
                 }
@@ -255,7 +255,7 @@
             },
             "release_date": {
                 "coming_soon": false,
-                "date": "Jun 3, 2013"
+                "date": "6 Jun, 2013"
             },
             "support_info": {
                 "url": "http://www.capcom.co.jp/support/contact/",
