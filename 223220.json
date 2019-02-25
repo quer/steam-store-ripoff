@@ -39,12 +39,12 @@
                 }
             ],
             "price_overview": {
-                "currency": "USD",
+                "currency": "EUR",
                 "initial": 1499,
                 "final": 1499,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "$14.99"
+                "final_formatted": "14,99€"
             },
             "packages": [
                 17621,
@@ -65,7 +65,7 @@
                             "packageid": 17621,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Giana Sisters: Twisted Dreams - $14.99",
+                            "option_text": "Giana Sisters: Twisted Dreams - 14,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
@@ -75,7 +75,7 @@
                             "packageid": 31710,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Giana Sisters: Twisted Bundle - $17.99",
+                            "option_text": "Giana Sisters: Twisted Bundle - 17,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
@@ -96,8 +96,8 @@
                             "packageid": 241385,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "1 Month(s) @ $11.24/Month",
-                            "option_description": "<p class=\"game_purchase_subscription\">$14.99 at checkout, auto-renewed every 1 month(s) at $11.24.</p>",
+                            "option_text": "1 Month(s) @ 11,24€/Month",
+                            "option_description": "<p class=\"game_purchase_subscription\">14,99€ at checkout, auto-renewed every 1 month(s) at 11,24€.</p>",
                             "can_get_free_license": "0",
                             "is_free_license": false,
                             "price_in_cents_with_discount": 1499
@@ -397,7 +397,7 @@
             },
             "release_date": {
                 "coming_soon": false,
-                "date": "Oct 22, 2012"
+                "date": "22 Oct, 2012"
             },
             "support_info": {
                 "url": "",
