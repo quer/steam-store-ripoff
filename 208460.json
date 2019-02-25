@@ -36,12 +36,12 @@
                 }
             ],
             "price_overview": {
-                "currency": "USD",
-                "initial": 1499,
-                "final": 1499,
+                "currency": "EUR",
+                "initial": 1399,
+                "final": 1399,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "$14.99"
+                "final_formatted": "13,99€"
             },
             "packages": [
                 16087,
@@ -62,31 +62,31 @@
                             "packageid": 16087,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Tryst  - $14.99",
+                            "option_text": "Tryst  - 13,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1499
+                            "price_in_cents_with_discount": 1399
                         },
                         {
                             "packageid": 16111,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Tryst Premium Edition  - $19.99",
+                            "option_text": "Tryst Premium Edition  - 18,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1999
+                            "price_in_cents_with_discount": 1899
                         },
                         {
                             "packageid": 16112,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Tryst 4-Pack - $44.99",
+                            "option_text": "Tryst 4-Pack - 41,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 4499
+                            "price_in_cents_with_discount": 4199
                         }
                     ]
                 }
@@ -242,7 +242,7 @@
             },
             "release_date": {
                 "coming_soon": false,
-                "date": "Sep 14, 2012"
+                "date": "14 Sep, 2012"
             },
             "support_info": {
                 "url": "http://bluegiantinteractive.com/tryst",
