@@ -32,10 +32,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 199,
-                "final": 99,
-                "discount_percent": 50,
-                "initial_formatted": "1,99€",
-                "final_formatted": "0,99€"
+                "final": 199,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "1,99€"
             },
             "packages": [
                 83266
@@ -52,13 +52,13 @@
                     "subs": [
                         {
                             "packageid": 83266,
-                            "percent_savings_text": "-50%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Notch - Deluxe Content DLC - <span class=\"discount_original_price\">1,99€</span> 0,99€",
+                            "option_text": "Notch - Deluxe Content DLC - 1,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 99
+                            "price_in_cents_with_discount": 199
                         }
                     ]
                 }
