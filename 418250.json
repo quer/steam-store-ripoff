@@ -32,10 +32,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 3699,
-                "final": 924,
-                "discount_percent": 75,
-                "initial_formatted": "36,99€",
-                "final_formatted": "9,24€"
+                "final": 3699,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "36,99€"
             },
             "packages": [
                 84599
@@ -52,13 +52,13 @@
                     "subs": [
                         {
                             "packageid": 84599,
-                            "percent_savings_text": "-75%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Polaris Sector - <span class=\"discount_original_price\">36,99€</span> 9,24€",
+                            "option_text": "Polaris Sector - 36,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 924
+                            "price_in_cents_with_discount": 3699
                         }
                     ]
                 }
