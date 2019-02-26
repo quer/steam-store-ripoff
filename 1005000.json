@@ -28,12 +28,12 @@
                 "Workroom7"
             ],
             "price_overview": {
-                "currency": "USD",
-                "initial": 599,
-                "final": 359,
+                "currency": "EUR",
+                "initial": 499,
+                "final": 299,
                 "discount_percent": 40,
-                "initial_formatted": "$5.99",
-                "final_formatted": "$3.59"
+                "initial_formatted": "4,99€",
+                "final_formatted": "2,99€"
             },
             "packages": [
                 332322
@@ -52,11 +52,11 @@
                             "packageid": 332322,
                             "percent_savings_text": "-40%",
                             "percent_savings": 0,
-                            "option_text": "Argonauts Agency: Golden Fleece - <span class=\"discount_original_price\">$5.99</span> $3.59",
+                            "option_text": "Argonauts Agency: Golden Fleece - <span class=\"discount_original_price\">4,99€</span> 2,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 359
+                            "price_in_cents_with_discount": 299
                         }
                     ]
                 }
@@ -185,7 +185,7 @@
             },
             "release_date": {
                 "coming_soon": false,
-                "date": "Feb 22, 2019"
+                "date": "22 Feb, 2019"
             },
             "support_info": {
                 "url": "",
