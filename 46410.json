@@ -29,10 +29,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 889,
-                "final": 88,
-                "discount_percent": 90,
-                "initial_formatted": "8,89€",
-                "final_formatted": "0,88€"
+                "final": 889,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "8,89€"
             },
             "packages": [
                 4071
@@ -49,13 +49,13 @@
                     "subs": [
                         {
                             "packageid": 4071,
-                            "percent_savings_text": "-90%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Avencast - <span class=\"discount_original_price\">8,89€</span> 0,88€",
+                            "option_text": "Avencast - 8,89€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 88
+                            "price_in_cents_with_discount": 889
                         }
                     ]
                 }
