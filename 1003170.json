@@ -33,12 +33,12 @@
                 "Multiblender Games"
             ],
             "price_overview": {
-                "currency": "USD",
-                "initial": 99,
-                "final": 99,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "$0.99"
+                "currency": "EUR",
+                "initial": 79,
+                "final": 63,
+                "discount_percent": 20,
+                "initial_formatted": "0,79€",
+                "final_formatted": "0,63€"
             },
             "packages": [
                 331585
@@ -55,13 +55,13 @@
                     "subs": [
                         {
                             "packageid": 331585,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-20%",
                             "percent_savings": 0,
-                            "option_text": "Girls & sweets - Soundtrack - $0.99",
+                            "option_text": "Girls & sweets - Soundtrack - <span class=\"discount_original_price\">0,79€</span> 0,63€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 99
+                            "price_in_cents_with_discount": 63
                         }
                     ]
                 }
@@ -116,7 +116,7 @@
             ],
             "release_date": {
                 "coming_soon": false,
-                "date": "Dec 24, 2018"
+                "date": "24 Dec, 2018"
             },
             "support_info": {
                 "url": "",
