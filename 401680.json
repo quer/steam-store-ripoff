@@ -39,10 +39,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 899,
-                "final": 143,
-                "discount_percent": 84,
-                "initial_formatted": "8,99€",
-                "final_formatted": "1,43€"
+                "final": 899,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "8,99€"
             },
             "packages": [
                 78371,
@@ -60,13 +60,13 @@
                     "subs": [
                         {
                             "packageid": 78371,
-                            "percent_savings_text": "-84%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "POSTAL Redux - <span class=\"discount_original_price\">8,99€</span> 1,43€",
+                            "option_text": "POSTAL Redux - 8,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 143
+                            "price_in_cents_with_discount": 899
                         },
                         {
                             "packageid": 235350,
