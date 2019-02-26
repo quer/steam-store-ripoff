@@ -41,10 +41,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 999,
-                "final": 699,
-                "discount_percent": 30,
-                "initial_formatted": "9,99€",
-                "final_formatted": "6,99€"
+                "final": 999,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "9,99€"
             },
             "packages": [
                 151118
@@ -61,13 +61,13 @@
                     "subs": [
                         {
                             "packageid": 151118,
-                            "percent_savings_text": "-30%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Rocketbirds 2 Evolution - <span class=\"discount_original_price\">9,99€</span> 6,99€",
+                            "option_text": "Rocketbirds 2 Evolution - 9,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 699
+                            "price_in_cents_with_discount": 999
                         }
                     ]
                 }
