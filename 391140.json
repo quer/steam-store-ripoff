@@ -33,10 +33,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 819,
-                "final": 819,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "8,19€"
+                "final": 188,
+                "discount_percent": 77,
+                "initial_formatted": "8,19€",
+                "final_formatted": "1,88€"
             },
             "packages": [
                 74674
@@ -53,13 +53,13 @@
                     "subs": [
                         {
                             "packageid": 74674,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-77%",
                             "percent_savings": 0,
-                            "option_text": "Blast-off - 8,19€",
+                            "option_text": "Blast-off - <span class=\"discount_original_price\">8,19€</span> 1,88€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 819
+                            "price_in_cents_with_discount": 188
                         }
                     ]
                 }
