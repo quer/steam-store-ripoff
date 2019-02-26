@@ -39,10 +39,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 1299,
-                "final": 324,
-                "discount_percent": 75,
-                "initial_formatted": "12,99€",
-                "final_formatted": "3,24€"
+                "final": 1299,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "12,99€"
             },
             "packages": [
                 78566
@@ -59,13 +59,13 @@
                     "subs": [
                         {
                             "packageid": 78566,
-                            "percent_savings_text": "-75%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Overfall - <span class=\"discount_original_price\">12,99€</span> 3,24€",
+                            "option_text": "Overfall - 12,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 324
+                            "price_in_cents_with_discount": 1299
                         }
                     ]
                 }
