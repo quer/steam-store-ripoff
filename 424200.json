@@ -11,7 +11,7 @@
             "about_the_game": "Join the Little Mouse in her journey to explore the fascinating world of nature! Together you will learn about countless species of animals and plants in their natural habitats while feasting your eyes on a set of charmingly painted forests, waters and gardens.<br />\r\n<br />\r\n- discover over 160 species of animals and plants in 4 different habitats<br />\r\n- a fun way to learn<br />\r\n- easy and intuitive controls<br />\r\n- available in many languages",
             "short_description": "An interactive encyclopedia for kids and their parents.",
             "supported_languages": "English, French, German, Czech, Polish, Ukrainian, Italian, Spanish - Spain, Hungarian, Portuguese, Russian, Spanish - Latin America, Finnish, Japanese, Portuguese - Brazil",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/424200/header.jpg?t=1549658531",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/424200/header.jpg?t=1551087597",
             "website": "http://www.littlemousesencyclopedia.com",
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7, 8, 10<br></li><li><strong>Processor:</strong> 2.3 GHz Dual Core<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD 4000<br></li><li><strong>Storage:</strong> 700 MB available space</li></ul>"
@@ -29,7 +29,40 @@
             "publishers": [
                 "Circus Atos"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 499,
+                "final": 424,
+                "discount_percent": 15,
+                "initial_formatted": "4,99€",
+                "final_formatted": "4,24€"
+            },
+            "packages": [
+                86959
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Little Mouse's Encyclopedia",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 86959,
+                            "percent_savings_text": "-15%",
+                            "percent_savings": 0,
+                            "option_text": "Little Mouse's Encyclopedia - <span class=\"discount_original_price\">4,99€</span> 4,24€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 424
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": true,
@@ -58,33 +91,33 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/424200/ss_d1700f2012a627ca9a49b504f6b51427e60b9ff9.600x338.jpg?t=1549658531",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/424200/ss_d1700f2012a627ca9a49b504f6b51427e60b9ff9.1920x1080.jpg?t=1549658531"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/424200/ss_d1700f2012a627ca9a49b504f6b51427e60b9ff9.600x338.jpg?t=1551087597",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/424200/ss_d1700f2012a627ca9a49b504f6b51427e60b9ff9.1920x1080.jpg?t=1551087597"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/424200/ss_e1dcf2391c40044539b7a550f0d4d5d497dd82c7.600x338.jpg?t=1549658531",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/424200/ss_e1dcf2391c40044539b7a550f0d4d5d497dd82c7.1920x1080.jpg?t=1549658531"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/424200/ss_e1dcf2391c40044539b7a550f0d4d5d497dd82c7.600x338.jpg?t=1551087597",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/424200/ss_e1dcf2391c40044539b7a550f0d4d5d497dd82c7.1920x1080.jpg?t=1551087597"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/424200/ss_70184ab74b9ea528b01abcded1dfff1a2038b5a3.600x338.jpg?t=1549658531",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/424200/ss_70184ab74b9ea528b01abcded1dfff1a2038b5a3.1920x1080.jpg?t=1549658531"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/424200/ss_70184ab74b9ea528b01abcded1dfff1a2038b5a3.600x338.jpg?t=1551087597",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/424200/ss_70184ab74b9ea528b01abcded1dfff1a2038b5a3.1920x1080.jpg?t=1551087597"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/424200/ss_e29bebfd5d5f19f007a804ef108214f2b9aaf18a.600x338.jpg?t=1549658531",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/424200/ss_e29bebfd5d5f19f007a804ef108214f2b9aaf18a.1920x1080.jpg?t=1549658531"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/424200/ss_e29bebfd5d5f19f007a804ef108214f2b9aaf18a.600x338.jpg?t=1551087597",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/424200/ss_e29bebfd5d5f19f007a804ef108214f2b9aaf18a.1920x1080.jpg?t=1551087597"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/424200/ss_ca73c44ddc24a914a4974a8935996f83c416137c.600x338.jpg?t=1549658531",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/424200/ss_ca73c44ddc24a914a4974a8935996f83c416137c.1920x1080.jpg?t=1549658531"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/424200/ss_ca73c44ddc24a914a4974a8935996f83c416137c.600x338.jpg?t=1551087597",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/424200/ss_ca73c44ddc24a914a4974a8935996f83c416137c.1920x1080.jpg?t=1551087597"
                 },
                 {
                     "id": 5,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/424200/ss_8d1ada4c817da5548286547199f5621c61d5988b.600x338.jpg?t=1549658531",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/424200/ss_8d1ada4c817da5548286547199f5621c61d5988b.1920x1080.jpg?t=1549658531"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/424200/ss_8d1ada4c817da5548286547199f5621c61d5988b.600x338.jpg?t=1551087597",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/424200/ss_8d1ada4c817da5548286547199f5621c61d5988b.1920x1080.jpg?t=1551087597"
                 }
             ],
             "movies": [
@@ -100,14 +133,14 @@
                 }
             ],
             "release_date": {
-                "coming_soon": true,
+                "coming_soon": false,
                 "date": "25 Feb, 2019"
             },
             "support_info": {
                 "url": "http://www.circusatos.com/#contact",
                 "email": "michal@circusatos.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/424200/page_bg_generated_v6b.jpg?t=1549658531",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/424200/page_bg_generated_v6b.jpg?t=1551087597",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
