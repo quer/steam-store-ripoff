@@ -34,14 +34,14 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 299,
-                "final": 299,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "2,99€"
+                "final": 119,
+                "discount_percent": 60,
+                "initial_formatted": "2,99€",
+                "final_formatted": "1,19€"
             },
             "packages": [
-                304391,
-                82163
+                82163,
+                304391
             ],
             "package_groups": [
                 {
@@ -54,6 +54,16 @@
                     "is_recurring_subscription": "false",
                     "subs": [
                         {
+                            "packageid": 82163,
+                            "percent_savings_text": "-60%",
+                            "percent_savings": 0,
+                            "option_text": "Swordbreaker The Game - <span class=\"discount_original_price\">2,99€</span> 1,19€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 119
+                        },
+                        {
                             "packageid": 304391,
                             "percent_savings_text": "",
                             "percent_savings": 0,
@@ -62,16 +72,6 @@
                             "can_get_free_license": "0",
                             "is_free_license": false,
                             "price_in_cents_with_discount": 239
-                        },
-                        {
-                            "packageid": 82163,
-                            "percent_savings_text": "",
-                            "percent_savings": 0,
-                            "option_text": "Swordbreaker The Game - 2,99€",
-                            "option_description": "",
-                            "can_get_free_license": "0",
-                            "is_free_license": false,
-                            "price_in_cents_with_discount": 299
                         }
                     ]
                 }
