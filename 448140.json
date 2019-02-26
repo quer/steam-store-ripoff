@@ -38,10 +38,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 325,
-                "final": 325,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "3,25€"
+                "final": 162,
+                "discount_percent": 50,
+                "initial_formatted": "3,25€",
+                "final_formatted": "1,62€"
             },
             "packages": [
                 95882
@@ -58,13 +58,13 @@
                     "subs": [
                         {
                             "packageid": 95882,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-50%",
                             "percent_savings": 0,
-                            "option_text": "Night light - 3,25€",
+                            "option_text": "Night light - <span class=\"discount_original_price\">3,25€</span> 1,62€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 325
+                            "price_in_cents_with_discount": 162
                         }
                     ]
                 }
