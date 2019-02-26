@@ -28,10 +28,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 79,
-                "final": 47,
-                "discount_percent": 41,
-                "initial_formatted": "0,79€",
-                "final_formatted": "0,47€"
+                "final": 79,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "0,79€"
             },
             "packages": [
                 117889
@@ -48,13 +48,13 @@
                     "subs": [
                         {
                             "packageid": 117889,
-                            "percent_savings_text": "-41%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "GlaxIverse - <span class=\"discount_original_price\">0,79€</span> 0,47€",
+                            "option_text": "GlaxIverse - 0,79€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 47
+                            "price_in_cents_with_discount": 79
                         }
                     ]
                 }
