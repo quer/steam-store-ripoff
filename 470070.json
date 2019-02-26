@@ -43,10 +43,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 1499,
-                "final": 1499,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "14,99€"
+                "final": 374,
+                "discount_percent": 75,
+                "initial_formatted": "14,99€",
+                "final_formatted": "3,74€"
             },
             "packages": [
                 103881,
@@ -64,13 +64,13 @@
                     "subs": [
                         {
                             "packageid": 103881,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-75%",
                             "percent_savings": 0,
-                            "option_text": "Deus Ex: Mankind Divided DLC - Season Pass - 14,99€",
+                            "option_text": "Deus Ex: Mankind Divided DLC - Season Pass - <span class=\"discount_original_price\">14,99€</span> 3,74€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1499
+                            "price_in_cents_with_discount": 374
                         }
                     ]
                 }
