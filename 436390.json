@@ -32,10 +32,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 299,
-                "final": 59,
-                "discount_percent": 80,
-                "initial_formatted": "2,99€",
-                "final_formatted": "0,59€"
+                "final": 299,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "2,99€"
             },
             "packages": [
                 91333
@@ -52,13 +52,13 @@
                     "subs": [
                         {
                             "packageid": 91333,
-                            "percent_savings_text": "-80%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Prison Run and Gun - <span class=\"discount_original_price\">2,99€</span> 0,59€",
+                            "option_text": "Prison Run and Gun - 2,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 59
+                            "price_in_cents_with_discount": 299
                         }
                     ]
                 }
