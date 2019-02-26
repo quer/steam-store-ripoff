@@ -14,16 +14,16 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1002660/header.jpg?t=1547453919",
             "website": null,
             "pc_requirements": {
-                "minimum": "<strong>Минимальные:</strong><br><ul class=\"bb_ul\"><li>Требуются 64-разрядные процессор и операционная система<br></li><li><strong>ОС:</strong> Win 7<br></li><li><strong>Процессор:</strong> Intel Core 2 Duo<br></li><li><strong>Оперативная память:</strong> 4 GB ОЗУ<br></li><li><strong>Видеокарта:</strong> NVIDIA GTX 450<br></li><li><strong>DirectX:</strong> Версии 11<br></li><li><strong>Место на диске:</strong> 2 GB<br></li><li><strong>Звуковая карта:</strong> DirectX Compatible<br></li><li><strong>Дополнительно:</strong> You may need to update the driver for your video card and sound card</li></ul>",
-                "recommended": "<strong>Рекомендованные:</strong><br><ul class=\"bb_ul\"><li>Требуются 64-разрядные процессор и операционная система<br></li><li><strong>ОС:</strong> Win 10<br></li><li><strong>Процессор:</strong> Intel Core i5<br></li><li><strong>Оперативная память:</strong> 8 GB ОЗУ<br></li><li><strong>Видеокарта:</strong> NVIDIA GTX 770<br></li><li><strong>DirectX:</strong> Версии 11<br></li><li><strong>Место на диске:</strong> 2 GB<br></li><li><strong>Звуковая карта:</strong> DirectX Compatible<br></li><li><strong>Дополнительно:</strong> You may need to update the driver for your video card and sound card</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Win 7<br></li><li><strong>Processor:</strong> Intel Core 2 Duo<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GTX 450<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Sound Card:</strong> DirectX Compatible<br></li><li><strong>Additional Notes:</strong> You may need to update the driver for your video card and sound card</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Win 10<br></li><li><strong>Processor:</strong> Intel Core i5<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GTX 770<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Sound Card:</strong> DirectX Compatible<br></li><li><strong>Additional Notes:</strong> You may need to update the driver for your video card and sound card</li></ul>"
             },
             "mac_requirements": {
-                "minimum": "<strong>Минимальные:</strong><br><ul class=\"bb_ul\"><li>Требуются 64-разрядные процессор и операционная система</li></ul>",
-                "recommended": "<strong>Рекомендованные:</strong><br><ul class=\"bb_ul\"><li>Требуются 64-разрядные процессор и операционная система</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
             },
             "linux_requirements": {
-                "minimum": "<strong>Минимальные:</strong><br><ul class=\"bb_ul\"><li>Требуются 64-разрядные процессор и операционная система</li></ul>",
-                "recommended": "<strong>Рекомендованные:</strong><br><ul class=\"bb_ul\"><li>Требуются 64-разрядные процессор и операционная система</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
             },
             "developers": [
                 "easygame"
@@ -32,12 +32,12 @@
                 "easygame"
             ],
             "price_overview": {
-                "currency": "USD",
-                "initial": 599,
-                "final": 599,
+                "currency": "EUR",
+                "initial": 499,
+                "final": 499,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "$5.99"
+                "final_formatted": "4,99€"
             },
             "packages": [
                 331392
@@ -56,11 +56,11 @@
                             "packageid": 331392,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "MORGENSHTERN: easygame - $5.99",
+                            "option_text": "MORGENSHTERN: easygame - 4,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 599
+                            "price_in_cents_with_discount": 499
                         }
                     ]
                 }
@@ -158,7 +158,7 @@
             },
             "release_date": {
                 "coming_soon": false,
-                "date": "Jan 13, 2019"
+                "date": "13 Jan, 2019"
             },
             "support_info": {
                 "url": "https://vk.com/morgenshtern_game",
