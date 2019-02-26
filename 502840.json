@@ -34,10 +34,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 199,
-                "final": 87,
-                "discount_percent": 56,
-                "initial_formatted": "1,99€",
-                "final_formatted": "0,87€"
+                "final": 199,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "1,99€"
             },
             "packages": [
                 115617
@@ -54,13 +54,13 @@
                     "subs": [
                         {
                             "packageid": 115617,
-                            "percent_savings_text": "-56%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Pixel Puzzles Ultimate - Puzzle Pack: Fractals - <span class=\"discount_original_price\">1,99€</span> 0,87€",
+                            "option_text": "Pixel Puzzles Ultimate - Puzzle Pack: Fractals - 1,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 87
+                            "price_in_cents_with_discount": 199
                         }
                     ]
                 }
