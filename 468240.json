@@ -30,10 +30,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 1679,
-                "final": 755,
-                "discount_percent": 55,
-                "initial_formatted": "16,79€",
-                "final_formatted": "7,55€"
+                "final": 1679,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "16,79€"
             },
             "packages": [
                 144587,
@@ -51,13 +51,13 @@
                     "subs": [
                         {
                             "packageid": 144587,
-                            "percent_savings_text": "-55%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "VR Regatta - The Sailing Game - <span class=\"discount_original_price\">16,79€</span> 7,55€",
+                            "option_text": "VR Regatta - The Sailing Game - 16,79€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 755
+                            "price_in_cents_with_discount": 1679
                         }
                     ]
                 },
