@@ -32,10 +32,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 1495,
-                "final": 1196,
-                "discount_percent": 20,
-                "initial_formatted": "14,95€",
-                "final_formatted": "11,96€"
+                "final": 1495,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "14,95€"
             },
             "packages": [
                 90510
@@ -52,13 +52,13 @@
                     "subs": [
                         {
                             "packageid": 90510,
-                            "percent_savings_text": "-20%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "OMSI 2 Add-On Citybus O405 - <span class=\"discount_original_price\">14,95€</span> 11,96€",
+                            "option_text": "OMSI 2 Add-On Citybus O405 - 14,95€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1196
+                            "price_in_cents_with_discount": 1495
                         }
                     ]
                 }
