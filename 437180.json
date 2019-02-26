@@ -14,13 +14,13 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/437180/header.jpg?t=1534773779",
             "website": null,
             "pc_requirements": {
-                "minimum": "<strong>Minimální:</strong><br><ul class=\"bb_ul\"><li><strong>Operační systém:</strong> Windows XP / Vista / 7 / 8<br></li><li><strong>Procesor:</strong> 1.7 GHz or better<br></li><li><strong>Paměť:</strong> 1 GB RAM<br></li><li><strong>Grafická karta:</strong> 3D compatible graphic card<br></li><li><strong>DirectX:</strong> Verze 9.0<br></li><li><strong>Pevný disk:</strong> 400 MB volného místa<br></li><li><strong>Zvuková karta:</strong> Any sound card</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP / Vista / 7 / 8<br></li><li><strong>Processor:</strong> 1.7 GHz or better<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> 3D compatible graphic card<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 400 MB available space<br></li><li><strong>Sound Card:</strong> Any sound card</li></ul>"
             },
             "mac_requirements": {
-                "minimum": "<strong>Minimální:</strong><br><ul class=\"bb_ul\"><li><strong>Operační systém:</strong> MAC OS X 10.5.7<br></li><li><strong>Procesor:</strong> 1.7 GHz or better<br></li><li><strong>Paměť:</strong> 1 GB RAM<br></li><li><strong>Grafická karta:</strong> 3D compatible graphic card<br></li><li><strong>Pevný disk:</strong> 400 MB volného místa<br></li><li><strong>Zvuková karta:</strong> Any sound card</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> MAC OS X 10.5.7<br></li><li><strong>Processor:</strong> 1.7 GHz or better<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> 3D compatible graphic card<br></li><li><strong>Storage:</strong> 400 MB available space<br></li><li><strong>Sound Card:</strong> Any sound card</li></ul>"
             },
             "linux_requirements": {
-                "minimum": "<strong>Minimální:</strong><br><ul class=\"bb_ul\"><li><strong>Procesor:</strong> 1.7 GHz or better<br></li><li><strong>Paměť:</strong> 1 GB RAM<br></li><li><strong>Grafická karta:</strong> 3D compatible graphic card<br></li><li><strong>Pevný disk:</strong> 400 MB volného místa<br></li><li><strong>Zvuková karta:</strong> Any sound card</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Processor:</strong> 1.7 GHz or better<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> 3D compatible graphic card<br></li><li><strong>Storage:</strong> 400 MB available space<br></li><li><strong>Sound Card:</strong> Any sound card</li></ul>"
             },
             "developers": [
                 "Sergey Marchenko",
@@ -32,10 +32,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 199,
-                "final": 199,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "1,99€"
+                "final": 99,
+                "discount_percent": 50,
+                "initial_formatted": "1,99€",
+                "final_formatted": "0,99€"
             },
             "packages": [
                 91915
@@ -52,13 +52,13 @@
                     "subs": [
                         {
                             "packageid": 91915,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-50%",
                             "percent_savings": 0,
-                            "option_text": "ChillThePiro - 1,99€",
+                            "option_text": "ChillThePiro - <span class=\"discount_original_price\">1,99€</span> 0,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 199
+                            "price_in_cents_with_discount": 99
                         }
                     ]
                 }
