@@ -28,10 +28,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 819,
-                "final": 565,
-                "discount_percent": 31,
-                "initial_formatted": "8,19€",
-                "final_formatted": "5,65€"
+                "final": 819,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "8,19€"
             },
             "packages": [
                 110991
@@ -48,13 +48,13 @@
                     "subs": [
                         {
                             "packageid": 110991,
-                            "percent_savings_text": "-31%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Pixel Puzzles 2: Christmas - <span class=\"discount_original_price\">8,19€</span> 5,65€",
+                            "option_text": "Pixel Puzzles 2: Christmas - 8,19€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 565
+                            "price_in_cents_with_discount": 819
                         }
                     ]
                 }
