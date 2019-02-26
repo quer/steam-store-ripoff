@@ -36,10 +36,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 1499,
-                "final": 1499,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "14,99€"
+                "final": 1274,
+                "discount_percent": 15,
+                "initial_formatted": "14,99€",
+                "final_formatted": "12,74€"
             },
             "packages": [
                 90094,
@@ -57,13 +57,13 @@
                     "subs": [
                         {
                             "packageid": 90094,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-15%",
                             "percent_savings": 0,
-                            "option_text": "INVERSUS Deluxe - 14,99€",
+                            "option_text": "INVERSUS Deluxe - <span class=\"discount_original_price\">14,99€</span> 12,74€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1499
+                            "price_in_cents_with_discount": 1274
                         },
                         {
                             "packageid": 326445,
