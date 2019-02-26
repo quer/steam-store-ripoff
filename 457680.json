@@ -18,10 +18,10 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/457680/header.jpg?t=1545041184",
             "website": "http://opus.sigono.com",
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP, Vista, 7<br></li><li><strong>Processor:</strong> 1.4 GHz Dual Core or Greater<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> 256 MB OpenGL 2.0 compatible graphics card<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
+                "minimum": "<strong>Minimale :</strong><br><ul class=\"bb_ul\"><li><strong>Système d'exploitation :</strong> Windows XP, Vista, 7<br></li><li><strong>Processeur :</strong> 1.4 GHz Dual Core or Greater<br></li><li><strong>Mémoire vive :</strong> 2 GB de mémoire<br></li><li><strong>Graphiques :</strong> 256 MB OpenGL 2.0 compatible graphics card<br></li><li><strong>Espace disque :</strong> 1 GB d'espace disque disponible</li></ul>"
             },
             "mac_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OS X Snow Leopard or later<br></li><li><strong>Processor:</strong> 1.4 GHz Dual Core or Greater<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> 256 MB OpenGL 2.0 compatible graphics card<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
+                "minimum": "<strong>Minimale :</strong><br><ul class=\"bb_ul\"><li><strong>Système d'exploitation :</strong> OS X Snow Leopard or later<br></li><li><strong>Processeur :</strong> 1.4 GHz Dual Core or Greater<br></li><li><strong>Mémoire vive :</strong> 2 GB de mémoire<br></li><li><strong>Graphiques :</strong> 256 MB OpenGL 2.0 compatible graphics card<br></li><li><strong>Espace disque :</strong> 1 GB d'espace disque disponible</li></ul>"
             },
             "linux_requirements": [],
             "developers": [
@@ -33,10 +33,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 899,
-                "final": 899,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "8,99€"
+                "final": 629,
+                "discount_percent": 30,
+                "initial_formatted": "8,99€",
+                "final_formatted": "6,29€"
             },
             "packages": [
                 99384
@@ -53,13 +53,13 @@
                     "subs": [
                         {
                             "packageid": 99384,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-30%",
                             "percent_savings": 0,
-                            "option_text": "OPUS: The Day We Found Earth - 8,99€",
+                            "option_text": "OPUS: The Day We Found Earth - <span class=\"discount_original_price\">8,99€</span> 6,29€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 899
+                            "price_in_cents_with_discount": 629
                         }
                     ]
                 }
