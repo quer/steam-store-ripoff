@@ -28,10 +28,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 699,
-                "final": 699,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "6,99€"
+                "final": 97,
+                "discount_percent": 86,
+                "initial_formatted": "6,99€",
+                "final_formatted": "0,97€"
             },
             "packages": [
                 27566,
@@ -49,23 +49,23 @@
                     "subs": [
                         {
                             "packageid": 27566,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-86%",
                             "percent_savings": 0,
-                            "option_text": "Dungeon Siege - 6,99€",
+                            "option_text": "Dungeon Siege - <span class=\"discount_original_price\">6,99€</span> 0,97€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 699
+                            "price_in_cents_with_discount": 97
                         },
                         {
                             "packageid": 12086,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-85%",
                             "percent_savings": 0,
-                            "option_text": "Dungeon Siege Collection - 19,99€",
+                            "option_text": "Dungeon Siege Collection - <span class=\"discount_original_price\">19,99€</span> 2,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1999
+                            "price_in_cents_with_discount": 299
                         }
                     ]
                 }
