@@ -29,10 +29,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 229,
-                "final": 229,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "2,29€"
+                "final": 114,
+                "discount_percent": 50,
+                "initial_formatted": "2,29€",
+                "final_formatted": "1,14€"
             },
             "packages": [
                 101319
@@ -49,13 +49,13 @@
                     "subs": [
                         {
                             "packageid": 101319,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-50%",
                             "percent_savings": 0,
-                            "option_text": "Bug N Out - 2,29€",
+                            "option_text": "Bug N Out - <span class=\"discount_original_price\">2,29€</span> 1,14€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 229
+                            "price_in_cents_with_discount": 114
                         }
                     ]
                 }
