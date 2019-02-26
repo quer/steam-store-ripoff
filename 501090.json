@@ -29,10 +29,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 2099,
-                "final": 2099,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "20,99€"
+                "final": 1259,
+                "discount_percent": 40,
+                "initial_formatted": "20,99€",
+                "final_formatted": "12,59€"
             },
             "packages": [
                 115015
@@ -49,13 +49,13 @@
                     "subs": [
                         {
                             "packageid": 115015,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-40%",
                             "percent_savings": 0,
-                            "option_text": "Design it, Drive it : Speedboats - 20,99€",
+                            "option_text": "Design it, Drive it : Speedboats - <span class=\"discount_original_price\">20,99€</span> 12,59€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 2099
+                            "price_in_cents_with_discount": 1259
                         }
                     ]
                 }
