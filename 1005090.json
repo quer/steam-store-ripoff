@@ -25,51 +25,11 @@
             "publishers": [
                 "Chajilei Game"
             ],
-            "price_overview": {
-                "currency": "USD",
-                "initial": 150,
-                "final": 150,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "$1.50"
-            },
             "packages": [
                 332354,
                 339590
             ],
-            "package_groups": [
-                {
-                    "name": "default",
-                    "title": "Buy 传送到异世界开后宫",
-                    "description": "",
-                    "selection_text": "Select a purchase option",
-                    "save_text": "",
-                    "display_type": 0,
-                    "is_recurring_subscription": "false",
-                    "subs": [
-                        {
-                            "packageid": 332354,
-                            "percent_savings_text": "",
-                            "percent_savings": 0,
-                            "option_text": "传送到异世界开后宫 - $1.50",
-                            "option_description": "",
-                            "can_get_free_license": "0",
-                            "is_free_license": false,
-                            "price_in_cents_with_discount": 150
-                        },
-                        {
-                            "packageid": 339590,
-                            "percent_savings_text": "",
-                            "percent_savings": 0,
-                            "option_text": "传送到别的世界开后宫 - Commercial License - $1.50",
-                            "option_description": "",
-                            "can_get_free_license": "0",
-                            "is_free_license": false,
-                            "price_in_cents_with_discount": 150
-                        }
-                    ]
-                }
-            ],
+            "package_groups": [],
             "platforms": {
                 "windows": true,
                 "mac": false,
@@ -139,7 +99,7 @@
             },
             "release_date": {
                 "coming_soon": false,
-                "date": "Jan 25, 2019"
+                "date": "25 Jan, 2019"
             },
             "support_info": {
                 "url": "",
