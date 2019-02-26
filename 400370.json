@@ -14,7 +14,7 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/400370/header.jpg?t=1530529922",
             "website": "http://www.funboxmedia.co.uk/",
             "pc_requirements": {
-                "minimum": "<strong>Mínimos:</strong><br><ul class=\"bb_ul\"><li><strong>SO:</strong> Windows XP, Vista, 7, 8<br></li><li><strong>Processador:</strong> 1.8 GHz Processor<br></li><li><strong>Memória:</strong> 512 MB de RAM<br></li><li><strong>Placa de vídeo:</strong> 3D graphics card compatible with DirectX 7</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP, Vista, 7, 8<br></li><li><strong>Processor:</strong> 1.8 GHz Processor<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> 3D graphics card compatible with DirectX 7</li></ul>"
             },
             "mac_requirements": [],
             "linux_requirements": [],
@@ -27,10 +27,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 239,
-                "final": 71,
-                "discount_percent": 70,
-                "initial_formatted": "2,39€",
-                "final_formatted": "0,71€"
+                "final": 239,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "2,39€"
             },
             "packages": [
                 77649
@@ -47,13 +47,13 @@
                     "subs": [
                         {
                             "packageid": 77649,
-                            "percent_savings_text": "-70%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Normality - <span class=\"discount_original_price\">2,39€</span> 0,71€",
+                            "option_text": "Normality - 2,39€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 71
+                            "price_in_cents_with_discount": 239
                         }
                     ]
                 }
