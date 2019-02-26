@@ -30,12 +30,12 @@
                 "SinVR"
             ],
             "price_overview": {
-                "currency": "USD",
-                "initial": 999,
-                "final": 599,
+                "currency": "EUR",
+                "initial": 819,
+                "final": 491,
                 "discount_percent": 40,
-                "initial_formatted": "$9.99",
-                "final_formatted": "$5.99"
+                "initial_formatted": "8,19€",
+                "final_formatted": "4,91€"
             },
             "packages": [
                 330449
@@ -54,11 +54,11 @@
                             "packageid": 330449,
                             "percent_savings_text": "-40%",
                             "percent_savings": 0,
-                            "option_text": "SinVR - Sputnik 69 - <span class=\"discount_original_price\">$9.99</span> $5.99",
+                            "option_text": "SinVR - Sputnik 69 - <span class=\"discount_original_price\">8,19€</span> 4,91€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 599
+                            "price_in_cents_with_discount": 491
                         }
                     ]
                 }
@@ -166,7 +166,7 @@
             },
             "release_date": {
                 "coming_soon": false,
-                "date": "Feb 21, 2019"
+                "date": "21 Feb, 2019"
             },
             "support_info": {
                 "url": "https://www.sinvr.co/support.php",

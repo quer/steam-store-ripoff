@@ -25,12 +25,12 @@
                 "W.T.B."
             ],
             "price_overview": {
-                "currency": "USD",
-                "initial": 99,
-                "final": 67,
+                "currency": "EUR",
+                "initial": 77,
+                "final": 52,
                 "discount_percent": 32,
-                "initial_formatted": "$0.99",
-                "final_formatted": "$0.67"
+                "initial_formatted": "0,77€",
+                "final_formatted": "0,52€"
             },
             "packages": [
                 330554
@@ -49,11 +49,11 @@
                             "packageid": 330554,
                             "percent_savings_text": "-32%",
                             "percent_savings": 0,
-                            "option_text": "Love Hentai: Endgame - <span class=\"discount_original_price\">$0.99</span> $0.67",
+                            "option_text": "Love Hentai: Endgame - <span class=\"discount_original_price\">0,77€</span> 0,52€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 67
+                            "price_in_cents_with_discount": 52
                         }
                     ]
                 }
@@ -174,7 +174,7 @@
             },
             "release_date": {
                 "coming_soon": false,
-                "date": "Feb 20, 2019"
+                "date": "20 Feb, 2019"
             },
             "support_info": {
                 "url": "",
