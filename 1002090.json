@@ -28,40 +28,10 @@
             "publishers": [
                 ""
             ],
-            "price_overview": {
-                "currency": "USD",
-                "initial": 99,
-                "final": 99,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "$0.99"
-            },
             "packages": [
                 331186
             ],
-            "package_groups": [
-                {
-                    "name": "default",
-                    "title": "Buy Cows VS Vikings OST",
-                    "description": "",
-                    "selection_text": "Select a purchase option",
-                    "save_text": "",
-                    "display_type": 0,
-                    "is_recurring_subscription": "false",
-                    "subs": [
-                        {
-                            "packageid": 331186,
-                            "percent_savings_text": "",
-                            "percent_savings": 0,
-                            "option_text": "Cows VS Vikings OST - $0.99",
-                            "option_description": "",
-                            "can_get_free_license": "0",
-                            "is_free_license": false,
-                            "price_in_cents_with_discount": 99
-                        }
-                    ]
-                }
-            ],
+            "package_groups": [],
             "platforms": {
                 "windows": true,
                 "mac": false,
@@ -108,7 +78,7 @@
             ],
             "release_date": {
                 "coming_soon": false,
-                "date": "Dec 19, 2018"
+                "date": "19 Dec, 2018"
             },
             "support_info": {
                 "url": "http://redox.ca/",
