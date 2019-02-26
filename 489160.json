@@ -39,11 +39,13 @@
                 "final": 495,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "4,95€"
+                "final_formatted": "4,95€",
+                "recurring_sub": 204408,
+                "recurring_sub_desc": "3,99€ at checkout, auto-renewed every 1 month(s) at 3,99€."
             },
             "packages": [
-                110450,
-                204409
+                204409,
+                110450
             ],
             "package_groups": [
                 {
@@ -80,11 +82,11 @@
                             "packageid": 204409,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "1 Month(s) @ 8,19€/Month",
-                            "option_description": "<p class=\"game_purchase_subscription\">8,19€ at checkout, auto-renewed every 1 month(s) at 8,19€.</p>",
+                            "option_text": "1 Month(s) @ 3,99€/Month",
+                            "option_description": "<p class=\"game_purchase_subscription\">3,99€ at checkout, auto-renewed every 1 month(s) at 3,99€.</p>",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 819
+                            "price_in_cents_with_discount": 399
                         }
                     ]
                 }
