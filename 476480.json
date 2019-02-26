@@ -35,10 +35,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 99,
-                "final": 44,
-                "discount_percent": 56,
-                "initial_formatted": "0,99€",
-                "final_formatted": "0,44€"
+                "final": 99,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "0,99€"
             },
             "packages": [
                 106084
@@ -55,13 +55,13 @@
                     "subs": [
                         {
                             "packageid": 106084,
-                            "percent_savings_text": "-56%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Heaven Forest - VR MMO - <span class=\"discount_original_price\">0,99€</span> 0,44€",
+                            "option_text": "Heaven Forest - VR MMO - 0,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 44
+                            "price_in_cents_with_discount": 99
                         }
                     ]
                 }
