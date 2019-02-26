@@ -17,7 +17,7 @@
             "short_description": "Serious Sam 3: BFE is a prequel to the original indie fast action FPS and Game of the Year sensation - Serious Sam: The First Encounter!",
             "supported_languages": "English<strong>*</strong>, French, German, Italian, Spanish - Spain, Russian<strong>*</strong>, Japanese, Simplified Chinese, Bulgarian<br><strong>*</strong>languages with full audio support",
             "reviews": "“You've never seen anything like this before.”<br>A- – <a href=\"http://www.1up.com/reviews/serious-sam-3-before-first-encounter-BFE-PC\" target=\"_blank\" rel=\"noreferrer\"  >1UP</a><br><br>“You get an awesome experience at an absurd value with Serious Sam 3: BFE.”<br>9/10 – <a href=\"https://steamcommunity.com/linkfilter/?url=http://www.insidegamingdaily.com/2011/12/13/serious-sam-3-bfe-review/\" target=\"_blank\" rel=\"noopener\"  >Inside Gaming Daily/Machinima</a><br><br>“Serious Sam 3: BFE is a masterpiece of mayhem.”<br>9/10 – <a href=\"https://steamcommunity.com/linkfilter/?url=http://www.dealspwn.com/serious-sam-3-bfe-review-84674\" target=\"_blank\" rel=\"noopener\"  >Dealspwn</a><br>",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/41070/header.jpg?t=1544789590",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/41070/header.jpg?t=1550748467",
             "website": "http://www.croteam.com",
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP 32-bit (with service pack 2 or 3)<br>\t\t\t\t\t\t</li><li><strong>Processor:</strong> Dual-core from Intel or AMD at 2.0 GHz<br>\t\t\t\t\t\t</li><li><strong>Memory:</strong> 1GB<br>\t\t\t\t\t\t</li><li><strong>Graphics:</strong> nVidia GeForce 7800/7900/8600 series, ATI/AMD Radeon HD2600/3600 or 1800/X1900 series<br>\t\t\t\t\t\t</li><li><strong>DirectX®:</strong> 9.0c<br>\t\t\t\t\t\t</li><li><strong>Hard Drive:</strong> 4GB free hard drive space<br>\t\t\t\t\t\t</li><li><strong>Sound:</strong> DirectX9.0c Compatible Sound Card<br>\t\t\t\t\t\t</li></ul>",
@@ -31,7 +31,7 @@
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Linux Ubuntu 12.04<br>\t</li><li><strong>Processor:</strong> Dual-core from Intel or AMD at 2.8 GHz<br>\t</li><li><strong>Memory:</strong> 2GB<br>\t</li><li><strong>Graphics:</strong> nVidia GeForce 8600/9600GT, ATI/AMD Radeon HD2600/3600 (Graphic drivers: nVidia 310, AMD 12.11)<br>\t</li><li><strong>OpenGL:</strong> 2.1\t<br>\t</li><li><strong>Hard Drive:</strong> 4GB free hard drive space<br>\t</li><li><strong>Sound:</strong> OpenAL Compatible Sound Card</li></ul>",
                 "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Linux Ubuntu 12.04<br>\t</li><li><strong>Processor:</strong> Quad-core from Intel (i5-series) or AMD (Phenom II) at 3.0 GHz<br>\t</li><li><strong>Memory:</strong> 4GB<br>\t</li><li><strong>Graphics:</strong> nVidia GeForce 280/460 GTX, ATI/AMD Radeon HD 4870/5770 (Graphic drivers: nVidia 310, AMD 12.11)<br>\t</li><li><strong>OpenGL:</strong> 2.1\t<br>\t</li><li><strong>Hard Drive:</strong> 4GB free hard drive space<br>\t</li><li><strong>Sound:</strong> OpenAL Compatible Sound Card</li></ul>"
             },
-            "legal_notice": "© 2011-2016 Croteam. All rights reserved.",
+            "legal_notice": "© 2011-2019 Croteam. All rights reserved.",
             "developers": [
                 "Croteam"
             ],
@@ -91,8 +91,24 @@
                     "description": "Multi-player"
                 },
                 {
+                    "id": 36,
+                    "description": "Online Multi-Player"
+                },
+                {
+                    "id": 37,
+                    "description": "Local Multi-Player"
+                },
+                {
                     "id": 9,
                     "description": "Co-op"
+                },
+                {
+                    "id": 38,
+                    "description": "Online Co-op"
+                },
+                {
+                    "id": 39,
+                    "description": "Local Co-op"
                 },
                 {
                     "id": 24,
@@ -144,77 +160,77 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/41070/ss_7b281512d67a5220d4eef494234943771ddca71b.600x338.jpg?t=1544789590",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/41070/ss_7b281512d67a5220d4eef494234943771ddca71b.1920x1080.jpg?t=1544789590"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/41070/ss_7b281512d67a5220d4eef494234943771ddca71b.600x338.jpg?t=1550748467",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/41070/ss_7b281512d67a5220d4eef494234943771ddca71b.1920x1080.jpg?t=1550748467"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/41070/ss_7c27d177655d862036f028d0975a1e5b89916bda.600x338.jpg?t=1544789590",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/41070/ss_7c27d177655d862036f028d0975a1e5b89916bda.1920x1080.jpg?t=1544789590"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/41070/ss_7c27d177655d862036f028d0975a1e5b89916bda.600x338.jpg?t=1550748467",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/41070/ss_7c27d177655d862036f028d0975a1e5b89916bda.1920x1080.jpg?t=1550748467"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/41070/ss_63713b15a386bfe26f9d363f14b77cfe9ef4104f.600x338.jpg?t=1544789590",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/41070/ss_63713b15a386bfe26f9d363f14b77cfe9ef4104f.1920x1080.jpg?t=1544789590"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/41070/ss_63713b15a386bfe26f9d363f14b77cfe9ef4104f.600x338.jpg?t=1550748467",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/41070/ss_63713b15a386bfe26f9d363f14b77cfe9ef4104f.1920x1080.jpg?t=1550748467"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/41070/ss_2f3400682e6387d3a1f14ead5b8598013be3e791.600x338.jpg?t=1544789590",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/41070/ss_2f3400682e6387d3a1f14ead5b8598013be3e791.1920x1080.jpg?t=1544789590"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/41070/ss_2f3400682e6387d3a1f14ead5b8598013be3e791.600x338.jpg?t=1550748467",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/41070/ss_2f3400682e6387d3a1f14ead5b8598013be3e791.1920x1080.jpg?t=1550748467"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/41070/ss_fbcbf87ac76aaad5f9a6948cd2ec055b0d0d18d1.600x338.jpg?t=1544789590",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/41070/ss_fbcbf87ac76aaad5f9a6948cd2ec055b0d0d18d1.1920x1080.jpg?t=1544789590"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/41070/ss_fbcbf87ac76aaad5f9a6948cd2ec055b0d0d18d1.600x338.jpg?t=1550748467",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/41070/ss_fbcbf87ac76aaad5f9a6948cd2ec055b0d0d18d1.1920x1080.jpg?t=1550748467"
                 },
                 {
                     "id": 5,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/41070/ss_ddfc10669e8c4fc401b1252343bc5b9d1ca458ce.600x338.jpg?t=1544789590",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/41070/ss_ddfc10669e8c4fc401b1252343bc5b9d1ca458ce.1920x1080.jpg?t=1544789590"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/41070/ss_ddfc10669e8c4fc401b1252343bc5b9d1ca458ce.600x338.jpg?t=1550748467",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/41070/ss_ddfc10669e8c4fc401b1252343bc5b9d1ca458ce.1920x1080.jpg?t=1550748467"
                 },
                 {
                     "id": 6,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/41070/ss_bc5d5bab949346b0e1511e2b4e1d5eb536c3d57e.600x338.jpg?t=1544789590",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/41070/ss_bc5d5bab949346b0e1511e2b4e1d5eb536c3d57e.1920x1080.jpg?t=1544789590"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/41070/ss_bc5d5bab949346b0e1511e2b4e1d5eb536c3d57e.600x338.jpg?t=1550748467",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/41070/ss_bc5d5bab949346b0e1511e2b4e1d5eb536c3d57e.1920x1080.jpg?t=1550748467"
                 },
                 {
                     "id": 7,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/41070/ss_4ad3d5a2123c1e02d308a5c01f2857ece55ee12a.600x338.jpg?t=1544789590",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/41070/ss_4ad3d5a2123c1e02d308a5c01f2857ece55ee12a.1920x1080.jpg?t=1544789590"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/41070/ss_4ad3d5a2123c1e02d308a5c01f2857ece55ee12a.600x338.jpg?t=1550748467",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/41070/ss_4ad3d5a2123c1e02d308a5c01f2857ece55ee12a.1920x1080.jpg?t=1550748467"
                 },
                 {
                     "id": 8,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/41070/ss_02c659fad6a20d4c5e31d308cbf8a3809bc1b8b9.600x338.jpg?t=1544789590",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/41070/ss_02c659fad6a20d4c5e31d308cbf8a3809bc1b8b9.1920x1080.jpg?t=1544789590"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/41070/ss_02c659fad6a20d4c5e31d308cbf8a3809bc1b8b9.600x338.jpg?t=1550748467",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/41070/ss_02c659fad6a20d4c5e31d308cbf8a3809bc1b8b9.1920x1080.jpg?t=1550748467"
                 },
                 {
                     "id": 9,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/41070/ss_d4674370a08e3325f22a29f2e9fcbdf94e50c2da.600x338.jpg?t=1544789590",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/41070/ss_d4674370a08e3325f22a29f2e9fcbdf94e50c2da.1920x1080.jpg?t=1544789590"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/41070/ss_d4674370a08e3325f22a29f2e9fcbdf94e50c2da.600x338.jpg?t=1550748467",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/41070/ss_d4674370a08e3325f22a29f2e9fcbdf94e50c2da.1920x1080.jpg?t=1550748467"
                 },
                 {
                     "id": 10,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/41070/ss_9b2c8a18f9a507a60e40e007a65a957d355e5472.600x338.jpg?t=1544789590",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/41070/ss_9b2c8a18f9a507a60e40e007a65a957d355e5472.1920x1080.jpg?t=1544789590"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/41070/ss_9b2c8a18f9a507a60e40e007a65a957d355e5472.600x338.jpg?t=1550748467",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/41070/ss_9b2c8a18f9a507a60e40e007a65a957d355e5472.1920x1080.jpg?t=1550748467"
                 },
                 {
                     "id": 11,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/41070/ss_28ce64d01a617bb5279855965cf0c8c891e9f9d6.600x338.jpg?t=1544789590",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/41070/ss_28ce64d01a617bb5279855965cf0c8c891e9f9d6.1920x1080.jpg?t=1544789590"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/41070/ss_28ce64d01a617bb5279855965cf0c8c891e9f9d6.600x338.jpg?t=1550748467",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/41070/ss_28ce64d01a617bb5279855965cf0c8c891e9f9d6.1920x1080.jpg?t=1550748467"
                 },
                 {
                     "id": 12,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/41070/ss_dd482c5f03270100a400a9aa1410943f18db5e08.600x338.jpg?t=1544789590",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/41070/ss_dd482c5f03270100a400a9aa1410943f18db5e08.1920x1080.jpg?t=1544789590"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/41070/ss_dd482c5f03270100a400a9aa1410943f18db5e08.600x338.jpg?t=1550748467",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/41070/ss_dd482c5f03270100a400a9aa1410943f18db5e08.1920x1080.jpg?t=1550748467"
                 },
                 {
                     "id": 13,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/41070/ss_297d8ad2b24eea07012c733200618b8b4b7c21e8.600x338.jpg?t=1544789590",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/41070/ss_297d8ad2b24eea07012c733200618b8b4b7c21e8.1920x1080.jpg?t=1544789590"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/41070/ss_297d8ad2b24eea07012c733200618b8b4b7c21e8.600x338.jpg?t=1550748467",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/41070/ss_297d8ad2b24eea07012c733200618b8b4b7c21e8.1920x1080.jpg?t=1550748467"
                 }
             ],
             "recommendations": {
-                "total": 12327
+                "total": 12329
             },
             "achievements": {
                 "total": 62,
@@ -269,7 +285,7 @@
                 "url": "",
                 "email": "support@croteam.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/41070/page_bg_generated_v6b.jpg?t=1544789590",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/41070/page_bg_generated_v6b.jpg?t=1550748467",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
