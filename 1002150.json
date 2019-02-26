@@ -34,12 +34,12 @@
                 ""
             ],
             "price_overview": {
-                "currency": "USD",
-                "initial": 4999,
-                "final": 4999,
+                "currency": "EUR",
+                "initial": 4199,
+                "final": 4199,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "$49.99"
+                "final_formatted": "41,99€"
             },
             "packages": [
                 331210
@@ -58,11 +58,11 @@
                             "packageid": 331210,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Space Viking Raiders - Support Pack - $49.99",
+                            "option_text": "Space Viking Raiders - Support Pack - 41,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 4999
+                            "price_in_cents_with_discount": 4199
                         }
                     ]
                 }
@@ -230,7 +230,7 @@
             },
             "release_date": {
                 "coming_soon": false,
-                "date": "Jan 14, 2019"
+                "date": "14 Jan, 2019"
             },
             "support_info": {
                 "url": "https://www.multiballstudios.com",
