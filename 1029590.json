@@ -16,13 +16,16 @@
                 "name": "The Textorcist: The Story of Ray Bibbia"
             },
             "supported_languages": "English",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1029590/header.jpg?t=1549893260",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1029590/header.jpg?t=1551179632",
             "website": null,
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong> 1.4 GHz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> 512 MB<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 250 MB available space<br></li><li><strong>Additional Notes:</strong> Keyboard!</li></ul>",
                 "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong> 2 GHz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> 1 GB<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 250 MB available space<br></li><li><strong>Additional Notes:</strong> Keyboard!</li></ul>"
             },
-            "mac_requirements": [],
+            "mac_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OS 10.7+<br></li><li><strong>Processor:</strong> Intel i3<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Intel Iris Pro<br></li><li><strong>Storage:</strong> 250 MB available space</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OS 10.9+<br></li><li><strong>Processor:</strong> Intel i5<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia or AMD dedicated GPU<br></li><li><strong>Storage:</strong> 250 MB available space</li></ul>"
+            },
             "linux_requirements": [],
             "legal_notice": "© 2018 MorbidWare<br />\r\n© 2018 Headup GmbH, all rights reserved",
             "developers": [
@@ -34,7 +37,7 @@
             "package_groups": [],
             "platforms": {
                 "windows": true,
-                "mac": false,
+                "mac": true,
                 "linux": false
             },
             "metacritic": {
@@ -67,38 +70,38 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029590/ss_a64b6bfa6eb230ad3b656b3f3bdba320b76241f1.600x338.jpg?t=1549893260",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029590/ss_a64b6bfa6eb230ad3b656b3f3bdba320b76241f1.1920x1080.jpg?t=1549893260"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029590/ss_a64b6bfa6eb230ad3b656b3f3bdba320b76241f1.600x338.jpg?t=1551179632",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029590/ss_a64b6bfa6eb230ad3b656b3f3bdba320b76241f1.1920x1080.jpg?t=1551179632"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029590/ss_07156ff5afff999d2f9032b81229eff097fc75c7.600x338.jpg?t=1549893260",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029590/ss_07156ff5afff999d2f9032b81229eff097fc75c7.1920x1080.jpg?t=1549893260"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029590/ss_07156ff5afff999d2f9032b81229eff097fc75c7.600x338.jpg?t=1551179632",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029590/ss_07156ff5afff999d2f9032b81229eff097fc75c7.1920x1080.jpg?t=1551179632"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029590/ss_c9609cff926f7bed032c5e6748aee6b4a0969c56.600x338.jpg?t=1549893260",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029590/ss_c9609cff926f7bed032c5e6748aee6b4a0969c56.1920x1080.jpg?t=1549893260"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029590/ss_c9609cff926f7bed032c5e6748aee6b4a0969c56.600x338.jpg?t=1551179632",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029590/ss_c9609cff926f7bed032c5e6748aee6b4a0969c56.1920x1080.jpg?t=1551179632"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029590/ss_65c54c7a70a33e2884e73a9047aa80167d72e793.600x338.jpg?t=1549893260",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029590/ss_65c54c7a70a33e2884e73a9047aa80167d72e793.1920x1080.jpg?t=1549893260"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029590/ss_65c54c7a70a33e2884e73a9047aa80167d72e793.600x338.jpg?t=1551179632",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029590/ss_65c54c7a70a33e2884e73a9047aa80167d72e793.1920x1080.jpg?t=1551179632"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029590/ss_da35bbf80795c3be16027e2d5f1877dd62e41346.600x338.jpg?t=1549893260",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029590/ss_da35bbf80795c3be16027e2d5f1877dd62e41346.1920x1080.jpg?t=1549893260"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029590/ss_da35bbf80795c3be16027e2d5f1877dd62e41346.600x338.jpg?t=1551179632",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029590/ss_da35bbf80795c3be16027e2d5f1877dd62e41346.1920x1080.jpg?t=1551179632"
                 },
                 {
                     "id": 5,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029590/ss_7b10a375ff90548e60b7f2641d0b0757ce844cba.600x338.jpg?t=1549893260",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029590/ss_7b10a375ff90548e60b7f2641d0b0757ce844cba.1920x1080.jpg?t=1549893260"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029590/ss_7b10a375ff90548e60b7f2641d0b0757ce844cba.600x338.jpg?t=1551179632",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029590/ss_7b10a375ff90548e60b7f2641d0b0757ce844cba.1920x1080.jpg?t=1551179632"
                 },
                 {
                     "id": 6,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029590/ss_07b6e9e97f83e6239f0e67da83cc8b06d1f1b274.600x338.jpg?t=1549893260",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029590/ss_07b6e9e97f83e6239f0e67da83cc8b06d1f1b274.1920x1080.jpg?t=1549893260"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029590/ss_07b6e9e97f83e6239f0e67da83cc8b06d1f1b274.600x338.jpg?t=1551179632",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029590/ss_07b6e9e97f83e6239f0e67da83cc8b06d1f1b274.1920x1080.jpg?t=1551179632"
                 }
             ],
             "release_date": {
@@ -109,7 +112,7 @@
                 "url": "http://www.headupgames.com/",
                 "email": "support@headupgames.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1029590/page_bg_generated_v6b.jpg?t=1549893260",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1029590/page_bg_generated_v6b.jpg?t=1551179632",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
