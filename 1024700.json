@@ -15,7 +15,7 @@
                 "name": "DCS World Steam Edition"
             },
             "supported_languages": "English<strong>*</strong>, German, Spanish - Spain, Russian, Czech, French, Simplified Chinese<br><strong>*</strong>languages with full audio support",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1024700/header.jpg?t=1549556806",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1024700/header.jpg?t=1551211436",
             "website": "http://www.digitalcombatsimulator.com/en/",
             "pc_requirements": {
                 "minimum": "<strong>Minimum system requirements (LOW graphics settings): </strong><br> OS 64-bit Windows 7/8/10; DirectX11; CPU: Intel Core i3 at 2.8 GHz or AMD FX; RAM: 8 GB (16 GB for heavy missions); Free hard disk space: 60 GB; Discrete video card NVIDIA GeForce GTX 760 / AMD R9 280X or better; requires internet activation.",
@@ -30,7 +30,40 @@
             "publishers": [
                 "Eagle Dynamics SA"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 960,
+                "final": 960,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "9,60€"
+            },
+            "packages": [
+                340325
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy DCS: Combined Arms Frontlines Georgia Campaign",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 340325,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "DCS: Combined Arms Frontlines Georgia Campaign - 9,60€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 960
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": false,
@@ -75,74 +108,77 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1024700/ss_e56c562559b714d6de886acd465d3c5c6e6752ea.600x338.jpg?t=1549556806",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1024700/ss_e56c562559b714d6de886acd465d3c5c6e6752ea.1920x1080.jpg?t=1549556806"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1024700/ss_e56c562559b714d6de886acd465d3c5c6e6752ea.600x338.jpg?t=1551211436",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1024700/ss_e56c562559b714d6de886acd465d3c5c6e6752ea.1920x1080.jpg?t=1551211436"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1024700/ss_ebd23dfe7aaf46e1da65418b76f32d8869603c14.600x338.jpg?t=1549556806",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1024700/ss_ebd23dfe7aaf46e1da65418b76f32d8869603c14.1920x1080.jpg?t=1549556806"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1024700/ss_ebd23dfe7aaf46e1da65418b76f32d8869603c14.600x338.jpg?t=1551211436",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1024700/ss_ebd23dfe7aaf46e1da65418b76f32d8869603c14.1920x1080.jpg?t=1551211436"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1024700/ss_d162015f0741ae6b6a12632e37bda08f2c461c0b.600x338.jpg?t=1549556806",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1024700/ss_d162015f0741ae6b6a12632e37bda08f2c461c0b.1920x1080.jpg?t=1549556806"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1024700/ss_d162015f0741ae6b6a12632e37bda08f2c461c0b.600x338.jpg?t=1551211436",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1024700/ss_d162015f0741ae6b6a12632e37bda08f2c461c0b.1920x1080.jpg?t=1551211436"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1024700/ss_7d7962d0473721ef0a9451d3a2d1aebd76a36732.600x338.jpg?t=1549556806",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1024700/ss_7d7962d0473721ef0a9451d3a2d1aebd76a36732.1920x1080.jpg?t=1549556806"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1024700/ss_7d7962d0473721ef0a9451d3a2d1aebd76a36732.600x338.jpg?t=1551211436",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1024700/ss_7d7962d0473721ef0a9451d3a2d1aebd76a36732.1920x1080.jpg?t=1551211436"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1024700/ss_8632366f9666ba212a17780d65ef97d87037ae48.600x338.jpg?t=1549556806",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1024700/ss_8632366f9666ba212a17780d65ef97d87037ae48.1920x1080.jpg?t=1549556806"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1024700/ss_8632366f9666ba212a17780d65ef97d87037ae48.600x338.jpg?t=1551211436",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1024700/ss_8632366f9666ba212a17780d65ef97d87037ae48.1920x1080.jpg?t=1551211436"
                 },
                 {
                     "id": 5,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1024700/ss_760bfaee08d3db3bb2baf94665831f6a0ea5a530.600x338.jpg?t=1549556806",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1024700/ss_760bfaee08d3db3bb2baf94665831f6a0ea5a530.1920x1080.jpg?t=1549556806"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1024700/ss_760bfaee08d3db3bb2baf94665831f6a0ea5a530.600x338.jpg?t=1551211436",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1024700/ss_760bfaee08d3db3bb2baf94665831f6a0ea5a530.1920x1080.jpg?t=1551211436"
                 },
                 {
                     "id": 6,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1024700/ss_8e589ab15d3c184214eb537ec9dba0aac6fd1e2c.600x338.jpg?t=1549556806",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1024700/ss_8e589ab15d3c184214eb537ec9dba0aac6fd1e2c.1920x1080.jpg?t=1549556806"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1024700/ss_8e589ab15d3c184214eb537ec9dba0aac6fd1e2c.600x338.jpg?t=1551211436",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1024700/ss_8e589ab15d3c184214eb537ec9dba0aac6fd1e2c.1920x1080.jpg?t=1551211436"
                 },
                 {
                     "id": 7,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1024700/ss_eaf3fbb8b7177be901e54adefa1899f79eed45aa.600x338.jpg?t=1549556806",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1024700/ss_eaf3fbb8b7177be901e54adefa1899f79eed45aa.1920x1080.jpg?t=1549556806"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1024700/ss_eaf3fbb8b7177be901e54adefa1899f79eed45aa.600x338.jpg?t=1551211436",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1024700/ss_eaf3fbb8b7177be901e54adefa1899f79eed45aa.1920x1080.jpg?t=1551211436"
                 },
                 {
                     "id": 8,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1024700/ss_cb187345d1554a5e1af59a0833c02eaaaa63d0f1.600x338.jpg?t=1549556806",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1024700/ss_cb187345d1554a5e1af59a0833c02eaaaa63d0f1.1920x1080.jpg?t=1549556806"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1024700/ss_cb187345d1554a5e1af59a0833c02eaaaa63d0f1.600x338.jpg?t=1551211436",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1024700/ss_cb187345d1554a5e1af59a0833c02eaaaa63d0f1.1920x1080.jpg?t=1551211436"
                 },
                 {
                     "id": 9,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1024700/ss_4f64aa342c49eb469c5d5f79cfe85f0b68445f72.600x338.jpg?t=1549556806",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1024700/ss_4f64aa342c49eb469c5d5f79cfe85f0b68445f72.1920x1080.jpg?t=1549556806"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1024700/ss_4f64aa342c49eb469c5d5f79cfe85f0b68445f72.600x338.jpg?t=1551211436",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1024700/ss_4f64aa342c49eb469c5d5f79cfe85f0b68445f72.1920x1080.jpg?t=1551211436"
                 },
                 {
                     "id": 10,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1024700/ss_b2a0191d9c317f2a10984344748610e3ef6d2d72.600x338.jpg?t=1549556806",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1024700/ss_b2a0191d9c317f2a10984344748610e3ef6d2d72.1920x1080.jpg?t=1549556806"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1024700/ss_b2a0191d9c317f2a10984344748610e3ef6d2d72.600x338.jpg?t=1551211436",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1024700/ss_b2a0191d9c317f2a10984344748610e3ef6d2d72.1920x1080.jpg?t=1551211436"
                 },
                 {
                     "id": 11,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1024700/ss_42ae62f727d672c4c3a5a6becd09c8a1e1624936.600x338.jpg?t=1549556806",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1024700/ss_42ae62f727d672c4c3a5a6becd09c8a1e1624936.1920x1080.jpg?t=1549556806"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1024700/ss_42ae62f727d672c4c3a5a6becd09c8a1e1624936.600x338.jpg?t=1551211436",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1024700/ss_42ae62f727d672c4c3a5a6becd09c8a1e1624936.1920x1080.jpg?t=1551211436"
                 }
             ],
+            "achievements": {
+                "total": 0
+            },
             "release_date": {
-                "coming_soon": true,
-                "date": "28 Feb, 2019"
+                "coming_soon": false,
+                "date": "26 Feb, 2019"
             },
             "support_info": {
                 "url": "http://forums.eagle.ru/index.php",
                 "email": ""
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1024700/page_bg_generated_v6b.jpg?t=1549556806",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1024700/page_bg_generated_v6b.jpg?t=1551211436",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
