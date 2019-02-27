@@ -28,10 +28,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 159,
-                "final": 119,
-                "discount_percent": 25,
-                "initial_formatted": "1,59€",
-                "final_formatted": "1,19€"
+                "final": 159,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "1,59€"
             },
             "packages": [
                 334592
@@ -48,13 +48,13 @@
                     "subs": [
                         {
                             "packageid": 334592,
-                            "percent_savings_text": "-25%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Scrapyard Robot Rampage - <span class=\"discount_original_price\">1,59€</span> 1,19€",
+                            "option_text": "Scrapyard Robot Rampage - 1,59€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 119
+                            "price_in_cents_with_discount": 159
                         }
                     ]
                 }
