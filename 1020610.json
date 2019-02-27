@@ -11,7 +11,7 @@
             "about_the_game": "<strong><i>Apoapsis is a passion project developed in 18 days. </i></strong><br><br>Traverse a large alien world and destroy aliens, bosses, collect items, and [soon to come]. I would love to expand on Apoapsis to make it a more complete game, and polish it further.<br><br>This can be considered a 15 minute Metroidvania. It is designed so you can rush through it, yet why wouldn't you want to upgrade your health and stamina along the way? The graphics, coding, music and everything is all made by me, XPI Sigma. <br><br><strong>Known bugs:</strong><br><i>-Collision issues while player gets hurt<br>-Monitors with a refresh rate over 60 makes game appear too fast<br>-Game slowdown (displays 60fps, yet doesn't reflect it)</i><br><br><strong>Future Updates:</strong><br><i>-New modes<br>-Control edit<br>-Steam Achievements<br>-Trading Cards<br>-Controller support</i>",
             "short_description": "15 Minute Metroidvania, with a jetpack",
             "supported_languages": "English",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1020610/header.jpg?t=1550797932",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1020610/header.jpg?t=1551125269",
             "website": null,
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> I5 4710<br></li><li><strong>Memory:</strong> 100 MB RAM<br></li><li><strong>Graphics:</strong> Integrated<br></li><li><strong>Storage:</strong> 30 MB available space<br></li><li><strong>Sound Card:</strong> No requirement</li></ul>",
@@ -26,7 +26,40 @@
             "publishers": [
                 "Construct Core Works"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 399,
+                "final": 239,
+                "discount_percent": 40,
+                "initial_formatted": "3,99€",
+                "final_formatted": "2,39€"
+            },
+            "packages": [
+                338548
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Apoapsis",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 338548,
+                            "percent_savings_text": "-40%",
+                            "percent_savings": 0,
+                            "option_text": "Apoapsis - <span class=\"discount_original_price\">3,99€</span> 2,39€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 239
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": false,
@@ -55,51 +88,76 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1020610/ss_f1dcf65e678f28728d356df396d51b74173086f6.600x338.jpg?t=1550797932",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1020610/ss_f1dcf65e678f28728d356df396d51b74173086f6.1920x1080.jpg?t=1550797932"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1020610/ss_f1dcf65e678f28728d356df396d51b74173086f6.600x338.jpg?t=1551125269",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1020610/ss_f1dcf65e678f28728d356df396d51b74173086f6.1920x1080.jpg?t=1551125269"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1020610/ss_c149e10fd4886ddba73692e4ee104eec0d5bb650.600x338.jpg?t=1550797932",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1020610/ss_c149e10fd4886ddba73692e4ee104eec0d5bb650.1920x1080.jpg?t=1550797932"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1020610/ss_c149e10fd4886ddba73692e4ee104eec0d5bb650.600x338.jpg?t=1551125269",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1020610/ss_c149e10fd4886ddba73692e4ee104eec0d5bb650.1920x1080.jpg?t=1551125269"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1020610/ss_d5d3fd94b78417d94aaa02a5e20f8147a6ec1bfd.600x338.jpg?t=1550797932",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1020610/ss_d5d3fd94b78417d94aaa02a5e20f8147a6ec1bfd.1920x1080.jpg?t=1550797932"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1020610/ss_d5d3fd94b78417d94aaa02a5e20f8147a6ec1bfd.600x338.jpg?t=1551125269",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1020610/ss_d5d3fd94b78417d94aaa02a5e20f8147a6ec1bfd.1920x1080.jpg?t=1551125269"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1020610/ss_b58a815e8ca867e059c03a8b86424b7fd3552b6e.600x338.jpg?t=1550797932",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1020610/ss_b58a815e8ca867e059c03a8b86424b7fd3552b6e.1920x1080.jpg?t=1550797932"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1020610/ss_b58a815e8ca867e059c03a8b86424b7fd3552b6e.600x338.jpg?t=1551125269",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1020610/ss_b58a815e8ca867e059c03a8b86424b7fd3552b6e.1920x1080.jpg?t=1551125269"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1020610/ss_6dcebcffc610fdc5b7a1778a3f1693f27d9a5f78.600x338.jpg?t=1550797932",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1020610/ss_6dcebcffc610fdc5b7a1778a3f1693f27d9a5f78.1920x1080.jpg?t=1550797932"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1020610/ss_6dcebcffc610fdc5b7a1778a3f1693f27d9a5f78.600x338.jpg?t=1551125269",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1020610/ss_6dcebcffc610fdc5b7a1778a3f1693f27d9a5f78.1920x1080.jpg?t=1551125269"
                 }
             ],
             "movies": [
                 {
-                    "id": 256741228,
-                    "name": "Apoapsis Gameplay 1",
-                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256741228/movie.293x165.jpg?t=1548371532",
+                    "id": 256743766,
+                    "name": "Launch Trailer",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256743766/movie.293x165.jpg?t=1551125265",
                     "webm": {
-                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256741228/movie480.webm?t=1548371532",
-                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256741228/movie_max.webm?t=1548371532"
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256743766/movie480.webm?t=1551125265",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256743766/movie_max.webm?t=1551125265"
                     },
                     "highlight": true
                 }
             ],
+            "achievements": {
+                "total": 5,
+                "highlighted": [
+                    {
+                        "name": "Mission Start!",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1020610/d8596741d09b30331e8a2de403024e6cb5413919.jpg"
+                    },
+                    {
+                        "name": "Mission complete!",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1020610/b33848db73522805be00a60a7a7dcf9217be34bb.jpg"
+                    },
+                    {
+                        "name": "New Friend",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1020610/638de8560e9efc78357fbc5a1f862db4bffc5b73.jpg"
+                    },
+                    {
+                        "name": "Watch Your Step",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1020610/223e10985e14f864653fc3da8fccedc20f1abbec.jpg"
+                    },
+                    {
+                        "name": "Ouchies",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1020610/baf62c91790c25613b18f86caf91dcedf1c5c0a9.jpg"
+                    }
+                ]
+            },
             "release_date": {
-                "coming_soon": true,
-                "date": "26 Feb, 2019"
+                "coming_soon": false,
+                "date": "25 Feb, 2019"
             },
             "support_info": {
                 "url": "",
                 "email": "xpisigmaart@gmail.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1020610/page_bg_generated_v6b.jpg?t=1550797932",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1020610/page_bg_generated_v6b.jpg?t=1551125269",
             "content_descriptors": {
                 "ids": [
                     1,
