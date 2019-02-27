@@ -31,10 +31,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 819,
-                "final": 573,
-                "discount_percent": 30,
-                "initial_formatted": "8,19€",
-                "final_formatted": "5,73€"
+                "final": 819,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "8,19€"
             },
             "packages": [
                 334372
@@ -51,13 +51,13 @@
                     "subs": [
                         {
                             "packageid": 334372,
-                            "percent_savings_text": "-30%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Space Rabbits in Space - <span class=\"discount_original_price\">8,19€</span> 5,73€",
+                            "option_text": "Space Rabbits in Space - 8,19€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 573
+                            "price_in_cents_with_discount": 819
                         }
                     ]
                 }
