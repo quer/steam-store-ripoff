@@ -34,12 +34,12 @@
                 "Jorge Ramon Puig "
             ],
             "price_overview": {
-                "currency": "USD",
-                "initial": 599,
-                "final": 509,
+                "currency": "EUR",
+                "initial": 499,
+                "final": 424,
                 "discount_percent": 15,
-                "initial_formatted": "$5.99",
-                "final_formatted": "$5.09"
+                "initial_formatted": "4,99€",
+                "final_formatted": "4,24€"
             },
             "packages": [
                 333156
@@ -58,11 +58,11 @@
                             "packageid": 333156,
                             "percent_savings_text": "-15%",
                             "percent_savings": 0,
-                            "option_text": "Future Aero Racing S Ultra - <span class=\"discount_original_price\">$5.99</span> $5.09",
+                            "option_text": "Future Aero Racing S Ultra - <span class=\"discount_original_price\">4,99€</span> 4,24€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 509
+                            "price_in_cents_with_discount": 424
                         }
                     ]
                 }
@@ -245,7 +245,7 @@
             },
             "release_date": {
                 "coming_soon": false,
-                "date": "Feb 21, 2019"
+                "date": "21 Feb, 2019"
             },
             "support_info": {
                 "url": "http://www.nurendsoft.es/",
