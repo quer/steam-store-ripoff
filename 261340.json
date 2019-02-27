@@ -36,10 +36,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 1499,
-                "final": 1499,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "14,99€"
+                "final": 239,
+                "discount_percent": 84,
+                "initial_formatted": "14,99€",
+                "final_formatted": "2,39€"
             },
             "packages": [
                 33661,
@@ -57,23 +57,23 @@
                     "subs": [
                         {
                             "packageid": 33661,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-84%",
                             "percent_savings": 0,
-                            "option_text": "Blackguards - Deluxe Edition - 14,99€",
+                            "option_text": "Blackguards - Deluxe Edition - <span class=\"discount_original_price\">14,99€</span> 2,39€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1499
+                            "price_in_cents_with_discount": 239
                         },
                         {
                             "packageid": 64046,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-85%",
                             "percent_savings": 0,
-                            "option_text": "Blackguards Franchise Bundle - 19,99€",
+                            "option_text": "Blackguards Franchise Bundle - <span class=\"discount_original_price\">19,99€</span> 2,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1999
+                            "price_in_cents_with_discount": 299
                         }
                     ]
                 }
