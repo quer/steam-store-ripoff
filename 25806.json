@@ -32,10 +32,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 999,
-                "final": 499,
-                "discount_percent": 50,
-                "initial_formatted": "9,99€",
-                "final_formatted": "4,99€"
+                "final": 999,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "9,99€"
             },
             "packages": [
                 2640
@@ -52,13 +52,13 @@
                     "subs": [
                         {
                             "packageid": 2640,
-                            "percent_savings_text": "-50%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Europa Universalis III: Heir to the Throne - <span class=\"discount_original_price\">9,99€</span> 4,99€",
+                            "option_text": "Europa Universalis III: Heir to the Throne - 9,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 499
+                            "price_in_cents_with_discount": 999
                         }
                     ]
                 }
