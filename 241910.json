@@ -18,15 +18,15 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/241910/header.jpg?t=1524051885",
             "website": "http://www.deponia.de/en",
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows Vista/7/8<br></li><li><strong>Processor:</strong> 2.5 GHz Single Core Processor or 2 GHz Dual Core Processor<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL 2.0 compatible with 256 MB RAM (Shared Memory is not recommended)<br></li><li><strong>Storage:</strong> 3 GB available space<br></li><li><strong>Additional Notes:</strong> Mouse</li></ul>",
-                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows Vista/7/8<br></li><li><strong>Processor:</strong> 2.5 GHz Single Core Processor or 2 GHz Dual Core Processor<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL 2.0 compatible with 512 MB RAM (Shared Memory is not recommended)<br></li><li><strong>Storage:</strong> 3 GB available space<br></li><li><strong>Additional Notes:</strong> Mouse</li></ul>"
+                "minimum": "<strong>Минимальные:</strong><br><ul class=\"bb_ul\"><li><strong>ОС:</strong> Windows Vista/7/8<br></li><li><strong>Процессор:</strong> 2.5 GHz Single Core Processor or 2 GHz Dual Core Processor<br></li><li><strong>Оперативная память:</strong> 2 GB ОЗУ<br></li><li><strong>Видеокарта:</strong> OpenGL 2.0 compatible with 256 MB RAM (Shared Memory is not recommended)<br></li><li><strong>Место на диске:</strong> 3 GB<br></li><li><strong>Дополнительно:</strong> Mouse</li></ul>",
+                "recommended": "<strong>Рекомендованные:</strong><br><ul class=\"bb_ul\"><li><strong>ОС:</strong> Windows Vista/7/8<br></li><li><strong>Процессор:</strong> 2.5 GHz Single Core Processor or 2 GHz Dual Core Processor<br></li><li><strong>Оперативная память:</strong> 2 GB ОЗУ<br></li><li><strong>Видеокарта:</strong> OpenGL 2.0 compatible with 512 MB RAM (Shared Memory is not recommended)<br></li><li><strong>Место на диске:</strong> 3 GB<br></li><li><strong>Дополнительно:</strong> Mouse</li></ul>"
             },
             "mac_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Lion (10.7)<br></li><li><strong>Processor:</strong> 2 GHz (Dual Core) Intel<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> 256 MB RAM<br></li><li><strong>Storage:</strong> 3 GB available space<br></li><li><strong>Additional Notes:</strong> Mouse</li></ul>"
+                "minimum": "<strong>Минимальные:</strong><br><ul class=\"bb_ul\"><li><strong>ОС:</strong> Lion (10.7)<br></li><li><strong>Процессор:</strong> 2 GHz (Dual Core) Intel<br></li><li><strong>Оперативная память:</strong> 2 GB ОЗУ<br></li><li><strong>Видеокарта:</strong> 256 MB RAM<br></li><li><strong>Место на диске:</strong> 3 GB<br></li><li><strong>Дополнительно:</strong> Mouse</li></ul>"
             },
             "linux_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 12.04 (64 Bit only)<br></li><li><strong>Processor:</strong> 2.5 GHz Single Core Processor or 2 GHz Dual Core Processor<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL 2.0 compatible with 256 MB RAM (Shared Memory is not recommended)<br></li><li><strong>Storage:</strong> 3500 MB available space<br></li><li><strong>Sound Card:</strong> OpenAL compatible<br></li><li><strong>Additional Notes:</strong> Mouse</li></ul>",
-                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 14.04 (64 Bit only)<br></li><li><strong>Processor:</strong> 2.5 GHz Single Core Processor or 2 GHz Dual Core Processor<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL 2.0 compatible with 256 MB RAM (Shared Memory is not recommended)<br></li><li><strong>Sound Card:</strong> OpenAL compatible<br></li><li><strong>Additional Notes:</strong> Mouse</li></ul>"
+                "minimum": "<strong>Минимальные:</strong><br><ul class=\"bb_ul\"><li><strong>ОС:</strong> Ubuntu 12.04 (64 Bit only)<br></li><li><strong>Процессор:</strong> 2.5 GHz Single Core Processor or 2 GHz Dual Core Processor<br></li><li><strong>Оперативная память:</strong> 2 GB ОЗУ<br></li><li><strong>Видеокарта:</strong> OpenGL 2.0 compatible with 256 MB RAM (Shared Memory is not recommended)<br></li><li><strong>Место на диске:</strong> 3500 MB<br></li><li><strong>Звуковая карта:</strong> OpenAL compatible<br></li><li><strong>Дополнительно:</strong> Mouse</li></ul>",
+                "recommended": "<strong>Рекомендованные:</strong><br><ul class=\"bb_ul\"><li><strong>ОС:</strong> Ubuntu 14.04 (64 Bit only)<br></li><li><strong>Процессор:</strong> 2.5 GHz Single Core Processor or 2 GHz Dual Core Processor<br></li><li><strong>Оперативная память:</strong> 2 GB ОЗУ<br></li><li><strong>Видеокарта:</strong> OpenGL 2.0 compatible with 256 MB RAM (Shared Memory is not recommended)<br></li><li><strong>Звуковая карта:</strong> OpenAL compatible<br></li><li><strong>Дополнительно:</strong> Mouse</li></ul>"
             },
             "legal_notice": "© 2013 Daedalic Entertainment GmbH.<br />\r\nGoodbye Deponia, the Goodbye Deponia logo and the Daedalic logo are trademarks of Daedalic Entertainment GmbH. All rights reserved.",
             "developers": [
@@ -44,10 +44,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 1999,
-                "final": 1999,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "19,99€"
+                "final": 199,
+                "discount_percent": 90,
+                "initial_formatted": "19,99€",
+                "final_formatted": "1,99€"
             },
             "packages": [
                 32571,
@@ -66,33 +66,33 @@
                     "subs": [
                         {
                             "packageid": 32571,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-90%",
                             "percent_savings": 0,
-                            "option_text": "Goodbye Deponia - 19,99€",
+                            "option_text": "Goodbye Deponia - <span class=\"discount_original_price\">19,99€</span> 1,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1999
+                            "price_in_cents_with_discount": 199
                         },
                         {
                             "packageid": 29783,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-90%",
                             "percent_savings": 0,
-                            "option_text": "Goodbye Deponia Premium - 24,99€",
+                            "option_text": "Goodbye Deponia Premium - <span class=\"discount_original_price\">24,99€</span> 2,49€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 2499
+                            "price_in_cents_with_discount": 249
                         },
                         {
                             "packageid": 55062,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-90%",
                             "percent_savings": 0,
-                            "option_text": "The Daedalic Armageddon Bundle - 120,99€",
+                            "option_text": "The Daedalic Armageddon Bundle - <span class=\"discount_original_price\">120,99€</span> 12,09€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 12099
+                            "price_in_cents_with_discount": 1209
                         }
                     ]
                 }
