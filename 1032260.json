@@ -11,7 +11,7 @@
             "about_the_game": "<h2 class=\"bb_tag\">Build your super cute character and put him in-front of a barrage of bombs, spikes and whatever else can kill you. <br><br>Dodge this is an awesome and crazy game where you need to stay alive as long as possible.<br>The game gets more difficult the longer you live and only the best reflexes will reach the top.<br><br>The game is played with the mouse and has a great physics engine to keep everything feeling like you are really getting pounded and blown up!</h2>",
             "short_description": "Build your super cute character and put him in-front of a barrage of bombs, spikes and whatever else can kill you.",
             "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1032260/header.jpg?t=1549957489",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1032260/header.jpg?t=1551116656",
             "website": null,
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 SP1+<br></li><li><strong>Processor:</strong> Any CPU with SSE2 instruction set support<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> DirectX 10 (shader model 4.0)<br></li><li><strong>Storage:</strong> 100 MB available space<br></li><li><strong>Sound Card:</strong> Standard Sound card<br></li><li><strong>Additional Notes:</strong> Game runs in locked 60FPS</li></ul>"
@@ -25,7 +25,40 @@
             "publishers": [
                 "HaDe"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 79,
+                "final": 47,
+                "discount_percent": 41,
+                "initial_formatted": "0,79€",
+                "final_formatted": "0,47€"
+            },
+            "packages": [
+                343401
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Dodge This!",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 343401,
+                            "percent_savings_text": "-41%",
+                            "percent_savings": 0,
+                            "option_text": "Dodge This! - <span class=\"discount_original_price\">0,79€</span> 0,47€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 47
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": false,
@@ -58,48 +91,48 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1032260/ss_9ca7cfcad72fcb10a0bec73f2f6eeec0cb861401.600x338.jpg?t=1549957489",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1032260/ss_9ca7cfcad72fcb10a0bec73f2f6eeec0cb861401.1920x1080.jpg?t=1549957489"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1032260/ss_9ca7cfcad72fcb10a0bec73f2f6eeec0cb861401.600x338.jpg?t=1551116656",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1032260/ss_9ca7cfcad72fcb10a0bec73f2f6eeec0cb861401.1920x1080.jpg?t=1551116656"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1032260/ss_b29ed80b3ddcba9575ccf1d1adec24fd4b9b4b7b.600x338.jpg?t=1549957489",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1032260/ss_b29ed80b3ddcba9575ccf1d1adec24fd4b9b4b7b.1920x1080.jpg?t=1549957489"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1032260/ss_b29ed80b3ddcba9575ccf1d1adec24fd4b9b4b7b.600x338.jpg?t=1551116656",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1032260/ss_b29ed80b3ddcba9575ccf1d1adec24fd4b9b4b7b.1920x1080.jpg?t=1551116656"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1032260/ss_287ceaa16ce930856d69066668057dd75602b943.600x338.jpg?t=1549957489",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1032260/ss_287ceaa16ce930856d69066668057dd75602b943.1920x1080.jpg?t=1549957489"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1032260/ss_287ceaa16ce930856d69066668057dd75602b943.600x338.jpg?t=1551116656",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1032260/ss_287ceaa16ce930856d69066668057dd75602b943.1920x1080.jpg?t=1551116656"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1032260/ss_3c66853b79a707bb8f94027d1e3d89ee4c7f833a.600x338.jpg?t=1549957489",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1032260/ss_3c66853b79a707bb8f94027d1e3d89ee4c7f833a.1920x1080.jpg?t=1549957489"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1032260/ss_3c66853b79a707bb8f94027d1e3d89ee4c7f833a.600x338.jpg?t=1551116656",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1032260/ss_3c66853b79a707bb8f94027d1e3d89ee4c7f833a.1920x1080.jpg?t=1551116656"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1032260/ss_0353d459f0250e3a00ce887fcbb920776618eb2b.600x338.jpg?t=1549957489",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1032260/ss_0353d459f0250e3a00ce887fcbb920776618eb2b.1920x1080.jpg?t=1549957489"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1032260/ss_0353d459f0250e3a00ce887fcbb920776618eb2b.600x338.jpg?t=1551116656",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1032260/ss_0353d459f0250e3a00ce887fcbb920776618eb2b.1920x1080.jpg?t=1551116656"
                 },
                 {
                     "id": 5,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1032260/ss_278fb7d7f479ac4669ca6198c48e59833ea34824.600x338.jpg?t=1549957489",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1032260/ss_278fb7d7f479ac4669ca6198c48e59833ea34824.1920x1080.jpg?t=1549957489"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1032260/ss_278fb7d7f479ac4669ca6198c48e59833ea34824.600x338.jpg?t=1551116656",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1032260/ss_278fb7d7f479ac4669ca6198c48e59833ea34824.1920x1080.jpg?t=1551116656"
                 },
                 {
                     "id": 6,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1032260/ss_dbb3e2fc76b1a4d9f68d627ee50ac934c644845b.600x338.jpg?t=1549957489",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1032260/ss_dbb3e2fc76b1a4d9f68d627ee50ac934c644845b.1920x1080.jpg?t=1549957489"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1032260/ss_dbb3e2fc76b1a4d9f68d627ee50ac934c644845b.600x338.jpg?t=1551116656",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1032260/ss_dbb3e2fc76b1a4d9f68d627ee50ac934c644845b.1920x1080.jpg?t=1551116656"
                 },
                 {
                     "id": 7,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1032260/ss_cb0079a3548284f3c2838544a52b84ec15c4b492.600x338.jpg?t=1549957489",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1032260/ss_cb0079a3548284f3c2838544a52b84ec15c4b492.1920x1080.jpg?t=1549957489"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1032260/ss_cb0079a3548284f3c2838544a52b84ec15c4b492.600x338.jpg?t=1551116656",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1032260/ss_cb0079a3548284f3c2838544a52b84ec15c4b492.1920x1080.jpg?t=1551116656"
                 },
                 {
                     "id": 8,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1032260/ss_16023352943e7c75e5795836211658144c3c80a1.600x338.jpg?t=1549957489",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1032260/ss_16023352943e7c75e5795836211658144c3c80a1.1920x1080.jpg?t=1549957489"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1032260/ss_16023352943e7c75e5795836211658144c3c80a1.600x338.jpg?t=1551116656",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1032260/ss_16023352943e7c75e5795836211658144c3c80a1.1920x1080.jpg?t=1551116656"
                 }
             ],
             "movies": [
@@ -114,15 +147,44 @@
                     "highlight": true
                 }
             ],
+            "achievements": {
+                "total": 6,
+                "highlighted": [
+                    {
+                        "name": "Looking Good!",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1032260/2c92caab61794712053f54fbc5f32a09cdcf90d6.jpg"
+                    },
+                    {
+                        "name": "Novice",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1032260/7b8613840be81e3f9e1e919df1f51970f75ba63f.jpg"
+                    },
+                    {
+                        "name": "Average dodger",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1032260/f0424dafec3935a91cc1fad2d95bc88bb89725f7.jpg"
+                    },
+                    {
+                        "name": "experienced",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1032260/98734ce64d18634b35626f90b33420e2e3f97535.jpg"
+                    },
+                    {
+                        "name": "Elite",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1032260/d226d964dfb924f870f3b9b2c23bfe6aa41c6235.jpg"
+                    },
+                    {
+                        "name": "Master",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1032260/9e05ea3be5055884b71b2bfca5c9641b9052d5db.jpg"
+                    }
+                ]
+            },
             "release_date": {
-                "coming_soon": true,
+                "coming_soon": false,
                 "date": "25 Feb, 2019"
             },
             "support_info": {
                 "url": "",
                 "email": "hadecsgo@gmail.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1032260/page_bg_generated_v6b.jpg?t=1549957489",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1032260/page_bg_generated_v6b.jpg?t=1551116656",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
