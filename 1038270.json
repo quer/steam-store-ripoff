@@ -7,22 +7,28 @@
             "steam_appid": 1038270,
             "required_age": 0,
             "is_free": true,
-            "detailed_description": "",
-            "about_the_game": "",
-            "short_description": "",
+            "detailed_description": "Gadgeteer is a physics-based VR puzzle game where you build chain reaction machines to solve fun, intricate puzzles. Your machines will use gadgets to launch, bump, twist, and turn—creating chain reactions that may even end up tearing apart the fabric of space-time.<br />\r\n<br />\r\nSandbox Mode is available for the Demo<br />\r\nBuild your dream machine without any rules but the rules of physics. When you're done, share your masterpiece or experience the engineering marvels of others.",
+            "about_the_game": "Gadgeteer is a physics-based VR puzzle game where you build chain reaction machines to solve fun, intricate puzzles. Your machines will use gadgets to launch, bump, twist, and turn—creating chain reactions that may even end up tearing apart the fabric of space-time.<br />\r\n<br />\r\nSandbox Mode is available for the Demo<br />\r\nBuild your dream machine without any rules but the rules of physics. When you're done, share your masterpiece or experience the engineering marvels of others.",
+            "short_description": "Gadgeteer is a physics-based VR puzzle game where you build chain reaction machines to solve fun, intricate puzzles. Your machines will use gadgets to launch, bump, twist, and turn—creating chain reactions that may even end up tearing apart the fabric of space-time. Only Sandbox Mode and part of the apartment is available for the Demo.",
             "fullgame": {
                 "appid": "746560",
                 "name": "Gadgeteer"
             },
             "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1038270/header.jpg?t=1550948934",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1038270/header.jpg?t=1551198242",
             "website": null,
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7, Windows 10<br></li><li><strong>Processor:</strong> Intel i7-4790K<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GTX 970<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>",
-                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Intel i7-7700<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GTX 1070<br></li><li><strong>Storage:</strong> 3 GB available space</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 7, Windows 10<br></li><li><strong>Processor:</strong> Intel i7-4790K<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GTX 970<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Intel i7-7700<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GTX 1070<br></li><li><strong>Storage:</strong> 3 GB available space</li></ul>"
             },
-            "mac_requirements": [],
-            "linux_requirements": [],
+            "mac_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+            },
+            "linux_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+            },
             "legal_notice": "Copyright © Metanaut Labs Inc., All rights reserved",
             "developers": [
                 "Metanaut"
@@ -57,7 +63,7 @@
                 }
             ],
             "release_date": {
-                "coming_soon": true,
+                "coming_soon": false,
                 "date": "26 Feb, 2019"
             },
             "support_info": {
