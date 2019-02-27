@@ -41,10 +41,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 1499,
-                "final": 524,
-                "discount_percent": 65,
-                "initial_formatted": "14,99€",
-                "final_formatted": "5,24€"
+                "final": 1499,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "14,99€"
             },
             "packages": [
                 30440,
@@ -64,43 +64,43 @@
                     "subs": [
                         {
                             "packageid": 30440,
-                            "percent_savings_text": "-65%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Agarest: Generations of War - <span class=\"discount_original_price\">14,99€</span> 5,24€",
+                            "option_text": "Agarest: Generations of War - 14,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 524
+                            "price_in_cents_with_discount": 1499
                         },
                         {
                             "packageid": 37465,
-                            "percent_savings_text": "-65%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Agarest: Collector's Edition - <span class=\"discount_original_price\">19,99€</span> 6,99€",
+                            "option_text": "Agarest: Collector's Edition - 19,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 699
+                            "price_in_cents_with_discount": 1999
                         },
                         {
                             "packageid": 67637,
-                            "percent_savings_text": "-65%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Agarest: The Complete Saga - <span class=\"discount_original_price\">41,99€</span> 14,69€",
+                            "option_text": "Agarest: The Complete Saga - 41,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1469
+                            "price_in_cents_with_discount": 4199
                         },
                         {
                             "packageid": 33182,
-                            "percent_savings_text": "-60%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Agarest Zero - <span class=\"discount_original_price\">19,99€</span> 7,99€",
+                            "option_text": "Agarest Zero - 19,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 799
+                            "price_in_cents_with_discount": 1999
                         }
                     ]
                 }
