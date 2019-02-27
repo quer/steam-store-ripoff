@@ -38,10 +38,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 1399,
-                "final": 1399,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "13,99€"
+                "final": 839,
+                "discount_percent": 40,
+                "initial_formatted": "13,99€",
+                "final_formatted": "8,39€"
             },
             "packages": [
                 30719,
@@ -59,13 +59,13 @@
                     "subs": [
                         {
                             "packageid": 30719,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-40%",
                             "percent_savings": 0,
-                            "option_text": "The Inner World - 13,99€",
+                            "option_text": "The Inner World - <span class=\"discount_original_price\">13,99€</span> 8,39€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1399
+                            "price_in_cents_with_discount": 839
                         },
                         {
                             "packageid": 41066,
