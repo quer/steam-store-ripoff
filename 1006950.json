@@ -26,40 +26,10 @@
             "publishers": [
                 "Wyvern-Entertainment"
             ],
-            "price_overview": {
-                "currency": "USD",
-                "initial": 699,
-                "final": 699,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "$6.99"
-            },
             "packages": [
                 333050
             ],
-            "package_groups": [
-                {
-                    "name": "default",
-                    "title": "Buy Dragons Be",
-                    "description": "",
-                    "selection_text": "Select a purchase option",
-                    "save_text": "",
-                    "display_type": 0,
-                    "is_recurring_subscription": "false",
-                    "subs": [
-                        {
-                            "packageid": 333050,
-                            "percent_savings_text": "",
-                            "percent_savings": 0,
-                            "option_text": "Dragons Be - $6.99",
-                            "option_description": "",
-                            "can_get_free_license": "0",
-                            "is_free_license": false,
-                            "price_in_cents_with_discount": 699
-                        }
-                    ]
-                }
-            ],
+            "package_groups": [],
             "platforms": {
                 "windows": true,
                 "mac": false,
@@ -161,7 +131,7 @@
             ],
             "release_date": {
                 "coming_soon": false,
-                "date": "Feb 19, 2019"
+                "date": "19 Feb, 2019"
             },
             "support_info": {
                 "url": "",
