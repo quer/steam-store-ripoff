@@ -12,7 +12,7 @@
             "about_the_game": "In this maze game you need to collect all the orbs to make the portal appear, that brings you to the next level. It’s a simple game but challenging at times. You only have to use the mouse to move around the stage. Different obstacles are there to avoid and orbs to collect. It has 24 levels for you to explore.",
             "short_description": "Super Orb Collector is a fun top down agility game that lets you test your hand-eye coordination. The goal of this game is to collect all the white dots and reach the exit portal while avoid hitting the colored objects. Many moving obstacles can kill you at any time, so plan your moves carefully!",
             "supported_languages": "English",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1031640/header.jpg?t=1551035266",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1031640/header.jpg?t=1551084269",
             "website": "http://www.nannings.nz",
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong> 1 Ghz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> 256MB Graphics<br></li><li><strong>Storage:</strong> 100 MB available space</li></ul>"
@@ -25,7 +25,40 @@
             "publishers": [
                 "NanningsGames"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 159,
+                "final": 95,
+                "discount_percent": 40,
+                "initial_formatted": "1,59€",
+                "final_formatted": "0,95€"
+            },
+            "packages": [
+                343190
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Super Orb Collector",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 343190,
+                            "percent_savings_text": "-40%",
+                            "percent_savings": 0,
+                            "option_text": "Super Orb Collector - <span class=\"discount_original_price\">1,59€</span> 0,95€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 95
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": false,
@@ -62,98 +95,98 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031640/ss_fc39b4920bc4b9c07a4f90a0fced8783da02bdfb.600x338.jpg?t=1551035266",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031640/ss_fc39b4920bc4b9c07a4f90a0fced8783da02bdfb.1920x1080.jpg?t=1551035266"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031640/ss_fc39b4920bc4b9c07a4f90a0fced8783da02bdfb.600x338.jpg?t=1551084269",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031640/ss_fc39b4920bc4b9c07a4f90a0fced8783da02bdfb.1920x1080.jpg?t=1551084269"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031640/ss_dd5f251b098fa5779abe8ad5363e89149b0aea3f.600x338.jpg?t=1551035266",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031640/ss_dd5f251b098fa5779abe8ad5363e89149b0aea3f.1920x1080.jpg?t=1551035266"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031640/ss_dd5f251b098fa5779abe8ad5363e89149b0aea3f.600x338.jpg?t=1551084269",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031640/ss_dd5f251b098fa5779abe8ad5363e89149b0aea3f.1920x1080.jpg?t=1551084269"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031640/ss_3f7ea66073d5541d5ee369897cecd3a3d70d6603.600x338.jpg?t=1551035266",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031640/ss_3f7ea66073d5541d5ee369897cecd3a3d70d6603.1920x1080.jpg?t=1551035266"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031640/ss_3f7ea66073d5541d5ee369897cecd3a3d70d6603.600x338.jpg?t=1551084269",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031640/ss_3f7ea66073d5541d5ee369897cecd3a3d70d6603.1920x1080.jpg?t=1551084269"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031640/ss_0861f9544bebf3adce4c0592ae5abf96bf2768d0.600x338.jpg?t=1551035266",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031640/ss_0861f9544bebf3adce4c0592ae5abf96bf2768d0.1920x1080.jpg?t=1551035266"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031640/ss_0861f9544bebf3adce4c0592ae5abf96bf2768d0.600x338.jpg?t=1551084269",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031640/ss_0861f9544bebf3adce4c0592ae5abf96bf2768d0.1920x1080.jpg?t=1551084269"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031640/ss_42a90d00265664fc0bf77d5fec350bdcff7469cf.600x338.jpg?t=1551035266",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031640/ss_42a90d00265664fc0bf77d5fec350bdcff7469cf.1920x1080.jpg?t=1551035266"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031640/ss_42a90d00265664fc0bf77d5fec350bdcff7469cf.600x338.jpg?t=1551084269",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031640/ss_42a90d00265664fc0bf77d5fec350bdcff7469cf.1920x1080.jpg?t=1551084269"
                 },
                 {
                     "id": 5,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031640/ss_ce510c2cde7efafd69cdd9849b50b16a4a468e27.600x338.jpg?t=1551035266",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031640/ss_ce510c2cde7efafd69cdd9849b50b16a4a468e27.1920x1080.jpg?t=1551035266"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031640/ss_ce510c2cde7efafd69cdd9849b50b16a4a468e27.600x338.jpg?t=1551084269",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031640/ss_ce510c2cde7efafd69cdd9849b50b16a4a468e27.1920x1080.jpg?t=1551084269"
                 },
                 {
                     "id": 6,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031640/ss_f7ead7be2b57adbfec4aadd1cea5ae27394689c7.600x338.jpg?t=1551035266",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031640/ss_f7ead7be2b57adbfec4aadd1cea5ae27394689c7.1920x1080.jpg?t=1551035266"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031640/ss_f7ead7be2b57adbfec4aadd1cea5ae27394689c7.600x338.jpg?t=1551084269",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031640/ss_f7ead7be2b57adbfec4aadd1cea5ae27394689c7.1920x1080.jpg?t=1551084269"
                 },
                 {
                     "id": 7,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031640/ss_a23cd6a2d8cec222212bffd31b0b95a5237791ed.600x338.jpg?t=1551035266",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031640/ss_a23cd6a2d8cec222212bffd31b0b95a5237791ed.1920x1080.jpg?t=1551035266"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031640/ss_a23cd6a2d8cec222212bffd31b0b95a5237791ed.600x338.jpg?t=1551084269",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031640/ss_a23cd6a2d8cec222212bffd31b0b95a5237791ed.1920x1080.jpg?t=1551084269"
                 },
                 {
                     "id": 8,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031640/ss_5bf736ab4df18eaace662879f6933abe48dc849a.600x338.jpg?t=1551035266",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031640/ss_5bf736ab4df18eaace662879f6933abe48dc849a.1920x1080.jpg?t=1551035266"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031640/ss_5bf736ab4df18eaace662879f6933abe48dc849a.600x338.jpg?t=1551084269",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031640/ss_5bf736ab4df18eaace662879f6933abe48dc849a.1920x1080.jpg?t=1551084269"
                 },
                 {
                     "id": 9,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031640/ss_c79357c77609e3bc4b72f1e681b8f5f5f214f685.600x338.jpg?t=1551035266",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031640/ss_c79357c77609e3bc4b72f1e681b8f5f5f214f685.1920x1080.jpg?t=1551035266"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031640/ss_c79357c77609e3bc4b72f1e681b8f5f5f214f685.600x338.jpg?t=1551084269",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031640/ss_c79357c77609e3bc4b72f1e681b8f5f5f214f685.1920x1080.jpg?t=1551084269"
                 },
                 {
                     "id": 10,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031640/ss_87226cd8d51c9b044cd51a894e5ce368134d24ee.600x338.jpg?t=1551035266",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031640/ss_87226cd8d51c9b044cd51a894e5ce368134d24ee.1920x1080.jpg?t=1551035266"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031640/ss_87226cd8d51c9b044cd51a894e5ce368134d24ee.600x338.jpg?t=1551084269",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031640/ss_87226cd8d51c9b044cd51a894e5ce368134d24ee.1920x1080.jpg?t=1551084269"
                 },
                 {
                     "id": 11,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031640/ss_2baaaedff0a03eb0157156d431ce743f181f1bda.600x338.jpg?t=1551035266",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031640/ss_2baaaedff0a03eb0157156d431ce743f181f1bda.1920x1080.jpg?t=1551035266"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031640/ss_2baaaedff0a03eb0157156d431ce743f181f1bda.600x338.jpg?t=1551084269",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031640/ss_2baaaedff0a03eb0157156d431ce743f181f1bda.1920x1080.jpg?t=1551084269"
                 },
                 {
                     "id": 12,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031640/ss_ce60232348a27cfd73b1ccd6d4c25e91b1ef6c08.600x338.jpg?t=1551035266",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031640/ss_ce60232348a27cfd73b1ccd6d4c25e91b1ef6c08.1920x1080.jpg?t=1551035266"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031640/ss_ce60232348a27cfd73b1ccd6d4c25e91b1ef6c08.600x338.jpg?t=1551084269",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031640/ss_ce60232348a27cfd73b1ccd6d4c25e91b1ef6c08.1920x1080.jpg?t=1551084269"
                 },
                 {
                     "id": 13,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031640/ss_4dd95f94cccbc84686defe56e2b61c9e7d6e9215.600x338.jpg?t=1551035266",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031640/ss_4dd95f94cccbc84686defe56e2b61c9e7d6e9215.1920x1080.jpg?t=1551035266"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031640/ss_4dd95f94cccbc84686defe56e2b61c9e7d6e9215.600x338.jpg?t=1551084269",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031640/ss_4dd95f94cccbc84686defe56e2b61c9e7d6e9215.1920x1080.jpg?t=1551084269"
                 },
                 {
                     "id": 14,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031640/ss_0f6656e345603deeae856cac9ccd7bcbd4d9ac9a.600x338.jpg?t=1551035266",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031640/ss_0f6656e345603deeae856cac9ccd7bcbd4d9ac9a.1920x1080.jpg?t=1551035266"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031640/ss_0f6656e345603deeae856cac9ccd7bcbd4d9ac9a.600x338.jpg?t=1551084269",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031640/ss_0f6656e345603deeae856cac9ccd7bcbd4d9ac9a.1920x1080.jpg?t=1551084269"
                 },
                 {
                     "id": 15,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031640/ss_9a8a77ccaf34b2113bab70e2992b48903d3f244d.600x338.jpg?t=1551035266",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031640/ss_9a8a77ccaf34b2113bab70e2992b48903d3f244d.1920x1080.jpg?t=1551035266"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031640/ss_9a8a77ccaf34b2113bab70e2992b48903d3f244d.600x338.jpg?t=1551084269",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031640/ss_9a8a77ccaf34b2113bab70e2992b48903d3f244d.1920x1080.jpg?t=1551084269"
                 },
                 {
                     "id": 16,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031640/ss_3e858b2fb52d02194e2f6f75d21c566eaa3a1a0e.600x338.jpg?t=1551035266",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031640/ss_3e858b2fb52d02194e2f6f75d21c566eaa3a1a0e.1920x1080.jpg?t=1551035266"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031640/ss_3e858b2fb52d02194e2f6f75d21c566eaa3a1a0e.600x338.jpg?t=1551084269",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031640/ss_3e858b2fb52d02194e2f6f75d21c566eaa3a1a0e.1920x1080.jpg?t=1551084269"
                 },
                 {
                     "id": 17,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031640/ss_33ab86ad66b47469551a44c5b826c0d0539602f4.600x338.jpg?t=1551035266",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031640/ss_33ab86ad66b47469551a44c5b826c0d0539602f4.1920x1080.jpg?t=1551035266"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031640/ss_33ab86ad66b47469551a44c5b826c0d0539602f4.600x338.jpg?t=1551084269",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031640/ss_33ab86ad66b47469551a44c5b826c0d0539602f4.1920x1080.jpg?t=1551084269"
                 },
                 {
                     "id": 18,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031640/ss_c09b1e072ef528195be71d9f01b833b920eba2ab.600x338.jpg?t=1551035266",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031640/ss_c09b1e072ef528195be71d9f01b833b920eba2ab.1920x1080.jpg?t=1551035266"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031640/ss_c09b1e072ef528195be71d9f01b833b920eba2ab.600x338.jpg?t=1551084269",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031640/ss_c09b1e072ef528195be71d9f01b833b920eba2ab.1920x1080.jpg?t=1551084269"
                 }
             ],
             "movies": [
@@ -168,15 +201,60 @@
                     "highlight": true
                 }
             ],
+            "achievements": {
+                "total": 24,
+                "highlighted": [
+                    {
+                        "name": "Level 1",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1031640/48f3f472bd71a8a6c5889ede451b24e0e7f2ca43.jpg"
+                    },
+                    {
+                        "name": "Level 2",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1031640/86984fdd0848543867f31c27639fc73bfbad92d7.jpg"
+                    },
+                    {
+                        "name": "Level 3",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1031640/d9ced29563e08e896ab5dece847c4667d6815334.jpg"
+                    },
+                    {
+                        "name": "Level 4",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1031640/9e2df64f148b232204c64a5c097ca7388d1a0d01.jpg"
+                    },
+                    {
+                        "name": "Level 5",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1031640/7cbdbb9ad3f060b2a484d0bd552be7194904f232.jpg"
+                    },
+                    {
+                        "name": "Level 6",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1031640/a5305b2c34c561a6096a9f3443f3556424dfba8c.jpg"
+                    },
+                    {
+                        "name": "Level 7",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1031640/595f478fe15e6090b292350f0cf49f14e671a6d2.jpg"
+                    },
+                    {
+                        "name": "Level 8",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1031640/487b4907335846b25c07fdff7bd277e39e15db70.jpg"
+                    },
+                    {
+                        "name": "Level 9",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1031640/b27307d8cc17628615e4639ce44facebe28f574d.jpg"
+                    },
+                    {
+                        "name": "Level 10",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1031640/511efa13cb98fced7c02c0cd49f299eedcdbcf20.jpg"
+                    }
+                ]
+            },
             "release_date": {
-                "coming_soon": true,
+                "coming_soon": false,
                 "date": "25 Feb, 2019"
             },
             "support_info": {
                 "url": "http://www.nannings.nz",
                 "email": "mrnannings@gmail.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1031640/page_bg_generated_v6b.jpg?t=1551035266",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1031640/page_bg_generated_v6b.jpg?t=1551084269",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
