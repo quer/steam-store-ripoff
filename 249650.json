@@ -41,17 +41,17 @@
             ],
             "price_overview": {
                 "currency": "EUR",
-                "initial": 3199,
-                "final": 319,
-                "discount_percent": 90,
-                "initial_formatted": "31,99€",
-                "final_formatted": "3,19€"
+                "initial": 999,
+                "final": 199,
+                "discount_percent": 80,
+                "initial_formatted": "9,99€",
+                "final_formatted": "1,99€"
             },
             "packages": [
                 30251,
                 232457,
-                44166,
                 33661,
+                44166,
                 76471
             ],
             "package_groups": [
@@ -66,13 +66,13 @@
                     "subs": [
                         {
                             "packageid": 30251,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-80%",
                             "percent_savings": 0,
-                            "option_text": "Blackguards - Standard Edition - 9,99€",
+                            "option_text": "Blackguards - Standard Edition - <span class=\"discount_original_price\">9,99€</span> 1,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 999
+                            "price_in_cents_with_discount": 199
                         },
                         {
                             "packageid": 232457,
@@ -85,6 +85,16 @@
                             "price_in_cents_with_discount": 1999
                         },
                         {
+                            "packageid": 33661,
+                            "percent_savings_text": "-84%",
+                            "percent_savings": 0,
+                            "option_text": "Blackguards - Deluxe Edition - <span class=\"discount_original_price\">14,99€</span> 2,39€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 239
+                        },
+                        {
                             "packageid": 44166,
                             "percent_savings_text": "-90%",
                             "percent_savings": 0,
@@ -95,24 +105,14 @@
                             "price_in_cents_with_discount": 319
                         },
                         {
-                            "packageid": 33661,
-                            "percent_savings_text": "",
-                            "percent_savings": 0,
-                            "option_text": "Blackguards - Deluxe Edition - 14,99€",
-                            "option_description": "",
-                            "can_get_free_license": "0",
-                            "is_free_license": false,
-                            "price_in_cents_with_discount": 1499
-                        },
-                        {
                             "packageid": 76471,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-90%",
                             "percent_savings": 0,
-                            "option_text": "Daedalic - Gigantic Bundle - 120,99€",
+                            "option_text": "Daedalic - Gigantic Bundle - <span class=\"discount_original_price\">120,99€</span> 12,09€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 12099
+                            "price_in_cents_with_discount": 1209
                         }
                     ]
                 }
