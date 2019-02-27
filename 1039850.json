@@ -15,7 +15,7 @@
                 "name": "Solar Battle Glargaz"
             },
             "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1039850/header.jpg?t=1551145441",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1039850/header.jpg?t=1551184261",
             "website": "https://store.steampowered.com/curator/33045467",
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Win 7 32-bit or higher<br></li><li><strong>Processor:</strong> 2.0 ghz or higher<br></li><li><strong>Memory:</strong> 500 MB RAM<br></li><li><strong>Graphics:</strong> 500 Megs VRAM<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>"
@@ -28,7 +28,40 @@
             "publishers": [
                 "VT Publishing"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 499,
+                "final": 374,
+                "discount_percent": 25,
+                "initial_formatted": "4,99€",
+                "final_formatted": "3,74€"
+            },
+            "packages": [
+                346334
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Solar Battle Glargaz Sound Track",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 346334,
+                            "percent_savings_text": "-25%",
+                            "percent_savings": 0,
+                            "option_text": "Solar Battle Glargaz Sound Track - <span class=\"discount_original_price\">4,99€</span> 3,74€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 374
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": false,
@@ -61,8 +94,8 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1039850/ss_1e6dbd3e2b63b1a42ffd755b603e1b5c8d3eeae0.600x338.jpg?t=1551145441",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1039850/ss_1e6dbd3e2b63b1a42ffd755b603e1b5c8d3eeae0.1920x1080.jpg?t=1551145441"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1039850/ss_1e6dbd3e2b63b1a42ffd755b603e1b5c8d3eeae0.600x338.jpg?t=1551184261",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1039850/ss_1e6dbd3e2b63b1a42ffd755b603e1b5c8d3eeae0.1920x1080.jpg?t=1551184261"
                 }
             ],
             "movies": [
@@ -78,14 +111,14 @@
                 }
             ],
             "release_date": {
-                "coming_soon": true,
-                "date": "28 Feb, 2019"
+                "coming_soon": false,
+                "date": "26 Feb, 2019"
             },
             "support_info": {
                 "url": "https://store.steampowered.com/curator/33045467",
                 "email": "support@vtpublishing.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1039850/page_bg_generated_v6b.jpg?t=1551145441",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1039850/page_bg_generated_v6b.jpg?t=1551184261",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
