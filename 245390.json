@@ -34,10 +34,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 599,
-                "final": 599,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "5,99€"
+                "final": 119,
+                "discount_percent": 80,
+                "initial_formatted": "5,99€",
+                "final_formatted": "1,19€"
             },
             "packages": [
                 32846
@@ -54,13 +54,13 @@
                     "subs": [
                         {
                             "packageid": 32846,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-80%",
                             "percent_savings": 0,
-                            "option_text": "I Have No Mouth and I Must Scream - 5,99€",
+                            "option_text": "I Have No Mouth and I Must Scream - <span class=\"discount_original_price\">5,99€</span> 1,19€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 599
+                            "price_in_cents_with_discount": 119
                         }
                     ]
                 }
