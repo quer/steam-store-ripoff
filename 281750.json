@@ -15,14 +15,14 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/281750/header.jpg?t=1524232261",
             "website": null,
             "pc_requirements": {
-                "minimum": "<strong>最低配備:</strong><br><ul class=\"bb_ul\"><li><strong>作業系統:</strong> Windows Vista/7/8<br></li><li><strong>處理器:</strong> 2.33 GHz Single Core<br></li><li><strong>記憶體:</strong> 512 MB 記憶體<br></li><li><strong>顯示卡:</strong> DirectX 9 compatible<br></li><li><strong>儲存空間:</strong> 2 GB 可用空間<br></li><li><strong>音效卡:</strong> DirectX 9 compatible<br></li><li><strong>備註:</strong> Mouse, Keyboard</li></ul>",
-                "recommended": "<strong>建議配備:</strong><br><ul class=\"bb_ul\"><li><strong>作業系統:</strong> Windows XP/Vista/7/8<br></li><li><strong>處理器:</strong> 2.33 GHz Single Core<br></li><li><strong>記憶體:</strong> 1 GB 記憶體<br></li><li><strong>顯示卡:</strong> DirectX 9 compatible<br></li><li><strong>儲存空間:</strong> 2 GB 可用空間<br></li><li><strong>音效卡:</strong> DirectX 9 compatible<br></li><li><strong>備註:</strong> Mouse, Keyboard</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows Vista/7/8<br></li><li><strong>Processor:</strong> 2.33 GHz Single Core<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> DirectX 9 compatible<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Sound Card:</strong> DirectX 9 compatible<br></li><li><strong>Additional Notes:</strong> Mouse, Keyboard</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP/Vista/7/8<br></li><li><strong>Processor:</strong> 2.33 GHz Single Core<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> DirectX 9 compatible<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Sound Card:</strong> DirectX 9 compatible<br></li><li><strong>Additional Notes:</strong> Mouse, Keyboard</li></ul>"
             },
             "mac_requirements": {
-                "minimum": "<strong>最低配備:</strong><br><ul class=\"bb_ul\"><li><strong>作業系統:</strong> OSX 10.5<br></li><li><strong>處理器:</strong> 2.33 GHz Single Core<br></li><li><strong>記憶體:</strong> 1 GB 記憶體<br></li><li><strong>顯示卡:</strong> DirectX 9 compatible<br></li><li><strong>儲存空間:</strong> 2 GB 可用空間<br></li><li><strong>音效卡:</strong> DirectX 9 compatible<br></li><li><strong>備註:</strong> Mouse, Keyboard</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OSX 10.5<br></li><li><strong>Processor:</strong> 2.33 GHz Single Core<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> DirectX 9 compatible<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Sound Card:</strong> DirectX 9 compatible<br></li><li><strong>Additional Notes:</strong> Mouse, Keyboard</li></ul>"
             },
             "linux_requirements": {
-                "minimum": "<strong>最低配備:</strong><br><ul class=\"bb_ul\"><li><strong>作業系統:</strong> Ubuntu Linux 10.10 or later, other distros incl. Arch Linux, Gentoo, Debian should work. Both 32-bit and 64-bit systems are supported<br></li><li><strong>處理器:</strong> 2.33 GHz Single Core<br></li><li><strong>記憶體:</strong> 1 GB 記憶體<br></li><li><strong>儲存空間:</strong> 2 GB 可用空間</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu Linux 10.10 or later, other distros incl. Arch Linux, Gentoo, Debian should work. Both 32-bit and 64-bit systems are supported<br></li><li><strong>Processor:</strong> 2.33 GHz Single Core<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>"
             },
             "legal_notice": "© Copyright 2014 Daedalic Entertainment GmbH and GOJIRA LDA.<br />\r\nDaedalic and the Daedalic-Logo are trademarks of Daedalic Entertainment GmbH.<br />\r\nAll rights reserved.",
             "developers": [
@@ -34,10 +34,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 499,
-                "final": 499,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "4,99€"
+                "final": 49,
+                "discount_percent": 90,
+                "initial_formatted": "4,99€",
+                "final_formatted": "0,49€"
             },
             "packages": [
                 38690,
@@ -55,23 +55,23 @@
                     "subs": [
                         {
                             "packageid": 38690,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-90%",
                             "percent_savings": 0,
-                            "option_text": "Munin - 4,99€",
+                            "option_text": "Munin - <span class=\"discount_original_price\">4,99€</span> 0,49€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 499
+                            "price_in_cents_with_discount": 49
                         },
                         {
                             "packageid": 76471,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-90%",
                             "percent_savings": 0,
-                            "option_text": "Daedalic - Gigantic Bundle - 120,99€",
+                            "option_text": "Daedalic - Gigantic Bundle - <span class=\"discount_original_price\">120,99€</span> 12,09€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 12099
+                            "price_in_cents_with_discount": 1209
                         }
                     ]
                 }
@@ -181,7 +181,7 @@
                 }
             ],
             "recommendations": {
-                "total": 426
+                "total": 427
             },
             "achievements": {
                 "total": 18,
