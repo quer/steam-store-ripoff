@@ -30,16 +30,16 @@
             ],
             "price_overview": {
                 "currency": "EUR",
-                "initial": 499,
-                "final": 49,
-                "discount_percent": 90,
-                "initial_formatted": "4,99€",
-                "final_formatted": "0,49€"
+                "initial": 299,
+                "final": 299,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "2,99€"
             },
             "packages": [
                 47242,
-                73792,
-                47626
+                47626,
+                73792
             ],
             "package_groups": [
                 {
@@ -62,16 +62,6 @@
                             "price_in_cents_with_discount": 299
                         },
                         {
-                            "packageid": 73792,
-                            "percent_savings_text": "-90%",
-                            "percent_savings": 0,
-                            "option_text": "Inner Demons Pack - Face It + Soul Gambler - <span class=\"discount_original_price\">4,99€</span> 0,49€",
-                            "option_description": "",
-                            "can_get_free_license": "0",
-                            "is_free_license": false,
-                            "price_in_cents_with_discount": 49
-                        },
-                        {
                             "packageid": 47626,
                             "percent_savings_text": "",
                             "percent_savings": 0,
@@ -80,6 +70,16 @@
                             "can_get_free_license": "0",
                             "is_free_license": false,
                             "price_in_cents_with_discount": 399
+                        },
+                        {
+                            "packageid": 73792,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Inner Demons Pack - Face It + Soul Gambler - 4,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 499
                         }
                     ]
                 }
@@ -256,7 +256,7 @@
                 }
             ],
             "recommendations": {
-                "total": 1876
+                "total": 1874
             },
             "achievements": {
                 "total": 24,
