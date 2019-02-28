@@ -1,0 +1,132 @@
+{
+    "1008300": {
+        "success": true,
+        "data": {
+            "type": "dlc",
+            "name": "Tiny Snow - Original Soundtrack",
+            "steam_appid": 1008300,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "《茸雪》原声音乐集，由音乐社团Windbell为本游戏专门打造。<br>包含wav格式（CD音质）与mp3格式（320kbps）。<br><br>本音乐集包含以下曲目：<br><br><ul class=\"bb_ul\"><li>01山中小木屋<br></li><li>02早安<br></li><li>03夕阳<br></li><li>04晚上的小火堆<br></li><li>05晚上的小火堆PV版<br></li><li>06难过<br></li><li>07雪地<br></li><li>08混沌<br></li><li>09漩涡<br></li><li>10因果</li></ul>",
+            "about_the_game": "《茸雪》原声音乐集，由音乐社团Windbell为本游戏专门打造。<br>包含wav格式（CD音质）与mp3格式（320kbps）。<br><br>本音乐集包含以下曲目：<br><br><ul class=\"bb_ul\"><li>01山中小木屋<br></li><li>02早安<br></li><li>03夕阳<br></li><li>04晚上的小火堆<br></li><li>05晚上的小火堆PV版<br></li><li>06难过<br></li><li>07雪地<br></li><li>08混沌<br></li><li>09漩涡<br></li><li>10因果</li></ul>",
+            "short_description": "《茸雪》原声音乐集，由音乐社团Windbell为本游戏专门打造。包含wav格式（CD音质）与mp3格式（320kbps）。",
+            "fullgame": {
+                "appid": "1002560",
+                "name": "Tiny Snow"
+            },
+            "supported_languages": "Simplified Chinese<strong>*</strong>, Traditional Chinese<strong>*</strong><br><strong>*</strong>languages with full audio support",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1008300/header.jpg?t=1551323006",
+            "website": null,
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> WIN7 SP1/WIN8/WIN10<br></li><li><strong>Processor:</strong> 1000MHz<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "developers": [
+                "#workshop"
+            ],
+            "publishers": [
+                "#workshop"
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 79,
+                "final": 55,
+                "discount_percent": 30,
+                "initial_formatted": "0,79€",
+                "final_formatted": "0,55€"
+            },
+            "packages": [
+                333578
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Tiny Snow - Original Soundtrack",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 333578,
+                            "percent_savings_text": "-30%",
+                            "percent_savings": 0,
+                            "option_text": "Tiny Snow - Original Soundtrack - <span class=\"discount_original_price\">0,79€</span> 0,55€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 55
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 21,
+                    "description": "Downloadable Content"
+                },
+                {
+                    "id": 22,
+                    "description": "Steam Achievements"
+                },
+                {
+                    "id": 23,
+                    "description": "Steam Cloud"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "25",
+                    "description": "Adventure"
+                },
+                {
+                    "id": "4",
+                    "description": "Casual"
+                },
+                {
+                    "id": "23",
+                    "description": "Indie"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1008300/ss_a08c0ddb3126b543909f907123e28e19e7719de1.600x338.jpg?t=1551323006",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1008300/ss_a08c0ddb3126b543909f907123e28e19e7719de1.1920x1080.jpg?t=1551323006"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1008300/ss_89838c4ca19238bfb26bc6ad597726e224cd7b7b.600x338.jpg?t=1551323006",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1008300/ss_89838c4ca19238bfb26bc6ad597726e224cd7b7b.1920x1080.jpg?t=1551323006"
+                }
+            ],
+            "achievements": {
+                "total": 0
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "27 Feb, 2019"
+            },
+            "support_info": {
+                "url": "",
+                "email": "info@nvlsoft.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1008300/page_bg_generated_v6b.jpg?t=1551323006",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}
