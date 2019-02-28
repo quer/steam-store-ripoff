@@ -39,10 +39,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 699,
-                "final": 699,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "6,99€"
+                "final": 349,
+                "discount_percent": 50,
+                "initial_formatted": "6,99€",
+                "final_formatted": "3,49€"
             },
             "packages": [
                 37416
@@ -59,13 +59,13 @@
                     "subs": [
                         {
                             "packageid": 37416,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-50%",
                             "percent_savings": 0,
-                            "option_text": "Age of Wonders III - Deluxe Edition DLC - 6,99€",
+                            "option_text": "Age of Wonders III - Deluxe Edition DLC - <span class=\"discount_original_price\">6,99€</span> 3,49€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 699
+                            "price_in_cents_with_discount": 349
                         }
                     ]
                 }
