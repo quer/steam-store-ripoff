@@ -31,10 +31,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 499,
-                "final": 499,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "4,99€"
+                "final": 299,
+                "discount_percent": 40,
+                "initial_formatted": "4,99€",
+                "final_formatted": "2,99€"
             },
             "packages": [
                 69703
@@ -51,13 +51,13 @@
                     "subs": [
                         {
                             "packageid": 69703,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-40%",
                             "percent_savings": 0,
-                            "option_text": "Hatred - 4,99€",
+                            "option_text": "Hatred - <span class=\"discount_original_price\">4,99€</span> 2,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 499
+                            "price_in_cents_with_discount": 299
                         }
                     ]
                 }
@@ -242,7 +242,7 @@
                 }
             ],
             "recommendations": {
-                "total": 5704
+                "total": 5715
             },
             "achievements": {
                 "total": 74,
