@@ -14,7 +14,7 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/343560/header.jpg?t=1447367416",
             "website": "http://bobwashungry.com",
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong> Intel Core i5 1.8 GHz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> 768 MB / Shader Model 2.0<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
+                "minimum": "<strong>Minimale :</strong><br><ul class=\"bb_ul\"><li><strong>Système d'exploitation :</strong> Windows 7<br></li><li><strong>Processeur :</strong> Intel Core i5 1.8 GHz<br></li><li><strong>Mémoire vive :</strong> 4 GB de mémoire<br></li><li><strong>Graphiques :</strong> 768 MB / Shader Model 2.0<br></li><li><strong>DirectX :</strong> Version 9.0c<br></li><li><strong>Espace disque :</strong> 1 GB d'espace disque disponible</li></ul>"
             },
             "mac_requirements": [],
             "linux_requirements": [],
@@ -33,10 +33,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 999,
-                "final": 99,
-                "discount_percent": 90,
-                "initial_formatted": "9,99€",
-                "final_formatted": "0,99€"
+                "final": 999,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "9,99€"
             },
             "packages": [
                 58286
@@ -53,13 +53,13 @@
                     "subs": [
                         {
                             "packageid": 58286,
-                            "percent_savings_text": "-90%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Bob Was Hungry - <span class=\"discount_original_price\">9,99€</span> 0,99€",
+                            "option_text": "Bob Was Hungry - 9,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 99
+                            "price_in_cents_with_discount": 999
                         }
                     ]
                 }
@@ -206,7 +206,7 @@
                 }
             ],
             "recommendations": {
-                "total": 330
+                "total": 333
             },
             "achievements": {
                 "total": 38,
