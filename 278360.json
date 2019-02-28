@@ -36,10 +36,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 1299,
-                "final": 259,
-                "discount_percent": 80,
-                "initial_formatted": "12,99€",
-                "final_formatted": "2,59€"
+                "final": 1299,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "12,99€"
             },
             "packages": [
                 37993
@@ -56,13 +56,13 @@
                     "subs": [
                         {
                             "packageid": 37993,
-                            "percent_savings_text": "-80%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "A Story About My Uncle - <span class=\"discount_original_price\">12,99€</span> 2,59€",
+                            "option_text": "A Story About My Uncle - 12,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 259
+                            "price_in_cents_with_discount": 1299
                         }
                     ]
                 }
@@ -172,7 +172,7 @@
                 }
             ],
             "recommendations": {
-                "total": 9605
+                "total": 9677
             },
             "achievements": {
                 "total": 15,
