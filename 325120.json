@@ -34,10 +34,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 999,
-                "final": 399,
-                "discount_percent": 60,
-                "initial_formatted": "9,99€",
-                "final_formatted": "3,99€"
+                "final": 999,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "9,99€"
             },
             "packages": [
                 51513
@@ -54,13 +54,13 @@
                     "subs": [
                         {
                             "packageid": 51513,
-                            "percent_savings_text": "-60%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Notch - The Innocent LunA: Eclipsed SinnerS - <span class=\"discount_original_price\">9,99€</span> 3,99€",
+                            "option_text": "Notch - The Innocent LunA: Eclipsed SinnerS - 9,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 399
+                            "price_in_cents_with_discount": 999
                         }
                     ]
                 }
@@ -186,7 +186,7 @@
                 }
             ],
             "recommendations": {
-                "total": 494
+                "total": 500
             },
             "achievements": {
                 "total": 20,
