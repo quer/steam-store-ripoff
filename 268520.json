@@ -16,8 +16,8 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/268520/header.jpg?t=1447359738",
             "website": "http://www.orcattack.com",
             "pc_requirements": {
-                "minimum": "<strong>最低配備:</strong><br><ul class=\"bb_ul\"><li><strong>作業系統:</strong> Windows XP SP3<br></li><li><strong>處理器:</strong> 1.8 Ghz Intel Core 2 Duo or equivalent<br></li><li><strong>記憶體:</strong> 2 GB 記憶體<br></li><li><strong>顯示卡:</strong> Nvidia 8600 GT 256 MB or equivalent<br></li><li><strong>DirectX:</strong> 版本：9.0c<br></li><li><strong>儲存空間:</strong> 2 GB 可用空間</li></ul>",
-                "recommended": "<strong>建議配備:</strong><br><ul class=\"bb_ul\"><li><strong>作業系統:</strong> Windows 7<br></li><li><strong>處理器:</strong> 2.2 Ghz Intel Core 2 Duo or equivalent<br></li><li><strong>記憶體:</strong> 2 MB 記憶體<br></li><li><strong>顯示卡:</strong> Nvidia 275 GT 512 MB or equivalent<br></li><li><strong>DirectX:</strong> 版本：9.0c<br></li><li><strong>儲存空間:</strong> 2 GB 可用空間</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP SP3<br></li><li><strong>Processor:</strong> 1.8 Ghz Intel Core 2 Duo or equivalent<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia 8600 GT 256 MB or equivalent<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong> 2.2 Ghz Intel Core 2 Duo or equivalent<br></li><li><strong>Memory:</strong> 2 MB RAM<br></li><li><strong>Graphics:</strong> Nvidia 275 GT 512 MB or equivalent<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>"
             },
             "mac_requirements": [],
             "linux_requirements": [],
@@ -31,10 +31,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 999,
-                "final": 199,
-                "discount_percent": 80,
-                "initial_formatted": "9,99€",
-                "final_formatted": "1,99€"
+                "final": 999,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "9,99€"
             },
             "packages": [
                 35587,
@@ -52,23 +52,23 @@
                     "subs": [
                         {
                             "packageid": 35587,
-                            "percent_savings_text": "-80%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Orc Attack - <span class=\"discount_original_price\">9,99€</span> 1,99€",
+                            "option_text": "Orc Attack - 9,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 199
+                            "price_in_cents_with_discount": 999
                         },
                         {
                             "packageid": 44475,
-                            "percent_savings_text": "-80%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Orc Attack 4-Pack - <span class=\"discount_original_price\">27,99€</span> 5,59€",
+                            "option_text": "Orc Attack 4-Pack - 27,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 559
+                            "price_in_cents_with_discount": 2799
                         }
                     ]
                 }
