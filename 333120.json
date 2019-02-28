@@ -14,8 +14,8 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/333120/header.jpg?t=1533018452",
             "website": "https://twitter.com/MykhailKonokh",
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP or higher<br></li><li><strong>Processor:</strong> 2.4 GHz  or Better<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce 9800 GTX (512 MB memory) or equivalent discrete card (integrated cards may not work), resolution not more than 1280x720.<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>",
-                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP or higher<br></li><li><strong>Processor:</strong> Quad Core 3.0 GHz or more<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 660 (2 GB Memory) or equivalent discrete card (integrated cards may not work)<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
+                "minimum": "<strong>Минимальные:</strong><br><ul class=\"bb_ul\"><li><strong>ОС:</strong> Windows XP or higher<br></li><li><strong>Процессор:</strong> 2.4 GHz  or Better<br></li><li><strong>Оперативная память:</strong> 512 MB ОЗУ<br></li><li><strong>Видеокарта:</strong> NVIDIA GeForce 9800 GTX (512 MB memory) or equivalent discrete card (integrated cards may not work), resolution not more than 1280x720.<br></li><li><strong>DirectX:</strong> Версии 9.0c<br></li><li><strong>Место на диске:</strong> 1 GB</li></ul>",
+                "recommended": "<strong>Рекомендованные:</strong><br><ul class=\"bb_ul\"><li><strong>ОС:</strong> Windows XP or higher<br></li><li><strong>Процессор:</strong> Quad Core 3.0 GHz or more<br></li><li><strong>Оперативная память:</strong> 2 GB ОЗУ<br></li><li><strong>Видеокарта:</strong> NVIDIA GeForce GTX 660 (2 GB Memory) or equivalent discrete card (integrated cards may not work)<br></li><li><strong>DirectX:</strong> Версии 9.0c<br></li><li><strong>Место на диске:</strong> 1 GB</li></ul>"
             },
             "mac_requirements": [],
             "linux_requirements": [],
@@ -28,10 +28,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 199,
-                "final": 49,
-                "discount_percent": 75,
-                "initial_formatted": "1,99€",
-                "final_formatted": "0,49€"
+                "final": 199,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "1,99€"
             },
             "packages": [
                 54581
@@ -48,13 +48,13 @@
                     "subs": [
                         {
                             "packageid": 54581,
-                            "percent_savings_text": "-75%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Inside The Gear - <span class=\"discount_original_price\">1,99€</span> 0,49€",
+                            "option_text": "Inside The Gear - 1,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 49
+                            "price_in_cents_with_discount": 199
                         }
                     ]
                 }
