@@ -14,7 +14,7 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/306350/header.jpg?t=1530529929",
             "website": "http://www.funboxmedia.co.uk/",
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP/Vista/7/8<br></li><li><strong>Processor:</strong> 1.8 GHz Processor<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> 3D graphics card compatible with DirectX 7 support</li></ul>"
+                "minimum": "<strong>Минимальные:</strong><br><ul class=\"bb_ul\"><li><strong>ОС:</strong> Windows XP/Vista/7/8<br></li><li><strong>Процессор:</strong> 1.8 GHz Processor<br></li><li><strong>Оперативная память:</strong> 512 MB ОЗУ<br></li><li><strong>Видеокарта:</strong> 3D graphics card compatible with DirectX 7 support</li></ul>"
             },
             "mac_requirements": [],
             "linux_requirements": [],
@@ -28,10 +28,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 239,
-                "final": 71,
-                "discount_percent": 70,
-                "initial_formatted": "2,39€",
-                "final_formatted": "0,71€"
+                "final": 239,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "2,39€"
             },
             "packages": [
                 45501
@@ -48,13 +48,13 @@
                     "subs": [
                         {
                             "packageid": 45501,
-                            "percent_savings_text": "-70%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Slipstream 5000 - <span class=\"discount_original_price\">2,39€</span> 0,71€",
+                            "option_text": "Slipstream 5000 - 2,39€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 71
+                            "price_in_cents_with_discount": 239
                         }
                     ]
                 }
