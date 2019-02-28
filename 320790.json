@@ -27,10 +27,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 799,
-                "final": 799,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "7,99€"
+                "final": 119,
+                "discount_percent": 85,
+                "initial_formatted": "7,99€",
+                "final_formatted": "1,19€"
             },
             "packages": [
                 50045,
@@ -48,23 +48,23 @@
                     "subs": [
                         {
                             "packageid": 50045,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-85%",
                             "percent_savings": 0,
-                            "option_text": "Fabula Mortis - 7,99€",
+                            "option_text": "Fabula Mortis - <span class=\"discount_original_price\">7,99€</span> 1,19€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 799
+                            "price_in_cents_with_discount": 119
                         },
                         {
                             "packageid": 51349,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-85%",
                             "percent_savings": 0,
-                            "option_text": "Fabula Mortis 4 Pack - 19,99€",
+                            "option_text": "Fabula Mortis 4 Pack - <span class=\"discount_original_price\">19,99€</span> 2,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1999
+                            "price_in_cents_with_discount": 299
                         }
                     ]
                 }
