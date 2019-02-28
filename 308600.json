@@ -18,13 +18,13 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/308600/header.jpg?t=1551052492",
             "website": "http://geneshift.net",
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP, Vista, 7, 8 or 8.1, 10<br></li><li><strong>Processor:</strong> 2.0 GHz dual core processor<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> 1024MB. OpenGL 2.0+ recommended.<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 512 MB available space<br></li><li><strong>Additional Notes:</strong> Can run at 60+ fps. Requires the internet to save your progress, stats and highscores.</li></ul>",
-                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP, Vista, 7, 8 or 8.1, 10<br></li><li><strong>Processor:</strong> 2.5 GHz multi core processor<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> 1024MB. OpenGL 2.0+ recommended.<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 512 MB available space<br></li><li><strong>Additional Notes:</strong> Can run at 60+ fps. Requires the internet to save your progress, stats and highscores.</li></ul>"
+                "minimum": "<strong>最低配置:</strong><br><ul class=\"bb_ul\"><li><strong>操作系统:</strong> Windows XP, Vista, 7, 8 or 8.1, 10<br></li><li><strong>处理器:</strong> 2.0 GHz dual core processor<br></li><li><strong>内存:</strong> 2 GB RAM<br></li><li><strong>图形:</strong> 1024MB. OpenGL 2.0+ recommended.<br></li><li><strong>网络:</strong> 宽带互联网连接<br></li><li><strong>存储空间:</strong> 需要 512 MB 可用空间<br></li><li><strong>附注事项:</strong> Can run at 60+ fps. Requires the internet to save your progress, stats and highscores.</li></ul>",
+                "recommended": "<strong>推荐配置:</strong><br><ul class=\"bb_ul\"><li><strong>操作系统:</strong> Windows XP, Vista, 7, 8 or 8.1, 10<br></li><li><strong>处理器:</strong> 2.5 GHz multi core processor<br></li><li><strong>内存:</strong> 4 GB RAM<br></li><li><strong>图形:</strong> 1024MB. OpenGL 2.0+ recommended.<br></li><li><strong>网络:</strong> 宽带互联网连接<br></li><li><strong>存储空间:</strong> 需要 512 MB 可用空间<br></li><li><strong>附注事项:</strong> Can run at 60+ fps. Requires the internet to save your progress, stats and highscores.</li></ul>"
             },
             "mac_requirements": [],
             "linux_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 12.04<br></li><li><strong>Processor:</strong> 2.0 GHz dual core processor<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> 512MB. OpenGL 2.0+ recommended.<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 512 MB available space<br></li><li><strong>Additional Notes:</strong> Can run at 60+ fps. Requires the internet to save your progress, stats and highscores.</li></ul>",
-                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 12.04+<br></li><li><strong>Processor:</strong> 2.5 GHz multi core processor<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> 1024MB. OpenGL 2.0+ recommended.<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 512 MB available space<br></li><li><strong>Additional Notes:</strong> Can run at 60+ fps. Requires the internet to save your progress, stats and highscores.</li></ul>"
+                "minimum": "<strong>最低配置:</strong><br><ul class=\"bb_ul\"><li><strong>操作系统:</strong> Ubuntu 12.04<br></li><li><strong>处理器:</strong> 2.0 GHz dual core processor<br></li><li><strong>内存:</strong> 2 GB RAM<br></li><li><strong>图形:</strong> 512MB. OpenGL 2.0+ recommended.<br></li><li><strong>网络:</strong> 宽带互联网连接<br></li><li><strong>存储空间:</strong> 需要 512 MB 可用空间<br></li><li><strong>附注事项:</strong> Can run at 60+ fps. Requires the internet to save your progress, stats and highscores.</li></ul>",
+                "recommended": "<strong>推荐配置:</strong><br><ul class=\"bb_ul\"><li><strong>操作系统:</strong> Ubuntu 12.04+<br></li><li><strong>处理器:</strong> 2.5 GHz multi core processor<br></li><li><strong>内存:</strong> 4 GB RAM<br></li><li><strong>图形:</strong> 1024MB. OpenGL 2.0+ recommended.<br></li><li><strong>网络:</strong> 宽带互联网连接<br></li><li><strong>存储空间:</strong> 需要 512 MB 可用空间<br></li><li><strong>附注事项:</strong> Can run at 60+ fps. Requires the internet to save your progress, stats and highscores.</li></ul>"
             },
             "legal_notice": "Copyright 2018 Nik Nak Studios. All Rights Reserved.",
             "developers": [
@@ -42,10 +42,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 1249,
-                "final": 1249,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "12,49€"
+                "final": 811,
+                "discount_percent": 35,
+                "initial_formatted": "12,49€",
+                "final_formatted": "8,11€"
             },
             "packages": [
                 46183
@@ -62,13 +62,13 @@
                     "subs": [
                         {
                             "packageid": 46183,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-35%",
                             "percent_savings": 0,
-                            "option_text": "Geneshift (with DLC Included for Free) - 12,49€",
+                            "option_text": "Geneshift (with DLC Included for Free) - <span class=\"discount_original_price\">12,49€</span> 8,11€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1249
+                            "price_in_cents_with_discount": 811
                         }
                     ]
                 }
