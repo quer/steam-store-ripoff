@@ -29,10 +29,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 449,
-                "final": 449,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "4,49€"
+                "final": 89,
+                "discount_percent": 80,
+                "initial_formatted": "4,49€",
+                "final_formatted": "0,89€"
             },
             "packages": [
                 43296
@@ -49,13 +49,13 @@
                     "subs": [
                         {
                             "packageid": 43296,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-80%",
                             "percent_savings": 0,
-                            "option_text": "Rhiannon: Curse of the Four Branches - 4,49€",
+                            "option_text": "Rhiannon: Curse of the Four Branches - <span class=\"discount_original_price\">4,49€</span> 0,89€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 449
+                            "price_in_cents_with_discount": 89
                         }
                     ]
                 }
