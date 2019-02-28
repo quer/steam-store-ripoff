@@ -26,16 +26,16 @@
             ],
             "price_overview": {
                 "currency": "EUR",
-                "initial": 2799,
-                "final": 559,
-                "discount_percent": 80,
-                "initial_formatted": "27,99€",
-                "final_formatted": "5,59€"
+                "initial": 999,
+                "final": 999,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "9,99€"
             },
             "packages": [
                 54758,
-                200,
-                199
+                199,
+                200
             ],
             "package_groups": [
                 {
@@ -58,16 +58,6 @@
                             "price_in_cents_with_discount": 999
                         },
                         {
-                            "packageid": 200,
-                            "percent_savings_text": "-80%",
-                            "percent_savings": 0,
-                            "option_text": "Complete Naval Combat Pack - <span class=\"discount_original_price\">27,99€</span> 5,59€",
-                            "option_description": "",
-                            "can_get_free_license": "0",
-                            "is_free_license": false,
-                            "price_in_cents_with_discount": 559
-                        },
-                        {
                             "packageid": 199,
                             "percent_savings_text": "",
                             "percent_savings": 0,
@@ -76,6 +66,16 @@
                             "can_get_free_license": "0",
                             "is_free_license": false,
                             "price_in_cents_with_discount": 1999
+                        },
+                        {
+                            "packageid": 200,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Complete Naval Combat Pack - 27,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 2799
                         }
                     ]
                 }
