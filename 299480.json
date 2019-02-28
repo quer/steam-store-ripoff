@@ -15,13 +15,13 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/299480/header.jpg?t=1534416287",
             "website": null,
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows Vista<br></li><li><strong>Processor:</strong> 2 GHz Dual Core CPU<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GeForce GTX 260, AMD Radeon HD 4850 or higher<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Storage:</strong> 5 GB available space<br></li><li><strong>Additional Notes:</strong> Windows-compatible keyboard, mouse</li></ul>",
-                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 / Windows 8<br></li><li><strong>Processor:</strong> 2.5 GHz Quad Core CPU<br></li><li><strong>Memory:</strong> 3 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GeForce 500, AMD Radeon HD 5000 or higher<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Storage:</strong> 5 GB available space<br></li><li><strong>Additional Notes:</strong> Windows-compatible keyboard, mouse, optional controller (Xbox 360® Controller for Windows recommended)</li></ul>"
+                "minimum": "<strong>最低:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows Vista<br></li><li><strong>プロセッサー:</strong> 2 GHz Dual Core CPU<br></li><li><strong>メモリー:</strong> 2 GB RAM<br></li><li><strong>グラフィック:</strong> Nvidia GeForce GTX 260, AMD Radeon HD 4850 or higher<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>ストレージ:</strong> 5 GB 利用可能<br></li><li><strong>追記事項:</strong> Windows-compatible keyboard, mouse</li></ul>",
+                "recommended": "<strong>推奨:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 / Windows 8<br></li><li><strong>プロセッサー:</strong> 2.5 GHz Quad Core CPU<br></li><li><strong>メモリー:</strong> 3 GB RAM<br></li><li><strong>グラフィック:</strong> Nvidia GeForce 500, AMD Radeon HD 5000 or higher<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>ストレージ:</strong> 5 GB 利用可能<br></li><li><strong>追記事項:</strong> Windows-compatible keyboard, mouse, optional controller (Xbox 360® Controller for Windows recommended)</li></ul>"
             },
             "mac_requirements": [],
             "linux_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 12.10 or newer<br></li><li><strong>Processor:</strong> Dual Core processor<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL 3.0 (Mesa 10.6.3) Compatible Graphics card<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 5 GB available space<br></li><li><strong>Sound Card:</strong> Any built-in adapter</li></ul>",
-                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 12.10 or newer<br></li><li><strong>Processor:</strong> Quad Core Processor (i7 2nd gen or equivalent)<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> GeForce 570 or better<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 5 GB available space<br></li><li><strong>Sound Card:</strong> Any built-in adapter</li></ul>"
+                "minimum": "<strong>最低:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 12.10 or newer<br></li><li><strong>プロセッサー:</strong> Dual Core processor<br></li><li><strong>メモリー:</strong> 2 GB RAM<br></li><li><strong>グラフィック:</strong> OpenGL 3.0 (Mesa 10.6.3) Compatible Graphics card<br></li><li><strong>ネットワーク:</strong> ブロードバンドインターネット接続<br></li><li><strong>ストレージ:</strong> 5 GB 利用可能<br></li><li><strong>サウンドカード:</strong> Any built-in adapter</li></ul>",
+                "recommended": "<strong>推奨:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 12.10 or newer<br></li><li><strong>プロセッサー:</strong> Quad Core Processor (i7 2nd gen or equivalent)<br></li><li><strong>メモリー:</strong> 4 GB RAM<br></li><li><strong>グラフィック:</strong> GeForce 570 or better<br></li><li><strong>ネットワーク:</strong> ブロードバンドインターネット接続<br></li><li><strong>ストレージ:</strong> 5 GB 利用可能<br></li><li><strong>サウンドカード:</strong> Any built-in adapter</li></ul>"
             },
             "legal_notice": "\"Rogue Stormers\" © 2015 Black Forest Games GmbH. All rights reserved. Uses Scaleform GFx © 2014 Autodesk Inc. All rights reserved. Microsoft, Xbox 360 Controller and the Xbox logos are trademarks of the Microsoft group of companies and are used under license from Microsoft. All trademarks are the property of their respective owners. All rights reserved.",
             "developers": [
@@ -34,17 +34,17 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 1999,
-                "final": 499,
-                "discount_percent": 75,
-                "initial_formatted": "19,99€",
-                "final_formatted": "4,99€"
+                "final": 1999,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "19,99€"
             },
             "packages": [
                 43683,
+                241421,
                 50210,
                 101761,
-                47415,
-                241421
+                47415
             ],
             "package_groups": [
                 {
@@ -58,43 +58,43 @@
                     "subs": [
                         {
                             "packageid": 43683,
-                            "percent_savings_text": "-75%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Rogue Stormers - <span class=\"discount_original_price\">19,99€</span> 4,99€",
+                            "option_text": "Rogue Stormers - 19,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 499
+                            "price_in_cents_with_discount": 1999
                         },
                         {
                             "packageid": 50210,
-                            "percent_savings_text": "-75%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Rogue Stormers 2-Pack - <span class=\"discount_original_price\">29,99€</span> 7,49€",
+                            "option_text": "Rogue Stormers 2-Pack - 29,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 749
+                            "price_in_cents_with_discount": 2999
                         },
                         {
                             "packageid": 101761,
-                            "percent_savings_text": "-75%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Rogue Stormers Deluxe - <span class=\"discount_original_price\">34,99€</span> 8,74€",
+                            "option_text": "Rogue Stormers Deluxe - 34,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 874
+                            "price_in_cents_with_discount": 3499
                         },
                         {
                             "packageid": 47415,
-                            "percent_savings_text": "-75%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Rogue Stormers 4-Pack - <span class=\"discount_original_price\">49,99€</span> 12,49€",
+                            "option_text": "Rogue Stormers 4-Pack - 49,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1249
+                            "price_in_cents_with_discount": 4999
                         }
                     ]
                 },
@@ -249,7 +249,7 @@
                 }
             ],
             "recommendations": {
-                "total": 554
+                "total": 557
             },
             "achievements": {
                 "total": 44,
