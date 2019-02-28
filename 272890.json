@@ -40,10 +40,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 999,
-                "final": 329,
-                "discount_percent": 67,
-                "initial_formatted": "9,99€",
-                "final_formatted": "3,29€"
+                "final": 999,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "9,99€"
             },
             "packages": [
                 36747,
@@ -62,33 +62,33 @@
                     "subs": [
                         {
                             "packageid": 36747,
-                            "percent_savings_text": "-67%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Vertiginous Golf - <span class=\"discount_original_price\">9,99€</span> 3,29€",
+                            "option_text": "Vertiginous Golf - 9,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 329
+                            "price_in_cents_with_discount": 999
                         },
                         {
                             "packageid": 67225,
-                            "percent_savings_text": "-67%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Vertiginous Golf - Gold Pack - <span class=\"discount_original_price\">14,99€</span> 4,94€",
+                            "option_text": "Vertiginous Golf - Gold Pack - 14,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 494
+                            "price_in_cents_with_discount": 1499
                         },
                         {
                             "packageid": 43869,
-                            "percent_savings_text": "-67%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Vertiginous Golf 4 Pack - <span class=\"discount_original_price\">27,99€</span> 9,23€",
+                            "option_text": "Vertiginous Golf 4 Pack - 27,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 923
+                            "price_in_cents_with_discount": 2799
                         }
                     ]
                 }
