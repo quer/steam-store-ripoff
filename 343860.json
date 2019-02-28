@@ -36,10 +36,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 1699,
-                "final": 1699,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "16,99€"
+                "final": 849,
+                "discount_percent": 50,
+                "initial_formatted": "16,99€",
+                "final_formatted": "8,49€"
             },
             "packages": [
                 58430
@@ -56,13 +56,13 @@
                     "subs": [
                         {
                             "packageid": 58430,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-50%",
                             "percent_savings": 0,
-                            "option_text": "Tacoma - 16,99€",
+                            "option_text": "Tacoma - <span class=\"discount_original_price\">16,99€</span> 8,49€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1699
+                            "price_in_cents_with_discount": 849
                         }
                     ]
                 }
@@ -173,7 +173,7 @@
                 }
             ],
             "recommendations": {
-                "total": 1455
+                "total": 1466
             },
             "achievements": {
                 "total": 12,
