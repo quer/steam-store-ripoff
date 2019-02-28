@@ -32,10 +32,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 799,
-                "final": 79,
-                "discount_percent": 90,
-                "initial_formatted": "7,99€",
-                "final_formatted": "0,79€"
+                "final": 799,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "7,99€"
             },
             "packages": [
                 42831,
@@ -53,23 +53,23 @@
                     "subs": [
                         {
                             "packageid": 42831,
-                            "percent_savings_text": "-90%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Viktor - <span class=\"discount_original_price\">7,99€</span> 0,79€",
+                            "option_text": "Viktor - 7,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 79
+                            "price_in_cents_with_discount": 799
                         },
                         {
                             "packageid": 45913,
-                            "percent_savings_text": "-90%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Viktor: Enforcer Edition - <span class=\"discount_original_price\">9,99€</span> 0,99€",
+                            "option_text": "Viktor: Enforcer Edition - 9,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 99
+                            "price_in_cents_with_discount": 999
                         }
                     ]
                 }
@@ -181,7 +181,7 @@
                 }
             ],
             "recommendations": {
-                "total": 124
+                "total": 123
             },
             "achievements": {
                 "total": 34,
