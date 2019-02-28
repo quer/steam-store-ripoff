@@ -15,8 +15,8 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/280600/header.jpg?t=1447360463",
             "website": "http://www.lasthalfofdarkness.com/bloodlust",
             "pc_requirements": {
-                "minimum": "<strong>Минимальные:</strong><br><ul class=\"bb_ul\"><li><strong>ОС:</strong> Windows XP, Vista, 7, 8<br></li><li><strong>Процессор:</strong> 2.0 Ghz Dual-Core CPU<br></li><li><strong>Оперативная память:</strong> 4 GB ОЗУ<br></li><li><strong>Видеокарта:</strong> ATI Radeon HD 2600 or better / NVIDIA GeForce 240, 610, 8600 or better, 512 MB video memory, with Shader Model 3 support<br></li><li><strong>DirectX:</strong> Версии 9.0c<br></li><li><strong>Место на диске:</strong> 4 GB<br></li><li><strong>Звуковая карта:</strong> DirectX Compatible</li></ul>",
-                "recommended": "<strong>Рекомендованные:</strong><br><ul class=\"bb_ul\"><li><strong>ОС:</strong> Vista, 7, 8<br></li><li><strong>Процессор:</strong> Intel Core i5 or AMD Quad-Core or better<br></li><li><strong>Оперативная память:</strong> 6 GB ОЗУ<br></li><li><strong>Видеокарта:</strong> NVIDIA GeForce GTX 260 or AMD Radeon HD 4770 or better (1GB VRAM)<br></li><li><strong>DirectX:</strong> Версии 9.0c<br></li><li><strong>Место на диске:</strong> 5 GB<br></li><li><strong>Звуковая карта:</strong> DirectX Compatible</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP, Vista, 7, 8<br></li><li><strong>Processor:</strong> 2.0 Ghz Dual-Core CPU<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> ATI Radeon HD 2600 or better / NVIDIA GeForce 240, 610, 8600 or better, 512 MB video memory, with Shader Model 3 support<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 4 GB available space<br></li><li><strong>Sound Card:</strong> DirectX Compatible</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Vista, 7, 8<br></li><li><strong>Processor:</strong> Intel Core i5 or AMD Quad-Core or better<br></li><li><strong>Memory:</strong> 6 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 260 or AMD Radeon HD 4770 or better (1GB VRAM)<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 5 GB available space<br></li><li><strong>Sound Card:</strong> DirectX Compatible</li></ul>"
             },
             "mac_requirements": [],
             "linux_requirements": [],
@@ -188,7 +188,7 @@
                 }
             ],
             "recommendations": {
-                "total": 263
+                "total": 264
             },
             "achievements": {
                 "total": 25,
