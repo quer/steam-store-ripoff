@@ -35,10 +35,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 499,
-                "final": 99,
-                "discount_percent": 80,
-                "initial_formatted": "4,99€",
-                "final_formatted": "0,99€"
+                "final": 499,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "4,99€"
             },
             "packages": [
                 34094,
@@ -56,23 +56,23 @@
                     "subs": [
                         {
                             "packageid": 34094,
-                            "percent_savings_text": "-80%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Blockstorm - <span class=\"discount_original_price\">4,99€</span> 0,99€",
+                            "option_text": "Blockstorm - 4,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 99
+                            "price_in_cents_with_discount": 499
                         },
                         {
                             "packageid": 45806,
-                            "percent_savings_text": "-80%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Blockstorm 4-Pack - <span class=\"discount_original_price\">9,99€</span> 1,99€",
+                            "option_text": "Blockstorm 4-Pack - 9,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 199
+                            "price_in_cents_with_discount": 999
                         }
                     ]
                 }
@@ -318,7 +318,7 @@
                 }
             ],
             "recommendations": {
-                "total": 3054
+                "total": 3052
             },
             "achievements": {
                 "total": 131,
