@@ -33,10 +33,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 699,
-                "final": 699,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "6,99€"
+                "final": 559,
+                "discount_percent": 20,
+                "initial_formatted": "6,99€",
+                "final_formatted": "5,59€"
             },
             "packages": [
                 45007,
@@ -54,13 +54,13 @@
                     "subs": [
                         {
                             "packageid": 45007,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-20%",
                             "percent_savings": 0,
-                            "option_text": "Wildlife Park 2 - 6,99€",
+                            "option_text": "Wildlife Park 2 - <span class=\"discount_original_price\">6,99€</span> 5,59€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 699
+                            "price_in_cents_with_discount": 559
                         },
                         {
                             "packageid": 46418,
