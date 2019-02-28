@@ -52,10 +52,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 3999,
-                "final": 3999,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "39,99€"
+                "final": 1599,
+                "discount_percent": 60,
+                "initial_formatted": "39,99€",
+                "final_formatted": "15,99€"
             },
             "packages": [
                 55292
@@ -72,13 +72,13 @@
                     "subs": [
                         {
                             "packageid": 55292,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-60%",
                             "percent_savings": 0,
-                            "option_text": "VRC PRO - 39,99€",
+                            "option_text": "VRC PRO - <span class=\"discount_original_price\">39,99€</span> 15,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 3999
+                            "price_in_cents_with_discount": 1599
                         }
                     ]
                 }
@@ -245,7 +245,7 @@
                 }
             ],
             "recommendations": {
-                "total": 236
+                "total": 237
             },
             "achievements": {
                 "total": 30,
