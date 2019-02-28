@@ -29,10 +29,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 1999,
-                "final": 1999,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "19,99€"
+                "final": 499,
+                "discount_percent": 75,
+                "initial_formatted": "19,99€",
+                "final_formatted": "4,99€"
             },
             "packages": [
                 2165,
@@ -51,23 +51,23 @@
                     "subs": [
                         {
                             "packageid": 2165,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-75%",
                             "percent_savings": 0,
-                            "option_text": "Joint Operations: Combined Arms Gold - 19,99€",
+                            "option_text": "Joint Operations: Combined Arms Gold - <span class=\"discount_original_price\">19,99€</span> 4,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1999
+                            "price_in_cents_with_discount": 499
                         },
                         {
                             "packageid": 46999,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-75%",
                             "percent_savings": 0,
-                            "option_text": "NovaLogic Multiplayer Mayhem - 36,99€",
+                            "option_text": "NovaLogic Multiplayer Mayhem - <span class=\"discount_original_price\">36,99€</span> 9,24€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 3699
+                            "price_in_cents_with_discount": 924
                         },
                         {
                             "packageid": 46995,
