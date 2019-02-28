@@ -33,16 +33,16 @@
             ],
             "price_overview": {
                 "currency": "EUR",
-                "initial": 699,
-                "final": 69,
-                "discount_percent": 90,
-                "initial_formatted": "6,99€",
-                "final_formatted": "0,69€"
+                "initial": 499,
+                "final": 499,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "4,99€"
             },
             "packages": [
-                81422,
+                54312,
                 76205,
-                54312
+                81422
             ],
             "package_groups": [
                 {
@@ -55,34 +55,34 @@
                     "is_recurring_subscription": "false",
                     "subs": [
                         {
-                            "packageid": 81422,
-                            "percent_savings_text": "-90%",
+                            "packageid": 54312,
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Girlfriend Rescue - Deluxe Version (Game+Guide+Goodies) - <span class=\"discount_original_price\">6,99€</span> 0,69€",
+                            "option_text": "Girlfriend Rescue - 4,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 69
+                            "price_in_cents_with_discount": 499
                         },
                         {
                             "packageid": 76205,
-                            "percent_savings_text": "-85%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Girlfriend Rescue - Riot Expert (Game+Guide) - <span class=\"discount_original_price\">5,99€</span> 0,89€",
+                            "option_text": "Girlfriend Rescue - Riot Expert (Game+Guide) - 5,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 89
+                            "price_in_cents_with_discount": 599
                         },
                         {
-                            "packageid": 54312,
-                            "percent_savings_text": "-80%",
+                            "packageid": 81422,
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Girlfriend Rescue - <span class=\"discount_original_price\">4,99€</span> 0,99€",
+                            "option_text": "Girlfriend Rescue - Deluxe Version (Game+Guide+Goodies) - 6,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 99
+                            "price_in_cents_with_discount": 699
                         }
                     ]
                 }
