@@ -34,10 +34,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 399,
-                "final": 399,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "3,99€"
+                "final": 239,
+                "discount_percent": 40,
+                "initial_formatted": "3,99€",
+                "final_formatted": "2,39€"
             },
             "packages": [
                 54836
@@ -54,13 +54,13 @@
                     "subs": [
                         {
                             "packageid": 54836,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-40%",
                             "percent_savings": 0,
-                            "option_text": "Rare Weapons Set B (The Kinugawa Crazies) - 3,99€",
+                            "option_text": "Rare Weapons Set B (The Kinugawa Crazies) - <span class=\"discount_original_price\">3,99€</span> 2,39€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 399
+                            "price_in_cents_with_discount": 239
                         }
                     ]
                 }
