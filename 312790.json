@@ -25,8 +25,8 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/312790/header.jpg?t=1447362596",
             "website": "http://agarest2.ghostlight.uk.com/",
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP<br></li><li><strong>Processor:</strong> 2.13GHz Intel Core2 Duo or equivalent<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> DirectX 9.0c compatible graphics card with 64Mb RAM and support for v3 shaders<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 7 GB available space<br></li><li><strong>Sound Card:</strong> DirectX 9.0c compatible sound card</li></ul>",
-                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 or later<br></li><li><strong>Processor:</strong> 3GHz Intel i3 or equivalent<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> DirectX 9.0c compatible graphics card with 128Mb RAM and support for v3 shaders<br></li><li><strong>Sound Card:</strong> DirectX 9.0c compatible sound card</li></ul>"
+                "minimum": "<strong>Minimale :</strong><br><ul class=\"bb_ul\"><li><strong>Système d'exploitation :</strong> Windows XP<br></li><li><strong>Processeur :</strong> 2.13GHz Intel Core2 Duo or equivalent<br></li><li><strong>Mémoire vive :</strong> 1 GB de mémoire<br></li><li><strong>Graphiques :</strong> DirectX 9.0c compatible graphics card with 64Mb RAM and support for v3 shaders<br></li><li><strong>DirectX :</strong> Version 9.0c<br></li><li><strong>Espace disque :</strong> 7 GB d'espace disque disponible<br></li><li><strong>Carte son :</strong> DirectX 9.0c compatible sound card</li></ul>",
+                "recommended": "<strong>Recommandée :</strong><br><ul class=\"bb_ul\"><li><strong>Système d'exploitation :</strong> Windows 7 or later<br></li><li><strong>Processeur :</strong> 3GHz Intel i3 or equivalent<br></li><li><strong>Mémoire vive :</strong> 4 GB de mémoire<br></li><li><strong>Graphiques :</strong> DirectX 9.0c compatible graphics card with 128Mb RAM and support for v3 shaders<br></li><li><strong>Carte son :</strong> DirectX 9.0c compatible sound card</li></ul>"
             },
             "mac_requirements": [],
             "linux_requirements": [],
@@ -40,10 +40,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 1999,
-                "final": 799,
-                "discount_percent": 60,
-                "initial_formatted": "19,99€",
-                "final_formatted": "7,99€"
+                "final": 1999,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "19,99€"
             },
             "packages": [
                 60867,
@@ -61,23 +61,23 @@
                     "subs": [
                         {
                             "packageid": 60867,
-                            "percent_savings_text": "-60%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Agarest: Generations of War 2 - <span class=\"discount_original_price\">19,99€</span> 7,99€",
+                            "option_text": "Agarest: Generations of War 2 - 19,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 799
+                            "price_in_cents_with_discount": 1999
                         },
                         {
                             "packageid": 67637,
-                            "percent_savings_text": "-65%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Agarest: The Complete Saga - <span class=\"discount_original_price\">41,99€</span> 14,69€",
+                            "option_text": "Agarest: The Complete Saga - 41,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1469
+                            "price_in_cents_with_discount": 4199
                         }
                     ]
                 }
