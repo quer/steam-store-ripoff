@@ -34,10 +34,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 499,
-                "final": 499,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "4,99€"
+                "final": 99,
+                "discount_percent": 80,
+                "initial_formatted": "4,99€",
+                "final_formatted": "0,99€"
             },
             "packages": [
                 51051,
@@ -55,23 +55,23 @@
                     "subs": [
                         {
                             "packageid": 51051,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-80%",
                             "percent_savings": 0,
-                            "option_text": "Decay: The Mare - 4,99€",
+                            "option_text": "Decay: The Mare - <span class=\"discount_original_price\">4,99€</span> 0,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 499
+                            "price_in_cents_with_discount": 99
                         },
                         {
                             "packageid": 76471,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-90%",
                             "percent_savings": 0,
-                            "option_text": "Daedalic - Gigantic Bundle - 120,99€",
+                            "option_text": "Daedalic - Gigantic Bundle - <span class=\"discount_original_price\">120,99€</span> 12,09€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 12099
+                            "price_in_cents_with_discount": 1209
                         }
                     ]
                 }
@@ -178,7 +178,7 @@
                 }
             ],
             "recommendations": {
-                "total": 755
+                "total": 758
             },
             "achievements": {
                 "total": 42,
