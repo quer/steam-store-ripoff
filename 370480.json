@@ -19,10 +19,10 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/370480/header.jpg?t=1478024320",
             "website": "http://pixelgalaxygame.com/",
             "pc_requirements": {
-                "minimum": "<strong>Mínimos:</strong><br><ul class=\"bb_ul\"><li><strong>SO:</strong> Windows 7<br></li><li><strong>Processador:</strong> Intel Core Duo<br></li><li><strong>Memória:</strong> 4 GB de RAM<br></li><li><strong>Placa de vídeo:</strong> GeForce 8800 GT or better<br></li><li><strong>Armazenamento:</strong> 200 MB de espaço disponível</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong> Intel Core Duo<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> GeForce 8800 GT or better<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>"
             },
             "mac_requirements": {
-                "minimum": "<strong>Mínimos:</strong><br><ul class=\"bb_ul\"><li><strong>SO:</strong> OSX 10.8<br></li><li><strong>Processador:</strong> 2.6 GHz Intel Core Duo<br></li><li><strong>Memória:</strong> 4 GB de RAM<br></li><li><strong>Placa de vídeo:</strong> Intel HD 4000<br></li><li><strong>Armazenamento:</strong> 200 MB de espaço disponível</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OSX 10.8<br></li><li><strong>Processor:</strong> 2.6 GHz Intel Core Duo<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD 4000<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>"
             },
             "linux_requirements": [],
             "legal_notice": "Copyright 2015 Serenity Forge",
@@ -35,10 +35,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 999,
-                "final": 999,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "9,99€"
+                "final": 99,
+                "discount_percent": 90,
+                "initial_formatted": "9,99€",
+                "final_formatted": "0,99€"
             },
             "packages": [
                 67745
@@ -55,13 +55,13 @@
                     "subs": [
                         {
                             "packageid": 67745,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-90%",
                             "percent_savings": 0,
-                            "option_text": "Pixel Galaxy - 9,99€",
+                            "option_text": "Pixel Galaxy - <span class=\"discount_original_price\">9,99€</span> 0,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 999
+                            "price_in_cents_with_discount": 99
                         }
                     ]
                 }
