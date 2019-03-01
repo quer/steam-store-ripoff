@@ -28,10 +28,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 2999,
-                "final": 2999,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "29,99€"
+                "final": 749,
+                "discount_percent": 75,
+                "initial_formatted": "29,99€",
+                "final_formatted": "7,49€"
             },
             "packages": [
                 63178
@@ -48,13 +48,13 @@
                     "subs": [
                         {
                             "packageid": 63178,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-75%",
                             "percent_savings": 0,
-                            "option_text": "MAGIX Music Maker Hip Hop Edition 6 - 29,99€",
+                            "option_text": "MAGIX Music Maker Hip Hop Edition 6 - <span class=\"discount_original_price\">29,99€</span> 7,49€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 2999
+                            "price_in_cents_with_discount": 749
                         }
                     ]
                 }
