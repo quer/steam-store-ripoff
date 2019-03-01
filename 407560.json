@@ -14,16 +14,16 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/407560/header.jpg?t=1482140387",
             "website": "http://killingroom.aldagames.com/",
             "pc_requirements": {
-                "minimum": "<strong>最低配置:</strong><br><ul class=\"bb_ul\"><li><strong>操作系统:</strong> Windows 7<br></li><li><strong>处理器:</strong> Intel i3 (or AMD equivalent)<br></li><li><strong>内存:</strong> 4 GB RAM<br></li><li><strong>图形:</strong> With DirectX 9.0c support (strongly recommended at least budget gaming dedicated GPU)<br></li><li><strong>DirectX 版本:</strong> 9.0c<br></li><li><strong>存储空间:</strong> 需要 5 GB 可用空间<br></li><li><strong>声卡:</strong> Windows compatible Sound card</li></ul>",
-                "recommended": "<strong>推荐配置:</strong><br><ul class=\"bb_ul\"><li><strong>操作系统:</strong> Windows 7<br></li><li><strong>处理器:</strong> Intel i5 (or AMD equivalent)<br></li><li><strong>内存:</strong> 16 GB RAM<br></li><li><strong>图形:</strong> Nvidia GeForce GTX 970 (or AMD equivalent)<br></li><li><strong>DirectX 版本:</strong> 9.0c<br></li><li><strong>存储空间:</strong> 需要 5 GB 可用空间<br></li><li><strong>声卡:</strong> Windows compatible Sound card</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong> Intel i3 (or AMD equivalent)<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> With DirectX 9.0c support (strongly recommended at least budget gaming dedicated GPU)<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 5 GB available space<br></li><li><strong>Sound Card:</strong> Windows compatible Sound card</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong> Intel i5 (or AMD equivalent)<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GeForce GTX 970 (or AMD equivalent)<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 5 GB available space<br></li><li><strong>Sound Card:</strong> Windows compatible Sound card</li></ul>"
             },
             "mac_requirements": {
-                "minimum": "<strong>最低配置:</strong><br><ul class=\"bb_ul\"><li><strong>操作系统:</strong> Mac OS X 10.5 or higher<br></li><li><strong>处理器:</strong> Dual-Core 2Ghz<br></li><li><strong>图形:</strong> Nvidia 3xx series with 512 MB VRAM (or AMD equivalent)</li></ul>",
-                "recommended": "<strong>推荐配置:</strong><br><ul class=\"bb_ul\"><li><strong>操作系统:</strong> Mac OSX 10.5 or higher<br></li><li><strong>处理器:</strong> Intel i5 (or AMD equivalent)<br></li><li><strong>内存:</strong> 8 GB RAM<br></li><li><strong>图形:</strong> Nvidia GeForce GTX 960 (or AMD equivalent)</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OS X 10.5 or higher<br></li><li><strong>Processor:</strong> Dual-Core 2Ghz<br></li><li><strong>Graphics:</strong> Nvidia 3xx series with 512 MB VRAM (or AMD equivalent)</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OSX 10.5 or higher<br></li><li><strong>Processor:</strong> Intel i5 (or AMD equivalent)<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GeForce GTX 960 (or AMD equivalent)</li></ul>"
             },
             "linux_requirements": {
-                "minimum": "<strong>最低配置:</strong><br><ul class=\"bb_ul\"><li><strong>操作系统:</strong> 64-bit version (Ubuntu 12.04 or newer recommended)<br></li><li><strong>处理器:</strong> Intel i3 (or AMD equivalent)<br></li><li><strong>内存:</strong> 4 GB RAM<br></li><li><strong>图形:</strong> With DirectX 9.0c support (strongly recommended at least budget gaming dedicated GPU)<br></li><li><strong>存储空间:</strong> 需要 5 GB 可用空间</li></ul>",
-                "recommended": "<strong>推荐配置:</strong><br><ul class=\"bb_ul\"><li><strong>操作系统:</strong> 64-bit version (Ubuntu 12.04 or newer recommended)<br></li><li><strong>处理器:</strong> Intel i5 (or AMD equivalent)<br></li><li><strong>内存:</strong> 16 GB RAM<br></li><li><strong>图形:</strong> Nvidia GeForce GTX 960 (or AMD equivalent)<br></li><li><strong>存储空间:</strong> 需要 5 GB 可用空间</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 64-bit version (Ubuntu 12.04 or newer recommended)<br></li><li><strong>Processor:</strong> Intel i3 (or AMD equivalent)<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> With DirectX 9.0c support (strongly recommended at least budget gaming dedicated GPU)<br></li><li><strong>Storage:</strong> 5 GB available space</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 64-bit version (Ubuntu 12.04 or newer recommended)<br></li><li><strong>Processor:</strong> Intel i5 (or AMD equivalent)<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GeForce GTX 960 (or AMD equivalent)<br></li><li><strong>Storage:</strong> 5 GB available space</li></ul>"
             },
             "developers": [
                 "Alda Games"
@@ -286,7 +286,7 @@
                 }
             ],
             "recommendations": {
-                "total": 826
+                "total": 828
             },
             "achievements": {
                 "total": 42,
