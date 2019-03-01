@@ -29,10 +29,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 569,
-                "final": 56,
-                "discount_percent": 90,
-                "initial_formatted": "5,69€",
-                "final_formatted": "0,56€"
+                "final": 569,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "5,69€"
             },
             "packages": [
                 64955
@@ -49,13 +49,13 @@
                     "subs": [
                         {
                             "packageid": 64955,
-                            "percent_savings_text": "-90%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Ashes of Immortality II - Bad Blood - <span class=\"discount_original_price\">5,69€</span> 0,56€",
+                            "option_text": "Ashes of Immortality II - Bad Blood - 5,69€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 56
+                            "price_in_cents_with_discount": 569
                         }
                     ]
                 }
