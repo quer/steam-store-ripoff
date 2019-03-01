@@ -38,10 +38,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 499,
-                "final": 499,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "4,99€"
+                "final": 199,
+                "discount_percent": 60,
+                "initial_formatted": "4,99€",
+                "final_formatted": "1,99€"
             },
             "packages": [
                 231913
@@ -58,13 +58,13 @@
                     "subs": [
                         {
                             "packageid": 231913,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-60%",
                             "percent_savings": 0,
-                            "option_text": "Kingdom: Classic - 4,99€",
+                            "option_text": "Kingdom: Classic - <span class=\"discount_original_price\">4,99€</span> 1,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 499
+                            "price_in_cents_with_discount": 199
                         }
                     ]
                 }
@@ -179,7 +179,7 @@
                 }
             ],
             "recommendations": {
-                "total": 3921
+                "total": 3929
             },
             "achievements": {
                 "total": 34,
