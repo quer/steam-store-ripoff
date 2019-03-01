@@ -33,10 +33,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 999,
-                "final": 99,
-                "discount_percent": 90,
-                "initial_formatted": "9,99€",
-                "final_formatted": "0,99€"
+                "final": 999,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "9,99€"
             },
             "packages": [
                 78598,
@@ -55,33 +55,33 @@
                     "subs": [
                         {
                             "packageid": 78598,
-                            "percent_savings_text": "-90%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Epic Quest of the 4 Crystals - <span class=\"discount_original_price\">9,99€</span> 0,99€",
+                            "option_text": "Epic Quest of the 4 Crystals - 9,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 99
+                            "price_in_cents_with_discount": 999
                         },
                         {
                             "packageid": 91817,
-                            "percent_savings_text": "-90%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Epic Quest of the 4 Crystals - Deluxe Edition (Game+Guide+Goodies) - <span class=\"discount_original_price\">12,99€</span> 1,29€",
+                            "option_text": "Epic Quest of the 4 Crystals - Deluxe Edition (Game+Guide+Goodies) - 12,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 129
+                            "price_in_cents_with_discount": 1299
                         },
                         {
                             "packageid": 79880,
-                            "percent_savings_text": "-90%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Epic Quest of the 4 Crystals - Strategist Edition (Game+Guide) - <span class=\"discount_original_price\">11,99€</span> 1,19€",
+                            "option_text": "Epic Quest of the 4 Crystals - Strategist Edition (Game+Guide) - 11,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 119
+                            "price_in_cents_with_discount": 1199
                         }
                     ]
                 }
