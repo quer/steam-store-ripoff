@@ -19,8 +19,8 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/391140/header.jpg?t=1529400795",
             "website": "http://quad-games.com",
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP or higher<br></li><li><strong>Processor:</strong> Intel Core i3<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD 4600<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 180 MB available space<br></li><li><strong>Sound Card:</strong> Windows compatible</li></ul>",
-                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 or higher<br></li><li><strong>Processor:</strong> Intel Core i5<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> nVidia GeForce 660Ti<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 300 MB available space<br></li><li><strong>Sound Card:</strong> Windows compatible</li></ul>"
+                "minimum": "<strong>Минимальные:</strong><br><ul class=\"bb_ul\"><li><strong>ОС:</strong> Windows XP or higher<br></li><li><strong>Процессор:</strong> Intel Core i3<br></li><li><strong>Оперативная память:</strong> 2 GB ОЗУ<br></li><li><strong>Видеокарта:</strong> Intel HD 4600<br></li><li><strong>DirectX:</strong> Версии 9.0c<br></li><li><strong>Место на диске:</strong> 180 MB<br></li><li><strong>Звуковая карта:</strong> Windows compatible</li></ul>",
+                "recommended": "<strong>Рекомендованные:</strong><br><ul class=\"bb_ul\"><li><strong>ОС:</strong> Windows 7 or higher<br></li><li><strong>Процессор:</strong> Intel Core i5<br></li><li><strong>Оперативная память:</strong> 4 GB ОЗУ<br></li><li><strong>Видеокарта:</strong> nVidia GeForce 660Ti<br></li><li><strong>DirectX:</strong> Версии 9.0c<br></li><li><strong>Место на диске:</strong> 300 MB<br></li><li><strong>Звуковая карта:</strong> Windows compatible</li></ul>"
             },
             "mac_requirements": [],
             "linux_requirements": [],
@@ -33,10 +33,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 819,
-                "final": 188,
-                "discount_percent": 77,
-                "initial_formatted": "8,19€",
-                "final_formatted": "1,88€"
+                "final": 819,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "8,19€"
             },
             "packages": [
                 74674
@@ -53,13 +53,13 @@
                     "subs": [
                         {
                             "packageid": 74674,
-                            "percent_savings_text": "-77%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Blast-off - <span class=\"discount_original_price\">8,19€</span> 1,88€",
+                            "option_text": "Blast-off - 8,19€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 188
+                            "price_in_cents_with_discount": 819
                         }
                     ]
                 }
