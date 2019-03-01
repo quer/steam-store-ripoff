@@ -18,7 +18,9 @@
                 592373,
                 592374,
                 878462,
-                878463
+                878463,
+                878464,
+                878465
             ],
             "detailed_description": "<h1>Rematch Edition</h1><p><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/389730/extras/TK7_REMATCH_ED_Custom.png?t=1543483281\" ><br><br>Purchase TEKKEN 7 - Rematch Edition and get the full TEKKEN 7 game plus all additional content eligible to Season Pass 2.</p><br><h1>Ultimate Edition</h1><p><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/389730/extras/TK7_ULTED_Custom.png?t=1543483281\" ><br><br>Purchase TEKKEN 7 - Ultimate Edition and get the most complete experience from TEKKEN 7! This edition includes the full TEKKEN 7 game, all additional content eligible to Season Passes 1 &amp; 2, and the playable character Eliza.</p><br><h1>About the Game</h1><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/389730/extras/Gifs-Tekken_3.png?t=1543483281\" ><br><br>Discover the epic conclusion of the Mishima clan and unravel the reasons behind each step of their ceaseless fight. Powered by Unreal Engine 4, TEKKEN 7 features stunning story-driven cinematic battles and intense duels that can be enjoyed with friends and rivals alike through innovative fight mechanics.<br><br>Love, Revenge, Pride. Everyone has a reason to fight. Values are what define us and make us human, regardless of our strengths and weaknesses. There are no wrong motivations, just the path we choose to take.<br><br>Expand your fighter's journey by purchasing the Tekken 7 Season Pass separately and gain access to stunning additional content",
             "about_the_game": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/389730/extras/Gifs-Tekken_3.png?t=1543483281\" ><br><br>Discover the epic conclusion of the Mishima clan and unravel the reasons behind each step of their ceaseless fight. Powered by Unreal Engine 4, TEKKEN 7 features stunning story-driven cinematic battles and intense duels that can be enjoyed with friends and rivals alike through innovative fight mechanics.<br><br>Love, Revenge, Pride. Everyone has a reason to fight. Values are what define us and make us human, regardless of our strengths and weaknesses. There are no wrong motivations, just the path we choose to take.<br><br>Expand your fighter's journey by purchasing the Tekken 7 Season Pass separately and gain access to stunning additional content",
@@ -49,10 +51,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 3999,
-                "final": 3999,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "39,99€"
+                "final": 1999,
+                "discount_percent": 50,
+                "initial_formatted": "39,99€",
+                "final_formatted": "19,99€"
             },
             "packages": [
                 74007,
@@ -71,33 +73,33 @@
                     "subs": [
                         {
                             "packageid": 74007,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-50%",
                             "percent_savings": 0,
-                            "option_text": "TEKKEN 7 - 39,99€",
+                            "option_text": "TEKKEN 7 - <span class=\"discount_original_price\">39,99€</span> 19,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 3999
+                            "price_in_cents_with_discount": 1999
                         },
                         {
                             "packageid": 309203,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-30%",
                             "percent_savings": 0,
-                            "option_text": "TEKKEN 7 - Rematch Edition - 69,99€",
+                            "option_text": "TEKKEN 7 - Rematch Edition - <span class=\"discount_original_price\">69,99€</span> 48,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 6999
+                            "price_in_cents_with_discount": 4899
                         },
                         {
                             "packageid": 302917,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-30%",
                             "percent_savings": 0,
-                            "option_text": "TEKKEN 7 - Ultimate Edition - 89,99€",
+                            "option_text": "TEKKEN 7 - Ultimate Edition - <span class=\"discount_original_price\">89,99€</span> 62,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 8999
+                            "price_in_cents_with_discount": 6299
                         }
                     ]
                 }
@@ -253,7 +255,7 @@
                 }
             ],
             "recommendations": {
-                "total": 12095
+                "total": 12203
             },
             "achievements": {
                 "total": 42,
