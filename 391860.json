@@ -36,10 +36,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 299,
-                "final": 299,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "2,99€"
+                "final": 74,
+                "discount_percent": 75,
+                "initial_formatted": "2,99€",
+                "final_formatted": "0,74€"
             },
             "packages": [
                 74877,
@@ -57,23 +57,23 @@
                     "subs": [
                         {
                             "packageid": 74877,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-75%",
                             "percent_savings": 0,
-                            "option_text": "Holy Potatoes! A Weapon Shop?! - Spud Tales: Journey to Olympus - 2,99€",
+                            "option_text": "Holy Potatoes! A Weapon Shop?! - Spud Tales: Journey to Olympus - <span class=\"discount_original_price\">2,99€</span> 0,74€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 299
+                            "price_in_cents_with_discount": 74
                         },
                         {
                             "packageid": 85656,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-75%",
                             "percent_savings": 0,
-                            "option_text": "Holy Potatoes! A Weapon Shop?! - DLC Bundle - 16,99€",
+                            "option_text": "Holy Potatoes! A Weapon Shop?! - DLC Bundle - <span class=\"discount_original_price\">16,99€</span> 4,24€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1699
+                            "price_in_cents_with_discount": 424
                         }
                     ]
                 }
