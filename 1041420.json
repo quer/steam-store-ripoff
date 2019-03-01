@@ -1,0 +1,72 @@
+{
+    "1041420": {
+        "success": true,
+        "data": {
+            "type": "demo",
+            "name": "Justice Demo",
+            "steam_appid": 1041420,
+            "required_age": 0,
+            "is_free": true,
+            "detailed_description": "This is a demo version of Justice, a VR ninja assassin game. It includes the games first level.",
+            "about_the_game": "This is a demo version of Justice, a VR ninja assassin game. It includes the games first level.",
+            "short_description": "This is a demo version of Justice, a VR ninja assassin game.",
+            "fullgame": {
+                "appid": "975100",
+                "name": "Justice"
+            },
+            "supported_languages": "English",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1041420/header.jpg?t=1551403939",
+            "website": null,
+            "pc_requirements": [],
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "developers": [
+                "On Tilt Interactive"
+            ],
+            "publishers": [
+                "On Tilt Interactive"
+            ],
+            "package_groups": [],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 10,
+                    "description": "Game demo"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "1",
+                    "description": "Action"
+                },
+                {
+                    "id": "23",
+                    "description": "Indie"
+                }
+            ],
+            "release_date": {
+                "coming_soon": true,
+                "date": "4 Mar, 2019"
+            },
+            "support_info": {
+                "url": "http://ontiltinteractive.com",
+                "email": ""
+            },
+            "background": "",
+            "content_descriptors": {
+                "ids": [
+                    5
+                ],
+                "notes": "Some Violence"
+            }
+        }
+    }
+}
