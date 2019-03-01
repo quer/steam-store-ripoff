@@ -30,10 +30,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 999,
-                "final": 999,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "9,99€"
+                "final": 339,
+                "discount_percent": 66,
+                "initial_formatted": "9,99€",
+                "final_formatted": "3,39€"
             },
             "packages": [
                 62208,
@@ -51,23 +51,23 @@
                     "subs": [
                         {
                             "packageid": 62208,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-66%",
                             "percent_savings": 0,
-                            "option_text": "Assassin's Creed Chronicles - China - 9,99€",
+                            "option_text": "Assassin's Creed Chronicles - China - <span class=\"discount_original_price\">9,99€</span> 3,39€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 999
+                            "price_in_cents_with_discount": 339
                         },
                         {
                             "packageid": 93325,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-66%",
                             "percent_savings": 0,
-                            "option_text": "Assassin’s Creed® Chronicles: Trilogy - 24,99€",
+                            "option_text": "Assassin’s Creed® Chronicles: Trilogy - <span class=\"discount_original_price\">24,99€</span> 8,49€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 2499
+                            "price_in_cents_with_discount": 849
                         }
                     ]
                 }
@@ -156,7 +156,7 @@
                 }
             ],
             "recommendations": {
-                "total": 1887
+                "total": 1890
             },
             "achievements": {
                 "total": 0
