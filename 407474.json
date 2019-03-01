@@ -18,8 +18,8 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/407474/header.jpg?t=1453225500",
             "website": "http://assassinscreed.ubi.com/",
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 SP1 or Windows 8.1 or Windows 10 (64bit versions)<br></li><li><strong>Processor:</strong> Intel Core i5 2400s @ 2.5 GHz / AMD FX 6350 @ 3.9 GHz<br></li><li><strong>Memory:</strong> 6 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 660 / AMD Radeon R9 270 (2GB VRAM with Shader Model 5.0)<br></li><li><strong>Sound Card:</strong> DirectX Compatible Sound Card with latest drivers</li></ul>",
-                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 SP1 or Windows 8.1 or Windows 10 (64bit versions)<br></li><li><strong>Processor:</strong> Intel Core i7 3770 @ 3.5 GHz / AMD FX 8350 @ 4.0 GHz<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 760 (4GB) or the newer GTX 970 (4GB) / AMD Radeon R9 280X (3GB of VRAM) or better<br></li><li><strong>Sound Card:</strong> DirectX Compatible Sound Card with latest drivers<br></li><li><strong>Additional Notes:</strong> *Technical Notice from the developer: For a recommended experience, the game requires a video card with at least 3GB of VRAM when playing at a full HD resolution. While we encourage you to fiddle with the advanced options to fully customize your gaming experience, please keep an eye out for the VRAM meter usage when you adjust these settings.</li></ul>"
+                "minimum": "<strong>Minimální:</strong><br><ul class=\"bb_ul\"><li><strong>Operační systém:</strong> Windows 7 SP1 or Windows 8.1 or Windows 10 (64bit versions)<br></li><li><strong>Procesor:</strong> Intel Core i5 2400s @ 2.5 GHz / AMD FX 6350 @ 3.9 GHz<br></li><li><strong>Paměť:</strong> 6 GB RAM<br></li><li><strong>Grafická karta:</strong> NVIDIA GeForce GTX 660 / AMD Radeon R9 270 (2GB VRAM with Shader Model 5.0)<br></li><li><strong>Zvuková karta:</strong> DirectX Compatible Sound Card with latest drivers</li></ul>",
+                "recommended": "<strong>Doporučené:</strong><br><ul class=\"bb_ul\"><li><strong>Operační systém:</strong> Windows 7 SP1 or Windows 8.1 or Windows 10 (64bit versions)<br></li><li><strong>Procesor:</strong> Intel Core i7 3770 @ 3.5 GHz / AMD FX 8350 @ 4.0 GHz<br></li><li><strong>Paměť:</strong> 8 GB RAM<br></li><li><strong>Grafická karta:</strong> NVIDIA GeForce GTX 760 (4GB) or the newer GTX 970 (4GB) / AMD Radeon R9 280X (3GB of VRAM) or better<br></li><li><strong>Zvuková karta:</strong> DirectX Compatible Sound Card with latest drivers<br></li><li><strong>Dodatečné poznámky:</strong> *Technical Notice from the developer: For a recommended experience, the game requires a video card with at least 3GB of VRAM when playing at a full HD resolution. While we encourage you to fiddle with the advanced options to fully customize your gaming experience, please keep an eye out for the VRAM meter usage when you adjust these settings.</li></ul>"
             },
             "mac_requirements": [],
             "linux_requirements": [],
@@ -33,10 +33,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 499,
-                "final": 499,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "4,99€"
+                "final": 199,
+                "discount_percent": 60,
+                "initial_formatted": "4,99€",
+                "final_formatted": "1,99€"
             },
             "packages": [
                 80428
@@ -53,13 +53,13 @@
                     "subs": [
                         {
                             "packageid": 80428,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-60%",
                             "percent_savings": 0,
-                            "option_text": "Assassin's Creed Syndicate - Streets of London Pack - 4,99€",
+                            "option_text": "Assassin's Creed Syndicate - Streets of London Pack - <span class=\"discount_original_price\">4,99€</span> 1,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 499
+                            "price_in_cents_with_discount": 199
                         }
                     ]
                 }
