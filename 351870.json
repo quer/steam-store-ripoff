@@ -29,10 +29,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 499,
-                "final": 499,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "4,99€"
+                "final": 79,
+                "discount_percent": 84,
+                "initial_formatted": "4,99€",
+                "final_formatted": "0,79€"
             },
             "packages": [
                 62138,
@@ -51,33 +51,33 @@
                     "subs": [
                         {
                             "packageid": 62138,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-84%",
                             "percent_savings": 0,
-                            "option_text": "Cultures - 8th Wonder of the World - 4,99€",
+                            "option_text": "Cultures - 8th Wonder of the World - <span class=\"discount_original_price\">4,99€</span> 0,79€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 499
+                            "price_in_cents_with_discount": 79
                         },
                         {
                             "packageid": 63734,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-88%",
                             "percent_savings": 0,
-                            "option_text": "Cultures: Northland + 8th Wonder of the World - 7,99€",
+                            "option_text": "Cultures: Northland + 8th Wonder of the World - <span class=\"discount_original_price\">7,99€</span> 0,95€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 799
+                            "price_in_cents_with_discount": 95
                         },
                         {
                             "packageid": 76471,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-90%",
                             "percent_savings": 0,
-                            "option_text": "Daedalic - Gigantic Bundle - 120,99€",
+                            "option_text": "Daedalic - Gigantic Bundle - <span class=\"discount_original_price\">120,99€</span> 12,09€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 12099
+                            "price_in_cents_with_discount": 1209
                         }
                     ]
                 }
@@ -153,7 +153,7 @@
                 }
             ],
             "recommendations": {
-                "total": 159
+                "total": 160
             },
             "achievements": {
                 "total": 0
