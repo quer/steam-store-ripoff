@@ -28,10 +28,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 299,
-                "final": 41,
-                "discount_percent": 86,
-                "initial_formatted": "2,99€",
-                "final_formatted": "0,41€"
+                "final": 299,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "2,99€"
             },
             "packages": [
                 101591
@@ -48,13 +48,13 @@
                     "subs": [
                         {
                             "packageid": 101591,
-                            "percent_savings_text": "-86%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Beyond Magic - <span class=\"discount_original_price\">2,99€</span> 0,41€",
+                            "option_text": "Beyond Magic - 2,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 41
+                            "price_in_cents_with_discount": 299
                         }
                     ]
                 }
