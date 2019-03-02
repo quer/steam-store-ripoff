@@ -32,10 +32,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 99,
-                "final": 39,
-                "discount_percent": 61,
-                "initial_formatted": "0,99€",
-                "final_formatted": "0,39€"
+                "final": 99,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "0,99€"
             },
             "packages": [
                 94682,
@@ -54,13 +54,13 @@
                     "subs": [
                         {
                             "packageid": 94682,
-                            "percent_savings_text": "-61%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "UBERMOSH:BLACK - <span class=\"discount_original_price\">0,99€</span> 0,39€",
+                            "option_text": "UBERMOSH:BLACK - 0,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 39
+                            "price_in_cents_with_discount": 99
                         },
                         {
                             "packageid": 239740,
@@ -154,7 +154,7 @@
                 }
             ],
             "recommendations": {
-                "total": 177
+                "total": 178
             },
             "achievements": {
                 "total": 8,
