@@ -34,15 +34,15 @@
             ],
             "price_overview": {
                 "currency": "EUR",
-                "initial": 99,
-                "final": 39,
-                "discount_percent": 61,
-                "initial_formatted": "0,99€",
-                "final_formatted": "0,39€"
+                "initial": 79,
+                "final": 79,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "0,79€"
             },
             "packages": [
-                95861,
                 96894,
+                95861,
                 231789
             ],
             "package_groups": [
@@ -56,24 +56,24 @@
                     "is_recurring_subscription": "false",
                     "subs": [
                         {
-                            "packageid": 95861,
-                            "percent_savings_text": "-61%",
+                            "packageid": 96894,
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Red Risk - <span class=\"discount_original_price\">0,99€</span> 0,39€",
+                            "option_text": "Red Risk Collector's Edition - 0,79€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 39
+                            "price_in_cents_with_discount": 79
                         },
                         {
-                            "packageid": 96894,
-                            "percent_savings_text": "-51%",
+                            "packageid": 95861,
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Red Risk Collector's Edition - <span class=\"discount_original_price\">0,79€</span> 0,39€",
+                            "option_text": "Red Risk - 0,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 39
+                            "price_in_cents_with_discount": 99
                         },
                         {
                             "packageid": 231789,
