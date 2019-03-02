@@ -16,7 +16,7 @@
                 "name": "Uninitialized"
             },
             "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/427350/header.jpg?t=1492096799",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/427350/header.jpg?t=1551293784",
             "website": null,
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong> Intel Core 2 or AMD equivalent<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 200 MB available space<br></li><li><strong>Additional Notes:</strong> Network Bandwidth of 5Mbps for 540p, 3Mbps for 360p.</li></ul>",
@@ -37,51 +37,7 @@
             "publishers": [
                 ""
             ],
-            "price_overview": {
-                "currency": "EUR",
-                "initial": 399,
-                "final": 399,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "3,99€"
-            },
-            "packages": [
-                88140,
-                88139
-            ],
-            "package_groups": [
-                {
-                    "name": "default",
-                    "title": "Buy Return of the Living Dead 3",
-                    "description": "",
-                    "selection_text": "Select a purchase option",
-                    "save_text": "",
-                    "display_type": 0,
-                    "is_recurring_subscription": "false",
-                    "subs": [
-                        {
-                            "packageid": 88140,
-                            "percent_savings_text": "",
-                            "percent_savings": 0,
-                            "option_text": "Return of the Living Dead 3 - 3,99€",
-                            "option_description": "",
-                            "can_get_free_license": "0",
-                            "is_free_license": false,
-                            "price_in_cents_with_discount": 399
-                        },
-                        {
-                            "packageid": 88139,
-                            "percent_savings_text": "",
-                            "percent_savings": 0,
-                            "option_text": "Return of the Living Dead 3 - 8,99€",
-                            "option_description": "",
-                            "can_get_free_license": "0",
-                            "is_free_license": false,
-                            "price_in_cents_with_discount": 899
-                        }
-                    ]
-                }
-            ],
+            "package_groups": [],
             "platforms": {
                 "windows": true,
                 "mac": true,
@@ -101,21 +57,27 @@
                     "description": "Captions available"
                 }
             ],
+            "genres": [
+                {
+                    "id": "80",
+                    "description": "Movie"
+                }
+            ],
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/427350/ss_577f015a301577fba9950ea6efb366466faf43fd.600x338.jpg?t=1492096799",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/427350/ss_577f015a301577fba9950ea6efb366466faf43fd.1920x1080.jpg?t=1492096799"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/427350/ss_577f015a301577fba9950ea6efb366466faf43fd.600x338.jpg?t=1551293784",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/427350/ss_577f015a301577fba9950ea6efb366466faf43fd.1920x1080.jpg?t=1551293784"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/427350/ss_a9394804e878d4251aa1ff62410ed87432fec68b.600x338.jpg?t=1492096799",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/427350/ss_a9394804e878d4251aa1ff62410ed87432fec68b.1920x1080.jpg?t=1492096799"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/427350/ss_a9394804e878d4251aa1ff62410ed87432fec68b.600x338.jpg?t=1551293784",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/427350/ss_a9394804e878d4251aa1ff62410ed87432fec68b.1920x1080.jpg?t=1551293784"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/427350/ss_ff4b365cd9f4fd7568c71061c0038c5442ccdb07.600x338.jpg?t=1492096799",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/427350/ss_ff4b365cd9f4fd7568c71061c0038c5442ccdb07.1920x1080.jpg?t=1492096799"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/427350/ss_ff4b365cd9f4fd7568c71061c0038c5442ccdb07.600x338.jpg?t=1551293784",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/427350/ss_ff4b365cd9f4fd7568c71061c0038c5442ccdb07.1920x1080.jpg?t=1551293784"
                 }
             ],
             "movies": [
@@ -141,7 +103,7 @@
                 "url": "",
                 "email": ""
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/427350/page_bg_generated_v6b.jpg?t=1492096799",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/427350/page_bg_generated_v6b.jpg?t=1551293784",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
