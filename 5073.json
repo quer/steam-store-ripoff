@@ -7,20 +7,24 @@
             "steam_appid": 5073,
             "required_age": 0,
             "is_free": false,
-            "detailed_description": "",
-            "about_the_game": "",
-            "short_description": "",
+            "detailed_description": "<p><strong>Name:</strong> Sandvich<br>\n<strong>Role:</strong> Edible Device<br>\n<strong>Weapons:</strong> Toothpick</p>\n<p>He was a good lunch who played by the rules, until the rules robbed him of everything he ever loved. Now he's lettuce, tomato, cheese, bread, and a mysterious slice of meat, marching down your throat and straight to hell. He'll satisfy your hunger. FOR REVENGE!</p>",
+            "about_the_game": "<p><strong>Name:</strong> Sandvich<br>\n<strong>Role:</strong> Edible Device<br>\n<strong>Weapons:</strong> Toothpick</p>\n<p>He was a good lunch who played by the rules, until the rules robbed him of everything he ever loved. Now he's lettuce, tomato, cheese, bread, and a mysterious slice of meat, marching down your throat and straight to hell. He'll satisfy your hunger. FOR REVENGE!</p>",
+            "short_description": "Name: Sandvich Role: Edible Device Weapons: Toothpick He was a good lunch who played by the rules, until the rules robbed him of everything he ever loved. Now he's lettuce, tomato, cheese, bread, and a mysterious slice of meat, marching down your throat and straight to hell. He'll satisfy your hunger. FOR REVENGE!",
             "fullgame": {
-                "appid": null,
-                "name": "Uninitialized"
+                "appid": "440",
+                "name": "Team Fortress 2"
             },
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/5073/header.jpg?t=1519430028",
+            "supported_languages": "English",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/440/header.jpg?t=1539304875",
             "website": null,
             "pc_requirements": [],
             "mac_requirements": [],
             "linux_requirements": [],
+            "developers": [
+                "Valve"
+            ],
             "publishers": [
-                ""
+                "Valve"
             ],
             "package_groups": [],
             "platforms": {
@@ -28,6 +32,12 @@
                 "mac": false,
                 "linux": false
             },
+            "genres": [
+                {
+                    "id": "1",
+                    "description": "Action"
+                }
+            ],
             "movies": [
                 {
                     "id": 5073,
@@ -42,7 +52,7 @@
             ],
             "release_date": {
                 "coming_soon": false,
-                "date": ""
+                "date": "19 Aug, 2008"
             },
             "support_info": {
                 "url": "",
