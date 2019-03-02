@@ -28,10 +28,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 1299,
-                "final": 1299,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "12,99€"
+                "final": 324,
+                "discount_percent": 75,
+                "initial_formatted": "12,99€",
+                "final_formatted": "3,24€"
             },
             "packages": [
                 18609,
@@ -51,43 +51,43 @@
                     "subs": [
                         {
                             "packageid": 18609,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-75%",
                             "percent_savings": 0,
-                            "option_text": "Warhammer 40,000: Dawn of War - Game of the Year Edition - 12,99€",
+                            "option_text": "Warhammer 40,000: Dawn of War - Game of the Year Edition - <span class=\"discount_original_price\">12,99€</span> 3,24€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1299
+                            "price_in_cents_with_discount": 324
                         },
                         {
                             "packageid": 30560,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-75%",
                             "percent_savings": 0,
-                            "option_text": "Warhammer 40,000: Dawn of War - Master Collection - 38,99€",
+                            "option_text": "Warhammer 40,000: Dawn of War - Master Collection - <span class=\"discount_original_price\">38,99€</span> 9,74€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 3899
+                            "price_in_cents_with_discount": 974
                         },
                         {
                             "packageid": 44370,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-75%",
                             "percent_savings": 0,
-                            "option_text": "Dawn of War Franchise Pack - 136,99€",
+                            "option_text": "Dawn of War Franchise Pack - <span class=\"discount_original_price\">136,99€</span> 34,24€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 13699
+                            "price_in_cents_with_discount": 3424
                         },
                         {
                             "packageid": 116764,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-75%",
                             "percent_savings": 0,
-                            "option_text": "SEGA's Ultimate Warhammer 40,000 Collection - 161,99€",
+                            "option_text": "SEGA's Ultimate Warhammer 40,000 Collection - <span class=\"discount_original_price\">161,99€</span> 40,50€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 16199
+                            "price_in_cents_with_discount": 4050
                         }
                     ]
                 }
@@ -205,7 +205,7 @@
                 }
             ],
             "recommendations": {
-                "total": 2356
+                "total": 2363
             },
             "achievements": {
                 "total": 0
