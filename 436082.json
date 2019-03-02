@@ -40,10 +40,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 299,
-                "final": 200,
-                "discount_percent": 33,
-                "initial_formatted": "2,99€",
-                "final_formatted": "2,--€"
+                "final": 299,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "2,99€"
             },
             "packages": [
                 91216
@@ -60,13 +60,13 @@
                     "subs": [
                         {
                             "packageid": 91216,
-                            "percent_savings_text": "-33%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Dying Light- Volatile Hunter Bundle - <span class=\"discount_original_price\">2,99€</span> 2,--€",
+                            "option_text": "Dying Light- Volatile Hunter Bundle - 2,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 200
+                            "price_in_cents_with_discount": 299
                         }
                     ]
                 }
@@ -148,7 +148,7 @@
                 }
             ],
             "recommendations": {
-                "total": 138
+                "total": 140
             },
             "achievements": {
                 "total": 0
