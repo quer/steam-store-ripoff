@@ -40,10 +40,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 1499,
-                "final": 1499,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "14,99€"
+                "final": 449,
+                "discount_percent": 70,
+                "initial_formatted": "14,99€",
+                "final_formatted": "4,49€"
             },
             "packages": [
                 232137,
@@ -61,23 +61,23 @@
                     "subs": [
                         {
                             "packageid": 232137,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-70%",
                             "percent_savings": 0,
-                            "option_text": "Kingdom: New Lands - 14,99€",
+                            "option_text": "Kingdom: New Lands - <span class=\"discount_original_price\">14,99€</span> 4,49€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1499
+                            "price_in_cents_with_discount": 449
                         },
                         {
                             "packageid": 232138,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-60%",
                             "percent_savings": 0,
-                            "option_text": "Kingdom: New Lands Royal Edition - 17,99€",
+                            "option_text": "Kingdom: New Lands Royal Edition - <span class=\"discount_original_price\">17,99€</span> 7,19€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1799
+                            "price_in_cents_with_discount": 719
                         }
                     ]
                 }
@@ -188,7 +188,7 @@
                 }
             ],
             "recommendations": {
-                "total": 4142
+                "total": 4159
             },
             "achievements": {
                 "total": 34,
