@@ -45,10 +45,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 699,
-                "final": 279,
-                "discount_percent": 60,
-                "initial_formatted": "6,99€",
-                "final_formatted": "2,79€"
+                "final": 699,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "6,99€"
             },
             "packages": [
                 113439
@@ -65,13 +65,13 @@
                     "subs": [
                         {
                             "packageid": 113439,
-                            "percent_savings_text": "-60%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Sumeru - <span class=\"discount_original_price\">6,99€</span> 2,79€",
+                            "option_text": "Sumeru - 6,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 279
+                            "price_in_cents_with_discount": 699
                         }
                     ]
                 }
@@ -153,7 +153,7 @@
                 }
             ],
             "recommendations": {
-                "total": 108
+                "total": 109
             },
             "achievements": {
                 "total": 25,
