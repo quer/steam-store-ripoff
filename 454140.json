@@ -34,10 +34,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 2299,
-                "final": 1839,
-                "discount_percent": 20,
-                "initial_formatted": "22,99€",
-                "final_formatted": "18,39€"
+                "final": 2299,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "22,99€"
             },
             "packages": [
                 98098
@@ -54,13 +54,13 @@
                     "subs": [
                         {
                             "packageid": 98098,
-                            "percent_savings_text": "-20%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "First Person Tennis - The Real Tennis Simulator - <span class=\"discount_original_price\">22,99€</span> 18,39€",
+                            "option_text": "First Person Tennis - The Real Tennis Simulator - 22,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1839
+                            "price_in_cents_with_discount": 2299
                         }
                     ]
                 }
@@ -196,7 +196,7 @@
                 }
             ],
             "recommendations": {
-                "total": 132
+                "total": 133
             },
             "achievements": {
                 "total": 0
