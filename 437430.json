@@ -37,10 +37,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 99,
-                "final": 99,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "0,99€"
+                "final": 49,
+                "discount_percent": 51,
+                "initial_formatted": "0,99€",
+                "final_formatted": "0,49€"
             },
             "packages": [
                 92054,
@@ -58,23 +58,23 @@
                     "subs": [
                         {
                             "packageid": 92054,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-51%",
                             "percent_savings": 0,
-                            "option_text": "Valhalla Hills: Sand of the Damned DLC - 0,99€",
+                            "option_text": "Valhalla Hills: Sand of the Damned DLC - <span class=\"discount_original_price\">0,99€</span> 0,49€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 99
+                            "price_in_cents_with_discount": 49
                         },
                         {
                             "packageid": 75645,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-85%",
                             "percent_savings": 0,
-                            "option_text": "Valhalla Hills: Two-Horned Helmet Edition - 19,99€",
+                            "option_text": "Valhalla Hills: Two-Horned Helmet Edition - <span class=\"discount_original_price\">19,99€</span> 2,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1999
+                            "price_in_cents_with_discount": 299
                         }
                     ]
                 }
