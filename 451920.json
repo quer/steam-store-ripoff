@@ -28,10 +28,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 329,
-                "final": 39,
-                "discount_percent": 88,
-                "initial_formatted": "3,29€",
-                "final_formatted": "0,39€"
+                "final": 329,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "3,29€"
             },
             "packages": [
                 97330
@@ -48,13 +48,13 @@
                     "subs": [
                         {
                             "packageid": 97330,
-                            "percent_savings_text": "-88%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Thorne - Death Merchants - <span class=\"discount_original_price\">3,29€</span> 0,39€",
+                            "option_text": "Thorne - Death Merchants - 3,29€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 39
+                            "price_in_cents_with_discount": 329
                         }
                     ]
                 }
@@ -293,7 +293,7 @@
                 }
             ],
             "recommendations": {
-                "total": 114
+                "total": 115
             },
             "achievements": {
                 "total": 22,
