@@ -52,8 +52,8 @@
             },
             "packages": [
                 11443,
-                15351,
-                116764
+                116764,
+                15351
             ],
             "package_groups": [
                 {
@@ -76,6 +76,16 @@
                             "price_in_cents_with_discount": 1999
                         },
                         {
+                            "packageid": 116764,
+                            "percent_savings_text": "-75%",
+                            "percent_savings": 0,
+                            "option_text": "SEGA's Ultimate Warhammer 40,000 Collection - <span class=\"discount_original_price\">161,99€</span> 40,50€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 4050
+                        },
+                        {
                             "packageid": 15351,
                             "percent_savings_text": "",
                             "percent_savings": 0,
@@ -84,16 +94,6 @@
                             "can_get_free_license": "0",
                             "is_free_license": false,
                             "price_in_cents_with_discount": 4299
-                        },
-                        {
-                            "packageid": 116764,
-                            "percent_savings_text": "",
-                            "percent_savings": 0,
-                            "option_text": "SEGA's Ultimate Warhammer 40,000 Collection - 161,99€",
-                            "option_description": "",
-                            "can_get_free_license": "0",
-                            "is_free_license": false,
-                            "price_in_cents_with_discount": 16199
                         }
                     ]
                 }
@@ -280,7 +280,7 @@
                 }
             ],
             "recommendations": {
-                "total": 4984
+                "total": 4995
             },
             "achievements": {
                 "total": 60,
@@ -329,7 +329,7 @@
             },
             "release_date": {
                 "coming_soon": false,
-                "date": "5 Sep, 2011"
+                "date": "8 Sep, 2011"
             },
             "support_info": {
                 "url": "https://support.sega.co.uk",
