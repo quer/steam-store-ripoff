@@ -18,8 +18,8 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/546900/header.jpg?t=1536243765",
             "website": null,
             "pc_requirements": {
-                "minimum": "<strong>Minimale :</strong><br><ul class=\"bb_ul\"><li><strong>Système d'exploitation :</strong> Windows 7 (64-bit only)<br></li><li><strong>Processeur :</strong> Intel Pentium G4400, 3.30 GHz or AMD Equivalent<br></li><li><strong>Mémoire vive :</strong> 3 GB de mémoire<br></li><li><strong>Graphiques :</strong> NVIDIA GeForce GT 630, 1GB or AMD Equivalent<br></li><li><strong>DirectX :</strong> Version 9.0c<br></li><li><strong>Espace disque :</strong> 16 GB d'espace disque disponible</li></ul>",
-                "recommended": "<strong>Recommandée :</strong><br><ul class=\"bb_ul\"><li><strong>Système d'exploitation :</strong> Windows 10 (64-bit only)<br></li><li><strong>Processeur :</strong> Intel Core i3-7300, 4.0 GHz or AMD Equivalent<br></li><li><strong>Mémoire vive :</strong> 4 GB de mémoire<br></li><li><strong>Graphiques :</strong> NVIDIA GeForce GTX 750 Ti, 2 GB or AMD Equivalent<br></li><li><strong>DirectX :</strong> Version 9.0c<br></li><li><strong>Espace disque :</strong> 16 GB d'espace disque disponible</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 (64-bit only)<br></li><li><strong>Processor:</strong> Intel Pentium G4400, 3.30 GHz or AMD Equivalent<br></li><li><strong>Memory:</strong> 3 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GT 630, 1GB or AMD Equivalent<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 16 GB available space</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10 (64-bit only)<br></li><li><strong>Processor:</strong> Intel Core i3-7300, 4.0 GHz or AMD Equivalent<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 750 Ti, 2 GB or AMD Equivalent<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 16 GB available space</li></ul>"
             },
             "mac_requirements": [],
             "linux_requirements": [],
@@ -34,10 +34,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 1999,
-                "final": 1999,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "19,99€"
+                "final": 199,
+                "discount_percent": 90,
+                "initial_formatted": "19,99€",
+                "final_formatted": "1,99€"
             },
             "packages": [
                 135031
@@ -54,13 +54,13 @@
                     "subs": [
                         {
                             "packageid": 135031,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-90%",
                             "percent_savings": 0,
-                            "option_text": "Fear Effect Sedna - 19,99€",
+                            "option_text": "Fear Effect Sedna - <span class=\"discount_original_price\">19,99€</span> 1,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1999
+                            "price_in_cents_with_discount": 199
                         }
                     ]
                 }
