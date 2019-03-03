@@ -38,10 +38,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 4999,
-                "final": 4999,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "49,99€"
+                "final": 3999,
+                "discount_percent": 20,
+                "initial_formatted": "49,99€",
+                "final_formatted": "39,99€"
             },
             "packages": [
                 143212
@@ -58,13 +58,13 @@
                     "subs": [
                         {
                             "packageid": 143212,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-20%",
                             "percent_savings": 0,
-                            "option_text": "Labyrinth of Refrain: Coven of Dusk - 49,99€",
+                            "option_text": "Labyrinth of Refrain: Coven of Dusk - <span class=\"discount_original_price\">49,99€</span> 39,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 4999
+                            "price_in_cents_with_discount": 3999
                         }
                     ]
                 }
@@ -236,7 +236,7 @@
                 }
             ],
             "recommendations": {
-                "total": 176
+                "total": 179
             },
             "achievements": {
                 "total": 57,
