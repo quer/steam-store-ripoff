@@ -32,10 +32,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 819,
-                "final": 819,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "8,19€"
+                "final": 81,
+                "discount_percent": 90,
+                "initial_formatted": "8,19€",
+                "final_formatted": "0,81€"
             },
             "packages": [
                 133434
@@ -52,13 +52,13 @@
                     "subs": [
                         {
                             "packageid": 133434,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-90%",
                             "percent_savings": 0,
-                            "option_text": "Castle of no Escape 2 - 8,19€",
+                            "option_text": "Castle of no Escape 2 - <span class=\"discount_original_price\">8,19€</span> 0,81€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 819
+                            "price_in_cents_with_discount": 81
                         }
                     ]
                 }
@@ -185,7 +185,7 @@
                 }
             ],
             "recommendations": {
-                "total": 128
+                "total": 130
             },
             "achievements": {
                 "total": 21,
