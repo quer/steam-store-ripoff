@@ -17,12 +17,12 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/547390/header.jpg?t=1479800426",
             "website": "http://newbridgegames.com/game/mosaic-game-of-gods/",
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP/Windows Vista/Windows 7/Windows 8/Windows/10<br></li><li><strong>Processor:</strong> 1.4 GHz<br></li><li><strong>Memory:</strong> 1024 MB RAM<br></li><li><strong>Graphics:</strong> Any<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 310 MB available space<br></li><li><strong>Sound Card:</strong> Any</li></ul>",
-                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7/Windows 8/Windows/10<br></li><li><strong>Processor:</strong> 1.4 GHz<br></li><li><strong>Memory:</strong> 2048 MB RAM<br></li><li><strong>Graphics:</strong> Any<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 310 MB available space<br></li><li><strong>Sound Card:</strong> Any</li></ul>"
+                "minimum": "<strong>Минимальные:</strong><br><ul class=\"bb_ul\"><li><strong>ОС:</strong> Windows XP/Windows Vista/Windows 7/Windows 8/Windows/10<br></li><li><strong>Процессор:</strong> 1.4 GHz<br></li><li><strong>Оперативная память:</strong> 1024 MB ОЗУ<br></li><li><strong>Видеокарта:</strong> Any<br></li><li><strong>DirectX:</strong> Версии 9.0c<br></li><li><strong>Место на диске:</strong> 310 MB<br></li><li><strong>Звуковая карта:</strong> Any</li></ul>",
+                "recommended": "<strong>Рекомендованные:</strong><br><ul class=\"bb_ul\"><li><strong>ОС:</strong> Windows 7/Windows 8/Windows/10<br></li><li><strong>Процессор:</strong> 1.4 GHz<br></li><li><strong>Оперативная память:</strong> 2048 MB ОЗУ<br></li><li><strong>Видеокарта:</strong> Any<br></li><li><strong>DirectX:</strong> Версии 9.0c<br></li><li><strong>Место на диске:</strong> 310 MB<br></li><li><strong>Звуковая карта:</strong> Any</li></ul>"
             },
             "mac_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OS: 10.7+<br></li><li><strong>Processor:</strong> 1.4 GHz<br></li><li><strong>Memory:</strong> 1024 MB RAM<br></li><li><strong>Graphics:</strong> Any<br></li><li><strong>Storage:</strong> 400 MB available space<br></li><li><strong>Sound Card:</strong> Any</li></ul>",
-                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OS: 10.7+<br></li><li><strong>Processor:</strong> 1.4 GHz<br></li><li><strong>Memory:</strong> 2048 MB RAM<br></li><li><strong>Graphics:</strong> Any<br></li><li><strong>Storage:</strong> 400 MB available space<br></li><li><strong>Sound Card:</strong> Any</li></ul>"
+                "minimum": "<strong>Минимальные:</strong><br><ul class=\"bb_ul\"><li><strong>ОС:</strong> OS: 10.7+<br></li><li><strong>Процессор:</strong> 1.4 GHz<br></li><li><strong>Оперативная память:</strong> 1024 MB ОЗУ<br></li><li><strong>Видеокарта:</strong> Any<br></li><li><strong>Место на диске:</strong> 400 MB<br></li><li><strong>Звуковая карта:</strong> Any</li></ul>",
+                "recommended": "<strong>Рекомендованные:</strong><br><ul class=\"bb_ul\"><li><strong>ОС:</strong> OS: 10.7+<br></li><li><strong>Процессор:</strong> 1.4 GHz<br></li><li><strong>Оперативная память:</strong> 2048 MB ОЗУ<br></li><li><strong>Видеокарта:</strong> Any<br></li><li><strong>Место на диске:</strong> 400 MB<br></li><li><strong>Звуковая карта:</strong> Any</li></ul>"
             },
             "linux_requirements": [],
             "developers": [
@@ -40,10 +40,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 239,
-                "final": 239,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "2,39€"
+                "final": 179,
+                "discount_percent": 25,
+                "initial_formatted": "2,39€",
+                "final_formatted": "1,79€"
             },
             "packages": [
                 135178,
@@ -61,13 +61,13 @@
                     "subs": [
                         {
                             "packageid": 135178,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-25%",
                             "percent_savings": 0,
-                            "option_text": "Mosaic: Game of Gods - 2,39€",
+                            "option_text": "Mosaic: Game of Gods - <span class=\"discount_original_price\">2,39€</span> 1,79€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 239
+                            "price_in_cents_with_discount": 179
                         },
                         {
                             "packageid": 239927,
