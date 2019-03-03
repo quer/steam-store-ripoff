@@ -34,14 +34,14 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 199,
-                "final": 75,
-                "discount_percent": 62,
-                "initial_formatted": "1,99€",
-                "final_formatted": "0,75€"
+                "final": 199,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "1,99€"
             },
             "packages": [
-                119825,
-                341362
+                341362,
+                119825
             ],
             "package_groups": [
                 {
@@ -54,16 +54,6 @@
                     "is_recurring_subscription": "false",
                     "subs": [
                         {
-                            "packageid": 119825,
-                            "percent_savings_text": "-62%",
-                            "percent_savings": 0,
-                            "option_text": "Panzer Warfare - <span class=\"discount_original_price\">1,99€</span> 0,75€",
-                            "option_description": "",
-                            "can_get_free_license": "0",
-                            "is_free_license": false,
-                            "price_in_cents_with_discount": 75
-                        },
-                        {
                             "packageid": 341362,
                             "percent_savings_text": "",
                             "percent_savings": 0,
@@ -72,6 +62,16 @@
                             "can_get_free_license": "0",
                             "is_free_license": false,
                             "price_in_cents_with_discount": 159
+                        },
+                        {
+                            "packageid": 119825,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Panzer Warfare - 1,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 199
                         }
                     ]
                 }
