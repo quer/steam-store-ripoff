@@ -27,10 +27,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 799,
-                "final": 799,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "7,99€"
+                "final": 383,
+                "discount_percent": 52,
+                "initial_formatted": "7,99€",
+                "final_formatted": "3,83€"
             },
             "packages": [
                 118338
@@ -47,13 +47,13 @@
                     "subs": [
                         {
                             "packageid": 118338,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-52%",
                             "percent_savings": 0,
-                            "option_text": "PostCollapse - 7,99€",
+                            "option_text": "PostCollapse - <span class=\"discount_original_price\">7,99€</span> 3,83€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 799
+                            "price_in_cents_with_discount": 383
                         }
                     ]
                 }
