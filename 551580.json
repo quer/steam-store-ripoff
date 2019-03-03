@@ -15,12 +15,12 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/551580/header.jpg?t=1547632447",
             "website": "http://www.goblinsandcoins.com",
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP, Vista, 7, 8 or 10<br></li><li><strong>Processor:</strong> 1 Ghz or faster<br></li><li><strong>Memory:</strong> 768 MB RAM<br></li><li><strong>Graphics:</strong> 256 MB VRAM<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 20 MB available space<br></li><li><strong>Sound Card:</strong> Any<br></li><li><strong>Additional Notes:</strong> Game is locked to 30 fps.</li></ul>",
-                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows Vista, 7, 8 or 10<br></li><li><strong>Processor:</strong> 2 Ghz or faster<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> 512 MB VRAM<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 30 MB available space<br></li><li><strong>Sound Card:</strong> Any</li></ul>"
+                "minimum": "<strong>Минимальные:</strong><br><ul class=\"bb_ul\"><li><strong>ОС:</strong> Windows XP, Vista, 7, 8 or 10<br></li><li><strong>Процессор:</strong> 1 Ghz or faster<br></li><li><strong>Оперативная память:</strong> 768 MB ОЗУ<br></li><li><strong>Видеокарта:</strong> 256 MB VRAM<br></li><li><strong>DirectX:</strong> Версии 9.0c<br></li><li><strong>Место на диске:</strong> 20 MB<br></li><li><strong>Звуковая карта:</strong> Any<br></li><li><strong>Дополнительно:</strong> Game is locked to 30 fps.</li></ul>",
+                "recommended": "<strong>Рекомендованные:</strong><br><ul class=\"bb_ul\"><li><strong>ОС:</strong> Windows Vista, 7, 8 or 10<br></li><li><strong>Процессор:</strong> 2 Ghz or faster<br></li><li><strong>Оперативная память:</strong> 2 GB ОЗУ<br></li><li><strong>Видеокарта:</strong> 512 MB VRAM<br></li><li><strong>DirectX:</strong> Версии 9.0c<br></li><li><strong>Место на диске:</strong> 30 MB<br></li><li><strong>Звуковая карта:</strong> Any</li></ul>"
             },
             "mac_requirements": [],
             "linux_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 14 or above<br></li><li><strong>Processor:</strong> 1 Ghz or faster<br></li><li><strong>Memory:</strong> 768 MB RAM<br></li><li><strong>Graphics:</strong> OpenGL-capable graphics card with a valid driver<br></li><li><strong>Storage:</strong> 20 MB available space<br></li><li><strong>Sound Card:</strong> Any</li></ul>"
+                "minimum": "<strong>Минимальные:</strong><br><ul class=\"bb_ul\"><li><strong>ОС:</strong> Ubuntu 14 or above<br></li><li><strong>Процессор:</strong> 1 Ghz or faster<br></li><li><strong>Оперативная память:</strong> 768 MB ОЗУ<br></li><li><strong>Видеокарта:</strong> OpenGL-capable graphics card with a valid driver<br></li><li><strong>Место на диске:</strong> 20 MB<br></li><li><strong>Звуковая карта:</strong> Any</li></ul>"
             },
             "developers": [
                 "Nikola Bulj"
@@ -31,10 +31,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 189,
-                "final": 113,
-                "discount_percent": 40,
-                "initial_formatted": "1,89€",
-                "final_formatted": "1,13€"
+                "final": 189,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "1,89€"
             },
             "packages": [
                 136896,
@@ -52,13 +52,13 @@
                     "subs": [
                         {
                             "packageid": 136896,
-                            "percent_savings_text": "-40%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Goblin and Coins - <span class=\"discount_original_price\">1,89€</span> 1,13€",
+                            "option_text": "Goblin and Coins - 1,89€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 113
+                            "price_in_cents_with_discount": 189
                         },
                         {
                             "packageid": 235575,
