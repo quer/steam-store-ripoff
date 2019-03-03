@@ -32,10 +32,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 299,
-                "final": 104,
-                "discount_percent": 65,
-                "initial_formatted": "2,99€",
-                "final_formatted": "1,04€"
+                "final": 299,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "2,99€"
             },
             "packages": [
                 119948
@@ -52,13 +52,13 @@
                     "subs": [
                         {
                             "packageid": 119948,
-                            "percent_savings_text": "-65%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "ALONE? - <span class=\"discount_original_price\">2,99€</span> 1,04€",
+                            "option_text": "ALONE? - 2,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 104
+                            "price_in_cents_with_discount": 299
                         }
                     ]
                 }
@@ -158,6 +158,9 @@
                     "highlight": true
                 }
             ],
+            "recommendations": {
+                "total": 101
+            },
             "achievements": {
                 "total": 14,
                 "highlighted": [
