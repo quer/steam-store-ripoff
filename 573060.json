@@ -24,7 +24,7 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/573060/header.jpg?t=1549320977",
             "website": "http://logistical.sacada.net",
             "pc_requirements": {
-                "minimum": "<strong>Минимальные:</strong><br><ul class=\"bb_ul\"><li><strong>ОС:</strong> Windows 7 or later<br></li><li><strong>Процессор:</strong> 1.7+ GHz or better<br></li><li><strong>Оперативная память:</strong> 2 GB ОЗУ<br></li><li><strong>Видеокарта:</strong> 256+MB with 1024x768 resolution<br></li><li><strong>Место на диске:</strong> 300 MB</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 or later<br></li><li><strong>Processor:</strong> 1.7+ GHz or better<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> 256+MB with 1024x768 resolution<br></li><li><strong>Storage:</strong> 300 MB available space</li></ul>"
             },
             "mac_requirements": [],
             "linux_requirements": [],
@@ -37,10 +37,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 999,
-                "final": 999,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "9,99€"
+                "final": 499,
+                "discount_percent": 50,
+                "initial_formatted": "9,99€",
+                "final_formatted": "4,99€"
             },
             "packages": [
                 145770
@@ -57,13 +57,13 @@
                     "subs": [
                         {
                             "packageid": 145770,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-50%",
                             "percent_savings": 0,
-                            "option_text": "LOGistICAL - 9,99€",
+                            "option_text": "LOGistICAL - <span class=\"discount_original_price\">9,99€</span> 4,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 999
+                            "price_in_cents_with_discount": 499
                         }
                     ]
                 }
