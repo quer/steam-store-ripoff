@@ -39,11 +39,11 @@
             ],
             "price_overview": {
                 "currency": "EUR",
-                "initial": 999,
-                "final": 999,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "9,99€"
+                "initial": 659,
+                "final": 527,
+                "discount_percent": 20,
+                "initial_formatted": "6,59€",
+                "final_formatted": "5,27€"
             },
             "packages": [
                 145800
@@ -60,13 +60,13 @@
                     "subs": [
                         {
                             "packageid": 145800,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-20%",
                             "percent_savings": 0,
-                            "option_text": "Space Engineers Deluxe - 9,99€",
+                            "option_text": "Space Engineers Deluxe - <span class=\"discount_original_price\">6,59€</span> 5,27€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 999
+                            "price_in_cents_with_discount": 527
                         }
                     ]
                 }
@@ -208,7 +208,7 @@
                 }
             ],
             "recommendations": {
-                "total": 102
+                "total": 110
             },
             "achievements": {
                 "total": 0
