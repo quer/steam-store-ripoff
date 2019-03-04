@@ -34,12 +34,12 @@
                 }
             ],
             "price_overview": {
-                "currency": "USD",
+                "currency": "EUR",
                 "initial": 999,
                 "final": 999,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "$9.99"
+                "final_formatted": "9,99€"
             },
             "packages": [
                 4483,
@@ -59,7 +59,7 @@
                             "packageid": 4483,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Jolly Rover - $9.99",
+                            "option_text": "Jolly Rover - 9,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
@@ -69,11 +69,11 @@
                             "packageid": 16024,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Jolly Rover MacGuffins Curse Bundle - $14.99",
+                            "option_text": "Jolly Rover MacGuffins Curse Bundle - 13,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1499
+                            "price_in_cents_with_discount": 1399
                         }
                     ]
                 }
@@ -249,7 +249,7 @@
             },
             "release_date": {
                 "coming_soon": false,
-                "date": "Jun 7, 2010"
+                "date": "7 Jun, 2010"
             },
             "support_info": {
                 "url": "",
