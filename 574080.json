@@ -31,10 +31,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 399,
-                "final": 399,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "3,99€"
+                "final": 307,
+                "discount_percent": 23,
+                "initial_formatted": "3,99€",
+                "final_formatted": "3,07€"
             },
             "packages": [
                 146138
@@ -51,13 +51,13 @@
                     "subs": [
                         {
                             "packageid": 146138,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-23%",
                             "percent_savings": 0,
-                            "option_text": "Fog of War - 3,99€",
+                            "option_text": "Fog of War - <span class=\"discount_original_price\">3,99€</span> 3,07€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 399
+                            "price_in_cents_with_discount": 307
                         }
                     ]
                 }
@@ -180,7 +180,7 @@
                 }
             ],
             "recommendations": {
-                "total": 610
+                "total": 613
             },
             "achievements": {
                 "total": 0
