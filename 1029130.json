@@ -11,16 +11,16 @@
             "about_the_game": "Set sail for adventure and mystery on the island of Sordwin. Explore the town in secret or in style, meet and mingle with the island's residents, wield weapons and magic and uncover clues before darkness falls!<br><br><i>Sordwin: The Evertree Saga</i> is an immersive 440,000 word interactive experience by Thom Baylay, and the second book in the Evertree Saga. It’s entirely text-based--without graphics or sound effects--and fueled by the vast unstoppable power of your imagination.<br><br>A simple request from a wealthy lord is about to get a lot more complicated when you find yourself sailing for an island under quarantine. Will you try to help the terrified townsfolk, or is completing the mission your highest priority? Enter an open world, where the choices you ignore matter as much as the ones you explore and where every interaction has a reaction. <br><br><ul class=\"bb_ul\"><li> Play as male, female or non-binary; gay, straight, bisexual or asexual.<br></li><li> Continue the story started in Evertree Inn or play as a brand new adventurer.<br></li><li> Make enemies and friends; continue a growing love story or find new romance with all new characters.<br></li><li> Boldly confront the townsfolk or lurk in the shadows as you uncover clues.<br></li><li> Battle with any weapon you can imagine or unleash an impressive arsenal of spells.<br></li><li> Overcome obstacles with multiple different skills.<br></li><li> Customise your character’s appearance and personality.<br></li><li> Drink with pirates in the tavern, test your faith at the temple, explore the abandoned observatory and much more.</li></ul><br>Find out if you have what it takes to survive on Sordwin!",
             "short_description": "Set sail for adventure and mystery on the island of Sordwin. Explore the town in secret or in style, meet and mingle with the island's residents, wield weapons and magic and uncover clues before darkness falls!",
             "supported_languages": "English",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1029130/header.jpg?t=1549948612",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1029130/header.jpg?t=1551980869",
             "website": "https://www.choiceofgames.com/",
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7</li></ul>"
+                "minimum": "<strong>最低配置:</strong><br><ul class=\"bb_ul\"><li><strong>操作系统:</strong> Windows 7</li></ul>"
             },
             "mac_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 10.9</li></ul>"
+                "minimum": "<strong>最低配置:</strong><br><ul class=\"bb_ul\"><li><strong>操作系统:</strong> 10.9</li></ul>"
             },
             "linux_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 12.04</li></ul>"
+                "minimum": "<strong>最低配置:</strong><br><ul class=\"bb_ul\"><li><strong>操作系统:</strong> Ubuntu 12.04</li></ul>"
             },
             "developers": [
                 "Hosted Games"
@@ -28,7 +28,46 @@
             "publishers": [
                 "Hosted Games"
             ],
-            "package_groups": [],
+            "demos": [
+                {
+                    "appid": 1029200,
+                    "description": ""
+                }
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 399,
+                "final": 239,
+                "discount_percent": 40,
+                "initial_formatted": "3,99€",
+                "final_formatted": "2,39€"
+            },
+            "packages": [
+                342180
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Sordwin: The Evertree Saga",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 342180,
+                            "percent_savings_text": "-40%",
+                            "percent_savings": 0,
+                            "option_text": "Sordwin: The Evertree Saga - <span class=\"discount_original_price\">3,99€</span> 2,39€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 239
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": true,
@@ -69,39 +108,84 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029130/ss_9310b782307046a605bbcc65c72373e9948082a0.600x338.jpg?t=1549948612",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029130/ss_9310b782307046a605bbcc65c72373e9948082a0.1920x1080.jpg?t=1549948612"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029130/ss_9310b782307046a605bbcc65c72373e9948082a0.600x338.jpg?t=1551980869",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029130/ss_9310b782307046a605bbcc65c72373e9948082a0.1920x1080.jpg?t=1551980869"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029130/ss_40fe697b5c37652c5cf4d2b3d445a63820a1b457.600x338.jpg?t=1549948612",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029130/ss_40fe697b5c37652c5cf4d2b3d445a63820a1b457.1920x1080.jpg?t=1549948612"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029130/ss_40fe697b5c37652c5cf4d2b3d445a63820a1b457.600x338.jpg?t=1551980869",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029130/ss_40fe697b5c37652c5cf4d2b3d445a63820a1b457.1920x1080.jpg?t=1551980869"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029130/ss_843c4b869e08aa509b549e6043bb27efce73adec.600x338.jpg?t=1549948612",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029130/ss_843c4b869e08aa509b549e6043bb27efce73adec.1920x1080.jpg?t=1549948612"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029130/ss_843c4b869e08aa509b549e6043bb27efce73adec.600x338.jpg?t=1551980869",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029130/ss_843c4b869e08aa509b549e6043bb27efce73adec.1920x1080.jpg?t=1551980869"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029130/ss_2a97225cd530aabd4d3f4f8f7e2193e0e723b93e.600x338.jpg?t=1549948612",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029130/ss_2a97225cd530aabd4d3f4f8f7e2193e0e723b93e.1920x1080.jpg?t=1549948612"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029130/ss_2a97225cd530aabd4d3f4f8f7e2193e0e723b93e.600x338.jpg?t=1551980869",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029130/ss_2a97225cd530aabd4d3f4f8f7e2193e0e723b93e.1920x1080.jpg?t=1551980869"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029130/ss_4e2dd9928210a2011c3b9a3e8c3a0ab9e4d23212.600x338.jpg?t=1549948612",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029130/ss_4e2dd9928210a2011c3b9a3e8c3a0ab9e4d23212.1920x1080.jpg?t=1549948612"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029130/ss_4e2dd9928210a2011c3b9a3e8c3a0ab9e4d23212.600x338.jpg?t=1551980869",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029130/ss_4e2dd9928210a2011c3b9a3e8c3a0ab9e4d23212.1920x1080.jpg?t=1551980869"
                 }
             ],
+            "achievements": {
+                "total": 75,
+                "highlighted": [
+                    {
+                        "name": "Not My First Rodeo",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1029130/c628c90fbed5a2227a85cecdf4e59a062310bfa4.jpg"
+                    },
+                    {
+                        "name": "Code Breaker",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1029130/ea8e9f5bc2cdaf139ea01b415c7f48b7820dc2f5.jpg"
+                    },
+                    {
+                        "name": "Every Night in My Dreams",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1029130/ea8e9f5bc2cdaf139ea01b415c7f48b7820dc2f5.jpg"
+                    },
+                    {
+                        "name": "Three in the Bed",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1029130/ea8e9f5bc2cdaf139ea01b415c7f48b7820dc2f5.jpg"
+                    },
+                    {
+                        "name": "Welcome to Sordwin",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1029130/ea8e9f5bc2cdaf139ea01b415c7f48b7820dc2f5.jpg"
+                    },
+                    {
+                        "name": "See a Penny",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1029130/ea8e9f5bc2cdaf139ea01b415c7f48b7820dc2f5.jpg"
+                    },
+                    {
+                        "name": "Bits and Pieces",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1029130/ea8e9f5bc2cdaf139ea01b415c7f48b7820dc2f5.jpg"
+                    },
+                    {
+                        "name": "Worth the Climb",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1029130/ea8e9f5bc2cdaf139ea01b415c7f48b7820dc2f5.jpg"
+                    },
+                    {
+                        "name": "Make a Wish",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1029130/ea8e9f5bc2cdaf139ea01b415c7f48b7820dc2f5.jpg"
+                    },
+                    {
+                        "name": "Brush with the Law",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1029130/ea8e9f5bc2cdaf139ea01b415c7f48b7820dc2f5.jpg"
+                    }
+                ]
+            },
             "release_date": {
-                "coming_soon": true,
+                "coming_soon": false,
                 "date": "7 Mar, 2019"
             },
             "support_info": {
                 "url": "https://www.choiceofgames.com/contact-us/",
                 "email": "support-sordwin-steam@hostedgames.org"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1029130/page_bg_generated_v6b.jpg?t=1549948612",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1029130/page_bg_generated_v6b.jpg?t=1551980869",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
