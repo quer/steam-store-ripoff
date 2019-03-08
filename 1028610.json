@@ -7,11 +7,11 @@
             "steam_appid": 1028610,
             "required_age": 0,
             "is_free": false,
-            "detailed_description": "Shift Shaft is a challenging Side-Scroller packed with a variety of game modes to play! <br><br><strong><u>GAME MODES</u></strong><br>Currently there are four game modes to choose from:<br><ul class=\"bb_ul\"><li>Adventure<br></li><li>Arcade<br></li><li>Multiplayer<br></li><li>Rumble</li></ul><br><strong><u>ADVENTURE</u></strong><br>In Adventure mode you can travel around the world and visit various scenes in all levels. <br>As you make progress the levels get more and more challenging.<br><br><strong><u>ARCADE</u></strong><br>In Arcade mode you can put up your own highscore by getting as far as possible.<br><br><strong><u>MULTIPLAYER</u></strong><br>Want to race against a friend of yours? <br>In multiplayer mode you can play arcade with a friend localy.<br><br><strong><u>RUMBLE</u></strong><br>Rumble is a mode where you compete against another person and try to push him off the edge to win the game.",
-            "about_the_game": "Shift Shaft is a challenging Side-Scroller packed with a variety of game modes to play! <br><br><strong><u>GAME MODES</u></strong><br>Currently there are four game modes to choose from:<br><ul class=\"bb_ul\"><li>Adventure<br></li><li>Arcade<br></li><li>Multiplayer<br></li><li>Rumble</li></ul><br><strong><u>ADVENTURE</u></strong><br>In Adventure mode you can travel around the world and visit various scenes in all levels. <br>As you make progress the levels get more and more challenging.<br><br><strong><u>ARCADE</u></strong><br>In Arcade mode you can put up your own highscore by getting as far as possible.<br><br><strong><u>MULTIPLAYER</u></strong><br>Want to race against a friend of yours? <br>In multiplayer mode you can play arcade with a friend localy.<br><br><strong><u>RUMBLE</u></strong><br>Rumble is a mode where you compete against another person and try to push him off the edge to win the game.",
-            "short_description": "Take Shaft on his way to find his meaning of existence! Shift Shaft is an Indie Side-Scroller with a variety of gamemodes to play.",
+            "detailed_description": "Shift Shaft is a challenging Side-Scroller packed with a variety of game modes to play!<br><br><strong><u>GAME MODES</u></strong><br>Currently there are four game modes to choose from:<br><ul class=\"bb_ul\"><li>Adventure<br></li><li>Arcade<br></li><li>Multiplayer<br></li><li>Rumble</li></ul><br><strong><u>ADVENTURE</u></strong><br>In Adventure mode you can travel around the world and visit various scenes in all levels. <br>As you make progress the levels get more and more challenging.<br><br><strong><u>ARCADE</u></strong><br>In Arcade mode you can put up your own highscore by getting as far as possible.<br><br><strong><u>MULTIPLAYER</u></strong><br>Want to race against a friend of yours? <br>In multiplayer mode you can play arcade with a friend localy.<br><br><strong><u>RUMBLE</u></strong><br>Rumble is a mode where you compete against another person and try to push him off the edge to win the game.",
+            "about_the_game": "Shift Shaft is a challenging Side-Scroller packed with a variety of game modes to play!<br><br><strong><u>GAME MODES</u></strong><br>Currently there are four game modes to choose from:<br><ul class=\"bb_ul\"><li>Adventure<br></li><li>Arcade<br></li><li>Multiplayer<br></li><li>Rumble</li></ul><br><strong><u>ADVENTURE</u></strong><br>In Adventure mode you can travel around the world and visit various scenes in all levels. <br>As you make progress the levels get more and more challenging.<br><br><strong><u>ARCADE</u></strong><br>In Arcade mode you can put up your own highscore by getting as far as possible.<br><br><strong><u>MULTIPLAYER</u></strong><br>Want to race against a friend of yours? <br>In multiplayer mode you can play arcade with a friend localy.<br><br><strong><u>RUMBLE</u></strong><br>Rumble is a mode where you compete against another person and try to push him off the edge to win the game.",
+            "short_description": "Take Shaft on his way to find his meaning of existence! Shift Shaft is a Indie Side-Scroller with a variety of gamemodes to play.",
             "supported_languages": "English",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1028610/header.jpg?t=1550587337",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1028610/header.jpg?t=1551998305",
             "website": null,
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Intel Core 2 Duo 2.2 ghz or equivalent<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> 512 MB Video memory<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>",
@@ -25,7 +25,40 @@
             "publishers": [
                 "Krobin Games"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 499,
+                "final": 449,
+                "discount_percent": 10,
+                "initial_formatted": "4,99€",
+                "final_formatted": "4,49€"
+            },
+            "packages": [
+                341934
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Shift Shaft",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 341934,
+                            "percent_savings_text": "-10%",
+                            "percent_savings": 0,
+                            "option_text": "Shift Shaft - <span class=\"discount_original_price\">4,99€</span> 4,49€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 449
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": false,
@@ -47,12 +80,20 @@
                 {
                     "id": 22,
                     "description": "Steam Achievements"
+                },
+                {
+                    "id": 23,
+                    "description": "Steam Cloud"
                 }
             ],
             "genres": [
                 {
                     "id": "25",
                     "description": "Adventure"
+                },
+                {
+                    "id": "4",
+                    "description": "Casual"
                 },
                 {
                     "id": "23",
@@ -62,51 +103,96 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1028610/ss_a5b5dd2b83f40107e7d2b1f40e17e23620f70005.600x338.jpg?t=1550587337",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1028610/ss_a5b5dd2b83f40107e7d2b1f40e17e23620f70005.1920x1080.jpg?t=1550587337"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1028610/ss_a5b5dd2b83f40107e7d2b1f40e17e23620f70005.600x338.jpg?t=1551998305",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1028610/ss_a5b5dd2b83f40107e7d2b1f40e17e23620f70005.1920x1080.jpg?t=1551998305"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1028610/ss_23c3eb0feab6c841fe82747730de4f3dbb3a4a16.600x338.jpg?t=1550587337",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1028610/ss_23c3eb0feab6c841fe82747730de4f3dbb3a4a16.1920x1080.jpg?t=1550587337"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1028610/ss_23c3eb0feab6c841fe82747730de4f3dbb3a4a16.600x338.jpg?t=1551998305",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1028610/ss_23c3eb0feab6c841fe82747730de4f3dbb3a4a16.1920x1080.jpg?t=1551998305"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1028610/ss_4b592fbfdd553b4e8cb893d31bec7db4ac9669db.600x338.jpg?t=1550587337",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1028610/ss_4b592fbfdd553b4e8cb893d31bec7db4ac9669db.1920x1080.jpg?t=1550587337"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1028610/ss_4b592fbfdd553b4e8cb893d31bec7db4ac9669db.600x338.jpg?t=1551998305",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1028610/ss_4b592fbfdd553b4e8cb893d31bec7db4ac9669db.1920x1080.jpg?t=1551998305"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1028610/ss_73d60e32c7fdada604552466034fa940dc85164c.600x338.jpg?t=1550587337",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1028610/ss_73d60e32c7fdada604552466034fa940dc85164c.1920x1080.jpg?t=1550587337"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1028610/ss_73d60e32c7fdada604552466034fa940dc85164c.600x338.jpg?t=1551998305",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1028610/ss_73d60e32c7fdada604552466034fa940dc85164c.1920x1080.jpg?t=1551998305"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1028610/ss_5132aafac4e3fd29386b7becdf8681018f25fec7.600x338.jpg?t=1550587337",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1028610/ss_5132aafac4e3fd29386b7becdf8681018f25fec7.1920x1080.jpg?t=1550587337"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1028610/ss_5132aafac4e3fd29386b7becdf8681018f25fec7.600x338.jpg?t=1551998305",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1028610/ss_5132aafac4e3fd29386b7becdf8681018f25fec7.1920x1080.jpg?t=1551998305"
                 }
             ],
             "movies": [
                 {
-                    "id": 256743456,
-                    "name": "Shift Shaft: Trailer",
-                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256743456/movie.293x165.jpg?t=1550587325",
+                    "id": 256744618,
+                    "name": "Shift Shaft Official Trailer",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256744618/movie.293x165.jpg?t=1551806003",
                     "webm": {
-                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256743456/movie480.webm?t=1550587325",
-                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256743456/movie_max.webm?t=1550587325"
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256744618/movie480.webm?t=1551806003",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256744618/movie_max.webm?t=1551806003"
                     },
                     "highlight": true
                 }
             ],
+            "achievements": {
+                "total": 33,
+                "highlighted": [
+                    {
+                        "name": "Tutorial completed",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1028610/2a779b94342b6f377eb7eede8d41a1fd5390b8ba.jpg"
+                    },
+                    {
+                        "name": "Level 1 completed",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1028610/1fa0281e8c1046fdd4ed8401420b5bbf6f83073f.jpg"
+                    },
+                    {
+                        "name": "Level 1 secret completed",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1028610/4f6dd65309436e3028308ee17d7b0c63a859bc1c.jpg"
+                    },
+                    {
+                        "name": "All coins of Level 1!",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1028610/10d0fee0168b85ad24883eeb95ec1d4afe1a3452.jpg"
+                    },
+                    {
+                        "name": "Level 2 completed!",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1028610/7c6f4a0d5d7c693eb8f950d8da93cfee77d119bf.jpg"
+                    },
+                    {
+                        "name": "Level 2 secret completed!",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1028610/0bcce028241e8c1f866064f3d3cc2889ce59df93.jpg"
+                    },
+                    {
+                        "name": "All coins of Level 2!",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1028610/b2a942517752bb51219bd56bfe7314175ee70bc6.jpg"
+                    },
+                    {
+                        "name": "Level 3 completed!",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1028610/6161e4c39571192b7376f6601e86b39bcb1e2ccf.jpg"
+                    },
+                    {
+                        "name": "Level 3 secret completed!",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1028610/02a5a263920180b67439fa30ba0bdd9a27a409a9.jpg"
+                    },
+                    {
+                        "name": "All coins of Level 3!",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1028610/3dbd4722fd257550ad36c825b0a78b0ad5e48600.jpg"
+                    }
+                ]
+            },
             "release_date": {
-                "coming_soon": true,
-                "date": "March"
+                "coming_soon": false,
+                "date": "5 Mar, 2019"
             },
             "support_info": {
                 "url": "",
                 "email": "krobgames@gmail.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1028610/page_bg_generated_v6b.jpg?t=1550587337",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1028610/page_bg_generated_v6b.jpg?t=1551998305",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
