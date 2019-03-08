@@ -11,7 +11,7 @@
             "about_the_game": "Possibility to choose size of cube from 3^3 to 9^9.<br />\r\nThe choice of complexity from 1 to 9 (a certain analogue of the probability of an empty cell from 10% to 90%).<br />\r\nAs the level of complexity increases, several solutions appear, but only the one that was originally generated will be true!<br />\r\nSince In this version of Sudoku there is a choice of size, the rule of small composite squares 3x3 as part of a full 9x9 does not actual.<br />\r\nThere are ghost cubes that confuse and turn the numbers. Although, thanks to the scanner, they are easily detected.",
             "short_description": "This is not a classic sudoku. This is a variation of the famous puzzle - from easy to almost impossible... Fully random generation with a choice of cube size (within the classic from 3 to 9) and difficulty.",
             "supported_languages": "English, Russian",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1031560/header.jpg?t=1550653444",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1031560/header.jpg?t=1551475265",
             "website": null,
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 7 64-bit<br></li><li><strong>Processor:</strong> Intel or AMD processor, 2.5 GHz or faster.<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce 470 GTX or AMD Radeon 6870 HD series card or higher<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>",
@@ -31,7 +31,62 @@
             "publishers": [
                 "Shmurdik"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 159,
+                "final": 111,
+                "discount_percent": 30,
+                "initial_formatted": "1,59€",
+                "final_formatted": "1,11€"
+            },
+            "packages": [
+                343163,
+                347688
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Sudoku3D 2: The Cube",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 343163,
+                            "percent_savings_text": "-30%",
+                            "percent_savings": 0,
+                            "option_text": "Sudoku3D 2: The Cube - <span class=\"discount_original_price\">1,59€</span> 1,11€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 111
+                        }
+                    ]
+                },
+                {
+                    "name": "subscriptions",
+                    "title": "Buy Sudoku3D 2: The Cube Subscription Plan",
+                    "description": "To be billed on a recurring basis.",
+                    "selection_text": "Select a subscription plan",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "true",
+                    "subs": [
+                        {
+                            "packageid": 347688,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "1 Month(s) @ 0,79€/Month",
+                            "option_description": "<p class=\"game_purchase_subscription\">1,59€ at checkout, auto-renewed every 1 month(s) at 0,79€.</p>",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 159
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": false,
@@ -72,43 +127,43 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031560/ss_f8131d40da1b917125da3604f7cacddac91218e3.600x338.jpg?t=1550653444",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031560/ss_f8131d40da1b917125da3604f7cacddac91218e3.1920x1080.jpg?t=1550653444"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031560/ss_f8131d40da1b917125da3604f7cacddac91218e3.600x338.jpg?t=1551475265",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031560/ss_f8131d40da1b917125da3604f7cacddac91218e3.1920x1080.jpg?t=1551475265"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031560/ss_9fa658e0a288726a0fe4a673777bfa5081a0d3f9.600x338.jpg?t=1550653444",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031560/ss_9fa658e0a288726a0fe4a673777bfa5081a0d3f9.1920x1080.jpg?t=1550653444"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031560/ss_9fa658e0a288726a0fe4a673777bfa5081a0d3f9.600x338.jpg?t=1551475265",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031560/ss_9fa658e0a288726a0fe4a673777bfa5081a0d3f9.1920x1080.jpg?t=1551475265"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031560/ss_fd155a5475ac4daa0b84f409393a68f61921cb18.600x338.jpg?t=1550653444",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031560/ss_fd155a5475ac4daa0b84f409393a68f61921cb18.1920x1080.jpg?t=1550653444"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031560/ss_fd155a5475ac4daa0b84f409393a68f61921cb18.600x338.jpg?t=1551475265",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031560/ss_fd155a5475ac4daa0b84f409393a68f61921cb18.1920x1080.jpg?t=1551475265"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031560/ss_21e070a7676e88e44b75ad008e0c744ebf975b44.600x338.jpg?t=1550653444",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031560/ss_21e070a7676e88e44b75ad008e0c744ebf975b44.1920x1080.jpg?t=1550653444"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031560/ss_21e070a7676e88e44b75ad008e0c744ebf975b44.600x338.jpg?t=1551475265",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031560/ss_21e070a7676e88e44b75ad008e0c744ebf975b44.1920x1080.jpg?t=1551475265"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031560/ss_8a1b596f3e209560e6f8d556554f2499882ff942.600x338.jpg?t=1550653444",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031560/ss_8a1b596f3e209560e6f8d556554f2499882ff942.1920x1080.jpg?t=1550653444"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031560/ss_8a1b596f3e209560e6f8d556554f2499882ff942.600x338.jpg?t=1551475265",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031560/ss_8a1b596f3e209560e6f8d556554f2499882ff942.1920x1080.jpg?t=1551475265"
                 },
                 {
                     "id": 5,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031560/ss_34e869dbfd9ddc1f2cf7130f545d0e6f031721b4.600x338.jpg?t=1550653444",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031560/ss_34e869dbfd9ddc1f2cf7130f545d0e6f031721b4.1920x1080.jpg?t=1550653444"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031560/ss_34e869dbfd9ddc1f2cf7130f545d0e6f031721b4.600x338.jpg?t=1551475265",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031560/ss_34e869dbfd9ddc1f2cf7130f545d0e6f031721b4.1920x1080.jpg?t=1551475265"
                 },
                 {
                     "id": 6,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031560/ss_0dacfb636949ac07e8a8d2697194fb3ee1f23c95.600x338.jpg?t=1550653444",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031560/ss_0dacfb636949ac07e8a8d2697194fb3ee1f23c95.1920x1080.jpg?t=1550653444"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031560/ss_0dacfb636949ac07e8a8d2697194fb3ee1f23c95.600x338.jpg?t=1551475265",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031560/ss_0dacfb636949ac07e8a8d2697194fb3ee1f23c95.1920x1080.jpg?t=1551475265"
                 },
                 {
                     "id": 7,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031560/ss_e40911016bca2f1b3978b98e34fc259eab495ae5.600x338.jpg?t=1550653444",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031560/ss_e40911016bca2f1b3978b98e34fc259eab495ae5.1920x1080.jpg?t=1550653444"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031560/ss_e40911016bca2f1b3978b98e34fc259eab495ae5.600x338.jpg?t=1551475265",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031560/ss_e40911016bca2f1b3978b98e34fc259eab495ae5.1920x1080.jpg?t=1551475265"
                 }
             ],
             "movies": [
@@ -123,15 +178,60 @@
                     "highlight": true
                 }
             ],
+            "achievements": {
+                "total": 30,
+                "highlighted": [
+                    {
+                        "name": "It was easy too",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1031560/1a6010e62d31a11690560d2f1a550ffec8923706.jpg"
+                    },
+                    {
+                        "name": "Zzz",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1031560/fa7397de6334db135f471628377ddfff7f117058.jpg"
+                    },
+                    {
+                        "name": "3x3x3x1",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1031560/3526d411f61e9149de9bbe50757f32fa9314db5d.jpg"
+                    },
+                    {
+                        "name": "4x4x4x1",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1031560/6d8ecc94b85dc7669283559578d3c1d9a3670737.jpg"
+                    },
+                    {
+                        "name": "5x5x5x1",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1031560/36f0d4acd5ab5852e476a1fff9eeb9b45aff0627.jpg"
+                    },
+                    {
+                        "name": "6x6x6x1",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1031560/515260b4654863f95a1d9d548123b6c5f0330103.jpg"
+                    },
+                    {
+                        "name": "7x7x7x1",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1031560/477292d3242a31766e0fbc128cb01a2fdd802040.jpg"
+                    },
+                    {
+                        "name": "8x8x8x1",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1031560/a0b8d82f3a03afc310b6abb6fc0ce37d236bdb18.jpg"
+                    },
+                    {
+                        "name": "9x9x9x1",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1031560/e3804e2ba86aa778f5f87620747ced7a6bcc531d.jpg"
+                    },
+                    {
+                        "name": "3x3x3x10",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1031560/ceb27515443f07d409c85a702e529bc29f6bf292.jpg"
+                    }
+                ]
+            },
             "release_date": {
-                "coming_soon": true,
+                "coming_soon": false,
                 "date": "1 Mar, 2019"
             },
             "support_info": {
                 "url": "https://t.me/Shmurdik",
                 "email": ""
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1031560/page_bg_generated_v6b.jpg?t=1550653444",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1031560/page_bg_generated_v6b.jpg?t=1551475265",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
