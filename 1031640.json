@@ -8,6 +8,9 @@
             "required_age": 0,
             "is_free": false,
             "controller_support": "full",
+            "dlc": [
+                1039670
+            ],
             "detailed_description": "In this maze game you need to collect all the orbs to make the portal appear, that brings you to the next level. It’s a simple game but challenging at times. You only have to use the mouse to move around the stage. Different obstacles are there to avoid and orbs to collect. It has 24 levels for you to explore.",
             "about_the_game": "In this maze game you need to collect all the orbs to make the portal appear, that brings you to the next level. It’s a simple game but challenging at times. You only have to use the mouse to move around the stage. Different obstacles are there to avoid and orbs to collect. It has 24 levels for you to explore.",
             "short_description": "Super Orb Collector is a fun top down agility game that lets you test your hand-eye coordination. The goal of this game is to collect all the white dots and reach the exit portal while avoid hitting the colored objects. Many moving obstacles can kill you at any time, so plan your moves carefully!",
@@ -28,10 +31,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 159,
-                "final": 95,
-                "discount_percent": 40,
-                "initial_formatted": "1,59€",
-                "final_formatted": "0,95€"
+                "final": 159,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "1,59€"
             },
             "packages": [
                 343190
@@ -48,13 +51,13 @@
                     "subs": [
                         {
                             "packageid": 343190,
-                            "percent_savings_text": "-40%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Super Orb Collector - <span class=\"discount_original_price\">1,59€</span> 0,95€",
+                            "option_text": "Super Orb Collector - 1,59€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 95
+                            "price_in_cents_with_discount": 159
                         }
                     ]
                 }
