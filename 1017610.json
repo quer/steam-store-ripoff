@@ -27,10 +27,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 159,
-                "final": 130,
-                "discount_percent": 18,
-                "initial_formatted": "1,59€",
-                "final_formatted": "1,30€"
+                "final": 159,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "1,59€"
             },
             "packages": [
                 337308
@@ -47,13 +47,13 @@
                     "subs": [
                         {
                             "packageid": 337308,
-                            "percent_savings_text": "-18%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Butterfly - <span class=\"discount_original_price\">1,59€</span> 1,30€",
+                            "option_text": "Butterfly - 1,59€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 130
+                            "price_in_cents_with_discount": 159
                         }
                     ]
                 }
