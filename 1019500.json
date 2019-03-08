@@ -11,7 +11,7 @@
             "about_the_game": "Super Beam is a fascinating<strong> VR rhythm game</strong> which has variety of methods to be with fantastic music. When targets are coming to you, you can slash them out and you will feel fantastic VR experence. You can feel like dancing while slashing targets listening to music!! There are 5 songs now however if you love this game, aditional songs will be update. Who knows<strong> next song will be from K-Pop idol??</strong><br><br>*Song List*<br>1. &quot;FAS&quot; [Intense]  <br>2. &quot;FAS&quot; [On]  <br>3. &quot;Studio PaloAlto&quot; [50 Bucks]  <br>4. &quot;7 Keys&quot; [In that Future Bass]  <br>5. &quot;FAS&quot; [Are U Ready?]",
             "short_description": "Super Beam is a fascinating VR rhythm game which has variety of methods to be with fantastic music. When targets are coming to you, you can slash them out and you will feel fantastic VR experence. You can feel like dancing while slashing targets listening to music!!",
             "supported_languages": "English",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1019500/header.jpg?t=1550657470",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1019500/header.jpg?t=1551795884",
             "website": null,
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7/8.1/10 (64bit)<br></li><li><strong>Processor:</strong> Intel Core i5 Sandy Bridge or equivalent<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GTX 970 or equivalent<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 800 MB available space</li></ul>",
@@ -26,7 +26,40 @@
             "publishers": [
                 "Studio PaloAlto"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 1499,
+                "final": 899,
+                "discount_percent": 40,
+                "initial_formatted": "14,99€",
+                "final_formatted": "8,99€"
+            },
+            "packages": [
+                338061
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Super Beam",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 338061,
+                            "percent_savings_text": "-40%",
+                            "percent_savings": 0,
+                            "option_text": "Super Beam - <span class=\"discount_original_price\">14,99€</span> 8,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 899
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": false,
@@ -51,51 +84,54 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1019500/ss_8ba4b3480fb2b4d0fbe90253e3d0e2e19d6ad829.600x338.jpg?t=1550657470",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1019500/ss_8ba4b3480fb2b4d0fbe90253e3d0e2e19d6ad829.1920x1080.jpg?t=1550657470"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1019500/ss_8ba4b3480fb2b4d0fbe90253e3d0e2e19d6ad829.600x338.jpg?t=1551795884",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1019500/ss_8ba4b3480fb2b4d0fbe90253e3d0e2e19d6ad829.1920x1080.jpg?t=1551795884"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1019500/ss_882b2245d17ab5ac260ec43750d6657bad408fb0.600x338.jpg?t=1550657470",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1019500/ss_882b2245d17ab5ac260ec43750d6657bad408fb0.1920x1080.jpg?t=1550657470"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1019500/ss_882b2245d17ab5ac260ec43750d6657bad408fb0.600x338.jpg?t=1551795884",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1019500/ss_882b2245d17ab5ac260ec43750d6657bad408fb0.1920x1080.jpg?t=1551795884"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1019500/ss_cc246c90b583b58abe0ba20e2bbc8e3938091141.600x338.jpg?t=1550657470",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1019500/ss_cc246c90b583b58abe0ba20e2bbc8e3938091141.1920x1080.jpg?t=1550657470"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1019500/ss_cc246c90b583b58abe0ba20e2bbc8e3938091141.600x338.jpg?t=1551795884",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1019500/ss_cc246c90b583b58abe0ba20e2bbc8e3938091141.1920x1080.jpg?t=1551795884"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1019500/ss_83e070b6ad3fa79870eba41b9eb926a7f609931e.600x338.jpg?t=1550657470",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1019500/ss_83e070b6ad3fa79870eba41b9eb926a7f609931e.1920x1080.jpg?t=1550657470"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1019500/ss_83e070b6ad3fa79870eba41b9eb926a7f609931e.600x338.jpg?t=1551795884",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1019500/ss_83e070b6ad3fa79870eba41b9eb926a7f609931e.1920x1080.jpg?t=1551795884"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1019500/ss_ab8c117580d903c65e863d54dda6ae3b05ea890b.600x338.jpg?t=1550657470",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1019500/ss_ab8c117580d903c65e863d54dda6ae3b05ea890b.1920x1080.jpg?t=1550657470"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1019500/ss_ab8c117580d903c65e863d54dda6ae3b05ea890b.600x338.jpg?t=1551795884",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1019500/ss_ab8c117580d903c65e863d54dda6ae3b05ea890b.1920x1080.jpg?t=1551795884"
                 }
             ],
             "movies": [
                 {
-                    "id": 256741179,
-                    "name": "trailertest",
-                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256741179/movie.jpg?t=1550493099",
+                    "id": 256744594,
+                    "name": "SUPERBEAM1",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256744594/movie.293x165.jpg?t=1551795880",
                     "webm": {
-                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256741179/movie480.webm?t=1550493099",
-                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256741179/movie_max.webm?t=1550493099"
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256744594/movie480.webm?t=1551795880",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256744594/movie_max.webm?t=1551795880"
                     },
                     "highlight": true
                 }
             ],
+            "achievements": {
+                "total": 0
+            },
             "release_date": {
-                "coming_soon": true,
-                "date": "Feb 2019"
+                "coming_soon": false,
+                "date": "4 Mar, 2019"
             },
             "support_info": {
                 "url": "",
                 "email": "studiopaloalto@gmail.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1019500/page_bg_generated_v6b.jpg?t=1550657470",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1019500/page_bg_generated_v6b.jpg?t=1551795884",
             "content_descriptors": {
                 "ids": [],
                 "notes": null

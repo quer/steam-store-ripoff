@@ -3,7 +3,7 @@
         "success": true,
         "data": {
             "type": "dlc",
-            "name": "Car Mechanic Simulator 2018 - Maserati Remastered DLC",
+            "name": "Car Mechanic Simulator 2018 - Maserati REMASTERED DLC",
             "steam_appid": 1019540,
             "required_age": 0,
             "is_free": false,
@@ -15,7 +15,7 @@
                 "name": "Car Mechanic Simulator 2018"
             },
             "supported_languages": "English, French, Italian, German, Spanish - Spain, Czech, Hungarian, Japanese, Polish, Russian, Simplified Chinese, Turkish, Portuguese, Greek, Portuguese - Brazil, Finnish, Korean",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1019540/header.jpg?t=1551282228",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1019540/header.jpg?t=1551800665",
             "website": null,
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Requires a 64-bit processor and operating system<br></li><li><strong>Processor:</strong> Windows(64-bit) 7 or Newer<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVidia GeForce GTX 660 2GB VRAM<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 20 GB available space</li></ul>"
@@ -30,7 +30,40 @@
             "publishers": [
                 "PlayWay S.A."
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 399,
+                "final": 339,
+                "discount_percent": 15,
+                "initial_formatted": "3,99€",
+                "final_formatted": "3,39€"
+            },
+            "packages": [
+                338092
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Car Mechanic Simulator 2018 - Maserati REMASTERED DLC",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 338092,
+                            "percent_savings_text": "-15%",
+                            "percent_savings": 0,
+                            "option_text": "Car Mechanic Simulator 2018 - Maserati Remastered DLC - <span class=\"discount_original_price\">3,99€</span> 3,39€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 339
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": true,
@@ -91,48 +124,48 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1019540/ss_5829c38c525322238cac546ea8a3c60172322243.600x338.jpg?t=1551282228",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1019540/ss_5829c38c525322238cac546ea8a3c60172322243.1920x1080.jpg?t=1551282228"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1019540/ss_5829c38c525322238cac546ea8a3c60172322243.600x338.jpg?t=1551800665",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1019540/ss_5829c38c525322238cac546ea8a3c60172322243.1920x1080.jpg?t=1551800665"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1019540/ss_3bb0878cc8f01f3c94b570ff12565c71ceccfe9c.600x338.jpg?t=1551282228",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1019540/ss_3bb0878cc8f01f3c94b570ff12565c71ceccfe9c.1920x1080.jpg?t=1551282228"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1019540/ss_3bb0878cc8f01f3c94b570ff12565c71ceccfe9c.600x338.jpg?t=1551800665",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1019540/ss_3bb0878cc8f01f3c94b570ff12565c71ceccfe9c.1920x1080.jpg?t=1551800665"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1019540/ss_2cae5dbefb6cad01a6ed8524c79fd45ebba6a936.600x338.jpg?t=1551282228",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1019540/ss_2cae5dbefb6cad01a6ed8524c79fd45ebba6a936.1920x1080.jpg?t=1551282228"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1019540/ss_2cae5dbefb6cad01a6ed8524c79fd45ebba6a936.600x338.jpg?t=1551800665",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1019540/ss_2cae5dbefb6cad01a6ed8524c79fd45ebba6a936.1920x1080.jpg?t=1551800665"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1019540/ss_6d9bce846b18eaed099fc0f77aa77aee6c629fe1.600x338.jpg?t=1551282228",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1019540/ss_6d9bce846b18eaed099fc0f77aa77aee6c629fe1.1920x1080.jpg?t=1551282228"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1019540/ss_6d9bce846b18eaed099fc0f77aa77aee6c629fe1.600x338.jpg?t=1551800665",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1019540/ss_6d9bce846b18eaed099fc0f77aa77aee6c629fe1.1920x1080.jpg?t=1551800665"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1019540/ss_0fb3f3f2e1f46000d439175a5dc2b6d401f9bf3b.600x338.jpg?t=1551282228",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1019540/ss_0fb3f3f2e1f46000d439175a5dc2b6d401f9bf3b.1920x1080.jpg?t=1551282228"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1019540/ss_0fb3f3f2e1f46000d439175a5dc2b6d401f9bf3b.600x338.jpg?t=1551800665",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1019540/ss_0fb3f3f2e1f46000d439175a5dc2b6d401f9bf3b.1920x1080.jpg?t=1551800665"
                 },
                 {
                     "id": 5,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1019540/ss_24b002d36f44a0b954e3681ca813fde523cd3705.600x338.jpg?t=1551282228",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1019540/ss_24b002d36f44a0b954e3681ca813fde523cd3705.1920x1080.jpg?t=1551282228"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1019540/ss_24b002d36f44a0b954e3681ca813fde523cd3705.600x338.jpg?t=1551800665",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1019540/ss_24b002d36f44a0b954e3681ca813fde523cd3705.1920x1080.jpg?t=1551800665"
                 },
                 {
                     "id": 6,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1019540/ss_28d20aa2df79c33153070e0039e6600e8cf5f55a.600x338.jpg?t=1551282228",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1019540/ss_28d20aa2df79c33153070e0039e6600e8cf5f55a.1920x1080.jpg?t=1551282228"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1019540/ss_28d20aa2df79c33153070e0039e6600e8cf5f55a.600x338.jpg?t=1551800665",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1019540/ss_28d20aa2df79c33153070e0039e6600e8cf5f55a.1920x1080.jpg?t=1551800665"
                 },
                 {
                     "id": 7,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1019540/ss_6e74e4d1f7baa91ab913084eabe4f2c792202fc3.600x338.jpg?t=1551282228",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1019540/ss_6e74e4d1f7baa91ab913084eabe4f2c792202fc3.1920x1080.jpg?t=1551282228"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1019540/ss_6e74e4d1f7baa91ab913084eabe4f2c792202fc3.600x338.jpg?t=1551800665",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1019540/ss_6e74e4d1f7baa91ab913084eabe4f2c792202fc3.1920x1080.jpg?t=1551800665"
                 },
                 {
                     "id": 8,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1019540/ss_1f387d3949d3e18922fb4603e925d36c40066235.600x338.jpg?t=1551282228",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1019540/ss_1f387d3949d3e18922fb4603e925d36c40066235.1920x1080.jpg?t=1551282228"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1019540/ss_1f387d3949d3e18922fb4603e925d36c40066235.600x338.jpg?t=1551800665",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1019540/ss_1f387d3949d3e18922fb4603e925d36c40066235.1920x1080.jpg?t=1551800665"
                 }
             ],
             "movies": [
@@ -147,15 +180,18 @@
                     "highlight": true
                 }
             ],
+            "achievements": {
+                "total": 0
+            },
             "release_date": {
-                "coming_soon": true,
+                "coming_soon": false,
                 "date": "1 Mar, 2019"
             },
             "support_info": {
                 "url": "",
                 "email": "help@reddotgames.pl"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1019540/page_bg_generated_v6b.jpg?t=1551282228",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1019540/page_bg_generated_v6b.jpg?t=1551800665",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
