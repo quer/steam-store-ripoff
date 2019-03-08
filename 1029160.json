@@ -11,7 +11,7 @@
             "about_the_game": "Your beautiful planet has been invaded by alien invaders. Use the mighty power of the ancients and repel the attack of enemy creatures!<br />\r\n<br />\r\nThe goal of the game is to protect the teleport to prevent the invasion of the planet’s core. With the help of various towers you will be able to defeat the invaders and delay their attack. Good luck!!",
             "short_description": "Sunset Planet is tower defence game. Your beautiful planet has been invaded by alien invaders. Use the mighty power of the ancients and repel the attack of enemy creatures!",
             "supported_languages": "English, Russian",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1029160/header.jpg?t=1551194734",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1029160/header.jpg?t=1551464569",
             "website": null,
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 7 / Windows 8 / Windows 10<br></li><li><strong>Processor:</strong> Intel Core i3 or AMD FX4300<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> GTX 560 or R7 260<br></li><li><strong>Storage:</strong> 2200 MB available space</li></ul>",
@@ -31,7 +31,40 @@
             "publishers": [
                 "So Dank Studio"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 99,
+                "final": 89,
+                "discount_percent": 10,
+                "initial_formatted": "0,99€",
+                "final_formatted": "0,89€"
+            },
+            "packages": [
+                342189
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Sunset Planet",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 342189,
+                            "percent_savings_text": "-10%",
+                            "percent_savings": 0,
+                            "option_text": "Sunset Planet - <span class=\"discount_original_price\">0,99€</span> 0,89€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 89
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": false,
@@ -64,43 +97,43 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029160/ss_6958b1a3bb9b1ff33bc4279346fb99081369b701.600x338.jpg?t=1551194734",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029160/ss_6958b1a3bb9b1ff33bc4279346fb99081369b701.1920x1080.jpg?t=1551194734"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029160/ss_6958b1a3bb9b1ff33bc4279346fb99081369b701.600x338.jpg?t=1551464569",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029160/ss_6958b1a3bb9b1ff33bc4279346fb99081369b701.1920x1080.jpg?t=1551464569"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029160/ss_a6a699167952a66d473f69ca375d1b11d33d51f0.600x338.jpg?t=1551194734",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029160/ss_a6a699167952a66d473f69ca375d1b11d33d51f0.1920x1080.jpg?t=1551194734"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029160/ss_a6a699167952a66d473f69ca375d1b11d33d51f0.600x338.jpg?t=1551464569",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029160/ss_a6a699167952a66d473f69ca375d1b11d33d51f0.1920x1080.jpg?t=1551464569"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029160/ss_d2d12f79e6849864d8e6cee5e2cc3165ea227b9e.600x338.jpg?t=1551194734",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029160/ss_d2d12f79e6849864d8e6cee5e2cc3165ea227b9e.1920x1080.jpg?t=1551194734"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029160/ss_d2d12f79e6849864d8e6cee5e2cc3165ea227b9e.600x338.jpg?t=1551464569",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029160/ss_d2d12f79e6849864d8e6cee5e2cc3165ea227b9e.1920x1080.jpg?t=1551464569"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029160/ss_463c96826dac8b7bfa4c75f20d4da20b2ef692b7.600x338.jpg?t=1551194734",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029160/ss_463c96826dac8b7bfa4c75f20d4da20b2ef692b7.1920x1080.jpg?t=1551194734"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029160/ss_463c96826dac8b7bfa4c75f20d4da20b2ef692b7.600x338.jpg?t=1551464569",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029160/ss_463c96826dac8b7bfa4c75f20d4da20b2ef692b7.1920x1080.jpg?t=1551464569"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029160/ss_8a686b86e46afdea267f4d74690c98f1445a4c28.600x338.jpg?t=1551194734",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029160/ss_8a686b86e46afdea267f4d74690c98f1445a4c28.1920x1080.jpg?t=1551194734"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029160/ss_8a686b86e46afdea267f4d74690c98f1445a4c28.600x338.jpg?t=1551464569",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029160/ss_8a686b86e46afdea267f4d74690c98f1445a4c28.1920x1080.jpg?t=1551464569"
                 },
                 {
                     "id": 5,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029160/ss_6ddb02608f99777a61e89943740c2d3b4a31f87f.600x338.jpg?t=1551194734",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029160/ss_6ddb02608f99777a61e89943740c2d3b4a31f87f.1920x1080.jpg?t=1551194734"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029160/ss_6ddb02608f99777a61e89943740c2d3b4a31f87f.600x338.jpg?t=1551464569",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029160/ss_6ddb02608f99777a61e89943740c2d3b4a31f87f.1920x1080.jpg?t=1551464569"
                 },
                 {
                     "id": 6,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029160/ss_c972a0e0d2258a8fc5cc5e4044e0b5e18bb1e6ae.600x338.jpg?t=1551194734",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029160/ss_c972a0e0d2258a8fc5cc5e4044e0b5e18bb1e6ae.1920x1080.jpg?t=1551194734"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029160/ss_c972a0e0d2258a8fc5cc5e4044e0b5e18bb1e6ae.600x338.jpg?t=1551464569",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029160/ss_c972a0e0d2258a8fc5cc5e4044e0b5e18bb1e6ae.1920x1080.jpg?t=1551464569"
                 },
                 {
                     "id": 7,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029160/ss_ad4f82e9096b1c255e260498017f05a4beab5c0d.600x338.jpg?t=1551194734",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029160/ss_ad4f82e9096b1c255e260498017f05a4beab5c0d.1920x1080.jpg?t=1551194734"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029160/ss_ad4f82e9096b1c255e260498017f05a4beab5c0d.600x338.jpg?t=1551464569",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029160/ss_ad4f82e9096b1c255e260498017f05a4beab5c0d.1920x1080.jpg?t=1551464569"
                 }
             ],
             "movies": [
@@ -115,15 +148,44 @@
                     "highlight": true
                 }
             ],
+            "achievements": {
+                "total": 6,
+                "highlighted": [
+                    {
+                        "name": "Bad news",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1029160/909b4f42811669973d4705edd0af01c37bd58055.jpg"
+                    },
+                    {
+                        "name": "Win 1 level",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1029160/8fe9d0f2acf02cc581f6180e130d8b7dc401c355.jpg"
+                    },
+                    {
+                        "name": "Win 2 level",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1029160/1237e93629f622eeb85c3a98a9a029b3c91256b8.jpg"
+                    },
+                    {
+                        "name": "Last hope",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1029160/b7333ff59ee16881b3f564bc7752c322c0e5963a.jpg"
+                    },
+                    {
+                        "name": "Loss",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1029160/6a7ea0a7b6c871122599065a980a5dbc081c7a3f.jpg"
+                    },
+                    {
+                        "name": "New power",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1029160/bf098faef42eb38e7b0391bb959732fe168563a4.jpg"
+                    }
+                ]
+            },
             "release_date": {
-                "coming_soon": true,
+                "coming_soon": false,
                 "date": "1 Mar, 2019"
             },
             "support_info": {
                 "url": "",
                 "email": "sodankstudio@gmail.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1029160/page_bg_generated_v6b.jpg?t=1551194734",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1029160/page_bg_generated_v6b.jpg?t=1551464569",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
