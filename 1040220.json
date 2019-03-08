@@ -7,18 +7,20 @@
             "steam_appid": 1040220,
             "required_age": 0,
             "is_free": true,
+            "controller_support": "full",
             "detailed_description": "",
             "about_the_game": "",
-            "short_description": "",
+            "short_description": "The Wild Age is a micromanagement strategy game with tower defense gameplay mechanics. The game is designed mainly for a peaceful and relaxed gaming experience that offers a break from the busy realities of life.",
             "fullgame": {
                 "appid": "732160",
                 "name": "The Wild Age"
             },
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1040220/header.jpg?t=1551467358",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1040220/header.jpg?t=1551479132",
             "website": null,
             "pc_requirements": [],
             "mac_requirements": [],
             "linux_requirements": [],
+            "legal_notice": "©McMagic Productions 2019 All rights reserved.",
             "developers": [
                 "McMagic Productions"
             ],
@@ -33,19 +35,147 @@
             },
             "categories": [
                 {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
                     "id": 10,
                     "description": "Game demo"
+                },
+                {
+                    "id": 28,
+                    "description": "Full controller support"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "4",
+                    "description": "Casual"
+                },
+                {
+                    "id": "23",
+                    "description": "Indie"
+                },
+                {
+                    "id": "28",
+                    "description": "Simulation"
+                },
+                {
+                    "id": "2",
+                    "description": "Strategy"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1040220/ss_e66ba6dea45c72ce03749a37bc1b2dd7fd917fdf.600x338.jpg?t=1551479132",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1040220/ss_e66ba6dea45c72ce03749a37bc1b2dd7fd917fdf.1920x1080.jpg?t=1551479132"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1040220/ss_f89740afe070885ec4ec63b0191f494d3cd0f4e7.600x338.jpg?t=1551479132",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1040220/ss_f89740afe070885ec4ec63b0191f494d3cd0f4e7.1920x1080.jpg?t=1551479132"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1040220/ss_8743664de61cbc7b413f8e387a10d9dc2fbce05b.600x338.jpg?t=1551479132",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1040220/ss_8743664de61cbc7b413f8e387a10d9dc2fbce05b.1920x1080.jpg?t=1551479132"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1040220/ss_8566979b5e4c7a1dfbaa896f33257f5a8ea0a0fa.600x338.jpg?t=1551479132",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1040220/ss_8566979b5e4c7a1dfbaa896f33257f5a8ea0a0fa.1920x1080.jpg?t=1551479132"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1040220/ss_3145fcf472152f36634f460e93beee4098539482.600x338.jpg?t=1551479132",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1040220/ss_3145fcf472152f36634f460e93beee4098539482.1920x1080.jpg?t=1551479132"
+                },
+                {
+                    "id": 5,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1040220/ss_f02eecc7b0eb5a70efd3fb28fa5a50ff2c666b4b.600x338.jpg?t=1551479132",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1040220/ss_f02eecc7b0eb5a70efd3fb28fa5a50ff2c666b4b.1920x1080.jpg?t=1551479132"
+                },
+                {
+                    "id": 6,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1040220/ss_129a92fdb6da1819be4b286de3712383b9bf0e79.600x338.jpg?t=1551479132",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1040220/ss_129a92fdb6da1819be4b286de3712383b9bf0e79.1920x1080.jpg?t=1551479132"
+                },
+                {
+                    "id": 7,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1040220/ss_1ffa8583add536ba9c4f956efab2d6efea7eaf16.600x338.jpg?t=1551479132",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1040220/ss_1ffa8583add536ba9c4f956efab2d6efea7eaf16.1920x1080.jpg?t=1551479132"
+                },
+                {
+                    "id": 8,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1040220/ss_d25a70d31afa723f243c94afeffd82524cc60664.600x338.jpg?t=1551479132",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1040220/ss_d25a70d31afa723f243c94afeffd82524cc60664.1920x1080.jpg?t=1551479132"
+                },
+                {
+                    "id": 9,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1040220/ss_f90b6e28e60aa1af8e1ad03c4521de70bd727a27.600x338.jpg?t=1551479132",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1040220/ss_f90b6e28e60aa1af8e1ad03c4521de70bd727a27.1920x1080.jpg?t=1551479132"
+                },
+                {
+                    "id": 10,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1040220/ss_601941db7d2c2b4313a372fafdca854ad378e445.600x338.jpg?t=1551479132",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1040220/ss_601941db7d2c2b4313a372fafdca854ad378e445.1920x1080.jpg?t=1551479132"
+                },
+                {
+                    "id": 11,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1040220/ss_5a3ab2c520def954d961116c17169654f1782b9b.600x338.jpg?t=1551479132",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1040220/ss_5a3ab2c520def954d961116c17169654f1782b9b.1920x1080.jpg?t=1551479132"
+                },
+                {
+                    "id": 12,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1040220/ss_83fd0d676f78c22b3719a63b46f39677450df8cf.600x338.jpg?t=1551479132",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1040220/ss_83fd0d676f78c22b3719a63b46f39677450df8cf.1920x1080.jpg?t=1551479132"
+                },
+                {
+                    "id": 13,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1040220/ss_fd8e8068a7c07195f52e82e56f2647c2672b8f6f.600x338.jpg?t=1551479132",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1040220/ss_fd8e8068a7c07195f52e82e56f2647c2672b8f6f.1920x1080.jpg?t=1551479132"
+                },
+                {
+                    "id": 14,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1040220/ss_da7ac1ad0e23754ceb4ca0e51f8818adba4462a5.600x338.jpg?t=1551479132",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1040220/ss_da7ac1ad0e23754ceb4ca0e51f8818adba4462a5.1920x1080.jpg?t=1551479132"
+                },
+                {
+                    "id": 15,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1040220/ss_c4ae3c1672f0e53f36ecdd5ea2acf5ae6171a437.600x338.jpg?t=1551479132",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1040220/ss_c4ae3c1672f0e53f36ecdd5ea2acf5ae6171a437.1920x1080.jpg?t=1551479132"
+                },
+                {
+                    "id": 16,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1040220/ss_57dd0919a5fd5cd9c49b56490f52a61c98b09bfb.600x338.jpg?t=1551479132",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1040220/ss_57dd0919a5fd5cd9c49b56490f52a61c98b09bfb.1920x1080.jpg?t=1551479132"
+                },
+                {
+                    "id": 17,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1040220/ss_b48a7d15f7faa779971d3d75ad179fe0903185e4.600x338.jpg?t=1551479132",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1040220/ss_b48a7d15f7faa779971d3d75ad179fe0903185e4.1920x1080.jpg?t=1551479132"
+                },
+                {
+                    "id": 18,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1040220/ss_60cd492001f5b4cbb9945f421be28ac560c3a74a.600x338.jpg?t=1551479132",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1040220/ss_60cd492001f5b4cbb9945f421be28ac560c3a74a.1920x1080.jpg?t=1551479132"
+                },
+                {
+                    "id": 19,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1040220/ss_c99800fe620fe6d06e97120184451a1d0b28b0ae.600x338.jpg?t=1551479132",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1040220/ss_c99800fe620fe6d06e97120184451a1d0b28b0ae.1920x1080.jpg?t=1551479132"
                 }
             ],
             "release_date": {
-                "coming_soon": true,
-                "date": "7 Mar, 2019"
+                "coming_soon": false,
+                "date": "1 Mar, 2019"
             },
             "support_info": {
                 "url": "http://www.mcmagic-productions.com/",
                 "email": "mcmagic.prod@gmail.com"
             },
-            "background": "",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1040220/page_bg_generated_v6b.jpg?t=1551479132",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
