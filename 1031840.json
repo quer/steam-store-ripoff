@@ -11,7 +11,7 @@
             "about_the_game": "A colorful game in the style of .io for children and adults. Start playing in the store, and end up in a mall in the entertainment room for teens with a lot of console video games.<br />\r\nEach hit in the target will bring you money for which you will buy new projectiles with a large income and at the same time you can pump the power of the throw to open new locations.<br />\r\n<br />\r\nAll the similarities with the characters and objects in the game are random and the authorship belongs exclusively to the authors of the game!<br />\r\nHave a nice game!",
             "short_description": "A colorful game in the style of .io for children and adults. Start playing in the store, and end up in a mall in the entertainment room for teens with a lot of console video games.",
             "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1031840/header.jpg?t=1550417144",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1031840/header.jpg?t=1551682759",
             "website": null,
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7/8/10 (32bit/64bit)<br></li><li><strong>Processor:</strong> Core 2 Duo or higher<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> DirectX11 Compatible GPU with 512 MB Video RAM<br></li><li><strong>Storage:</strong> 50 MB available space<br></li><li><strong>Sound Card:</strong> DirectX compatible sound card</li></ul>"
@@ -24,7 +24,40 @@
             "publishers": [
                 "stariy8419"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 79,
+                "final": 47,
+                "discount_percent": 41,
+                "initial_formatted": "0,79€",
+                "final_formatted": "0,47€"
+            },
+            "packages": [
+                343261
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Shop Battle",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 343261,
+                            "percent_savings_text": "-41%",
+                            "percent_savings": 0,
+                            "option_text": "ShopBattle - <span class=\"discount_original_price\">0,79€</span> 0,47€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 47
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": false,
@@ -49,33 +82,33 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031840/ss_3f2d143c2e9bb664866377ec733cf9d7ccaee3ba.600x338.jpg?t=1550417144",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031840/ss_3f2d143c2e9bb664866377ec733cf9d7ccaee3ba.1920x1080.jpg?t=1550417144"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031840/ss_3f2d143c2e9bb664866377ec733cf9d7ccaee3ba.600x338.jpg?t=1551682759",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031840/ss_3f2d143c2e9bb664866377ec733cf9d7ccaee3ba.1920x1080.jpg?t=1551682759"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031840/ss_adc5c9bda2642347157c363d6e11f9b113d2e3f3.600x338.jpg?t=1550417144",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031840/ss_adc5c9bda2642347157c363d6e11f9b113d2e3f3.1920x1080.jpg?t=1550417144"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031840/ss_adc5c9bda2642347157c363d6e11f9b113d2e3f3.600x338.jpg?t=1551682759",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031840/ss_adc5c9bda2642347157c363d6e11f9b113d2e3f3.1920x1080.jpg?t=1551682759"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031840/ss_cd0ef2b027f33e69ee1f1aebdeba21520cb8181e.600x338.jpg?t=1550417144",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031840/ss_cd0ef2b027f33e69ee1f1aebdeba21520cb8181e.1920x1080.jpg?t=1550417144"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031840/ss_cd0ef2b027f33e69ee1f1aebdeba21520cb8181e.600x338.jpg?t=1551682759",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031840/ss_cd0ef2b027f33e69ee1f1aebdeba21520cb8181e.1920x1080.jpg?t=1551682759"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031840/ss_371779cf90190fcaa9e82abd2625c6f60c4dae21.600x338.jpg?t=1550417144",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031840/ss_371779cf90190fcaa9e82abd2625c6f60c4dae21.1920x1080.jpg?t=1550417144"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031840/ss_371779cf90190fcaa9e82abd2625c6f60c4dae21.600x338.jpg?t=1551682759",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031840/ss_371779cf90190fcaa9e82abd2625c6f60c4dae21.1920x1080.jpg?t=1551682759"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031840/ss_5c4282d5b9f42535912e6148193e206b5981290d.600x338.jpg?t=1550417144",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031840/ss_5c4282d5b9f42535912e6148193e206b5981290d.1920x1080.jpg?t=1550417144"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031840/ss_5c4282d5b9f42535912e6148193e206b5981290d.600x338.jpg?t=1551682759",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031840/ss_5c4282d5b9f42535912e6148193e206b5981290d.1920x1080.jpg?t=1551682759"
                 },
                 {
                     "id": 5,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031840/ss_2ec759df9059f709e31252bbb89d0a5fc4b64c9a.600x338.jpg?t=1550417144",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031840/ss_2ec759df9059f709e31252bbb89d0a5fc4b64c9a.1920x1080.jpg?t=1550417144"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031840/ss_2ec759df9059f709e31252bbb89d0a5fc4b64c9a.600x338.jpg?t=1551682759",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031840/ss_2ec759df9059f709e31252bbb89d0a5fc4b64c9a.1920x1080.jpg?t=1551682759"
                 }
             ],
             "movies": [
@@ -90,15 +123,52 @@
                     "highlight": true
                 }
             ],
+            "achievements": {
+                "total": 8,
+                "highlighted": [
+                    {
+                        "name": "Congratulations!",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1031840/5960ad572b49604eaea8bda5dc1ed4a9972e3a3e.jpg"
+                    },
+                    {
+                        "name": "Congratulations!",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1031840/2c87dbb61a925c320cf9130135bfbb8391925cef.jpg"
+                    },
+                    {
+                        "name": "Congratulations!",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1031840/4e0541c9b7f2d03401bf330a9be2fddf9c2207b8.jpg"
+                    },
+                    {
+                        "name": "Congratulations!",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1031840/d884a60a9de32e4a35a18ce6bc676f89d2f0a4e0.jpg"
+                    },
+                    {
+                        "name": "Congratulations!",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1031840/0124ce2a2152307f15bd6e8ee6110efa51811578.jpg"
+                    },
+                    {
+                        "name": "Congratulations!",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1031840/59cf35600727591300cba1844acce9dfe7e278cd.jpg"
+                    },
+                    {
+                        "name": "Congratulations!",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1031840/cdeeacc4de9eef74065e982fcfefd8e18c1917f9.jpg"
+                    },
+                    {
+                        "name": "Congratulations!",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1031840/f8960fee2d5e613fde71c5c3d8f2c2def1d53439.jpg"
+                    }
+                ]
+            },
             "release_date": {
-                "coming_soon": true,
-                "date": "25 Feb, 2019"
+                "coming_soon": false,
+                "date": "3 Mar, 2019"
             },
             "support_info": {
                 "url": "",
                 "email": "vania.ivdsd@yandex.ru"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1031840/page_bg_generated_v6b.jpg?t=1550417144",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1031840/page_bg_generated_v6b.jpg?t=1551682759",
             "content_descriptors": {
                 "ids": [],
                 "notes": null

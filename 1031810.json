@@ -7,14 +7,14 @@
             "steam_appid": 1031810,
             "required_age": 0,
             "is_free": false,
-            "detailed_description": "КАНДИДАТ - This is a game where YOU are a presidential candidate, you have to defeat other candidates and get into the top 1 and become president.<br />\r\n<br />\r\nКАНДИДАТ - This is an easy clicker where you have to make money for yourself, and with the help of them to promote your rating.",
-            "about_the_game": "КАНДИДАТ - This is a game where YOU are a presidential candidate, you have to defeat other candidates and get into the top 1 and become president.<br />\r\n<br />\r\nКАНДИДАТ - This is an easy clicker where you have to make money for yourself, and with the help of them to promote your rating.",
+            "detailed_description": "<img src=\"https://%CDN_HOST_MEDIA_SSL%/steam/apps/1031810/extras/kandidat.gif?t=1551382241\" crossorigin=\"anonymous\"><br>КАНДИДАТ - This is a game where YOU are a presidential candidate, you have to defeat other candidates and get into the top 1 and become president.<br><br>In the game you expect Easter eggs and achievements<br>The game has a table of records, who will win?<br><br>КАНДИДАТ - This is an easy clicker where you have to make money for yourself, and with the help of them to promote your rating.<br><img src=\"https://%CDN_HOST_MEDIA_SSL%/steam/apps/1031810/extras/ezgif.com-crop-2.gif?t=1551382241\" crossorigin=\"anonymous\">",
+            "about_the_game": "<img src=\"https://%CDN_HOST_MEDIA_SSL%/steam/apps/1031810/extras/kandidat.gif?t=1551382241\" crossorigin=\"anonymous\"><br>КАНДИДАТ - This is a game where YOU are a presidential candidate, you have to defeat other candidates and get into the top 1 and become president.<br><br>In the game you expect Easter eggs and achievements<br>The game has a table of records, who will win?<br><br>КАНДИДАТ - This is an easy clicker where you have to make money for yourself, and with the help of them to promote your rating.<br><img src=\"https://%CDN_HOST_MEDIA_SSL%/steam/apps/1031810/extras/ezgif.com-crop-2.gif?t=1551382241\" crossorigin=\"anonymous\">",
             "short_description": "КАНДИДАТ - This is a game where YOU are a presidential candidate, you have to defeat other candidates and get into the top 1 and become president.",
-            "supported_languages": "Russian",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1031810/header.jpg?t=1551213003",
+            "supported_languages": "Russian, English",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1031810/header.jpg?t=1551382241",
             "website": null,
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP/Vista/7/8/10<br></li><li><strong>Processor:</strong> 2.5 GHz (Single Core) / 2 GHz (Dual Core)<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> Video card with 512 MB shared VRAM &amp; openGL 2.0 support<br></li><li><strong>Sound Card:</strong> Any</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP/Vista/7/8/10<br></li><li><strong>Processor:</strong> 2.5 GHz (Single Core) / 2 GHz (Dual Core)<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> Video card with 512 MB shared VRAM &amp; openGL 2.0 support<br></li><li><strong>Storage:</strong> 21 MB available space<br></li><li><strong>Sound Card:</strong> Any</li></ul>"
             },
             "mac_requirements": [],
             "linux_requirements": [],
@@ -24,7 +24,40 @@
             "publishers": [
                 "AmagSwag Games"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 79,
+                "final": 79,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "0,79€"
+            },
+            "packages": [
+                343251
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy КАНДИДАТ",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 343251,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "КАНДИДАТ - 0,79€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 79
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": false,
@@ -34,6 +67,10 @@
                 {
                     "id": 2,
                     "description": "Single-player"
+                },
+                {
+                    "id": 22,
+                    "description": "Steam Achievements"
                 }
             ],
             "genres": [
@@ -49,51 +86,63 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031810/ss_2aed27925315d441d47c706e3b27d28f61c7d14c.600x338.jpg?t=1551213003",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031810/ss_2aed27925315d441d47c706e3b27d28f61c7d14c.1920x1080.jpg?t=1551213003"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031810/ss_8e08b75cbd9d13b4195006e9d4e8ea55c1cd80bc.600x338.jpg?t=1551382241",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031810/ss_8e08b75cbd9d13b4195006e9d4e8ea55c1cd80bc.1920x1080.jpg?t=1551382241"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031810/ss_c5b9b8aec23748685504e1aab422fc8eab58d1ed.600x338.jpg?t=1551213003",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031810/ss_c5b9b8aec23748685504e1aab422fc8eab58d1ed.1920x1080.jpg?t=1551213003"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031810/ss_6c7648115c9b2e9ce5ca7b98610b7e987619ef17.600x338.jpg?t=1551382241",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031810/ss_6c7648115c9b2e9ce5ca7b98610b7e987619ef17.1920x1080.jpg?t=1551382241"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031810/ss_c725a43c6a03cdf41506ef688cdb414b84606f55.600x338.jpg?t=1551213003",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031810/ss_c725a43c6a03cdf41506ef688cdb414b84606f55.1920x1080.jpg?t=1551213003"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031810/ss_44cf8a825d869a2f1205e5ed034dd022b7e05657.600x338.jpg?t=1551382241",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031810/ss_44cf8a825d869a2f1205e5ed034dd022b7e05657.1920x1080.jpg?t=1551382241"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031810/ss_40990f3efc6ce5473187d58c07652b0bbf8b8f0f.600x338.jpg?t=1551213003",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031810/ss_40990f3efc6ce5473187d58c07652b0bbf8b8f0f.1920x1080.jpg?t=1551213003"
-                },
-                {
-                    "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031810/ss_da67d75b825cea32485f4c600779a80020c974f3.600x338.jpg?t=1551213003",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031810/ss_da67d75b825cea32485f4c600779a80020c974f3.1920x1080.jpg?t=1551213003"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031810/ss_768209e6040f79eff980ff9c7733b7c78612f819.600x338.jpg?t=1551382241",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031810/ss_768209e6040f79eff980ff9c7733b7c78612f819.1920x1080.jpg?t=1551382241"
                 }
             ],
             "movies": [
                 {
-                    "id": 256742693,
+                    "id": 256744210,
                     "name": "Trailer КАНДИДАТ",
-                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256742693/movie.293x165.jpg?t=1550092301",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256744210/movie.293x165.jpg?t=1551365121",
                     "webm": {
-                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256742693/movie480.webm?t=1550092301",
-                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256742693/movie_max.webm?t=1550092301"
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256744210/movie480.webm?t=1551365121",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256744210/movie_max.webm?t=1551365121"
                     },
                     "highlight": true
                 }
             ],
+            "achievements": {
+                "total": 3,
+                "highlighted": [
+                    {
+                        "name": "ПУСТИТЬ РЕКЛАМУ ПО ТВ",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1031810/2aa135204e271497e0614592fa0a4471ec6b8858.jpg"
+                    },
+                    {
+                        "name": "АРЕСТОВАТЬ ОППОНЕНТА",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1031810/22fa18e4113f4aa842ffc95ccdf50ba53f4796fb.jpg"
+                    },
+                    {
+                        "name": "ГОЛОСОВАНИЕ",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1031810/56aad569271b6139d1626451da62342425ce41aa.jpg"
+                    }
+                ]
+            },
             "release_date": {
-                "coming_soon": true,
-                "date": "27 Feb, 2019"
+                "coming_soon": false,
+                "date": "28 Feb, 2019"
             },
             "support_info": {
                 "url": "",
                 "email": "amagswaggames@gmail.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1031810/page_bg_generated_v6b.jpg?t=1551213003",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1031810/page_bg_generated_v6b.jpg?t=1551382241",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
