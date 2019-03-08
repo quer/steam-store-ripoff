@@ -16,7 +16,7 @@
                 "name": "Shantalia and Corali'hulu"
             },
             "supported_languages": "French",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1033200/header.jpg?t=1550230582",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1033200/header.jpg?t=1551436785",
             "website": "http://miagames.net/en/shantalia-and-coralihulu",
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 or later<br></li><li><strong>Processor:</strong> 1.2 Ghz<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> 1280x720<br></li><li><strong>Storage:</strong> 2 MB available space</li></ul>"
@@ -33,7 +33,40 @@
             "publishers": [
                 "Mia Blais-Côté"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 90,
+                "final": 72,
+                "discount_percent": 20,
+                "initial_formatted": "0,90€",
+                "final_formatted": "0,72€"
+            },
+            "packages": [
+                343741
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Shantalia and Corali'hulu (Ebook)",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 343741,
+                            "percent_savings_text": "-20%",
+                            "percent_savings": 0,
+                            "option_text": "Shantalia and Corali'hulu (Ebook) - <span class=\"discount_original_price\">0,90€</span> 0,72€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 72
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": true,
@@ -74,29 +107,32 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1033200/ss_89b77a8a6e233918be6c3e38c1c7000063349512.600x338.jpg?t=1550230582",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1033200/ss_89b77a8a6e233918be6c3e38c1c7000063349512.1920x1080.jpg?t=1550230582"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1033200/ss_89b77a8a6e233918be6c3e38c1c7000063349512.600x338.jpg?t=1551436785",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1033200/ss_89b77a8a6e233918be6c3e38c1c7000063349512.1920x1080.jpg?t=1551436785"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1033200/ss_6b310c01395fcdf40c6199c09c56ab2021d66d04.600x338.jpg?t=1550230582",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1033200/ss_6b310c01395fcdf40c6199c09c56ab2021d66d04.1920x1080.jpg?t=1550230582"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1033200/ss_6b310c01395fcdf40c6199c09c56ab2021d66d04.600x338.jpg?t=1551436785",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1033200/ss_6b310c01395fcdf40c6199c09c56ab2021d66d04.1920x1080.jpg?t=1551436785"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1033200/ss_97c4386e85b9d1fcb0ad363727d67e9c37255492.600x338.jpg?t=1550230582",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1033200/ss_97c4386e85b9d1fcb0ad363727d67e9c37255492.1920x1080.jpg?t=1550230582"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1033200/ss_97c4386e85b9d1fcb0ad363727d67e9c37255492.600x338.jpg?t=1551436785",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1033200/ss_97c4386e85b9d1fcb0ad363727d67e9c37255492.1920x1080.jpg?t=1551436785"
                 }
             ],
+            "achievements": {
+                "total": 0
+            },
             "release_date": {
-                "coming_soon": true,
+                "coming_soon": false,
                 "date": "1 Mar, 2019"
             },
             "support_info": {
                 "url": "https://www.facebook.com/miabcgames/",
                 "email": ""
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1033200/page_bg_generated_v6b.jpg?t=1550230582",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1033200/page_bg_generated_v6b.jpg?t=1551436785",
             "content_descriptors": {
                 "ids": [
                     1,
