@@ -12,7 +12,7 @@
             "about_the_game": "<i>Nano Driller</i> is a brisk, meditative action-puzzler that can be completed in 25-45 minutes. It's built primarily to be replayed, or to simply be enjoyed at any time of the day. It places the focus on unique, momentum-based controls to offer a puzzle game which remains fun to play well after the first playthrough. These puzzles and action sequences take place in a series of rooms and doors which ask the player not only to use their reflexes and puzzle-solving abilities, but also to stretch their navigational muscles here and there. Once you've completed the main game, you can continue to hunt down increasingly more difficult time attack achievements, or try an alternative ship type for a new challenge.",
             "short_description": "A brisk, soothing action-puzzle game. At a playtime of 25-45 minutes, this game offers a condensed, yet polished and complete experience, and can be enjoyed fresh or replayed at any time of the day.",
             "supported_languages": "English",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1033580/header.jpg?t=1550528778",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1033580/header.jpg?t=1551775192",
             "website": null,
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 64 bit<br></li><li><strong>Processor:</strong> 64bit Intel compatible Dual Core CPU<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> DX11 compliant graphics card<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 100 MB available space<br></li><li><strong>Sound Card:</strong> N/A</li></ul>",
@@ -26,7 +26,40 @@
             "publishers": [
                 "Will Bowerman"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 159,
+                "final": 119,
+                "discount_percent": 25,
+                "initial_formatted": "1,59€",
+                "final_formatted": "1,19€"
+            },
+            "packages": [
+                343939
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Nano Driller",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 343939,
+                            "percent_savings_text": "-25%",
+                            "percent_savings": 0,
+                            "option_text": "Nano Driller - <span class=\"discount_original_price\">1,59€</span> 1,19€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 119
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": false,
@@ -63,51 +96,96 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1033580/ss_6721eb158740e00e1c26b525ee3061a7693a380c.600x338.jpg?t=1550528778",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1033580/ss_6721eb158740e00e1c26b525ee3061a7693a380c.1920x1080.jpg?t=1550528778"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1033580/ss_6721eb158740e00e1c26b525ee3061a7693a380c.600x338.jpg?t=1551775192",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1033580/ss_6721eb158740e00e1c26b525ee3061a7693a380c.1920x1080.jpg?t=1551775192"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1033580/ss_c56e1af0f4d7f693eebe0b33ecbe82c093c4b3d9.600x338.jpg?t=1550528778",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1033580/ss_c56e1af0f4d7f693eebe0b33ecbe82c093c4b3d9.1920x1080.jpg?t=1550528778"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1033580/ss_c56e1af0f4d7f693eebe0b33ecbe82c093c4b3d9.600x338.jpg?t=1551775192",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1033580/ss_c56e1af0f4d7f693eebe0b33ecbe82c093c4b3d9.1920x1080.jpg?t=1551775192"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1033580/ss_b5742f5300e18506963e601c7e0157a0b67d87aa.600x338.jpg?t=1550528778",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1033580/ss_b5742f5300e18506963e601c7e0157a0b67d87aa.1920x1080.jpg?t=1550528778"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1033580/ss_b5742f5300e18506963e601c7e0157a0b67d87aa.600x338.jpg?t=1551775192",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1033580/ss_b5742f5300e18506963e601c7e0157a0b67d87aa.1920x1080.jpg?t=1551775192"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1033580/ss_97281bd77287e944bd0a8466ec6b2fd86776b26f.600x338.jpg?t=1550528778",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1033580/ss_97281bd77287e944bd0a8466ec6b2fd86776b26f.1920x1080.jpg?t=1550528778"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1033580/ss_97281bd77287e944bd0a8466ec6b2fd86776b26f.600x338.jpg?t=1551775192",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1033580/ss_97281bd77287e944bd0a8466ec6b2fd86776b26f.1920x1080.jpg?t=1551775192"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1033580/ss_f8ef4746937006453252ca4b7c97acc291843338.600x338.jpg?t=1550528778",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1033580/ss_f8ef4746937006453252ca4b7c97acc291843338.1920x1080.jpg?t=1550528778"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1033580/ss_f8ef4746937006453252ca4b7c97acc291843338.600x338.jpg?t=1551775192",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1033580/ss_f8ef4746937006453252ca4b7c97acc291843338.1920x1080.jpg?t=1551775192"
                 }
             ],
             "movies": [
                 {
                     "id": 256743070,
                     "name": "Nano Driller Trailer",
-                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256743070/movie.293x165.jpg?t=1550528774",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256743070/movie.293x165.jpg?t=1551774260",
                     "webm": {
-                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256743070/movie480.webm?t=1550528774",
-                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256743070/movie_max.webm?t=1550528774"
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256743070/movie480.webm?t=1551774260",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256743070/movie_max.webm?t=1551774260"
                     },
                     "highlight": true
                 }
             ],
+            "achievements": {
+                "total": 11,
+                "highlighted": [
+                    {
+                        "name": "Speedwalker",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1033580/4998e76646928098552c344f7a64f24f4900fd8f.jpg"
+                    },
+                    {
+                        "name": "Speedjogger",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1033580/4998e76646928098552c344f7a64f24f4900fd8f.jpg"
+                    },
+                    {
+                        "name": "Speedrunner",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1033580/4998e76646928098552c344f7a64f24f4900fd8f.jpg"
+                    },
+                    {
+                        "name": "Speedsprinter",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1033580/4998e76646928098552c344f7a64f24f4900fd8f.jpg"
+                    },
+                    {
+                        "name": "Unstoppable",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1033580/4998e76646928098552c344f7a64f24f4900fd8f.jpg"
+                    },
+                    {
+                        "name": "Liftoff",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1033580/4998e76646928098552c344f7a64f24f4900fd8f.jpg"
+                    },
+                    {
+                        "name": "Rocket Scientist",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1033580/4998e76646928098552c344f7a64f24f4900fd8f.jpg"
+                    },
+                    {
+                        "name": "Just for Reference",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1033580/4998e76646928098552c344f7a64f24f4900fd8f.jpg"
+                    },
+                    {
+                        "name": "Outrunner",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1033580/4998e76646928098552c344f7a64f24f4900fd8f.jpg"
+                    },
+                    {
+                        "name": "Heavyweight",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1033580/4998e76646928098552c344f7a64f24f4900fd8f.jpg"
+                    }
+                ]
+            },
             "release_date": {
-                "coming_soon": true,
+                "coming_soon": false,
                 "date": "5 Mar, 2019"
             },
             "support_info": {
                 "url": "",
                 "email": "ultigonio@gmail.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1033580/page_bg_generated_v6b.jpg?t=1550528778",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1033580/page_bg_generated_v6b.jpg?t=1551775192",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
