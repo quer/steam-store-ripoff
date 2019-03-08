@@ -12,10 +12,10 @@
             "about_the_game": "Hop into a classic Game Boy inspired metroidvania adventure with the little treasure hunter Timmy! Explore a huge and open dungeon, collect hidden power-ups and gain new skills to aid you on your quest! Can you survive the Tiny Dangerous Dungeons and find the presumably huge treasure?<br />\r\n<br />\r\nBased on the hit browser game, this extended edition contains adjustments and new content not seen in the original game, like a wider resolution, Time Trial mode, controller support, more hidden upgrades to find, and completely new area to explore!<br />\r\n<br />\r\nGAME FEATURES:<br />\r\n- Game Boy inspired, stylish and retro monochrome art style!<br />\r\n- Explore a huge, open dungeon! Solve puzzles, defeat creepy creatures!<br />\r\n- Collect loot! Find the hidden ability upgrades to open new passages!<br />\r\n- Speedrun the Time Trial mode and prove your dungeon mastery!",
             "short_description": "Hop into a classic Game Boy inspired metroidvania adventure! Explore a huge and open dungeon, collect hidden power-ups and gain new skills to aid you on your quest! Can you survive the Tiny Dangerous Dungeons and find the presumably huge treasure?",
             "supported_languages": "English",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1013650/header.jpg?t=1548560339",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1013650/header.jpg?t=1551455955",
             "website": "http://simpanen.carbonmade.com/",
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 or later<br></li><li><strong>Processor:</strong> 1 Ghz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Storage:</strong> 40 MB available space</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 64-bit Windows 7 or later<br></li><li><strong>Processor:</strong> 1 Ghz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Storage:</strong> 40 MB available space</li></ul>"
             },
             "mac_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OSX 10.9.5 - 10.11.6<br></li><li><strong>Processor:</strong> 2.0 Ghz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Storage:</strong> 40 MB available space</li></ul>"
@@ -27,7 +27,40 @@
             "publishers": [
                 "Adventure Islands"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 399,
+                "final": 359,
+                "discount_percent": 10,
+                "initial_formatted": "3,99€",
+                "final_formatted": "3,59€"
+            },
+            "packages": [
+                335848
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Tiny Dangerous Dungeons",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 335848,
+                            "percent_savings_text": "-10%",
+                            "percent_savings": 0,
+                            "option_text": "Tiny Dangerous Dungeons - <span class=\"discount_original_price\">3,99€</span> 3,59€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 359
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": true,
@@ -72,51 +105,96 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1013650/ss_115cf7cd94823f8edf989856f84964247b5ec871.600x338.jpg?t=1548560339",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1013650/ss_115cf7cd94823f8edf989856f84964247b5ec871.1920x1080.jpg?t=1548560339"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1013650/ss_115cf7cd94823f8edf989856f84964247b5ec871.600x338.jpg?t=1551455955",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1013650/ss_115cf7cd94823f8edf989856f84964247b5ec871.1920x1080.jpg?t=1551455955"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1013650/ss_6e10a1efa44ab8e4c662d954fb8e23259cdb3012.600x338.jpg?t=1548560339",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1013650/ss_6e10a1efa44ab8e4c662d954fb8e23259cdb3012.1920x1080.jpg?t=1548560339"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1013650/ss_6e10a1efa44ab8e4c662d954fb8e23259cdb3012.600x338.jpg?t=1551455955",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1013650/ss_6e10a1efa44ab8e4c662d954fb8e23259cdb3012.1920x1080.jpg?t=1551455955"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1013650/ss_06c1d3588b2a3ffe129a0060fa03780c300820ec.600x338.jpg?t=1548560339",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1013650/ss_06c1d3588b2a3ffe129a0060fa03780c300820ec.1920x1080.jpg?t=1548560339"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1013650/ss_06c1d3588b2a3ffe129a0060fa03780c300820ec.600x338.jpg?t=1551455955",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1013650/ss_06c1d3588b2a3ffe129a0060fa03780c300820ec.1920x1080.jpg?t=1551455955"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1013650/ss_edd83913a190595e860315ebcda954731e4761f3.600x338.jpg?t=1548560339",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1013650/ss_edd83913a190595e860315ebcda954731e4761f3.1920x1080.jpg?t=1548560339"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1013650/ss_edd83913a190595e860315ebcda954731e4761f3.600x338.jpg?t=1551455955",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1013650/ss_edd83913a190595e860315ebcda954731e4761f3.1920x1080.jpg?t=1551455955"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1013650/ss_ec4f59192755e4eec18ee7d576962050f4971a57.600x338.jpg?t=1548560339",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1013650/ss_ec4f59192755e4eec18ee7d576962050f4971a57.1920x1080.jpg?t=1548560339"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1013650/ss_ec4f59192755e4eec18ee7d576962050f4971a57.600x338.jpg?t=1551455955",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1013650/ss_ec4f59192755e4eec18ee7d576962050f4971a57.1920x1080.jpg?t=1551455955"
                 }
             ],
             "movies": [
                 {
                     "id": 256741351,
-                    "name": "Tiny DD Coming Soon Trailer",
-                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256741351/movie.293x165.jpg?t=1548499661",
+                    "name": "Tiny DD Release Trailer",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256741351/movie.293x165.jpg?t=1551455951",
                     "webm": {
-                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256741351/movie480.webm?t=1548499661",
-                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256741351/movie_max.webm?t=1548499661"
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256741351/movie480.webm?t=1551455951",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256741351/movie_max.webm?t=1551455951"
                     },
                     "highlight": true
                 }
             ],
+            "achievements": {
+                "total": 18,
+                "highlighted": [
+                    {
+                        "name": "Nimble Navigator",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1013650/27280b3d53187a5945b03600104ddce1cc65d7c4.jpg"
+                    },
+                    {
+                        "name": "Power Pusher",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1013650/1663c18cec2a35b607b07e38c385f8c4425f615c.jpg"
+                    },
+                    {
+                        "name": "Knive Thrower",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1013650/8c1992d68d189ddb39cbb04dd2f98342ca9ee939.jpg"
+                    },
+                    {
+                        "name": "Water Walker",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1013650/547386435143bc4e61f67925e99fa2ad252eb7a6.jpg"
+                    },
+                    {
+                        "name": "Critter Crusher",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1013650/54991a34f18c5defac4608fd2c9724fbac0fa374.jpg"
+                    },
+                    {
+                        "name": "Key Keeper",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1013650/6e0676bf7c9900e3735cb596c605fb768df77667.jpg"
+                    },
+                    {
+                        "name": "Fruit Finder",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1013650/b87c2f1324986e12dd445f8a68f8fa94a122a881.jpg"
+                    },
+                    {
+                        "name": "Fruit Follower",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1013650/b7a310ddcbff5c863de4dd00ef26c28ffccad201.jpg"
+                    },
+                    {
+                        "name": "Fruit Forager",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1013650/7b54a1ec70f8fa550ebf15f392ed61855ef6432f.jpg"
+                    },
+                    {
+                        "name": "Fruit Fanatic",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1013650/91caf233da2e97517f47428c3f63c2f906c3c24e.jpg"
+                    }
+                ]
+            },
             "release_date": {
-                "coming_soon": true,
+                "coming_soon": false,
                 "date": "1 Mar, 2019"
             },
             "support_info": {
                 "url": "https://simpanen.carbonmade.com",
                 "email": ""
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1013650/page_bg_generated_v6b.jpg?t=1548560339",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1013650/page_bg_generated_v6b.jpg?t=1551455955",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
