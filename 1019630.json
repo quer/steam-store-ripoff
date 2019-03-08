@@ -7,11 +7,11 @@
             "steam_appid": 1019630,
             "required_age": 0,
             "is_free": false,
-            "detailed_description": "This game is an ordinary puzzle game. Here you can find your neko girl.<br />\r\n<br />\r\nPassing the levels, you can open the entire gallery of neko girls, and be the happiest man on earth.<br />\r\n<br />\r\nGame features:<br />\r\n* Relaxing background music<br />\r\n* Varied selection of neko girls<br />\r\n* Pleasant pastime",
-            "about_the_game": "This game is an ordinary puzzle game. Here you can find your neko girl.<br />\r\n<br />\r\nPassing the levels, you can open the entire gallery of neko girls, and be the happiest man on earth.<br />\r\n<br />\r\nGame features:<br />\r\n* Relaxing background music<br />\r\n* Varied selection of neko girls<br />\r\n* Pleasant pastime",
+            "detailed_description": "This game is an ordinary puzzle game. Here you can find your neko girl.<br />\r\n<br />\r\nPassing the levels, you can open the entire gallery of neko girls, and be the happiest man on earth.<br />\r\n<br />\r\nGame features:<br />\r\n* Relaxing background music<br />\r\n* Varied selection of neko girls<br />\r\n* Pleasant pastime<br />\r\n<br />\r\nAll characters are over 18 years old.",
+            "about_the_game": "This game is an ordinary puzzle game. Here you can find your neko girl.<br />\r\n<br />\r\nPassing the levels, you can open the entire gallery of neko girls, and be the happiest man on earth.<br />\r\n<br />\r\nGame features:<br />\r\n* Relaxing background music<br />\r\n* Varied selection of neko girls<br />\r\n* Pleasant pastime<br />\r\n<br />\r\nAll characters are over 18 years old.",
             "short_description": "This game is an ordinary puzzle game. Here you can find your neko girl.",
             "supported_languages": "English",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1019630/header.jpg?t=1551154323",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1019630/header.jpg?t=1551974478",
             "website": null,
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 / 8 (8.1) / 10<br></li><li><strong>Processor:</strong> Intel Core i3 (2.9 GHz) or AMD equivalen<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> 256<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>"
@@ -28,7 +28,40 @@
             "publishers": [
                 "NEXION X INC."
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 99,
+                "final": 79,
+                "discount_percent": 20,
+                "initial_formatted": "0,99€",
+                "final_formatted": "0,79€"
+            },
+            "packages": [
+                338122
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy ECCHI NEKO GIRLS PUZZLE",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 338122,
+                            "percent_savings_text": "-20%",
+                            "percent_savings": 0,
+                            "option_text": "ECCHI NEKO GIRLS PUZZLE - <span class=\"discount_original_price\">0,99€</span> 0,79€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 79
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": false,
@@ -38,6 +71,14 @@
                 {
                     "id": 2,
                     "description": "Single-player"
+                },
+                {
+                    "id": 22,
+                    "description": "Steam Achievements"
+                },
+                {
+                    "id": 23,
+                    "description": "Steam Cloud"
                 }
             ],
             "genres": [
@@ -73,28 +114,28 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1019630/ss_04c0db61a7d9d30eb5075df574681cd9151d6260.600x338.jpg?t=1551154323",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1019630/ss_04c0db61a7d9d30eb5075df574681cd9151d6260.1920x1080.jpg?t=1551154323"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1019630/ss_04c0db61a7d9d30eb5075df574681cd9151d6260.600x338.jpg?t=1551974478",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1019630/ss_04c0db61a7d9d30eb5075df574681cd9151d6260.1920x1080.jpg?t=1551974478"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1019630/ss_49b1717384826899b520832c74bd638eef11fd06.600x338.jpg?t=1551154323",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1019630/ss_49b1717384826899b520832c74bd638eef11fd06.1920x1080.jpg?t=1551154323"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1019630/ss_49b1717384826899b520832c74bd638eef11fd06.600x338.jpg?t=1551974478",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1019630/ss_49b1717384826899b520832c74bd638eef11fd06.1920x1080.jpg?t=1551974478"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1019630/ss_84fc6392ea35358edeba8b125e854a02329b7326.600x338.jpg?t=1551154323",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1019630/ss_84fc6392ea35358edeba8b125e854a02329b7326.1920x1080.jpg?t=1551154323"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1019630/ss_84fc6392ea35358edeba8b125e854a02329b7326.600x338.jpg?t=1551974478",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1019630/ss_84fc6392ea35358edeba8b125e854a02329b7326.1920x1080.jpg?t=1551974478"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1019630/ss_45e1d2e0a4b2c54d900212100ba4fb3c52285969.600x338.jpg?t=1551154323",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1019630/ss_45e1d2e0a4b2c54d900212100ba4fb3c52285969.1920x1080.jpg?t=1551154323"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1019630/ss_45e1d2e0a4b2c54d900212100ba4fb3c52285969.600x338.jpg?t=1551974478",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1019630/ss_45e1d2e0a4b2c54d900212100ba4fb3c52285969.1920x1080.jpg?t=1551974478"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1019630/ss_dc250c34138cf1f21f32025996ca44aa91d12248.600x338.jpg?t=1551154323",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1019630/ss_dc250c34138cf1f21f32025996ca44aa91d12248.1920x1080.jpg?t=1551154323"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1019630/ss_dc250c34138cf1f21f32025996ca44aa91d12248.600x338.jpg?t=1551974478",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1019630/ss_dc250c34138cf1f21f32025996ca44aa91d12248.1920x1080.jpg?t=1551974478"
                 }
             ],
             "movies": [
@@ -109,21 +150,66 @@
                     "highlight": true
                 }
             ],
+            "achievements": {
+                "total": 26,
+                "highlighted": [
+                    {
+                        "name": "A",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1019630/cb805804d3afbe9f1ac0b819dd792e86dde4d4dc.jpg"
+                    },
+                    {
+                        "name": "B",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1019630/91be579b271d3b69a399f36ab897990cb00d6b1c.jpg"
+                    },
+                    {
+                        "name": "C",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1019630/dd9a5b60a35d896cdd59384d294e06daffaf1bae.jpg"
+                    },
+                    {
+                        "name": "D",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1019630/7232bf01483789c2d351d3891d7b5bf56ff33344.jpg"
+                    },
+                    {
+                        "name": "E",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1019630/7b466c490cd69c30f6cdb94e59cd19dbbb1f60d4.jpg"
+                    },
+                    {
+                        "name": "F",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1019630/a5ded01befb4b9f9f3170976fbff021301884ceb.jpg"
+                    },
+                    {
+                        "name": "G",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1019630/31052379cab21e595dab23b8c4b8c02459a52224.jpg"
+                    },
+                    {
+                        "name": "H",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1019630/3913025c04d0fcb8167247cc66ee70bbfd8aa327.jpg"
+                    },
+                    {
+                        "name": "I",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1019630/1f33b4709addf0a091ca753d7e56a91ba0f5ad88.jpg"
+                    },
+                    {
+                        "name": "J",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1019630/51ddf42ee3e97629031b019d6d6d663a213c2e08.jpg"
+                    }
+                ]
+            },
             "release_date": {
-                "coming_soon": true,
-                "date": "2 Mar, 2019"
+                "coming_soon": false,
+                "date": "7 Mar, 2019"
             },
             "support_info": {
                 "url": "",
                 "email": "zyryanovgamedev@gmail.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1019630/page_bg_generated_v6b.jpg?t=1551154323",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1019630/page_bg_generated_v6b.jpg?t=1551974478",
             "content_descriptors": {
                 "ids": [
                     1,
                     5
                 ],
-                "notes": "This game may contain content that is not suitable for all ages or for viewing at work: nude or sex scenes, adult content"
+                "notes": "This game may contain content that is not suitable for all ages or for viewing at work: nude or sex scenes, content for adults. All characters are over 18 years old."
             }
         }
     }
