@@ -7,12 +7,11 @@
             "steam_appid": 1009370,
             "required_age": 0,
             "is_free": false,
-            "controller_support": "full",
             "detailed_description": "Elephants Can’t Jump is a side-scrolling puzzle platformer with no jump mechanic (did the title give it away?). Join Akkoro, the salty octopus, and the rambunctious elephant Pengin, as they escape abduction on an alien spaceship. Use Akkoro’s launch ability to fly through the air and puzzle your way from room to room, all the while collecting fellow abductees throughout the ship. Come join the gravity-defying feats of the greatest dodecapedal duo!",
             "about_the_game": "Elephants Can’t Jump is a side-scrolling puzzle platformer with no jump mechanic (did the title give it away?). Join Akkoro, the salty octopus, and the rambunctious elephant Pengin, as they escape abduction on an alien spaceship. Use Akkoro’s launch ability to fly through the air and puzzle your way from room to room, all the while collecting fellow abductees throughout the ship. Come join the gravity-defying feats of the greatest dodecapedal duo!",
             "short_description": "Elephants Can’t Jump is a side-scrolling puzzle platformer with no jump mechanic (did the title give it away?). Join Akkoro, the salty octopus, and the rambunctious elephant Pengin, as they escape abduction on an alien spaceship.",
             "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1009370/header.jpg?t=1551212879",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1009370/header.jpg?t=1551753952",
             "website": null,
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong> Dual Core 2GHz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Hardware Accelerated Graphics with 1GB memory<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>"
@@ -25,7 +24,40 @@
             "publishers": [
                 "Skwiggle Entertainment  "
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 819,
+                "final": 573,
+                "discount_percent": 30,
+                "initial_formatted": "8,19€",
+                "final_formatted": "5,73€"
+            },
+            "packages": [
+                333975
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Elephants Can't Jump",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 333975,
+                            "percent_savings_text": "-30%",
+                            "percent_savings": 0,
+                            "option_text": "Elephants Can't Jump - <span class=\"discount_original_price\">8,19€</span> 5,73€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 573
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": false,
@@ -41,8 +73,8 @@
                     "description": "Steam Achievements"
                 },
                 {
-                    "id": 28,
-                    "description": "Full controller support"
+                    "id": 18,
+                    "description": "Partial Controller Support"
                 }
             ],
             "genres": [
@@ -62,28 +94,28 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1009370/ss_1cf4bcc9ae56ed013e90512b3c98ac567c0a858b.600x338.jpg?t=1551212879",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1009370/ss_1cf4bcc9ae56ed013e90512b3c98ac567c0a858b.1920x1080.jpg?t=1551212879"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1009370/ss_1cf4bcc9ae56ed013e90512b3c98ac567c0a858b.600x338.jpg?t=1551753952",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1009370/ss_1cf4bcc9ae56ed013e90512b3c98ac567c0a858b.1920x1080.jpg?t=1551753952"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1009370/ss_959747fa6b0727a0c37c1bf22574b9afda99e426.600x338.jpg?t=1551212879",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1009370/ss_959747fa6b0727a0c37c1bf22574b9afda99e426.1920x1080.jpg?t=1551212879"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1009370/ss_959747fa6b0727a0c37c1bf22574b9afda99e426.600x338.jpg?t=1551753952",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1009370/ss_959747fa6b0727a0c37c1bf22574b9afda99e426.1920x1080.jpg?t=1551753952"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1009370/ss_0af2b74f980d8e6e773e1ad165e4ebda606769b2.600x338.jpg?t=1551212879",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1009370/ss_0af2b74f980d8e6e773e1ad165e4ebda606769b2.1920x1080.jpg?t=1551212879"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1009370/ss_0af2b74f980d8e6e773e1ad165e4ebda606769b2.600x338.jpg?t=1551753952",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1009370/ss_0af2b74f980d8e6e773e1ad165e4ebda606769b2.1920x1080.jpg?t=1551753952"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1009370/ss_420fa2338afb187eaff81579d8757f28d3f0e93f.600x338.jpg?t=1551212879",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1009370/ss_420fa2338afb187eaff81579d8757f28d3f0e93f.1920x1080.jpg?t=1551212879"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1009370/ss_420fa2338afb187eaff81579d8757f28d3f0e93f.600x338.jpg?t=1551753952",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1009370/ss_420fa2338afb187eaff81579d8757f28d3f0e93f.1920x1080.jpg?t=1551753952"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1009370/ss_c798c33d3e19a71c5c5a6f913376c69f4ff93651.600x338.jpg?t=1551212879",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1009370/ss_c798c33d3e19a71c5c5a6f913376c69f4ff93651.1920x1080.jpg?t=1551212879"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1009370/ss_c798c33d3e19a71c5c5a6f913376c69f4ff93651.600x338.jpg?t=1551753952",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1009370/ss_c798c33d3e19a71c5c5a6f913376c69f4ff93651.1920x1080.jpg?t=1551753952"
                 }
             ],
             "movies": [
@@ -98,15 +130,48 @@
                     "highlight": true
                 }
             ],
+            "achievements": {
+                "total": 7,
+                "highlighted": [
+                    {
+                        "name": "Escape The Barn",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1009370/5f2d98dbe949608bbbef0e98f46e7345c6e99ee4.jpg"
+                    },
+                    {
+                        "name": "Save a Critter",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1009370/fded4ba0efa8a22b7641a3b69cb56215c7208264.jpg"
+                    },
+                    {
+                        "name": "Gotta Save Em' All!",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1009370/dd031b46fcf2759305c12e968c44bfba60b01ed0.jpg"
+                    },
+                    {
+                        "name": "It's a bit chilly in here...",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1009370/373cd6a14b31e07eb6cdce8e3016f1496a9dee90.jpg"
+                    },
+                    {
+                        "name": "Are we in a zoo?",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1009370/1a00603ecc4b5bd1defdbac7c96c302e2e294466.jpg"
+                    },
+                    {
+                        "name": "Freedom!",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1009370/1f29dcbd759e886f82f32f0e037de7de09c8a713.jpg"
+                    },
+                    {
+                        "name": "Enjoying the show",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1009370/c64659e84623b125444247717b0a9b644c9e90b1.jpg"
+                    }
+                ]
+            },
             "release_date": {
-                "coming_soon": true,
+                "coming_soon": false,
                 "date": "4 Mar, 2019"
             },
             "support_info": {
                 "url": "https://www.skwigglegames.com/",
                 "email": "skwiggleent@gmail.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1009370/page_bg_generated_v6b.jpg?t=1551212879",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1009370/page_bg_generated_v6b.jpg?t=1551753952",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
