@@ -27,10 +27,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 1079,
-                "final": 863,
-                "discount_percent": 20,
-                "initial_formatted": "10,79€",
-                "final_formatted": "8,63€"
+                "final": 1079,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "10,79€"
             },
             "packages": [
                 331145
@@ -47,13 +47,13 @@
                     "subs": [
                         {
                             "packageid": 331145,
-                            "percent_savings_text": "-20%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Archeo: Shinar - <span class=\"discount_original_price\">10,79€</span> 8,63€",
+                            "option_text": "Archeo: Shinar - 10,79€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 863
+                            "price_in_cents_with_discount": 1079
                         }
                     ]
                 }
