@@ -1,5 +1,58 @@
 {
     "1025675": {
-        "success": false
+        "success": true,
+        "data": {
+            "type": "episode",
+            "name": "Hands on game development with Unity 2018: Deploying the Game to Desktop and Web",
+            "steam_appid": 1025675,
+            "required_age": 0,
+            "is_free": false,
+            "controller_support": "full",
+            "detailed_description": "",
+            "about_the_game": "",
+            "short_description": "With the basics of our game in place, we’ll prepare everything we need to build and ship our game. This tutorial will cover: • Quality Options • Creating a Splash screen • Verifying Build Settings • Building for Mac and Windows • WebGL • Wrapping...",
+            "fullgame": {
+                "appid": "1019650",
+                "name": "Uninitialized"
+            },
+            "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1025675/header.jpg?t=1551257655",
+            "website": null,
+            "pc_requirements": [],
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "publishers": [
+                ""
+            ],
+            "package_groups": [],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 28,
+                    "description": "Full controller support"
+                },
+                {
+                    "id": 33,
+                    "description": "Native Steam Controller Support"
+                }
+            ],
+            "release_date": {
+                "coming_soon": false,
+                "date": "27 Feb, 2019"
+            },
+            "support_info": {
+                "url": "",
+                "email": ""
+            },
+            "background": "",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
     }
 }
