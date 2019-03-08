@@ -29,10 +29,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 1999,
-                "final": 1999,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "19,99€"
+                "final": 499,
+                "discount_percent": 75,
+                "initial_formatted": "19,99€",
+                "final_formatted": "4,99€"
             },
             "packages": [
                 16603,
@@ -50,23 +50,23 @@
                     "subs": [
                         {
                             "packageid": 16603,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-75%",
                             "percent_savings": 0,
-                            "option_text": "Testament of Sherlock Holmes - 19,99€",
+                            "option_text": "Testament of Sherlock Holmes - <span class=\"discount_original_price\">19,99€</span> 4,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1999
+                            "price_in_cents_with_discount": 499
                         },
                         {
                             "packageid": 108311,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-75%",
                             "percent_savings": 0,
-                            "option_text": "The Sherlock Holmes Collection - 33,99€",
+                            "option_text": "The Sherlock Holmes Collection - <span class=\"discount_original_price\">33,99€</span> 8,49€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 3399
+                            "price_in_cents_with_discount": 849
                         }
                     ]
                 }
@@ -198,7 +198,7 @@
                 }
             ],
             "recommendations": {
-                "total": 1312
+                "total": 1315
             },
             "achievements": {
                 "total": 32,
