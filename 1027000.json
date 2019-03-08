@@ -27,10 +27,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 239,
-                "final": 179,
-                "discount_percent": 25,
-                "initial_formatted": "2,39€",
-                "final_formatted": "1,79€"
+                "final": 239,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "2,39€"
             },
             "packages": [
                 341253
@@ -47,13 +47,13 @@
                     "subs": [
                         {
                             "packageid": 341253,
-                            "percent_savings_text": "-25%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Little Races - <span class=\"discount_original_price\">2,39€</span> 1,79€",
+                            "option_text": "Little Races - 2,39€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 179
+                            "price_in_cents_with_discount": 239
                         }
                     ]
                 }
