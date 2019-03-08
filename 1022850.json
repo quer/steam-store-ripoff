@@ -33,10 +33,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 1753,
-                "final": 1753,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "17,53€"
+                "final": 1227,
+                "discount_percent": 30,
+                "initial_formatted": "17,53€",
+                "final_formatted": "12,27€"
             },
             "packages": [
                 339630
@@ -53,13 +53,13 @@
                     "subs": [
                         {
                             "packageid": 339630,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-30%",
                             "percent_savings": 0,
-                            "option_text": "Dark Deception Complete - 17,53€",
+                            "option_text": "Dark Deception Complete - <span class=\"discount_original_price\">17,53€</span> 12,27€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1753
+                            "price_in_cents_with_discount": 1227
                         }
                     ]
                 }
