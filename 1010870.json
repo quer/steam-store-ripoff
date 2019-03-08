@@ -15,11 +15,11 @@
             "about_the_game": "The Last 47 Hours is a visual novel produced by the independent game production team Lingtan Studio. <br />\r\n A short healing story depicting how people face the natural disaster and strive to overcome fear <br />\r\nwith the help of white lies and human love.<br />\r\n<br />\r\nIn this game, players will click to keep the text, graphics and sound moving. <br />\r\nIt has 1 main characters with her own voice actors and character sprites (立ち絵 tachi-e), <br />\r\nmore than 4 special event CGs and a screenplay with up to 30 thousands words. <br />\r\n<br />\r\n--------------------------------------------------------------------------------------------------------------<br />\r\n<br />\r\n&quot;Let's break up in 47 hours!&quot;<br />\r\n<br />\r\nThe girl who has been in love with me for six years and will become my sweet bride next <br />\r\nmonth, now declares.<br />\r\n<br />\r\nThat feels strange though, she looks serious. Anyway, it seems that I have to play along with <br />\r\nher to run this game, recall all the meomories of our past, and finally, meet the end of the <br />\r\ndeclared last forty-seven hours together.<br />\r\n<br />\r\nAre we really going to say goodbye after forty-seven hours?",
             "short_description": "&quot;Let's break up in 47 hours!&quot; The girl who has been in love with me for six years and  will become my sweet bride next month, now declares. Are we really going to say goodbye after forty-seven hours?",
             "supported_languages": "English, Simplified Chinese<strong>*</strong>, Traditional Chinese<br><strong>*</strong>languages with full audio support",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1010870/header.jpg?t=1550427006",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1010870/header.jpg?t=1551427062",
             "website": null,
             "pc_requirements": {
-                "minimum": "<strong>Минимальные:</strong><br><ul class=\"bb_ul\"><li><strong>ОС:</strong> WIN7(Recommended)/WIN8/Vista<br></li><li><strong>Процессор:</strong> 1000MHz<br></li><li><strong>Оперативная память:</strong> 2 GB ОЗУ<br></li><li><strong>Видеокарта:</strong> Memory 1GB<br></li><li><strong>DirectX:</strong> Версии 9.0<br></li><li><strong>Место на диске:</strong> 4 GB</li></ul>",
-                "recommended": "<strong>Рекомендованные:</strong><br><ul class=\"bb_ul\"><li><strong>ОС:</strong> WIN7(Recommended)/WIN8/Vista<br></li><li><strong>Процессор:</strong> 1000MHz<br></li><li><strong>Оперативная память:</strong> 2 GB ОЗУ<br></li><li><strong>Видеокарта:</strong> Memory 1GB<br></li><li><strong>DirectX:</strong> Версии 9.0<br></li><li><strong>Место на диске:</strong> 4 GB</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> WIN7(Recommended)/WIN8/Vista<br></li><li><strong>Processor:</strong> 1000MHz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Memory 1GB<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 4 GB available space</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> WIN7(Recommended)/WIN8/Vista<br></li><li><strong>Processor:</strong> 1000MHz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Memory 1GB<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 4 GB available space</li></ul>"
             },
             "mac_requirements": [],
             "linux_requirements": [],
@@ -29,7 +29,40 @@
             "publishers": [
                 "Lingtan Studio"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 159,
+                "final": 159,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "1,59€"
+            },
+            "packages": [
+                334654
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy 最后的47小时 - The Last 47 Hours",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 334654,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "The Last 47 Hours - 1,59€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 159
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": false,
@@ -39,6 +72,14 @@
                 {
                     "id": 2,
                     "description": "Single-player"
+                },
+                {
+                    "id": 22,
+                    "description": "Steam Achievements"
+                },
+                {
+                    "id": 23,
+                    "description": "Steam Cloud"
                 }
             ],
             "genres": [
@@ -50,86 +91,110 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1010870/ss_974886bff8f4adfbdec367226838b78e1552c4b7.600x338.jpg?t=1550427006",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1010870/ss_974886bff8f4adfbdec367226838b78e1552c4b7.1920x1080.jpg?t=1550427006"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1010870/ss_974886bff8f4adfbdec367226838b78e1552c4b7.600x338.jpg?t=1551427062",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1010870/ss_974886bff8f4adfbdec367226838b78e1552c4b7.1920x1080.jpg?t=1551427062"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1010870/ss_d7eea1065103c33892c6e716aa58a485f08209d8.600x338.jpg?t=1550427006",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1010870/ss_d7eea1065103c33892c6e716aa58a485f08209d8.1920x1080.jpg?t=1550427006"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1010870/ss_d7eea1065103c33892c6e716aa58a485f08209d8.600x338.jpg?t=1551427062",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1010870/ss_d7eea1065103c33892c6e716aa58a485f08209d8.1920x1080.jpg?t=1551427062"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1010870/ss_b902c23fbc19c142d2064412dc7cf086280e7a85.600x338.jpg?t=1550427006",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1010870/ss_b902c23fbc19c142d2064412dc7cf086280e7a85.1920x1080.jpg?t=1550427006"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1010870/ss_b902c23fbc19c142d2064412dc7cf086280e7a85.600x338.jpg?t=1551427062",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1010870/ss_b902c23fbc19c142d2064412dc7cf086280e7a85.1920x1080.jpg?t=1551427062"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1010870/ss_462f6f381919a299218d4b8cc41e172714653534.600x338.jpg?t=1550427006",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1010870/ss_462f6f381919a299218d4b8cc41e172714653534.1920x1080.jpg?t=1550427006"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1010870/ss_462f6f381919a299218d4b8cc41e172714653534.600x338.jpg?t=1551427062",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1010870/ss_462f6f381919a299218d4b8cc41e172714653534.1920x1080.jpg?t=1551427062"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1010870/ss_69257c32bf2f05d5a7b6b9db7e076fbc3cee1b96.600x338.jpg?t=1550427006",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1010870/ss_69257c32bf2f05d5a7b6b9db7e076fbc3cee1b96.1920x1080.jpg?t=1550427006"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1010870/ss_69257c32bf2f05d5a7b6b9db7e076fbc3cee1b96.600x338.jpg?t=1551427062",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1010870/ss_69257c32bf2f05d5a7b6b9db7e076fbc3cee1b96.1920x1080.jpg?t=1551427062"
                 },
                 {
                     "id": 5,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1010870/ss_be1031ffe9dbd97810fcfe9cae9ea1075d81bc28.600x338.jpg?t=1550427006",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1010870/ss_be1031ffe9dbd97810fcfe9cae9ea1075d81bc28.1920x1080.jpg?t=1550427006"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1010870/ss_be1031ffe9dbd97810fcfe9cae9ea1075d81bc28.600x338.jpg?t=1551427062",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1010870/ss_be1031ffe9dbd97810fcfe9cae9ea1075d81bc28.1920x1080.jpg?t=1551427062"
                 },
                 {
                     "id": 6,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1010870/ss_506712406d81b22f3fa0dd62343b5293c70d0973.600x338.jpg?t=1550427006",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1010870/ss_506712406d81b22f3fa0dd62343b5293c70d0973.1920x1080.jpg?t=1550427006"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1010870/ss_506712406d81b22f3fa0dd62343b5293c70d0973.600x338.jpg?t=1551427062",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1010870/ss_506712406d81b22f3fa0dd62343b5293c70d0973.1920x1080.jpg?t=1551427062"
                 },
                 {
                     "id": 7,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1010870/ss_14815b9d0ec74877cc4bb4380a5f08dfe1f77a26.600x338.jpg?t=1550427006",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1010870/ss_14815b9d0ec74877cc4bb4380a5f08dfe1f77a26.1920x1080.jpg?t=1550427006"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1010870/ss_14815b9d0ec74877cc4bb4380a5f08dfe1f77a26.600x338.jpg?t=1551427062",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1010870/ss_14815b9d0ec74877cc4bb4380a5f08dfe1f77a26.1920x1080.jpg?t=1551427062"
                 }
             ],
             "movies": [
                 {
-                    "id": 256743252,
-                    "name": "PVtw",
-                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256743252/movie.293x165.jpg?t=1550424766",
-                    "webm": {
-                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256743252/movie480.webm?t=1550424766",
-                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256743252/movie_max.webm?t=1550424766"
-                    },
-                    "highlight": true
-                },
-                {
                     "id": 256743251,
                     "name": "PVen",
-                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256743251/movie.293x165.jpg?t=1550424783",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256743251/movie.293x165.jpg?t=1551275811",
                     "webm": {
-                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256743251/movie480.webm?t=1550424783",
-                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256743251/movie_max.webm?t=1550424783"
-                    },
-                    "highlight": true
-                },
-                {
-                    "id": 256742123,
-                    "name": "PVcn",
-                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256742123/movie.293x165.jpg?t=1550205688",
-                    "webm": {
-                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256742123/movie480.webm?t=1550205688",
-                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256742123/movie_max.webm?t=1550205688"
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256743251/movie480.webm?t=1551275811",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256743251/movie_max.webm?t=1551275811"
                     },
                     "highlight": true
                 }
             ],
+            "recommendations": {
+                "total": 303
+            },
+            "achievements": {
+                "total": 9,
+                "highlighted": [
+                    {
+                        "name": "Lingtan fried rice",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1010870/cbfcfabf9765e971cc10ec4a7f80df69b1b2083d.jpg"
+                    },
+                    {
+                        "name": "So appetizing!",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1010870/14d1b3bd0ec6aeb15704afe71dcb112208939225.jpg"
+                    },
+                    {
+                        "name": "Diligent player",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1010870/90ff1ad4ec7a27c81332eae24c448c93a25bf3c1.jpg"
+                    },
+                    {
+                        "name": "fan of \"Drawing Sword\"",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1010870/ac1ad8e1be0d9947f271be62d3d46c410785b334.jpg"
+                    },
+                    {
+                        "name": "Never stop",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1010870/b9c6663580905e23b37865363efb8beeb62be198.jpg"
+                    },
+                    {
+                        "name": "You Jump, I Jump",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1010870/c4b732f9eca05e8059f50a19cec78a1c91eab76f.jpg"
+                    },
+                    {
+                        "name": "The Last 47 Hours",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1010870/4455cf6f6e1bfa841a93b257bf628fee30f05973.jpg"
+                    },
+                    {
+                        "name": "Our Last 47 Hours",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1010870/4016124c48a319f212c6a3a872e26444275c7109.jpg"
+                    },
+                    {
+                        "name": "Master",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1010870/7a6314a60bdcb26e6054805f3ba22bee6820f5c2.jpg"
+                    }
+                ]
+            },
             "release_date": {
-                "coming_soon": true,
-                "date": "Mar 2019"
+                "coming_soon": false,
+                "date": "28 Feb, 2019"
             },
             "support_info": {
                 "url": "https://weibo.com/the9thday?refer_flag=1001030103_&amp;is_hot=1",
                 "email": "1132259027@qq.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1010870/page_bg_generated_v6b.jpg?t=1550427006",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1010870/page_bg_generated_v6b.jpg?t=1551427062",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
