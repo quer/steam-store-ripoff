@@ -11,7 +11,7 @@
             "about_the_game": "<strong>&quot;GACHIMUCHI The Card Game&quot;</strong> is a simple twenty-one card game with unique dialogs.  <br>The game is often referred to as twenty-one, which is the Russian alternative for blackjack.  <br><br>Play a fun and entertaining card game, How does that feel, huh? Now will you give up? whenever you win or lose Shut the fuck up, boy, you get a unique dialog.That's power, son, that's power! <br>Walk through all the rounds Smart-ass. Of the card game Come on! to learn what happens in the end. Let's go! <br><br><br> <h2 class=\"bb_tag\">Features of the game </h2> <strong>♂</strong> Card Game<br> <strong>♂</strong> 100 lvl<br> <strong>♂</strong> Unforgettable Soundtrack  <br> <strong>♂</strong>﻿ Animated Background <br> <strong>♂﻿</strong> HD 1080P",
             "short_description": "Hey buddy, I think you've got the wrong door, the leather club's two blocks down.",
             "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1034120/header.jpg?t=1551129549",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1034120/header.jpg?t=1552005829",
             "website": null,
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows® XP/Vista/7/8/8.1/10<br></li><li><strong>Processor:</strong> 1.2 GHz Pentium 4<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> DirectX® 9.0c compatible<br></li><li><strong>Storage:</strong> 1 GB available space<br></li><li><strong>Sound Card:</strong> DirectSound</li></ul>"
@@ -24,7 +24,40 @@
             "publishers": [
                 "M♂NLY"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 99,
+                "final": 59,
+                "discount_percent": 40,
+                "initial_formatted": "0,99€",
+                "final_formatted": "0,59€"
+            },
+            "packages": [
+                344118
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy GACHIMUCHI The Card Game",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 344118,
+                            "percent_savings_text": "-40%",
+                            "percent_savings": 0,
+                            "option_text": "GACHIMUCHI The Card Game - <span class=\"discount_original_price\">0,99€</span> 0,59€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 59
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": false,
@@ -41,6 +74,10 @@
                 }
             ],
             "genres": [
+                {
+                    "id": "25",
+                    "description": "Adventure"
+                },
                 {
                     "id": "4",
                     "description": "Casual"
@@ -69,49 +106,94 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1034120/ss_e6e825886927c4e777377075dd75b6e90b00f8f3.600x338.jpg?t=1551129549",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1034120/ss_e6e825886927c4e777377075dd75b6e90b00f8f3.1920x1080.jpg?t=1551129549"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1034120/ss_e6e825886927c4e777377075dd75b6e90b00f8f3.600x338.jpg?t=1552005829",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1034120/ss_e6e825886927c4e777377075dd75b6e90b00f8f3.1920x1080.jpg?t=1552005829"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1034120/ss_cbf645a2bb990807ec278f69994b254f77fff418.600x338.jpg?t=1551129549",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1034120/ss_cbf645a2bb990807ec278f69994b254f77fff418.1920x1080.jpg?t=1551129549"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1034120/ss_cbf645a2bb990807ec278f69994b254f77fff418.600x338.jpg?t=1552005829",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1034120/ss_cbf645a2bb990807ec278f69994b254f77fff418.1920x1080.jpg?t=1552005829"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1034120/ss_46c1a45743220ded84be46bcd4e6e7a4798f0538.600x338.jpg?t=1551129549",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1034120/ss_46c1a45743220ded84be46bcd4e6e7a4798f0538.1920x1080.jpg?t=1551129549"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1034120/ss_46c1a45743220ded84be46bcd4e6e7a4798f0538.600x338.jpg?t=1552005829",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1034120/ss_46c1a45743220ded84be46bcd4e6e7a4798f0538.1920x1080.jpg?t=1552005829"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1034120/ss_1dbd2b3453bf191a6233c3bd1ac2adb259b64d2f.600x338.jpg?t=1551129549",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1034120/ss_1dbd2b3453bf191a6233c3bd1ac2adb259b64d2f.1920x1080.jpg?t=1551129549"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1034120/ss_1dbd2b3453bf191a6233c3bd1ac2adb259b64d2f.600x338.jpg?t=1552005829",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1034120/ss_1dbd2b3453bf191a6233c3bd1ac2adb259b64d2f.1920x1080.jpg?t=1552005829"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1034120/ss_198b78f9daf5ea37dd00c235a7dc8267cee3f273.600x338.jpg?t=1551129549",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1034120/ss_198b78f9daf5ea37dd00c235a7dc8267cee3f273.1920x1080.jpg?t=1551129549"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1034120/ss_198b78f9daf5ea37dd00c235a7dc8267cee3f273.600x338.jpg?t=1552005829",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1034120/ss_198b78f9daf5ea37dd00c235a7dc8267cee3f273.1920x1080.jpg?t=1552005829"
                 },
                 {
                     "id": 5,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1034120/ss_80f58db2c46a11d05ca9ea1072141f5748a5e342.600x338.jpg?t=1551129549",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1034120/ss_80f58db2c46a11d05ca9ea1072141f5748a5e342.1920x1080.jpg?t=1551129549"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1034120/ss_80f58db2c46a11d05ca9ea1072141f5748a5e342.600x338.jpg?t=1552005829",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1034120/ss_80f58db2c46a11d05ca9ea1072141f5748a5e342.1920x1080.jpg?t=1552005829"
                 },
                 {
                     "id": 6,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1034120/ss_186ce0a056d7a37cc6e39c714ca3eecabdb2b2b5.600x338.jpg?t=1551129549",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1034120/ss_186ce0a056d7a37cc6e39c714ca3eecabdb2b2b5.1920x1080.jpg?t=1551129549"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1034120/ss_186ce0a056d7a37cc6e39c714ca3eecabdb2b2b5.600x338.jpg?t=1552005829",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1034120/ss_186ce0a056d7a37cc6e39c714ca3eecabdb2b2b5.1920x1080.jpg?t=1552005829"
                 }
             ],
+            "achievements": {
+                "total": 22,
+                "highlighted": [
+                    {
+                        "name": "Wake up!",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1034120/b184994c1fb7ace4a587f008411bc0204da6f41c.jpg"
+                    },
+                    {
+                        "name": "It's amazing",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1034120/fe0ca5a8cc33132f6ab3eba5f1de043695c99437.jpg"
+                    },
+                    {
+                        "name": "Atten-TION!",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1034120/d038bbed296a3377fdbb13c7acab7168951d16a4.jpg"
+                    },
+                    {
+                        "name": "I'm hired by people to fulfill their fantasies ... their deep, dark fantasies",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1034120/46a8d97bc6976970d0d1e9b5eeed3a608fa48947.jpg"
+                    },
+                    {
+                        "name": "Like embarassing me, huh?!",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1034120/9cd037fb57f1924ad161b7461367bae56dc12928.jpg"
+                    },
+                    {
+                        "name": "That's not good, man",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1034120/50dc72fad1990d180142af4e8686f93b82a9a6ff.jpg"
+                    },
+                    {
+                        "name": "Come on!",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1034120/460d18c5508054391b87e56e57d41a231dae22f0.jpg"
+                    },
+                    {
+                        "name": "Come on, college boy!",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1034120/27e9d36e79ed6f99a4a14aacdc44c7571868c077.jpg"
+                    },
+                    {
+                        "name": " I want to be a crab",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1034120/197eb4cb2119745dd51fe0d5f48086bfc626e6be.jpg"
+                    },
+                    {
+                        "name": "Give up!",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1034120/a3c0b950eaecb26e514e94d26579063606e06570.jpg"
+                    }
+                ]
+            },
             "release_date": {
-                "coming_soon": true,
-                "date": "8 Mar, 2019"
+                "coming_soon": false,
+                "date": "7 Mar, 2019"
             },
             "support_info": {
                 "url": "",
                 "email": "help_steam_00@mail.ru"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1034120/page_bg_generated_v6b.jpg?t=1551129549",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1034120/page_bg_generated_v6b.jpg?t=1552005829",
             "content_descriptors": {
                 "ids": [
                     1,
