@@ -14,8 +14,8 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/263640/header.jpg?t=1522347069",
             "website": "http://www.magstudios.co.uk",
             "pc_requirements": {
-                "minimum": "<strong>Minimalne:</strong><br><ul class=\"bb_ul\"><li><strong>System operacyjny:</strong> Windows 7<br></li><li><strong>Procesor:</strong> 2.5ghz<br></li><li><strong>Pamięć:</strong> 4 GB RAM<br></li><li><strong>Karta graficzna:</strong> 1gb Shader 3 compatible graphics card<br></li><li><strong>DirectX:</strong> Wersja 9.0c<br></li><li><strong>Miejsce na dysku:</strong> 6 GB dostępnej przestrzeni</li></ul>",
-                "recommended": "<strong>Zalecane:</strong><br><ul class=\"bb_ul\"><li><strong>System operacyjny:</strong> Windows 7/Windows 8<br></li><li><strong>Procesor:</strong> 3Ghz<br></li><li><strong>Pamięć:</strong> 6 GB RAM<br></li><li><strong>Karta graficzna:</strong> 2gb Shader 3 compatible graphics card<br></li><li><strong>DirectX:</strong> Wersja 11<br></li><li><strong>Miejsce na dysku:</strong> 6 GB dostępnej przestrzeni</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong> 2.5ghz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> 1gb Shader 3 compatible graphics card<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 6 GB available space</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7/Windows 8<br></li><li><strong>Processor:</strong> 3Ghz<br></li><li><strong>Memory:</strong> 6 GB RAM<br></li><li><strong>Graphics:</strong> 2gb Shader 3 compatible graphics card<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 6 GB available space</li></ul>"
             },
             "mac_requirements": [],
             "linux_requirements": [],
@@ -29,10 +29,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 999,
-                "final": 999,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "9,99€"
+                "final": 339,
+                "discount_percent": 66,
+                "initial_formatted": "9,99€",
+                "final_formatted": "3,39€"
             },
             "packages": [
                 34182,
@@ -50,13 +50,13 @@
                     "subs": [
                         {
                             "packageid": 34182,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-66%",
                             "percent_savings": 0,
-                            "option_text": "CDF Ghostship - 9,99€",
+                            "option_text": "CDF Ghostship - <span class=\"discount_original_price\">9,99€</span> 3,39€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 999
+                            "price_in_cents_with_discount": 339
                         },
                         {
                             "packageid": 78661,

@@ -16,7 +16,7 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/248730/header.jpg?t=1447358453",
             "website": "http://a-walk-in-the-dark.com",
             "pc_requirements": {
-                "minimum": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li><strong>SO:</strong> Windows XP, Vista, 7, 8<br></li><li><strong>Procesador:</strong> 1.7 GHz Dual Core or Greater<br></li><li><strong>Memoria:</strong> 2 GB de RAM<br></li><li><strong>Gráficos:</strong> 256 MB DirectX 9.0c compatible graphics card (shader model 3)<br></li><li><strong>DirectX:</strong> Versión 9.0c<br></li><li><strong>Almacenamiento:</strong> 200 MB de espacio disponible<br></li><li><strong>Tarjeta de sonido:</strong> DirectX 9.0c-compliant<br></li><li><strong>Notas adicionales:</strong> Integrated graphics and low budget cards may not work</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP, Vista, 7, 8<br></li><li><strong>Processor:</strong> 1.7 GHz Dual Core or Greater<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> 256 MB DirectX 9.0c compatible graphics card (shader model 3)<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 200 MB available space<br></li><li><strong>Sound Card:</strong> DirectX 9.0c-compliant<br></li><li><strong>Additional Notes:</strong> Integrated graphics and low budget cards may not work</li></ul>"
             },
             "mac_requirements": [],
             "linux_requirements": [],
@@ -26,10 +26,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 599,
-                "final": 599,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "5,99€"
+                "final": 203,
+                "discount_percent": 66,
+                "initial_formatted": "5,99€",
+                "final_formatted": "2,03€"
             },
             "packages": [
                 29907
@@ -46,13 +46,13 @@
                     "subs": [
                         {
                             "packageid": 29907,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-66%",
                             "percent_savings": 0,
-                            "option_text": "A Walk in the Dark - 5,99€",
+                            "option_text": "A Walk in the Dark - <span class=\"discount_original_price\">5,99€</span> 2,03€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 599
+                            "price_in_cents_with_discount": 203
                         }
                     ]
                 }

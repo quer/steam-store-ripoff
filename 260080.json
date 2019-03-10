@@ -28,10 +28,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 199,
-                "final": 199,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "1,99€"
+                "final": 99,
+                "discount_percent": 50,
+                "initial_formatted": "1,99€",
+                "final_formatted": "0,99€"
             },
             "packages": [
                 33166,
@@ -49,23 +49,23 @@
                     "subs": [
                         {
                             "packageid": 33166,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-50%",
                             "percent_savings": 0,
-                            "option_text": "YOU DON'T KNOW JACK Vol. 6 The Lost Gold - 1,99€",
+                            "option_text": "YOU DON'T KNOW JACK Vol. 6 The Lost Gold - <span class=\"discount_original_price\">1,99€</span> 0,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 199
+                            "price_in_cents_with_discount": 99
                         },
                         {
                             "packageid": 33692,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-50%",
                             "percent_savings": 0,
-                            "option_text": "YOU DON'T KNOW JACK Classic Pack - 19,99€",
+                            "option_text": "YOU DON'T KNOW JACK Classic Pack - <span class=\"discount_original_price\">19,99€</span> 9,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1999
+                            "price_in_cents_with_discount": 999
                         }
                     ]
                 }
@@ -159,9 +159,6 @@
                     "highlight": true
                 }
             ],
-            "achievements": {
-                "total": 0
-            },
             "release_date": {
                 "coming_soon": false,
                 "date": "5 Nov, 2013"

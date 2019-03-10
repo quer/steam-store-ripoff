@@ -28,17 +28,17 @@
             ],
             "price_overview": {
                 "currency": "EUR",
-                "initial": 1499,
-                "final": 374,
-                "discount_percent": 75,
-                "initial_formatted": "14,99€",
-                "final_formatted": "3,74€"
+                "initial": 6499,
+                "final": 1299,
+                "discount_percent": 80,
+                "initial_formatted": "64,99€",
+                "final_formatted": "12,99€"
             },
             "packages": [
                 1718,
+                46995,
                 1746,
-                46999,
-                46995
+                46999
             ],
             "package_groups": [
                 {
@@ -52,43 +52,43 @@
                     "subs": [
                         {
                             "packageid": 1718,
-                            "percent_savings_text": "-75%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Delta Force — Black Hawk Down - <span class=\"discount_original_price\">14,99€</span> 3,74€",
+                            "option_text": "Delta Force — Black Hawk Down - 14,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 374
-                        },
-                        {
-                            "packageid": 1746,
-                            "percent_savings_text": "-75%",
-                            "percent_savings": 0,
-                            "option_text": "Delta Force Platinum Pack - <span class=\"discount_original_price\">19,99€</span> 4,99€",
-                            "option_description": "",
-                            "can_get_free_license": "0",
-                            "is_free_license": false,
-                            "price_in_cents_with_discount": 499
-                        },
-                        {
-                            "packageid": 46999,
-                            "percent_savings_text": "-75%",
-                            "percent_savings": 0,
-                            "option_text": "NovaLogic Multiplayer Mayhem - <span class=\"discount_original_price\">36,99€</span> 9,24€",
-                            "option_description": "",
-                            "can_get_free_license": "0",
-                            "is_free_license": false,
-                            "price_in_cents_with_discount": 924
+                            "price_in_cents_with_discount": 1499
                         },
                         {
                             "packageid": 46995,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-80%",
                             "percent_savings": 0,
-                            "option_text": "NovaLogic Everything Pack - 64,99€",
+                            "option_text": "NovaLogic Everything Pack - <span class=\"discount_original_price\">64,99€</span> 12,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 6499
+                            "price_in_cents_with_discount": 1299
+                        },
+                        {
+                            "packageid": 1746,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Delta Force Platinum Pack - 19,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 1999
+                        },
+                        {
+                            "packageid": 46999,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "NovaLogic Multiplayer Mayhem - 36,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 3699
                         }
                     ]
                 }
@@ -141,7 +141,7 @@
                 }
             ],
             "recommendations": {
-                "total": 254
+                "total": 258
             },
             "achievements": {
                 "total": 0

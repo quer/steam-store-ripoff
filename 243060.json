@@ -25,10 +25,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 599,
-                "final": 83,
-                "discount_percent": 86,
-                "initial_formatted": "5,99€",
-                "final_formatted": "0,83€"
+                "final": 599,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "5,99€"
             },
             "packages": [
                 31678
@@ -45,13 +45,13 @@
                     "subs": [
                         {
                             "packageid": 31678,
-                            "percent_savings_text": "-86%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Urban Chaos - <span class=\"discount_original_price\">5,99€</span> 0,83€",
+                            "option_text": "Urban Chaos - 5,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 83
+                            "price_in_cents_with_discount": 599
                         }
                     ]
                 }
@@ -135,6 +135,9 @@
                     "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/243060/ss_eaf22f82bc872a92fa7b873f095c8f3448654bef.1920x1080.jpg?t=1479342875"
                 }
             ],
+            "recommendations": {
+                "total": 102
+            },
             "achievements": {
                 "total": 0
             },

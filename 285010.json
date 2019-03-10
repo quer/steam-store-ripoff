@@ -18,8 +18,8 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/285010/header.jpg?t=1544285480",
             "website": "http://decayinglogic.com/",
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10, 8.1, 8, 7, Vista, XP<br></li><li><strong>Processor:</strong> Core 2 Duo<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> DirectX 9.0 Compatible<br></li><li><strong>Storage:</strong> 150 MB available space<br></li><li><strong>Sound Card:</strong> Generic Sound Device</li></ul>",
-                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10, 8.1, 8, 7, Vista, XP<br></li><li><strong>Processor:</strong> Quad Core<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> DirectX 9.0 Compatible<br></li><li><strong>Storage:</strong> 150 MB available space<br></li><li><strong>Sound Card:</strong> Generic Sound Device</li></ul>"
+                "minimum": "<strong>最低配備:</strong><br><ul class=\"bb_ul\"><li><strong>作業系統:</strong> Windows 10, 8.1, 8, 7, Vista, XP<br></li><li><strong>處理器:</strong> Core 2 Duo<br></li><li><strong>記憶體:</strong> 1 GB 記憶體<br></li><li><strong>顯示卡:</strong> DirectX 9.0 Compatible<br></li><li><strong>儲存空間:</strong> 150 MB 可用空間<br></li><li><strong>音效卡:</strong> Generic Sound Device</li></ul>",
+                "recommended": "<strong>建議配備:</strong><br><ul class=\"bb_ul\"><li><strong>作業系統:</strong> Windows 10, 8.1, 8, 7, Vista, XP<br></li><li><strong>處理器:</strong> Quad Core<br></li><li><strong>記憶體:</strong> 2 GB 記憶體<br></li><li><strong>顯示卡:</strong> DirectX 9.0 Compatible<br></li><li><strong>儲存空間:</strong> 150 MB 可用空間<br></li><li><strong>音效卡:</strong> Generic Sound Device</li></ul>"
             },
             "mac_requirements": [],
             "linux_requirements": [],
@@ -33,10 +33,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 699,
-                "final": 699,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "6,99€"
+                "final": 174,
+                "discount_percent": 75,
+                "initial_formatted": "6,99€",
+                "final_formatted": "1,74€"
             },
             "packages": [
                 39442
@@ -53,13 +53,13 @@
                     "subs": [
                         {
                             "packageid": 39442,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-75%",
                             "percent_savings": 0,
-                            "option_text": "Pixel Puzzles: UndeadZ - 6,99€",
+                            "option_text": "Pixel Puzzles: UndeadZ - <span class=\"discount_original_price\">6,99€</span> 1,74€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 699
+                            "price_in_cents_with_discount": 174
                         }
                     ]
                 }
@@ -179,7 +179,7 @@
                 }
             ],
             "recommendations": {
-                "total": 120
+                "total": 121
             },
             "achievements": {
                 "total": 34,

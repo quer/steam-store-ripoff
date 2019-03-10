@@ -42,10 +42,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 999,
-                "final": 199,
-                "discount_percent": 80,
-                "initial_formatted": "9,99€",
-                "final_formatted": "1,99€"
+                "final": 999,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "9,99€"
             },
             "packages": [
                 30251,
@@ -66,53 +66,53 @@
                     "subs": [
                         {
                             "packageid": 30251,
-                            "percent_savings_text": "-80%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Blackguards - Standard Edition - <span class=\"discount_original_price\">9,99€</span> 1,99€",
+                            "option_text": "Blackguards - Standard Edition - 9,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 199
+                            "price_in_cents_with_discount": 999
                         },
                         {
                             "packageid": 232457,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Blackguards - Commercial License - 19,99€",
+                            "option_text": "Blackguards - Commercial License - 9,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1999
+                            "price_in_cents_with_discount": 999
                         },
                         {
                             "packageid": 33661,
-                            "percent_savings_text": "-84%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Blackguards - Deluxe Edition - <span class=\"discount_original_price\">14,99€</span> 2,39€",
+                            "option_text": "Blackguards - Deluxe Edition - 14,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 239
+                            "price_in_cents_with_discount": 1499
                         },
                         {
                             "packageid": 44166,
-                            "percent_savings_text": "-90%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "The Dark Eye Universe Bundle - <span class=\"discount_original_price\">31,99€</span> 3,19€",
+                            "option_text": "The Dark Eye Universe Bundle - 31,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 319
+                            "price_in_cents_with_discount": 3199
                         },
                         {
                             "packageid": 76471,
-                            "percent_savings_text": "-90%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Daedalic - Gigantic Bundle - <span class=\"discount_original_price\">120,99€</span> 12,09€",
+                            "option_text": "Daedalic - Gigantic Bundle - 120,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1209
+                            "price_in_cents_with_discount": 12099
                         }
                     ]
                 }
@@ -298,7 +298,7 @@
                 }
             ],
             "recommendations": {
-                "total": 1994
+                "total": 2001
             },
             "achievements": {
                 "total": 45,

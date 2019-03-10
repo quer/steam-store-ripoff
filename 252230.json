@@ -14,8 +14,8 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/252230/header.jpg?t=1550179188",
             "website": "http://www.yaibangz.com/",
             "pc_requirements": {
-                "minimum": "<strong>Minimale :</strong><br><ul class=\"bb_ul\"><li><strong>Système d'exploitation :</strong> Windows® XP (32-bit)<br></li><li><strong>Processeur :</strong> Dual core CPU 2.5 GHz<br></li><li><strong>Mémoire vive :</strong> 3 GB de mémoire<br></li><li><strong>Graphiques :</strong> NVIDIA® GeForce® 9800 or better<br></li><li><strong>Espace disque :</strong> 7 GB d'espace disque disponible<br></li><li><strong>Carte son :</strong> Standard audio device</li></ul>",
-                "recommended": "<strong>Recommandée :</strong><br><ul class=\"bb_ul\"><li><strong>Système d'exploitation :</strong> Windows® 7<br></li><li><strong>Processeur :</strong> Quad core 2.7 GHz or better<br></li><li><strong>Mémoire vive :</strong> 8 GB de mémoire<br></li><li><strong>Graphiques :</strong> NVIDIA® GeForce® GTX 460 or better<br></li><li><strong>Espace disque :</strong> 8 GB d'espace disque disponible<br></li><li><strong>Carte son :</strong> 5.1 audio device</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows® XP (32-bit)<br></li><li><strong>Processor:</strong> Dual core CPU 2.5 GHz<br></li><li><strong>Memory:</strong> 3 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA® GeForce® 9800 or better<br></li><li><strong>Storage:</strong> 7 GB available space<br></li><li><strong>Sound Card:</strong> Standard audio device</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows® 7<br></li><li><strong>Processor:</strong> Quad core 2.7 GHz or better<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA® GeForce® GTX 460 or better<br></li><li><strong>Storage:</strong> 8 GB available space<br></li><li><strong>Sound Card:</strong> 5.1 audio device</li></ul>"
             },
             "mac_requirements": [],
             "linux_requirements": [],
@@ -31,10 +31,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 2999,
-                "final": 2999,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "29,99€"
+                "final": 599,
+                "discount_percent": 80,
+                "initial_formatted": "29,99€",
+                "final_formatted": "5,99€"
             },
             "packages": [
                 30840
@@ -51,13 +51,13 @@
                     "subs": [
                         {
                             "packageid": 30840,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-80%",
                             "percent_savings": 0,
-                            "option_text": "YAIBA: NINJA GAIDEN Z - 29,99€",
+                            "option_text": "YAIBA: NINJA GAIDEN Z - <span class=\"discount_original_price\">29,99€</span> 5,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 2999
+                            "price_in_cents_with_discount": 599
                         }
                     ]
                 }
@@ -145,7 +145,7 @@
                 }
             ],
             "recommendations": {
-                "total": 295
+                "total": 297
             },
             "achievements": {
                 "total": 49,

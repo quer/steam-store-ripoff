@@ -28,10 +28,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 2799,
-                "final": 1847,
-                "discount_percent": 34,
-                "initial_formatted": "27,99€",
-                "final_formatted": "18,47€"
+                "final": 2799,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "27,99€"
             },
             "packages": [
                 57060
@@ -48,13 +48,13 @@
                     "subs": [
                         {
                             "packageid": 57060,
-                            "percent_savings_text": "-34%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Predestination - <span class=\"discount_original_price\">27,99€</span> 18,47€",
+                            "option_text": "Predestination - 27,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1847
+                            "price_in_cents_with_discount": 2799
                         }
                     ]
                 }

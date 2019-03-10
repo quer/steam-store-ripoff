@@ -39,10 +39,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 1499,
-                "final": 989,
-                "discount_percent": 34,
-                "initial_formatted": "14,99€",
-                "final_formatted": "9,89€"
+                "final": 1499,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "14,99€"
             },
             "packages": [
                 47693
@@ -59,13 +59,13 @@
                     "subs": [
                         {
                             "packageid": 47693,
-                            "percent_savings_text": "-34%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Rodina - <span class=\"discount_original_price\">14,99€</span> 9,89€",
+                            "option_text": "Rodina - 14,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 989
+                            "price_in_cents_with_discount": 1499
                         }
                     ]
                 }
@@ -173,7 +173,7 @@
                 }
             ],
             "recommendations": {
-                "total": 1094
+                "total": 1098
             },
             "achievements": {
                 "total": 0

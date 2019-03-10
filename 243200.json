@@ -34,16 +34,16 @@
             ],
             "price_overview": {
                 "currency": "EUR",
-                "initial": 1999,
-                "final": 199,
-                "discount_percent": 90,
-                "initial_formatted": "19,99€",
-                "final_formatted": "1,99€"
+                "initial": 3999,
+                "final": 479,
+                "discount_percent": 88,
+                "initial_formatted": "39,99€",
+                "final_formatted": "4,79€"
             },
             "packages": [
                 28558,
-                44166,
                 44162,
+                44166,
                 55062
             ],
             "package_groups": [
@@ -58,23 +58,13 @@
                     "subs": [
                         {
                             "packageid": 28558,
-                            "percent_savings_text": "-90%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Memoria - <span class=\"discount_original_price\">19,99€</span> 1,99€",
+                            "option_text": "Memoria - 19,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 199
-                        },
-                        {
-                            "packageid": 44166,
-                            "percent_savings_text": "-90%",
-                            "percent_savings": 0,
-                            "option_text": "The Dark Eye Universe Bundle - <span class=\"discount_original_price\">31,99€</span> 3,19€",
-                            "option_description": "",
-                            "can_get_free_license": "0",
-                            "is_free_license": false,
-                            "price_in_cents_with_discount": 319
+                            "price_in_cents_with_discount": 1999
                         },
                         {
                             "packageid": 44162,
@@ -87,14 +77,24 @@
                             "price_in_cents_with_discount": 479
                         },
                         {
-                            "packageid": 55062,
-                            "percent_savings_text": "-90%",
+                            "packageid": 44166,
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "The Daedalic Armageddon Bundle - <span class=\"discount_original_price\">120,99€</span> 12,09€",
+                            "option_text": "The Dark Eye Universe Bundle - 31,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1209
+                            "price_in_cents_with_discount": 3199
+                        },
+                        {
+                            "packageid": 55062,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "The Daedalic Armageddon Bundle - 120,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 12099
                         }
                     ]
                 }
@@ -231,7 +231,7 @@
                 }
             ],
             "recommendations": {
-                "total": 1204
+                "total": 1211
             },
             "achievements": {
                 "total": 31,

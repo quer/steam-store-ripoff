@@ -38,10 +38,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 999,
-                "final": 199,
-                "discount_percent": 80,
-                "initial_formatted": "9,99€",
-                "final_formatted": "1,99€"
+                "final": 999,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "9,99€"
             },
             "packages": [
                 56677,
@@ -59,23 +59,23 @@
                     "subs": [
                         {
                             "packageid": 56677,
-                            "percent_savings_text": "-80%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Dead Synchronicity: Tomorrow Comes Today - <span class=\"discount_original_price\">9,99€</span> 1,99€",
+                            "option_text": "Dead Synchronicity: Tomorrow Comes Today - 9,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 199
+                            "price_in_cents_with_discount": 999
                         },
                         {
                             "packageid": 76471,
-                            "percent_savings_text": "-90%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Daedalic - Gigantic Bundle - <span class=\"discount_original_price\">120,99€</span> 12,09€",
+                            "option_text": "Daedalic - Gigantic Bundle - 120,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1209
+                            "price_in_cents_with_discount": 12099
                         }
                     ]
                 }
@@ -217,7 +217,7 @@
                 }
             ],
             "recommendations": {
-                "total": 392
+                "total": 396
             },
             "achievements": {
                 "total": 24,

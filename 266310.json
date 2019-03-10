@@ -44,18 +44,18 @@
             ],
             "price_overview": {
                 "currency": "EUR",
-                "initial": 1999,
-                "final": 999,
+                "initial": 3699,
+                "final": 1849,
                 "discount_percent": 50,
-                "initial_formatted": "19,99€",
-                "final_formatted": "9,99€"
+                "initial_formatted": "36,99€",
+                "final_formatted": "18,49€"
             },
             "packages": [
                 34852,
                 237522,
+                90432,
                 90433,
                 67584,
-                90432,
                 67585
             ],
             "package_groups": [
@@ -70,13 +70,13 @@
                     "subs": [
                         {
                             "packageid": 34852,
-                            "percent_savings_text": "-50%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "GameGuru - <span class=\"discount_original_price\">19,99€</span> 9,99€",
+                            "option_text": "GameGuru - 19,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 999
+                            "price_in_cents_with_discount": 1999
                         },
                         {
                             "packageid": 237522,
@@ -87,6 +87,16 @@
                             "can_get_free_license": "0",
                             "is_free_license": false,
                             "price_in_cents_with_discount": 1999
+                        },
+                        {
+                            "packageid": 90432,
+                            "percent_savings_text": "-50%",
+                            "percent_savings": 0,
+                            "option_text": "GameGuru Fantasy Bundle - <span class=\"discount_original_price\">36,99€</span> 18,49€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 1849
                         },
                         {
                             "packageid": 90433,
@@ -107,16 +117,6 @@
                             "can_get_free_license": "0",
                             "is_free_license": false,
                             "price_in_cents_with_discount": 3399
-                        },
-                        {
-                            "packageid": 90432,
-                            "percent_savings_text": "",
-                            "percent_savings": 0,
-                            "option_text": "GameGuru Fantasy Bundle - 36,99€",
-                            "option_description": "",
-                            "can_get_free_license": "0",
-                            "is_free_license": false,
-                            "price_in_cents_with_discount": 3699
                         },
                         {
                             "packageid": 67585,
@@ -221,7 +221,7 @@
                 }
             ],
             "recommendations": {
-                "total": 775
+                "total": 776
             },
             "achievements": {
                 "total": 0

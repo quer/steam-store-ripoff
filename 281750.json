@@ -34,10 +34,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 499,
-                "final": 49,
-                "discount_percent": 90,
-                "initial_formatted": "4,99€",
-                "final_formatted": "0,49€"
+                "final": 499,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "4,99€"
             },
             "packages": [
                 38690,
@@ -55,23 +55,23 @@
                     "subs": [
                         {
                             "packageid": 38690,
-                            "percent_savings_text": "-90%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Munin - <span class=\"discount_original_price\">4,99€</span> 0,49€",
+                            "option_text": "Munin - 4,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 49
+                            "price_in_cents_with_discount": 499
                         },
                         {
                             "packageid": 76471,
-                            "percent_savings_text": "-90%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Daedalic - Gigantic Bundle - <span class=\"discount_original_price\">120,99€</span> 12,09€",
+                            "option_text": "Daedalic - Gigantic Bundle - 120,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1209
+                            "price_in_cents_with_discount": 12099
                         }
                     ]
                 }
@@ -181,7 +181,7 @@
                 }
             ],
             "recommendations": {
-                "total": 427
+                "total": 429
             },
             "achievements": {
                 "total": 18,

@@ -29,15 +29,15 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 999,
-                "final": 249,
-                "discount_percent": 75,
-                "initial_formatted": "9,99€",
-                "final_formatted": "2,49€"
+                "final": 999,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "9,99€"
             },
             "packages": [
                 1710,
-                1746,
-                46995
+                46995,
+                1746
             ],
             "package_groups": [
                 {
@@ -51,33 +51,33 @@
                     "subs": [
                         {
                             "packageid": 1710,
-                            "percent_savings_text": "-75%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Delta Force — Black Hawk Down: Team Sabre - <span class=\"discount_original_price\">9,99€</span> 2,49€",
+                            "option_text": "Delta Force — Black Hawk Down: Team Sabre - 9,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 249
-                        },
-                        {
-                            "packageid": 1746,
-                            "percent_savings_text": "-75%",
-                            "percent_savings": 0,
-                            "option_text": "Delta Force Platinum Pack - <span class=\"discount_original_price\">19,99€</span> 4,99€",
-                            "option_description": "",
-                            "can_get_free_license": "0",
-                            "is_free_license": false,
-                            "price_in_cents_with_discount": 499
+                            "price_in_cents_with_discount": 999
                         },
                         {
                             "packageid": 46995,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-80%",
                             "percent_savings": 0,
-                            "option_text": "NovaLogic Everything Pack - 64,99€",
+                            "option_text": "NovaLogic Everything Pack - <span class=\"discount_original_price\">64,99€</span> 12,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 6499
+                            "price_in_cents_with_discount": 1299
+                        },
+                        {
+                            "packageid": 1746,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Delta Force Platinum Pack - 19,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 1999
                         }
                     ]
                 }
@@ -141,7 +141,7 @@
                 }
             ],
             "recommendations": {
-                "total": 170
+                "total": 173
             },
             "achievements": {
                 "total": 0

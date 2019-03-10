@@ -31,10 +31,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 799,
-                "final": 799,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "7,99€"
+                "final": 239,
+                "discount_percent": 70,
+                "initial_formatted": "7,99€",
+                "final_formatted": "2,39€"
             },
             "packages": [
                 40594,
@@ -52,23 +52,23 @@
                     "subs": [
                         {
                             "packageid": 40594,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-70%",
                             "percent_savings": 0,
-                            "option_text": "Dracula 3: The Path of the Dragon - 7,99€",
+                            "option_text": "Dracula 3: The Path of the Dragon - <span class=\"discount_original_price\">7,99€</span> 2,39€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 799
+                            "price_in_cents_with_discount": 239
                         },
                         {
                             "packageid": 40595,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-60%",
                             "percent_savings": 0,
-                            "option_text": "Dracula Trilogy - 9,99€",
+                            "option_text": "Dracula Trilogy - <span class=\"discount_original_price\">9,99€</span> 3,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 999
+                            "price_in_cents_with_discount": 399
                         }
                     ]
                 }
