@@ -11,7 +11,7 @@
             "about_the_game": "Push Pull is a challenging 2D puzzle game. You play as Push and Pull, and must work together through a series of simple looking, yet challenging puzzles in an unknown test facility. Will you persevere and discover what purpose this testing serves? Includes over 40 levels and multiple puzzle mechanics.<br><br><strong>Important Notes for Co-op (Shared Screen):</strong><br>Push Pull was designed as a single player game. However, as you control two characters the majority of the game could be played as a shared screen co-op game.",
             "short_description": "Push Pull is a challenging 2D puzzle game. You play as Push and Pull, and must work together through a series of simple looking, yet challenging puzzles in an unknown test facility. Will you persevere and discover what purpose this testing serves? Includes over 40 levels and multiple puzzle mechanics.",
             "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1027720/header.jpg?t=1551852093",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1027720/header.jpg?t=1552063011",
             "website": null,
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 and above<br></li><li><strong>Processor:</strong> 1.2 GHz+<br></li><li><strong>Memory:</strong> 1024 MB RAM<br></li><li><strong>Graphics:</strong> Video card with 256 MB<br></li><li><strong>Storage:</strong> 100 MB available space</li></ul>",
@@ -26,7 +26,40 @@
             "publishers": [
                 "abso1ution"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 239,
+                "final": 239,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "2,39€"
+            },
+            "packages": [
+                341598
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Push Pull",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 341598,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Push Pull - 2,39€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 239
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": false,
@@ -51,28 +84,28 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1027720/ss_7cf4b95e28746f52476089de15ff2b1857d16639.600x338.jpg?t=1551852093",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1027720/ss_7cf4b95e28746f52476089de15ff2b1857d16639.1920x1080.jpg?t=1551852093"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1027720/ss_7cf4b95e28746f52476089de15ff2b1857d16639.600x338.jpg?t=1552063011",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1027720/ss_7cf4b95e28746f52476089de15ff2b1857d16639.1920x1080.jpg?t=1552063011"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1027720/ss_de6573f05dde285e032528e4791861e737355a2f.600x338.jpg?t=1551852093",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1027720/ss_de6573f05dde285e032528e4791861e737355a2f.1920x1080.jpg?t=1551852093"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1027720/ss_de6573f05dde285e032528e4791861e737355a2f.600x338.jpg?t=1552063011",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1027720/ss_de6573f05dde285e032528e4791861e737355a2f.1920x1080.jpg?t=1552063011"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1027720/ss_2a8fee5afc6cefe0ad9d363788cc6386e88e887e.600x338.jpg?t=1551852093",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1027720/ss_2a8fee5afc6cefe0ad9d363788cc6386e88e887e.1920x1080.jpg?t=1551852093"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1027720/ss_2a8fee5afc6cefe0ad9d363788cc6386e88e887e.600x338.jpg?t=1552063011",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1027720/ss_2a8fee5afc6cefe0ad9d363788cc6386e88e887e.1920x1080.jpg?t=1552063011"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1027720/ss_5adfdb30fb38d0e12a5074438881f3ac08a1ec87.600x338.jpg?t=1551852093",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1027720/ss_5adfdb30fb38d0e12a5074438881f3ac08a1ec87.1920x1080.jpg?t=1551852093"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1027720/ss_5adfdb30fb38d0e12a5074438881f3ac08a1ec87.600x338.jpg?t=1552063011",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1027720/ss_5adfdb30fb38d0e12a5074438881f3ac08a1ec87.1920x1080.jpg?t=1552063011"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1027720/ss_68aad848c9d032bf78de681e156750ec89561f83.600x338.jpg?t=1551852093",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1027720/ss_68aad848c9d032bf78de681e156750ec89561f83.1920x1080.jpg?t=1551852093"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1027720/ss_68aad848c9d032bf78de681e156750ec89561f83.600x338.jpg?t=1552063011",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1027720/ss_68aad848c9d032bf78de681e156750ec89561f83.1920x1080.jpg?t=1552063011"
                 }
             ],
             "movies": [
@@ -87,15 +120,18 @@
                     "highlight": true
                 }
             ],
+            "achievements": {
+                "total": 0
+            },
             "release_date": {
-                "coming_soon": true,
-                "date": "Coming Soon"
+                "coming_soon": false,
+                "date": "8 Mar, 2019"
             },
             "support_info": {
                 "url": "",
                 "email": "abso1ution.dev@gmail.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1027720/page_bg_generated_v6b.jpg?t=1551852093",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1027720/page_bg_generated_v6b.jpg?t=1552063011",
             "content_descriptors": {
                 "ids": [
                     5
