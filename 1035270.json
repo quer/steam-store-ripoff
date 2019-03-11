@@ -11,7 +11,7 @@
             "about_the_game": "Furry Chronicles is a classic platformer game with challenging levels and puzzles. Go on an adventure to save your friends from trouble by completing levels set in different environments, filled with various traps and puzzles.<br />\r\n<br />\r\nHand-crafted levels with many surprises and different uses of the game mechanics will test your reflexes and problem solving abilities!<br />\r\n<br />\r\nUnlock other playable characters by rescuing your friends throughout the game and add replay value to your experience.",
             "short_description": "Furry Chronicles is a classic sidescrolling platformer game with challenging levels and puzzles.",
             "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1035270/header.jpg?t=1551297676",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1035270/header.jpg?t=1552224353",
             "website": null,
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7, Windows 8, Windows 10<br></li><li><strong>Processor:</strong> Intel Core i3, 2.0 ghz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Integrated Intel graphics<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 1 GB available space<br></li><li><strong>Sound Card:</strong> Integrated audio</li></ul>"
@@ -23,12 +23,45 @@
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 14.04 LTS or later<br></li><li><strong>Processor:</strong> Intel Core i3, 2.0 ghz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Integrated Intel graphics<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Sound Card:</strong> Integrated audio</li></ul>"
             },
             "developers": [
-                "DISTANT Games"
+                "DYSTANT Games"
             ],
             "publishers": [
-                "DISTANT Games"
+                "DYSTANT Games"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 299,
+                "final": 299,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "2,99€"
+            },
+            "packages": [
+                344577
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Furry Chronicles",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 344577,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Furry Chronicles - 2,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 299
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": false,
@@ -61,33 +94,33 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1035270/ss_4e9e7c2caad8c30205cb2cbb72cf27b930dcee3e.600x338.jpg?t=1551297676",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1035270/ss_4e9e7c2caad8c30205cb2cbb72cf27b930dcee3e.1920x1080.jpg?t=1551297676"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1035270/ss_4e9e7c2caad8c30205cb2cbb72cf27b930dcee3e.600x338.jpg?t=1552224353",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1035270/ss_4e9e7c2caad8c30205cb2cbb72cf27b930dcee3e.1920x1080.jpg?t=1552224353"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1035270/ss_7355ad9e513f6fea2a07cf9cf15a01a52a21944e.600x338.jpg?t=1551297676",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1035270/ss_7355ad9e513f6fea2a07cf9cf15a01a52a21944e.1920x1080.jpg?t=1551297676"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1035270/ss_7355ad9e513f6fea2a07cf9cf15a01a52a21944e.600x338.jpg?t=1552224353",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1035270/ss_7355ad9e513f6fea2a07cf9cf15a01a52a21944e.1920x1080.jpg?t=1552224353"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1035270/ss_048c5e0c25897aef9b02a644bcbcef1b98e6eec1.600x338.jpg?t=1551297676",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1035270/ss_048c5e0c25897aef9b02a644bcbcef1b98e6eec1.1920x1080.jpg?t=1551297676"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1035270/ss_048c5e0c25897aef9b02a644bcbcef1b98e6eec1.600x338.jpg?t=1552224353",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1035270/ss_048c5e0c25897aef9b02a644bcbcef1b98e6eec1.1920x1080.jpg?t=1552224353"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1035270/ss_c2e0001488e874ea69dfcbdcf7be47060ce78d81.600x338.jpg?t=1551297676",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1035270/ss_c2e0001488e874ea69dfcbdcf7be47060ce78d81.1920x1080.jpg?t=1551297676"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1035270/ss_c2e0001488e874ea69dfcbdcf7be47060ce78d81.600x338.jpg?t=1552224353",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1035270/ss_c2e0001488e874ea69dfcbdcf7be47060ce78d81.1920x1080.jpg?t=1552224353"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1035270/ss_6a63728f14a1d14ffcbf3a821863ab3e3730c70f.600x338.jpg?t=1551297676",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1035270/ss_6a63728f14a1d14ffcbf3a821863ab3e3730c70f.1920x1080.jpg?t=1551297676"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1035270/ss_6a63728f14a1d14ffcbf3a821863ab3e3730c70f.600x338.jpg?t=1552224353",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1035270/ss_6a63728f14a1d14ffcbf3a821863ab3e3730c70f.1920x1080.jpg?t=1552224353"
                 },
                 {
                     "id": 5,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1035270/ss_f14d856fa84d9494e871c86354c2aa125b2053b2.600x338.jpg?t=1551297676",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1035270/ss_f14d856fa84d9494e871c86354c2aa125b2053b2.1920x1080.jpg?t=1551297676"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1035270/ss_f14d856fa84d9494e871c86354c2aa125b2053b2.600x338.jpg?t=1552224353",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1035270/ss_f14d856fa84d9494e871c86354c2aa125b2053b2.1920x1080.jpg?t=1552224353"
                 }
             ],
             "movies": [
@@ -103,14 +136,14 @@
                 }
             ],
             "release_date": {
-                "coming_soon": true,
+                "coming_soon": false,
                 "date": "10 Mar, 2019"
             },
             "support_info": {
                 "url": "http://adamantgame.com/",
                 "email": "distansgames@gmail.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1035270/page_bg_generated_v6b.jpg?t=1551297676",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1035270/page_bg_generated_v6b.jpg?t=1552224353",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
