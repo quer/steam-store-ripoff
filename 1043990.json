@@ -15,16 +15,16 @@
                 "name": "Boobs 'em up"
             },
             "supported_languages": "English, French, Italian, German, Spanish - Spain, Arabic, Bulgarian, Czech, Danish, Dutch, Finnish, Greek, Hungarian, Japanese, Korean, Norwegian, Polish, Portuguese, Romanian, Russian, Simplified Chinese, Swedish, Thai, Traditional Chinese, Turkish, Ukrainian, Vietnamese",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1043990/header.jpg?t=1551982828",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1043990/header.jpg?t=1552044277",
             "website": null,
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 8 or later<br></li><li><strong>Processor:</strong> 2 GHz processor or better<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> DirectX compatible video card with at least 512 VRAM<br></li><li><strong>Storage:</strong> 1 MB available space</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Betriebssystem:</strong> Windows 8 or later<br></li><li><strong>Prozessor:</strong> 2 GHz processor or better<br></li><li><strong>Arbeitsspeicher:</strong> 4 GB RAM<br></li><li><strong>Grafik:</strong> DirectX compatible video card with at least 512 VRAM<br></li><li><strong>Speicherplatz:</strong> 1 MB verfügbarer Speicherplatz</li></ul>"
             },
             "mac_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 10.5 or later<br></li><li><strong>Processor:</strong> Intel 2 GHz processor or better<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL 2.0 compatible video card with at least 128 VRAM<br></li><li><strong>Storage:</strong> 1 MB available space</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Betriebssystem:</strong> 10.5 or later<br></li><li><strong>Prozessor:</strong> Intel 2 GHz processor or better<br></li><li><strong>Arbeitsspeicher:</strong> 4 GB RAM<br></li><li><strong>Grafik:</strong> OpenGL 2.0 compatible video card with at least 128 VRAM<br></li><li><strong>Speicherplatz:</strong> 1 MB verfügbarer Speicherplatz</li></ul>"
             },
             "linux_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 12.04 LTS (or similar, Debian-based distro)<br></li><li><strong>Processor:</strong> 2 GHz processor or better<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL 2.0 compatible video card<br></li><li><strong>Storage:</strong> 1 MB available space</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Betriebssystem:</strong> Ubuntu 12.04 LTS (or similar, Debian-based distro)<br></li><li><strong>Prozessor:</strong> 2 GHz processor or better<br></li><li><strong>Arbeitsspeicher:</strong> 4 GB RAM<br></li><li><strong>Grafik:</strong> OpenGL 2.0 compatible video card<br></li><li><strong>Speicherplatz:</strong> 1 MB verfügbarer Speicherplatz</li></ul>"
             },
             "developers": [
                 "Cool Girls Games"
@@ -32,7 +32,40 @@
             "publishers": [
                 "Cool Girls Games"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 95,
+                "final": 80,
+                "discount_percent": 16,
+                "initial_formatted": "0,95€",
+                "final_formatted": "0,80€"
+            },
+            "packages": [
+                347840
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Charlotte for Boobs 'em up",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 347840,
+                            "percent_savings_text": "-16%",
+                            "percent_savings": 0,
+                            "option_text": "Charlotte for Boobs 'em up - <span class=\"discount_original_price\">0,95€</span> 0,80€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 80
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": true,
@@ -93,44 +126,47 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1043990/ss_67ffbb3763d3459d88134b664e1aa5d53123d740.600x338.jpg?t=1551982828",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1043990/ss_67ffbb3763d3459d88134b664e1aa5d53123d740.1920x1080.jpg?t=1551982828"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1043990/ss_67ffbb3763d3459d88134b664e1aa5d53123d740.600x338.jpg?t=1552044277",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1043990/ss_67ffbb3763d3459d88134b664e1aa5d53123d740.1920x1080.jpg?t=1552044277"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1043990/ss_10e281304199d52d9aeeb1bf564ffd76736ce063.600x338.jpg?t=1551982828",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1043990/ss_10e281304199d52d9aeeb1bf564ffd76736ce063.1920x1080.jpg?t=1551982828"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1043990/ss_10e281304199d52d9aeeb1bf564ffd76736ce063.600x338.jpg?t=1552044277",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1043990/ss_10e281304199d52d9aeeb1bf564ffd76736ce063.1920x1080.jpg?t=1552044277"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1043990/ss_67287e35f8b229f19b7bccd3b2af212d9eef3e85.600x338.jpg?t=1551982828",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1043990/ss_67287e35f8b229f19b7bccd3b2af212d9eef3e85.1920x1080.jpg?t=1551982828"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1043990/ss_67287e35f8b229f19b7bccd3b2af212d9eef3e85.600x338.jpg?t=1552044277",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1043990/ss_67287e35f8b229f19b7bccd3b2af212d9eef3e85.1920x1080.jpg?t=1552044277"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1043990/ss_d2242671bdb53ad50fc56ed9ea734cb330cd0e62.600x338.jpg?t=1551982828",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1043990/ss_d2242671bdb53ad50fc56ed9ea734cb330cd0e62.1920x1080.jpg?t=1551982828"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1043990/ss_d2242671bdb53ad50fc56ed9ea734cb330cd0e62.600x338.jpg?t=1552044277",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1043990/ss_d2242671bdb53ad50fc56ed9ea734cb330cd0e62.1920x1080.jpg?t=1552044277"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1043990/ss_9d738c029bbf10e9f806bf9ba42421d5a391106f.600x338.jpg?t=1551982828",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1043990/ss_9d738c029bbf10e9f806bf9ba42421d5a391106f.1920x1080.jpg?t=1551982828"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1043990/ss_9d738c029bbf10e9f806bf9ba42421d5a391106f.600x338.jpg?t=1552044277",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1043990/ss_9d738c029bbf10e9f806bf9ba42421d5a391106f.1920x1080.jpg?t=1552044277"
                 },
                 {
                     "id": 5,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1043990/ss_38a63983bea3174eb571b12410442ae423509d4c.600x338.jpg?t=1551982828",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1043990/ss_38a63983bea3174eb571b12410442ae423509d4c.1920x1080.jpg?t=1551982828"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1043990/ss_38a63983bea3174eb571b12410442ae423509d4c.600x338.jpg?t=1552044277",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1043990/ss_38a63983bea3174eb571b12410442ae423509d4c.1920x1080.jpg?t=1552044277"
                 }
             ],
+            "achievements": {
+                "total": 0
+            },
             "release_date": {
-                "coming_soon": true,
-                "date": "7 Mar, 2019"
+                "coming_soon": false,
+                "date": "8 Mar, 2019"
             },
             "support_info": {
                 "url": "",
                 "email": "mysteamgames2018@gmail.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1043990/page_bg_generated_v6b.jpg?t=1551982828",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1043990/page_bg_generated_v6b.jpg?t=1552044277",
             "content_descriptors": {
                 "ids": [
                     1,
