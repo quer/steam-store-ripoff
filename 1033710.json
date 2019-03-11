@@ -11,7 +11,7 @@
             "about_the_game": "Nice minimal casual game about Froggy &amp; Co.<br />\r\nMove through an endless level full of different dangers and collect coins. Among the obstacles you will meet flying arrows, fireballs, huge spiked wheels, deep rivers and creeping slugs, as well as a huge poisonous cloud that follows you all the way. Pick up powerups to ease your hard way. Accumulate coins to unlock other interesting characters. This long road crossing will never end.",
             "short_description": "Nice minimal casual game about Froggy &amp; Co.",
             "supported_languages": "English",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1033710/header.jpg?t=1550990827",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1033710/header.jpg?t=1552148419",
             "website": null,
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 x64<br></li><li><strong>Processor:</strong> Core 2 Duo or equal<br></li><li><strong>Memory:</strong> 2048 MB RAM<br></li><li><strong>Graphics:</strong> GTS 240<br></li><li><strong>Storage:</strong> 50 MB available space</li></ul>"
@@ -24,7 +24,40 @@
             "publishers": [
                 "cBlck"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 79,
+                "final": 47,
+                "discount_percent": 41,
+                "initial_formatted": "0,79€",
+                "final_formatted": "0,47€"
+            },
+            "packages": [
+                343985
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Froggo",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 343985,
+                            "percent_savings_text": "-41%",
+                            "percent_savings": 0,
+                            "option_text": "Froggo - <span class=\"discount_original_price\">0,79€</span> 0,47€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 47
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": false,
@@ -53,33 +86,33 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1033710/ss_9836fbb605f2863ec796c59d81b1c3b4802d26af.600x338.jpg?t=1550990827",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1033710/ss_9836fbb605f2863ec796c59d81b1c3b4802d26af.1920x1080.jpg?t=1550990827"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1033710/ss_9836fbb605f2863ec796c59d81b1c3b4802d26af.600x338.jpg?t=1552148419",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1033710/ss_9836fbb605f2863ec796c59d81b1c3b4802d26af.1920x1080.jpg?t=1552148419"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1033710/ss_228dcf6dd7e94a57cb2bb2928bcd42e41c9396e9.600x338.jpg?t=1550990827",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1033710/ss_228dcf6dd7e94a57cb2bb2928bcd42e41c9396e9.1920x1080.jpg?t=1550990827"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1033710/ss_228dcf6dd7e94a57cb2bb2928bcd42e41c9396e9.600x338.jpg?t=1552148419",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1033710/ss_228dcf6dd7e94a57cb2bb2928bcd42e41c9396e9.1920x1080.jpg?t=1552148419"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1033710/ss_b8c25139d5e36f1cb6aa45c5ae83208f3aba038b.600x338.jpg?t=1550990827",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1033710/ss_b8c25139d5e36f1cb6aa45c5ae83208f3aba038b.1920x1080.jpg?t=1550990827"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1033710/ss_b8c25139d5e36f1cb6aa45c5ae83208f3aba038b.600x338.jpg?t=1552148419",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1033710/ss_b8c25139d5e36f1cb6aa45c5ae83208f3aba038b.1920x1080.jpg?t=1552148419"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1033710/ss_144e7d0458604403b69255401aad1d4ac76246fa.600x338.jpg?t=1550990827",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1033710/ss_144e7d0458604403b69255401aad1d4ac76246fa.1920x1080.jpg?t=1550990827"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1033710/ss_144e7d0458604403b69255401aad1d4ac76246fa.600x338.jpg?t=1552148419",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1033710/ss_144e7d0458604403b69255401aad1d4ac76246fa.1920x1080.jpg?t=1552148419"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1033710/ss_34e99580008cec2610b45a015cda074ea5db3703.600x338.jpg?t=1550990827",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1033710/ss_34e99580008cec2610b45a015cda074ea5db3703.1920x1080.jpg?t=1550990827"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1033710/ss_34e99580008cec2610b45a015cda074ea5db3703.600x338.jpg?t=1552148419",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1033710/ss_34e99580008cec2610b45a015cda074ea5db3703.1920x1080.jpg?t=1552148419"
                 },
                 {
                     "id": 5,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1033710/ss_213f1c00f42aa56d3e92dc12219a9b8741d3b159.600x338.jpg?t=1550990827",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1033710/ss_213f1c00f42aa56d3e92dc12219a9b8741d3b159.1920x1080.jpg?t=1550990827"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1033710/ss_213f1c00f42aa56d3e92dc12219a9b8741d3b159.600x338.jpg?t=1552148419",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1033710/ss_213f1c00f42aa56d3e92dc12219a9b8741d3b159.1920x1080.jpg?t=1552148419"
                 }
             ],
             "movies": [
@@ -95,14 +128,14 @@
                 }
             ],
             "release_date": {
-                "coming_soon": true,
+                "coming_soon": false,
                 "date": "9 Mar, 2019"
             },
             "support_info": {
                 "url": "",
                 "email": "cBlck@gmail.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1033710/page_bg_generated_v6b.jpg?t=1550990827",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1033710/page_bg_generated_v6b.jpg?t=1552148419",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
