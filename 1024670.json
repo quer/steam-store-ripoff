@@ -12,7 +12,7 @@
             "about_the_game": "<h2 class=\"bb_tag\">Story</h2>On a mission to locate a lost facility in the core of an alien planet, you must fight your way through hordes of homicidal fungus, murderous rocks, and a spreading infection. Will you be the first to uncover the truth? Or will you fall like the many before you? The fate of the universe rests in your hands...<h2 class=\"bb_tag\">Gameplay</h2>Ruination is a 2D action platformer, with an emphasis on satisfying gunplay! Inspired by games like Metroid, Einhander, and Enter the Gungeon.<br><br>  <ul class=\"bb_ul\"><li> 12 Levels - Spread across three zones with distinct atmosphere, enemies, and weaponry.<br>  </li><li> 3 Bosses - Violent monsters so terrible not even the local creatures dare approach.<br>  </li><li> 7 Weapons - Each more destructive than the last!<br>  </li><li> Steam achievements!</li></ul>",
             "short_description": "Navigate a hostile alien world full of monstrous creatures! Battle mighty bosses! Wield a vast array of brutal weaponry! Fight your way to the core of the planet and complete your mission... or die.",
             "supported_languages": "English",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1024670/header.jpg?t=1551410149",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1024670/header.jpg?t=1552077314",
             "website": null,
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 and above.<br></li><li><strong>Processor:</strong> You need one of these<br></li><li><strong>Memory:</strong> 40 MB RAM<br></li><li><strong>Graphics:</strong> We have them<br></li><li><strong>Storage:</strong> 20 MB available space<br></li><li><strong>Additional Notes:</strong> Hands required</li></ul>"
@@ -25,7 +25,40 @@
             "publishers": [
                 "Zachary Lee"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 79,
+                "final": 71,
+                "discount_percent": 10,
+                "initial_formatted": "0,79€",
+                "final_formatted": "0,71€"
+            },
+            "packages": [
+                340315
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Ruination",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 340315,
+                            "percent_savings_text": "-10%",
+                            "percent_savings": 0,
+                            "option_text": "Ruination - <span class=\"discount_original_price\">0,79€</span> 0,71€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 71
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": false,
@@ -58,28 +91,28 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1024670/ss_e07b402ff5f703c611053e9cd2c3c49c4811342a.600x338.jpg?t=1551410149",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1024670/ss_e07b402ff5f703c611053e9cd2c3c49c4811342a.1920x1080.jpg?t=1551410149"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1024670/ss_e07b402ff5f703c611053e9cd2c3c49c4811342a.600x338.jpg?t=1552077314",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1024670/ss_e07b402ff5f703c611053e9cd2c3c49c4811342a.1920x1080.jpg?t=1552077314"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1024670/ss_4907c2686598e02bdc9c92e5702bc7260ae547c1.600x338.jpg?t=1551410149",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1024670/ss_4907c2686598e02bdc9c92e5702bc7260ae547c1.1920x1080.jpg?t=1551410149"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1024670/ss_4907c2686598e02bdc9c92e5702bc7260ae547c1.600x338.jpg?t=1552077314",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1024670/ss_4907c2686598e02bdc9c92e5702bc7260ae547c1.1920x1080.jpg?t=1552077314"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1024670/ss_0176f0d233db5ace59943a4651db46fd9f314900.600x338.jpg?t=1551410149",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1024670/ss_0176f0d233db5ace59943a4651db46fd9f314900.1920x1080.jpg?t=1551410149"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1024670/ss_0176f0d233db5ace59943a4651db46fd9f314900.600x338.jpg?t=1552077314",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1024670/ss_0176f0d233db5ace59943a4651db46fd9f314900.1920x1080.jpg?t=1552077314"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1024670/ss_b3d284127864af1b8cff6586205af4d50d0bf68e.600x338.jpg?t=1551410149",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1024670/ss_b3d284127864af1b8cff6586205af4d50d0bf68e.1920x1080.jpg?t=1551410149"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1024670/ss_b3d284127864af1b8cff6586205af4d50d0bf68e.600x338.jpg?t=1552077314",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1024670/ss_b3d284127864af1b8cff6586205af4d50d0bf68e.1920x1080.jpg?t=1552077314"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1024670/ss_1d1d308985823c870f94b4547cca3f03de51f89c.600x338.jpg?t=1551410149",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1024670/ss_1d1d308985823c870f94b4547cca3f03de51f89c.1920x1080.jpg?t=1551410149"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1024670/ss_1d1d308985823c870f94b4547cca3f03de51f89c.600x338.jpg?t=1552077314",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1024670/ss_1d1d308985823c870f94b4547cca3f03de51f89c.1920x1080.jpg?t=1552077314"
                 }
             ],
             "movies": [
@@ -94,15 +127,48 @@
                     "highlight": true
                 }
             ],
+            "achievements": {
+                "total": 7,
+                "highlighted": [
+                    {
+                        "name": "CAVE BOSS ELIMINATED",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1024670/d71c33d965f04d8f26ffc949989766785f9745da.jpg"
+                    },
+                    {
+                        "name": "DEPTH BOSS ELIMINATED",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1024670/3fdee5893fb8fd66d5a0c1b8f54465f624a4552a.jpg"
+                    },
+                    {
+                        "name": "FINAL BOSS ELIMINATED",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1024670/a58a245f31fdaf9af4c56d6ed9b64878ba11bbcf.jpg"
+                    },
+                    {
+                        "name": "ALL GUNS FOUND",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1024670/c2226ee677e4597cf22ad7295d4919263351d99a.jpg"
+                    },
+                    {
+                        "name": "CAVE BOSS CHALLENGE",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1024670/12f9c3c9db5cbbfb8fc44fd3fe5bc58fcb715299.jpg"
+                    },
+                    {
+                        "name": "DEPTH BOSS CHALLENGE",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1024670/da2d133293fa273de55ec1b31a43afe43c266adb.jpg"
+                    },
+                    {
+                        "name": "FINAL BOSS CHALLENGE",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1024670/cf5f605d89ee6ef6c576062f49cb16719ff862b2.jpg"
+                    }
+                ]
+            },
             "release_date": {
-                "coming_soon": true,
+                "coming_soon": false,
                 "date": "8 Mar, 2019"
             },
             "support_info": {
                 "url": "",
                 "email": "help.ruination@gmail.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1024670/page_bg_generated_v6b.jpg?t=1551410149",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1024670/page_bg_generated_v6b.jpg?t=1552077314",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
