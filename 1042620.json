@@ -11,14 +11,20 @@
             "about_the_game": "<h2 class=\"bb_tag\">welcome to the virtual world, <strong> where you can become whoever you want!</strong></h2><br>Nexus - <strong> is a real life simulator</strong>, your every action will affect the life of Your character, <br>the basic idea of the project is to give players complete freedom in the vast giant world.",
             "short_description": "Nexus is an experimental project that combines many genres, developing in different directions, the main of which is the simulator",
             "supported_languages": "English, Russian",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1042620/header.jpg?t=1552041070",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1042620/header.jpg?t=1552219465",
             "website": "https://ineffable.pro",
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 64<br></li><li><strong>Processor:</strong> Intel Core i5-2400/AMD FX-8320<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> GeForce GTX 660 / Radeon HD 7850<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 15 GB available space</li></ul>",
-                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10 64<br></li><li><strong>Processor:</strong> Core i7-4790 4-Core 3.6GHz / FX-8350<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> GeForce GTX 1060 / Radeon RX 480<br></li><li><strong>DirectX:</strong> Version 12<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 15 GB available space</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 7 64<br></li><li><strong>Processor:</strong> Intel Core i5-2400/AMD FX-8320<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> GeForce GTX 660 / Radeon HD 7850<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 15 GB available space</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10 64<br></li><li><strong>Processor:</strong> Core i7-4790 4-Core 3.6GHz / FX-8350<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> GeForce GTX 1060 / Radeon RX 480<br></li><li><strong>DirectX:</strong> Version 12<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 15 GB available space</li></ul>"
             },
-            "mac_requirements": [],
-            "linux_requirements": [],
+            "mac_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+            },
+            "linux_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+            },
             "legal_notice": "All rights reserved",
             "developers": [
                 "INEFFABLE"
@@ -75,33 +81,28 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1042620/ss_5957bc86dce758d25afbbb6446e568979fe23024.600x338.jpg?t=1552041070",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1042620/ss_5957bc86dce758d25afbbb6446e568979fe23024.1920x1080.jpg?t=1552041070"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1042620/ss_5957bc86dce758d25afbbb6446e568979fe23024.600x338.jpg?t=1552219465",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1042620/ss_5957bc86dce758d25afbbb6446e568979fe23024.1920x1080.jpg?t=1552219465"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1042620/ss_424060b29c5871a4af0cbda23bfa8fa1ef3d71ee.600x338.jpg?t=1552041070",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1042620/ss_424060b29c5871a4af0cbda23bfa8fa1ef3d71ee.1920x1080.jpg?t=1552041070"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1042620/ss_a26da3f09882031baad2a61fa23c2d46d483f7c8.600x338.jpg?t=1552219465",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1042620/ss_a26da3f09882031baad2a61fa23c2d46d483f7c8.1920x1080.jpg?t=1552219465"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1042620/ss_de08075275724ca409d236acf146a3be6f1d1ad4.600x338.jpg?t=1552041070",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1042620/ss_de08075275724ca409d236acf146a3be6f1d1ad4.1920x1080.jpg?t=1552041070"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1042620/ss_b6c430e29e1173a23ed53c137d64593c017fedb5.600x338.jpg?t=1552219465",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1042620/ss_b6c430e29e1173a23ed53c137d64593c017fedb5.1920x1080.jpg?t=1552219465"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1042620/ss_16e8ffae6d48b037812a47f0969a5a07c0463bcb.600x338.jpg?t=1552041070",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1042620/ss_16e8ffae6d48b037812a47f0969a5a07c0463bcb.1920x1080.jpg?t=1552041070"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1042620/ss_2d91f9ffad24c045ea7fddff5ae8ba0ed29f5267.600x338.jpg?t=1552219465",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1042620/ss_2d91f9ffad24c045ea7fddff5ae8ba0ed29f5267.1920x1080.jpg?t=1552219465"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1042620/ss_ede0ae3fe35ea72276d7892d4ecf6858ce2fd3fd.600x338.jpg?t=1552041070",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1042620/ss_ede0ae3fe35ea72276d7892d4ecf6858ce2fd3fd.1920x1080.jpg?t=1552041070"
-                },
-                {
-                    "id": 5,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1042620/ss_3bb3a7858231f269ca40a881c8e41550eb0445f7.600x338.jpg?t=1552041070",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1042620/ss_3bb3a7858231f269ca40a881c8e41550eb0445f7.1920x1080.jpg?t=1552041070"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1042620/ss_f71ffd6211507360e543b7c4de351d4c03565972.600x338.jpg?t=1552219465",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1042620/ss_f71ffd6211507360e543b7c4de351d4c03565972.1920x1080.jpg?t=1552219465"
                 }
             ],
             "release_date": {
@@ -112,7 +113,7 @@
                 "url": "https://ineffable.pro",
                 "email": "verk.ineffable@gmail.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1042620/page_bg_generated_v6b.jpg?t=1552041070",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1042620/page_bg_generated_v6b.jpg?t=1552219465",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
