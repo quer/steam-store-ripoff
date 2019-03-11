@@ -36,10 +36,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 90,
-                "final": 67,
-                "discount_percent": 26,
-                "initial_formatted": "0,90€",
-                "final_formatted": "0,67€"
+                "final": 90,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "0,90€"
             },
             "packages": [
                 343324
@@ -56,13 +56,13 @@
                     "subs": [
                         {
                             "packageid": 343324,
-                            "percent_savings_text": "-26%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Shantalia and Corali'hulu (Extra) - <span class=\"discount_original_price\">0,90€</span> 0,67€",
+                            "option_text": "Shantalia and Corali'hulu (Extra) - 0,90€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 67
+                            "price_in_cents_with_discount": 90
                         }
                     ]
                 }
