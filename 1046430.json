@@ -10,8 +10,8 @@
             "detailed_description": "Survive for a given time in 10 different pre built mazes each with its own unique theme, size, and difficulty.<br />\r\n - FPS And Top Down Hybrid Gameplay<br />\r\n - High Quality WAV Sound Effect And Music, You Will Rarely Be Tired Of Hearing The Same Thing Over And Over Again<br />\r\n - Lots Of Explosion, Enemies Explode Into Piles Of Bones And Chunks Of Meat With Blood Splattering Everywhere Because Your Bullets Explode On Contact<br />\r\n - No Ammo Counter Or Reloading, So Keep Shooting!<br />\r\n - 10 Different Type Of Monsters That Will Keep Pursuing You Throughout The Entire Maze <br />\r\n - 8 Different Armor And Weapon Configuration To Choose From<br />\r\n - Multiplayer Support (Not Tested) If More Players Join Your Instance The Number Of Monsters Will Increase As Well<br />\r\n - Chat With Other Players<br />\r\n - Graphic Settings That Remembers The Last Settings You Set",
             "about_the_game": "Survive for a given time in 10 different pre built mazes each with its own unique theme, size, and difficulty.<br />\r\n - FPS And Top Down Hybrid Gameplay<br />\r\n - High Quality WAV Sound Effect And Music, You Will Rarely Be Tired Of Hearing The Same Thing Over And Over Again<br />\r\n - Lots Of Explosion, Enemies Explode Into Piles Of Bones And Chunks Of Meat With Blood Splattering Everywhere Because Your Bullets Explode On Contact<br />\r\n - No Ammo Counter Or Reloading, So Keep Shooting!<br />\r\n - 10 Different Type Of Monsters That Will Keep Pursuing You Throughout The Entire Maze <br />\r\n - 8 Different Armor And Weapon Configuration To Choose From<br />\r\n - Multiplayer Support (Not Tested) If More Players Join Your Instance The Number Of Monsters Will Increase As Well<br />\r\n - Chat With Other Players<br />\r\n - Graphic Settings That Remembers The Last Settings You Set",
             "short_description": "Survive for a given time in 10 different pre built mazes each with its own unique theme, size, and difficulty.",
-            "supported_languages": "English",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1046430/header.jpg?t=1552067458",
+            "supported_languages": "English, Simplified Chinese",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1046430/header.jpg?t=1552301421",
             "website": null,
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> tested on windows 10<br></li><li><strong>Graphics:</strong> should work on any GPU due to graphic settings unless your gpu is very outdated</li></ul>",
@@ -40,6 +40,22 @@
                 {
                     "id": 1,
                     "description": "Multi-player"
+                },
+                {
+                    "id": 37,
+                    "description": "Local Multi-Player"
+                },
+                {
+                    "id": 9,
+                    "description": "Co-op"
+                },
+                {
+                    "id": 39,
+                    "description": "Local Co-op"
+                },
+                {
+                    "id": 22,
+                    "description": "Steam Achievements"
                 }
             ],
             "genres": [
@@ -51,103 +67,120 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1046430/ss_3bffdd3e41a5b67acf5f3dc892fa5ac00ecb0705.600x338.jpg?t=1552067458",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1046430/ss_3bffdd3e41a5b67acf5f3dc892fa5ac00ecb0705.1920x1080.jpg?t=1552067458"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1046430/ss_10b4ca52500463067167201813f75171eb8aeb46.600x338.jpg?t=1552301421",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1046430/ss_10b4ca52500463067167201813f75171eb8aeb46.1920x1080.jpg?t=1552301421"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1046430/ss_c2d33ac11328be72c53f3737feab18c3e543b3be.600x338.jpg?t=1552067458",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1046430/ss_c2d33ac11328be72c53f3737feab18c3e543b3be.1920x1080.jpg?t=1552067458"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1046430/ss_c7cae686fa5365fc951f132a5926e58543a4e250.600x338.jpg?t=1552301421",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1046430/ss_c7cae686fa5365fc951f132a5926e58543a4e250.1920x1080.jpg?t=1552301421"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1046430/ss_fe97a22d96fe082b8a64870940c247821da421c0.600x338.jpg?t=1552067458",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1046430/ss_fe97a22d96fe082b8a64870940c247821da421c0.1920x1080.jpg?t=1552067458"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1046430/ss_0817adaa4136241f9f30a6bc156996eec11b9abb.600x338.jpg?t=1552301421",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1046430/ss_0817adaa4136241f9f30a6bc156996eec11b9abb.1920x1080.jpg?t=1552301421"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1046430/ss_1e411e9ac2dda2f6d141ed2a1bfc50a051df096f.600x338.jpg?t=1552067458",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1046430/ss_1e411e9ac2dda2f6d141ed2a1bfc50a051df096f.1920x1080.jpg?t=1552067458"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1046430/ss_e1a753cf351e3a545169bbf08492af6f6fd6b928.600x338.jpg?t=1552301421",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1046430/ss_e1a753cf351e3a545169bbf08492af6f6fd6b928.1920x1080.jpg?t=1552301421"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1046430/ss_2276614003f7450cadaed5bb306346ba1a1687ec.600x338.jpg?t=1552067458",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1046430/ss_2276614003f7450cadaed5bb306346ba1a1687ec.1920x1080.jpg?t=1552067458"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1046430/ss_4bedad595eda025c57914e11657921f418f1d54b.600x338.jpg?t=1552301421",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1046430/ss_4bedad595eda025c57914e11657921f418f1d54b.1920x1080.jpg?t=1552301421"
                 },
                 {
                     "id": 5,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1046430/ss_c7f58cbb920ede2e443bf93cf7db89abcfefd817.600x338.jpg?t=1552067458",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1046430/ss_c7f58cbb920ede2e443bf93cf7db89abcfefd817.1920x1080.jpg?t=1552067458"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1046430/ss_1bc219ee2257940be930bf204c34b6079ed65893.600x338.jpg?t=1552301421",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1046430/ss_1bc219ee2257940be930bf204c34b6079ed65893.1920x1080.jpg?t=1552301421"
                 },
                 {
                     "id": 6,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1046430/ss_222da0c68b2681603c608d9f4760d0be31ce5cbb.600x338.jpg?t=1552067458",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1046430/ss_222da0c68b2681603c608d9f4760d0be31ce5cbb.1920x1080.jpg?t=1552067458"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1046430/ss_4ad08bcfe5a0ba27a7182d795d9737127e3576a8.600x338.jpg?t=1552301421",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1046430/ss_4ad08bcfe5a0ba27a7182d795d9737127e3576a8.1920x1080.jpg?t=1552301421"
                 },
                 {
                     "id": 7,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1046430/ss_de3ee3428e4fac242fc8f702373b4212a6f2647f.600x338.jpg?t=1552067458",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1046430/ss_de3ee3428e4fac242fc8f702373b4212a6f2647f.1920x1080.jpg?t=1552067458"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1046430/ss_444ec8bf68982a788f53b4847a676517c2185f7b.600x338.jpg?t=1552301421",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1046430/ss_444ec8bf68982a788f53b4847a676517c2185f7b.1920x1080.jpg?t=1552301421"
                 },
                 {
                     "id": 8,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1046430/ss_2385d93a442a8c117e169f33b95f5b5e19d1edc0.600x338.jpg?t=1552067458",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1046430/ss_2385d93a442a8c117e169f33b95f5b5e19d1edc0.1920x1080.jpg?t=1552067458"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1046430/ss_5ef24bc02e4b4486d5d17d0b2237978259cceb37.600x338.jpg?t=1552301421",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1046430/ss_5ef24bc02e4b4486d5d17d0b2237978259cceb37.1920x1080.jpg?t=1552301421"
                 },
                 {
                     "id": 9,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1046430/ss_57131e21eda008006c1cc440f805b962274931a7.600x338.jpg?t=1552067458",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1046430/ss_57131e21eda008006c1cc440f805b962274931a7.1920x1080.jpg?t=1552067458"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1046430/ss_8654c4a21be311ecb571bad81fb2a42e19b27a8d.600x338.jpg?t=1552301421",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1046430/ss_8654c4a21be311ecb571bad81fb2a42e19b27a8d.1920x1080.jpg?t=1552301421"
                 },
                 {
                     "id": 10,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1046430/ss_9383fe45a73f0285f37eee32f36505077ea05697.600x338.jpg?t=1552067458",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1046430/ss_9383fe45a73f0285f37eee32f36505077ea05697.1920x1080.jpg?t=1552067458"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1046430/ss_b0b2e42c0df35586d56af5a37e6de23e328d2315.600x338.jpg?t=1552301421",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1046430/ss_b0b2e42c0df35586d56af5a37e6de23e328d2315.1920x1080.jpg?t=1552301421"
                 },
                 {
                     "id": 11,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1046430/ss_20fff65f4862ff9ad1c165b1cdb7f16ac3b28999.600x338.jpg?t=1552067458",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1046430/ss_20fff65f4862ff9ad1c165b1cdb7f16ac3b28999.1920x1080.jpg?t=1552067458"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1046430/ss_cb1abe95774067f3073912bbcdace37073e1ee8a.600x338.jpg?t=1552301421",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1046430/ss_cb1abe95774067f3073912bbcdace37073e1ee8a.1920x1080.jpg?t=1552301421"
                 },
                 {
                     "id": 12,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1046430/ss_f286b26ad4b0c5421953c04f481d5e52058b51bf.600x338.jpg?t=1552067458",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1046430/ss_f286b26ad4b0c5421953c04f481d5e52058b51bf.1920x1080.jpg?t=1552067458"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1046430/ss_b38287ed82a30a0c8b9d679965d6dd6aee861b42.600x338.jpg?t=1552301421",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1046430/ss_b38287ed82a30a0c8b9d679965d6dd6aee861b42.1920x1080.jpg?t=1552301421"
                 },
                 {
                     "id": 13,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1046430/ss_b8cac6ee9c58e53b1325cf0add05cb975aa21e94.600x338.jpg?t=1552067458",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1046430/ss_b8cac6ee9c58e53b1325cf0add05cb975aa21e94.1920x1080.jpg?t=1552067458"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1046430/ss_bbb4990847d711d3c0982546d99484ba4fcdf46b.600x338.jpg?t=1552301421",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1046430/ss_bbb4990847d711d3c0982546d99484ba4fcdf46b.1920x1080.jpg?t=1552301421"
                 },
                 {
                     "id": 14,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1046430/ss_6475d6f3f5813c561fcef9e1bfb7aaa9ec5dc922.600x338.jpg?t=1552067458",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1046430/ss_6475d6f3f5813c561fcef9e1bfb7aaa9ec5dc922.1920x1080.jpg?t=1552067458"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1046430/ss_041e95c59223176954f0e993f32185d1559ca3c9.600x338.jpg?t=1552301421",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1046430/ss_041e95c59223176954f0e993f32185d1559ca3c9.1920x1080.jpg?t=1552301421"
                 },
                 {
                     "id": 15,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1046430/ss_79f1a868120b2c049116b63d441ca98b3a56860d.600x338.jpg?t=1552067458",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1046430/ss_79f1a868120b2c049116b63d441ca98b3a56860d.1920x1080.jpg?t=1552067458"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1046430/ss_bb935fdc68b0c722c6be3954dca16a403bfdcafa.600x338.jpg?t=1552301421",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1046430/ss_bb935fdc68b0c722c6be3954dca16a403bfdcafa.1920x1080.jpg?t=1552301421"
                 },
                 {
                     "id": 16,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1046430/ss_3951978305f544cbc331ec21f96124bc84ce0d6b.600x338.jpg?t=1552067458",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1046430/ss_3951978305f544cbc331ec21f96124bc84ce0d6b.1920x1080.jpg?t=1552067458"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1046430/ss_20ada6cc7d97dfd011a1e76802d48f68f1d3faf6.600x338.jpg?t=1552301421",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1046430/ss_20ada6cc7d97dfd011a1e76802d48f68f1d3faf6.1920x1080.jpg?t=1552301421"
                 },
                 {
                     "id": 17,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1046430/ss_752c272f301b0fa948933ea4423fc9431bd19962.600x338.jpg?t=1552067458",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1046430/ss_752c272f301b0fa948933ea4423fc9431bd19962.1920x1080.jpg?t=1552067458"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1046430/ss_abd9f21ad343151ce02e372c6eb0d34cb1057d87.600x338.jpg?t=1552301421",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1046430/ss_abd9f21ad343151ce02e372c6eb0d34cb1057d87.1920x1080.jpg?t=1552301421"
                 },
                 {
                     "id": 18,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1046430/ss_37832bf30c7a1e7a260843b93e34cb1462d6e1b1.600x338.jpg?t=1552067458",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1046430/ss_37832bf30c7a1e7a260843b93e34cb1462d6e1b1.1920x1080.jpg?t=1552067458"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1046430/ss_1f12298b0907a8a605b4a1d53724d777a1e94530.600x338.jpg?t=1552301421",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1046430/ss_1f12298b0907a8a605b4a1d53724d777a1e94530.1920x1080.jpg?t=1552301421"
                 },
                 {
                     "id": 19,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1046430/ss_f763f2d9b00c09fa6ead7a5c4645bce231878be1.600x338.jpg?t=1552067458",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1046430/ss_f763f2d9b00c09fa6ead7a5c4645bce231878be1.1920x1080.jpg?t=1552067458"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1046430/ss_c7e40bc8f29672f65b86451ae07a1c051cd8b44f.600x338.jpg?t=1552301421",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1046430/ss_c7e40bc8f29672f65b86451ae07a1c051cd8b44f.1920x1080.jpg?t=1552301421"
+                },
+                {
+                    "id": 20,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1046430/ss_b36a03c3d0707354385cdaede4018c44d20141f2.600x338.jpg?t=1552301421",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1046430/ss_b36a03c3d0707354385cdaede4018c44d20141f2.1920x1080.jpg?t=1552301421"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 256744890,
+                    "name": "Gameplay LimeStoneMaze",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256744890/movie.293x165.jpg?t=1552115974",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256744890/movie480.webm?t=1552115974",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256744890/movie_max.webm?t=1552115974"
+                    },
+                    "highlight": true
                 }
             ],
             "release_date": {
@@ -158,7 +191,7 @@
                 "url": "",
                 "email": "unrealdevelopment@protonmail.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1046430/page_bg_generated_v6b.jpg?t=1552067458",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1046430/page_bg_generated_v6b.jpg?t=1552301421",
             "content_descriptors": {
                 "ids": [
                     2,
