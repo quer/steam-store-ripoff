@@ -15,7 +15,7 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/275510/header.jpg?t=1447582619",
             "website": "http://www.kavcom.co.uk/zsteelsoldiers",
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Vista SP1,  7 or 8<br></li><li><strong>Processor:</strong> Intel Core 2 or better, AMD 64 X2 or better<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Intel GMA 950 GeForce 7 Series Radeon X1000 series<br></li><li><strong>Storage:</strong> 900 MB available space<br></li><li><strong>Sound Card:</strong> Yes</li></ul>"
+                "minimum": "<strong>Минимальные:</strong><br><ul class=\"bb_ul\"><li><strong>ОС:</strong> Vista SP1,  7 or 8<br></li><li><strong>Процессор:</strong> Intel Core 2 or better, AMD 64 X2 or better<br></li><li><strong>Оперативная память:</strong> 2 GB ОЗУ<br></li><li><strong>Видеокарта:</strong> Intel GMA 950 GeForce 7 Series Radeon X1000 series<br></li><li><strong>Место на диске:</strong> 900 MB<br></li><li><strong>Звуковая карта:</strong> Yes</li></ul>"
             },
             "mac_requirements": [],
             "linux_requirements": [],
@@ -30,10 +30,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 1099,
-                "final": 109,
-                "discount_percent": 90,
-                "initial_formatted": "10,99€",
-                "final_formatted": "1,09€"
+                "final": 1099,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "10,99€"
             },
             "packages": [
                 47781,
@@ -51,23 +51,23 @@
                     "subs": [
                         {
                             "packageid": 47781,
-                            "percent_savings_text": "-90%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Z: Steel Soldiers - <span class=\"discount_original_price\">10,99€</span> 1,09€",
+                            "option_text": "Z: Steel Soldiers - 10,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 109
+                            "price_in_cents_with_discount": 1099
                         },
                         {
                             "packageid": 37399,
-                            "percent_savings_text": "-90%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Z Collection - <span class=\"discount_original_price\">14,99€</span> 1,49€",
+                            "option_text": "Z Collection - 14,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 149
+                            "price_in_cents_with_discount": 1499
                         }
                     ]
                 }
@@ -230,7 +230,7 @@
                 }
             ],
             "recommendations": {
-                "total": 103
+                "total": 102
             },
             "achievements": {
                 "total": 18,
