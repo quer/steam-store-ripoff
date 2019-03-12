@@ -29,10 +29,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 799,
-                "final": 439,
-                "discount_percent": 45,
-                "initial_formatted": "7,99€",
-                "final_formatted": "4,39€"
+                "final": 799,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "7,99€"
             },
             "packages": [
                 45377
@@ -49,13 +49,13 @@
                     "subs": [
                         {
                             "packageid": 45377,
-                            "percent_savings_text": "-45%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Echo of the Wilds - <span class=\"discount_original_price\">7,99€</span> 4,39€",
+                            "option_text": "Echo of the Wilds - 7,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 439
+                            "price_in_cents_with_discount": 799
                         }
                     ]
                 }
