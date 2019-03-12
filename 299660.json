@@ -19,13 +19,13 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/299660/header.jpg?t=1517675281",
             "website": "http://www.turtle-cream.com",
             "pc_requirements": {
-                "minimum": "<strong>Минимальные:</strong><br><ul class=\"bb_ul\"><li><strong>ОС:</strong> Windows XP/Vista/7/8<br></li><li><strong>Процессор:</strong> 1.6GHz<br></li><li><strong>Оперативная память:</strong> 2 GB ОЗУ<br></li><li><strong>Видеокарта:</strong> Supports 1280 * 720 resolution<br></li><li><strong>Место на диске:</strong> 150 MB</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP/Vista/7/8<br></li><li><strong>Processor:</strong> 1.6GHz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Supports 1280 * 720 resolution<br></li><li><strong>Storage:</strong> 150 MB available space</li></ul>"
             },
             "mac_requirements": {
-                "minimum": "<strong>Минимальные:</strong><br><ul class=\"bb_ul\"><li><strong>ОС:</strong> Mac OS X 10.6 or above<br></li><li><strong>Процессор:</strong> Intel 1.6GHz<br></li><li><strong>Оперативная память:</strong> 2 GB ОЗУ<br></li><li><strong>Видеокарта:</strong> Supports 1280 * 720 resolution<br></li><li><strong>Место на диске:</strong> 150 MB</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OS X 10.6 or above<br></li><li><strong>Processor:</strong> Intel 1.6GHz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Supports 1280 * 720 resolution<br></li><li><strong>Storage:</strong> 150 MB available space</li></ul>"
             },
             "linux_requirements": {
-                "minimum": "<strong>Минимальные:</strong><br><ul class=\"bb_ul\"><li><strong>ОС:</strong> Ubuntu<br></li><li><strong>Процессор:</strong> 1.6GB<br></li><li><strong>Оперативная память:</strong> 2 GB ОЗУ<br></li><li><strong>Видеокарта:</strong> Supports 1280 * 720 resolution<br></li><li><strong>Место на диске:</strong> 150 MB</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu<br></li><li><strong>Processor:</strong> 1.6GB<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Supports 1280 * 720 resolution<br></li><li><strong>Storage:</strong> 150 MB available space</li></ul>"
             },
             "developers": [
                 "Turtle Cream",
@@ -37,10 +37,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 399,
-                "final": 399,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "3,99€"
+                "final": 199,
+                "discount_percent": 50,
+                "initial_formatted": "3,99€",
+                "final_formatted": "1,99€"
             },
             "packages": [
                 43710,
@@ -58,23 +58,23 @@
                     "subs": [
                         {
                             "packageid": 43710,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-50%",
                             "percent_savings": 0,
-                            "option_text": "6180 the moon - 3,99€",
+                            "option_text": "6180 the moon - <span class=\"discount_original_price\">3,99€</span> 1,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 399
+                            "price_in_cents_with_discount": 199
                         },
                         {
                             "packageid": 50588,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-50%",
                             "percent_savings": 0,
-                            "option_text": "6180 the moon Deluxe Edition - 5,99€",
+                            "option_text": "6180 the moon Deluxe Edition - <span class=\"discount_original_price\">5,99€</span> 2,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 599
+                            "price_in_cents_with_discount": 299
                         }
                     ]
                 }
