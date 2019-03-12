@@ -14,8 +14,8 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/257610/header.jpg?t=1476970837",
             "website": "http://www.studio-v5.com/greenbox/index.htm",
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP (SP3)<br></li><li><strong>Processor:</strong> Single-core processor at 1.6 GHz<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Storage:</strong> 1 GB available space<br></li><li><strong>Additional Notes:</strong> Adobe Flash player installed in Internet Explorer, for preview and export of animated logos.</li></ul>",
-                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 or Windows 8<br></li><li><strong>Processor:</strong> Multi-core processor<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Additional Notes:</strong> Adobe Flash player installed in Internet Explorer, for preview and export of animated logos.</li></ul>"
+                "minimum": "<strong>最低:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP (SP3)<br></li><li><strong>プロセッサー:</strong> Single-core processor at 1.6 GHz<br></li><li><strong>メモリー:</strong> 512 MB RAM<br></li><li><strong>ストレージ:</strong> 1 GB 利用可能<br></li><li><strong>追記事項:</strong> Adobe Flash player installed in Internet Explorer, for preview and export of animated logos.</li></ul>",
+                "recommended": "<strong>推奨:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 or Windows 8<br></li><li><strong>プロセッサー:</strong> Multi-core processor<br></li><li><strong>メモリー:</strong> 2 GB RAM<br></li><li><strong>ストレージ:</strong> 2 GB 利用可能<br></li><li><strong>追記事項:</strong> Adobe Flash player installed in Internet Explorer, for preview and export of animated logos.</li></ul>"
             },
             "mac_requirements": [],
             "linux_requirements": [],
@@ -29,10 +29,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 2799,
-                "final": 1399,
-                "discount_percent": 50,
-                "initial_formatted": "27,99€",
-                "final_formatted": "13,99€"
+                "final": 2799,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "27,99€"
             },
             "packages": [
                 32242
@@ -49,13 +49,13 @@
                     "subs": [
                         {
                             "packageid": 32242,
-                            "percent_savings_text": "-50%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "LogoMaker 4 - <span class=\"discount_original_price\">27,99€</span> 13,99€",
+                            "option_text": "LogoMaker 4 - 27,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1399
+                            "price_in_cents_with_discount": 2799
                         }
                     ]
                 }
