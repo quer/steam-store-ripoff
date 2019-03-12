@@ -37,10 +37,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 699,
-                "final": 279,
-                "discount_percent": 60,
-                "initial_formatted": "6,99€",
-                "final_formatted": "2,79€"
+                "final": 699,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "6,99€"
             },
             "packages": [
                 41732,
@@ -59,13 +59,13 @@
                     "subs": [
                         {
                             "packageid": 41732,
-                            "percent_savings_text": "-60%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Freddi Fish 3: The Case of the Stolen Conch Shell - <span class=\"discount_original_price\">6,99€</span> 2,79€",
+                            "option_text": "Freddi Fish 3: The Case of the Stolen Conch Shell - 6,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 279
+                            "price_in_cents_with_discount": 699
                         },
                         {
                             "packageid": 42720,
