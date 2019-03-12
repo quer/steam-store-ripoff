@@ -27,15 +27,15 @@
             ],
             "price_overview": {
                 "currency": "EUR",
-                "initial": 2499,
-                "final": 499,
-                "discount_percent": 80,
-                "initial_formatted": "24,99€",
-                "final_formatted": "4,99€"
+                "initial": 1999,
+                "final": 1999,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "19,99€"
             },
             "packages": [
-                45802,
-                36417
+                36417,
+                45802
             ],
             "package_groups": [
                 {
@@ -48,16 +48,6 @@
                     "is_recurring_subscription": "false",
                     "subs": [
                         {
-                            "packageid": 45802,
-                            "percent_savings_text": "-80%",
-                            "percent_savings": 0,
-                            "option_text": "Rise of Venice: Gold - <span class=\"discount_original_price\">24,99€</span> 4,99€",
-                            "option_description": "",
-                            "can_get_free_license": "0",
-                            "is_free_license": false,
-                            "price_in_cents_with_discount": 499
-                        },
-                        {
                             "packageid": 36417,
                             "percent_savings_text": "",
                             "percent_savings": 0,
@@ -66,6 +56,16 @@
                             "can_get_free_license": "0",
                             "is_free_license": false,
                             "price_in_cents_with_discount": 1999
+                        },
+                        {
+                            "packageid": 45802,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Rise of Venice: Gold - 24,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 2499
                         }
                     ]
                 }
@@ -186,7 +186,7 @@
                 }
             ],
             "recommendations": {
-                "total": 221
+                "total": 222
             },
             "achievements": {
                 "total": 56,
