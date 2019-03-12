@@ -31,10 +31,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 2999,
-                "final": 599,
-                "discount_percent": 80,
-                "initial_formatted": "29,99€",
-                "final_formatted": "5,99€"
+                "final": 2999,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "29,99€"
             },
             "packages": [
                 30840
@@ -51,13 +51,13 @@
                     "subs": [
                         {
                             "packageid": 30840,
-                            "percent_savings_text": "-80%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "YAIBA: NINJA GAIDEN Z - <span class=\"discount_original_price\">29,99€</span> 5,99€",
+                            "option_text": "YAIBA: NINJA GAIDEN Z - 29,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 599
+                            "price_in_cents_with_discount": 2999
                         }
                     ]
                 }
@@ -145,7 +145,7 @@
                 }
             ],
             "recommendations": {
-                "total": 297
+                "total": 302
             },
             "achievements": {
                 "total": 49,
