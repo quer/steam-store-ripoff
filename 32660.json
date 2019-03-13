@@ -28,16 +28,16 @@
             ],
             "price_overview": {
                 "currency": "EUR",
-                "initial": 6499,
-                "final": 1299,
-                "discount_percent": 80,
-                "initial_formatted": "64,99€",
-                "final_formatted": "12,99€"
+                "initial": 1999,
+                "final": 1999,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "19,99€"
             },
             "packages": [
                 1709,
-                46995,
-                46999
+                46999,
+                46995
             ],
             "package_groups": [
                 {
@@ -60,16 +60,6 @@
                             "price_in_cents_with_discount": 1999
                         },
                         {
-                            "packageid": 46995,
-                            "percent_savings_text": "-80%",
-                            "percent_savings": 0,
-                            "option_text": "NovaLogic Everything Pack - <span class=\"discount_original_price\">64,99€</span> 12,99€",
-                            "option_description": "",
-                            "can_get_free_license": "0",
-                            "is_free_license": false,
-                            "price_in_cents_with_discount": 1299
-                        },
-                        {
                             "packageid": 46999,
                             "percent_savings_text": "",
                             "percent_savings": 0,
@@ -78,6 +68,16 @@
                             "can_get_free_license": "0",
                             "is_free_license": false,
                             "price_in_cents_with_discount": 3699
+                        },
+                        {
+                            "packageid": 46995,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "NovaLogic Everything Pack - 64,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 6499
                         }
                     ]
                 }
