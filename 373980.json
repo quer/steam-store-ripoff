@@ -30,32 +30,7 @@
             "publishers": [
                 "Stardock Entertainment"
             ],
-            "packages": [
-                311461
-            ],
-            "package_groups": [
-                {
-                    "name": "default",
-                    "title": "Buy Galactic Civilizations III - Map Pack DLC",
-                    "description": "",
-                    "selection_text": "Select a purchase option",
-                    "save_text": "",
-                    "display_type": 0,
-                    "is_recurring_subscription": "false",
-                    "subs": [
-                        {
-                            "packageid": 311461,
-                            "percent_savings_text": "",
-                            "percent_savings": 0,
-                            "option_text": "Stardock Pack 2018 - 89,99€",
-                            "option_description": "",
-                            "can_get_free_license": "0",
-                            "is_free_license": false,
-                            "price_in_cents_with_discount": 8999
-                        }
-                    ]
-                }
-            ],
+            "package_groups": [],
             "platforms": {
                 "windows": true,
                 "mac": false,
