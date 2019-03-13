@@ -29,10 +29,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 2500,
-                "final": 2500,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "25,--€"
+                "final": 775,
+                "discount_percent": 69,
+                "initial_formatted": "25,--€",
+                "final_formatted": "7,75€"
             },
             "packages": [
                 68404
@@ -49,13 +49,13 @@
                     "subs": [
                         {
                             "packageid": 68404,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-69%",
                             "percent_savings": 0,
-                            "option_text": "D3DGear - Game Recording and Streaming Software - 25,--€",
+                            "option_text": "D3DGear - Game Recording and Streaming Software - <span class=\"discount_original_price\">25,--€</span> 7,75€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 2500
+                            "price_in_cents_with_discount": 775
                         }
                     ]
                 }
