@@ -27,8 +27,8 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/348470/header.jpg?t=1550180167",
             "website": "http://www.koeitecmoamerica.com/sw4-2/",
             "pc_requirements": {
-                "minimum": "<strong>最低:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows® Vista, Windows® 7, Windows® 8, Windows® 8.1<br></li><li><strong>プロセッサー:</strong> Core2 DUO 2.4GHz or better<br></li><li><strong>メモリー:</strong> 1 GB RAM<br></li><li><strong>グラフィック:</strong> 640*480 pixel over, High Color<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>ネットワーク:</strong> ブロードバンドインターネット接続<br></li><li><strong>ストレージ:</strong> 11 GB 利用可能<br></li><li><strong>サウンドカード:</strong> DirectX 9.0c over</li></ul>",
-                "recommended": "<strong>推奨:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows® Vista, Windows® 7, Windows® 8, Windows® 8.1<br></li><li><strong>プロセッサー:</strong> Core i7 860 better<br></li><li><strong>メモリー:</strong> 2 GB RAM<br></li><li><strong>グラフィック:</strong> 1280*720 pixel over, True Color<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>ネットワーク:</strong> ブロードバンドインターネット接続<br></li><li><strong>ストレージ:</strong> 11 GB 利用可能<br></li><li><strong>サウンドカード:</strong> DirectX 9.0c over</li></ul>"
+                "minimum": "<strong>最低配置:</strong><br><ul class=\"bb_ul\"><li><strong>操作系统:</strong> Windows® Vista, Windows® 7, Windows® 8, Windows® 8.1<br></li><li><strong>处理器:</strong> Core2 DUO 2.4GHz or better<br></li><li><strong>内存:</strong> 1 GB RAM<br></li><li><strong>图形:</strong> 640*480 pixel over, High Color<br></li><li><strong>DirectX 版本:</strong> 9.0c<br></li><li><strong>网络:</strong> 宽带互联网连接<br></li><li><strong>存储空间:</strong> 需要 11 GB 可用空间<br></li><li><strong>声卡:</strong> DirectX 9.0c over</li></ul>",
+                "recommended": "<strong>推荐配置:</strong><br><ul class=\"bb_ul\"><li><strong>操作系统:</strong> Windows® Vista, Windows® 7, Windows® 8, Windows® 8.1<br></li><li><strong>处理器:</strong> Core i7 860 better<br></li><li><strong>内存:</strong> 2 GB RAM<br></li><li><strong>图形:</strong> 1280*720 pixel over, True Color<br></li><li><strong>DirectX 版本:</strong> 9.0c<br></li><li><strong>网络:</strong> 宽带互联网连接<br></li><li><strong>存储空间:</strong> 需要 11 GB 可用空间<br></li><li><strong>声卡:</strong> DirectX 9.0c over</li></ul>"
             },
             "mac_requirements": [],
             "linux_requirements": [],
@@ -42,10 +42,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 4999,
-                "final": 2499,
-                "discount_percent": 50,
-                "initial_formatted": "49,99€",
-                "final_formatted": "24,99€"
+                "final": 4999,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "49,99€"
             },
             "packages": [
                 60128
@@ -62,13 +62,13 @@
                     "subs": [
                         {
                             "packageid": 60128,
-                            "percent_savings_text": "-50%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "SAMURAI WARRIORS 4-II - <span class=\"discount_original_price\">49,99€</span> 24,99€",
+                            "option_text": "SAMURAI WARRIORS 4-II - 49,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 2499
+                            "price_in_cents_with_discount": 4999
                         }
                     ]
                 }
@@ -160,7 +160,7 @@
                 }
             ],
             "recommendations": {
-                "total": 844
+                "total": 846
             },
             "achievements": {
                 "total": 54,
