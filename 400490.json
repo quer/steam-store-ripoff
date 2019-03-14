@@ -34,10 +34,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 1199,
-                "final": 359,
-                "discount_percent": 70,
-                "initial_formatted": "11,99€",
-                "final_formatted": "3,59€"
+                "final": 1199,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "11,99€"
             },
             "packages": [
                 77699,
@@ -55,13 +55,13 @@
                     "subs": [
                         {
                             "packageid": 77699,
-                            "percent_savings_text": "-70%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Just Cause™ 3 DLC: Mech Land Assault Pack - <span class=\"discount_original_price\">11,99€</span> 3,59€",
+                            "option_text": "Just Cause™ 3 DLC: Mech Land Assault Pack - 11,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 359
+                            "price_in_cents_with_discount": 1199
                         }
                     ]
                 }
@@ -153,7 +153,7 @@
                 }
             ],
             "recommendations": {
-                "total": 132
+                "total": 134
             },
             "achievements": {
                 "total": 0
