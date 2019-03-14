@@ -15,10 +15,10 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/463210/header.jpg?t=1517225734",
             "website": "https://www.facebook.com/groups/1665126360467868/",
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong> Pentium 2Ghz<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Storage:</strong> 95 MB available space<br></li><li><strong>Sound Card:</strong> Stereo Sound</li></ul>"
+                "minimum": "<strong>Минимальные:</strong><br><ul class=\"bb_ul\"><li><strong>ОС:</strong> Windows 7<br></li><li><strong>Процессор:</strong> Pentium 2Ghz<br></li><li><strong>Оперативная память:</strong> 1 GB ОЗУ<br></li><li><strong>Место на диске:</strong> 95 MB<br></li><li><strong>Звуковая карта:</strong> Stereo Sound</li></ul>"
             },
             "mac_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OS X 10.8+<br></li><li><strong>Processor:</strong> 2GHz or faster processor<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Storage:</strong> 100 MB available space</li></ul>"
+                "minimum": "<strong>Минимальные:</strong><br><ul class=\"bb_ul\"><li><strong>ОС:</strong> Mac OS X 10.8+<br></li><li><strong>Процессор:</strong> 2GHz or faster processor<br></li><li><strong>Оперативная память:</strong> 1 GB ОЗУ<br></li><li><strong>Место на диске:</strong> 100 MB</li></ul>"
             },
             "linux_requirements": [],
             "developers": [
@@ -30,10 +30,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 99,
-                "final": 99,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "0,99€"
+                "final": 49,
+                "discount_percent": 51,
+                "initial_formatted": "0,99€",
+                "final_formatted": "0,49€"
             },
             "packages": [
                 101343
@@ -50,13 +50,13 @@
                     "subs": [
                         {
                             "packageid": 101343,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-51%",
                             "percent_savings": 0,
-                            "option_text": "State of Anarchy - 0,99€",
+                            "option_text": "State of Anarchy - <span class=\"discount_original_price\">0,99€</span> 0,49€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 99
+                            "price_in_cents_with_discount": 49
                         }
                     ]
                 }
@@ -159,7 +159,7 @@
                 }
             ],
             "recommendations": {
-                "total": 723
+                "total": 724
             },
             "achievements": {
                 "total": 0
