@@ -14,7 +14,7 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/447920/header.jpg?t=1506265845",
             "website": null,
             "pc_requirements": {
-                "minimum": "<strong>最低配置:</strong><br><ul class=\"bb_ul\"><li><strong>操作系统:</strong> Windows 7 or Above<br></li><li><strong>处理器:</strong> Pentium Dual Core 2Ghz<br></li><li><strong>内存:</strong> 2 GB RAM<br></li><li><strong>存储空间:</strong> 需要 136 MB 可用空间</li></ul>"
+                "minimum": "<strong>最低:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 or Above<br></li><li><strong>プロセッサー:</strong> Pentium Dual Core 2Ghz<br></li><li><strong>メモリー:</strong> 2 GB RAM<br></li><li><strong>ストレージ:</strong> 136 MB 利用可能</li></ul>"
             },
             "mac_requirements": [],
             "linux_requirements": [],
@@ -27,10 +27,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 99,
-                "final": 99,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "0,99€"
+                "final": 49,
+                "discount_percent": 51,
+                "initial_formatted": "0,99€",
+                "final_formatted": "0,49€"
             },
             "packages": [
                 95816
@@ -47,13 +47,13 @@
                     "subs": [
                         {
                             "packageid": 95816,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-51%",
                             "percent_savings": 0,
-                            "option_text": "Drift (Over) Drive - 0,99€",
+                            "option_text": "Drift (Over) Drive - <span class=\"discount_original_price\">0,99€</span> 0,49€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 99
+                            "price_in_cents_with_discount": 49
                         }
                     ]
                 }
