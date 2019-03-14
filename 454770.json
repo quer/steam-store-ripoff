@@ -15,11 +15,11 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/454770/header.jpg?t=1505856149",
             "website": "http://mysticmelee.com",
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 / 8 / 10<br></li><li><strong>Processor:</strong> Core 2 Duo 2.0 GHz or equivalent<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD Graphics / OpenGL 2.1+<br></li><li><strong>Storage:</strong> 300 MB available space</li></ul>",
-                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>Processor:</strong> i5 or equivalent<br></li><li><strong>Graphics:</strong> Dedicated Nvidia/AMD graphics for 60 fps<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Additional Notes:</strong> Good broadband connection recommended for Online Multiplayer.</li></ul>"
+                "minimum": "<strong>Минимальные:</strong><br><ul class=\"bb_ul\"><li><strong>ОС:</strong> Windows 7 / 8 / 10<br></li><li><strong>Процессор:</strong> Core 2 Duo 2.0 GHz or equivalent<br></li><li><strong>Оперативная память:</strong> 2 GB ОЗУ<br></li><li><strong>Видеокарта:</strong> Intel HD Graphics / OpenGL 2.1+<br></li><li><strong>Место на диске:</strong> 300 MB</li></ul>",
+                "recommended": "<strong>Рекомендованные:</strong><br><ul class=\"bb_ul\"><li><strong>Процессор:</strong> i5 or equivalent<br></li><li><strong>Видеокарта:</strong> Dedicated Nvidia/AMD graphics for 60 fps<br></li><li><strong>Сеть:</strong> Широкополосное подключение к интернету<br></li><li><strong>Дополнительно:</strong> Good broadband connection recommended for Online Multiplayer.</li></ul>"
             },
             "mac_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OS X version Leopard or later<br></li><li><strong>Processor:</strong> Core 2 Duo 2.0 GHz or equivalent<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD Graphics<br></li><li><strong>Storage:</strong> 300 MB available space</li></ul>"
+                "minimum": "<strong>Минимальные:</strong><br><ul class=\"bb_ul\"><li><strong>ОС:</strong> OS X version Leopard or later<br></li><li><strong>Процессор:</strong> Core 2 Duo 2.0 GHz or equivalent<br></li><li><strong>Оперативная память:</strong> 2 GB ОЗУ<br></li><li><strong>Видеокарта:</strong> Intel HD Graphics<br></li><li><strong>Место на диске:</strong> 300 MB</li></ul>"
             },
             "linux_requirements": [],
             "legal_notice": "Copyright 2017 Ben Hopkins",
@@ -32,10 +32,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 1499,
-                "final": 299,
-                "discount_percent": 80,
-                "initial_formatted": "14,99€",
-                "final_formatted": "2,99€"
+                "final": 1499,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "14,99€"
             },
             "packages": [
                 98292
@@ -52,13 +52,13 @@
                     "subs": [
                         {
                             "packageid": 98292,
-                            "percent_savings_text": "-80%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Mystic Melee - <span class=\"discount_original_price\">14,99€</span> 2,99€",
+                            "option_text": "Mystic Melee - 14,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 299
+                            "price_in_cents_with_discount": 1499
                         }
                     ]
                 }
