@@ -14,13 +14,13 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/430410/header.jpg?t=1485362774",
             "website": null,
             "pc_requirements": {
-                "minimum": "<strong>Minimi:</strong><br><ul class=\"bb_ul\"><li><strong>Sistema operativo:</strong> 7+<br></li><li><strong>Processore:</strong> 1.7 GHz Dual Core<br></li><li><strong>Memoria:</strong> 2 GB di RAM<br></li><li><strong>Scheda video:</strong> NVIDIA GeForce GTX 260, ATI Radeon 4870 HD, or equivalent card with at least 512 MB VRAM<br></li><li><strong>DirectX:</strong> Versione 9.0c<br></li><li><strong>Memoria:</strong> 800 MB di spazio disponibile<br></li><li><strong>Scheda audio:</strong> DirectX Compatible Sound Card<br></li><li><strong>Note aggiuntive:</strong> Mouse</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 7+<br></li><li><strong>Processor:</strong> 1.7 GHz Dual Core<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 260, ATI Radeon 4870 HD, or equivalent card with at least 512 MB VRAM<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 800 MB available space<br></li><li><strong>Sound Card:</strong> DirectX Compatible Sound Card<br></li><li><strong>Additional Notes:</strong> Mouse</li></ul>"
             },
             "mac_requirements": {
-                "minimum": "<strong>Minimi:</strong><br><ul class=\"bb_ul\"><li><strong>Sistema operativo:</strong> Snow Leopard 10.6.8 or later<br></li><li><strong>Processore:</strong> Intel Core Duo<br></li><li><strong>Memoria:</strong> 2 GB di RAM<br></li><li><strong>Scheda video:</strong> ATI Radeon HD 4850, NVIDIA GeForce GT 120, or equivalent card with at least 512 MB VRAM<br></li><li><strong>Memoria:</strong> 800 MB di spazio disponibile<br></li><li><strong>Note aggiuntive:</strong> Mouse</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Snow Leopard 10.6.8 or later<br></li><li><strong>Processor:</strong> Intel Core Duo<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> ATI Radeon HD 4850, NVIDIA GeForce GT 120, or equivalent card with at least 512 MB VRAM<br></li><li><strong>Storage:</strong> 800 MB available space<br></li><li><strong>Additional Notes:</strong> Mouse</li></ul>"
             },
             "linux_requirements": {
-                "minimum": "<strong>Minimi:</strong><br><ul class=\"bb_ul\"><li><strong>Sistema operativo:</strong> Ubuntu 14.04 LTS or later<br></li><li><strong>Processore:</strong> 1.7 GHz Dual Core<br></li><li><strong>Memoria:</strong> 2 GB di RAM<br></li><li><strong>Scheda video:</strong> OpenGL-capable graphics card with valid driver and with at least 512 MB VRAM<br></li><li><strong>Memoria:</strong> 800 MB di spazio disponibile<br></li><li><strong>Note aggiuntive:</strong> Mouse</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 14.04 LTS or later<br></li><li><strong>Processor:</strong> 1.7 GHz Dual Core<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL-capable graphics card with valid driver and with at least 512 MB VRAM<br></li><li><strong>Storage:</strong> 800 MB available space<br></li><li><strong>Additional Notes:</strong> Mouse</li></ul>"
             },
             "developers": [
                 "Bit Byterz"
@@ -31,10 +31,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 1499,
-                "final": 599,
-                "discount_percent": 60,
-                "initial_formatted": "14,99€",
-                "final_formatted": "5,99€"
+                "final": 1499,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "14,99€"
             },
             "packages": [
                 89383
@@ -51,13 +51,13 @@
                     "subs": [
                         {
                             "packageid": 89383,
-                            "percent_savings_text": "-60%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Memoranda - <span class=\"discount_original_price\">14,99€</span> 5,99€",
+                            "option_text": "Memoranda - 14,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 599
+                            "price_in_cents_with_discount": 1499
                         }
                     ]
                 }
