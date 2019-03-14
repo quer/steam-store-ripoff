@@ -35,10 +35,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 449,
-                "final": 449,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "4,49€"
+                "final": 76,
+                "discount_percent": 83,
+                "initial_formatted": "4,49€",
+                "final_formatted": "0,76€"
             },
             "packages": [
                 96300,
@@ -56,13 +56,13 @@
                     "subs": [
                         {
                             "packageid": 96300,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-83%",
                             "percent_savings": 0,
-                            "option_text": "Verdict Guilty - 유죄 평결 - 4,49€",
+                            "option_text": "Verdict Guilty - 유죄 평결 - <span class=\"discount_original_price\">4,49€</span> 0,76€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 449
+                            "price_in_cents_with_discount": 76
                         },
                         {
                             "packageid": 243403,
@@ -191,7 +191,7 @@
                 }
             ],
             "recommendations": {
-                "total": 293
+                "total": 296
             },
             "achievements": {
                 "total": 12,
