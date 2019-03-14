@@ -35,10 +35,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 1999,
-                "final": 799,
-                "discount_percent": 60,
-                "initial_formatted": "19,99€",
-                "final_formatted": "7,99€"
+                "final": 1999,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "19,99€"
             },
             "packages": [
                 81460
@@ -55,13 +55,13 @@
                     "subs": [
                         {
                             "packageid": 81460,
-                            "percent_savings_text": "-60%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Criminal Girls: Invite Only - <span class=\"discount_original_price\">19,99€</span> 7,99€",
+                            "option_text": "Criminal Girls: Invite Only - 19,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 799
+                            "price_in_cents_with_discount": 1999
                         }
                     ]
                 }
@@ -160,7 +160,7 @@
                 }
             ],
             "recommendations": {
-                "total": 250
+                "total": 252
             },
             "achievements": {
                 "total": 36,
