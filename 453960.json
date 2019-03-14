@@ -14,7 +14,7 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/453960/header.jpg?t=1478063003",
             "website": null,
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows® 8 (32/64-bit)/Windows® 7 (32/64-bit)/Vista<br></li><li><strong>Processor:</strong> Dual Core Processor<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> 128MB Video Card with OpenGL support<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>"
+                "minimum": "<strong>Minimale :</strong><br><ul class=\"bb_ul\"><li><strong>Système d'exploitation :</strong> Windows® 8 (32/64-bit)/Windows® 7 (32/64-bit)/Vista<br></li><li><strong>Processeur :</strong> Dual Core Processor<br></li><li><strong>Mémoire vive :</strong> 1 GB de mémoire<br></li><li><strong>Graphiques :</strong> 128MB Video Card with OpenGL support<br></li><li><strong>DirectX :</strong> Version 9.0<br></li><li><strong>Espace disque :</strong> 2 GB d'espace disque disponible</li></ul>"
             },
             "mac_requirements": [],
             "linux_requirements": [],
@@ -27,10 +27,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 99,
-                "final": 99,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "0,99€"
+                "final": 49,
+                "discount_percent": 51,
+                "initial_formatted": "0,99€",
+                "final_formatted": "0,49€"
             },
             "packages": [
                 98047
@@ -47,13 +47,13 @@
                     "subs": [
                         {
                             "packageid": 98047,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-51%",
                             "percent_savings": 0,
-                            "option_text": "Envy the Dead - 0,99€",
+                            "option_text": "Envy the Dead - <span class=\"discount_original_price\">0,99€</span> 0,49€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 99
+                            "price_in_cents_with_discount": 49
                         }
                     ]
                 }
