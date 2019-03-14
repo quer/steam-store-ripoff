@@ -40,6 +40,7 @@
                 "final_formatted": "17,99€"
             },
             "packages": [
+                348293,
                 93157
             ],
             "package_groups": [
@@ -52,6 +53,16 @@
                     "display_type": 0,
                     "is_recurring_subscription": "false",
                     "subs": [
+                        {
+                            "packageid": 348293,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Niche - a genetics survival game - Commercial License - 14,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 1499
+                        },
                         {
                             "packageid": 93157,
                             "percent_savings_text": "",
@@ -207,7 +218,7 @@
                 }
             ],
             "recommendations": {
-                "total": 1919
+                "total": 1929
             },
             "achievements": {
                 "total": 31,
