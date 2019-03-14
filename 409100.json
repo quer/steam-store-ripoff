@@ -31,10 +31,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 999,
-                "final": 999,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "9,99€"
+                "final": 129,
+                "discount_percent": 87,
+                "initial_formatted": "9,99€",
+                "final_formatted": "1,29€"
             },
             "packages": [
                 81098
@@ -51,13 +51,13 @@
                     "subs": [
                         {
                             "packageid": 81098,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-87%",
                             "percent_savings": 0,
-                            "option_text": "The Purring Quest - 9,99€",
+                            "option_text": "The Purring Quest - <span class=\"discount_original_price\">9,99€</span> 1,29€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 999
+                            "price_in_cents_with_discount": 129
                         }
                     ]
                 }
@@ -160,7 +160,7 @@
                 }
             ],
             "recommendations": {
-                "total": 621
+                "total": 623
             },
             "achievements": {
                 "total": 23,
