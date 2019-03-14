@@ -14,7 +14,7 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/448630/header.jpg?t=1512241810",
             "website": null,
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows Vista,7,8,8.1,10<br></li><li><strong>Processor:</strong> Dualcore AMD,INTEL<br></li><li><strong>Graphics:</strong> NVIDIA GeForce 8600GT, AMD Radeon HD2600, Intel HD 2000<br></li><li><strong>Storage:</strong> 90 MB available space</li></ul>"
+                "minimum": "<strong>Минимальные:</strong><br><ul class=\"bb_ul\"><li><strong>ОС:</strong> Windows Vista,7,8,8.1,10<br></li><li><strong>Процессор:</strong> Dualcore AMD,INTEL<br></li><li><strong>Видеокарта:</strong> NVIDIA GeForce 8600GT, AMD Radeon HD2600, Intel HD 2000<br></li><li><strong>Место на диске:</strong> 90 MB</li></ul>"
             },
             "mac_requirements": [],
             "linux_requirements": [],
@@ -27,10 +27,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 199,
-                "final": 199,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "1,99€"
+                "final": 49,
+                "discount_percent": 75,
+                "initial_formatted": "1,99€",
+                "final_formatted": "0,49€"
             },
             "packages": [
                 96117
@@ -47,13 +47,13 @@
                     "subs": [
                         {
                             "packageid": 96117,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-75%",
                             "percent_savings": 0,
-                            "option_text": "Rabiez: Epidemic - 1,99€",
+                            "option_text": "Rabiez: Epidemic - <span class=\"discount_original_price\">1,99€</span> 0,49€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 199
+                            "price_in_cents_with_discount": 49
                         }
                     ]
                 }
