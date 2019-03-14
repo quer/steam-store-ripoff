@@ -79,10 +79,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 2799,
-                "final": 2799,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "27,99€"
+                "final": 839,
+                "discount_percent": 70,
+                "initial_formatted": "27,99€",
+                "final_formatted": "8,39€"
             },
             "packages": [
                 102394
@@ -99,13 +99,13 @@
                     "subs": [
                         {
                             "packageid": 102394,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-70%",
                             "percent_savings": 0,
-                            "option_text": "White Day: A Labyrinth Named School - 27,99€",
+                            "option_text": "White Day: A Labyrinth Named School - <span class=\"discount_original_price\">27,99€</span> 8,39€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 2799
+                            "price_in_cents_with_discount": 839
                         }
                     ]
                 }
@@ -215,7 +215,7 @@
                 }
             ],
             "recommendations": {
-                "total": 675
+                "total": 677
             },
             "achievements": {
                 "total": 42,
