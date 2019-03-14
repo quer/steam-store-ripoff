@@ -42,10 +42,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 2199,
-                "final": 1429,
-                "discount_percent": 35,
-                "initial_formatted": "21,99€",
-                "final_formatted": "14,29€"
+                "final": 2199,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "21,99€"
             },
             "packages": [
                 328865,
@@ -63,13 +63,13 @@
                     "subs": [
                         {
                             "packageid": 328865,
-                            "percent_savings_text": "-35%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Book of Demons - <span class=\"discount_original_price\">21,99€</span> 14,29€",
+                            "option_text": "Book of Demons - 21,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1429
+                            "price_in_cents_with_discount": 2199
                         },
                         {
                             "packageid": 210347,
@@ -90,7 +90,7 @@
                 "linux": false
             },
             "metacritic": {
-                "score": 72,
+                "score": 73,
                 "url": "https://www.metacritic.com/game/pc/book-of-demons?ftag=MCD-06-10aaa1f"
             },
             "categories": [
@@ -224,7 +224,7 @@
                 }
             ],
             "recommendations": {
-                "total": 5025
+                "total": 5174
             },
             "achievements": {
                 "total": 202,
