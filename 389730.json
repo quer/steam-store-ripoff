@@ -51,10 +51,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 3999,
-                "final": 1999,
-                "discount_percent": 50,
-                "initial_formatted": "39,99€",
-                "final_formatted": "19,99€"
+                "final": 3999,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "39,99€"
             },
             "packages": [
                 74007,
@@ -73,33 +73,33 @@
                     "subs": [
                         {
                             "packageid": 74007,
-                            "percent_savings_text": "-50%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "TEKKEN 7 - <span class=\"discount_original_price\">39,99€</span> 19,99€",
+                            "option_text": "TEKKEN 7 - 39,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1999
+                            "price_in_cents_with_discount": 3999
                         },
                         {
                             "packageid": 309203,
-                            "percent_savings_text": "-30%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "TEKKEN 7 - Rematch Edition - <span class=\"discount_original_price\">69,99€</span> 48,99€",
+                            "option_text": "TEKKEN 7 - Rematch Edition - 69,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 4899
+                            "price_in_cents_with_discount": 6999
                         },
                         {
                             "packageid": 302917,
-                            "percent_savings_text": "-30%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "TEKKEN 7 - Ultimate Edition - <span class=\"discount_original_price\">89,99€</span> 62,99€",
+                            "option_text": "TEKKEN 7 - Ultimate Edition - 89,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 6299
+                            "price_in_cents_with_discount": 8999
                         }
                     ]
                 }
@@ -255,7 +255,7 @@
                 }
             ],
             "recommendations": {
-                "total": 12203
+                "total": 12358
             },
             "achievements": {
                 "total": 42,
