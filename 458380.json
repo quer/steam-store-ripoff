@@ -30,10 +30,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 3699,
-                "final": 3699,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "36,99€"
+                "final": 1849,
+                "discount_percent": 50,
+                "initial_formatted": "36,99€",
+                "final_formatted": "18,49€"
             },
             "packages": [
                 99609
@@ -50,13 +50,13 @@
                     "subs": [
                         {
                             "packageid": 99609,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-50%",
                             "percent_savings": 0,
-                            "option_text": "Gahkthun of the Golden Lightning Steam Edition - 36,99€",
+                            "option_text": "Gahkthun of the Golden Lightning Steam Edition - <span class=\"discount_original_price\">36,99€</span> 18,49€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 3699
+                            "price_in_cents_with_discount": 1849
                         }
                     ]
                 }
