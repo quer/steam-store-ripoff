@@ -41,10 +41,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 2499,
-                "final": 2499,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "24,99€"
+                "final": 1749,
+                "discount_percent": 30,
+                "initial_formatted": "24,99€",
+                "final_formatted": "17,49€"
             },
             "packages": [
                 109187,
@@ -63,33 +63,33 @@
                     "subs": [
                         {
                             "packageid": 109187,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-30%",
                             "percent_savings": 0,
-                            "option_text": "The Banner Saga 3: Standard Edition - 24,99€",
+                            "option_text": "The Banner Saga 3: Standard Edition - <span class=\"discount_original_price\">24,99€</span> 17,49€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 2499
+                            "price_in_cents_with_discount": 1749
                         },
                         {
                             "packageid": 262486,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-34%",
                             "percent_savings": 0,
-                            "option_text": "The Banner Saga 3: Deluxe Edition - 29,99€",
+                            "option_text": "The Banner Saga 3: Deluxe Edition - <span class=\"discount_original_price\">29,99€</span> 19,79€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 2999
+                            "price_in_cents_with_discount": 1979
                         },
                         {
                             "packageid": 262487,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-38%",
                             "percent_savings": 0,
-                            "option_text": "The Banner Saga 3: Legendary Edition - 39,99€",
+                            "option_text": "The Banner Saga 3: Legendary Edition - <span class=\"discount_original_price\">39,99€</span> 24,79€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 3999
+                            "price_in_cents_with_discount": 2479
                         }
                     ]
                 }
@@ -201,7 +201,7 @@
                 }
             ],
             "recommendations": {
-                "total": 611
+                "total": 623
             },
             "achievements": {
                 "total": 101,
