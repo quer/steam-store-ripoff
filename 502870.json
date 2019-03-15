@@ -40,10 +40,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 4699,
-                "final": 4699,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "46,99€"
+                "final": 1597,
+                "discount_percent": 66,
+                "initial_formatted": "46,99€",
+                "final_formatted": "15,97€"
             },
             "packages": [
                 115632
@@ -60,13 +60,13 @@
                     "subs": [
                         {
                             "packageid": 115632,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-66%",
                             "percent_savings": 0,
-                            "option_text": "IL-2 Sturmovik: Battle of Moscow - 46,99€",
+                            "option_text": "IL-2 Sturmovik: Battle of Moscow - <span class=\"discount_original_price\">46,99€</span> 15,97€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 4699
+                            "price_in_cents_with_discount": 1597
                         }
                     ]
                 }
