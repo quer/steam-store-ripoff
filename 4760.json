@@ -27,10 +27,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 799,
-                "final": 799,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "7,99€"
+                "final": 271,
+                "discount_percent": 66,
+                "initial_formatted": "7,99€",
+                "final_formatted": "2,71€"
             },
             "packages": [
                 461,
@@ -48,23 +48,23 @@
                     "subs": [
                         {
                             "packageid": 461,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-66%",
                             "percent_savings": 0,
-                            "option_text": "Rome: Total War™ - 7,99€",
+                            "option_text": "Rome: Total War™ - <span class=\"discount_original_price\">7,99€</span> 2,71€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 799
+                            "price_in_cents_with_discount": 271
                         },
                         {
                             "packageid": 463,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-66%",
                             "percent_savings": 0,
-                            "option_text": "Rome: Total War™ Collection - 10,99€",
+                            "option_text": "Rome: Total War™ Collection - <span class=\"discount_original_price\">10,99€</span> 3,73€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1099
+                            "price_in_cents_with_discount": 373
                         }
                     ]
                 }
@@ -193,7 +193,7 @@
                 }
             ],
             "recommendations": {
-                "total": 6218
+                "total": 6236
             },
             "achievements": {
                 "total": 0
