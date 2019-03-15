@@ -14,8 +14,8 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/499460/header.jpg?t=1532036018",
             "website": "https://www.facebook.com/TomatoJonesGame/",
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP / Vista / 7 / 8<br></li><li><strong>Processor:</strong> Intel Core 2 Duo or better<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GTX 460 or better<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 150 MB available space<br></li><li><strong>Sound Card:</strong> Generic sound card</li></ul>",
-                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP / Vista / 7 / 8 - 64-bit<br></li><li><strong>Processor:</strong> Intel Core i5-3330 or better<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GTX 550Ti or better<br></li><li><strong>Storage:</strong> 200 MB available space<br></li><li><strong>Sound Card:</strong> Generic sound card</li></ul>"
+                "minimum": "<strong>最低配置:</strong><br><ul class=\"bb_ul\"><li><strong>操作系统:</strong> Windows XP / Vista / 7 / 8<br></li><li><strong>处理器:</strong> Intel Core 2 Duo or better<br></li><li><strong>内存:</strong> 1 GB RAM<br></li><li><strong>图形:</strong> Nvidia GTX 460 or better<br></li><li><strong>DirectX 版本:</strong> 9.0c<br></li><li><strong>存储空间:</strong> 需要 150 MB 可用空间<br></li><li><strong>声卡:</strong> Generic sound card</li></ul>",
+                "recommended": "<strong>推荐配置:</strong><br><ul class=\"bb_ul\"><li><strong>操作系统:</strong> Windows XP / Vista / 7 / 8 - 64-bit<br></li><li><strong>处理器:</strong> Intel Core i5-3330 or better<br></li><li><strong>内存:</strong> 2 GB RAM<br></li><li><strong>图形:</strong> Nvidia GTX 550Ti or better<br></li><li><strong>存储空间:</strong> 需要 200 MB 可用空间<br></li><li><strong>声卡:</strong> Generic sound card</li></ul>"
             },
             "mac_requirements": [],
             "linux_requirements": [],
@@ -35,10 +35,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 199,
-                "final": 199,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "1,99€"
+                "final": 133,
+                "discount_percent": 33,
+                "initial_formatted": "1,99€",
+                "final_formatted": "1,33€"
             },
             "packages": [
                 114328
@@ -55,13 +55,13 @@
                     "subs": [
                         {
                             "packageid": 114328,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-33%",
                             "percent_savings": 0,
-                            "option_text": "Tomato Jones - 1,99€",
+                            "option_text": "Tomato Jones - <span class=\"discount_original_price\">1,99€</span> 1,33€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 199
+                            "price_in_cents_with_discount": 133
                         }
                     ]
                 }
