@@ -18,8 +18,8 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/495951/header.jpg?t=1530714583",
             "website": "https://www.sniperghostwarrior3.com",
             "pc_requirements": {
-                "minimum": "<strong>ขั้นต่ำ:</strong><br><ul class=\"bb_ul\"><li><strong>ระบบปฏิบัติการ:</strong> Windows 7/8.1/10 64-bit<br></li><li><strong>หน่วยประมวลผล:</strong> i3 3240 3.4 GHz or AMD FX-6350 3.9 GHz<br></li><li><strong>หน่วยความจำ:</strong> แรม 8 GB<br></li><li><strong>กราฟิก:</strong> NVIDIA GeForce GTX 660 2GB or AMD Radeon HD 7850 2GB<br></li><li><strong>DirectX:</strong> เวอร์ชัน 11<br></li><li><strong>หน่วยบันทึกข้อมูล:</strong> พื้นที่ว่างที่พร้อมใช้งาน 50 GB<br></li><li><strong>หมายเหตุเพิ่มเติม:</strong> Online Connection Requirements: 512 KBPS or faster Internet connection</li></ul>",
-                "recommended": "<strong>แนะนำ:</strong><br><ul class=\"bb_ul\"><li><strong>ระบบปฏิบัติการ:</strong> 64-bit Windows 10 or later<br></li><li><strong>หน่วยประมวลผล:</strong> AMD FX 8350 Wraith or Intel Core i7 4790 or equivalent<br></li><li><strong>หน่วยความจำ:</strong> แรม 16 GB<br></li><li><strong>กราฟิก:</strong> AMD Radeon™ RX 480 4GB or NVIDIA GeForce(R) GTX 1060 3GB<br></li><li><strong>DirectX:</strong> เวอร์ชัน 11<br></li><li><strong>หน่วยบันทึกข้อมูล:</strong> พื้นที่ว่างที่พร้อมใช้งาน 50 GB<br></li><li><strong>หมายเหตุเพิ่มเติม:</strong> Online Connection Requirements: 512 KBPS or faster Internet connection</li></ul>"
+                "minimum": "<strong>最低配置:</strong><br><ul class=\"bb_ul\"><li><strong>操作系统:</strong> Windows 7/8.1/10 64-bit<br></li><li><strong>处理器:</strong> i3 3240 3.4 GHz or AMD FX-6350 3.9 GHz<br></li><li><strong>内存:</strong> 8 GB RAM<br></li><li><strong>图形:</strong> NVIDIA GeForce GTX 660 2GB or AMD Radeon HD 7850 2GB<br></li><li><strong>DirectX 版本:</strong> 11<br></li><li><strong>存储空间:</strong> 需要 50 GB 可用空间<br></li><li><strong>附注事项:</strong> Online Connection Requirements: 512 KBPS or faster Internet connection</li></ul>",
+                "recommended": "<strong>推荐配置:</strong><br><ul class=\"bb_ul\"><li><strong>操作系统:</strong> 64-bit Windows 10 or later<br></li><li><strong>处理器:</strong> AMD FX 8350 Wraith or Intel Core i7 4790 or equivalent<br></li><li><strong>内存:</strong> 16 GB RAM<br></li><li><strong>图形:</strong> AMD Radeon™ RX 480 4GB or NVIDIA GeForce(R) GTX 1060 3GB<br></li><li><strong>DirectX 版本:</strong> 11<br></li><li><strong>存储空间:</strong> 需要 50 GB 可用空间<br></li><li><strong>附注事项:</strong> Online Connection Requirements: 512 KBPS or faster Internet connection</li></ul>"
             },
             "mac_requirements": [],
             "linux_requirements": [],
@@ -33,10 +33,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 99,
-                "final": 99,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "0,99€"
+                "final": 49,
+                "discount_percent": 51,
+                "initial_formatted": "0,99€",
+                "final_formatted": "0,49€"
             },
             "packages": [
                 113042,
@@ -55,13 +55,13 @@
                     "subs": [
                         {
                             "packageid": 113042,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-51%",
                             "percent_savings": 0,
-                            "option_text": "Sniper Ghost Warrior 3 - Compound Bow - 0,99€",
+                            "option_text": "Sniper Ghost Warrior 3 - Compound Bow - <span class=\"discount_original_price\">0,99€</span> 0,49€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 99
+                            "price_in_cents_with_discount": 49
                         },
                         {
                             "packageid": 146591,
