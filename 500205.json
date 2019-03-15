@@ -31,10 +31,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 1799,
-                "final": 1799,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "17,99€"
+                "final": 1349,
+                "discount_percent": 25,
+                "initial_formatted": "17,99€",
+                "final_formatted": "13,49€"
             },
             "packages": [
                 114612
@@ -51,13 +51,13 @@
                     "subs": [
                         {
                             "packageid": 114612,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-25%",
                             "percent_savings": 0,
-                            "option_text": "FSX Steam Edition: Night Environment: Pennsylvania Add-On - 17,99€",
+                            "option_text": "FSX Steam Edition: Night Environment: Pennsylvania Add-On - <span class=\"discount_original_price\">17,99€</span> 13,49€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1799
+                            "price_in_cents_with_discount": 1349
                         }
                     ]
                 }
