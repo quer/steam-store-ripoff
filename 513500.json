@@ -18,7 +18,7 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/513500/header.jpg?t=1535897366",
             "website": "http://getstreetlegal.com",
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP SP3<br></li><li><strong>Processor:</strong> Intel Core i3 3GHz+<br></li><li><strong>Memory:</strong> 1024 MB RAM<br></li><li><strong>Graphics:</strong> GeForce 9800<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 300 MB available space<br></li><li><strong>Additional Notes:</strong> SSD drive is higly recommended for the best performance</li></ul>"
+                "minimum": "<strong>最低:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP SP3<br></li><li><strong>プロセッサー:</strong> Intel Core i3 3GHz+<br></li><li><strong>メモリー:</strong> 1024 MB RAM<br></li><li><strong>グラフィック:</strong> GeForce 9800<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>ストレージ:</strong> 300 MB 利用可能<br></li><li><strong>追記事項:</strong> SSD drive is higly recommended for the best performance</li></ul>"
             },
             "mac_requirements": [],
             "linux_requirements": [],
@@ -32,10 +32,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 399,
-                "final": 399,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "3,99€"
+                "final": 319,
+                "discount_percent": 20,
+                "initial_formatted": "3,99€",
+                "final_formatted": "3,19€"
             },
             "packages": [
                 119707
@@ -52,13 +52,13 @@
                     "subs": [
                         {
                             "packageid": 119707,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-20%",
                             "percent_savings": 0,
-                            "option_text": "Street Legal Racing: Redline - High Quality Cars Pack - 3,99€",
+                            "option_text": "Street Legal Racing: Redline - High Quality Cars Pack - <span class=\"discount_original_price\">3,99€</span> 3,19€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 399
+                            "price_in_cents_with_discount": 319
                         }
                     ]
                 }

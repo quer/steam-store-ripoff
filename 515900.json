@@ -3,19 +3,19 @@
         "success": true,
         "data": {
             "type": "game",
-            "name": "KILL",
+            "name": "ROCK",
             "steam_appid": 515900,
             "required_age": 0,
             "is_free": false,
-            "detailed_description": "Kill is a survival game with RPG elements and a lot of enemies in a single game..Craft production systems hunting gun and bullets to survive you must regularly eat and drink",
-            "about_the_game": "Kill is a survival game with RPG elements and a lot of enemies in a single game..Craft production systems hunting gun and bullets to survive you must regularly eat and drink",
-            "short_description": "Kill is a survival game with RPG elements and a lot of enemies in a single game..Craft production systems hunting gun and bullets to survive you must regularly eat and...",
+            "detailed_description": "welcome to ROCK!you are the last on the island who survived the virus of the population,You will survive or become one of the infected?it's up to you!in Rock you have a lot of work to do to survive the apocalypse, you have a lot of things to do here-Weapons,Mele Weapons, Building system, gathering system,hunting system,smelting system,Crafting,and much more!<br />\r\n<br />\r\nHunting Animals-Hunt animals to get meat and ingredients for production, and survival<br />\r\n<br />\r\nCRAFTING-Weapon,Bullet,Mele Weapon,Materials, etc&quot;<br />\r\n<br />\r\nBuilding system-Build your own house and house equipment!",
+            "about_the_game": "welcome to ROCK!you are the last on the island who survived the virus of the population,You will survive or become one of the infected?it's up to you!in Rock you have a lot of work to do to survive the apocalypse, you have a lot of things to do here-Weapons,Mele Weapons, Building system, gathering system,hunting system,smelting system,Crafting,and much more!<br />\r\n<br />\r\nHunting Animals-Hunt animals to get meat and ingredients for production, and survival<br />\r\n<br />\r\nCRAFTING-Weapon,Bullet,Mele Weapon,Materials, etc&quot;<br />\r\n<br />\r\nBuilding system-Build your own house and house equipment!",
+            "short_description": "World ROCK is a Survival open game With a large craft building And the struggle for survival!waiting for you day A night cycle,Hunting animals,Furnace of smelting,and Zombie-Monsters&quot;!",
             "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/515900/header.jpg?t=1478711016",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/515900/header.jpg?t=1552493245",
             "website": "http://mah-soft.com/",
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 32-bit<br></li><li><strong>Processor:</strong> 2 GHz<br></li><li><strong>Memory:</strong> 4 GB RAM MB RAM<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>",
-                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10 64-bit<br></li><li><strong>Processor:</strong> 3 GHz<br></li><li><strong>Memory:</strong> 6 GB RAM GB RAM<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 32-bit<br></li><li><strong>Processor:</strong> 2 GHz<br></li><li><strong>Memory:</strong> 4 GB RAM MB RAM<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10 64-bit<br></li><li><strong>Processor:</strong> 3 GHz<br></li><li><strong>Memory:</strong> 8 GB RAM GB RAM<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 3 GB available space</li></ul>"
             },
             "mac_requirements": [],
             "linux_requirements": [],
@@ -28,10 +28,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 499,
-                "final": 499,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "4,99€"
+                "final": 249,
+                "discount_percent": 50,
+                "initial_formatted": "4,99€",
+                "final_formatted": "2,49€"
             },
             "packages": [
                 120537
@@ -39,7 +39,7 @@
             "package_groups": [
                 {
                     "name": "default",
-                    "title": "Buy KILL",
+                    "title": "Buy ROCK",
                     "description": "",
                     "selection_text": "Select a purchase option",
                     "save_text": "",
@@ -48,13 +48,13 @@
                     "subs": [
                         {
                             "packageid": 120537,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-50%",
                             "percent_savings": 0,
-                            "option_text": "KILL - 4,99€",
+                            "option_text": "KILL - <span class=\"discount_original_price\">4,99€</span> 2,49€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 499
+                            "price_in_cents_with_discount": 249
                         }
                     ]
                 }
@@ -68,14 +68,6 @@
                 {
                     "id": 2,
                     "description": "Single-player"
-                },
-                {
-                    "id": 38,
-                    "description": "Online Co-op"
-                },
-                {
-                    "id": 39,
-                    "description": "Local Co-op"
                 }
             ],
             "genres": [
@@ -84,75 +76,92 @@
                     "description": "Action"
                 },
                 {
+                    "id": "25",
+                    "description": "Adventure"
+                },
+                {
+                    "id": "4",
+                    "description": "Casual"
+                },
+                {
                     "id": "23",
                     "description": "Indie"
+                },
+                {
+                    "id": "28",
+                    "description": "Simulation"
                 }
             ],
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/515900/ss_58cf6b80a0ce484d7bd450574601dd13ee797ac1.600x338.jpg?t=1478711016",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/515900/ss_58cf6b80a0ce484d7bd450574601dd13ee797ac1.1920x1080.jpg?t=1478711016"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/515900/ss_43013b69862eb45d178699803ca93c0dd03aa65d.600x338.jpg?t=1552493245",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/515900/ss_43013b69862eb45d178699803ca93c0dd03aa65d.1920x1080.jpg?t=1552493245"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/515900/ss_a919d296764ed3e51f33ef9c78e98c301992e6a0.600x338.jpg?t=1478711016",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/515900/ss_a919d296764ed3e51f33ef9c78e98c301992e6a0.1920x1080.jpg?t=1478711016"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/515900/ss_e9bc915a47d322a219f4206d194e91a00db7026f.600x338.jpg?t=1552493245",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/515900/ss_e9bc915a47d322a219f4206d194e91a00db7026f.1920x1080.jpg?t=1552493245"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/515900/ss_0ffb0f080474f99e11f7ecff0ff9e17ce914a91f.600x338.jpg?t=1478711016",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/515900/ss_0ffb0f080474f99e11f7ecff0ff9e17ce914a91f.1920x1080.jpg?t=1478711016"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/515900/ss_af55c8095309cbf2f1939af22a7b0a1432e754db.600x338.jpg?t=1552493245",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/515900/ss_af55c8095309cbf2f1939af22a7b0a1432e754db.1920x1080.jpg?t=1552493245"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/515900/ss_94f23812c048380186720efb914f8a672a379042.600x338.jpg?t=1478711016",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/515900/ss_94f23812c048380186720efb914f8a672a379042.1920x1080.jpg?t=1478711016"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/515900/ss_2965d948fa1acbde3638145c63dbc12e35f027e1.600x338.jpg?t=1552493245",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/515900/ss_2965d948fa1acbde3638145c63dbc12e35f027e1.1920x1080.jpg?t=1552493245"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/515900/ss_434162e92efa9268ebe0ec645557b3f5a7d78b85.600x338.jpg?t=1478711016",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/515900/ss_434162e92efa9268ebe0ec645557b3f5a7d78b85.1920x1080.jpg?t=1478711016"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/515900/ss_14965188a3f1c7103909b1801693ddf5f85bf9ad.600x338.jpg?t=1552493245",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/515900/ss_14965188a3f1c7103909b1801693ddf5f85bf9ad.1920x1080.jpg?t=1552493245"
                 },
                 {
                     "id": 5,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/515900/ss_3a667d39c70c6c4fee40d0a9c838b843ba66635c.600x338.jpg?t=1478711016",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/515900/ss_3a667d39c70c6c4fee40d0a9c838b843ba66635c.1920x1080.jpg?t=1478711016"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/515900/ss_7f070e99ca6142aac3bb6ccedba33023d2ff901c.600x338.jpg?t=1552493245",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/515900/ss_7f070e99ca6142aac3bb6ccedba33023d2ff901c.1920x1080.jpg?t=1552493245"
                 },
                 {
                     "id": 6,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/515900/ss_932a864955811a3cc2aa2f743a898ecee6e87801.600x338.jpg?t=1478711016",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/515900/ss_932a864955811a3cc2aa2f743a898ecee6e87801.1920x1080.jpg?t=1478711016"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/515900/ss_e54b2a553e5455282d30b0a3dac6b77cab402ce8.600x338.jpg?t=1552493245",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/515900/ss_e54b2a553e5455282d30b0a3dac6b77cab402ce8.1920x1080.jpg?t=1552493245"
                 },
                 {
                     "id": 7,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/515900/ss_7d7fd66713ea27866f320aaae1f9a74640c3aabd.600x338.jpg?t=1478711016",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/515900/ss_7d7fd66713ea27866f320aaae1f9a74640c3aabd.1920x1080.jpg?t=1478711016"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/515900/ss_a913a830dc8ce77d8f5194a5e5af36ac8b2cf2fc.600x338.jpg?t=1552493245",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/515900/ss_a913a830dc8ce77d8f5194a5e5af36ac8b2cf2fc.1920x1080.jpg?t=1552493245"
                 },
                 {
                     "id": 8,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/515900/ss_6771d8a6c0ffd6016bcee298cb1f2ab6900d5c7b.600x338.jpg?t=1478711016",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/515900/ss_6771d8a6c0ffd6016bcee298cb1f2ab6900d5c7b.1920x1080.jpg?t=1478711016"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/515900/ss_445f51e54132f41e32c2f2c544cd9866b738036b.600x338.jpg?t=1552493245",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/515900/ss_445f51e54132f41e32c2f2c544cd9866b738036b.1920x1080.jpg?t=1552493245"
                 },
                 {
                     "id": 9,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/515900/ss_7ca02a9a69620c90a7aac7ae82ec3a781ae80e8c.600x338.jpg?t=1478711016",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/515900/ss_7ca02a9a69620c90a7aac7ae82ec3a781ae80e8c.1920x1080.jpg?t=1478711016"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/515900/ss_05b2fa7af0ac8482817533e7d9937b5cacb55cc4.600x338.jpg?t=1552493245",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/515900/ss_05b2fa7af0ac8482817533e7d9937b5cacb55cc4.1920x1080.jpg?t=1552493245"
                 },
                 {
                     "id": 10,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/515900/ss_c34ce91c9bf051e6d9f6c76095513f90d8dc6b77.600x338.jpg?t=1478711016",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/515900/ss_c34ce91c9bf051e6d9f6c76095513f90d8dc6b77.1920x1080.jpg?t=1478711016"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/515900/ss_87933870b2a1f25d3ffcab60c72bb642d45570e5.600x338.jpg?t=1552493245",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/515900/ss_87933870b2a1f25d3ffcab60c72bb642d45570e5.1920x1080.jpg?t=1552493245"
+                },
+                {
+                    "id": 11,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/515900/ss_a2670f4c9e22f2ac8b2b065a256075a74e2f0c59.600x338.jpg?t=1552493245",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/515900/ss_a2670f4c9e22f2ac8b2b065a256075a74e2f0c59.1920x1080.jpg?t=1552493245"
                 }
             ],
             "movies": [
                 {
-                    "id": 256668738,
-                    "name": "KILL",
-                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256668738/movie.293x165.jpg?t=1471465560",
+                    "id": 256744926,
+                    "name": "ROCK",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256744926/movie.293x165.jpg?t=1552252463",
                     "webm": {
-                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256668738/movie480.webm?t=1471465560",
-                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256668738/movie_max.webm?t=1471465560"
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256744926/movie480.webm?t=1552252463",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256744926/movie_max.webm?t=1552252463"
                     },
                     "highlight": true
                 }
@@ -168,7 +177,7 @@
                 "url": "",
                 "email": "yago256256@gmail.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/515900/page_bg_generated_v6b.jpg?t=1478711016",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/515900/page_bg_generated_v6b.jpg?t=1552493245",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
