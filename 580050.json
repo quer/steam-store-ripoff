@@ -18,10 +18,10 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/580050/header.jpg?t=1526892989",
             "website": "http://www.rpgmakerweb.com/",
             "pc_requirements": {
-                "minimum": "<strong>Minimale :</strong><br><ul class=\"bb_ul\"><li><strong>Système d'exploitation :</strong> Windows 7/8/8.1/10<br></li><li><strong>Processeur :</strong> PC with 1.0GHz Intel® Pentium® III equivalent or higher processor<br></li><li><strong>Mémoire vive :</strong> 256 MB de mémoire<br></li><li><strong>Graphiques :</strong> 1024x768 or better video resolution<br></li><li><strong>DirectX :</strong> Version 10<br></li><li><strong>Espace disque :</strong> 250 MB d'espace disque disponible<br></li><li><strong>Carte son :</strong> DirectSound-compatible sound card<br></li><li><strong>Notes supplémentaires :</strong> 1024x768 or better video resolution</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7/8/8.1/10<br></li><li><strong>Processor:</strong> PC with 1.0GHz Intel® Pentium® III equivalent or higher processor<br></li><li><strong>Memory:</strong> 256 MB RAM<br></li><li><strong>Graphics:</strong> 1024x768 or better video resolution<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Storage:</strong> 250 MB available space<br></li><li><strong>Sound Card:</strong> DirectSound-compatible sound card<br></li><li><strong>Additional Notes:</strong> 1024x768 or better video resolution</li></ul>"
             },
             "mac_requirements": {
-                "minimum": "<strong>Minimale :</strong><br><ul class=\"bb_ul\"><li><strong>Système d'exploitation :</strong> Mac OSX 10.10 or better<br></li><li><strong>Processeur :</strong> Intel Core2 Duo or better<br></li><li><strong>Mémoire vive :</strong> 128 MB de mémoire<br></li><li><strong>Graphiques :</strong> Compatible OpenGLR<br></li><li><strong>Espace disque :</strong> 250 MB d'espace disque disponible<br></li><li><strong>Carte son :</strong> DirectSound-compatible sound card<br></li><li><strong>Notes supplémentaires :</strong> 1280x768 or better Display</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OSX 10.10 or better<br></li><li><strong>Processor:</strong> Intel Core2 Duo or better<br></li><li><strong>Memory:</strong> 128 MB RAM<br></li><li><strong>Graphics:</strong> Compatible OpenGLR<br></li><li><strong>Storage:</strong> 250 MB available space<br></li><li><strong>Sound Card:</strong> DirectSound-compatible sound card<br></li><li><strong>Additional Notes:</strong> 1280x768 or better Display</li></ul>"
             },
             "linux_requirements": [],
             "legal_notice": "©2015 KADOKAWA CORPORATION./YOJI OJIMA",
@@ -34,10 +34,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 999,
-                "final": 999,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "9,99€"
+                "final": 499,
+                "discount_percent": 50,
+                "initial_formatted": "9,99€",
+                "final_formatted": "4,99€"
             },
             "packages": [
                 148648
@@ -54,13 +54,13 @@
                     "subs": [
                         {
                             "packageid": 148648,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-50%",
                             "percent_savings": 0,
-                            "option_text": "RPG Maker MV - Elemental Dungeons Tiles - 9,99€",
+                            "option_text": "RPG Maker MV - Elemental Dungeons Tiles - <span class=\"discount_original_price\">9,99€</span> 4,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 999
+                            "price_in_cents_with_discount": 499
                         }
                     ]
                 }
