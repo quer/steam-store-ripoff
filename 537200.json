@@ -14,12 +14,12 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/537200/header.jpg?t=1521046447",
             "website": "https://www.facebook.com/FirstGamesInteractive/",
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Xp, 7, 8, 10<br></li><li><strong>Processor:</strong> 1000<br></li><li><strong>Memory:</strong> 1024 MB RAM<br></li><li><strong>Graphics:</strong> 512 Mb<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 150 MB available space<br></li><li><strong>Sound Card:</strong> sb16</li></ul>",
-                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 7, 8, 10<br></li><li><strong>Processor:</strong> 1600<br></li><li><strong>Memory:</strong> 2048 MB RAM<br></li><li><strong>Graphics:</strong> 1024<br></li><li><strong>DirectX:</strong> Version 12<br></li><li><strong>Storage:</strong> 150 MB available space<br></li><li><strong>Sound Card:</strong> sb16</li></ul>"
+                "minimum": "<strong>最低配置:</strong><br><ul class=\"bb_ul\"><li><strong>操作系统:</strong> Xp, 7, 8, 10<br></li><li><strong>处理器:</strong> 1000<br></li><li><strong>内存:</strong> 1024 MB RAM<br></li><li><strong>图形:</strong> 512 Mb<br></li><li><strong>DirectX 版本:</strong> 9.0<br></li><li><strong>存储空间:</strong> 需要 150 MB 可用空间<br></li><li><strong>声卡:</strong> sb16</li></ul>",
+                "recommended": "<strong>推荐配置:</strong><br><ul class=\"bb_ul\"><li><strong>操作系统:</strong> 7, 8, 10<br></li><li><strong>处理器:</strong> 1600<br></li><li><strong>内存:</strong> 2048 MB RAM<br></li><li><strong>图形:</strong> 1024<br></li><li><strong>DirectX 版本:</strong> 12<br></li><li><strong>存储空间:</strong> 需要 150 MB 可用空间<br></li><li><strong>声卡:</strong> sb16</li></ul>"
             },
             "mac_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 10.9<br></li><li><strong>Processor:</strong> 1000<br></li><li><strong>Graphics:</strong> 512<br></li><li><strong>Storage:</strong> 150 MB available space<br></li><li><strong>Sound Card:</strong> all</li></ul>",
-                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 10.12<br></li><li><strong>Processor:</strong> 1600<br></li><li><strong>Graphics:</strong> 1024<br></li><li><strong>Storage:</strong> 150 MB available space<br></li><li><strong>Sound Card:</strong> sb16</li></ul>"
+                "minimum": "<strong>最低配置:</strong><br><ul class=\"bb_ul\"><li><strong>操作系统:</strong> 10.9<br></li><li><strong>处理器:</strong> 1000<br></li><li><strong>图形:</strong> 512<br></li><li><strong>存储空间:</strong> 需要 150 MB 可用空间<br></li><li><strong>声卡:</strong> all</li></ul>",
+                "recommended": "<strong>推荐配置:</strong><br><ul class=\"bb_ul\"><li><strong>操作系统:</strong> 10.12<br></li><li><strong>处理器:</strong> 1600<br></li><li><strong>图形:</strong> 1024<br></li><li><strong>存储空间:</strong> 需要 150 MB 可用空间<br></li><li><strong>声卡:</strong> sb16</li></ul>"
             },
             "linux_requirements": [],
             "legal_notice": "© First Games Interactive 2016",
@@ -32,10 +32,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 549,
-                "final": 549,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "5,49€"
+                "final": 219,
+                "discount_percent": 60,
+                "initial_formatted": "5,49€",
+                "final_formatted": "2,19€"
             },
             "packages": [
                 131057
@@ -52,13 +52,13 @@
                     "subs": [
                         {
                             "packageid": 131057,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-60%",
                             "percent_savings": 0,
-                            "option_text": "Defense Of Greece TD - 5,49€",
+                            "option_text": "Defense Of Greece TD - <span class=\"discount_original_price\">5,49€</span> 2,19€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 549
+                            "price_in_cents_with_discount": 219
                         }
                     ]
                 }
