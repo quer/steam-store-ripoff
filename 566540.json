@@ -23,8 +23,8 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/566540/header.jpg?t=1546556394",
             "website": "http://nisamerica.com/games/labyrinth-of-refrain/",
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7/8.1/10 64bit<br></li><li><strong>Processor:</strong> Intel Core i3-6100 3.7GHz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD 520<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 20 GB available space<br></li><li><strong>Sound Card:</strong> Onboard</li></ul>",
-                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7/8.1/10 64bit<br></li><li><strong>Processor:</strong> Intel i5-6500 3.2GHz<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> GeForce GTS 450<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 20 GB available space<br></li><li><strong>Sound Card:</strong> Onboard</li></ul>"
+                "minimum": "<strong>最低配備:</strong><br><ul class=\"bb_ul\"><li><strong>作業系統:</strong> Windows 7/8.1/10 64bit<br></li><li><strong>處理器:</strong> Intel Core i3-6100 3.7GHz<br></li><li><strong>記憶體:</strong> 4 GB 記憶體<br></li><li><strong>顯示卡:</strong> Intel HD 520<br></li><li><strong>DirectX:</strong> 版本：11<br></li><li><strong>儲存空間:</strong> 20 GB 可用空間<br></li><li><strong>音效卡:</strong> Onboard</li></ul>",
+                "recommended": "<strong>建議配備:</strong><br><ul class=\"bb_ul\"><li><strong>作業系統:</strong> Windows 7/8.1/10 64bit<br></li><li><strong>處理器:</strong> Intel i5-6500 3.2GHz<br></li><li><strong>記憶體:</strong> 8 GB 記憶體<br></li><li><strong>顯示卡:</strong> GeForce GTS 450<br></li><li><strong>DirectX:</strong> 版本：11<br></li><li><strong>儲存空間:</strong> 20 GB 可用空間<br></li><li><strong>音效卡:</strong> Onboard</li></ul>"
             },
             "mac_requirements": [],
             "linux_requirements": [],
@@ -38,10 +38,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 4999,
-                "final": 3999,
-                "discount_percent": 20,
-                "initial_formatted": "49,99€",
-                "final_formatted": "39,99€"
+                "final": 4999,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "49,99€"
             },
             "packages": [
                 143212
@@ -58,13 +58,13 @@
                     "subs": [
                         {
                             "packageid": 143212,
-                            "percent_savings_text": "-20%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Labyrinth of Refrain: Coven of Dusk - <span class=\"discount_original_price\">49,99€</span> 39,99€",
+                            "option_text": "Labyrinth of Refrain: Coven of Dusk - 49,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 3999
+                            "price_in_cents_with_discount": 4999
                         }
                     ]
                 }
@@ -236,7 +236,7 @@
                 }
             ],
             "recommendations": {
-                "total": 179
+                "total": 181
             },
             "achievements": {
                 "total": 57,
