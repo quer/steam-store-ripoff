@@ -7,20 +7,24 @@
             "steam_appid": 5617,
             "required_age": 0,
             "is_free": false,
+            "controller_support": "full",
             "detailed_description": "",
             "about_the_game": "",
             "short_description": "",
             "fullgame": {
-                "appid": null,
-                "name": "Uninitialized"
+                "appid": "50110",
+                "name": "Borderlands: The Secret Armory of General Knoxx"
             },
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/5617/header.jpg?t=1447352963",
             "website": null,
             "pc_requirements": [],
             "mac_requirements": [],
             "linux_requirements": [],
+            "developers": [
+                "Gearbox Software"
+            ],
             "publishers": [
-                ""
+                "2K Games"
             ],
             "package_groups": [],
             "platforms": {
@@ -28,6 +32,22 @@
                 "mac": false,
                 "linux": false
             },
+            "categories": [
+                {
+                    "id": 28,
+                    "description": "Full controller support"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "1",
+                    "description": "Action"
+                },
+                {
+                    "id": "3",
+                    "description": "RPG"
+                }
+            ],
             "movies": [
                 {
                     "id": 5617,
@@ -42,7 +62,7 @@
             ],
             "release_date": {
                 "coming_soon": false,
-                "date": ""
+                "date": "25 Feb, 2010"
             },
             "support_info": {
                 "url": "",
