@@ -19,7 +19,7 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/585550/header.jpg?t=1528406063",
             "website": "http://www.backtobasicsgaming.com/",
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 or better<br></li><li><strong>Processor:</strong> 1.2 Ghz<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> DirectX 9 compatible, at least 256MB video memory<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 100 MB available space</li></ul>"
+                "minimum": "<strong>最低配備:</strong><br><ul class=\"bb_ul\"><li><strong>作業系統:</strong> Windows 7 or better<br></li><li><strong>處理器:</strong> 1.2 Ghz<br></li><li><strong>記憶體:</strong> 512 MB 記憶體<br></li><li><strong>顯示卡:</strong> DirectX 9 compatible, at least 256MB video memory<br></li><li><strong>DirectX:</strong> 版本：9.0<br></li><li><strong>儲存空間:</strong> 100 MB 可用空間</li></ul>"
             },
             "mac_requirements": [],
             "linux_requirements": [],
@@ -33,10 +33,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 79,
-                "final": 79,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "0,79€"
+                "final": 39,
+                "discount_percent": 51,
+                "initial_formatted": "0,79€",
+                "final_formatted": "0,39€"
             },
             "packages": [
                 151272
@@ -53,13 +53,13 @@
                     "subs": [
                         {
                             "packageid": 151272,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-51%",
                             "percent_savings": 0,
-                            "option_text": "FEMINAZI: The Triggering - 0,79€",
+                            "option_text": "FEMINAZI: The Triggering - <span class=\"discount_original_price\">0,79€</span> 0,39€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 79
+                            "price_in_cents_with_discount": 39
                         }
                     ]
                 }
@@ -186,7 +186,7 @@
                 }
             ],
             "recommendations": {
-                "total": 877
+                "total": 878
             },
             "achievements": {
                 "total": 70,
