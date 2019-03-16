@@ -15,16 +15,16 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/548370/header.jpg?t=1496243693",
             "website": "http://www.kasedogames.com/rezrog",
             "pc_requirements": {
-                "minimum": "<strong>Minimální:</strong><br><ul class=\"bb_ul\"><li><strong>Operační systém:</strong> Windows 7<br></li><li><strong>Procesor:</strong> 2 GHz Dual Core<br></li><li><strong>Paměť:</strong> 2 GB RAM<br></li><li><strong>Grafická karta:</strong> 512 MB VRAM<br></li><li><strong>Pevný disk:</strong> 4 GB volného místa</li></ul>",
-                "recommended": "<strong>Doporučené:</strong><br><ul class=\"bb_ul\"><li><strong>Operační systém:</strong> Windows 10<br></li><li><strong>Procesor:</strong> 3 GHz Dual Core<br></li><li><strong>Paměť:</strong> 4 GB RAM<br></li><li><strong>Grafická karta:</strong> 2 GB VRAM<br></li><li><strong>Pevný disk:</strong> 4 GB volného místa</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong> 2 GHz Dual Core<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> 512 MB VRAM<br></li><li><strong>Storage:</strong> 4 GB available space</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> 3 GHz Dual Core<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> 2 GB VRAM<br></li><li><strong>Storage:</strong> 4 GB available space</li></ul>"
             },
             "mac_requirements": {
-                "minimum": "<strong>Minimální:</strong><br><ul class=\"bb_ul\"><li><strong>Operační systém:</strong> Mac OS X 10.8<br></li><li><strong>Procesor:</strong> 2 GHz Dual Core<br></li><li><strong>Paměť:</strong> 2 GB RAM<br></li><li><strong>Grafická karta:</strong> 512 MB VRAM<br></li><li><strong>Pevný disk:</strong> 4 GB volného místa</li></ul>",
-                "recommended": "<strong>Doporučené:</strong><br><ul class=\"bb_ul\"><li><strong>Operační systém:</strong> Mac OS X 10.11<br></li><li><strong>Procesor:</strong> 3 GHz Dual Core<br></li><li><strong>Paměť:</strong> 4 GB RAM<br></li><li><strong>Grafická karta:</strong> 2 GB VRAM<br></li><li><strong>Pevný disk:</strong> 4 GB volného místa</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OS X 10.8<br></li><li><strong>Processor:</strong> 2 GHz Dual Core<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> 512 MB VRAM<br></li><li><strong>Storage:</strong> 4 GB available space</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OS X 10.11<br></li><li><strong>Processor:</strong> 3 GHz Dual Core<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> 2 GB VRAM<br></li><li><strong>Storage:</strong> 4 GB available space</li></ul>"
             },
             "linux_requirements": {
-                "minimum": "<strong>Minimální:</strong><br><ul class=\"bb_ul\"><li><strong>Operační systém:</strong> Ubuntu 12.04+ or equivalent<br></li><li><strong>Procesor:</strong> 2 GHz Dual Core<br></li><li><strong>Paměť:</strong> 2 GB RAM<br></li><li><strong>Grafická karta:</strong> 512 MB VRAM<br></li><li><strong>Pevný disk:</strong> 4 GB volného místa</li></ul>",
-                "recommended": "<strong>Doporučené:</strong><br><ul class=\"bb_ul\"><li><strong>Operační systém:</strong> Ubuntu 16.04+ or equivalent<br></li><li><strong>Procesor:</strong> 3 GHz Dual Core<br></li><li><strong>Paměť:</strong> 4 GB RAM<br></li><li><strong>Grafická karta:</strong> 2 GB VRAM<br></li><li><strong>Pevný disk:</strong> 4 GB volného místa</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 12.04+ or equivalent<br></li><li><strong>Processor:</strong> 2 GHz Dual Core<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> 512 MB VRAM<br></li><li><strong>Storage:</strong> 4 GB available space</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 16.04+ or equivalent<br></li><li><strong>Processor:</strong> 3 GHz Dual Core<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> 2 GB VRAM<br></li><li><strong>Storage:</strong> 4 GB available space</li></ul>"
             },
             "legal_notice": "<a href=\"https://steamcommunity.com/linkfilter/?url=http://www.kasedogames.com/\" target=\"_blank\" rel=\"noopener\"  >Kasedo Games</a> is a division of <a href=\"http://store.steampowered.com/search/?publisher=Kalypso%20Media%20Digital\" target=\"_blank\" rel=\"noreferrer\"  >Kalypso Media</a> Group. Kasedo Games copyright © 2017 Kalypso Media Group<br>All rights reserved. All other logos, copyrights and trademarks are property of their respective owner.",
             "developers": [
@@ -213,7 +213,7 @@
                 }
             ],
             "recommendations": {
-                "total": 228
+                "total": 230
             },
             "achievements": {
                 "total": 206,
