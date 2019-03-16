@@ -45,15 +45,15 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 1999,
-                "final": 1999,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "19,99€"
+                "final": 499,
+                "discount_percent": 75,
+                "initial_formatted": "19,99€",
+                "final_formatted": "4,99€"
             },
             "packages": [
                 11443,
-                116764,
-                15351
+                15351,
+                116764
             ],
             "package_groups": [
                 {
@@ -67,33 +67,33 @@
                     "subs": [
                         {
                             "packageid": 11443,
-                            "percent_savings_text": "",
-                            "percent_savings": 0,
-                            "option_text": "Warhammer 40,000: Space Marine - 19,99€",
-                            "option_description": "",
-                            "can_get_free_license": "0",
-                            "is_free_license": false,
-                            "price_in_cents_with_discount": 1999
-                        },
-                        {
-                            "packageid": 116764,
                             "percent_savings_text": "-75%",
                             "percent_savings": 0,
-                            "option_text": "SEGA's Ultimate Warhammer 40,000 Collection - <span class=\"discount_original_price\">161,99€</span> 40,50€",
+                            "option_text": "Warhammer 40,000: Space Marine - <span class=\"discount_original_price\">19,99€</span> 4,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 4050
+                            "price_in_cents_with_discount": 499
                         },
                         {
                             "packageid": 15351,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-75%",
                             "percent_savings": 0,
-                            "option_text": "Warhammer 40,000: Space Marine Collection - 42,99€",
+                            "option_text": "Warhammer 40,000: Space Marine Collection - <span class=\"discount_original_price\">42,99€</span> 10,74€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 4299
+                            "price_in_cents_with_discount": 1074
+                        },
+                        {
+                            "packageid": 116764,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "SEGA's Ultimate Warhammer 40,000 Collection - 161,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 16199
                         }
                     ]
                 }
@@ -280,7 +280,7 @@
                 }
             ],
             "recommendations": {
-                "total": 4995
+                "total": 5003
             },
             "achievements": {
                 "total": 60,
