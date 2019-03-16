@@ -37,8 +37,8 @@
                 "final_formatted": "3,29€"
             },
             "packages": [
-                136556,
-                320837
+                320837,
+                136556
             ],
             "package_groups": [
                 {
@@ -51,20 +51,20 @@
                     "is_recurring_subscription": "false",
                     "subs": [
                         {
+                            "packageid": 320837,
+                            "percent_savings_text": "-50%",
+                            "percent_savings": 0,
+                            "option_text": "Rocket Craze 3D - Commercial License - <span class=\"discount_original_price\">3,29€</span> 1,64€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 164
+                        },
+                        {
                             "packageid": 136556,
                             "percent_savings_text": "",
                             "percent_savings": 0,
                             "option_text": "Rocket Craze 3D - 3,29€",
-                            "option_description": "",
-                            "can_get_free_license": "0",
-                            "is_free_license": false,
-                            "price_in_cents_with_discount": 329
-                        },
-                        {
-                            "packageid": 320837,
-                            "percent_savings_text": "",
-                            "percent_savings": 0,
-                            "option_text": "Rocket Craze 3D - Commercial License - 3,29€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
