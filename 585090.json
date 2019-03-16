@@ -14,7 +14,7 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/585090/header.jpg?t=1524326955",
             "website": "http://aldorlea.org/blackriver.php",
             "pc_requirements": {
-                "minimum": "<strong>最低配置:</strong><br><ul class=\"bb_ul\"><li><strong>操作系统:</strong> Windows XP/Windows Vista/Windows 7/8/10<br></li><li><strong>处理器:</strong> 1.6 GHz<br></li><li><strong>内存:</strong> 128 MB RAM<br></li><li><strong>图形:</strong> DirectX 9.0 Compatible<br></li><li><strong>存储空间:</strong> 需要 200 MB 可用空间<br></li><li><strong>声卡:</strong> DirectX 9.0 Compatible Sound</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP/Windows Vista/Windows 7/8/10<br></li><li><strong>Processor:</strong> 1.6 GHz<br></li><li><strong>Memory:</strong> 128 MB RAM<br></li><li><strong>Graphics:</strong> DirectX 9.0 Compatible<br></li><li><strong>Storage:</strong> 200 MB available space<br></li><li><strong>Sound Card:</strong> DirectX 9.0 Compatible Sound</li></ul>"
             },
             "mac_requirements": [],
             "linux_requirements": [],
@@ -27,10 +27,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 699,
-                "final": 699,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "6,99€"
+                "final": 69,
+                "discount_percent": 90,
+                "initial_formatted": "6,99€",
+                "final_formatted": "0,69€"
             },
             "packages": [
                 151047
@@ -47,13 +47,13 @@
                     "subs": [
                         {
                             "packageid": 151047,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-90%",
                             "percent_savings": 0,
-                            "option_text": "Black River - 6,99€",
+                            "option_text": "Black River - <span class=\"discount_original_price\">6,99€</span> 0,69€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 699
+                            "price_in_cents_with_discount": 69
                         }
                     ]
                 }
