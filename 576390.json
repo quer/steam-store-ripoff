@@ -14,16 +14,16 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/576390/header.jpg?t=1551109375",
             "website": "https://www.mugle.ru/?365days",
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 64bit<br></li><li><strong>Processor:</strong> Intel Core i3-6100<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 950<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Storage:</strong> 3 GB available space</li></ul>",
-                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10 64bit<br></li><li><strong>Processor:</strong> Intel Core i5<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 1060<br></li><li><strong>DirectX:</strong> Version 12<br></li><li><strong>Storage:</strong> 3 GB available space</li></ul>"
+                "minimum": "<strong>Минимальные:</strong><br><ul class=\"bb_ul\"><li><strong>ОС:</strong> Windows 7 64bit<br></li><li><strong>Процессор:</strong> Intel Core i3-6100<br></li><li><strong>Оперативная память:</strong> 8 GB ОЗУ<br></li><li><strong>Видеокарта:</strong> NVIDIA GeForce GTX 950<br></li><li><strong>DirectX:</strong> Версии 10<br></li><li><strong>Место на диске:</strong> 3 GB</li></ul>",
+                "recommended": "<strong>Рекомендованные:</strong><br><ul class=\"bb_ul\"><li><strong>ОС:</strong> Windows 10 64bit<br></li><li><strong>Процессор:</strong> Intel Core i5<br></li><li><strong>Оперативная память:</strong> 16 GB ОЗУ<br></li><li><strong>Видеокарта:</strong> NVIDIA GeForce GTX 1060<br></li><li><strong>DirectX:</strong> Версии 12<br></li><li><strong>Место на диске:</strong> 3 GB</li></ul>"
             },
             "mac_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OSX 10.9 or Higher<br></li><li><strong>Processor:</strong> 2 GHz Equivalent CPU<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL 3 Compatible GPU with 1GB Video RAM<br></li><li><strong>Storage:</strong> 3 GB available space</li></ul>",
-                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OSX 10.9 or Higher<br></li><li><strong>Processor:</strong> 4 GHz Equivalent CPU<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL 3 Compatible GPU with 3GB Video RAM<br></li><li><strong>Storage:</strong> 3 GB available space</li></ul>"
+                "minimum": "<strong>Минимальные:</strong><br><ul class=\"bb_ul\"><li><strong>ОС:</strong> OSX 10.9 or Higher<br></li><li><strong>Процессор:</strong> 2 GHz Equivalent CPU<br></li><li><strong>Оперативная память:</strong> 8 GB ОЗУ<br></li><li><strong>Видеокарта:</strong> OpenGL 3 Compatible GPU with 1GB Video RAM<br></li><li><strong>Место на диске:</strong> 3 GB</li></ul>",
+                "recommended": "<strong>Рекомендованные:</strong><br><ul class=\"bb_ul\"><li><strong>ОС:</strong> OSX 10.9 or Higher<br></li><li><strong>Процессор:</strong> 4 GHz Equivalent CPU<br></li><li><strong>Оперативная память:</strong> 16 GB ОЗУ<br></li><li><strong>Видеокарта:</strong> OpenGL 3 Compatible GPU with 3GB Video RAM<br></li><li><strong>Место на диске:</strong> 3 GB</li></ul>"
             },
             "linux_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu Equivalent Distro 64Bit<br></li><li><strong>Processor:</strong> 2 GHz 64-bit CPU<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL 3 Compatible GPU with 1GB Video RAM<br></li><li><strong>Storage:</strong> 3 GB available space</li></ul>",
-                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu Equivalent Distro 64Bit<br></li><li><strong>Processor:</strong> 4 GHz 64-bit CPU<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL 3 Compatible GPU with 3GB Video RAM<br></li><li><strong>Storage:</strong> 3 GB available space</li></ul>"
+                "minimum": "<strong>Минимальные:</strong><br><ul class=\"bb_ul\"><li><strong>ОС:</strong> Ubuntu Equivalent Distro 64Bit<br></li><li><strong>Процессор:</strong> 2 GHz 64-bit CPU<br></li><li><strong>Оперативная память:</strong> 8 GB ОЗУ<br></li><li><strong>Видеокарта:</strong> OpenGL 3 Compatible GPU with 1GB Video RAM<br></li><li><strong>Место на диске:</strong> 3 GB</li></ul>",
+                "recommended": "<strong>Рекомендованные:</strong><br><ul class=\"bb_ul\"><li><strong>ОС:</strong> Ubuntu Equivalent Distro 64Bit<br></li><li><strong>Процессор:</strong> 4 GHz 64-bit CPU<br></li><li><strong>Оперативная память:</strong> 16 GB ОЗУ<br></li><li><strong>Видеокарта:</strong> OpenGL 3 Compatible GPU with 3GB Video RAM<br></li><li><strong>Место на диске:</strong> 3 GB</li></ul>"
             },
             "developers": [
                 "Mugle Studio"
@@ -34,10 +34,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 999,
-                "final": 699,
-                "discount_percent": 30,
-                "initial_formatted": "9,99€",
-                "final_formatted": "6,99€"
+                "final": 999,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "9,99€"
             },
             "packages": [
                 146924
@@ -54,13 +54,13 @@
                     "subs": [
                         {
                             "packageid": 146924,
-                            "percent_savings_text": "-30%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "365 Days - <span class=\"discount_original_price\">9,99€</span> 6,99€",
+                            "option_text": "365 Days - 9,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 699
+                            "price_in_cents_with_discount": 999
                         }
                     ]
                 }
