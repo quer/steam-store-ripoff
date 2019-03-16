@@ -40,10 +40,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 2395,
-                "final": 2395,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "23,95€"
+                "final": 1916,
+                "discount_percent": 20,
+                "initial_formatted": "23,95€",
+                "final_formatted": "19,16€"
             },
             "packages": [
                 149555
@@ -60,13 +60,13 @@
                     "subs": [
                         {
                             "packageid": 149555,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-20%",
                             "percent_savings": 0,
-                            "option_text": "X-Plane 11 - Add-on: Aerosoft - Airport Berlin-Tegel - 23,95€",
+                            "option_text": "X-Plane 11 - Add-on: Aerosoft - Airport Berlin-Tegel - <span class=\"discount_original_price\">23,95€</span> 19,16€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 2395
+                            "price_in_cents_with_discount": 1916
                         }
                     ]
                 }
