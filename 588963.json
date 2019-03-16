@@ -18,8 +18,8 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/588963/header.jpg?t=1497292041",
             "website": "http://www.hanzonationalacademy.com/skev/",
             "pc_requirements": {
-                "minimum": "<strong>最低配備:</strong><br><ul class=\"bb_ul\"><li><strong>作業系統:</strong> Windows 7+<br></li><li><strong>處理器:</strong> Intel Core i3-550 @ 3.2 GHz (2-core)<br></li><li><strong>記憶體:</strong> 6 GB 記憶體<br></li><li><strong>顯示卡:</strong> NVIDIA GeForce GTS 450<br></li><li><strong>DirectX:</strong> 版本：11<br></li><li><strong>儲存空間:</strong> 19 GB 可用空間<br></li><li><strong>音效卡:</strong> Compatible with DirectX 11.0</li></ul>",
-                "recommended": "<strong>建議配備:</strong><br><ul class=\"bb_ul\"><li><strong>作業系統:</strong> Windows 7+<br></li><li><strong>處理器:</strong> Intel Core i5-6400 @ 3.2 GHz / AMD A8-6500 @ 3.50 GHz<br></li><li><strong>記憶體:</strong> 8 GB 記憶體<br></li><li><strong>顯示卡:</strong> NVIDIA GeForce GTX 950 / AMD Radeon R7 360<br></li><li><strong>DirectX:</strong> 版本：9.0<br></li><li><strong>儲存空間:</strong> 19 GB 可用空間<br></li><li><strong>音效卡:</strong> Compatible with DirectX 11.0</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7+<br></li><li><strong>Processor:</strong> Intel Core i3-550 @ 3.2 GHz (2-core)<br></li><li><strong>Memory:</strong> 6 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTS 450<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 19 GB available space<br></li><li><strong>Sound Card:</strong> Compatible with DirectX 11.0</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7+<br></li><li><strong>Processor:</strong> Intel Core i5-6400 @ 3.2 GHz / AMD A8-6500 @ 3.50 GHz<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 950 / AMD Radeon R7 360<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 19 GB available space<br></li><li><strong>Sound Card:</strong> Compatible with DirectX 11.0</li></ul>"
             },
             "mac_requirements": [],
             "linux_requirements": [],
@@ -34,10 +34,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 899,
-                "final": 899,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "8,99€"
+                "final": 449,
+                "discount_percent": 50,
+                "initial_formatted": "8,99€",
+                "final_formatted": "4,49€"
             },
             "packages": [
                 152367
@@ -54,13 +54,13 @@
                     "subs": [
                         {
                             "packageid": 152367,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-50%",
                             "percent_savings": 0,
-                            "option_text": "SENRAN KAGURA ESTIVAL VERSUS - Ikki Tōsen - 8,99€",
+                            "option_text": "SENRAN KAGURA ESTIVAL VERSUS - Ikki Tōsen - <span class=\"discount_original_price\">8,99€</span> 4,49€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 899
+                            "price_in_cents_with_discount": 449
                         }
                     ]
                 }
