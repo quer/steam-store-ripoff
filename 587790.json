@@ -14,8 +14,8 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/587790/header.jpg?t=1505243633",
             "website": null,
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 or Above<br></li><li><strong>Processor:</strong> Core 2 Duo<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD 4000<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 250 MB available space</li></ul>",
-                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 or Above<br></li><li><strong>Processor:</strong> Core i3<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia Geforce GTX 460 or AMD Radeon HD6850<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 250 MB available space</li></ul>"
+                "minimum": "<strong>Минимальные:</strong><br><ul class=\"bb_ul\"><li><strong>ОС:</strong> Windows 7 or Above<br></li><li><strong>Процессор:</strong> Core 2 Duo<br></li><li><strong>Оперативная память:</strong> 2 GB ОЗУ<br></li><li><strong>Видеокарта:</strong> Intel HD 4000<br></li><li><strong>DirectX:</strong> Версии 9.0c<br></li><li><strong>Место на диске:</strong> 250 MB</li></ul>",
+                "recommended": "<strong>Рекомендованные:</strong><br><ul class=\"bb_ul\"><li><strong>ОС:</strong> Windows 7 or Above<br></li><li><strong>Процессор:</strong> Core i3<br></li><li><strong>Оперативная память:</strong> 4 GB ОЗУ<br></li><li><strong>Видеокарта:</strong> Nvidia Geforce GTX 460 or AMD Radeon HD6850<br></li><li><strong>DirectX:</strong> Версии 9.0c<br></li><li><strong>Место на диске:</strong> 250 MB</li></ul>"
             },
             "mac_requirements": [],
             "linux_requirements": [],
@@ -28,10 +28,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 99,
-                "final": 99,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "0,99€"
+                "final": 49,
+                "discount_percent": 51,
+                "initial_formatted": "0,99€",
+                "final_formatted": "0,49€"
             },
             "packages": [
                 151970
@@ -48,13 +48,13 @@
                     "subs": [
                         {
                             "packageid": 151970,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-51%",
                             "percent_savings": 0,
-                            "option_text": "Deadly Animal Duel - 0,99€",
+                            "option_text": "Deadly Animal Duel - <span class=\"discount_original_price\">0,99€</span> 0,49€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 99
+                            "price_in_cents_with_discount": 49
                         }
                     ]
                 }
