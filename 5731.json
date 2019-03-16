@@ -11,23 +11,40 @@
             "about_the_game": "",
             "short_description": "",
             "fullgame": {
-                "appid": null,
-                "name": "Uninitialized"
+                "appid": "58200",
+                "name": "Jolly Rover"
             },
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/5731/header.jpg?t=1535518838",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/58200/header.jpg?t=1535518841",
             "website": null,
             "pc_requirements": [],
             "mac_requirements": [],
             "linux_requirements": [],
+            "developers": [
+                "Brawsome"
+            ],
             "publishers": [
-                ""
+                "Brawsome"
             ],
             "package_groups": [],
             "platforms": {
                 "windows": true,
-                "mac": false,
+                "mac": true,
                 "linux": false
             },
+            "genres": [
+                {
+                    "id": "25",
+                    "description": "Adventure"
+                },
+                {
+                    "id": "4",
+                    "description": "Casual"
+                },
+                {
+                    "id": "23",
+                    "description": "Indie"
+                }
+            ],
             "movies": [
                 {
                     "id": 5731,
@@ -42,7 +59,7 @@
             ],
             "release_date": {
                 "coming_soon": false,
-                "date": ""
+                "date": "7 Jun, 2010"
             },
             "support_info": {
                 "url": "",
