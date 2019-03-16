@@ -31,10 +31,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 2099,
-                "final": 2099,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "20,99€"
+                "final": 1049,
+                "discount_percent": 50,
+                "initial_formatted": "20,99€",
+                "final_formatted": "10,49€"
             },
             "packages": [
                 147438
@@ -51,13 +51,13 @@
                     "subs": [
                         {
                             "packageid": 147438,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-50%",
                             "percent_savings": 0,
-                            "option_text": "Pixel Ripped 1989 - 20,99€",
+                            "option_text": "Pixel Ripped 1989 - <span class=\"discount_original_price\">20,99€</span> 10,49€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 2099
+                            "price_in_cents_with_discount": 1049
                         }
                     ]
                 }
