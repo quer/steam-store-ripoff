@@ -32,10 +32,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 1499,
-                "final": 1499,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "14,99€"
+                "final": 704,
+                "discount_percent": 53,
+                "initial_formatted": "14,99€",
+                "final_formatted": "7,04€"
             },
             "packages": [
                 128265
@@ -52,13 +52,13 @@
                     "subs": [
                         {
                             "packageid": 128265,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-53%",
                             "percent_savings": 0,
-                            "option_text": "8-Bit Invaders! - 14,99€",
+                            "option_text": "8-Bit Invaders! - <span class=\"discount_original_price\">14,99€</span> 7,04€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1499
+                            "price_in_cents_with_discount": 704
                         }
                     ]
                 }
@@ -209,7 +209,7 @@
                 }
             ],
             "recommendations": {
-                "total": 234
+                "total": 233
             },
             "achievements": {
                 "total": 28,

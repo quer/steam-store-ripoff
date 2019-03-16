@@ -11,16 +11,21 @@
             "about_the_game": "",
             "short_description": "",
             "fullgame": {
-                "appid": null,
-                "name": "Uninitialized"
+                "appid": "21680",
+                "name": "Bionic Commando: Rearmed"
             },
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/5309/header.jpg?t=1447352328",
+            "supported_languages": "English",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/21680/header.jpg?t=1550019027",
             "website": null,
             "pc_requirements": [],
             "mac_requirements": [],
             "linux_requirements": [],
+            "legal_notice": "BIONIC COMMANDO®: Rearmed ©CAPCOM CO., LTD. 2008 ALL RIGHTS RESERVED.",
+            "developers": [
+                "GRIN"
+            ],
             "publishers": [
-                ""
+                "Capcom"
             ],
             "package_groups": [],
             "platforms": {
@@ -28,9 +33,25 @@
                 "mac": false,
                 "linux": false
             },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 9,
+                    "description": "Co-op"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "1",
+                    "description": "Action"
+                }
+            ],
             "release_date": {
                 "coming_soon": false,
-                "date": ""
+                "date": "28 Jul, 2009"
             },
             "support_info": {
                 "url": "",

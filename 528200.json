@@ -14,16 +14,16 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/528200/header.jpg?t=1536219712",
             "website": "http://www.vegascreativesoftware.com",
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Kräver en 64-bitars processor samt operativsystem<br></li><li><strong>OS:</strong> Windows 7 | 8 | 8.1 | 10 (64-bit)<br></li><li><strong>Processor:</strong> 2 GHz<br></li><li><strong>Minne:</strong> 4 GB RAM<br></li><li><strong>Grafik:</strong> Dedicated, at least 512 MB VRAM<br></li><li><strong>Lagring:</strong> 1330 MB ledigt utrymme<br></li><li><strong>Ljudkort:</strong> Multi-channel sound card recommended for surround sound editing</li></ul>",
-                "recommended": "<strong>Rekommenderade:</strong><br><ul class=\"bb_ul\"><li>Kräver en 64-bitars processor samt operativsystem<br></li><li><strong>OS:</strong> Windows 7 | 8 | 8.1 | 10 (64-bit)<br></li><li><strong>Processor:</strong> 2 GHz (Quad- or Eight-Core)<br></li><li><strong>Minne:</strong> 8 GB RAM<br></li><li><strong>Grafik:</strong> Dedicated, 1 GB VRAM<br></li><li><strong>Lagring:</strong> 1330 MB ledigt utrymme<br></li><li><strong>Ljudkort:</strong> Multi-channel sound card recommended for surround sound editing</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 7 | 8 | 8.1 | 10 (64-bit)<br></li><li><strong>Processor:</strong> 2 GHz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Dedicated, at least 512 MB VRAM<br></li><li><strong>Storage:</strong> 1330 MB available space<br></li><li><strong>Sound Card:</strong> Multi-channel sound card recommended for surround sound editing</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 7 | 8 | 8.1 | 10 (64-bit)<br></li><li><strong>Processor:</strong> 2 GHz (Quad- or Eight-Core)<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Dedicated, 1 GB VRAM<br></li><li><strong>Storage:</strong> 1330 MB available space<br></li><li><strong>Sound Card:</strong> Multi-channel sound card recommended for surround sound editing</li></ul>"
             },
             "mac_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Kräver en 64-bitars processor samt operativsystem</li></ul>",
-                "recommended": "<strong>Rekommenderade:</strong><br><ul class=\"bb_ul\"><li>Kräver en 64-bitars processor samt operativsystem</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
             },
             "linux_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Kräver en 64-bitars processor samt operativsystem</li></ul>",
-                "recommended": "<strong>Rekommenderade:</strong><br><ul class=\"bb_ul\"><li>Kräver en 64-bitars processor samt operativsystem</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
             },
             "legal_notice": "Copyright © MAGIX Software GmbH, 2016. VEGAS is a registered trademark of MAGIX Software GmbH. <br />\r\nOther mentioned product names may be registered trademarks of the respective manufacturer.<br />\r\nMAGIX licensing conditions are included in the installation and also at www.magix.com under EULA.",
             "developers": [
@@ -35,10 +35,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 19900,
-                "final": 19900,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "199,--€"
+                "final": 6965,
+                "discount_percent": 65,
+                "initial_formatted": "199,--€",
+                "final_formatted": "69,65€"
             },
             "packages": [
                 126788
@@ -55,13 +55,13 @@
                     "subs": [
                         {
                             "packageid": 126788,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-65%",
                             "percent_savings": 0,
-                            "option_text": "VEGAS Pro 14 Edit Steam Edition - 199,--€",
+                            "option_text": "VEGAS Pro 14 Edit Steam Edition - <span class=\"discount_original_price\">199,--€</span> 69,65€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 19900
+                            "price_in_cents_with_discount": 6965
                         }
                     ]
                 }
@@ -117,7 +117,7 @@
                 }
             ],
             "recommendations": {
-                "total": 361
+                "total": 360
             },
             "achievements": {
                 "total": 0

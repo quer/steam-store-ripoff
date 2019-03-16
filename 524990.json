@@ -31,10 +31,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 298,
-                "final": 298,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "2,98€"
+                "final": 149,
+                "discount_percent": 50,
+                "initial_formatted": "2,98€",
+                "final_formatted": "1,49€"
             },
             "packages": [
                 125224
@@ -51,13 +51,13 @@
                     "subs": [
                         {
                             "packageid": 125224,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-50%",
                             "percent_savings": 0,
-                            "option_text": "Microcosmum: survival of cells - Soundtrack - 2,98€",
+                            "option_text": "Microcosmum: survival of cells - Soundtrack - <span class=\"discount_original_price\">2,98€</span> 1,49€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 298
+                            "price_in_cents_with_discount": 149
                         }
                     ]
                 }

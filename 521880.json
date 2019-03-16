@@ -28,10 +28,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 3699,
-                "final": 3699,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "36,99€"
+                "final": 739,
+                "discount_percent": 80,
+                "initial_formatted": "36,99€",
+                "final_formatted": "7,39€"
             },
             "packages": [
                 123838
@@ -48,13 +48,13 @@
                     "subs": [
                         {
                             "packageid": 123838,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-80%",
                             "percent_savings": 0,
-                            "option_text": "RPG Maker VX - 36,99€",
+                            "option_text": "RPG Maker VX - <span class=\"discount_original_price\">36,99€</span> 7,39€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 3699
+                            "price_in_cents_with_discount": 739
                         }
                     ]
                 }
