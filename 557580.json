@@ -29,14 +29,14 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 699,
-                "final": 349,
-                "discount_percent": 50,
-                "initial_formatted": "6,99€",
-                "final_formatted": "3,49€"
+                "final": 699,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "6,99€"
             },
             "packages": [
-                139474,
-                328474
+                328474,
+                139474
             ],
             "package_groups": [
                 {
@@ -49,16 +49,6 @@
                     "is_recurring_subscription": "false",
                     "subs": [
                         {
-                            "packageid": 139474,
-                            "percent_savings_text": "-50%",
-                            "percent_savings": 0,
-                            "option_text": "Ancient Guardian - <span class=\"discount_original_price\">6,99€</span> 3,49€",
-                            "option_description": "",
-                            "can_get_free_license": "0",
-                            "is_free_license": false,
-                            "price_in_cents_with_discount": 349
-                        },
-                        {
                             "packageid": 328474,
                             "percent_savings_text": "",
                             "percent_savings": 0,
@@ -67,6 +57,16 @@
                             "can_get_free_license": "0",
                             "is_free_license": false,
                             "price_in_cents_with_discount": 569
+                        },
+                        {
+                            "packageid": 139474,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Ancient Guardian - 6,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 699
                         }
                     ]
                 }
