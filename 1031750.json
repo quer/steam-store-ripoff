@@ -1,0 +1,125 @@
+{
+    "1031750": {
+        "success": true,
+        "data": {
+            "type": "dlc",
+            "name": "CRIMSON METAL - Support DLC",
+            "steam_appid": 1031750,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "If you really like CRIMSON METAL and want to further help us in the development you can buy this DLC.",
+            "about_the_game": "If you really like CRIMSON METAL and want to further help us in the development you can buy this DLC.",
+            "short_description": "If you really like CRIMSON METAL and want to further help us in the development you can buy this DLC.",
+            "fullgame": {
+                "appid": "606960",
+                "name": "CRIMSON METAL REDUX"
+            },
+            "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1031750/header.jpg?t=1552692893",
+            "website": null,
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Any</li></ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "legal_notice": "© Copyright 2017 Madbox Entertainment. All Rights Reserved.",
+            "developers": [
+                "Madbox Entertainment"
+            ],
+            "publishers": [
+                "Madbox Entertainment"
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 79,
+                "final": 79,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "0,79€"
+            },
+            "packages": [
+                343227
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy CRIMSON METAL - Support DLC",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 343227,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "CRIMSON METAL - Support DLC - 0,79€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 79
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 21,
+                    "description": "Downloadable Content"
+                },
+                {
+                    "id": 29,
+                    "description": "Steam Trading Cards"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "1",
+                    "description": "Action"
+                },
+                {
+                    "id": "25",
+                    "description": "Adventure"
+                },
+                {
+                    "id": "23",
+                    "description": "Indie"
+                },
+                {
+                    "id": "28",
+                    "description": "Simulation"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031750/ss_0f584ec86eb263930e5c20b97efc4ed046dba8f7.600x338.jpg?t=1552692893",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031750/ss_0f584ec86eb263930e5c20b97efc4ed046dba8f7.1920x1080.jpg?t=1552692893"
+                }
+            ],
+            "release_date": {
+                "coming_soon": false,
+                "date": "15 Mar, 2019"
+            },
+            "support_info": {
+                "url": "",
+                "email": "madboxgamestudio@gmail.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1031750/page_bg_generated_v6b.jpg?t=1552692893",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}
