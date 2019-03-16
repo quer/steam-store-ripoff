@@ -14,12 +14,12 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/558780/header.jpg?t=1551352491",
             "website": "http://specialbit.com",
             "pc_requirements": {
-                "minimum": "<strong>Minimalne:</strong><br><ul class=\"bb_ul\"><li><strong>System operacyjny:</strong> Windows® 7, Windows® 8, Windows® 10<br></li><li><strong>Procesor:</strong> 1.5Ghz<br></li><li><strong>Pamięć:</strong> 1024 MB RAM<br></li><li><strong>Karta graficzna:</strong> Intel HD Graphics 3000 with 384 MB of RAM<br></li><li><strong>DirectX:</strong> Wersja 9.0<br></li><li><strong>Miejsce na dysku:</strong> 750 MB dostępnej przestrzeni<br></li><li><strong>Karta dźwiękowa:</strong> Is not essential</li></ul>",
-                "recommended": "<strong>Zalecane:</strong><br><ul class=\"bb_ul\"><li><strong>System operacyjny:</strong> Windows® 7, Windows® 8, Windows® 10<br></li><li><strong>Procesor:</strong> 2Ghz<br></li><li><strong>Pamięć:</strong> 2048 MB RAM<br></li><li><strong>Karta graficzna:</strong> Modern NVIDIA or AMD graphics card<br></li><li><strong>DirectX:</strong> Wersja 9.0<br></li><li><strong>Miejsce na dysku:</strong> 1000 MB dostępnej przestrzeni<br></li><li><strong>Karta dźwiękowa:</strong> Is not essential</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows® 7, Windows® 8, Windows® 10<br></li><li><strong>Processor:</strong> 1.5Ghz<br></li><li><strong>Memory:</strong> 1024 MB RAM<br></li><li><strong>Graphics:</strong> Intel HD Graphics 3000 with 384 MB of RAM<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 750 MB available space<br></li><li><strong>Sound Card:</strong> Is not essential</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows® 7, Windows® 8, Windows® 10<br></li><li><strong>Processor:</strong> 2Ghz<br></li><li><strong>Memory:</strong> 2048 MB RAM<br></li><li><strong>Graphics:</strong> Modern NVIDIA or AMD graphics card<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 1000 MB available space<br></li><li><strong>Sound Card:</strong> Is not essential</li></ul>"
             },
             "mac_requirements": {
-                "minimum": "<strong>Minimalne:</strong><br><ul class=\"bb_ul\"><li><strong>System operacyjny:</strong> Lion 10.7 or higher<br></li><li><strong>Procesor:</strong> 1.5Ghz<br></li><li><strong>Pamięć:</strong> 1024 MB RAM<br></li><li><strong>Karta graficzna:</strong> 256 MB VRAM<br></li><li><strong>Miejsce na dysku:</strong> 800 MB dostępnej przestrzeni<br></li><li><strong>Karta dźwiękowa:</strong> Is not essential</li></ul>",
-                "recommended": "<strong>Zalecane:</strong><br><ul class=\"bb_ul\"><li><strong>System operacyjny:</strong> Lion 10.7 or higher<br></li><li><strong>Procesor:</strong> 2Ghz<br></li><li><strong>Pamięć:</strong> 2048 MB RAM<br></li><li><strong>Karta graficzna:</strong> 512 MB VRAM<br></li><li><strong>Miejsce na dysku:</strong> 1000 MB dostępnej przestrzeni<br></li><li><strong>Karta dźwiękowa:</strong> Is not essential</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Lion 10.7 or higher<br></li><li><strong>Processor:</strong> 1.5Ghz<br></li><li><strong>Memory:</strong> 1024 MB RAM<br></li><li><strong>Graphics:</strong> 256 MB VRAM<br></li><li><strong>Storage:</strong> 800 MB available space<br></li><li><strong>Sound Card:</strong> Is not essential</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Lion 10.7 or higher<br></li><li><strong>Processor:</strong> 2Ghz<br></li><li><strong>Memory:</strong> 2048 MB RAM<br></li><li><strong>Graphics:</strong> 512 MB VRAM<br></li><li><strong>Storage:</strong> 1000 MB available space<br></li><li><strong>Sound Card:</strong> Is not essential</li></ul>"
             },
             "linux_requirements": [],
             "legal_notice": "©2017 Specialbit Studio",
@@ -38,10 +38,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 699,
-                "final": 699,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "6,99€"
+                "final": 209,
+                "discount_percent": 70,
+                "initial_formatted": "6,99€",
+                "final_formatted": "2,09€"
             },
             "packages": [
                 139888
@@ -58,13 +58,13 @@
                     "subs": [
                         {
                             "packageid": 139888,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-70%",
                             "percent_savings": 0,
-                            "option_text": "Sonya: The Great Adventure - 6,99€",
+                            "option_text": "Sonya: The Great Adventure - <span class=\"discount_original_price\">6,99€</span> 2,09€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 699
+                            "price_in_cents_with_discount": 209
                         }
                     ]
                 }
