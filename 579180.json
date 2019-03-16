@@ -56,10 +56,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 5499,
-                "final": 4399,
-                "discount_percent": 20,
-                "initial_formatted": "54,99€",
-                "final_formatted": "43,99€"
+                "final": 5499,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "54,99€"
             },
             "packages": [
                 205609
@@ -76,13 +76,13 @@
                     "subs": [
                         {
                             "packageid": 205609,
-                            "percent_savings_text": "-20%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Ys VIII: Lacrimosa of Dana - <span class=\"discount_original_price\">54,99€</span> 43,99€",
+                            "option_text": "Ys VIII: Lacrimosa of Dana - 54,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 4399
+                            "price_in_cents_with_discount": 5499
                         }
                     ]
                 }
@@ -208,7 +208,7 @@
                 }
             ],
             "recommendations": {
-                "total": 904
+                "total": 913
             },
             "achievements": {
                 "total": 54,
