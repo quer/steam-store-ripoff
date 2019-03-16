@@ -34,10 +34,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 4800,
-                "final": 4800,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "48,--€"
+                "final": 1920,
+                "discount_percent": 60,
+                "initial_formatted": "48,--€",
+                "final_formatted": "19,20€"
             },
             "packages": [
                 147262,
@@ -56,13 +56,13 @@
                     "subs": [
                         {
                             "packageid": 292370,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-60%",
                             "percent_savings": 0,
-                            "option_text": "Train Sim World® - 48,--€",
+                            "option_text": "Train Sim World® - <span class=\"discount_original_price\">48,--€</span> 19,20€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 4800
+                            "price_in_cents_with_discount": 1920
                         },
                         {
                             "packageid": 292371,
