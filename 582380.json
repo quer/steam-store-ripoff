@@ -33,10 +33,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 3499,
-                "final": 1749,
-                "discount_percent": 50,
-                "initial_formatted": "34,99€",
-                "final_formatted": "17,49€"
+                "final": 3499,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "34,99€"
             },
             "packages": [
                 149483,
@@ -54,23 +54,23 @@
                     "subs": [
                         {
                             "packageid": 149483,
-                            "percent_savings_text": "-50%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "FINAL FANTASY XIV: Stormblood Standard Edition - <span class=\"discount_original_price\">34,99€</span> 17,49€",
+                            "option_text": "FINAL FANTASY XIV: Stormblood Standard Edition - 34,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1749
+                            "price_in_cents_with_discount": 3499
                         },
                         {
                             "packageid": 149486,
-                            "percent_savings_text": "-50%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "FINAL FANTASY XIV: Stormblood Collector's Edition - <span class=\"discount_original_price\">49,99€</span> 24,99€",
+                            "option_text": "FINAL FANTASY XIV: Stormblood Collector's Edition - 49,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 2499
+                            "price_in_cents_with_discount": 4999
                         }
                     ]
                 }
@@ -217,7 +217,7 @@
                 }
             ],
             "recommendations": {
-                "total": 375
+                "total": 377
             },
             "achievements": {
                 "total": 0
