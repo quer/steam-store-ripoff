@@ -29,10 +29,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 369,
-                "final": 369,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "3,69€"
+                "final": 47,
+                "discount_percent": 87,
+                "initial_formatted": "3,69€",
+                "final_formatted": "0,47€"
             },
             "packages": [
                 149052,
@@ -50,13 +50,13 @@
                     "subs": [
                         {
                             "packageid": 149052,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-87%",
                             "percent_savings": 0,
-                            "option_text": "Nash Racing - 3,69€",
+                            "option_text": "Nash Racing - <span class=\"discount_original_price\">3,69€</span> 0,47€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 369
+                            "price_in_cents_with_discount": 47
                         },
                         {
                             "packageid": 227019,
