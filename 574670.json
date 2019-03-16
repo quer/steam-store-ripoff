@@ -33,10 +33,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 1499,
-                "final": 1004,
-                "discount_percent": 33,
-                "initial_formatted": "14,99€",
-                "final_formatted": "10,04€"
+                "final": 1499,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "14,99€"
             },
             "packages": [
                 146314
@@ -53,13 +53,13 @@
                     "subs": [
                         {
                             "packageid": 146314,
-                            "percent_savings_text": "-33%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "VRC PRO Branded cars and components Deluxe - <span class=\"discount_original_price\">14,99€</span> 10,04€",
+                            "option_text": "VRC PRO Branded cars and components Deluxe - 14,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1004
+                            "price_in_cents_with_discount": 1499
                         }
                     ]
                 }
