@@ -34,10 +34,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 569,
-                "final": 472,
-                "discount_percent": 17,
-                "initial_formatted": "5,69€",
-                "final_formatted": "4,72€"
+                "final": 569,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "5,69€"
             },
             "packages": [
                 171357,
@@ -55,13 +55,13 @@
                     "subs": [
                         {
                             "packageid": 171357,
-                            "percent_savings_text": "-17%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "EggTime 2 - <span class=\"discount_original_price\">5,69€</span> 4,72€",
+                            "option_text": "EggTime 2 - 5,69€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 472
+                            "price_in_cents_with_discount": 569
                         },
                         {
                             "packageid": 271087,
