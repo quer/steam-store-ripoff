@@ -18,13 +18,13 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/631500/header.jpg?t=1529380214",
             "website": "http://www.rpgmakerweb.com/",
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7/8/8.1/10<br></li><li><strong>Processor:</strong> PC with 1.0GHz Intel® Pentium® III equivalent or higher processor<br></li><li><strong>Memory:</strong> 256 MB RAM<br></li><li><strong>Graphics:</strong> DirectX 9/OpenGL 4.1 capable GPU<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 250 MB available space<br></li><li><strong>Sound Card:</strong> DirectSound-compatible sound card<br></li><li><strong>Additional Notes:</strong> 1024x768 or better video resolution</li></ul>"
+                "minimum": "<strong>最低:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7/8/8.1/10<br></li><li><strong>プロセッサー:</strong> PC with 1.0GHz Intel® Pentium® III equivalent or higher processor<br></li><li><strong>メモリー:</strong> 256 MB RAM<br></li><li><strong>グラフィック:</strong> DirectX 9/OpenGL 4.1 capable GPU<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>ストレージ:</strong> 250 MB 利用可能<br></li><li><strong>サウンドカード:</strong> DirectSound-compatible sound card<br></li><li><strong>追記事項:</strong> 1024x768 or better video resolution</li></ul>"
             },
             "mac_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OSX 10.10 or better<br></li><li><strong>Processor:</strong> Intel Core2 Duo or better<br></li><li><strong>Memory:</strong> 128 MB RAM<br></li><li><strong>Graphics:</strong> Compatible OpenGLR<br></li><li><strong>Storage:</strong> 250 MB available space<br></li><li><strong>Sound Card:</strong> DirectSound-compatible sound card<br></li><li><strong>Additional Notes:</strong> 1280x768 or better Display</li></ul>"
+                "minimum": "<strong>最低:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OSX 10.10 or better<br></li><li><strong>プロセッサー:</strong> Intel Core2 Duo or better<br></li><li><strong>メモリー:</strong> 128 MB RAM<br></li><li><strong>グラフィック:</strong> Compatible OpenGLR<br></li><li><strong>ストレージ:</strong> 250 MB 利用可能<br></li><li><strong>サウンドカード:</strong> DirectSound-compatible sound card<br></li><li><strong>追記事項:</strong> 1280x768 or better Display</li></ul>"
             },
             "linux_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 14.04 or Steam OS 2.0 (64 bit)<br></li><li><strong>Memory:</strong> 128 MB RAM<br></li><li><strong>Storage:</strong> 250 MB available space<br></li><li><strong>Additional Notes:</strong> Editor best in Desktop mode (Steam OS)</li></ul>"
+                "minimum": "<strong>最低:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 14.04 or Steam OS 2.0 (64 bit)<br></li><li><strong>メモリー:</strong> 128 MB RAM<br></li><li><strong>ストレージ:</strong> 250 MB 利用可能<br></li><li><strong>追記事項:</strong> Editor best in Desktop mode (Steam OS)</li></ul>"
             },
             "developers": [
                 "bitter sweet entertainment"
@@ -35,10 +35,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 2299,
-                "final": 2299,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "22,99€"
+                "final": 1494,
+                "discount_percent": 35,
+                "initial_formatted": "22,99€",
+                "final_formatted": "14,94€"
             },
             "packages": [
                 171904
@@ -55,13 +55,13 @@
                     "subs": [
                         {
                             "packageid": 171904,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-35%",
                             "percent_savings": 0,
-                            "option_text": "RPG Maker MV - 8-bit Perfect Collection - 22,99€",
+                            "option_text": "RPG Maker MV - 8-bit Perfect Collection - <span class=\"discount_original_price\">22,99€</span> 14,94€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 2299
+                            "price_in_cents_with_discount": 1494
                         }
                     ]
                 }
