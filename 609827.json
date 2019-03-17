@@ -31,10 +31,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 2799,
-                "final": 2799,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "27,99€"
+                "final": 559,
+                "discount_percent": 80,
+                "initial_formatted": "27,99€",
+                "final_formatted": "5,59€"
             },
             "packages": [
                 162694
@@ -51,13 +51,13 @@
                     "subs": [
                         {
                             "packageid": 162694,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-80%",
                             "percent_savings": 0,
-                            "option_text": "FSX Steam Edition: Hawker Hunter F.6/FGA.9 Add-On - 27,99€",
+                            "option_text": "FSX Steam Edition: Hawker Hunter F.6/FGA.9 Add-On - <span class=\"discount_original_price\">27,99€</span> 5,59€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 2799
+                            "price_in_cents_with_discount": 559
                         }
                     ]
                 }
