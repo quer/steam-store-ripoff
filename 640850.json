@@ -15,7 +15,7 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/640850/header.jpg?t=1542114775",
             "website": "https://www.facebook.com/clashofcards/",
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows Vista or later<br></li><li><strong>Processor:</strong> 2.33 Ghz or faster x86-compatible processor or Intel Atom™ 1.6GHz or faster processor for netbook class devices<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 300 MB available space</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Betriebssystem:</strong> Windows Vista or later<br></li><li><strong>Prozessor:</strong> 2.33 Ghz or faster x86-compatible processor or Intel Atom™ 1.6GHz or faster processor for netbook class devices<br></li><li><strong>Arbeitsspeicher:</strong> 1 GB RAM<br></li><li><strong>Netzwerk:</strong> Breitband-Internetverbindung<br></li><li><strong>Speicherplatz:</strong> 300 MB verfügbarer Speicherplatz</li></ul>"
             },
             "mac_requirements": [],
             "linux_requirements": [],
@@ -31,10 +31,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 819,
-                "final": 696,
-                "discount_percent": 15,
-                "initial_formatted": "8,19€",
-                "final_formatted": "6,96€"
+                "final": 819,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "8,19€"
             },
             "packages": [
                 199298
@@ -51,13 +51,13 @@
                     "subs": [
                         {
                             "packageid": 199298,
-                            "percent_savings_text": "-15%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Azorian Kings - <span class=\"discount_original_price\">8,19€</span> 6,96€",
+                            "option_text": "Azorian Kings - 8,19€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 696
+                            "price_in_cents_with_discount": 819
                         }
                     ]
                 }
@@ -139,7 +139,7 @@
                 }
             ],
             "recommendations": {
-                "total": 101
+                "total": 102
             },
             "achievements": {
                 "total": 45,
