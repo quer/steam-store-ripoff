@@ -42,7 +42,8 @@
                 "final_formatted": "4,99€"
             },
             "packages": [
-                164272
+                164272,
+                346195
             ],
             "package_groups": [
                 {
@@ -59,6 +60,16 @@
                             "percent_savings_text": "",
                             "percent_savings": 0,
                             "option_text": "Blackjack Bailey - 4,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 499
+                        },
+                        {
+                            "packageid": 346195,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Blackjack Bailey VR - Commercial License - 4,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
@@ -144,8 +155,10 @@
             },
             "background": "https://steamcdn-a.akamaihd.net/steam/apps/613330/page_bg_generated_v6b.jpg?t=1531605227",
             "content_descriptors": {
-                "ids": [],
-                "notes": null
+                "ids": [
+                    5
+                ],
+                "notes": "Simulated Gambling"
             }
         }
     }
