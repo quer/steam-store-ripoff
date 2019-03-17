@@ -16,16 +16,16 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/635320/header.jpg?t=1506410997",
             "website": "http://www.lastdayofjunegame.com",
             "pc_requirements": {
-                "minimum": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits<br></li><li><strong>SO:</strong> Windows 7/8 (64-bit OS required)<br></li><li><strong>Procesador:</strong> Intel Core i3 / AMD A6 @ 3.0GHz or higher<br></li><li><strong>Memoria:</strong> 4 GB de RAM<br></li><li><strong>Gráficos:</strong> Nvidia GeForce 750Ti / AMD Radeon R9 270x or better<br></li><li><strong>DirectX:</strong> Versión 11<br></li><li><strong>Almacenamiento:</strong> 3 GB de espacio disponible<br></li><li><strong>Tarjeta de sonido:</strong> 100% DirectX 9.0c compatible sound card</li></ul>",
-                "recommended": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits<br></li><li><strong>SO:</strong> Windows 10 (64-bit OS required)<br></li><li><strong>Procesador:</strong> Intel Core i5 6400 or AMD A10 @ 2.7 GHz or higher<br></li><li><strong>Memoria:</strong> 8 GB de RAM<br></li><li><strong>Gráficos:</strong> Nvidia GeForce GTX 970 / AMD R9 290 or better<br></li><li><strong>DirectX:</strong> Versión 11<br></li><li><strong>Almacenamiento:</strong> 3 GB de espacio disponible<br></li><li><strong>Tarjeta de sonido:</strong> 100% DirectX 9.0c compatible sound card</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 7/8 (64-bit OS required)<br></li><li><strong>Processor:</strong> Intel Core i3 / AMD A6 @ 3.0GHz or higher<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GeForce 750Ti / AMD Radeon R9 270x or better<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 3 GB available space<br></li><li><strong>Sound Card:</strong> 100% DirectX 9.0c compatible sound card</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10 (64-bit OS required)<br></li><li><strong>Processor:</strong> Intel Core i5 6400 or AMD A10 @ 2.7 GHz or higher<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GeForce GTX 970 / AMD R9 290 or better<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 3 GB available space<br></li><li><strong>Sound Card:</strong> 100% DirectX 9.0c compatible sound card</li></ul>"
             },
             "mac_requirements": {
-                "minimum": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits</li></ul>",
-                "recommended": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
             },
             "linux_requirements": {
-                "minimum": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits</li></ul>",
-                "recommended": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li>Requiere un procesador y un sistema operativo de 64 bits</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
             },
             "legal_notice": "Last Day of June™ ©2017 Ovosonico / ©2017 505 Games - All rights reserved. Published by 505 Games. Developed by Ovosonico. 505 Games and the 505 Games logo are registered trademarks of 505 Games S.p.A and/or its Affiliates.<br />\r\nSoundtrack: Words and Music by Steven John Wilson - Original Publisher: Songs of Universal Inc./Hands Off It’s Mine Publishing - Sub-Publisher: Universal/MCA Music Italy. All other marks and trademarks are the property of their respective owners.",
             "developers": [
@@ -37,10 +37,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 1999,
-                "final": 1999,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "19,99€"
+                "final": 799,
+                "discount_percent": 60,
+                "initial_formatted": "19,99€",
+                "final_formatted": "7,99€"
             },
             "packages": [
                 203308
@@ -57,13 +57,13 @@
                     "subs": [
                         {
                             "packageid": 203308,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-60%",
                             "percent_savings": 0,
-                            "option_text": "Last Day of June - 19,99€",
+                            "option_text": "Last Day of June - <span class=\"discount_original_price\">19,99€</span> 7,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1999
+                            "price_in_cents_with_discount": 799
                         }
                     ]
                 }
@@ -190,7 +190,7 @@
                 }
             ],
             "recommendations": {
-                "total": 1022
+                "total": 1045
             },
             "achievements": {
                 "total": 21,
