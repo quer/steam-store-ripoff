@@ -14,7 +14,7 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/614130/header.jpg?t=1508857436",
             "website": "http://www.matrixgames.com/products/product.asp?gid=693",
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP SP3 / Vista / 7 / 8/10<br></li><li><strong>Processor:</strong> Dual-core Pentium and above<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> DirectX 9.0c compatible video card with 16 MB RAM<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 11678 MB available space<br></li><li><strong>Sound Card:</strong> DirectX 9.0c compatible sound card<br></li><li><strong>Additional Notes:</strong> Requires Windows Media Player</li></ul>"
+                "minimum": "<strong>Минимальные:</strong><br><ul class=\"bb_ul\"><li><strong>ОС:</strong> Windows XP SP3 / Vista / 7 / 8/10<br></li><li><strong>Процессор:</strong> Dual-core Pentium and above<br></li><li><strong>Оперативная память:</strong> 1 GB ОЗУ<br></li><li><strong>Видеокарта:</strong> DirectX 9.0c compatible video card with 16 MB RAM<br></li><li><strong>DirectX:</strong> Версии 9.0c<br></li><li><strong>Место на диске:</strong> 11678 MB<br></li><li><strong>Звуковая карта:</strong> DirectX 9.0c compatible sound card<br></li><li><strong>Дополнительно:</strong> Requires Windows Media Player</li></ul>"
             },
             "mac_requirements": [],
             "linux_requirements": [],
@@ -28,10 +28,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 1999,
-                "final": 979,
-                "discount_percent": 51,
-                "initial_formatted": "19,99€",
-                "final_formatted": "9,79€"
+                "final": 1999,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "19,99€"
             },
             "packages": [
                 164552
@@ -48,13 +48,13 @@
                     "subs": [
                         {
                             "packageid": 164552,
-                            "percent_savings_text": "-51%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Command: Chains of War - <span class=\"discount_original_price\">19,99€</span> 9,79€",
+                            "option_text": "Command: Chains of War - 19,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 979
+                            "price_in_cents_with_discount": 1999
                         }
                     ]
                 }
