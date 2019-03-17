@@ -31,10 +31,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 3699,
-                "final": 1812,
-                "discount_percent": 51,
-                "initial_formatted": "36,99€",
-                "final_formatted": "18,12€"
+                "final": 3699,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "36,99€"
             },
             "packages": [
                 154454
@@ -51,13 +51,13 @@
                     "subs": [
                         {
                             "packageid": 154454,
-                            "percent_savings_text": "-51%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Strategic Command WWII: War in Europe - <span class=\"discount_original_price\">36,99€</span> 18,12€",
+                            "option_text": "Strategic Command WWII: War in Europe - 36,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1812
+                            "price_in_cents_with_discount": 3699
                         }
                     ]
                 }
