@@ -40,10 +40,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 1699,
-                "final": 1699,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "16,99€"
+                "final": 1274,
+                "discount_percent": 25,
+                "initial_formatted": "16,99€",
+                "final_formatted": "12,74€"
             },
             "packages": [
                 162921
@@ -60,13 +60,13 @@
                     "subs": [
                         {
                             "packageid": 162921,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-25%",
                             "percent_savings": 0,
-                            "option_text": "PAWARUMI - 16,99€",
+                            "option_text": "PAWARUMI - <span class=\"discount_original_price\">16,99€</span> 12,74€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1699
+                            "price_in_cents_with_discount": 1274
                         }
                     ]
                 }
