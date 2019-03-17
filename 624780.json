@@ -15,7 +15,7 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/624780/header.jpg?t=1547509256",
             "website": "http://cornflowercorbin.com/",
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows® 7<br></li><li><strong>Processor:</strong> Intel® Core™ 2 Duo E6600 or AMD Phenom™ X3 8750 processor or better<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> SM3 512MB VRAM<br></li><li><strong>Storage:</strong> 900 MB available space<br></li><li><strong>Additional Notes:</strong> Two (2) Controllers require for coop games</li></ul>"
+                "minimum": "<strong>Минимальные:</strong><br><ul class=\"bb_ul\"><li><strong>ОС:</strong> Windows® 7<br></li><li><strong>Процессор:</strong> Intel® Core™ 2 Duo E6600 or AMD Phenom™ X3 8750 processor or better<br></li><li><strong>Оперативная память:</strong> 2 GB ОЗУ<br></li><li><strong>Видеокарта:</strong> SM3 512MB VRAM<br></li><li><strong>Место на диске:</strong> 900 MB<br></li><li><strong>Дополнительно:</strong> Two (2) Controllers require for coop games</li></ul>"
             },
             "mac_requirements": [],
             "linux_requirements": [],
@@ -29,10 +29,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 199,
-                "final": 199,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "1,99€"
+                "final": 79,
+                "discount_percent": 60,
+                "initial_formatted": "1,99€",
+                "final_formatted": "0,79€"
             },
             "packages": [
                 168593
@@ -49,13 +49,13 @@
                     "subs": [
                         {
                             "packageid": 168593,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-60%",
                             "percent_savings": 0,
-                            "option_text": "Cornflower Corbin - 1,99€",
+                            "option_text": "Cornflower Corbin - <span class=\"discount_original_price\">1,99€</span> 0,79€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 199
+                            "price_in_cents_with_discount": 79
                         }
                     ]
                 }
