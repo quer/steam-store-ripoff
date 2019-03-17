@@ -12,10 +12,10 @@
             "short_description": "This DLC pack includes a set of 15 wallpapers based on the special illustrations which appear within the game.",
             "fullgame": {
                 "appid": "467690",
-                "name": "My Girlfriend"
+                "name": "Uninitialized"
             },
             "supported_languages": "English",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/602231/header.jpg?t=1551475718",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/602231/header.jpg?t=1552655874",
             "website": "http://Dharker.Studio",
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 or Newer<br></li><li><strong>Processor:</strong> 1.66 Ghz<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> 1920x1080<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
@@ -33,7 +33,40 @@
             "publishers": [
                 "Dharker Studio"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 159,
+                "final": 151,
+                "discount_percent": 5,
+                "initial_formatted": "1,59€",
+                "final_formatted": "1,51€"
+            },
+            "packages": [
+                158294
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy My Girlfriend - Wallpapers",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 158294,
+                            "percent_savings_text": "-5%",
+                            "percent_savings": 0,
+                            "option_text": "My Girlfriend - Wallpapers - <span class=\"discount_original_price\">1,59€</span> 1,51€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 151
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": true,
@@ -66,44 +99,47 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/602231/ss_2b12a0b599b4225235070b817836e331df69f746.600x338.jpg?t=1551475718",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/602231/ss_2b12a0b599b4225235070b817836e331df69f746.1920x1080.jpg?t=1551475718"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/602231/ss_2b12a0b599b4225235070b817836e331df69f746.600x338.jpg?t=1552655874",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/602231/ss_2b12a0b599b4225235070b817836e331df69f746.1920x1080.jpg?t=1552655874"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/602231/ss_57fb9d3d5d55385bfcee174a1a31f91f5c9443b6.600x338.jpg?t=1551475718",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/602231/ss_57fb9d3d5d55385bfcee174a1a31f91f5c9443b6.1920x1080.jpg?t=1551475718"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/602231/ss_57fb9d3d5d55385bfcee174a1a31f91f5c9443b6.600x338.jpg?t=1552655874",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/602231/ss_57fb9d3d5d55385bfcee174a1a31f91f5c9443b6.1920x1080.jpg?t=1552655874"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/602231/ss_58556d0698db921c08aa1e94da794c8df4b7a9b0.600x338.jpg?t=1551475718",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/602231/ss_58556d0698db921c08aa1e94da794c8df4b7a9b0.1920x1080.jpg?t=1551475718"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/602231/ss_58556d0698db921c08aa1e94da794c8df4b7a9b0.600x338.jpg?t=1552655874",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/602231/ss_58556d0698db921c08aa1e94da794c8df4b7a9b0.1920x1080.jpg?t=1552655874"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/602231/ss_191afa766296082ec107d501196a470219b97afe.600x338.jpg?t=1551475718",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/602231/ss_191afa766296082ec107d501196a470219b97afe.1920x1080.jpg?t=1551475718"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/602231/ss_191afa766296082ec107d501196a470219b97afe.600x338.jpg?t=1552655874",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/602231/ss_191afa766296082ec107d501196a470219b97afe.1920x1080.jpg?t=1552655874"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/602231/ss_8222ad945e4d6bc8cf86e2404145eabeb6b5fca3.600x338.jpg?t=1551475718",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/602231/ss_8222ad945e4d6bc8cf86e2404145eabeb6b5fca3.1920x1080.jpg?t=1551475718"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/602231/ss_8222ad945e4d6bc8cf86e2404145eabeb6b5fca3.600x338.jpg?t=1552655874",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/602231/ss_8222ad945e4d6bc8cf86e2404145eabeb6b5fca3.1920x1080.jpg?t=1552655874"
                 },
                 {
                     "id": 5,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/602231/ss_c614bab187f5582c86fc2fc369913f5114226e88.600x338.jpg?t=1551475718",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/602231/ss_c614bab187f5582c86fc2fc369913f5114226e88.1920x1080.jpg?t=1551475718"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/602231/ss_c614bab187f5582c86fc2fc369913f5114226e88.600x338.jpg?t=1552655874",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/602231/ss_c614bab187f5582c86fc2fc369913f5114226e88.1920x1080.jpg?t=1552655874"
                 }
             ],
+            "achievements": {
+                "total": 0
+            },
             "release_date": {
-                "coming_soon": true,
+                "coming_soon": false,
                 "date": "15 Mar, 2019"
             },
             "support_info": {
                 "url": "http://Dharker.Studio",
                 "email": ""
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/602231/page_bg_generated_v6b.jpg?t=1551475718",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/602231/page_bg_generated_v6b.jpg?t=1552655874",
             "content_descriptors": {
                 "ids": [
                     1,
