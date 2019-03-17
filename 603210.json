@@ -27,10 +27,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 739,
-                "final": 739,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "7,39€"
+                "final": 480,
+                "discount_percent": 35,
+                "initial_formatted": "7,39€",
+                "final_formatted": "4,80€"
             },
             "packages": [
                 158677
@@ -47,13 +47,13 @@
                     "subs": [
                         {
                             "packageid": 158677,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-35%",
                             "percent_savings": 0,
-                            "option_text": "Heartomics: Valkyries - 7,39€",
+                            "option_text": "Heartomics: Valkyries - <span class=\"discount_original_price\">7,39€</span> 4,80€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 739
+                            "price_in_cents_with_discount": 480
                         }
                     ]
                 }
