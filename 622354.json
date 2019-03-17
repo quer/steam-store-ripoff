@@ -32,10 +32,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 3199,
-                "final": 3199,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "31,99€"
+                "final": 1599,
+                "discount_percent": 50,
+                "initial_formatted": "31,99€",
+                "final_formatted": "15,99€"
             },
             "packages": [
                 167463
@@ -52,13 +52,13 @@
                     "subs": [
                         {
                             "packageid": 167463,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-50%",
                             "percent_savings": 0,
-                            "option_text": "FSX Steam Edition: Piper PA-28R Turbo Arrow III/IV Add-On - 31,99€",
+                            "option_text": "FSX Steam Edition: Piper PA-28R Turbo Arrow III/IV Add-On - <span class=\"discount_original_price\">31,99€</span> 15,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 3199
+                            "price_in_cents_with_discount": 1599
                         }
                     ]
                 }
