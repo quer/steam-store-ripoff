@@ -5,7 +5,7 @@
             "type": "game",
             "name": "Wolfenstein II: The New Colossus",
             "steam_appid": 612880,
-            "required_age": "17",
+            "required_age": "18",
             "is_free": false,
             "controller_support": "full",
             "dlc": [
@@ -47,12 +47,12 @@
                 }
             ],
             "price_overview": {
-                "currency": "BRL",
-                "initial": 19999,
-                "final": 19999,
+                "currency": "EUR",
+                "initial": 5999,
+                "final": 5999,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "R$ 199,99"
+                "final_formatted": "59,99€"
             },
             "packages": [
                 164072,
@@ -72,21 +72,21 @@
                             "packageid": 164072,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Wolfenstein II: The New Colossus - R$ 199,99",
+                            "option_text": "Wolfenstein II: The New Colossus - 59,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 19999
+                            "price_in_cents_with_discount": 5999
                         },
                         {
                             "packageid": 183036,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Wolfenstein II: The New Colossus Digital Deluxe Edition - R$ 259,99",
+                            "option_text": "Wolfenstein II: The New Colossus Digital Deluxe Edition - 79,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 25999
+                            "price_in_cents_with_discount": 7999
                         }
                     ]
                 }
@@ -221,7 +221,7 @@
                 }
             ],
             "recommendations": {
-                "total": 9085
+                "total": 9148
             },
             "achievements": {
                 "total": 80,
