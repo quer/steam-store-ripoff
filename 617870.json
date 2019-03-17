@@ -35,10 +35,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 1749,
-                "final": 1749,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "17,49€"
+                "final": 874,
+                "discount_percent": 50,
+                "initial_formatted": "17,49€",
+                "final_formatted": "8,74€"
             },
             "packages": [
                 165774
@@ -55,13 +55,13 @@
                     "subs": [
                         {
                             "packageid": 165774,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-50%",
                             "percent_savings": 0,
-                            "option_text": "Total War: WARHAMMER II – Rise of the Tomb Kings - 17,49€",
+                            "option_text": "Total War: WARHAMMER II – Rise of the Tomb Kings - <span class=\"discount_original_price\">17,49€</span> 8,74€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1749
+                            "price_in_cents_with_discount": 874
                         }
                     ]
                 }
@@ -177,7 +177,7 @@
                 }
             ],
             "recommendations": {
-                "total": 1380
+                "total": 1391
             },
             "achievements": {
                 "total": 0
