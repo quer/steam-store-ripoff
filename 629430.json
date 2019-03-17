@@ -42,10 +42,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 569,
-                "final": 569,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "5,69€"
+                "final": 398,
+                "discount_percent": 30,
+                "initial_formatted": "5,69€",
+                "final_formatted": "3,98€"
             },
             "packages": [
                 171142
@@ -62,13 +62,13 @@
                     "subs": [
                         {
                             "packageid": 171142,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-30%",
                             "percent_savings": 0,
-                            "option_text": "The Last Birdling - 5,69€",
+                            "option_text": "The Last Birdling - <span class=\"discount_original_price\">5,69€</span> 3,98€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 569
+                            "price_in_cents_with_discount": 398
                         }
                     ]
                 }
