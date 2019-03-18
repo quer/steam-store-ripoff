@@ -18,16 +18,16 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/649310/header.jpg?t=1549636754",
             "website": "http://www.ashesofthesingularity.com/",
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> 64-bit Windows 10 / 8.1 / 7<br></li><li><strong>Processor:</strong> Quad-core Intel / AMD Processor<br></li><li><strong>Memory:</strong> 6 GB RAM<br></li><li><strong>Graphics:</strong> 2 GB GDDR5 NVidia GeForce 660 / AMD R7 360 or better (GeForce 900+ / Radeon 290+ for Vulkan)<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Sound Card:</strong> DirectX Compatible Sound Card<br></li><li><strong>Additional Notes:</strong> 1920x1080 Display Resolution or Higher</li></ul>",
-                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> 64-bit Windows 10<br></li><li><strong>Processor:</strong> Intel Core i5 or Equivalent<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> 4 GB GDDR5 NVidia GTX 970 / AMD R9 390 or better<br></li><li><strong>DirectX:</strong> Version 12<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Sound Card:</strong> DirectX Compatible Sound Card<br></li><li><strong>Additional Notes:</strong> 1920x1080 Display Resolution or Higher</li></ul>"
+                "minimum": "<strong>Минимальные:</strong><br><ul class=\"bb_ul\"><li>Требуются 64-разрядные процессор и операционная система<br></li><li><strong>ОС:</strong> 64-bit Windows 10 / 8.1 / 7<br></li><li><strong>Процессор:</strong> Quad-core Intel / AMD Processor<br></li><li><strong>Оперативная память:</strong> 6 GB ОЗУ<br></li><li><strong>Видеокарта:</strong> 2 GB GDDR5 NVidia GeForce 660 / AMD R7 360 or better (GeForce 900+ / Radeon 290+ for Vulkan)<br></li><li><strong>DirectX:</strong> Версии 11<br></li><li><strong>Сеть:</strong> Широкополосное подключение к интернету<br></li><li><strong>Звуковая карта:</strong> DirectX Compatible Sound Card<br></li><li><strong>Дополнительно:</strong> 1920x1080 Display Resolution or Higher</li></ul>",
+                "recommended": "<strong>Рекомендованные:</strong><br><ul class=\"bb_ul\"><li>Требуются 64-разрядные процессор и операционная система<br></li><li><strong>ОС:</strong> 64-bit Windows 10<br></li><li><strong>Процессор:</strong> Intel Core i5 or Equivalent<br></li><li><strong>Оперативная память:</strong> 16 GB ОЗУ<br></li><li><strong>Видеокарта:</strong> 4 GB GDDR5 NVidia GTX 970 / AMD R9 390 or better<br></li><li><strong>DirectX:</strong> Версии 12<br></li><li><strong>Сеть:</strong> Широкополосное подключение к интернету<br></li><li><strong>Звуковая карта:</strong> DirectX Compatible Sound Card<br></li><li><strong>Дополнительно:</strong> 1920x1080 Display Resolution or Higher</li></ul>"
             },
             "mac_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
-                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+                "minimum": "<strong>Минимальные:</strong><br><ul class=\"bb_ul\"><li>Требуются 64-разрядные процессор и операционная система</li></ul>",
+                "recommended": "<strong>Рекомендованные:</strong><br><ul class=\"bb_ul\"><li>Требуются 64-разрядные процессор и операционная система</li></ul>"
             },
             "linux_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
-                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+                "minimum": "<strong>Минимальные:</strong><br><ul class=\"bb_ul\"><li>Требуются 64-разрядные процессор и операционная система</li></ul>",
+                "recommended": "<strong>Рекомендованные:</strong><br><ul class=\"bb_ul\"><li>Требуются 64-разрядные процессор и операционная система</li></ul>"
             },
             "legal_notice": "Copyright © 2017 Stardock Entertainment and Oxide Games. Ashes of the Singularity and Ashes of the Singularity: Escalation are trademarks of Stardock Entertainment. All rights reserved.",
             "developers": [
@@ -37,32 +37,7 @@
             "publishers": [
                 "Stardock Entertainment"
             ],
-            "packages": [
-                311461
-            ],
-            "package_groups": [
-                {
-                    "name": "default",
-                    "title": "Buy Ashes of the Singularity: Escalation - Juggernaut DLC",
-                    "description": "",
-                    "selection_text": "Select a purchase option",
-                    "save_text": "",
-                    "display_type": 0,
-                    "is_recurring_subscription": "false",
-                    "subs": [
-                        {
-                            "packageid": 311461,
-                            "percent_savings_text": "",
-                            "percent_savings": 0,
-                            "option_text": "Stardock Pack 2018 - 89,99€",
-                            "option_description": "",
-                            "can_get_free_license": "0",
-                            "is_free_license": false,
-                            "price_in_cents_with_discount": 8999
-                        }
-                    ]
-                }
-            ],
+            "package_groups": [],
             "platforms": {
                 "windows": true,
                 "mac": false,
