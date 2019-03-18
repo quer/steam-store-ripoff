@@ -34,10 +34,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 199,
-                "final": 149,
-                "discount_percent": 25,
-                "initial_formatted": "1,99€",
-                "final_formatted": "1,49€"
+                "final": 199,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "1,99€"
             },
             "packages": [
                 183975
@@ -54,13 +54,13 @@
                     "subs": [
                         {
                             "packageid": 183975,
-                            "percent_savings_text": "-25%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Facility - <span class=\"discount_original_price\">1,99€</span> 1,49€",
+                            "option_text": "Facility - 1,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 149
+                            "price_in_cents_with_discount": 199
                         }
                     ]
                 }
