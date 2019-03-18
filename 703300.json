@@ -27,11 +27,11 @@
             ],
             "price_overview": {
                 "currency": "EUR",
-                "initial": 1329,
-                "final": 1329,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "13,29€"
+                "initial": 159,
+                "final": 135,
+                "discount_percent": 15,
+                "initial_formatted": "1,59€",
+                "final_formatted": "1,35€"
             },
             "packages": [
                 202774
@@ -48,13 +48,13 @@
                     "subs": [
                         {
                             "packageid": 202774,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-15%",
                             "percent_savings": 0,
-                            "option_text": "NORMALIZATOR - 13,29€",
+                            "option_text": "NORMALIZATOR - <span class=\"discount_original_price\">1,59€</span> 1,35€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1329
+                            "price_in_cents_with_discount": 135
                         }
                     ]
                 }
