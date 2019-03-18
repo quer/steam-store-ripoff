@@ -29,10 +29,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 799,
-                "final": 799,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "7,99€"
+                "final": 119,
+                "discount_percent": 85,
+                "initial_formatted": "7,99€",
+                "final_formatted": "1,19€"
             },
             "packages": [
                 7523,
@@ -50,23 +50,23 @@
                     "subs": [
                         {
                             "packageid": 7523,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-85%",
                             "percent_savings": 0,
-                            "option_text": "Crazy Taxi - 7,99€",
+                            "option_text": "Crazy Taxi - <span class=\"discount_original_price\">7,99€</span> 1,19€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 799
+                            "price_in_cents_with_discount": 119
                         },
                         {
                             "packageid": 116763,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-85%",
                             "percent_savings": 0,
-                            "option_text": "Dreamcast Collection - 29,99€",
+                            "option_text": "Dreamcast Collection - <span class=\"discount_original_price\">29,99€</span> 4,49€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 2999
+                            "price_in_cents_with_discount": 449
                         }
                     ]
                 }
@@ -149,7 +149,7 @@
                 }
             ],
             "recommendations": {
-                "total": 684
+                "total": 709
             },
             "achievements": {
                 "total": 12,
