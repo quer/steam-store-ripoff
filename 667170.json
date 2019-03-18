@@ -15,13 +15,13 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/667170/header.jpg?t=1516467527",
             "website": null,
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP or later<br></li><li><strong>Processor:</strong> 2.0 GHz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> 256 MB<br></li><li><strong>Storage:</strong> 120 MB available space</li></ul>",
-                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP or later<br></li><li><strong>Processor:</strong> 2.9 GHz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> 512 MB<br></li><li><strong>Storage:</strong> 120 MB available space</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Betriebssystem:</strong> Windows XP or later<br></li><li><strong>Prozessor:</strong> 2.0 GHz<br></li><li><strong>Arbeitsspeicher:</strong> 2 GB RAM<br></li><li><strong>Grafik:</strong> 256 MB<br></li><li><strong>Speicherplatz:</strong> 120 MB verfügbarer Speicherplatz</li></ul>",
+                "recommended": "<strong>Empfohlen:</strong><br><ul class=\"bb_ul\"><li><strong>Betriebssystem:</strong> Windows XP or later<br></li><li><strong>Prozessor:</strong> 2.9 GHz<br></li><li><strong>Arbeitsspeicher:</strong> 2 GB RAM<br></li><li><strong>Grafik:</strong> 512 MB<br></li><li><strong>Speicherplatz:</strong> 120 MB verfügbarer Speicherplatz</li></ul>"
             },
             "mac_requirements": [],
             "linux_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Linux or SteamOS<br></li><li><strong>Processor:</strong> 2 GHz<br></li><li><strong>Graphics:</strong> 256 MB<br></li><li><strong>Storage:</strong> 120 MB available space</li></ul>",
-                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Linux or SteamOS<br></li><li><strong>Processor:</strong> 2.9 GHz<br></li><li><strong>Graphics:</strong> 512 MB<br></li><li><strong>Storage:</strong> 120 MB available space</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Betriebssystem:</strong> Linux or SteamOS<br></li><li><strong>Prozessor:</strong> 2 GHz<br></li><li><strong>Grafik:</strong> 256 MB<br></li><li><strong>Speicherplatz:</strong> 120 MB verfügbarer Speicherplatz</li></ul>",
+                "recommended": "<strong>Empfohlen:</strong><br><ul class=\"bb_ul\"><li><strong>Betriebssystem:</strong> Linux or SteamOS<br></li><li><strong>Prozessor:</strong> 2.9 GHz<br></li><li><strong>Grafik:</strong> 512 MB<br></li><li><strong>Speicherplatz:</strong> 120 MB verfügbarer Speicherplatz</li></ul>"
             },
             "developers": [
                 "Rootify"
@@ -32,10 +32,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 999,
-                "final": 99,
-                "discount_percent": 90,
-                "initial_formatted": "9,99€",
-                "final_formatted": "0,99€"
+                "final": 999,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "9,99€"
             },
             "packages": [
                 189629
@@ -52,13 +52,13 @@
                     "subs": [
                         {
                             "packageid": 189629,
-                            "percent_savings_text": "-90%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Undead Souls - <span class=\"discount_original_price\">9,99€</span> 0,99€",
+                            "option_text": "Undead Souls - 9,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 99
+                            "price_in_cents_with_discount": 999
                         }
                     ]
                 }
