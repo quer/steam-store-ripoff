@@ -12,7 +12,7 @@
             "about_the_game": "<strong>RetroWar</strong> is a collection of 8-bit <i>retro style</i> arcade games.  For the Early Access release we are focused on <strong>single-screen multiplayer games</strong> that you play with your friends <i>locally</i> (i.e. sitting on the couch together.)  <strong>There is no single player mode</strong> (yet).<br><br>Trailer music by <a href=\"https://twitter.com/novacubmusic\" target=\"_blank\" rel=\"noreferrer\"  >NOVACUB</a>.<h2 class=\"bb_tag\">Games</h2><br><ul class=\"bb_ul\"><li> <strong>Ships</strong> - battle in the tradition of SpaceWar / Asteroids / Thrust / Subspace<br></li><li> <strong>Droids</strong> - fast-paced twin stick shooter<br></li><li> <strong>Tanks</strong> - tactical sniping game <br></li><li> <strong>BombBots</strong> - drop bombs to blow up your opponents, but don't get caught in the blast<br></li><li> <strong>GhostJumpers</strong> - platform race to be first while jumping over spooky enemies</li></ul><br>Most of these games are made with our <strong>UniBlaster</strong> engine.  It's  designed with the specs of a 'fantasy' 1980s console, akin to an NES, but with modern standards for framerate, aspect ratio and controller input.  It's easily extensible, so you can mod games, mash up different games, or even create your own.<h2 class=\"bb_tag\">Features</h2><br><ul class=\"bb_ul\"><li>Old school low resolution gaming - no mixing of different sized pixels here.<br></li><li>Authentic sound track of soundtracker mods and  8-bit chiptunes.<br></li><li>Highly modable - change the music, graphics, rules, or write your own games.<br></li><li>Play with controller or mouse/keyboard<br></li><li>Designed for 4 players, but supports up to 16.</li></ul><h2 class=\"bb_tag\">Early Access plans</h2><br>We want feedback from you as to what you would like to play.  None of these features are guaranteed, but we plan to work on the features you support.<br><br><ul class=\"bb_ul\"><li>Workshop support - share games made by other people<br></li><li>Online multiplayer<br></li><li>Steam Input (Steam Controller) support<br></li><li>Linux and Mac support</li></ul><h2 class=\"bb_tag\">Known bugs</h2><br>If you plug in a new controller or change the screen mode you must quit the game and re-start it for the change to be recognised.  This is caused by a bug in a library we rely on, LibGDX.  We plan to replace LibGDX with Steam Input in the future.",
             "short_description": "8 bits 16 players friend battling couch shooting bomb blasting joystick waggling controller throwing pixel dreaming RetroWar. Kill your friends like it's 1984.",
             "supported_languages": "English",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/664240/header.jpg?t=1544422241",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/664240/header.jpg?t=1552536517",
             "website": "http://electronstudio.co.uk",
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Intel Core i5-4300U @ 1.90Ghz<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD 4400<br></li><li><strong>Storage:</strong> 400 MB available space<br></li><li><strong>Additional Notes:</strong> Will probably run even on much lower spec, but this is the minimum we test.</li></ul>"
@@ -70,28 +70,28 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/664240/ss_f422db3bc9c78818fd1ce6c1e01b25d39b6de958.600x338.jpg?t=1544422241",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/664240/ss_f422db3bc9c78818fd1ce6c1e01b25d39b6de958.1920x1080.jpg?t=1544422241"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/664240/ss_f422db3bc9c78818fd1ce6c1e01b25d39b6de958.600x338.jpg?t=1552536517",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/664240/ss_f422db3bc9c78818fd1ce6c1e01b25d39b6de958.1920x1080.jpg?t=1552536517"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/664240/ss_8ec94e144a974a2673a152db9895b44350b2c80d.600x338.jpg?t=1544422241",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/664240/ss_8ec94e144a974a2673a152db9895b44350b2c80d.1920x1080.jpg?t=1544422241"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/664240/ss_8ec94e144a974a2673a152db9895b44350b2c80d.600x338.jpg?t=1552536517",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/664240/ss_8ec94e144a974a2673a152db9895b44350b2c80d.1920x1080.jpg?t=1552536517"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/664240/ss_051f197e29b685a15b13c68fcc6d5d223c2b3a3b.600x338.jpg?t=1544422241",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/664240/ss_051f197e29b685a15b13c68fcc6d5d223c2b3a3b.1920x1080.jpg?t=1544422241"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/664240/ss_051f197e29b685a15b13c68fcc6d5d223c2b3a3b.600x338.jpg?t=1552536517",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/664240/ss_051f197e29b685a15b13c68fcc6d5d223c2b3a3b.1920x1080.jpg?t=1552536517"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/664240/ss_e66148eef0578467676d7063f95ee5d7a48bdc6c.600x338.jpg?t=1544422241",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/664240/ss_e66148eef0578467676d7063f95ee5d7a48bdc6c.1920x1080.jpg?t=1544422241"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/664240/ss_e66148eef0578467676d7063f95ee5d7a48bdc6c.600x338.jpg?t=1552536517",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/664240/ss_e66148eef0578467676d7063f95ee5d7a48bdc6c.1920x1080.jpg?t=1552536517"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/664240/ss_5e86eb9e97a64e27751f2856738d95a393d892c9.600x338.jpg?t=1544422241",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/664240/ss_5e86eb9e97a64e27751f2856738d95a393d892c9.1920x1080.jpg?t=1544422241"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/664240/ss_5e86eb9e97a64e27751f2856738d95a393d892c9.600x338.jpg?t=1552536517",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/664240/ss_5e86eb9e97a64e27751f2856738d95a393d892c9.1920x1080.jpg?t=1552536517"
                 }
             ],
             "movies": [
@@ -108,13 +108,13 @@
             ],
             "release_date": {
                 "coming_soon": true,
-                "date": "14 Dec, 2018"
+                "date": "8 Apr, 2019"
             },
             "support_info": {
                 "url": "",
                 "email": "support@electronstudio.co.uk"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/664240/page_bg_generated_v6b.jpg?t=1544422241",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/664240/page_bg_generated_v6b.jpg?t=1552536517",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
