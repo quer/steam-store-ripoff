@@ -18,8 +18,8 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/679260/header.jpg?t=1549387237",
             "website": "http://en.kishmish-games.com/bus-driver-simulator-2019",
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Microsoft® Windows® 7 or later 64-bit os required<br></li><li><strong>Processor:</strong> 1.9ghz Intel i5-equivalent processor or higher<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GeForce GTX 460 or similar AMD Radeon (no support for onboard cards)<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 4 GB available space<br></li><li><strong>Sound Card:</strong> DirectX® Compatible</li></ul>",
-                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Microsoft® Windows® 7 or later 64-bit os required<br></li><li><strong>Processor:</strong> Intel Core i5 3470 @ 3.2 GHz, AMD FX 8120 @ 3.9 GHz<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia Geforce GTX 780 or AMD Radeon RX 480<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 4 GB available space<br></li><li><strong>Sound Card:</strong> DirectX® Compatible</li></ul>"
+                "minimum": "<strong>Минимальные:</strong><br><ul class=\"bb_ul\"><li><strong>ОС:</strong> Microsoft® Windows® 7 or later 64-bit os required<br></li><li><strong>Процессор:</strong> 1.9ghz Intel i5-equivalent processor or higher<br></li><li><strong>Оперативная память:</strong> 4 GB ОЗУ<br></li><li><strong>Видеокарта:</strong> Nvidia GeForce GTX 460 or similar AMD Radeon (no support for onboard cards)<br></li><li><strong>DirectX:</strong> Версии 11<br></li><li><strong>Место на диске:</strong> 4 GB<br></li><li><strong>Звуковая карта:</strong> DirectX® Compatible</li></ul>",
+                "recommended": "<strong>Рекомендованные:</strong><br><ul class=\"bb_ul\"><li><strong>ОС:</strong> Microsoft® Windows® 7 or later 64-bit os required<br></li><li><strong>Процессор:</strong> Intel Core i5 3470 @ 3.2 GHz, AMD FX 8120 @ 3.9 GHz<br></li><li><strong>Оперативная память:</strong> 8 GB ОЗУ<br></li><li><strong>Видеокарта:</strong> Nvidia Geforce GTX 780 or AMD Radeon RX 480<br></li><li><strong>DirectX:</strong> Версии 11<br></li><li><strong>Место на диске:</strong> 4 GB<br></li><li><strong>Звуковая карта:</strong> DirectX® Compatible</li></ul>"
             },
             "mac_requirements": [],
             "linux_requirements": [],
@@ -32,10 +32,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 999,
-                "final": 999,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "9,99€"
+                "final": 649,
+                "discount_percent": 35,
+                "initial_formatted": "9,99€",
+                "final_formatted": "6,49€"
             },
             "packages": [
                 193889
@@ -52,13 +52,13 @@
                     "subs": [
                         {
                             "packageid": 193889,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-35%",
                             "percent_savings": 0,
-                            "option_text": "Bus Driver Simulator - 9,99€",
+                            "option_text": "Bus Driver Simulator - <span class=\"discount_original_price\">9,99€</span> 6,49€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 999
+                            "price_in_cents_with_discount": 649
                         }
                     ]
                 }
@@ -239,7 +239,7 @@
                 }
             ],
             "recommendations": {
-                "total": 494
+                "total": 517
             },
             "achievements": {
                 "total": 21,
