@@ -33,10 +33,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 899,
-                "final": 899,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "8,99€"
+                "final": 449,
+                "discount_percent": 50,
+                "initial_formatted": "8,99€",
+                "final_formatted": "4,49€"
             },
             "packages": [
                 12528,
@@ -54,13 +54,13 @@
                     "subs": [
                         {
                             "packageid": 12528,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-50%",
                             "percent_savings": 0,
-                            "option_text": "PRR GG1 Loco Add-On - 8,99€",
+                            "option_text": "PRR GG1 Loco Add-On - <span class=\"discount_original_price\">8,99€</span> 4,49€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 899
+                            "price_in_cents_with_discount": 449
                         },
                         {
                             "packageid": 40409,
