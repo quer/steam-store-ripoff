@@ -34,10 +34,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 199,
-                "final": 199,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "1,99€"
+                "final": 79,
+                "discount_percent": 60,
+                "initial_formatted": "1,99€",
+                "final_formatted": "0,79€"
             },
             "packages": [
                 196748
@@ -54,13 +54,13 @@
                     "subs": [
                         {
                             "packageid": 196748,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-60%",
                             "percent_savings": 0,
-                            "option_text": "Horror Costume - Ji-Min Yoo - 1,99€",
+                            "option_text": "Horror Costume - Ji-Min Yoo - <span class=\"discount_original_price\">1,99€</span> 0,79€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 199
+                            "price_in_cents_with_discount": 79
                         }
                     ]
                 }
