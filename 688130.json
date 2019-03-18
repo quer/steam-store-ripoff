@@ -8,15 +8,15 @@
             "required_age": 0,
             "is_free": false,
             "controller_support": "full",
-            "detailed_description": "Pogostuck: Rage With Your Friends is a short and sweet yet very challenging game about climbing a mountain on a pogo stick. Tilt the character, jump, use momentum and 360° powerboosts to reach unimaginable heights.<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/688130/extras/SPgifsRGB.gif?t=1550707768\" ><br><br>Jump along with friends and strangers from around the globe via automatic matchmaking for up to 16 players. Customize your character with unlockable gear and compete in leaderboards or live rankings - if you want to!<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/688130/extras/MPgifsRGB.gif?t=1550707768\" ><br><br>Inspired by Getting Over It with Bennett Foddy.",
-            "about_the_game": "Pogostuck: Rage With Your Friends is a short and sweet yet very challenging game about climbing a mountain on a pogo stick. Tilt the character, jump, use momentum and 360° powerboosts to reach unimaginable heights.<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/688130/extras/SPgifsRGB.gif?t=1550707768\" ><br><br>Jump along with friends and strangers from around the globe via automatic matchmaking for up to 16 players. Customize your character with unlockable gear and compete in leaderboards or live rankings - if you want to!<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/688130/extras/MPgifsRGB.gif?t=1550707768\" ><br><br>Inspired by Getting Over It with Bennett Foddy.",
+            "detailed_description": "Pogostuck: Rage With Your Friends is a short and sweet yet very challenging game about climbing a mountain on a pogo stick. Tilt the character, jump, use momentum and 360° powerboosts to reach unimaginable heights.<br><br><img src=\"https://media.st.dl.bscstorage.net/steam/apps/688130/extras/SPgifsRGB.gif?t=1551817398\" crossorigin=\"anonymous\"><br><br>Jump along with friends and strangers from around the globe via automatic matchmaking for up to 16 players. Customize your character with unlockable gear and compete in leaderboards or live rankings - if you want to!<br><br><img src=\"https://media.st.dl.bscstorage.net/steam/apps/688130/extras/MPgifsRGB.gif?t=1551817398\" crossorigin=\"anonymous\"><br><br>Inspired by Getting Over It with Bennett Foddy.",
+            "about_the_game": "Pogostuck: Rage With Your Friends is a short and sweet yet very challenging game about climbing a mountain on a pogo stick. Tilt the character, jump, use momentum and 360° powerboosts to reach unimaginable heights.<br><br><img src=\"https://media.st.dl.bscstorage.net/steam/apps/688130/extras/SPgifsRGB.gif?t=1551817398\" crossorigin=\"anonymous\"><br><br>Jump along with friends and strangers from around the globe via automatic matchmaking for up to 16 players. Customize your character with unlockable gear and compete in leaderboards or live rankings - if you want to!<br><br><img src=\"https://media.st.dl.bscstorage.net/steam/apps/688130/extras/MPgifsRGB.gif?t=1551817398\" crossorigin=\"anonymous\"><br><br>Inspired by Getting Over It with Bennett Foddy.",
             "short_description": "Climb a surreal mountain on a pogo stick and make friends along the way.",
             "supported_languages": "English, French, Italian, German, Spanish - Spain, Japanese, Korean, Polish, Portuguese - Brazil, Simplified Chinese, Russian",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/688130/header.jpg?t=1550707768",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/688130/header.jpg?t=1551817398",
             "website": null,
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> XP Service Pack 3 or newer<br></li><li><strong>Processor:</strong> Dual-Core 2.4GHz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Shader Model 3 support, 512MB VRAM<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 600 MB available space<br></li><li><strong>Additional Notes:</strong> Monitor resolution of at least 1024x720.</li></ul>",
-                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>Graphics:</strong> Dedicated graphics card.</li></ul>"
+                "minimum": "<strong>最低:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> XP Service Pack 3 or newer<br></li><li><strong>プロセッサー:</strong> Dual-Core 2.4GHz<br></li><li><strong>メモリー:</strong> 4 GB RAM<br></li><li><strong>グラフィック:</strong> Shader Model 3 support, 512MB VRAM<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>ストレージ:</strong> 600 MB 利用可能<br></li><li><strong>追記事項:</strong> Monitor resolution of at least 1024x720.</li></ul>",
+                "recommended": "<strong>推奨:</strong><br><ul class=\"bb_ul\"><li><strong>グラフィック:</strong> Dedicated graphics card.<br></li><li><strong>追記事項:</strong> Controller is recommended but not required.</li></ul>"
             },
             "mac_requirements": [],
             "linux_requirements": [],
@@ -26,7 +26,40 @@
             "publishers": [
                 "Hendrik Felix Pohl"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 699,
+                "final": 699,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "6,99€"
+            },
+            "packages": [
+                197113
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Pogostuck: Rage With Your Friends",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 197113,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Pogostuck: Rage With Your Friends - 6,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 699
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": false,
@@ -83,28 +116,28 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/688130/ss_7cb463bcf3335cf7f25a060d7ee17e823e0a9af2.600x338.jpg?t=1550707768",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/688130/ss_7cb463bcf3335cf7f25a060d7ee17e823e0a9af2.1920x1080.jpg?t=1550707768"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/688130/ss_7cb463bcf3335cf7f25a060d7ee17e823e0a9af2.600x338.jpg?t=1551817398",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/688130/ss_7cb463bcf3335cf7f25a060d7ee17e823e0a9af2.1920x1080.jpg?t=1551817398"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/688130/ss_2320fe8ea2862e9c022752a649a8fd2a7a4c830e.600x338.jpg?t=1550707768",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/688130/ss_2320fe8ea2862e9c022752a649a8fd2a7a4c830e.1920x1080.jpg?t=1550707768"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/688130/ss_2320fe8ea2862e9c022752a649a8fd2a7a4c830e.600x338.jpg?t=1551817398",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/688130/ss_2320fe8ea2862e9c022752a649a8fd2a7a4c830e.1920x1080.jpg?t=1551817398"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/688130/ss_3beef39904f6b549b06091a313cc1d8abbecb706.600x338.jpg?t=1550707768",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/688130/ss_3beef39904f6b549b06091a313cc1d8abbecb706.1920x1080.jpg?t=1550707768"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/688130/ss_3beef39904f6b549b06091a313cc1d8abbecb706.600x338.jpg?t=1551817398",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/688130/ss_3beef39904f6b549b06091a313cc1d8abbecb706.1920x1080.jpg?t=1551817398"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/688130/ss_fdaa2d4b91889ba7acab0d478ecfe0d237499d20.600x338.jpg?t=1550707768",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/688130/ss_fdaa2d4b91889ba7acab0d478ecfe0d237499d20.1920x1080.jpg?t=1550707768"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/688130/ss_fdaa2d4b91889ba7acab0d478ecfe0d237499d20.600x338.jpg?t=1551817398",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/688130/ss_fdaa2d4b91889ba7acab0d478ecfe0d237499d20.1920x1080.jpg?t=1551817398"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/688130/ss_3b021899b165caa98fe42081da4bb30fe874217c.600x338.jpg?t=1550707768",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/688130/ss_3b021899b165caa98fe42081da4bb30fe874217c.1920x1080.jpg?t=1550707768"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/688130/ss_3b021899b165caa98fe42081da4bb30fe874217c.600x338.jpg?t=1551817398",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/688130/ss_3b021899b165caa98fe42081da4bb30fe874217c.1920x1080.jpg?t=1551817398"
                 }
             ],
             "movies": [
@@ -119,15 +152,63 @@
                     "highlight": true
                 }
             ],
+            "recommendations": {
+                "total": 309
+            },
+            "achievements": {
+                "total": 16,
+                "highlighted": [
+                    {
+                        "name": "You're Winner!",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/688130/ccc2f32f51e51ddc27e7d7b3829490b8381d8145.jpg"
+                    },
+                    {
+                        "name": "You're 10 Winner!",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/688130/be2d3699163b841d846484f981020e2eba8ce2bc.jpg"
+                    },
+                    {
+                        "name": "Gold Medal",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/688130/18ad13fafef78dc42c7622c057b3ca288dcee40b.jpg"
+                    },
+                    {
+                        "name": "Silver Medal",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/688130/f3a7dd1bd08ce7962ed1961099539394dd0a669c.jpg"
+                    },
+                    {
+                        "name": "Bronze Medal",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/688130/2b94aa50a8f94bf9d01e1d80f1cb018690cf2bc6.jpg"
+                    },
+                    {
+                        "name": "Max Level",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/688130/8319161f8f508ad23b00477026aa6db74c10fb8d.jpg"
+                    },
+                    {
+                        "name": "Goal!!!",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/688130/f1a6e9b0b6f2219c1c770e54ba2de8ec6cb543b3.jpg"
+                    },
+                    {
+                        "name": "Goldfinger",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/688130/3e7cab5faf2ae5fe2aabe6e2aae3a18a4811e801.jpg"
+                    },
+                    {
+                        "name": "Super Jump",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/688130/c4b0e341d5528bd73c1789b67f61be791c1fb312.jpg"
+                    },
+                    {
+                        "name": "1080°",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/688130/e19dba01752b893c2bb27fb3c6bf762ce909c20f.jpg"
+                    }
+                ]
+            },
             "release_date": {
-                "coming_soon": true,
+                "coming_soon": false,
                 "date": "28 Feb, 2019"
             },
             "support_info": {
                 "url": "https://twitter.com/realSuperku",
                 "email": ""
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/688130/page_bg_generated_v6b.jpg?t=1550707768",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/688130/page_bg_generated_v6b.jpg?t=1551817398",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
