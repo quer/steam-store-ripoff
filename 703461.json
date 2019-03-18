@@ -37,10 +37,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 1199,
-                "final": 1199,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "11,99€"
+                "final": 839,
+                "discount_percent": 30,
+                "initial_formatted": "11,99€",
+                "final_formatted": "8,39€"
             },
             "packages": [
                 202841
@@ -57,13 +57,13 @@
                     "subs": [
                         {
                             "packageid": 202841,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-30%",
                             "percent_savings": 0,
-                            "option_text": "RPG Maker MV - Wonderland Music Pack - 11,99€",
+                            "option_text": "RPG Maker MV - Wonderland Music Pack - <span class=\"discount_original_price\">11,99€</span> 8,39€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1199
+                            "price_in_cents_with_discount": 839
                         }
                     ]
                 }
