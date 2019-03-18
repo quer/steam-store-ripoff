@@ -14,7 +14,7 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/712530/header.jpg?t=1549556308",
             "website": null,
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong> intel core i3-3220U 3.3 GHZ<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 100 MB available space<br></li><li><strong>Additional Notes:</strong> If graphical issues started</li></ul>"
+                "minimum": "<strong>Минимальные:</strong><br><ul class=\"bb_ul\"><li><strong>ОС:</strong> Windows 7<br></li><li><strong>Процессор:</strong> intel core i3-3220U 3.3 GHZ<br></li><li><strong>Оперативная память:</strong> 512 MB ОЗУ<br></li><li><strong>DirectX:</strong> Версии 9.0<br></li><li><strong>Место на диске:</strong> 100 MB<br></li><li><strong>Дополнительно:</strong> If graphical issues started</li></ul>"
             },
             "mac_requirements": [],
             "linux_requirements": [],
@@ -27,10 +27,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 299,
-                "final": 47,
-                "discount_percent": 84,
-                "initial_formatted": "2,99€",
-                "final_formatted": "0,47€"
+                "final": 299,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "2,99€"
             },
             "packages": [
                 206114
@@ -47,13 +47,13 @@
                     "subs": [
                         {
                             "packageid": 206114,
-                            "percent_savings_text": "-84%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Chamber of Darkness - <span class=\"discount_original_price\">2,99€</span> 0,47€",
+                            "option_text": "Chamber of Darkness - 2,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 47
+                            "price_in_cents_with_discount": 299
                         }
                     ]
                 }
