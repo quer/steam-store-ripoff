@@ -35,10 +35,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 599,
-                "final": 599,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "5,99€"
+                "final": 329,
+                "discount_percent": 45,
+                "initial_formatted": "5,99€",
+                "final_formatted": "3,29€"
             },
             "packages": [
                 193877
@@ -55,13 +55,13 @@
                     "subs": [
                         {
                             "packageid": 193877,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-45%",
                             "percent_savings": 0,
-                            "option_text": "HYPER DRIVE - The Insane Gravity Race - 5,99€",
+                            "option_text": "HYPER DRIVE - The Insane Gravity Race - <span class=\"discount_original_price\">5,99€</span> 3,29€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 599
+                            "price_in_cents_with_discount": 329
                         }
                     ]
                 }
