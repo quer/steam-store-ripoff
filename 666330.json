@@ -34,10 +34,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 79,
-                "final": 39,
-                "discount_percent": 51,
-                "initial_formatted": "0,79€",
-                "final_formatted": "0,39€"
+                "final": 79,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "0,79€"
             },
             "packages": [
                 189289
@@ -54,13 +54,13 @@
                     "subs": [
                         {
                             "packageid": 189289,
-                            "percent_savings_text": "-51%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Inertia - <span class=\"discount_original_price\">0,79€</span> 0,39€",
+                            "option_text": "Inertia - 0,79€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 39
+                            "price_in_cents_with_discount": 79
                         }
                     ]
                 }
@@ -163,7 +163,7 @@
                 }
             ],
             "recommendations": {
-                "total": 128
+                "total": 134
             },
             "achievements": {
                 "total": 24,
