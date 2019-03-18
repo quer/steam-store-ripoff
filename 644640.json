@@ -14,16 +14,16 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/644640/header.jpg?t=1535355841",
             "website": "http://bod.aldagames.com/",
             "pc_requirements": {
-                "minimum": "<strong>Minimale :</strong><br><ul class=\"bb_ul\"><li>Système d'exploitation et processeur 64 bits nécessaires<br></li><li><strong>Système d'exploitation :</strong> Windows 7 or higher<br></li><li><strong>Processeur :</strong> Recent Intel i3 or AMD alternative<br></li><li><strong>Mémoire vive :</strong> 4 GB de mémoire<br></li><li><strong>Graphiques :</strong> Nvidia 750Ti with 2GB or AMD alternative<br></li><li><strong>DirectX :</strong> Version 11<br></li><li><strong>Espace disque :</strong> 15 GB d'espace disque disponible<br></li><li><strong>Notes supplémentaires :</strong> requires online connection</li></ul>",
-                "recommended": "<strong>Recommandée :</strong><br><ul class=\"bb_ul\"><li>Système d'exploitation et processeur 64 bits nécessaires<br></li><li><strong>Système d'exploitation :</strong> Windows 7 or higher<br></li><li><strong>Processeur :</strong> Recent Intel i7 or AMD alternative<br></li><li><strong>Mémoire vive :</strong> 8 GB de mémoire<br></li><li><strong>Graphiques :</strong> Nvidia 1060 or AMD alternative<br></li><li><strong>DirectX :</strong> Version 11<br></li><li><strong>Espace disque :</strong> 15 GB d'espace disque disponible<br></li><li><strong>Notes supplémentaires :</strong> requires online connection</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 7 or higher<br></li><li><strong>Processor:</strong> Recent Intel i3 or AMD alternative<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia 750Ti with 2GB or AMD alternative<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 15 GB available space<br></li><li><strong>Additional Notes:</strong> requires online connection</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 7 or higher<br></li><li><strong>Processor:</strong> Recent Intel i7 or AMD alternative<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia 1060 or AMD alternative<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 15 GB available space<br></li><li><strong>Additional Notes:</strong> requires online connection</li></ul>"
             },
             "mac_requirements": {
-                "minimum": "<strong>Minimale :</strong><br><ul class=\"bb_ul\"><li>Système d'exploitation et processeur 64 bits nécessaires</li></ul>",
-                "recommended": "<strong>Recommandée :</strong><br><ul class=\"bb_ul\"><li>Système d'exploitation et processeur 64 bits nécessaires</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
             },
             "linux_requirements": {
-                "minimum": "<strong>Minimale :</strong><br><ul class=\"bb_ul\"><li>Système d'exploitation et processeur 64 bits nécessaires</li></ul>",
-                "recommended": "<strong>Recommandée :</strong><br><ul class=\"bb_ul\"><li>Système d'exploitation et processeur 64 bits nécessaires</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
             },
             "developers": [
                 "Alda Games"
@@ -34,10 +34,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 1159,
-                "final": 1159,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "11,59€"
+                "final": 695,
+                "discount_percent": 40,
+                "initial_formatted": "11,59€",
+                "final_formatted": "6,95€"
             },
             "packages": [
                 180897
@@ -54,13 +54,13 @@
                     "subs": [
                         {
                             "packageid": 180897,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-40%",
                             "percent_savings": 0,
-                            "option_text": "Band of Defenders - 11,59€",
+                            "option_text": "Band of Defenders - <span class=\"discount_original_price\">11,59€</span> 6,95€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1159
+                            "price_in_cents_with_discount": 695
                         }
                     ]
                 }
