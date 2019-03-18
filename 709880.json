@@ -27,10 +27,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 1299,
-                "final": 857,
-                "discount_percent": 34,
-                "initial_formatted": "12,99€",
-                "final_formatted": "8,57€"
+                "final": 1299,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "12,99€"
             },
             "packages": [
                 205210
@@ -47,13 +47,13 @@
                     "subs": [
                         {
                             "packageid": 205210,
-                            "percent_savings_text": "-34%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Panzer Doctrine - <span class=\"discount_original_price\">12,99€</span> 8,57€",
+                            "option_text": "Panzer Doctrine - 12,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 857
+                            "price_in_cents_with_discount": 1299
                         }
                     ]
                 }
