@@ -14,13 +14,13 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/648120/header.jpg?t=1529478933",
             "website": null,
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong> 1.2 GHz<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> 128 MB<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 100 MB available space</li></ul>",
-                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> 1.2 GHz<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> 128 MB<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 100 MB available space</li></ul>"
+                "minimum": "<strong>ขั้นต่ำ:</strong><br><ul class=\"bb_ul\"><li><strong>ระบบปฏิบัติการ:</strong> Windows 7<br></li><li><strong>หน่วยประมวลผล:</strong> 1.2 GHz<br></li><li><strong>หน่วยความจำ:</strong> แรม 512 MB<br></li><li><strong>กราฟิก:</strong> 128 MB<br></li><li><strong>DirectX:</strong> เวอร์ชัน 9.0c<br></li><li><strong>หน่วยบันทึกข้อมูล:</strong> พื้นที่ว่างที่พร้อมใช้งาน 100 MB</li></ul>",
+                "recommended": "<strong>แนะนำ:</strong><br><ul class=\"bb_ul\"><li><strong>ระบบปฏิบัติการ:</strong> Windows 10<br></li><li><strong>หน่วยประมวลผล:</strong> 1.2 GHz<br></li><li><strong>หน่วยความจำ:</strong> แรม 512 MB<br></li><li><strong>กราฟิก:</strong> 128 MB<br></li><li><strong>DirectX:</strong> เวอร์ชัน 9.0c<br></li><li><strong>หน่วยบันทึกข้อมูล:</strong> พื้นที่ว่างที่พร้อมใช้งาน 100 MB</li></ul>"
             },
             "mac_requirements": [],
             "linux_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Processor:</strong> 1.2 GHz</li></ul>",
-                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>Processor:</strong> 1.2 GHz</li></ul>"
+                "minimum": "<strong>ขั้นต่ำ:</strong><br><ul class=\"bb_ul\"><li><strong>หน่วยประมวลผล:</strong> 1.2 GHz</li></ul>",
+                "recommended": "<strong>แนะนำ:</strong><br><ul class=\"bb_ul\"><li><strong>หน่วยประมวลผล:</strong> 1.2 GHz</li></ul>"
             },
             "developers": [
                 "Dio Alias Games"
@@ -31,10 +31,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 99,
-                "final": 54,
-                "discount_percent": 45,
-                "initial_formatted": "0,99€",
-                "final_formatted": "0,54€"
+                "final": 99,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "0,99€"
             },
             "packages": [
                 182613,
@@ -52,13 +52,13 @@
                     "subs": [
                         {
                             "packageid": 182613,
-                            "percent_savings_text": "-45%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Battle of Painters - <span class=\"discount_original_price\">0,99€</span> 0,54€",
+                            "option_text": "Battle of Painters - 0,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 54
+                            "price_in_cents_with_discount": 99
                         },
                         {
                             "packageid": 305200,
@@ -138,7 +138,7 @@
                 }
             ],
             "recommendations": {
-                "total": 330
+                "total": 356
             },
             "achievements": {
                 "total": 0
