@@ -32,10 +32,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 1699,
-                "final": 1699,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "16,99€"
+                "final": 1019,
+                "discount_percent": 40,
+                "initial_formatted": "16,99€",
+                "final_formatted": "10,19€"
             },
             "packages": [
                 180276
@@ -52,13 +52,13 @@
                     "subs": [
                         {
                             "packageid": 180276,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-40%",
                             "percent_savings": 0,
-                            "option_text": "FSX Steam Edition: Cessna® C188 AgTruck Add-On - 16,99€",
+                            "option_text": "FSX Steam Edition: Cessna® C188 AgTruck Add-On - <span class=\"discount_original_price\">16,99€</span> 10,19€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1699
+                            "price_in_cents_with_discount": 1019
                         }
                     ]
                 }
