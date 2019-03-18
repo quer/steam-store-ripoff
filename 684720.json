@@ -30,10 +30,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 159,
-                "final": 159,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "1,59€"
+                "final": 104,
+                "discount_percent": 35,
+                "initial_formatted": "1,59€",
+                "final_formatted": "1,04€"
             },
             "packages": [
                 195839
@@ -50,13 +50,13 @@
                     "subs": [
                         {
                             "packageid": 195839,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-35%",
                             "percent_savings": 0,
-                            "option_text": "Battlegun - 1,59€",
+                            "option_text": "Battlegun - <span class=\"discount_original_price\">1,59€</span> 1,04€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 159
+                            "price_in_cents_with_discount": 104
                         }
                     ]
                 }
