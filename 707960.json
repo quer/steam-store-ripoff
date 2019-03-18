@@ -36,10 +36,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 329,
-                "final": 42,
-                "discount_percent": 87,
-                "initial_formatted": "3,29€",
-                "final_formatted": "0,42€"
+                "final": 329,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "3,29€"
             },
             "packages": [
                 204513
@@ -56,13 +56,13 @@
                     "subs": [
                         {
                             "packageid": 204513,
-                            "percent_savings_text": "-87%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "I was here - <span class=\"discount_original_price\">3,29€</span> 0,42€",
+                            "option_text": "I was here - 3,29€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 42
+                            "price_in_cents_with_discount": 329
                         }
                     ]
                 }
