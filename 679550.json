@@ -31,10 +31,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 6999,
-                "final": 6999,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "69,99€"
+                "final": 3849,
+                "discount_percent": 45,
+                "initial_formatted": "69,99€",
+                "final_formatted": "38,49€"
             },
             "packages": [
                 193985
@@ -51,13 +51,13 @@
                     "subs": [
                         {
                             "packageid": 193985,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-45%",
                             "percent_savings": 0,
-                            "option_text": "CyberLink PhotoDirector 9 Ultra - 69,99€",
+                            "option_text": "CyberLink PhotoDirector 9 Ultra - <span class=\"discount_original_price\">69,99€</span> 38,49€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 6999
+                            "price_in_cents_with_discount": 3849
                         }
                     ]
                 }
