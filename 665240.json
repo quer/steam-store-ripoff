@@ -27,10 +27,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 159,
-                "final": 124,
-                "discount_percent": 22,
-                "initial_formatted": "1,59€",
-                "final_formatted": "1,24€"
+                "final": 159,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "1,59€"
             },
             "packages": [
                 188917
@@ -47,13 +47,13 @@
                     "subs": [
                         {
                             "packageid": 188917,
-                            "percent_savings_text": "-22%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Fateholders of Tetsoidea - <span class=\"discount_original_price\">1,59€</span> 1,24€",
+                            "option_text": "Fateholders of Tetsoidea - 1,59€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 124
+                            "price_in_cents_with_discount": 159
                         }
                     ]
                 }
