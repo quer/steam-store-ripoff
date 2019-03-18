@@ -15,8 +15,8 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/682590/header.jpg?t=1507033234",
             "website": "http://www.retroarmy.com/",
             "pc_requirements": {
-                "minimum": "<strong>Минимальные:</strong><br><ul class=\"bb_ul\"><li><strong>ОС:</strong> Windows XP<br></li><li><strong>Процессор:</strong> 1.6GHZ<br></li><li><strong>Оперативная память:</strong> 1 GB ОЗУ<br></li><li><strong>Видеокарта:</strong> 64MB INTEGRATED<br></li><li><strong>DirectX:</strong> Версии 9.0c<br></li><li><strong>Место на диске:</strong> 82 MB<br></li><li><strong>Дополнительно:</strong> Old 4:3 resolutions are not supported</li></ul>",
-                "recommended": "<strong>Рекомендованные:</strong><br><ul class=\"bb_ul\"><li><strong>ОС:</strong> Windows Vista or later<br></li><li><strong>Процессор:</strong> 2.0GHZ<br></li><li><strong>Оперативная память:</strong> 1 GB ОЗУ<br></li><li><strong>Видеокарта:</strong> 64MB  INTEGRATED<br></li><li><strong>DirectX:</strong> Версии 9.0c<br></li><li><strong>Место на диске:</strong> 82 MB<br></li><li><strong>Дополнительно:</strong> Old 4:3 resolutions are not supported</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP<br></li><li><strong>Processor:</strong> 1.6GHZ<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> 64MB INTEGRATED<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 82 MB available space<br></li><li><strong>Additional Notes:</strong> Old 4:3 resolutions are not supported</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows Vista or later<br></li><li><strong>Processor:</strong> 2.0GHZ<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> 64MB  INTEGRATED<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 82 MB available space<br></li><li><strong>Additional Notes:</strong> Old 4:3 resolutions are not supported</li></ul>"
             },
             "mac_requirements": [],
             "linux_requirements": [],
@@ -30,10 +30,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 449,
-                "final": 449,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "4,49€"
+                "final": 76,
+                "discount_percent": 83,
+                "initial_formatted": "4,49€",
+                "final_formatted": "0,76€"
             },
             "packages": [
                 195012
@@ -50,13 +50,13 @@
                     "subs": [
                         {
                             "packageid": 195012,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-83%",
                             "percent_savings": 0,
-                            "option_text": "Dungeon Marathon - 4,49€",
+                            "option_text": "Dungeon Marathon - <span class=\"discount_original_price\">4,49€</span> 0,76€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 449
+                            "price_in_cents_with_discount": 76
                         }
                     ]
                 }
