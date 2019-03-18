@@ -18,8 +18,8 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/643910/header.jpg?t=1549636302",
             "website": "http://www.ashesofthesingularity.com/",
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 64-bit Windows 10 / 8.1 / 7<br></li><li><strong>Processor:</strong> Quad-core Intel / AMD Processor<br></li><li><strong>Memory:</strong> 6 GB RAM<br></li><li><strong>Graphics:</strong> 2 GB GDDR5 NVidia GeForce 660 / AMD R7 360 or better<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 27 GB available space<br></li><li><strong>Sound Card:</strong> DirectX Compatible Sound Card<br></li><li><strong>Additional Notes:</strong> 1920x1080 Display Resolution or Higher</li></ul>",
-                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 64-bit Windows 10<br></li><li><strong>Processor:</strong> Intel Core i5 or Equivalent<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> 4 GB GDDR5 NVidia GTX 970 / AMD R9 390 or better<br></li><li><strong>DirectX:</strong> Version 12<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 30 GB available space<br></li><li><strong>Sound Card:</strong> DirectX Compatible Sound Card<br></li><li><strong>Additional Notes:</strong> 1920x1080 Display Resolution or Higher</li></ul>"
+                "minimum": "<strong>最低:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 64-bit Windows 10 / 8.1 / 7<br></li><li><strong>プロセッサー:</strong> Quad-core Intel / AMD Processor<br></li><li><strong>メモリー:</strong> 6 GB RAM<br></li><li><strong>グラフィック:</strong> 2 GB GDDR5 NVidia GeForce 660 / AMD R7 360 or better<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>ネットワーク:</strong> ブロードバンドインターネット接続<br></li><li><strong>ストレージ:</strong> 27 GB 利用可能<br></li><li><strong>サウンドカード:</strong> DirectX Compatible Sound Card<br></li><li><strong>追記事項:</strong> 1920x1080 Display Resolution or Higher</li></ul>",
+                "recommended": "<strong>推奨:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 64-bit Windows 10<br></li><li><strong>プロセッサー:</strong> Intel Core i5 or Equivalent<br></li><li><strong>メモリー:</strong> 16 GB RAM<br></li><li><strong>グラフィック:</strong> 4 GB GDDR5 NVidia GTX 970 / AMD R9 390 or better<br></li><li><strong>DirectX:</strong> Version 12<br></li><li><strong>ネットワーク:</strong> ブロードバンドインターネット接続<br></li><li><strong>ストレージ:</strong> 30 GB 利用可能<br></li><li><strong>サウンドカード:</strong> DirectX Compatible Sound Card<br></li><li><strong>追記事項:</strong> 1920x1080 Display Resolution or Higher</li></ul>"
             },
             "mac_requirements": [],
             "linux_requirements": [],
@@ -31,32 +31,7 @@
             "publishers": [
                 "Stardock Entertainment"
             ],
-            "packages": [
-                311461
-            ],
-            "package_groups": [
-                {
-                    "name": "default",
-                    "title": "Buy Ashes of the Singularity: Escalation - Co-Op Map Pack",
-                    "description": "",
-                    "selection_text": "Select a purchase option",
-                    "save_text": "",
-                    "display_type": 0,
-                    "is_recurring_subscription": "false",
-                    "subs": [
-                        {
-                            "packageid": 311461,
-                            "percent_savings_text": "",
-                            "percent_savings": 0,
-                            "option_text": "Stardock Pack 2018 - 89,99€",
-                            "option_description": "",
-                            "can_get_free_license": "0",
-                            "is_free_license": false,
-                            "price_in_cents_with_discount": 8999
-                        }
-                    ]
-                }
-            ],
+            "package_groups": [],
             "platforms": {
                 "windows": true,
                 "mac": false,
