@@ -42,10 +42,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 3999,
-                "final": 3999,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "39,99€"
+                "final": 2399,
+                "discount_percent": 40,
+                "initial_formatted": "39,99€",
+                "final_formatted": "23,99€"
             },
             "packages": [
                 294274,
@@ -64,33 +64,33 @@
                     "subs": [
                         {
                             "packageid": 294274,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-40%",
                             "percent_savings": 0,
-                            "option_text": "BLAZBLUE CROSS TAG BATTLE Basic Edition - 39,99€",
+                            "option_text": "BLAZBLUE CROSS TAG BATTLE Basic Edition - <span class=\"discount_original_price\">39,99€</span> 23,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 3999
+                            "price_in_cents_with_discount": 2399
                         },
                         {
                             "packageid": 287480,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-40%",
                             "percent_savings": 0,
-                            "option_text": "BLAZBLUE CROSS TAG BATTLE Deluxe Edition - 54,99€",
+                            "option_text": "BLAZBLUE CROSS TAG BATTLE Deluxe Edition - <span class=\"discount_original_price\">54,99€</span> 32,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 5499
+                            "price_in_cents_with_discount": 3299
                         },
                         {
                             "packageid": 268402,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-17%",
                             "percent_savings": 0,
-                            "option_text": "BBTAG DLC Characters All-in-One Pack - 15,99€",
+                            "option_text": "BBTAG DLC Characters All-in-One Pack - <span class=\"discount_original_price\">15,99€</span> 13,27€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1599
+                            "price_in_cents_with_discount": 1327
                         }
                     ]
                 }
@@ -263,7 +263,7 @@
                 }
             ],
             "recommendations": {
-                "total": 1118
+                "total": 1129
             },
             "achievements": {
                 "total": 42,
