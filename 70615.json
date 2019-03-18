@@ -32,9 +32,9 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 1699,
-                "final": 1699,
-                "discount_percent": 0,
-                "initial_formatted": "",
+                "final": 424,
+                "discount_percent": 75,
+                "initial_formatted": "16,99€",
                 "final_formatted": "Free"
             },
             "packages": [
@@ -63,13 +63,13 @@
                         },
                         {
                             "packageid": 27831,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-75%",
                             "percent_savings": 0,
-                            "option_text": "Worms Ultimate Mayhem - Deluxe Edition - 16,99€",
+                            "option_text": "Worms Ultimate Mayhem - Deluxe Edition - <span class=\"discount_original_price\">16,99€</span> 4,24€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1699
+                            "price_in_cents_with_discount": 424
                         }
                     ]
                 }
