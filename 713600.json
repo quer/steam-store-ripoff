@@ -14,8 +14,8 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/713600/header.jpg?t=1506335500",
             "website": null,
             "pc_requirements": {
-                "minimum": "<strong>最低配置:</strong><br><ul class=\"bb_ul\"><li><strong>操作系统:</strong> Windows 7<br></li><li><strong>处理器:</strong> DualCore CPU<br></li><li><strong>内存:</strong> 2 GB RAM<br></li><li><strong>图形:</strong> GTS250/HD7770 or better<br></li><li><strong>存储空间:</strong> 需要 100 MB 可用空间</li></ul>",
-                "recommended": "<strong>推荐配置:</strong><br><ul class=\"bb_ul\"><li><strong>操作系统:</strong> Windows 10<br></li><li><strong>处理器:</strong> QuadCore CPU<br></li><li><strong>内存:</strong> 4 GB RAM<br></li><li><strong>图形:</strong> GTX 1080<br></li><li><strong>存储空间:</strong> 需要 200 MB 可用空间</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong> DualCore CPU<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> GTS250/HD7770 or better<br></li><li><strong>Storage:</strong> 100 MB available space</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> QuadCore CPU<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> GTX 1080<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>"
             },
             "mac_requirements": [],
             "linux_requirements": [],
@@ -27,11 +27,11 @@
             ],
             "price_overview": {
                 "currency": "EUR",
-                "initial": 99,
-                "final": 39,
-                "discount_percent": 61,
-                "initial_formatted": "0,99€",
-                "final_formatted": "0,39€"
+                "initial": 79,
+                "final": 79,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "0,79€"
             },
             "packages": [
                 206525
@@ -48,13 +48,13 @@
                     "subs": [
                         {
                             "packageid": 206525,
-                            "percent_savings_text": "-61%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Airstrike One - <span class=\"discount_original_price\">0,99€</span> 0,39€",
+                            "option_text": "Airstrike One - 0,79€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 39
+                            "price_in_cents_with_discount": 79
                         }
                     ]
                 }
