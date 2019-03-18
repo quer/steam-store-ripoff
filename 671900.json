@@ -14,8 +14,8 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/671900/header.jpg?t=1524581683",
             "website": "https://www.facebook.com/devoidofshadows/",
             "pc_requirements": {
-                "minimum": "<strong>Минимальные:</strong><br><ul class=\"bb_ul\"><li><strong>ОС:</strong> Windows XP SP3<br></li><li><strong>Процессор:</strong> Intel Core2 Duo 2,5 GHz or analogue<br></li><li><strong>Оперативная память:</strong> 4 GB ОЗУ<br></li><li><strong>Видеокарта:</strong> NVIDIA GeForce 9800 GT ATI or Radeon HD 3870<br></li><li><strong>DirectX:</strong> Версии 9.0c<br></li><li><strong>Место на диске:</strong> 8 GB</li></ul>",
-                "recommended": "<strong>Рекомендованные:</strong><br><ul class=\"bb_ul\"><li><strong>ОС:</strong> 64-bit Windows 7, 8 (8.1), 10<br></li><li><strong>Процессор:</strong> Intel Core i7 3,4 GHz or analogue<br></li><li><strong>Оперативная память:</strong> 8 GB ОЗУ<br></li><li><strong>Видеокарта:</strong> NVIDIA GeForce GTX 770 or ATI Radeon R9 290<br></li><li><strong>DirectX:</strong> Версии 11<br></li><li><strong>Место на диске:</strong> 8 GB</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP SP3<br></li><li><strong>Processor:</strong> Intel Core2 Duo 2,5 GHz or analogue<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce 9800 GT ATI or Radeon HD 3870<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 8 GB available space</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 64-bit Windows 7, 8 (8.1), 10<br></li><li><strong>Processor:</strong> Intel Core i7 3,4 GHz or analogue<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 770 or ATI Radeon R9 290<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 8 GB available space</li></ul>"
             },
             "mac_requirements": [],
             "linux_requirements": [],
@@ -29,10 +29,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 899,
-                "final": 224,
-                "discount_percent": 75,
-                "initial_formatted": "8,99€",
-                "final_formatted": "2,24€"
+                "final": 899,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "8,99€"
             },
             "packages": [
                 191216
@@ -49,13 +49,13 @@
                     "subs": [
                         {
                             "packageid": 191216,
-                            "percent_savings_text": "-75%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Devoid of Shadows - <span class=\"discount_original_price\">8,99€</span> 2,24€",
+                            "option_text": "Devoid of Shadows - 8,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 224
+                            "price_in_cents_with_discount": 899
                         }
                     ]
                 }
@@ -170,7 +170,7 @@
                 }
             ],
             "recommendations": {
-                "total": 101
+                "total": 104
             },
             "achievements": {
                 "total": 0
