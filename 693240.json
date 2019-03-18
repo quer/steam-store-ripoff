@@ -14,7 +14,7 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/693240/header.jpg?t=1542018263",
             "website": "http://www.boogygames.com",
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP, Vista, 7, 8, 10<br></li><li><strong>Processor:</strong> Pentium 4 or higher, 2GHz<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> 128MB or higher<br></li><li><strong>Storage:</strong> 110 MB available space</li></ul>"
+                "minimum": "<strong>Минимальные:</strong><br><ul class=\"bb_ul\"><li><strong>ОС:</strong> Windows XP, Vista, 7, 8, 10<br></li><li><strong>Процессор:</strong> Pentium 4 or higher, 2GHz<br></li><li><strong>Оперативная память:</strong> 1 GB ОЗУ<br></li><li><strong>Видеокарта:</strong> 128MB or higher<br></li><li><strong>Место на диске:</strong> 110 MB</li></ul>"
             },
             "mac_requirements": [],
             "linux_requirements": [],
@@ -27,10 +27,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 299,
-                "final": 89,
-                "discount_percent": 70,
-                "initial_formatted": "2,99€",
-                "final_formatted": "0,89€"
+                "final": 299,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "2,99€"
             },
             "packages": [
                 198780
@@ -47,13 +47,13 @@
                     "subs": [
                         {
                             "packageid": 198780,
-                            "percent_savings_text": "-70%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Mahjong Challenge - <span class=\"discount_original_price\">2,99€</span> 0,89€",
+                            "option_text": "Mahjong Challenge - 2,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 89
+                            "price_in_cents_with_discount": 299
                         }
                     ]
                 }
