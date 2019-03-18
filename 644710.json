@@ -32,10 +32,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 7399,
-                "final": 2219,
-                "discount_percent": 70,
-                "initial_formatted": "73,99€",
-                "final_formatted": "22,19€"
+                "final": 7399,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "73,99€"
             },
             "packages": [
                 180918
@@ -52,13 +52,13 @@
                     "subs": [
                         {
                             "packageid": 180918,
-                            "percent_savings_text": "-70%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Gary Grigsby's War in the West - <span class=\"discount_original_price\">73,99€</span> 22,19€",
+                            "option_text": "Gary Grigsby's War in the West - 73,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 2219
+                            "price_in_cents_with_discount": 7399
                         }
                     ]
                 }
