@@ -18,8 +18,8 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/659971/header.jpg?t=1530714586",
             "website": "http://www.sniperghostwarrior3.com",
             "pc_requirements": {
-                "minimum": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li><strong>SO:</strong> Windows 7/8.1/10 64-bit<br></li><li><strong>Procesador:</strong> i3 3240 3.4 GHz or AMD FX-6350 3.9 GHz<br></li><li><strong>Memoria:</strong> 8 GB de RAM<br></li><li><strong>Gráficos:</strong> NVIDIA GeForce GTX 660 2GB or AMD Radeon HD 7850 2GB<br></li><li><strong>DirectX:</strong> Versión 11<br></li><li><strong>Almacenamiento:</strong> 50 GB de espacio disponible<br></li><li><strong>Notas adicionales:</strong> Online Connection Requirements: 512 KBPS or faster Internet connection</li></ul>",
-                "recommended": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li><strong>SO:</strong> 64-bit Windows 10 or later<br></li><li><strong>Procesador:</strong> AMD FX 8350 Wraith or Intel Core i7 4790 or equivalent<br></li><li><strong>Memoria:</strong> 16 GB de RAM<br></li><li><strong>Gráficos:</strong> AMD Radeon™ RX 480 4GB or NVIDIA GeForce(R) GTX 1060 3GB<br></li><li><strong>DirectX:</strong> Versión 11<br></li><li><strong>Almacenamiento:</strong> 50 GB de espacio disponible<br></li><li><strong>Notas adicionales:</strong> Online Connection Requirements: 512 KBPS or faster Internet connection</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7/8.1/10 64-bit<br></li><li><strong>Processor:</strong> i3 3240 3.4 GHz or AMD FX-6350 3.9 GHz<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 660 2GB or AMD Radeon HD 7850 2GB<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 50 GB available space<br></li><li><strong>Additional Notes:</strong> Online Connection Requirements: 512 KBPS or faster Internet connection</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 64-bit Windows 10 or later<br></li><li><strong>Processor:</strong> AMD FX 8350 Wraith or Intel Core i7 4790 or equivalent<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> AMD Radeon™ RX 480 4GB or NVIDIA GeForce(R) GTX 1060 3GB<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 50 GB available space<br></li><li><strong>Additional Notes:</strong> Online Connection Requirements: 512 KBPS or faster Internet connection</li></ul>"
             },
             "mac_requirements": [],
             "linux_requirements": [],
@@ -33,10 +33,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 799,
-                "final": 799,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "7,99€"
+                "final": 239,
+                "discount_percent": 70,
+                "initial_formatted": "7,99€",
+                "final_formatted": "2,39€"
             },
             "packages": [
                 186831
@@ -53,13 +53,13 @@
                     "subs": [
                         {
                             "packageid": 186831,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-70%",
                             "percent_savings": 0,
-                            "option_text": "Sniper Ghost Warrior 3 - Instrumental Original Soundtrack - 7,99€",
+                            "option_text": "Sniper Ghost Warrior 3 - Instrumental Original Soundtrack - <span class=\"discount_original_price\">7,99€</span> 2,39€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 799
+                            "price_in_cents_with_discount": 239
                         }
                     ]
                 }
