@@ -27,11 +27,11 @@
             ],
             "price_overview": {
                 "currency": "EUR",
-                "initial": 99,
-                "final": 39,
-                "discount_percent": 61,
-                "initial_formatted": "0,99€",
-                "final_formatted": "0,39€"
+                "initial": 79,
+                "final": 79,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "0,79€"
             },
             "packages": [
                 188688
@@ -48,13 +48,13 @@
                     "subs": [
                         {
                             "packageid": 188688,
-                            "percent_savings_text": "-61%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Gelu - <span class=\"discount_original_price\">0,99€</span> 0,39€",
+                            "option_text": "Gelu - 0,79€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 39
+                            "price_in_cents_with_discount": 79
                         }
                     ]
                 }
