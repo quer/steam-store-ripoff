@@ -11,7 +11,7 @@
             "about_the_game": "As many of you are wondering how the game works, here's a brief explanation.<br />\r\n<br />\r\nYou have four views of the puzzle so that you can see the totality of available blocks to match. You can swap one block vertically or rotate an entire horizontal row of blocks so that you can make several matches at once if available.<br />\r\n<br />\r\nYou can also shuffle blocks which may result in several matches at once and help you to reach the goal faster.<br />\r\n<br />\r\nThe smallest number of blocks you can match is 3 which will give you 1 atom and for each additional matched block you get twice more atoms (e.g. 4 block matches gives you 2 atoms, 5 block matches gives you 4 atoms and so on).<br />\r\n<br />\r\nYou can see those atoms in the counter on your screen. You can match any number of blocks in any shape (with a minimum of 3 blocks, as stated previously).<br />\r\n<br />\r\nTo advance in the game you must reach the goal indicated on your screen. For example to make water (H₂O), you need either two 3 block matches or one 4 block match of H (hydrogen) to get 2 atoms of H (hydrogen) and also one 3 block match of O (oxygen) to get 1 atom of O (oxygen).<br />\r\n<br />\r\nOn the top of the screen you have total score, last match/combo score and the best match/combo score. It's more advantageous to make combos as the total score is the sum of all atoms multiplied by the match count. Let's say you've got 5 matches at once with the score of 1, 1, 2, 4, 4, then the total score would translate like this: (1 + 1 + 2 + 4 + 4) × 5 = 60.<br />\r\n<br />\r\nWhen the goal is achieved, a new goal will be set and the elements will be replaced accordingly. For example, all carbon blocks will be replaced with uranium, all sulfur blocks replaced with potassium and so on, so that you don't lose any previously available match/combo.",
             "short_description": "1 puzzle, 4 views. Grab your test tubes and enter the lab to solve a unique puzzle game based on chemical compounds. Match the chemical elements to get more than 900 different compounds and see how far you can go. Do you have what it takes?",
             "supported_languages": "English, French, Spanish - Spain, Portuguese, Russian, Ukrainian, German, Portuguese - Brazil, Korean, Polish, Czech, Arabic, Traditional Chinese, Simplified Chinese, Italian, Turkish, Thai, Japanese, Greek, Danish, Dutch, Romanian, Finnish, Swedish, Bulgarian, Hungarian, Norwegian",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/682780/header.jpg?t=1539539631",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/682780/header.jpg?t=1551914174",
             "website": null,
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows Vista SP1+<br></li><li><strong>Processor:</strong> SSE2 instruction set support<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> Graphics card with DX10 (shader model 4.0) capabilities<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
@@ -31,10 +31,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 329,
-                "final": 329,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "3,29€"
+                "final": 118,
+                "discount_percent": 64,
+                "initial_formatted": "3,29€",
+                "final_formatted": "1,18€"
             },
             "packages": [
                 195088,
@@ -52,13 +52,13 @@
                     "subs": [
                         {
                             "packageid": 195088,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-64%",
                             "percent_savings": 0,
-                            "option_text": "Breaking Good - 3,29€",
+                            "option_text": "Breaking Good - <span class=\"discount_original_price\">3,29€</span> 1,18€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 329
+                            "price_in_cents_with_discount": 118
                         },
                         {
                             "packageid": 332657,
@@ -109,33 +109,33 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/682780/ss_f91b7a23b8462392dbef1f089dba7113761e1c9d.600x338.jpg?t=1539539631",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/682780/ss_f91b7a23b8462392dbef1f089dba7113761e1c9d.1920x1080.jpg?t=1539539631"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/682780/ss_f91b7a23b8462392dbef1f089dba7113761e1c9d.600x338.jpg?t=1551914174",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/682780/ss_f91b7a23b8462392dbef1f089dba7113761e1c9d.1920x1080.jpg?t=1551914174"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/682780/ss_4a9698e06c819520b2ee243934d4d8cce9ed82a0.600x338.jpg?t=1539539631",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/682780/ss_4a9698e06c819520b2ee243934d4d8cce9ed82a0.1920x1080.jpg?t=1539539631"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/682780/ss_4a9698e06c819520b2ee243934d4d8cce9ed82a0.600x338.jpg?t=1551914174",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/682780/ss_4a9698e06c819520b2ee243934d4d8cce9ed82a0.1920x1080.jpg?t=1551914174"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/682780/ss_8fe15c9dd70197567049e42c938a16ccca81bfb8.600x338.jpg?t=1539539631",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/682780/ss_8fe15c9dd70197567049e42c938a16ccca81bfb8.1920x1080.jpg?t=1539539631"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/682780/ss_8fe15c9dd70197567049e42c938a16ccca81bfb8.600x338.jpg?t=1551914174",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/682780/ss_8fe15c9dd70197567049e42c938a16ccca81bfb8.1920x1080.jpg?t=1551914174"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/682780/ss_8ee11b6526c9851e8af000af7fd0947781747758.600x338.jpg?t=1539539631",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/682780/ss_8ee11b6526c9851e8af000af7fd0947781747758.1920x1080.jpg?t=1539539631"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/682780/ss_8ee11b6526c9851e8af000af7fd0947781747758.600x338.jpg?t=1551914174",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/682780/ss_8ee11b6526c9851e8af000af7fd0947781747758.1920x1080.jpg?t=1551914174"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/682780/ss_964861a0d1b95aed2b7c44d77e5c4d89a1087067.600x338.jpg?t=1539539631",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/682780/ss_964861a0d1b95aed2b7c44d77e5c4d89a1087067.1920x1080.jpg?t=1539539631"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/682780/ss_964861a0d1b95aed2b7c44d77e5c4d89a1087067.600x338.jpg?t=1551914174",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/682780/ss_964861a0d1b95aed2b7c44d77e5c4d89a1087067.1920x1080.jpg?t=1551914174"
                 },
                 {
                     "id": 5,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/682780/ss_adace24d4c0bae056f5ce825d4169a456fa92e69.600x338.jpg?t=1539539631",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/682780/ss_adace24d4c0bae056f5ce825d4169a456fa92e69.1920x1080.jpg?t=1539539631"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/682780/ss_adace24d4c0bae056f5ce825d4169a456fa92e69.600x338.jpg?t=1551914174",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/682780/ss_adace24d4c0bae056f5ce825d4169a456fa92e69.1920x1080.jpg?t=1551914174"
                 }
             ],
             "movies": [
@@ -203,7 +203,7 @@
                 "url": "",
                 "email": "necronomicron8@gmail.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/682780/page_bg_generated_v6b.jpg?t=1539539631",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/682780/page_bg_generated_v6b.jpg?t=1551914174",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
