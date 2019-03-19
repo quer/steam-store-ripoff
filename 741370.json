@@ -36,10 +36,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 2799,
-                "final": 2799,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "27,99€"
+                "final": 1819,
+                "discount_percent": 35,
+                "initial_formatted": "27,99€",
+                "final_formatted": "18,19€"
             },
             "packages": [
                 217162
@@ -56,13 +56,13 @@
                     "subs": [
                         {
                             "packageid": 217162,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-35%",
                             "percent_savings": 0,
-                            "option_text": "RPG Maker MV - FES resource pack - 27,99€",
+                            "option_text": "RPG Maker MV - FES resource pack - <span class=\"discount_original_price\">27,99€</span> 18,19€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 2799
+                            "price_in_cents_with_discount": 1819
                         }
                     ]
                 }
