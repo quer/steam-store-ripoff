@@ -35,10 +35,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 1799,
-                "final": 1799,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "17,99€"
+                "final": 899,
+                "discount_percent": 50,
+                "initial_formatted": "17,99€",
+                "final_formatted": "8,99€"
             },
             "packages": [
                 220086
@@ -55,13 +55,13 @@
                     "subs": [
                         {
                             "packageid": 220086,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-50%",
                             "percent_savings": 0,
-                            "option_text": "樱之杜†净梦者  Sakura no Mori † Dreamers - 17,99€",
+                            "option_text": "樱之杜†净梦者  Sakura no Mori † Dreamers - <span class=\"discount_original_price\">17,99€</span> 8,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1799
+                            "price_in_cents_with_discount": 899
                         }
                     ]
                 }
@@ -261,7 +261,7 @@
                 }
             ],
             "recommendations": {
-                "total": 188
+                "total": 202
             },
             "achievements": {
                 "total": 0
