@@ -35,10 +35,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 89,
-                "final": 57,
-                "discount_percent": 36,
-                "initial_formatted": "0,89€",
-                "final_formatted": "0,57€"
+                "final": 89,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "0,89€"
             },
             "packages": [
                 223006
@@ -55,13 +55,13 @@
                     "subs": [
                         {
                             "packageid": 223006,
-                            "percent_savings_text": "-36%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Snail Trek Chapter 2 - <span class=\"discount_original_price\">0,89€</span> 0,57€",
+                            "option_text": "Snail Trek Chapter 2 - 0,89€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 57
+                            "price_in_cents_with_discount": 89
                         }
                     ]
                 }
