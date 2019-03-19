@@ -32,11 +32,11 @@
             ],
             "price_overview": {
                 "currency": "EUR",
-                "initial": 199,
-                "final": 39,
-                "discount_percent": 80,
-                "initial_formatted": "1,99€",
-                "final_formatted": "0,39€"
+                "initial": 149,
+                "final": 149,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "1,49€"
             },
             "packages": [
                 220012
@@ -53,13 +53,13 @@
                     "subs": [
                         {
                             "packageid": 220012,
-                            "percent_savings_text": "-80%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Magic Siege - Defender - <span class=\"discount_original_price\">1,99€</span> 0,39€",
+                            "option_text": "Magic Siege - Defender - 1,49€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 39
+                            "price_in_cents_with_discount": 149
                         }
                     ]
                 }
