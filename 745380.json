@@ -28,10 +28,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 78,
-                "final": 78,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "0,78€"
+                "final": 39,
+                "discount_percent": 50,
+                "initial_formatted": "0,78€",
+                "final_formatted": "0,39€"
             },
             "packages": [
                 218695,
@@ -49,23 +49,23 @@
                     "subs": [
                         {
                             "packageid": 218695,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-50%",
                             "percent_savings": 0,
-                            "option_text": "Znkl - 177 - 0,78€",
+                            "option_text": "Znkl - 177 - <span class=\"discount_original_price\">0,78€</span> 0,39€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 78
+                            "price_in_cents_with_discount": 39
                         },
                         {
                             "packageid": 239949,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-50%",
                             "percent_savings": 0,
-                            "option_text": "Znkl - 177 - Commercial License - 0,78€",
+                            "option_text": "Znkl - 177 - Commercial License - <span class=\"discount_original_price\">0,78€</span> 0,39€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 78
+                            "price_in_cents_with_discount": 39
                         }
                     ]
                 }
