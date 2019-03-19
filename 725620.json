@@ -11,7 +11,7 @@
             "about_the_game": "Battlegrounds2D.IO is a battle royale game.<br />\r\n<br />\r\nThe goal of Battlegrounds2D.IO is to be the last man standing.<br />\r\n<br />\r\nYou start as a player with no gear!<br />\r\nYou have to find weapons, ammo, armor, medical and other items.<br />\r\nKill every other player, except of your teammates 😏.<br />\r\nBe careful of the danger zone! Do not move outside of the red circle.<br />\r\n<br />\r\nGear up, loot, kill and get the 🐔 dinner!<br />\r\n<br />\r\nThis version is the same as the browser version of Battlegrounds2D.IO but completely ad-free.<br />\r\n<br />\r\nHave fun",
             "short_description": "Battlegrounds2D.IO is the new battle royale 2D experience.",
             "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/725620/header.jpg?t=1549994640",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/725620/header.jpg?t=1550850670",
             "website": "https://battlegrounds2d.io",
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP<br></li><li><strong>Processor:</strong> 2 GHz Dual Core<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Integrated Graphics<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>",
@@ -28,7 +28,40 @@
             "publishers": [
                 "Karge Software"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 239,
+                "final": 239,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "2,39€"
+            },
+            "packages": [
+                211201
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Battlegrounds2D.IO",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 211201,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Battlegrounds2D.IO - 2,39€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 239
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": true,
@@ -57,28 +90,28 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/725620/ss_96850666d576c19e6116f5b4b371a1b9f694149d.600x338.jpg?t=1549994640",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/725620/ss_96850666d576c19e6116f5b4b371a1b9f694149d.1920x1080.jpg?t=1549994640"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/725620/ss_96850666d576c19e6116f5b4b371a1b9f694149d.600x338.jpg?t=1550850670",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/725620/ss_96850666d576c19e6116f5b4b371a1b9f694149d.1920x1080.jpg?t=1550850670"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/725620/ss_fd3322c6b14c002f04c229bd737452e0378b0214.600x338.jpg?t=1549994640",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/725620/ss_fd3322c6b14c002f04c229bd737452e0378b0214.1920x1080.jpg?t=1549994640"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/725620/ss_fd3322c6b14c002f04c229bd737452e0378b0214.600x338.jpg?t=1550850670",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/725620/ss_fd3322c6b14c002f04c229bd737452e0378b0214.1920x1080.jpg?t=1550850670"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/725620/ss_4e07973ca79882e449c9a12430065194d0e42a92.600x338.jpg?t=1549994640",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/725620/ss_4e07973ca79882e449c9a12430065194d0e42a92.1920x1080.jpg?t=1549994640"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/725620/ss_4e07973ca79882e449c9a12430065194d0e42a92.600x338.jpg?t=1550850670",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/725620/ss_4e07973ca79882e449c9a12430065194d0e42a92.1920x1080.jpg?t=1550850670"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/725620/ss_2e9279d7d1ffd0c555b428ecfaa61e40b067556c.600x338.jpg?t=1549994640",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/725620/ss_2e9279d7d1ffd0c555b428ecfaa61e40b067556c.1920x1080.jpg?t=1549994640"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/725620/ss_2e9279d7d1ffd0c555b428ecfaa61e40b067556c.600x338.jpg?t=1550850670",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/725620/ss_2e9279d7d1ffd0c555b428ecfaa61e40b067556c.1920x1080.jpg?t=1550850670"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/725620/ss_b60ac88ef2f312643f392dd7ae4bce9919cbb518.600x338.jpg?t=1549994640",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/725620/ss_b60ac88ef2f312643f392dd7ae4bce9919cbb518.1920x1080.jpg?t=1549994640"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/725620/ss_b60ac88ef2f312643f392dd7ae4bce9919cbb518.600x338.jpg?t=1550850670",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/725620/ss_b60ac88ef2f312643f392dd7ae4bce9919cbb518.1920x1080.jpg?t=1550850670"
                 }
             ],
             "movies": [
@@ -94,14 +127,14 @@
                 }
             ],
             "release_date": {
-                "coming_soon": true,
+                "coming_soon": false,
                 "date": "22 Feb, 2019"
             },
             "support_info": {
                 "url": "http://kargesoftware.com",
                 "email": "kargesoftware@gmail.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/725620/page_bg_generated_v6b.jpg?t=1549994640",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/725620/page_bg_generated_v6b.jpg?t=1550850670",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
