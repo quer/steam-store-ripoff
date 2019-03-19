@@ -28,10 +28,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 199,
-                "final": 199,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "1,99€"
+                "final": 119,
+                "discount_percent": 40,
+                "initial_formatted": "1,99€",
+                "final_formatted": "1,19€"
             },
             "packages": [
                 216297
@@ -48,13 +48,13 @@
                     "subs": [
                         {
                             "packageid": 216297,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-40%",
                             "percent_savings": 0,
-                            "option_text": "BattleRush - Medium Tanks DLC - 1,99€",
+                            "option_text": "BattleRush - Medium Tanks DLC - <span class=\"discount_original_price\">1,99€</span> 1,19€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 199
+                            "price_in_cents_with_discount": 119
                         }
                     ]
                 }
