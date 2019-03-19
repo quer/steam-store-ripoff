@@ -14,11 +14,17 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/746860/header.jpg?t=1516726830",
             "website": "http://www.rail-recon.com/",
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows™ 7 SP1 64Bit<br></li><li><strong>Processor:</strong> Intel™ Core™ i5-4460, AMD Phenom™ II X4 955, equivalent or better<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce™ GTX 460, equivalent or better<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Additional Notes:</strong> ~30 FPS</li></ul>",
-                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows™ 7 SP1 64Bit, Windows™ 8.1 64Bit or Windows™ 10 64Bit<br></li><li><strong>Processor:</strong> Intel™ Core™ i7-6700HQ, equivalent or better<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce™ GTX 960M, equivalent or better<br></li><li><strong>DirectX:</strong> Version 12<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Additional Notes:</strong> ~60 FPS+</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows™ 7 SP1 64Bit<br></li><li><strong>Processor:</strong> Intel™ Core™ i5-4460, AMD Phenom™ II X4 955, equivalent or better<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce™ GTX 460, equivalent or better<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Additional Notes:</strong> ~30 FPS</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows™ 7 SP1 64Bit, Windows™ 8.1 64Bit or Windows™ 10 64Bit<br></li><li><strong>Processor:</strong> Intel™ Core™ i7-6700HQ, equivalent or better<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce™ GTX 960M, equivalent or better<br></li><li><strong>DirectX:</strong> Version 12<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Additional Notes:</strong> ~60 FPS+</li></ul>"
             },
-            "mac_requirements": [],
-            "linux_requirements": [],
+            "mac_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+            },
+            "linux_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+            },
             "developers": [
                 "Triggered Studios"
             ],
