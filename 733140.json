@@ -35,10 +35,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 1099,
-                "final": 1099,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "10,99€"
+                "final": 549,
+                "discount_percent": 50,
+                "initial_formatted": "10,99€",
+                "final_formatted": "5,49€"
             },
             "packages": [
                 213959,
@@ -56,23 +56,23 @@
                     "subs": [
                         {
                             "packageid": 213959,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-50%",
                             "percent_savings": 0,
-                            "option_text": "Endless Space® 2 - Vaulters - 10,99€",
+                            "option_text": "Endless Space® 2 - Vaulters - <span class=\"discount_original_price\">10,99€</span> 5,49€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1099
+                            "price_in_cents_with_discount": 549
                         },
                         {
                             "packageid": 292317,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-65%",
                             "percent_savings": 0,
-                            "option_text": "Endless Universe Collection - 139,99€",
+                            "option_text": "Endless Universe Collection - <span class=\"discount_original_price\">139,99€</span> 48,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 13999
+                            "price_in_cents_with_discount": 4899
                         }
                     ]
                 }
@@ -197,7 +197,7 @@
                 }
             ],
             "recommendations": {
-                "total": 126
+                "total": 127
             },
             "achievements": {
                 "total": 0
