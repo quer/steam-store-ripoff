@@ -14,16 +14,16 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/740290/header.jpg?t=1538740174",
             "website": null,
             "pc_requirements": {
-                "minimum": "<strong>Минимальные:</strong><br><ul class=\"bb_ul\"><li>Требуются 64-разрядные процессор и операционная система<br></li><li><strong>ОС:</strong> 64bit Windows 7, Windows 8, Windows 10<br></li><li><strong>Процессор:</strong> Intel Core i3-4340 / AMD FX-6300<br></li><li><strong>Оперативная память:</strong> 6 GB ОЗУ<br></li><li><strong>Видеокарта:</strong> NVIDIA GeForce 470 GTX<br></li><li><strong>DirectX:</strong> Версии 11<br></li><li><strong>Место на диске:</strong> 3 GB<br></li><li><strong>Звуковая карта:</strong> Realtek High Definition Audio</li></ul>",
-                "recommended": "<strong>Рекомендованные:</strong><br><ul class=\"bb_ul\"><li>Требуются 64-разрядные процессор и операционная система</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> 64bit Windows 7, Windows 8, Windows 10<br></li><li><strong>Processor:</strong> Intel Core i3-4340 / AMD FX-6300<br></li><li><strong>Memory:</strong> 6 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce 470 GTX<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 3 GB available space<br></li><li><strong>Sound Card:</strong> Realtek High Definition Audio</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
             },
             "mac_requirements": {
-                "minimum": "<strong>Минимальные:</strong><br><ul class=\"bb_ul\"><li>Требуются 64-разрядные процессор и операционная система</li></ul>",
-                "recommended": "<strong>Рекомендованные:</strong><br><ul class=\"bb_ul\"><li>Требуются 64-разрядные процессор и операционная система</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
             },
             "linux_requirements": {
-                "minimum": "<strong>Минимальные:</strong><br><ul class=\"bb_ul\"><li>Требуются 64-разрядные процессор и операционная система</li></ul>",
-                "recommended": "<strong>Рекомендованные:</strong><br><ul class=\"bb_ul\"><li>Требуются 64-разрядные процессор и операционная система</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
             },
             "developers": [
                 "Steppe Hare Studio"
@@ -34,10 +34,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 99,
-                "final": 99,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "0,99€"
+                "final": 48,
+                "discount_percent": 52,
+                "initial_formatted": "0,99€",
+                "final_formatted": "0,48€"
             },
             "packages": [
                 216772
@@ -54,13 +54,13 @@
                     "subs": [
                         {
                             "packageid": 216772,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-52%",
                             "percent_savings": 0,
-                            "option_text": "Irony Of Nightmare - 0,99€",
+                            "option_text": "Irony Of Nightmare - <span class=\"discount_original_price\">0,99€</span> 0,48€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 99
+                            "price_in_cents_with_discount": 48
                         }
                     ]
                 }
@@ -140,7 +140,7 @@
                 }
             ],
             "recommendations": {
-                "total": 199
+                "total": 202
             },
             "achievements": {
                 "total": 7,
