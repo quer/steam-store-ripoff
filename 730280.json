@@ -27,11 +27,11 @@
             ],
             "price_overview": {
                 "currency": "EUR",
-                "initial": 99,
-                "final": 99,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "0,99€"
+                "initial": 79,
+                "final": 39,
+                "discount_percent": 51,
+                "initial_formatted": "0,79€",
+                "final_formatted": "0,39€"
             },
             "packages": [
                 212951
@@ -48,13 +48,13 @@
                     "subs": [
                         {
                             "packageid": 212951,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-51%",
                             "percent_savings": 0,
-                            "option_text": "Protect your planet - 0,99€",
+                            "option_text": "Protect your planet - <span class=\"discount_original_price\">0,79€</span> 0,39€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 99
+                            "price_in_cents_with_discount": 39
                         }
                     ]
                 }
