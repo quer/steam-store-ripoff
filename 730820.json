@@ -34,10 +34,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 569,
-                "final": 569,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "5,69€"
+                "final": 341,
+                "discount_percent": 40,
+                "initial_formatted": "5,69€",
+                "final_formatted": "3,41€"
             },
             "packages": [
                 213165
@@ -54,13 +54,13 @@
                     "subs": [
                         {
                             "packageid": 213165,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-40%",
                             "percent_savings": 0,
-                            "option_text": "The Curse of Monkey Island - 5,69€",
+                            "option_text": "The Curse of Monkey Island - <span class=\"discount_original_price\">5,69€</span> 3,41€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 569
+                            "price_in_cents_with_discount": 341
                         }
                     ]
                 }
@@ -165,7 +165,7 @@
                 }
             ],
             "recommendations": {
-                "total": 372
+                "total": 380
             },
             "achievements": {
                 "total": 0
