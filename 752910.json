@@ -14,10 +14,10 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/752910/header.jpg?t=1543278314",
             "website": null,
             "pc_requirements": {
-                "minimum": "<strong>Минимальные:</strong><br><ul class=\"bb_ul\"><li><strong>ОС:</strong> Windows XP<br></li><li><strong>Процессор:</strong> 1 GHz<br></li><li><strong>Оперативная память:</strong> 4 GB ОЗУ<br></li><li><strong>Видеокарта:</strong> GeForce 460/Radeon HD 5850/Intel HD 4600 with at least 1024 MB video RAM<br></li><li><strong>Сеть:</strong> Широкополосное подключение к интернету<br></li><li><strong>Место на диске:</strong> 500 MB</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP<br></li><li><strong>Processor:</strong> 1 GHz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> GeForce 460/Radeon HD 5850/Intel HD 4600 with at least 1024 MB video RAM<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>"
             },
             "mac_requirements": {
-                "minimum": "<strong>Минимальные:</strong><br><ul class=\"bb_ul\"><li><strong>ОС:</strong> OS X Lion 10.7<br></li><li><strong>Процессор:</strong> 1 GHz<br></li><li><strong>Оперативная память:</strong> 4 GB ОЗУ<br></li><li><strong>Видеокарта:</strong> GeForce 460/Radeon HD 5850/Intel HD 4600 with at least 1024 MB video RAM<br></li><li><strong>Сеть:</strong> Широкополосное подключение к интернету<br></li><li><strong>Место на диске:</strong> 500 MB</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OS X Lion 10.7<br></li><li><strong>Processor:</strong> 1 GHz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> GeForce 460/Radeon HD 5850/Intel HD 4600 with at least 1024 MB video RAM<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>"
             },
             "linux_requirements": [],
             "developers": [
@@ -30,10 +30,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 239,
-                "final": 78,
-                "discount_percent": 67,
-                "initial_formatted": "2,39€",
-                "final_formatted": "0,78€"
+                "final": 239,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "2,39€"
             },
             "packages": [
                 221321
@@ -50,13 +50,13 @@
                     "subs": [
                         {
                             "packageid": 221321,
-                            "percent_savings_text": "-67%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Cookies vs. Claus - <span class=\"discount_original_price\">2,39€</span> 0,78€",
+                            "option_text": "Cookies vs. Claus - 2,39€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 78
+                            "price_in_cents_with_discount": 239
                         }
                     ]
                 }
