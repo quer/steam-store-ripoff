@@ -28,14 +28,14 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 99,
-                "final": 99,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "0,99€"
+                "final": 48,
+                "discount_percent": 52,
+                "initial_formatted": "0,99€",
+                "final_formatted": "0,48€"
             },
             "packages": [
-                272736,
-                218803
+                218803,
+                272736
             ],
             "package_groups": [
                 {
@@ -48,6 +48,16 @@
                     "is_recurring_subscription": "false",
                     "subs": [
                         {
+                            "packageid": 218803,
+                            "percent_savings_text": "-52%",
+                            "percent_savings": 0,
+                            "option_text": "Just another puzzle game - <span class=\"discount_original_price\">0,99€</span> 0,48€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 48
+                        },
+                        {
                             "packageid": 272736,
                             "percent_savings_text": "",
                             "percent_savings": 0,
@@ -56,16 +66,6 @@
                             "can_get_free_license": "0",
                             "is_free_license": false,
                             "price_in_cents_with_discount": 79
-                        },
-                        {
-                            "packageid": 218803,
-                            "percent_savings_text": "",
-                            "percent_savings": 0,
-                            "option_text": "Just another puzzle game - 0,99€",
-                            "option_description": "",
-                            "can_get_free_license": "0",
-                            "is_free_license": false,
-                            "price_in_cents_with_discount": 99
                         }
                     ]
                 }
@@ -147,6 +147,9 @@
                     "highlight": true
                 }
             ],
+            "recommendations": {
+                "total": 105
+            },
             "achievements": {
                 "total": 1505,
                 "highlighted": [
