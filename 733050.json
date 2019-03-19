@@ -31,10 +31,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 99,
-                "final": 99,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "0,99€"
+                "final": 54,
+                "discount_percent": 45,
+                "initial_formatted": "0,99€",
+                "final_formatted": "0,54€"
             },
             "packages": [
                 213932
@@ -51,13 +51,13 @@
                     "subs": [
                         {
                             "packageid": 213932,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-45%",
                             "percent_savings": 0,
-                            "option_text": "Lines Infinite - 0,99€",
+                            "option_text": "Lines Infinite - <span class=\"discount_original_price\">0,99€</span> 0,54€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 99
+                            "price_in_cents_with_discount": 54
                         }
                     ]
                 }
@@ -135,7 +135,7 @@
                 }
             ],
             "recommendations": {
-                "total": 102
+                "total": 109
             },
             "achievements": {
                 "total": 100,
