@@ -16,8 +16,8 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/742120/header.jpg?t=1549382624",
             "website": "https://www.DQ11.com",
             "pc_requirements": {
-                "minimum": "<strong>Минимальные:</strong><br><ul class=\"bb_ul\"><li><strong>ОС:</strong> Windows 7 SP1/ Windows 8.1 / Windows 10 64-bit<br></li><li><strong>Процессор:</strong> Intel Core i3-2105 / AMD A10-5800K<br></li><li><strong>Оперативная память:</strong> 8 GB ОЗУ<br></li><li><strong>Видеокарта:</strong> NVIDIA GeForce GTX 750Ti / AMD Radeon RX 470<br></li><li><strong>DirectX:</strong> Версии 11<br></li><li><strong>Место на диске:</strong> 32 GB<br></li><li><strong>Дополнительно:</strong> 720p 30fps</li></ul>",
-                "recommended": "<strong>Рекомендованные:</strong><br><ul class=\"bb_ul\"><li><strong>ОС:</strong> Windows 7 SP1/ Windows 8.1 / Windows 10 64-bit<br></li><li><strong>Процессор:</strong> Intel Core i5-6600 / AMD Ryzen 7 1800X<br></li><li><strong>Оперативная память:</strong> 8 GB ОЗУ<br></li><li><strong>Видеокарта:</strong> NVIDIA GeForce GTX 1060 / AMD Radeon RX Vega 56<br></li><li><strong>DirectX:</strong> Версии 11<br></li><li><strong>Место на диске:</strong> 32 GB<br></li><li><strong>Дополнительно:</strong> 1080p 60fps</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 SP1/ Windows 8.1 / Windows 10 64-bit<br></li><li><strong>Processor:</strong> Intel Core i3-2105 / AMD A10-5800K<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 750Ti / AMD Radeon RX 470<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 32 GB available space<br></li><li><strong>Additional Notes:</strong> 720p 30fps</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 SP1/ Windows 8.1 / Windows 10 64-bit<br></li><li><strong>Processor:</strong> Intel Core i5-6600 / AMD Ryzen 7 1800X<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 1060 / AMD Radeon RX Vega 56<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 32 GB available space<br></li><li><strong>Additional Notes:</strong> 1080p 60fps</li></ul>"
             },
             "mac_requirements": [],
             "linux_requirements": [],
@@ -32,10 +32,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 5999,
-                "final": 2999,
-                "discount_percent": 50,
-                "initial_formatted": "59,99€",
-                "final_formatted": "29,99€"
+                "final": 5999,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "59,99€"
             },
             "packages": [
                 259768
@@ -52,13 +52,13 @@
                     "subs": [
                         {
                             "packageid": 259768,
-                            "percent_savings_text": "-50%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "DRAGON QUEST® XI: Echoes of an Elusive Age™ - Digital Edition of Light - <span class=\"discount_original_price\">59,99€</span> 29,99€",
+                            "option_text": "DRAGON QUEST® XI: Echoes of an Elusive Age™ - Digital Edition of Light - 59,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 2999
+                            "price_in_cents_with_discount": 5999
                         }
                     ]
                 }
@@ -316,7 +316,7 @@
                 }
             ],
             "recommendations": {
-                "total": 2254
+                "total": 2448
             },
             "achievements": {
                 "total": 58,
