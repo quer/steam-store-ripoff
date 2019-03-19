@@ -49,10 +49,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 1999,
-                "final": 1999,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "19,99€"
+                "final": 599,
+                "discount_percent": 70,
+                "initial_formatted": "19,99€",
+                "final_formatted": "5,99€"
             },
             "packages": [
                 7293,
@@ -71,33 +71,33 @@
                     "subs": [
                         {
                             "packageid": 7293,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-70%",
                             "percent_savings": 0,
-                            "option_text": "Two Worlds II - 19,99€",
+                            "option_text": "Two Worlds II - <span class=\"discount_original_price\">19,99€</span> 5,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1999
+                            "price_in_cents_with_discount": 599
                         },
                         {
                             "packageid": 13656,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-70%",
                             "percent_savings": 0,
-                            "option_text": "Two Worlds II: Velvet Edition - 22,99€",
+                            "option_text": "Two Worlds II: Velvet Edition - <span class=\"discount_original_price\">22,99€</span> 6,89€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 2299
+                            "price_in_cents_with_discount": 689
                         },
                         {
                             "packageid": 18163,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-75%",
                             "percent_savings": 0,
-                            "option_text": "Two Worlds Collection - 39,99€",
+                            "option_text": "Two Worlds Collection - <span class=\"discount_original_price\">39,99€</span> 9,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 3999
+                            "price_in_cents_with_discount": 999
                         }
                     ]
                 }
@@ -224,7 +224,7 @@
                 }
             ],
             "recommendations": {
-                "total": 2950
+                "total": 2955
             },
             "achievements": {
                 "total": 61,
