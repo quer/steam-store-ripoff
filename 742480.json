@@ -19,10 +19,10 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/742480/header.jpg?t=1547032349",
             "website": "http://catfishbox.com/thebigjourney.html",
             "pc_requirements": {
-                "minimum": "<strong>Минимальные:</strong><br><ul class=\"bb_ul\"><li><strong>ОС:</strong> Windows 7+</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7+</li></ul>"
             },
             "mac_requirements": {
-                "minimum": "<strong>Минимальные:</strong><br><ul class=\"bb_ul\"><li><strong>ОС:</strong> Mac OS X 10.9+</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OS X 10.9+</li></ul>"
             },
             "linux_requirements": [],
             "developers": [
@@ -34,10 +34,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 499,
-                "final": 499,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "4,99€"
+                "final": 124,
+                "discount_percent": 75,
+                "initial_formatted": "4,99€",
+                "final_formatted": "1,24€"
             },
             "packages": [
                 217538
@@ -54,13 +54,13 @@
                     "subs": [
                         {
                             "packageid": 217538,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-75%",
                             "percent_savings": 0,
-                            "option_text": "The Big Journey - 4,99€",
+                            "option_text": "The Big Journey - <span class=\"discount_original_price\">4,99€</span> 1,24€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 499
+                            "price_in_cents_with_discount": 124
                         }
                     ]
                 }
