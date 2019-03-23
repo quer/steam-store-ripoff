@@ -11,7 +11,7 @@
             "about_the_game": "Agartha is an puzzle platformer where you play various adventurers carving out their way through countless levels using very limited resources.<h2 class=\"bb_tag\">Synopsis</h2>Agartha is a paradise deep in the ground, for which countless adventurers seek. <br><br>The underground world is an aggregation of natural phenomena such as water streams, falling rocks, steam cooling into liquid, and water freezing solid... <br><br>Ground covered with plant life, caverns heated by magma, and burning oil. <br><br>Gunner, esper, wizard, ninja, or even a farmer. Play as all kinds of adventurers to defeat Mother Nature.",
             "short_description": "Agartha is an puzzle platformer where you play various adventurers carving out their way through countless levels using very limited resources.",
             "supported_languages": "English, Japanese",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1002420/header.jpg?t=1551869804",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1002420/header.jpg?t=1553090558",
             "website": "https://fruitbatfactory.com/agartha/",
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10/8/7/Vista<br></li><li><strong>Processor:</strong> Pentium 2117U 1.8GHz or higher<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> 1280x720 or higher resolution<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>"
@@ -24,7 +24,40 @@
             "publishers": [
                 "Fruitbat Factory"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 790,
+                "final": 711,
+                "discount_percent": 10,
+                "initial_formatted": "7,90€",
+                "final_formatted": "7,11€"
+            },
+            "packages": [
+                331306
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Agartha",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 331306,
+                            "percent_savings_text": "-10%",
+                            "percent_savings": 0,
+                            "option_text": "Agartha - <span class=\"discount_original_price\">7,90€</span> 7,11€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 711
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": false,
@@ -42,6 +75,10 @@
                 {
                     "id": 18,
                     "description": "Partial Controller Support"
+                },
+                {
+                    "id": 23,
+                    "description": "Steam Cloud"
                 }
             ],
             "genres": [
@@ -57,61 +94,106 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1002420/ss_346513631a7086ce39305fdeb5e9de6c361dbb9e.600x338.jpg?t=1551869804",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1002420/ss_346513631a7086ce39305fdeb5e9de6c361dbb9e.1920x1080.jpg?t=1551869804"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1002420/ss_346513631a7086ce39305fdeb5e9de6c361dbb9e.600x338.jpg?t=1553090558",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1002420/ss_346513631a7086ce39305fdeb5e9de6c361dbb9e.1920x1080.jpg?t=1553090558"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1002420/ss_bab952217cd99c27a06138a2116fb0ea6b02cff4.600x338.jpg?t=1551869804",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1002420/ss_bab952217cd99c27a06138a2116fb0ea6b02cff4.1920x1080.jpg?t=1551869804"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1002420/ss_bab952217cd99c27a06138a2116fb0ea6b02cff4.600x338.jpg?t=1553090558",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1002420/ss_bab952217cd99c27a06138a2116fb0ea6b02cff4.1920x1080.jpg?t=1553090558"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1002420/ss_663fec27ae2b727e30c73b4b93a2e8de0bc6b7d9.600x338.jpg?t=1551869804",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1002420/ss_663fec27ae2b727e30c73b4b93a2e8de0bc6b7d9.1920x1080.jpg?t=1551869804"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1002420/ss_663fec27ae2b727e30c73b4b93a2e8de0bc6b7d9.600x338.jpg?t=1553090558",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1002420/ss_663fec27ae2b727e30c73b4b93a2e8de0bc6b7d9.1920x1080.jpg?t=1553090558"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1002420/ss_efcc4b3c39bf15266715b8369e57dddfc99d1ee2.600x338.jpg?t=1551869804",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1002420/ss_efcc4b3c39bf15266715b8369e57dddfc99d1ee2.1920x1080.jpg?t=1551869804"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1002420/ss_efcc4b3c39bf15266715b8369e57dddfc99d1ee2.600x338.jpg?t=1553090558",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1002420/ss_efcc4b3c39bf15266715b8369e57dddfc99d1ee2.1920x1080.jpg?t=1553090558"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1002420/ss_03d83c6ed67ac007880751400d9209f99d9e4d8e.600x338.jpg?t=1551869804",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1002420/ss_03d83c6ed67ac007880751400d9209f99d9e4d8e.1920x1080.jpg?t=1551869804"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1002420/ss_03d83c6ed67ac007880751400d9209f99d9e4d8e.600x338.jpg?t=1553090558",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1002420/ss_03d83c6ed67ac007880751400d9209f99d9e4d8e.1920x1080.jpg?t=1553090558"
                 },
                 {
                     "id": 5,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1002420/ss_158a297e0aa6207e48aacd55d5ac84a4f5b976dd.600x338.jpg?t=1551869804",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1002420/ss_158a297e0aa6207e48aacd55d5ac84a4f5b976dd.1920x1080.jpg?t=1551869804"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1002420/ss_158a297e0aa6207e48aacd55d5ac84a4f5b976dd.600x338.jpg?t=1553090558",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1002420/ss_158a297e0aa6207e48aacd55d5ac84a4f5b976dd.1920x1080.jpg?t=1553090558"
                 },
                 {
                     "id": 6,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1002420/ss_ad4f39ed2eb97dbf869485b49e41ecc92d1c9a61.600x338.jpg?t=1551869804",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1002420/ss_ad4f39ed2eb97dbf869485b49e41ecc92d1c9a61.1920x1080.jpg?t=1551869804"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1002420/ss_ad4f39ed2eb97dbf869485b49e41ecc92d1c9a61.600x338.jpg?t=1553090558",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1002420/ss_ad4f39ed2eb97dbf869485b49e41ecc92d1c9a61.1920x1080.jpg?t=1553090558"
                 }
             ],
             "movies": [
                 {
                     "id": 256738494,
                     "name": "Official Trailer",
-                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256738494/movie.293x165.jpg?t=1551383888",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256738494/movie.293x165.jpg?t=1552910854",
                     "webm": {
-                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256738494/movie480.webm?t=1551383888",
-                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256738494/movie_max.webm?t=1551383888"
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256738494/movie480.webm?t=1552910854",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256738494/movie_max.webm?t=1552910854"
                     },
                     "highlight": true
                 }
             ],
+            "achievements": {
+                "total": 24,
+                "highlighted": [
+                    {
+                        "name": "Agartha",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1002420/7a845d04ffdbdb4eaa010aa26f4b2427b054a1cd.jpg"
+                    },
+                    {
+                        "name": "Explorer",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1002420/4b0ef3097af1d91a2cf37648af657687a00de040.jpg"
+                    },
+                    {
+                        "name": "Ultimate Explorer",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1002420/92a4473821a41112ac3053e1917d2c6bd758274a.jpg"
+                    },
+                    {
+                        "name": "Full Party",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1002420/0ce5e80dd832c7b2f7f4be72be35550592047170.jpg"
+                    },
+                    {
+                        "name": "Shiny",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1002420/6cd2590b8a548a22f02e3f2f9f7c4efd1a211719.jpg"
+                    },
+                    {
+                        "name": "Gem Collector",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1002420/8c1322bdb7aa7954126f9f08ad53b6820a6b41de.jpg"
+                    },
+                    {
+                        "name": "Gourmet",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1002420/712ee07daa173ee0ca7cfc43995dbe4d3a3c7e2a.jpg"
+                    },
+                    {
+                        "name": "Carnivore",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1002420/f477beecba108d861eff248147632885c9b2d248.jpg"
+                    },
+                    {
+                        "name": "Keen Eye",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1002420/8ecc0f7cd581be9db82e8546d4ef64f6f135817b.jpg"
+                    },
+                    {
+                        "name": "Jaws",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1002420/1d9b4df2a03b750ffef9aee8578eadb7bb7a2fa5.jpg"
+                    }
+                ]
+            },
             "release_date": {
-                "coming_soon": true,
+                "coming_soon": false,
                 "date": "20 Mar, 2019"
             },
             "support_info": {
                 "url": "http://fruitbatfactory.com",
                 "email": "support@fruitbatfactory.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1002420/page_bg_generated_v6b.jpg?t=1551869804",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1002420/page_bg_generated_v6b.jpg?t=1553090558",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
