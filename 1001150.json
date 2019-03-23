@@ -15,7 +15,7 @@
                 "name": "Battlestar Galactica Deadlock"
             },
             "supported_languages": "English<strong>*</strong>, French, German, Spanish - Spain, Russian<br><strong>*</strong>languages with full audio support",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1001150/header.jpg?t=1551343950",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1001150/header.jpg?t=1553015227",
             "website": null,
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Window 7, 8, 8.1 or 10<br></li><li><strong>Processor:</strong> 2.0GHz or higher<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> 1GB NVIDIA Geforce 460/ATI Radeon HD 5770 or better<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 4650 MB available space<br></li><li><strong>Sound Card:</strong> DirectX Compatible Sound Card<br></li><li><strong>Additional Notes:</strong> Broadband Internet connection for multiplayer required for Multiplayer</li></ul>",
@@ -30,7 +30,40 @@
             "publishers": [
                 "Slitherine Ltd."
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 1249,
+                "final": 1124,
+                "discount_percent": 10,
+                "initial_formatted": "12,49€",
+                "final_formatted": "11,24€"
+            },
+            "packages": [
+                330805
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Battlestar Galactica Deadlock: Sin and Sacrifice",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 330805,
+                            "percent_savings_text": "-10%",
+                            "percent_savings": 0,
+                            "option_text": "Battlestar Galactica Deadlock: Sin & Sacrifice - <span class=\"discount_original_price\">12,49€</span> 11,24€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 1124
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": false,
@@ -83,44 +116,59 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1001150/ss_c32722f4ed7d3826f312fc52e46d4ae89454cdf1.600x338.jpg?t=1551343950",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1001150/ss_c32722f4ed7d3826f312fc52e46d4ae89454cdf1.1920x1080.jpg?t=1551343950"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1001150/ss_c32722f4ed7d3826f312fc52e46d4ae89454cdf1.600x338.jpg?t=1553015227",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1001150/ss_c32722f4ed7d3826f312fc52e46d4ae89454cdf1.1920x1080.jpg?t=1553015227"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1001150/ss_ca0ecdcd170a2516ec7b44cbcef12197109767a1.600x338.jpg?t=1551343950",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1001150/ss_ca0ecdcd170a2516ec7b44cbcef12197109767a1.1920x1080.jpg?t=1551343950"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1001150/ss_ca0ecdcd170a2516ec7b44cbcef12197109767a1.600x338.jpg?t=1553015227",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1001150/ss_ca0ecdcd170a2516ec7b44cbcef12197109767a1.1920x1080.jpg?t=1553015227"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1001150/ss_168226efa30461a7fe66d5643d250f1b7adfed8f.600x338.jpg?t=1551343950",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1001150/ss_168226efa30461a7fe66d5643d250f1b7adfed8f.1920x1080.jpg?t=1551343950"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1001150/ss_168226efa30461a7fe66d5643d250f1b7adfed8f.600x338.jpg?t=1553015227",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1001150/ss_168226efa30461a7fe66d5643d250f1b7adfed8f.1920x1080.jpg?t=1553015227"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1001150/ss_edb3d6972331036637924f1dd5cad33c8272a1e8.600x338.jpg?t=1551343950",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1001150/ss_edb3d6972331036637924f1dd5cad33c8272a1e8.1920x1080.jpg?t=1551343950"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1001150/ss_edb3d6972331036637924f1dd5cad33c8272a1e8.600x338.jpg?t=1553015227",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1001150/ss_edb3d6972331036637924f1dd5cad33c8272a1e8.1920x1080.jpg?t=1553015227"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1001150/ss_fbfa65a6f51c987eeebcbc15ae1bbb2258122a1a.600x338.jpg?t=1551343950",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1001150/ss_fbfa65a6f51c987eeebcbc15ae1bbb2258122a1a.1920x1080.jpg?t=1551343950"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1001150/ss_fbfa65a6f51c987eeebcbc15ae1bbb2258122a1a.600x338.jpg?t=1553015227",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1001150/ss_fbfa65a6f51c987eeebcbc15ae1bbb2258122a1a.1920x1080.jpg?t=1553015227"
                 },
                 {
                     "id": 5,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1001150/ss_32d06d1e8b2d16ed4ba53f44c3150d9ab764a6ea.600x338.jpg?t=1551343950",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1001150/ss_32d06d1e8b2d16ed4ba53f44c3150d9ab764a6ea.1920x1080.jpg?t=1551343950"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1001150/ss_32d06d1e8b2d16ed4ba53f44c3150d9ab764a6ea.600x338.jpg?t=1553015227",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1001150/ss_32d06d1e8b2d16ed4ba53f44c3150d9ab764a6ea.1920x1080.jpg?t=1553015227"
                 }
             ],
+            "movies": [
+                {
+                    "id": 256745634,
+                    "name": "Sin and Sacrifice Release Trailer",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256745634/movie.293x165.jpg?t=1553014526",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256745634/movie480.webm?t=1553014526",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256745634/movie_max.webm?t=1553014526"
+                    },
+                    "highlight": true
+                }
+            ],
+            "achievements": {
+                "total": 0
+            },
             "release_date": {
-                "coming_soon": true,
+                "coming_soon": false,
                 "date": "19 Mar, 2019"
             },
             "support_info": {
                 "url": "www.slitherine.com",
                 "email": "support@slitherine.co.uk"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1001150/page_bg_generated_v6b.jpg?t=1551343950",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1001150/page_bg_generated_v6b.jpg?t=1553015227",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
