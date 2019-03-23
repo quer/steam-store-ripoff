@@ -7,12 +7,11 @@
             "steam_appid": 1003450,
             "required_age": 0,
             "is_free": false,
-            "controller_support": "full",
             "detailed_description": "Terrorarium is a game about wanton destruction and adorable gore in player-made murder gardens.<br />\r\n<br />\r\nIn Maker Mode, you can choose from over a hundred unique assets, including: vicious creatures, treacherous hazards, plant monsters, lovely foliage and destructible terrain. With these moveable, scalable, customizeable assets, you can create a beautiful garden, a deadly maze or a murderous gauntlet. In Quick Play Mode, play through the levels you have built as the Gardener, a feisty granny with a chip on her shoulder, and her army of adorable, expendable Moogu. The Moogu will die frequently, breed out of control, and are often as insufferable as they are useful. You can also share the levels you build with your friends and frenemies, so they too may see the horrors your have wrought.<br />\r\n<br />\r\nTerrorarium is in Early Access with new features and assets coming down the pipe!<br />\r\n<br />\r\nTerrorarium is made with the generous support of the Canada Media Fund, Ontario Creates and the Games Institute.",
             "about_the_game": "Terrorarium is a game about wanton destruction and adorable gore in player-made murder gardens.<br />\r\n<br />\r\nIn Maker Mode, you can choose from over a hundred unique assets, including: vicious creatures, treacherous hazards, plant monsters, lovely foliage and destructible terrain. With these moveable, scalable, customizeable assets, you can create a beautiful garden, a deadly maze or a murderous gauntlet. In Quick Play Mode, play through the levels you have built as the Gardener, a feisty granny with a chip on her shoulder, and her army of adorable, expendable Moogu. The Moogu will die frequently, breed out of control, and are often as insufferable as they are useful. You can also share the levels you build with your friends and frenemies, so they too may see the horrors your have wrought.<br />\r\n<br />\r\nTerrorarium is in Early Access with new features and assets coming down the pipe!<br />\r\n<br />\r\nTerrorarium is made with the generous support of the Canada Media Fund, Ontario Creates and the Games Institute.",
             "short_description": "Terrorarium is a game about wanton destruction and adorable gore in player-made murder gardens.",
             "supported_languages": "English<strong>*</strong>, French<strong>*</strong><br><strong>*</strong>languages with full audio support",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1003450/header.jpg?t=1552049144",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1003450/header.jpg?t=1553111884",
             "website": "https://terrorarium.games/",
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 SP1+, 8, 10, 64-bit versions only<br></li><li><strong>Processor:</strong> 2.0 Ghz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Graphics card with DX10 (shader model 4.0) capabilities.<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>"
@@ -27,7 +26,40 @@
             "publishers": [
                 "Stitch Media"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 819,
+                "final": 819,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "8,19€"
+            },
+            "packages": [
+                331688
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Terrorarium",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 331688,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Terrorarium - 8,19€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 819
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": true,
@@ -39,28 +71,16 @@
                     "description": "Single-player"
                 },
                 {
-                    "id": 22,
-                    "description": "Steam Achievements"
-                },
-                {
-                    "id": 28,
-                    "description": "Full controller support"
-                },
-                {
                     "id": 30,
                     "description": "Steam Workshop"
                 },
                 {
+                    "id": 18,
+                    "description": "Partial Controller Support"
+                },
+                {
                     "id": 23,
                     "description": "Steam Cloud"
-                },
-                {
-                    "id": 15,
-                    "description": "Stats"
-                },
-                {
-                    "id": 25,
-                    "description": "Steam Leaderboards"
                 },
                 {
                     "id": 17,
@@ -96,76 +116,94 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1003450/ss_06eb66667377246f0ecf59f50e32072df720ee8e.600x338.jpg?t=1552049144",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1003450/ss_06eb66667377246f0ecf59f50e32072df720ee8e.1920x1080.jpg?t=1552049144"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1003450/ss_013effc6d3609a81ca07cd48cb57c68e07c4540d.600x338.jpg?t=1553111884",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1003450/ss_013effc6d3609a81ca07cd48cb57c68e07c4540d.1920x1080.jpg?t=1553111884"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1003450/ss_835f74e1026a6f92a13eeffe90b392bb30482b58.600x338.jpg?t=1552049144",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1003450/ss_835f74e1026a6f92a13eeffe90b392bb30482b58.1920x1080.jpg?t=1552049144"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1003450/ss_7196c4d2eb0470eb780590b5b13648235736faae.600x338.jpg?t=1553111884",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1003450/ss_7196c4d2eb0470eb780590b5b13648235736faae.1920x1080.jpg?t=1553111884"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1003450/ss_6ccc20e8117a84d818d17f29b419ac0ca5a3d8af.600x338.jpg?t=1552049144",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1003450/ss_6ccc20e8117a84d818d17f29b419ac0ca5a3d8af.1920x1080.jpg?t=1552049144"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1003450/ss_b9c78d1d0237b93f2280765f8f43dfae6901be59.600x338.jpg?t=1553111884",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1003450/ss_b9c78d1d0237b93f2280765f8f43dfae6901be59.1920x1080.jpg?t=1553111884"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1003450/ss_fd2c6e59bc522a062e40f2d4420e0e1bab5e2a6b.600x338.jpg?t=1552049144",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1003450/ss_fd2c6e59bc522a062e40f2d4420e0e1bab5e2a6b.1920x1080.jpg?t=1552049144"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1003450/ss_677d5a122bb319880cbdd60ce1e81ac70f1e4ebd.600x338.jpg?t=1553111884",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1003450/ss_677d5a122bb319880cbdd60ce1e81ac70f1e4ebd.1920x1080.jpg?t=1553111884"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1003450/ss_8465e699b8fab84e9f44c167ba73763988e2ab1a.600x338.jpg?t=1552049144",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1003450/ss_8465e699b8fab84e9f44c167ba73763988e2ab1a.1920x1080.jpg?t=1552049144"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1003450/ss_649259b9f2b1a65ce2127e7243a3afe51fde3c2c.600x338.jpg?t=1553111884",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1003450/ss_649259b9f2b1a65ce2127e7243a3afe51fde3c2c.1920x1080.jpg?t=1553111884"
                 },
                 {
                     "id": 5,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1003450/ss_b9c78d1d0237b93f2280765f8f43dfae6901be59.600x338.jpg?t=1552049144",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1003450/ss_b9c78d1d0237b93f2280765f8f43dfae6901be59.1920x1080.jpg?t=1552049144"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1003450/ss_67be0a06facd5dc12ab730e1862bffc9d39b548a.600x338.jpg?t=1553111884",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1003450/ss_67be0a06facd5dc12ab730e1862bffc9d39b548a.1920x1080.jpg?t=1553111884"
                 },
                 {
                     "id": 6,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1003450/ss_677d5a122bb319880cbdd60ce1e81ac70f1e4ebd.600x338.jpg?t=1552049144",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1003450/ss_677d5a122bb319880cbdd60ce1e81ac70f1e4ebd.1920x1080.jpg?t=1552049144"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1003450/ss_128b6ab0a9ee0eaaa2152e2ce93c94a1daff5738.600x338.jpg?t=1553111884",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1003450/ss_128b6ab0a9ee0eaaa2152e2ce93c94a1daff5738.1920x1080.jpg?t=1553111884"
                 },
                 {
                     "id": 7,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1003450/ss_649259b9f2b1a65ce2127e7243a3afe51fde3c2c.600x338.jpg?t=1552049144",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1003450/ss_649259b9f2b1a65ce2127e7243a3afe51fde3c2c.1920x1080.jpg?t=1552049144"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1003450/ss_93366074d6510b699cb79fa69237e964c2ecbe5f.600x338.jpg?t=1553111884",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1003450/ss_93366074d6510b699cb79fa69237e964c2ecbe5f.1920x1080.jpg?t=1553111884"
                 },
                 {
                     "id": 8,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1003450/ss_67be0a06facd5dc12ab730e1862bffc9d39b548a.600x338.jpg?t=1552049144",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1003450/ss_67be0a06facd5dc12ab730e1862bffc9d39b548a.1920x1080.jpg?t=1552049144"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1003450/ss_0abedf985db07196586745facfef3c48447474ed.600x338.jpg?t=1553111884",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1003450/ss_0abedf985db07196586745facfef3c48447474ed.1920x1080.jpg?t=1553111884"
                 },
                 {
                     "id": 9,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1003450/ss_27a41afdac6cbd5d873c2025837a3127a2fc63f0.600x338.jpg?t=1552049144",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1003450/ss_27a41afdac6cbd5d873c2025837a3127a2fc63f0.1920x1080.jpg?t=1552049144"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1003450/ss_e7b5a4f81d5792a7de17b7be7f5cd624cb5b981a.600x338.jpg?t=1553111884",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1003450/ss_e7b5a4f81d5792a7de17b7be7f5cd624cb5b981a.1920x1080.jpg?t=1553111884"
+                },
+                {
+                    "id": 10,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1003450/ss_3d061d1aedf407f7b788d690b61c2906a495addd.600x338.jpg?t=1553111884",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1003450/ss_3d061d1aedf407f7b788d690b61c2906a495addd.1920x1080.jpg?t=1553111884"
                 }
             ],
             "movies": [
                 {
-                    "id": 256741923,
-                    "name": "Terrorarium Teaser",
-                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256741923/movie.293x165.jpg?t=1549062947",
+                    "id": 256745673,
+                    "name": "Early Access Trailer",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256745673/movie.293x165.jpg?t=1553111872",
                     "webm": {
-                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256741923/movie480.webm?t=1549062947",
-                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256741923/movie_max.webm?t=1549062947"
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256745673/movie480.webm?t=1553111872",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256745673/movie_max.webm?t=1553111872"
                     },
                     "highlight": true
+                },
+                {
+                    "id": 256741923,
+                    "name": "Terrorarium Teaser",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256741923/movie.293x165.jpg?t=1553111880",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256741923/movie480.webm?t=1553111880",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256741923/movie_max.webm?t=1553111880"
+                    },
+                    "highlight": false
                 }
             ],
+            "achievements": {
+                "total": 0
+            },
             "release_date": {
-                "coming_soon": true,
-                "date": "Mar 2019"
+                "coming_soon": false,
+                "date": "20 Mar, 2019"
             },
             "support_info": {
                 "url": "https://terrorarium.games/",
                 "email": "natalie@terrorarium.games"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1003450/page_bg_generated_v6b.jpg?t=1552049144",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1003450/page_bg_generated_v6b.jpg?t=1553111884",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
