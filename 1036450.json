@@ -15,7 +15,7 @@
                 "name": "RagTag"
             },
             "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1036450/header.jpg?t=1552479804",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1036450/header.jpg?t=1552489488",
             "website": "http://windybeard.com",
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Sound Card:</strong> Something that plays music</li></ul>"
@@ -28,7 +28,40 @@
             "publishers": [
                 "Windybeard"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 329,
+                "final": 329,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "3,29€"
+            },
+            "packages": [
+                345046
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy RagTag Soundtrack",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 345046,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "RagTag Soundtrack - 3,29€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 329
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": false,
@@ -69,19 +102,19 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1036450/ss_44377cd3960bc1034f910fa99d446589348aaac9.600x338.jpg?t=1552479804",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1036450/ss_44377cd3960bc1034f910fa99d446589348aaac9.1920x1080.jpg?t=1552479804"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1036450/ss_44377cd3960bc1034f910fa99d446589348aaac9.600x338.jpg?t=1552489488",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1036450/ss_44377cd3960bc1034f910fa99d446589348aaac9.1920x1080.jpg?t=1552489488"
                 }
             ],
             "release_date": {
-                "coming_soon": true,
-                "date": "Coming Soon"
+                "coming_soon": false,
+                "date": "13 Mar, 2019"
             },
             "support_info": {
                 "url": "http://windybeard.com",
                 "email": "windybeardgames@gmail.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1036450/page_bg_generated_v6b.jpg?t=1552479804",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1036450/page_bg_generated_v6b.jpg?t=1552489488",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
