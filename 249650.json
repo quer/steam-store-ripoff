@@ -50,9 +50,9 @@
             "packages": [
                 30251,
                 232457,
+                76471,
                 33661,
-                44166,
-                76471
+                44166
             ],
             "package_groups": [
                 {
@@ -85,6 +85,16 @@
                             "price_in_cents_with_discount": 999
                         },
                         {
+                            "packageid": 76471,
+                            "percent_savings_text": "-90%",
+                            "percent_savings": 0,
+                            "option_text": "Daedalic - Gigantic Bundle - <span class=\"discount_original_price\">120,99€</span> 12,09€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 1209
+                        },
+                        {
                             "packageid": 33661,
                             "percent_savings_text": "",
                             "percent_savings": 0,
@@ -103,16 +113,6 @@
                             "can_get_free_license": "0",
                             "is_free_license": false,
                             "price_in_cents_with_discount": 3199
-                        },
-                        {
-                            "packageid": 76471,
-                            "percent_savings_text": "",
-                            "percent_savings": 0,
-                            "option_text": "Daedalic - Gigantic Bundle - 120,99€",
-                            "option_description": "",
-                            "can_get_free_license": "0",
-                            "is_free_license": false,
-                            "price_in_cents_with_discount": 12099
                         }
                     ]
                 }
@@ -298,7 +298,7 @@
                 }
             ],
             "recommendations": {
-                "total": 2002
+                "total": 2006
             },
             "achievements": {
                 "total": 45,
