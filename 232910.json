@@ -34,10 +34,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 999,
-                "final": 999,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "9,99€"
+                "final": 499,
+                "discount_percent": 50,
+                "initial_formatted": "9,99€",
+                "final_formatted": "4,99€"
             },
             "packages": [
                 25914,
@@ -56,33 +56,33 @@
                     "subs": [
                         {
                             "packageid": 25914,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-50%",
                             "percent_savings": 0,
-                            "option_text": "TrackMania² Stadium - 9,99€",
+                            "option_text": "TrackMania² Stadium - <span class=\"discount_original_price\">9,99€</span> 4,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 999
+                            "price_in_cents_with_discount": 499
                         },
                         {
                             "packageid": 34409,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-50%",
                             "percent_savings": 0,
-                            "option_text": "Celebrat10n TrackMania2 Pack - 39,99€",
+                            "option_text": "Celebrat10n TrackMania2 Pack - <span class=\"discount_original_price\">39,99€</span> 19,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 3999
+                            "price_in_cents_with_discount": 1999
                         },
                         {
                             "packageid": 34410,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-50%",
                             "percent_savings": 0,
-                            "option_text": "Celebrat10n TrackMania Complete Pack - 59,99€",
+                            "option_text": "Celebrat10n TrackMania Complete Pack - <span class=\"discount_original_price\">59,99€</span> 29,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 5999
+                            "price_in_cents_with_discount": 2999
                         }
                     ]
                 }
@@ -192,7 +192,7 @@
                 }
             ],
             "recommendations": {
-                "total": 2794
+                "total": 2801
             },
             "achievements": {
                 "total": 0

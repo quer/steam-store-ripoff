@@ -37,11 +37,11 @@
             ],
             "price_overview": {
                 "currency": "EUR",
-                "initial": 2999,
-                "final": 2999,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "29,99€"
+                "initial": 5499,
+                "final": 1099,
+                "discount_percent": 80,
+                "initial_formatted": "54,99€",
+                "final_formatted": "10,99€"
             },
             "packages": [
                 50936,
@@ -80,13 +80,13 @@
                         },
                         {
                             "packageid": 81764,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-80%",
                             "percent_savings": 0,
-                            "option_text": "Stronghold Crusader 2 Ultimate Edition - 54,99€",
+                            "option_text": "Stronghold Crusader 2 Ultimate Edition - <span class=\"discount_original_price\">54,99€</span> 10,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 5499
+                            "price_in_cents_with_discount": 1099
                         }
                     ]
                 }
@@ -239,7 +239,7 @@
                 }
             ],
             "recommendations": {
-                "total": 4133
+                "total": 4155
             },
             "achievements": {
                 "total": 81,
