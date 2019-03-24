@@ -11,7 +11,7 @@
             "about_the_game": "Brave knight goes on the hunt!<br />\r\nYou are completely alone among the hordes of enemies. Run through dangerous levels, throw axes at enemies and leave obstacles behind you.<br />\r\n<br />\r\nYou have few lives - do not blunder!<br />\r\n<br />\r\n Use your skills and reactions to keep your enemies off guard. Use the environment to save your life and try to escape from the clutches of death over and over again, but remember that no one is perfect and death is inevitable!",
             "short_description": "Brave knight goes on the hunt! You are completely alone among the hordes of enemies. Run through dangerous levels, throw axes at enemies and leave obstacles behind you. You have only one life - do not blunder! Use your skills and reactions to keep your enemies off guard.",
             "supported_languages": "English",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1037540/header.jpg?t=1552073306",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1037540/header.jpg?t=1552826578",
             "website": null,
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 or higher<br></li><li><strong>Processor:</strong> 1Ghz or faster<br></li><li><strong>Memory:</strong> 100 MB RAM<br></li><li><strong>Graphics:</strong> Any<br></li><li><strong>Storage:</strong> 100 MB available space<br></li><li><strong>Sound Card:</strong> Any</li></ul>",
@@ -25,7 +25,40 @@
             "publishers": [
                 " Zotdinex"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 79,
+                "final": 71,
+                "discount_percent": 10,
+                "initial_formatted": "0,79€",
+                "final_formatted": "0,71€"
+            },
+            "packages": [
+                345516
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Brave knight runner",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 345516,
+                            "percent_savings_text": "-10%",
+                            "percent_savings": 0,
+                            "option_text": "Brave knight runner - <span class=\"discount_original_price\">0,79€</span> 0,71€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 71
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": false,
@@ -54,28 +87,28 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1037540/ss_b12a73f0088a177c66d517763a3d49d92eaadc25.600x338.jpg?t=1552073306",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1037540/ss_b12a73f0088a177c66d517763a3d49d92eaadc25.1920x1080.jpg?t=1552073306"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1037540/ss_b12a73f0088a177c66d517763a3d49d92eaadc25.600x338.jpg?t=1552826578",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1037540/ss_b12a73f0088a177c66d517763a3d49d92eaadc25.1920x1080.jpg?t=1552826578"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1037540/ss_ffe8231e2cbf6202a428683084616b251dc4029d.600x338.jpg?t=1552073306",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1037540/ss_ffe8231e2cbf6202a428683084616b251dc4029d.1920x1080.jpg?t=1552073306"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1037540/ss_ffe8231e2cbf6202a428683084616b251dc4029d.600x338.jpg?t=1552826578",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1037540/ss_ffe8231e2cbf6202a428683084616b251dc4029d.1920x1080.jpg?t=1552826578"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1037540/ss_69ff909cc1d6f2b93903d6bc3911861da25f8f9e.600x338.jpg?t=1552073306",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1037540/ss_69ff909cc1d6f2b93903d6bc3911861da25f8f9e.1920x1080.jpg?t=1552073306"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1037540/ss_69ff909cc1d6f2b93903d6bc3911861da25f8f9e.600x338.jpg?t=1552826578",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1037540/ss_69ff909cc1d6f2b93903d6bc3911861da25f8f9e.1920x1080.jpg?t=1552826578"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1037540/ss_219c62a2a9b5064c13c45795888f3454359b11b5.600x338.jpg?t=1552073306",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1037540/ss_219c62a2a9b5064c13c45795888f3454359b11b5.1920x1080.jpg?t=1552073306"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1037540/ss_219c62a2a9b5064c13c45795888f3454359b11b5.600x338.jpg?t=1552826578",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1037540/ss_219c62a2a9b5064c13c45795888f3454359b11b5.1920x1080.jpg?t=1552826578"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1037540/ss_ad88e72bca87c15957b881bdcc1db8cb6167a868.600x338.jpg?t=1552073306",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1037540/ss_ad88e72bca87c15957b881bdcc1db8cb6167a868.1920x1080.jpg?t=1552073306"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1037540/ss_ad88e72bca87c15957b881bdcc1db8cb6167a868.600x338.jpg?t=1552826578",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1037540/ss_ad88e72bca87c15957b881bdcc1db8cb6167a868.1920x1080.jpg?t=1552826578"
                 }
             ],
             "movies": [
@@ -91,14 +124,14 @@
                 }
             ],
             "release_date": {
-                "coming_soon": true,
-                "date": "11 Mar, 2019"
+                "coming_soon": false,
+                "date": "17 Mar, 2019"
             },
             "support_info": {
                 "url": "",
                 "email": "andvassil@gmail.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1037540/page_bg_generated_v6b.jpg?t=1552073306",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1037540/page_bg_generated_v6b.jpg?t=1552826578",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
