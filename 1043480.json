@@ -11,7 +11,7 @@
             "about_the_game": "Destruction is a top-down shooting game, and you must use three modes and skills to destroy your enemies.<br />\r\n<br />\r\nEach stage, if a certain number of enemies are destroyed, it moves on to the next stage.<br />\r\n<br />\r\nStrong opponents(Boss) on a certain stage is waiting.<br />\r\n<br />\r\nIf you destroy a certain number of enemies, your T skills will change.<br />\r\n<br />\r\nUse three modes to exterminate your enemies and stay alive!<br />\r\n<br />\r\nThree modes<br />\r\n1.Explosive  mode<br />\r\n2.Power mode<br />\r\n3.Tracking mode<br />\r\n<br />\r\nFour skill<br />\r\nT -  Explosion &amp; Blow &amp; Fire blindly<br />\r\nY -  Gravity magnetite<br />\r\nG - Magnetic field<br />\r\nShift - Overload<br />\r\n<br />\r\nI hope you succed in destruction!",
             "short_description": "Destruction is a game that destroys enemies up to 25 stages. A variety of powerful enemies will attack you. Don't let your guard down and use three modes and a variety of skills to destroy your enemies.",
             "supported_languages": "English",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1043480/header.jpg?t=1552147568",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1043480/header.jpg?t=1553006460",
             "website": null,
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong> Intel compatible Dual Core CPU<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> DX11 compliant graphics card<br></li><li><strong>Storage:</strong> 143 MB available space<br></li><li><strong>Sound Card:</strong> DirectX-compatible sound card</li></ul>"
@@ -24,7 +24,40 @@
             "publishers": [
                 "raccoon"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 117,
+                "final": 99,
+                "discount_percent": 15,
+                "initial_formatted": "1,17€",
+                "final_formatted": "0,99€"
+            },
+            "packages": [
+                347674
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Destruction",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 347674,
+                            "percent_savings_text": "-15%",
+                            "percent_savings": 0,
+                            "option_text": "Destruction - <span class=\"discount_original_price\">1,17€</span> 0,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 99
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": false,
@@ -53,43 +86,43 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1043480/ss_6d84d50a17a9fc2046851a123b65346d9ee695e8.600x338.jpg?t=1552147568",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1043480/ss_6d84d50a17a9fc2046851a123b65346d9ee695e8.1920x1080.jpg?t=1552147568"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1043480/ss_6d84d50a17a9fc2046851a123b65346d9ee695e8.600x338.jpg?t=1553006460",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1043480/ss_6d84d50a17a9fc2046851a123b65346d9ee695e8.1920x1080.jpg?t=1553006460"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1043480/ss_b562a2f2142f9d5417b44d2b2a788ad6f2d0a63d.600x338.jpg?t=1552147568",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1043480/ss_b562a2f2142f9d5417b44d2b2a788ad6f2d0a63d.1920x1080.jpg?t=1552147568"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1043480/ss_b562a2f2142f9d5417b44d2b2a788ad6f2d0a63d.600x338.jpg?t=1553006460",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1043480/ss_b562a2f2142f9d5417b44d2b2a788ad6f2d0a63d.1920x1080.jpg?t=1553006460"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1043480/ss_dc1cc471916b41c16eab46f9b086d019afc62f30.600x338.jpg?t=1552147568",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1043480/ss_dc1cc471916b41c16eab46f9b086d019afc62f30.1920x1080.jpg?t=1552147568"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1043480/ss_dc1cc471916b41c16eab46f9b086d019afc62f30.600x338.jpg?t=1553006460",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1043480/ss_dc1cc471916b41c16eab46f9b086d019afc62f30.1920x1080.jpg?t=1553006460"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1043480/ss_67a11a3673e7721282c6724a25f8f8647af2c64e.600x338.jpg?t=1552147568",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1043480/ss_67a11a3673e7721282c6724a25f8f8647af2c64e.1920x1080.jpg?t=1552147568"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1043480/ss_67a11a3673e7721282c6724a25f8f8647af2c64e.600x338.jpg?t=1553006460",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1043480/ss_67a11a3673e7721282c6724a25f8f8647af2c64e.1920x1080.jpg?t=1553006460"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1043480/ss_819da81f91db46b9dbcc516fed14d7014a3d4326.600x338.jpg?t=1552147568",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1043480/ss_819da81f91db46b9dbcc516fed14d7014a3d4326.1920x1080.jpg?t=1552147568"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1043480/ss_819da81f91db46b9dbcc516fed14d7014a3d4326.600x338.jpg?t=1553006460",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1043480/ss_819da81f91db46b9dbcc516fed14d7014a3d4326.1920x1080.jpg?t=1553006460"
                 },
                 {
                     "id": 5,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1043480/ss_d597360d88c8bab9afacfefb71582e7fe6b0d577.600x338.jpg?t=1552147568",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1043480/ss_d597360d88c8bab9afacfefb71582e7fe6b0d577.1920x1080.jpg?t=1552147568"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1043480/ss_d597360d88c8bab9afacfefb71582e7fe6b0d577.600x338.jpg?t=1553006460",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1043480/ss_d597360d88c8bab9afacfefb71582e7fe6b0d577.1920x1080.jpg?t=1553006460"
                 },
                 {
                     "id": 6,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1043480/ss_a99c4a8f8f4c113cb018852a6468cdd3145fda13.600x338.jpg?t=1552147568",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1043480/ss_a99c4a8f8f4c113cb018852a6468cdd3145fda13.1920x1080.jpg?t=1552147568"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1043480/ss_a99c4a8f8f4c113cb018852a6468cdd3145fda13.600x338.jpg?t=1553006460",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1043480/ss_a99c4a8f8f4c113cb018852a6468cdd3145fda13.1920x1080.jpg?t=1553006460"
                 },
                 {
                     "id": 7,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1043480/ss_fef425509679dc1bb5117a3b7b80186a2f3104dd.600x338.jpg?t=1552147568",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1043480/ss_fef425509679dc1bb5117a3b7b80186a2f3104dd.1920x1080.jpg?t=1552147568"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1043480/ss_fef425509679dc1bb5117a3b7b80186a2f3104dd.600x338.jpg?t=1553006460",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1043480/ss_fef425509679dc1bb5117a3b7b80186a2f3104dd.1920x1080.jpg?t=1553006460"
                 }
             ],
             "movies": [
@@ -104,15 +137,56 @@
                     "highlight": true
                 }
             ],
+            "achievements": {
+                "total": 9,
+                "highlighted": [
+                    {
+                        "name": "Destruction : Lancelot",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1043480/bb417fc4150164945e59ea702b8c8517fdc04c93.jpg"
+                    },
+                    {
+                        "name": "Destruction : Jormungand",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1043480/3a813aa5cee1a34f2506690dddc51b8f84b9c569.jpg"
+                    },
+                    {
+                        "name": "Destruction : Turret K7",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1043480/a901c014497f47fced901ef97d20d4501dd52ad5.jpg"
+                    },
+                    {
+                        "name": "Destruction : Gninnips",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1043480/851b9ad683ce4a920c026e36f58e287c3d3912dc.jpg"
+                    },
+                    {
+                        "name": "Destruction : Drake",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1043480/3c4fa2e9af5db8c7ec92b874ba7b0e4d8bbfe83e.jpg"
+                    },
+                    {
+                        "name": "Destruction succed",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1043480/5d06a23d9152341d6b254df48e963b603d2f9927.jpg"
+                    },
+                    {
+                        "name": "EASYYYYYYYYYYYYYYYYYY",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1043480/e56774cc07e3961e9ca517ff5bcca3072458f74f.jpg"
+                    },
+                    {
+                        "name": "NORMAL VICTORY",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1043480/fa3cf042b590f98a26ab9226f83a55a731c1f806.jpg"
+                    },
+                    {
+                        "name": "PERFECT VICTORY",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1043480/9624c2c0a19953001925aa04ac9637a107ae55bb.jpg"
+                    }
+                ]
+            },
             "release_date": {
-                "coming_soon": true,
+                "coming_soon": false,
                 "date": "19 Mar, 2019"
             },
             "support_info": {
                 "url": "",
                 "email": "zkxhr04@naver.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1043480/page_bg_generated_v6b.jpg?t=1552147568",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1043480/page_bg_generated_v6b.jpg?t=1553006460",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
