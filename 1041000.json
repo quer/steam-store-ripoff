@@ -15,7 +15,7 @@
                 "name": "Hypnospace Outlaw"
             },
             "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1041000/header.jpg?t=1551690307",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1041000/header.jpg?t=1552404439",
             "website": "http://www.hypnospace.net/",
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP, Vista, 7, 8, 10<br></li><li><strong>Processor:</strong> 1.4GHz processor or faster<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Integrated graphics should be fine<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>",
@@ -37,7 +37,40 @@
             "publishers": [
                 "No More Robots"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 819,
+                "final": 819,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "8,19€"
+            },
+            "packages": [
+                346727
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Hypnospace Outlaw (Original Soundtrack)",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 346727,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Hypnospace Outlaw (Original Soundtrack) - 8,19€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 819
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": true,
@@ -66,24 +99,27 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1041000/ss_2d7ee2037d411d84a9f70f9ea5226c7ca01b4b2b.600x338.jpg?t=1551690307",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1041000/ss_2d7ee2037d411d84a9f70f9ea5226c7ca01b4b2b.1920x1080.jpg?t=1551690307"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1041000/ss_2d7ee2037d411d84a9f70f9ea5226c7ca01b4b2b.600x338.jpg?t=1552404439",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1041000/ss_2d7ee2037d411d84a9f70f9ea5226c7ca01b4b2b.1920x1080.jpg?t=1552404439"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1041000/ss_8787a572dc5e300cdb56a01f8d0d0b1f0f9ca43c.600x338.jpg?t=1551690307",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1041000/ss_8787a572dc5e300cdb56a01f8d0d0b1f0f9ca43c.1920x1080.jpg?t=1551690307"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1041000/ss_8787a572dc5e300cdb56a01f8d0d0b1f0f9ca43c.600x338.jpg?t=1552404439",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1041000/ss_8787a572dc5e300cdb56a01f8d0d0b1f0f9ca43c.1920x1080.jpg?t=1552404439"
                 }
             ],
+            "achievements": {
+                "total": 0
+            },
             "release_date": {
-                "coming_soon": true,
+                "coming_soon": false,
                 "date": "12 Mar, 2019"
             },
             "support_info": {
                 "url": "http://www.hypnospace.net/",
                 "email": "hypnospace@nomorerobots.io"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1041000/page_bg_generated_v6b.jpg?t=1551690307",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1041000/page_bg_generated_v6b.jpg?t=1552404439",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
