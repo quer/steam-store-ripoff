@@ -15,16 +15,16 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/252010/header.jpg?t=1479914662",
             "website": "http://oniken.net",
             "pc_requirements": {
-                "minimum": "<strong>Минимальные:</strong><br><ul class=\"bb_ul\"><li><strong>ОС:</strong> Windows XP<br></li><li><strong>Процессор:</strong> 1.0 GHz Processor<br></li><li><strong>Оперативная память:</strong> 512 MB ОЗУ<br></li><li><strong>Видеокарта:</strong> 32MB VRAM Integrated Graphics Card<br></li><li><strong>DirectX:</strong> Версии 9.0<br></li><li><strong>Место на диске:</strong> 100 MB</li></ul>",
-                "recommended": "<strong>Рекомендованные:</strong><br><ul class=\"bb_ul\"><li><strong>ОС:</strong> Windows 7<br></li><li><strong>Процессор:</strong> Dual Core Processor<br></li><li><strong>Оперативная память:</strong> 1 GB ОЗУ<br></li><li><strong>Видеокарта:</strong> 64MB VRAM Dedicated Graphics Card<br></li><li><strong>DirectX:</strong> Версии 9.0c<br></li><li><strong>Место на диске:</strong> 100 MB</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP<br></li><li><strong>Processor:</strong> 1.0 GHz Processor<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> 32MB VRAM Integrated Graphics Card<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 100 MB available space</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong> Dual Core Processor<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> 64MB VRAM Dedicated Graphics Card<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 100 MB available space</li></ul>"
             },
             "mac_requirements": {
-                "minimum": "<strong>Минимальные:</strong><br><ul class=\"bb_ul\"><li><strong>ОС:</strong> OS X 10.6 Snow Leopard<br></li><li><strong>Процессор:</strong> Intel Core Duo<br></li><li><strong>Оперативная память:</strong> 1 GB ОЗУ<br></li><li><strong>Видеокарта:</strong> 32MB VRAM Integrated Graphics Card<br></li><li><strong>Место на диске:</strong> 250 MB</li></ul>",
-                "recommended": "<strong>Рекомендованные:</strong><br><ul class=\"bb_ul\"><li><strong>ОС:</strong> OS X 10.9 Mavericks<br></li><li><strong>Процессор:</strong> Intel Core 2 Duo<br></li><li><strong>Оперативная память:</strong> 2 GB ОЗУ<br></li><li><strong>Видеокарта:</strong> 64MB VRAM Dedicated Graphics Card<br></li><li><strong>Место на диске:</strong> 400 MB</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OS X 10.6 Snow Leopard<br></li><li><strong>Processor:</strong> Intel Core Duo<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> 32MB VRAM Integrated Graphics Card<br></li><li><strong>Storage:</strong> 250 MB available space</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OS X 10.9 Mavericks<br></li><li><strong>Processor:</strong> Intel Core 2 Duo<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> 64MB VRAM Dedicated Graphics Card<br></li><li><strong>Storage:</strong> 400 MB available space</li></ul>"
             },
             "linux_requirements": {
-                "minimum": "<strong>Минимальные:</strong><br><ul class=\"bb_ul\"><li><strong>ОС:</strong> Any Recent Linux OS<br></li><li><strong>Процессор:</strong> 2GHz Dual Core Processor<br></li><li><strong>Оперативная память:</strong> 1 GB ОЗУ<br></li><li><strong>Видеокарта:</strong> 32MB VRAM Integrated Graphics Card<br></li><li><strong>Место на диске:</strong> 600 MB</li></ul>",
-                "recommended": "<strong>Рекомендованные:</strong><br><ul class=\"bb_ul\"><li><strong>ОС:</strong> Ubuntu 13.10<br></li><li><strong>Процессор:</strong> 3GHz Dual Core Processor<br></li><li><strong>Оперативная память:</strong> 2 GB ОЗУ<br></li><li><strong>Видеокарта:</strong> 64MB VRAM Dedicated Graphics Card<br></li><li><strong>Место на диске:</strong> 700 MB</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Any Recent Linux OS<br></li><li><strong>Processor:</strong> 2GHz Dual Core Processor<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> 32MB VRAM Integrated Graphics Card<br></li><li><strong>Storage:</strong> 600 MB available space</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 13.10<br></li><li><strong>Processor:</strong> 3GHz Dual Core Processor<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> 64MB VRAM Dedicated Graphics Card<br></li><li><strong>Storage:</strong> 700 MB available space</li></ul>"
             },
             "developers": [
                 "JoyMasher"
@@ -208,7 +208,7 @@
                 }
             ],
             "recommendations": {
-                "total": 451
+                "total": 452
             },
             "achievements": {
                 "total": 32,
