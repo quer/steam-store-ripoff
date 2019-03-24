@@ -35,10 +35,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 2099,
-                "final": 1889,
-                "discount_percent": 10,
-                "initial_formatted": "20,99€",
-                "final_formatted": "18,89€"
+                "final": 2099,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "20,99€"
             },
             "packages": [
                 343902
@@ -55,13 +55,13 @@
                     "subs": [
                         {
                             "packageid": 343902,
-                            "percent_savings_text": "-10%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "RPG Maker MV - Mysterious Unresolved Sounds Vol.1 - <span class=\"discount_original_price\">20,99€</span> 18,89€",
+                            "option_text": "RPG Maker MV - Mysterious Unresolved Sounds Vol.1 - 20,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1889
+                            "price_in_cents_with_discount": 2099
                         }
                     ]
                 }
