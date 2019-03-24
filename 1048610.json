@@ -11,12 +11,14 @@
             "about_the_game": "Love Mythos: Sanctuary Island is an all-inclusive, one of a kind Visual Novel and Puzzle game for PC, Mac, and Linux. This venture features a balance of immersive story, as well as a mini game to progress both relationships and dialogue. But Love Mythos isn’t just pure titillation (not that there’s anything wrong with that, amirite?). As the main character, you can help guide your fellow wounded companions through rehabilitation, or let them slip into bitterness and revenge. Your decisions, your words, your actions shape the entire world and who these fey will come to be.",
             "short_description": "Love Mythos: Sanctuary Island is an all-inclusive, one of a kind Visual Novel and Puzzle game for PC, Mac, and Linux. This venture features a balance of immersive story, as well as a mini game to progress both relationships and dialogue.",
             "supported_languages": "English",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1048610/header.jpg?t=1552705661",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1048610/header.jpg?t=1553008674",
             "website": null,
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong> 1.8GHz Dual-Core CPU<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Integrated graphics<br></li><li><strong>Storage:</strong> 154 MB available space</li></ul>"
             },
-            "mac_requirements": [],
+            "mac_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Storage:</strong> 158 MB available space</li></ul>"
+            },
             "linux_requirements": [],
             "developers": [
                 "Squid Sins Squad"
@@ -33,7 +35,7 @@
             "package_groups": [],
             "platforms": {
                 "windows": true,
-                "mac": false,
+                "mac": true,
                 "linux": false
             },
             "categories": [
@@ -55,28 +57,28 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1048610/ss_0452584517b23dbaec4ee5171b02b123eee462c9.600x338.jpg?t=1552705661",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1048610/ss_0452584517b23dbaec4ee5171b02b123eee462c9.1920x1080.jpg?t=1552705661"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1048610/ss_0452584517b23dbaec4ee5171b02b123eee462c9.600x338.jpg?t=1553008674",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1048610/ss_0452584517b23dbaec4ee5171b02b123eee462c9.1920x1080.jpg?t=1553008674"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1048610/ss_dbb28f5b77ca619076dac8837e5a7812dd7337b0.600x338.jpg?t=1552705661",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1048610/ss_dbb28f5b77ca619076dac8837e5a7812dd7337b0.1920x1080.jpg?t=1552705661"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1048610/ss_dbb28f5b77ca619076dac8837e5a7812dd7337b0.600x338.jpg?t=1553008674",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1048610/ss_dbb28f5b77ca619076dac8837e5a7812dd7337b0.1920x1080.jpg?t=1553008674"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1048610/ss_1d736bdb8a2f6ff7f9b1eca14848f80c26044edd.600x338.jpg?t=1552705661",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1048610/ss_1d736bdb8a2f6ff7f9b1eca14848f80c26044edd.1920x1080.jpg?t=1552705661"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1048610/ss_1d736bdb8a2f6ff7f9b1eca14848f80c26044edd.600x338.jpg?t=1553008674",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1048610/ss_1d736bdb8a2f6ff7f9b1eca14848f80c26044edd.1920x1080.jpg?t=1553008674"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1048610/ss_c24fa6212b11df2e99fc3145851d271fd040e016.600x338.jpg?t=1552705661",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1048610/ss_c24fa6212b11df2e99fc3145851d271fd040e016.1920x1080.jpg?t=1552705661"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1048610/ss_c24fa6212b11df2e99fc3145851d271fd040e016.600x338.jpg?t=1553008674",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1048610/ss_c24fa6212b11df2e99fc3145851d271fd040e016.1920x1080.jpg?t=1553008674"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1048610/ss_8c6bef8f1bf2925ef485906ae3d6f2ec1fc7a37f.600x338.jpg?t=1552705661",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1048610/ss_8c6bef8f1bf2925ef485906ae3d6f2ec1fc7a37f.1920x1080.jpg?t=1552705661"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1048610/ss_8c6bef8f1bf2925ef485906ae3d6f2ec1fc7a37f.600x338.jpg?t=1553008674",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1048610/ss_8c6bef8f1bf2925ef485906ae3d6f2ec1fc7a37f.1920x1080.jpg?t=1553008674"
                 }
             ],
             "movies": [
@@ -99,7 +101,7 @@
                 "url": "",
                 "email": "lovemythosthegame@gmail.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1048610/page_bg_generated_v6b.jpg?t=1552705661",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1048610/page_bg_generated_v6b.jpg?t=1553008674",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
