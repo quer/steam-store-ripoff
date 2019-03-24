@@ -11,7 +11,7 @@
             "about_the_game": "&quot;Night Shot&quot; is a simple, addictive game that will swallow you whole.<br />\r\nThis game can be played not only by one but also together on one computer as well as over the network.<br />\r\nEach of the players has his own cowboy for whom you need to collect ammunition in order for him to shoot at your opponent.<br />\r\nOne game consists of five rounds in each round you get points.<br />\r\nAt the end of five rounds, the total number of points is summed up and the winner is announced.<br />\r\nThe game is beautifully designed and has many different levels.<br />\r\nAfter early access rating will be added.",
             "short_description": "This is a very fun, fast and simple game, both adults and children can play it. Each of the players has his own cowboy for whom you need to collect ammunition in order for him to shoot at your opponent.",
             "supported_languages": "English, French, Italian, German, Spanish - Spain, Korean, Polish, Russian, Turkish, Ukrainian, Japanese, Traditional Chinese",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1042750/header.jpg?t=1552020249",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1042750/header.jpg?t=1553273794",
             "website": null,
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 64-bit Windows 7, Windows 8.1, Windows 10<br></li><li><strong>Processor:</strong> Intel Core i5-4430 / AMD FX-6300<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 660 1GB / AMD Radeon HD 6790 1GB<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>",
@@ -25,7 +25,40 @@
             "publishers": [
                 "Funny Games"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 159,
+                "final": 127,
+                "discount_percent": 20,
+                "initial_formatted": "1,59€",
+                "final_formatted": "1,27€"
+            },
+            "packages": [
+                347401
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Night shot",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 347401,
+                            "percent_savings_text": "-20%",
+                            "percent_savings": 0,
+                            "option_text": "Night shot - <span class=\"discount_original_price\">1,59€</span> 1,27€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 127
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": false,
@@ -41,16 +74,8 @@
                     "description": "Multi-player"
                 },
                 {
-                    "id": 36,
-                    "description": "Online Multi-Player"
-                },
-                {
                     "id": 24,
                     "description": "Shared/Split Screen"
-                },
-                {
-                    "id": 18,
-                    "description": "Partial Controller Support"
                 }
             ],
             "genres": [
@@ -74,48 +99,48 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1042750/ss_e682b54857fd3f8132bca7bb7f6699407949cc14.600x338.jpg?t=1552020249",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1042750/ss_e682b54857fd3f8132bca7bb7f6699407949cc14.1920x1080.jpg?t=1552020249"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1042750/ss_e682b54857fd3f8132bca7bb7f6699407949cc14.600x338.jpg?t=1553273794",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1042750/ss_e682b54857fd3f8132bca7bb7f6699407949cc14.1920x1080.jpg?t=1553273794"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1042750/ss_0d5364d198da6a4b23be96e013a95f854fa29023.600x338.jpg?t=1552020249",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1042750/ss_0d5364d198da6a4b23be96e013a95f854fa29023.1920x1080.jpg?t=1552020249"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1042750/ss_0d5364d198da6a4b23be96e013a95f854fa29023.600x338.jpg?t=1553273794",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1042750/ss_0d5364d198da6a4b23be96e013a95f854fa29023.1920x1080.jpg?t=1553273794"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1042750/ss_9fe5267e7bebe9bb206520c92cf917b65776ea3c.600x338.jpg?t=1552020249",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1042750/ss_9fe5267e7bebe9bb206520c92cf917b65776ea3c.1920x1080.jpg?t=1552020249"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1042750/ss_9fe5267e7bebe9bb206520c92cf917b65776ea3c.600x338.jpg?t=1553273794",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1042750/ss_9fe5267e7bebe9bb206520c92cf917b65776ea3c.1920x1080.jpg?t=1553273794"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1042750/ss_e163360bf2a76ff6e1efda0c5bb57db8d09bc00a.600x338.jpg?t=1552020249",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1042750/ss_e163360bf2a76ff6e1efda0c5bb57db8d09bc00a.1920x1080.jpg?t=1552020249"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1042750/ss_e163360bf2a76ff6e1efda0c5bb57db8d09bc00a.600x338.jpg?t=1553273794",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1042750/ss_e163360bf2a76ff6e1efda0c5bb57db8d09bc00a.1920x1080.jpg?t=1553273794"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1042750/ss_5b4cb144f8c6176805d77f3bd3634eef0564ef14.600x338.jpg?t=1552020249",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1042750/ss_5b4cb144f8c6176805d77f3bd3634eef0564ef14.1920x1080.jpg?t=1552020249"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1042750/ss_5b4cb144f8c6176805d77f3bd3634eef0564ef14.600x338.jpg?t=1553273794",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1042750/ss_5b4cb144f8c6176805d77f3bd3634eef0564ef14.1920x1080.jpg?t=1553273794"
                 },
                 {
                     "id": 5,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1042750/ss_c750bf3ac33a537317eb88e85f68c22949f6bbf4.600x338.jpg?t=1552020249",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1042750/ss_c750bf3ac33a537317eb88e85f68c22949f6bbf4.1920x1080.jpg?t=1552020249"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1042750/ss_c750bf3ac33a537317eb88e85f68c22949f6bbf4.600x338.jpg?t=1553273794",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1042750/ss_c750bf3ac33a537317eb88e85f68c22949f6bbf4.1920x1080.jpg?t=1553273794"
                 },
                 {
                     "id": 6,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1042750/ss_ee93fa2060dd427af8edbe6f10a58ad694bd1ea7.600x338.jpg?t=1552020249",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1042750/ss_ee93fa2060dd427af8edbe6f10a58ad694bd1ea7.1920x1080.jpg?t=1552020249"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1042750/ss_ee93fa2060dd427af8edbe6f10a58ad694bd1ea7.600x338.jpg?t=1553273794",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1042750/ss_ee93fa2060dd427af8edbe6f10a58ad694bd1ea7.1920x1080.jpg?t=1553273794"
                 },
                 {
                     "id": 7,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1042750/ss_7c89aaa3b027f7748cc8bc5010ed01a22a9f81ae.600x338.jpg?t=1552020249",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1042750/ss_7c89aaa3b027f7748cc8bc5010ed01a22a9f81ae.1920x1080.jpg?t=1552020249"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1042750/ss_7c89aaa3b027f7748cc8bc5010ed01a22a9f81ae.600x338.jpg?t=1553273794",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1042750/ss_7c89aaa3b027f7748cc8bc5010ed01a22a9f81ae.1920x1080.jpg?t=1553273794"
                 },
                 {
                     "id": 8,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1042750/ss_efe85401f4174d112d894ed8675d195ec67ee8d0.600x338.jpg?t=1552020249",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1042750/ss_efe85401f4174d112d894ed8675d195ec67ee8d0.1920x1080.jpg?t=1552020249"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1042750/ss_efe85401f4174d112d894ed8675d195ec67ee8d0.600x338.jpg?t=1553273794",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1042750/ss_efe85401f4174d112d894ed8675d195ec67ee8d0.1920x1080.jpg?t=1553273794"
                 }
             ],
             "movies": [
@@ -131,14 +156,14 @@
                 }
             ],
             "release_date": {
-                "coming_soon": true,
+                "coming_soon": false,
                 "date": "22 Mar, 2019"
             },
             "support_info": {
                 "url": "",
                 "email": "game.nightshot@gmail.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1042750/page_bg_generated_v6b.jpg?t=1552020249",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1042750/page_bg_generated_v6b.jpg?t=1553273794",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
