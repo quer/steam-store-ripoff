@@ -31,10 +31,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 299,
-                "final": 299,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "2,99€"
+                "final": 194,
+                "discount_percent": 35,
+                "initial_formatted": "2,99€",
+                "final_formatted": "1,94€"
             },
             "packages": [
                 15961,
@@ -53,33 +53,33 @@
                     "subs": [
                         {
                             "packageid": 15961,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-35%",
                             "percent_savings": 0,
-                            "option_text": "eXceed Gun Bullet Children - 2,99€",
+                            "option_text": "eXceed Gun Bullet Children - <span class=\"discount_original_price\">2,99€</span> 1,94€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 299
+                            "price_in_cents_with_discount": 194
                         },
                         {
                             "packageid": 15960,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-35%",
                             "percent_savings": 0,
-                            "option_text": "The eXceed Collection - 9,99€",
+                            "option_text": "The eXceed Collection - <span class=\"discount_original_price\">9,99€</span> 6,49€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 999
+                            "price_in_cents_with_discount": 649
                         },
                         {
                             "packageid": 59925,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-35%",
                             "percent_savings": 0,
-                            "option_text": "The eXceed Collection: Aural Brutality Edition - 22,99€",
+                            "option_text": "The eXceed Collection: Aural Brutality Edition - <span class=\"discount_original_price\">22,99€</span> 14,94€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 2299
+                            "price_in_cents_with_discount": 1494
                         }
                     ]
                 }
@@ -184,7 +184,7 @@
                 }
             ],
             "recommendations": {
-                "total": 296
+                "total": 297
             },
             "achievements": {
                 "total": 0
