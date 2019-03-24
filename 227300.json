@@ -107,10 +107,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 1999,
-                "final": 1999,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "19,99€"
+                "final": 679,
+                "discount_percent": 66,
+                "initial_formatted": "19,99€",
+                "final_formatted": "6,79€"
             },
             "packages": [
                 19007
@@ -127,13 +127,13 @@
                     "subs": [
                         {
                             "packageid": 19007,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-66%",
                             "percent_savings": 0,
-                            "option_text": "Euro Truck Simulator 2 - 19,99€",
+                            "option_text": "Euro Truck Simulator 2 - <span class=\"discount_original_price\">19,99€</span> 6,79€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1999
+                            "price_in_cents_with_discount": 679
                         }
                     ]
                 }
@@ -342,10 +342,10 @@
                 }
             ],
             "recommendations": {
-                "total": 128650
+                "total": 129239
             },
             "achievements": {
-                "total": 66,
+                "total": 67,
                 "highlighted": [
                     {
                         "name": "I Am a GPS",
