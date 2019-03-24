@@ -8,15 +8,15 @@
             "required_age": 0,
             "is_free": false,
             "controller_support": "full",
-            "detailed_description": "<strong>STAB STAB STAB</strong> is a brutal, physics-based, couch multiplayer fighting game where you stab your friends until they pop!<br><br><ul class=\"bb_ul\"><li>Play as explosive fleshbirds with razor sharp beaks<br></li><li>Up to 8 players with both controller and keyboard/mouse input<br></li><li>Visceral physics-based combat<br></li><li>AI players with adjustable difficulty to test your skills<br></li><li>8 unique and deadly arenas with more being added regularly<br></li><li>Wings, spider legs, tumors, and other helpful mutations to pick up</li></ul>",
-            "about_the_game": "<strong>STAB STAB STAB</strong> is a brutal, physics-based, couch multiplayer fighting game where you stab your friends until they pop!<br><br><ul class=\"bb_ul\"><li>Play as explosive fleshbirds with razor sharp beaks<br></li><li>Up to 8 players with both controller and keyboard/mouse input<br></li><li>Visceral physics-based combat<br></li><li>AI players with adjustable difficulty to test your skills<br></li><li>8 unique and deadly arenas with more being added regularly<br></li><li>Wings, spider legs, tumors, and other helpful mutations to pick up</li></ul>",
-            "short_description": "STAB STAB STAB is a brutal, physics-based, couch multiplayer fighting game where you stab your friends until they pop!",
+            "detailed_description": "<strong>STAB STAB STAB</strong> is a brutal, physics-based, couch multiplayer fighting game where you stab your friends until they pop!<br><br><ul class=\"bb_ul\"><li>Play as explosive fleshbirds with razor sharp beaks<br></li><li>Up to 8 players in local multiplayer with both controller and keyboard/mouse input (no online multiplayer)<br></li><li>Visceral physics-based combat<br></li><li>Battle it out against your friends in versus mode<br></li><li>Team up in survival mode against the mindless hordes of cronenbirds <br></li><li>AI players with adjustable difficulty to test your skills<br></li><li>10 unique and deadly arenas with more being added regularly<br></li><li>Wings, spider legs, tumors, and many other helpful mutations to pick up</li></ul>",
+            "about_the_game": "<strong>STAB STAB STAB</strong> is a brutal, physics-based, couch multiplayer fighting game where you stab your friends until they pop!<br><br><ul class=\"bb_ul\"><li>Play as explosive fleshbirds with razor sharp beaks<br></li><li>Up to 8 players in local multiplayer with both controller and keyboard/mouse input (no online multiplayer)<br></li><li>Visceral physics-based combat<br></li><li>Battle it out against your friends in versus mode<br></li><li>Team up in survival mode against the mindless hordes of cronenbirds <br></li><li>AI players with adjustable difficulty to test your skills<br></li><li>10 unique and deadly arenas with more being added regularly<br></li><li>Wings, spider legs, tumors, and many other helpful mutations to pick up</li></ul>",
+            "short_description": "STAB STAB STAB is a physics-based couch-multiplayer arena stabbing game for up to 8 players. Stab your friends until they pop in versus mode, or team up to defend yourselves against an unending horde of cronenbirds!",
             "supported_languages": "English",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1026130/header.jpg?t=1550564271",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1026130/header.jpg?t=1553223875",
             "website": null,
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows Vista / 7 / 8 / 10<br></li><li><strong>Processor:</strong> Core i3 or equivalent<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> GPU with at least 256MB of VRAM<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 50 MB available space</li></ul>",
-                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows Vista / 7 / 8 / 10<br></li><li><strong>Processor:</strong> Core i3 or better<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> GPU with at least 512MB of VRAM<br></li><li><strong>Additional Notes:</strong> Microsoft Xbox 360 Controller, Xbox One Controller, or Direct Input compatible controller</li></ul>"
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows Vista / 7 / 8 / 10<br></li><li><strong>Processor:</strong> Core i3 or better<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> GPU with at least 512MB of VRAM<br></li><li><strong>Additional Notes:</strong> Up to 4 X-Input controllers or Up to 8 DirectInput controllers</li></ul>"
             },
             "mac_requirements": [],
             "linux_requirements": [],
@@ -46,6 +46,14 @@
                     "description": "Local Multi-Player"
                 },
                 {
+                    "id": 9,
+                    "description": "Co-op"
+                },
+                {
+                    "id": 39,
+                    "description": "Local Co-op"
+                },
+                {
                     "id": 24,
                     "description": "Shared/Split Screen"
                 },
@@ -60,6 +68,10 @@
                     "description": "Action"
                 },
                 {
+                    "id": "4",
+                    "description": "Casual"
+                },
+                {
                     "id": "23",
                     "description": "Indie"
                 }
@@ -67,53 +79,58 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1026130/ss_9cc3589205a0750bb7f5dba327928470dc471f06.600x338.jpg?t=1550564271",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1026130/ss_9cc3589205a0750bb7f5dba327928470dc471f06.1920x1080.jpg?t=1550564271"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1026130/ss_9cc3589205a0750bb7f5dba327928470dc471f06.600x338.jpg?t=1553223875",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1026130/ss_9cc3589205a0750bb7f5dba327928470dc471f06.1920x1080.jpg?t=1553223875"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1026130/ss_19bdf4d9c5a3f549d5e4fb73c2f89cb13d14f090.600x338.jpg?t=1550564271",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1026130/ss_19bdf4d9c5a3f549d5e4fb73c2f89cb13d14f090.1920x1080.jpg?t=1550564271"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1026130/ss_b9bb46c5e4fcc8205f8083c892db85a0a697e17b.600x338.jpg?t=1553223875",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1026130/ss_b9bb46c5e4fcc8205f8083c892db85a0a697e17b.1920x1080.jpg?t=1553223875"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1026130/ss_97bed2563a27bcfc9ecc12d65f5995370568cb45.600x338.jpg?t=1550564271",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1026130/ss_97bed2563a27bcfc9ecc12d65f5995370568cb45.1920x1080.jpg?t=1550564271"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1026130/ss_19bdf4d9c5a3f549d5e4fb73c2f89cb13d14f090.600x338.jpg?t=1553223875",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1026130/ss_19bdf4d9c5a3f549d5e4fb73c2f89cb13d14f090.1920x1080.jpg?t=1553223875"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1026130/ss_e00039c2908abcdfbf9de7fb3a728d87add990d5.600x338.jpg?t=1550564271",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1026130/ss_e00039c2908abcdfbf9de7fb3a728d87add990d5.1920x1080.jpg?t=1550564271"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1026130/ss_97bed2563a27bcfc9ecc12d65f5995370568cb45.600x338.jpg?t=1553223875",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1026130/ss_97bed2563a27bcfc9ecc12d65f5995370568cb45.1920x1080.jpg?t=1553223875"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1026130/ss_78ce6a79368ec9d441df40c3a3516e7e952f3596.600x338.jpg?t=1550564271",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1026130/ss_78ce6a79368ec9d441df40c3a3516e7e952f3596.1920x1080.jpg?t=1550564271"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1026130/ss_e00039c2908abcdfbf9de7fb3a728d87add990d5.600x338.jpg?t=1553223875",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1026130/ss_e00039c2908abcdfbf9de7fb3a728d87add990d5.1920x1080.jpg?t=1553223875"
                 },
                 {
                     "id": 5,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1026130/ss_a5147788842063b96ed24e94711b948c4117fbc8.600x338.jpg?t=1550564271",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1026130/ss_a5147788842063b96ed24e94711b948c4117fbc8.1920x1080.jpg?t=1550564271"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1026130/ss_78ce6a79368ec9d441df40c3a3516e7e952f3596.600x338.jpg?t=1553223875",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1026130/ss_78ce6a79368ec9d441df40c3a3516e7e952f3596.1920x1080.jpg?t=1553223875"
                 },
                 {
                     "id": 6,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1026130/ss_a94bcce21fcda4819a20f574b5c98a1b3ed1ee29.600x338.jpg?t=1550564271",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1026130/ss_a94bcce21fcda4819a20f574b5c98a1b3ed1ee29.1920x1080.jpg?t=1550564271"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1026130/ss_a5147788842063b96ed24e94711b948c4117fbc8.600x338.jpg?t=1553223875",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1026130/ss_a5147788842063b96ed24e94711b948c4117fbc8.1920x1080.jpg?t=1553223875"
                 },
                 {
                     "id": 7,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1026130/ss_b53104dec423c7e2220722cbb26d11f9e77a7241.600x338.jpg?t=1550564271",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1026130/ss_b53104dec423c7e2220722cbb26d11f9e77a7241.1920x1080.jpg?t=1550564271"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1026130/ss_a94bcce21fcda4819a20f574b5c98a1b3ed1ee29.600x338.jpg?t=1553223875",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1026130/ss_a94bcce21fcda4819a20f574b5c98a1b3ed1ee29.1920x1080.jpg?t=1553223875"
                 },
                 {
                     "id": 8,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1026130/ss_49b14c847cb9bf794a4fb9b6499258ff6ca5292a.600x338.jpg?t=1550564271",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1026130/ss_49b14c847cb9bf794a4fb9b6499258ff6ca5292a.1920x1080.jpg?t=1550564271"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1026130/ss_b53104dec423c7e2220722cbb26d11f9e77a7241.600x338.jpg?t=1553223875",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1026130/ss_b53104dec423c7e2220722cbb26d11f9e77a7241.1920x1080.jpg?t=1553223875"
                 },
                 {
                     "id": 9,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1026130/ss_8dc051f9c522115f433cf87c9567fece4ce3c169.600x338.jpg?t=1550564271",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1026130/ss_8dc051f9c522115f433cf87c9567fece4ce3c169.1920x1080.jpg?t=1550564271"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1026130/ss_49b14c847cb9bf794a4fb9b6499258ff6ca5292a.600x338.jpg?t=1553223875",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1026130/ss_49b14c847cb9bf794a4fb9b6499258ff6ca5292a.1920x1080.jpg?t=1553223875"
+                },
+                {
+                    "id": 10,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1026130/ss_8dc051f9c522115f433cf87c9567fece4ce3c169.600x338.jpg?t=1553223875",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1026130/ss_8dc051f9c522115f433cf87c9567fece4ce3c169.1920x1080.jpg?t=1553223875"
                 }
             ],
             "movies": [
@@ -136,7 +153,7 @@
                 "url": "",
                 "email": "support@stabstabstab.io"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1026130/page_bg_generated_v6b.jpg?t=1550564271",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1026130/page_bg_generated_v6b.jpg?t=1553223875",
             "content_descriptors": {
                 "ids": [
                     5
