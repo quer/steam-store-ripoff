@@ -3,7 +3,7 @@
         "success": true,
         "data": {
             "type": "game",
-            "name": "AntiPole",
+            "name": "AntiPodal",
             "steam_appid": 1013950,
             "required_age": 0,
             "is_free": false,
@@ -12,7 +12,7 @@
             "about_the_game": "Your poor chicken accidentally fell in a portal to another world! Head out on an epic adventure to save him. Face level after level of complex platforming challenges using your ability to swap between two parallel worlds. <br><br><br><br>Use your abilities to jump, wall jump, and swap worlds in creative ways to solve each level. Simple and responsive controls let you control your hero just the way you want to.<br><br><br><br>FEATURES:<br><br><ul class=\"bb_ul\"><li>Test your skill in the integrated speedruning mode. Only for the bravest souls.<br></li><li>Choose among the many available color themes.<br></li><li>Controller support and fully customizable keyboard controls. </li></ul>",
             "short_description": "Trapped in a strange parallel world, face ruthless challenges using wit and skill. Run, jump and swap your way out of tricky situations in this super-tight action puzzle platformer. Will you be able to find and rescue your poor lost chicken?",
             "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1013950/header.jpg?t=1552249547",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1013950/header.jpg?t=1553302348",
             "website": null,
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 and above<br></li><li><strong>Processor:</strong> 2.5 GHz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> 256 MB<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Sound Card:</strong> any</li></ul>"
@@ -27,7 +27,40 @@
             "publishers": [
                 "Liam Dehaudt"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 199,
+                "final": 199,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "1,99€"
+            },
+            "packages": [
+                335942
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy AntiPodal",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 335942,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "AntiPodal - 1,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 199
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": true,
@@ -52,61 +85,64 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1013950/ss_117f478ebb965adaa868c26baf674d8bf7a8a45b.600x338.jpg?t=1552249547",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1013950/ss_117f478ebb965adaa868c26baf674d8bf7a8a45b.1920x1080.jpg?t=1552249547"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1013950/ss_117f478ebb965adaa868c26baf674d8bf7a8a45b.600x338.jpg?t=1553302348",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1013950/ss_117f478ebb965adaa868c26baf674d8bf7a8a45b.1920x1080.jpg?t=1553302348"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1013950/ss_36d14bc7fbc95734ad9a315905e829ac3e268b1f.600x338.jpg?t=1552249547",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1013950/ss_36d14bc7fbc95734ad9a315905e829ac3e268b1f.1920x1080.jpg?t=1552249547"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1013950/ss_36d14bc7fbc95734ad9a315905e829ac3e268b1f.600x338.jpg?t=1553302348",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1013950/ss_36d14bc7fbc95734ad9a315905e829ac3e268b1f.1920x1080.jpg?t=1553302348"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1013950/ss_0abea2a6f45dc028e9a596fea3098b57bed948ed.600x338.jpg?t=1552249547",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1013950/ss_0abea2a6f45dc028e9a596fea3098b57bed948ed.1920x1080.jpg?t=1552249547"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1013950/ss_0abea2a6f45dc028e9a596fea3098b57bed948ed.600x338.jpg?t=1553302348",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1013950/ss_0abea2a6f45dc028e9a596fea3098b57bed948ed.1920x1080.jpg?t=1553302348"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1013950/ss_e6676fc3344f696bcdf250b02ef05d13a387b7aa.600x338.jpg?t=1552249547",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1013950/ss_e6676fc3344f696bcdf250b02ef05d13a387b7aa.1920x1080.jpg?t=1552249547"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1013950/ss_e6676fc3344f696bcdf250b02ef05d13a387b7aa.600x338.jpg?t=1553302348",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1013950/ss_e6676fc3344f696bcdf250b02ef05d13a387b7aa.1920x1080.jpg?t=1553302348"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1013950/ss_459914f33794a9fb87f57696003d7badd72058fe.600x338.jpg?t=1552249547",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1013950/ss_459914f33794a9fb87f57696003d7badd72058fe.1920x1080.jpg?t=1552249547"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1013950/ss_459914f33794a9fb87f57696003d7badd72058fe.600x338.jpg?t=1553302348",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1013950/ss_459914f33794a9fb87f57696003d7badd72058fe.1920x1080.jpg?t=1553302348"
                 },
                 {
                     "id": 5,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1013950/ss_0aeaf823d025a2452ada65a8be03ced6ff1d42de.600x338.jpg?t=1552249547",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1013950/ss_0aeaf823d025a2452ada65a8be03ced6ff1d42de.1920x1080.jpg?t=1552249547"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1013950/ss_0aeaf823d025a2452ada65a8be03ced6ff1d42de.600x338.jpg?t=1553302348",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1013950/ss_0aeaf823d025a2452ada65a8be03ced6ff1d42de.1920x1080.jpg?t=1553302348"
                 },
                 {
                     "id": 6,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1013950/ss_fcdc74a2ad9560d1d970db01d9e8af7aa4b6a32d.600x338.jpg?t=1552249547",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1013950/ss_fcdc74a2ad9560d1d970db01d9e8af7aa4b6a32d.1920x1080.jpg?t=1552249547"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1013950/ss_fcdc74a2ad9560d1d970db01d9e8af7aa4b6a32d.600x338.jpg?t=1553302348",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1013950/ss_fcdc74a2ad9560d1d970db01d9e8af7aa4b6a32d.1920x1080.jpg?t=1553302348"
                 }
             ],
             "movies": [
                 {
                     "id": 256743058,
-                    "name": "Antipole Trailer",
-                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256743058/movie.293x165.jpg?t=1552183791",
+                    "name": "Antipodal Trailer",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256743058/movie.293x165.jpg?t=1553065996",
                     "webm": {
-                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256743058/movie480.webm?t=1552183791",
-                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256743058/movie_max.webm?t=1552183791"
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256743058/movie480.webm?t=1553065996",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256743058/movie_max.webm?t=1553065996"
                     },
                     "highlight": true
                 }
             ],
+            "achievements": {
+                "total": 0
+            },
             "release_date": {
-                "coming_soon": true,
+                "coming_soon": false,
                 "date": "22 Mar, 2019"
             },
             "support_info": {
-                "url": "antipole.game@gmail.com",
+                "url": "liam.dehaudt@gmail.com",
                 "email": ""
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1013950/page_bg_generated_v6b.jpg?t=1552249547",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1013950/page_bg_generated_v6b.jpg?t=1553302348",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
