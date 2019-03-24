@@ -14,8 +14,8 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1031550/header.jpg?t=1551796961",
             "website": null,
             "pc_requirements": {
-                "minimum": "<strong>最低配置:</strong><br><ul class=\"bb_ul\"><li><strong>操作系统:</strong> Windows 7, 8, 10<br></li><li><strong>处理器:</strong> 2.5 GHz Single Core Processor or 2 GHz Dual Core Processor<br></li><li><strong>内存:</strong> 2 GB RAM<br></li><li><strong>图形:</strong> OpenGL 2.0 compatible with 256 MB RAM (Shared Memory is not recommended)<br></li><li><strong>DirectX 版本:</strong> 9.0<br></li><li><strong>存储空间:</strong> 需要 150 MB 可用空间</li></ul>",
-                "recommended": "<strong>推荐配置:</strong><br><ul class=\"bb_ul\"><li><strong>操作系统:</strong> Windows 7, 8, 10<br></li><li><strong>处理器:</strong> 2.5 GHz Single Core Processor or 2 GHz Dual Core Processor<br></li><li><strong>内存:</strong> 4 GB RAM<br></li><li><strong>图形:</strong> OpenGL 2.0 compatible with 512 MB RAM (Shared Memory is not recommended)<br></li><li><strong>DirectX 版本:</strong> 9.0<br></li><li><strong>存储空间:</strong> 需要 150 MB 可用空间</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7, 8, 10<br></li><li><strong>Processor:</strong> 2.5 GHz Single Core Processor or 2 GHz Dual Core Processor<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL 2.0 compatible with 256 MB RAM (Shared Memory is not recommended)<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 150 MB available space</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7, 8, 10<br></li><li><strong>Processor:</strong> 2.5 GHz Single Core Processor or 2 GHz Dual Core Processor<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL 2.0 compatible with 512 MB RAM (Shared Memory is not recommended)<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 150 MB available space</li></ul>"
             },
             "mac_requirements": [],
             "linux_requirements": [],
@@ -29,10 +29,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 159,
-                "final": 95,
-                "discount_percent": 40,
-                "initial_formatted": "1,59€",
-                "final_formatted": "0,95€"
+                "final": 159,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "1,59€"
             },
             "packages": [
                 343160
@@ -49,13 +49,13 @@
                     "subs": [
                         {
                             "packageid": 343160,
-                            "percent_savings_text": "-40%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Lovers ' Smiles 2 - <span class=\"discount_original_price\">1,59€</span> 0,95€",
+                            "option_text": "Lovers ' Smiles 2 - 1,59€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 95
+                            "price_in_cents_with_discount": 159
                         }
                     ]
                 }
