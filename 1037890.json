@@ -15,7 +15,7 @@
                 "name": "Fire Pro Wrestling World: New Japan Pro-Wrestling Collaboration"
             },
             "supported_languages": "English<strong>*</strong>, Japanese<strong>*</strong><br><strong>*</strong>languages with full audio support",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1037890/header.jpg?t=1551886847",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1037890/header.jpg?t=1552524826",
             "website": null,
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong> Intel(R) Core(TM) i5<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> DirectX 9.0c compatible video card with minimum 512MB of VRAM<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 4 GB available space</li></ul>"
@@ -29,7 +29,40 @@
             "publishers": [
                 ""
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 1249,
+                "final": 1249,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "12,49€"
+            },
+            "packages": [
+                345645
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Fire Pro Wrestling World - Fighting Road: 2017 NJPW Junior Heavyweight Championship",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 345645,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Fire Pro Wrestling World - NJPW Junior Heavyweight Championship - 12,49€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 1249
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": false,
@@ -90,34 +123,49 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1037890/ss_424fb3e299e5413b15dc92578bfa7c9aa8143292.600x338.jpg?t=1551886847",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1037890/ss_424fb3e299e5413b15dc92578bfa7c9aa8143292.1920x1080.jpg?t=1551886847"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1037890/ss_424fb3e299e5413b15dc92578bfa7c9aa8143292.600x338.jpg?t=1552524826",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1037890/ss_424fb3e299e5413b15dc92578bfa7c9aa8143292.1920x1080.jpg?t=1552524826"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1037890/ss_c4b57105e7e27733cb4b77d6e7145978adb0d5b7.600x338.jpg?t=1551886847",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1037890/ss_c4b57105e7e27733cb4b77d6e7145978adb0d5b7.1920x1080.jpg?t=1551886847"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1037890/ss_c4b57105e7e27733cb4b77d6e7145978adb0d5b7.600x338.jpg?t=1552524826",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1037890/ss_c4b57105e7e27733cb4b77d6e7145978adb0d5b7.1920x1080.jpg?t=1552524826"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1037890/ss_3aeb98c15ff8f942b321e4f9e2e9c78b302895a2.600x338.jpg?t=1551886847",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1037890/ss_3aeb98c15ff8f942b321e4f9e2e9c78b302895a2.1920x1080.jpg?t=1551886847"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1037890/ss_3aeb98c15ff8f942b321e4f9e2e9c78b302895a2.600x338.jpg?t=1552524826",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1037890/ss_3aeb98c15ff8f942b321e4f9e2e9c78b302895a2.1920x1080.jpg?t=1552524826"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1037890/ss_dff2f6fd1c974c65d60984842ab9e754d2068a8c.600x338.jpg?t=1551886847",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1037890/ss_dff2f6fd1c974c65d60984842ab9e754d2068a8c.1920x1080.jpg?t=1551886847"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1037890/ss_dff2f6fd1c974c65d60984842ab9e754d2068a8c.600x338.jpg?t=1552524826",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1037890/ss_dff2f6fd1c974c65d60984842ab9e754d2068a8c.1920x1080.jpg?t=1552524826"
                 }
             ],
+            "movies": [
+                {
+                    "id": 256745095,
+                    "name": "Release Trailer",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256745095/movie.293x165.jpg?t=1552524822",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256745095/movie480.webm?t=1552524822",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256745095/movie_max.webm?t=1552524822"
+                    },
+                    "highlight": true
+                }
+            ],
+            "achievements": {
+                "total": 0
+            },
             "release_date": {
-                "coming_soon": true,
+                "coming_soon": false,
                 "date": "13 Mar, 2019"
             },
             "support_info": {
                 "url": "support-fpw@spike-chunsoft.co.jp",
                 "email": ""
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1037890/page_bg_generated_v6b.jpg?t=1551886847",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1037890/page_bg_generated_v6b.jpg?t=1552524826",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
