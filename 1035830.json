@@ -11,13 +11,13 @@
             "about_the_game": "An action-puzzler where you try to create patterns to damage the various creatures of the Dracolord's domain. By clicking on the arrow orbs, you initiate chain reactions that add damage to your attack. Larger patterns will place new spells on the board, but there is also the risk of awakening the evil dracostones. Think fast, take chances and find the secret way to the final boss to win the game and end the Dracolord's reign forever!",
             "short_description": "A retro visualized action puzzler where you fight various monsters by connecting magical orbs to create devastating patterns.",
             "supported_languages": "English",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1035830/header.jpg?t=1551403512",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1035830/header.jpg?t=1553067965",
             "website": "http://www.lurksoft.com",
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> windows 7<br></li><li><strong>Processor:</strong> Intel or AMD Dual Core CPU<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD Graphics or AMD (formerly ATI) Radeon HD<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 30 MB available space</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> windows 7<br></li><li><strong>Processor:</strong> Intel or AMD Dual Core CPU<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD Graphics or AMD (formerly ATI) Radeon HD<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 35 MB available space</li></ul>"
             },
             "mac_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> High Sierra 10.13.6<br></li><li><strong>Processor:</strong> 2.5 ghz Intel core i5<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> intel HD Graphics</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> High Sierra 10.13.6<br></li><li><strong>Processor:</strong> 2.5 ghz Intel core i5<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> intel HD Graphics<br></li><li><strong>Storage:</strong> 35 MB available space</li></ul>"
             },
             "linux_requirements": [],
             "developers": [
@@ -26,7 +26,40 @@
             "publishers": [
                 "Lurksoft Studio"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 499,
+                "final": 499,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "4,99€"
+            },
+            "packages": [
+                344774
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Dracologic",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 344774,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Dracologic - 4,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 499
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": true,
@@ -40,10 +73,6 @@
             ],
             "genres": [
                 {
-                    "id": "1",
-                    "description": "Action"
-                },
-                {
                     "id": "4",
                     "description": "Casual"
                 },
@@ -55,28 +84,28 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1035830/ss_1e174a137f9b8adc8754d57c8486ec56564665b4.600x338.jpg?t=1551403512",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1035830/ss_1e174a137f9b8adc8754d57c8486ec56564665b4.1920x1080.jpg?t=1551403512"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1035830/ss_1e174a137f9b8adc8754d57c8486ec56564665b4.600x338.jpg?t=1553067965",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1035830/ss_1e174a137f9b8adc8754d57c8486ec56564665b4.1920x1080.jpg?t=1553067965"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1035830/ss_8430ac473f9798a16eafc7b374a8d6f831ca3951.600x338.jpg?t=1551403512",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1035830/ss_8430ac473f9798a16eafc7b374a8d6f831ca3951.1920x1080.jpg?t=1551403512"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1035830/ss_8430ac473f9798a16eafc7b374a8d6f831ca3951.600x338.jpg?t=1553067965",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1035830/ss_8430ac473f9798a16eafc7b374a8d6f831ca3951.1920x1080.jpg?t=1553067965"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1035830/ss_da5ebb65e1c8fd1ef5880c1fdbb98f6fa37af43b.600x338.jpg?t=1551403512",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1035830/ss_da5ebb65e1c8fd1ef5880c1fdbb98f6fa37af43b.1920x1080.jpg?t=1551403512"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1035830/ss_da5ebb65e1c8fd1ef5880c1fdbb98f6fa37af43b.600x338.jpg?t=1553067965",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1035830/ss_da5ebb65e1c8fd1ef5880c1fdbb98f6fa37af43b.1920x1080.jpg?t=1553067965"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1035830/ss_46a65edaaa1fb27dc55fd232f8719f9b7b574163.600x338.jpg?t=1551403512",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1035830/ss_46a65edaaa1fb27dc55fd232f8719f9b7b574163.1920x1080.jpg?t=1551403512"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1035830/ss_46a65edaaa1fb27dc55fd232f8719f9b7b574163.600x338.jpg?t=1553067965",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1035830/ss_46a65edaaa1fb27dc55fd232f8719f9b7b574163.1920x1080.jpg?t=1553067965"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1035830/ss_703d2d34ce890afef6ac58cd52a129a84ad60ab9.600x338.jpg?t=1551403512",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1035830/ss_703d2d34ce890afef6ac58cd52a129a84ad60ab9.1920x1080.jpg?t=1551403512"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1035830/ss_703d2d34ce890afef6ac58cd52a129a84ad60ab9.600x338.jpg?t=1553067965",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1035830/ss_703d2d34ce890afef6ac58cd52a129a84ad60ab9.1920x1080.jpg?t=1553067965"
                 }
             ],
             "movies": [
@@ -92,14 +121,14 @@
                 }
             ],
             "release_date": {
-                "coming_soon": true,
+                "coming_soon": false,
                 "date": "20 Mar, 2019"
             },
             "support_info": {
                 "url": "",
                 "email": "admin@lurksoft.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1035830/page_bg_generated_v6b.jpg?t=1551403512",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1035830/page_bg_generated_v6b.jpg?t=1553067965",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
