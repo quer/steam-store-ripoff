@@ -35,10 +35,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 1999,
-                "final": 1999,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "19,99€"
+                "final": 679,
+                "discount_percent": 66,
+                "initial_formatted": "19,99€",
+                "final_formatted": "6,79€"
             },
             "packages": [
                 30225,
@@ -56,23 +56,23 @@
                     "subs": [
                         {
                             "packageid": 30225,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-66%",
                             "percent_savings": 0,
-                            "option_text": "Tom Clancy's Splinter Cell Blacklist Standard Edition - 19,99€",
+                            "option_text": "Tom Clancy's Splinter Cell Blacklist Standard Edition - <span class=\"discount_original_price\">19,99€</span> 6,79€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1999
+                            "price_in_cents_with_discount": 679
                         },
                         {
                             "packageid": 30265,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-66%",
                             "percent_savings": 0,
-                            "option_text": "Tom Clancy's Splinter Cell Blacklist Deluxe Edition - 29,99€",
+                            "option_text": "Tom Clancy's Splinter Cell Blacklist Deluxe Edition - <span class=\"discount_original_price\">29,99€</span> 10,19€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 2999
+                            "price_in_cents_with_discount": 1019
                         }
                     ]
                 }
@@ -271,7 +271,7 @@
                 }
             ],
             "recommendations": {
-                "total": 10146
+                "total": 10168
             },
             "achievements": {
                 "total": 0
