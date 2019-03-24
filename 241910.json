@@ -43,11 +43,11 @@
             ],
             "price_overview": {
                 "currency": "EUR",
-                "initial": 1999,
-                "final": 199,
+                "initial": 12099,
+                "final": 1209,
                 "discount_percent": 90,
-                "initial_formatted": "19,99€",
-                "final_formatted": "1,99€"
+                "initial_formatted": "120,99€",
+                "final_formatted": "12,09€"
             },
             "packages": [
                 32571,
@@ -66,33 +66,33 @@
                     "subs": [
                         {
                             "packageid": 32571,
-                            "percent_savings_text": "-90%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Goodbye Deponia - <span class=\"discount_original_price\">19,99€</span> 1,99€",
+                            "option_text": "Goodbye Deponia - 19,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 199
+                            "price_in_cents_with_discount": 1999
                         },
                         {
                             "packageid": 29783,
-                            "percent_savings_text": "-90%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Goodbye Deponia Premium - <span class=\"discount_original_price\">24,99€</span> 2,49€",
+                            "option_text": "Goodbye Deponia Premium - 24,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 249
+                            "price_in_cents_with_discount": 2499
                         },
                         {
                             "packageid": 55062,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-90%",
                             "percent_savings": 0,
-                            "option_text": "The Daedalic Armageddon Bundle - 120,99€",
+                            "option_text": "The Daedalic Armageddon Bundle - <span class=\"discount_original_price\">120,99€</span> 12,09€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 12099
+                            "price_in_cents_with_discount": 1209
                         }
                     ]
                 }
@@ -234,7 +234,7 @@
                 }
             ],
             "recommendations": {
-                "total": 1155
+                "total": 1158
             },
             "achievements": {
                 "total": 50,
