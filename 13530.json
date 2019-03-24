@@ -28,10 +28,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 999,
-                "final": 999,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "9,99€"
+                "final": 339,
+                "discount_percent": 66,
+                "initial_formatted": "9,99€",
+                "final_formatted": "3,39€"
             },
             "packages": [
                 1181
@@ -48,13 +48,13 @@
                     "subs": [
                         {
                             "packageid": 1181,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-66%",
                             "percent_savings": 0,
-                            "option_text": "Prince of Persia The Two Thrones™ - 9,99€",
+                            "option_text": "Prince of Persia The Two Thrones™ - <span class=\"discount_original_price\">9,99€</span> 3,39€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 999
+                            "price_in_cents_with_discount": 339
                         }
                     ]
                 }
@@ -116,7 +116,7 @@
                 }
             ],
             "recommendations": {
-                "total": 416
+                "total": 420
             },
             "achievements": {
                 "total": 0
