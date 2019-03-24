@@ -31,10 +31,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 4199,
-                "final": 3779,
-                "discount_percent": 10,
-                "initial_formatted": "41,99€",
-                "final_formatted": "37,79€"
+                "final": 4199,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "41,99€"
             },
             "packages": [
                 350004
@@ -51,13 +51,13 @@
                     "subs": [
                         {
                             "packageid": 350004,
-                            "percent_savings_text": "-10%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Artist Idle -  Business Pack - <span class=\"discount_original_price\">41,99€</span> 37,79€",
+                            "option_text": "Artist Idle -  Business Pack - 41,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 3779
+                            "price_in_cents_with_discount": 4199
                         }
                     ]
                 }
