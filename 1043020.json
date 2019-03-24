@@ -11,7 +11,7 @@
             "about_the_game": "Racing game in the vast desert. Freeride, race and tour modes are available. In race mode, you are competing with several opponents where the victory will get only the first at the finish. Explore 16 square kilometers in free ride mode. Or just enjoy the scenery at the passenger seat. In the game there are several different types of vehicles. Who comes first to the finish in this long grueling dusty race depends on you.",
             "short_description": "Who comes first to the finish in this long grueling dusty race depends on you.",
             "supported_languages": "English",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1043020/header.jpg?t=1551891091",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1043020/header.jpg?t=1552979950",
             "website": null,
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 x64<br></li><li><strong>Processor:</strong> Quad Core CPU<br></li><li><strong>Memory:</strong> 2048 MB RAM<br></li><li><strong>Graphics:</strong> Geforce GTX560 or better<br></li><li><strong>Storage:</strong> 410 MB available space</li></ul>"
@@ -24,7 +24,40 @@
             "publishers": [
                 "SelenaJ"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 159,
+                "final": 95,
+                "discount_percent": 40,
+                "initial_formatted": "1,59€",
+                "final_formatted": "0,95€"
+            },
+            "packages": [
+                347524
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Dust On Wheels",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 347524,
+                            "percent_savings_text": "-40%",
+                            "percent_savings": 0,
+                            "option_text": "Dust On Wheels - <span class=\"discount_original_price\">1,59€</span> 0,95€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 95
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": false,
@@ -49,33 +82,33 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1043020/ss_1989aabff10fdbbf697a77d76b61773b832f2c92.600x338.jpg?t=1551891091",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1043020/ss_1989aabff10fdbbf697a77d76b61773b832f2c92.1920x1080.jpg?t=1551891091"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1043020/ss_1989aabff10fdbbf697a77d76b61773b832f2c92.600x338.jpg?t=1552979950",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1043020/ss_1989aabff10fdbbf697a77d76b61773b832f2c92.1920x1080.jpg?t=1552979950"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1043020/ss_1f1dfb9848bb312527b4c17b719bc8f5ef8f8ff0.600x338.jpg?t=1551891091",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1043020/ss_1f1dfb9848bb312527b4c17b719bc8f5ef8f8ff0.1920x1080.jpg?t=1551891091"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1043020/ss_1f1dfb9848bb312527b4c17b719bc8f5ef8f8ff0.600x338.jpg?t=1552979950",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1043020/ss_1f1dfb9848bb312527b4c17b719bc8f5ef8f8ff0.1920x1080.jpg?t=1552979950"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1043020/ss_33621b17ce1671ace768493a17dd183debdf59ce.600x338.jpg?t=1551891091",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1043020/ss_33621b17ce1671ace768493a17dd183debdf59ce.1920x1080.jpg?t=1551891091"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1043020/ss_33621b17ce1671ace768493a17dd183debdf59ce.600x338.jpg?t=1552979950",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1043020/ss_33621b17ce1671ace768493a17dd183debdf59ce.1920x1080.jpg?t=1552979950"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1043020/ss_e9e1bd2ce0cae64e993c9f22ba47ad4313fda9e1.600x338.jpg?t=1551891091",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1043020/ss_e9e1bd2ce0cae64e993c9f22ba47ad4313fda9e1.1920x1080.jpg?t=1551891091"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1043020/ss_e9e1bd2ce0cae64e993c9f22ba47ad4313fda9e1.600x338.jpg?t=1552979950",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1043020/ss_e9e1bd2ce0cae64e993c9f22ba47ad4313fda9e1.1920x1080.jpg?t=1552979950"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1043020/ss_7e5841b9be83f19a9c53830ebf47899635660f4c.600x338.jpg?t=1551891091",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1043020/ss_7e5841b9be83f19a9c53830ebf47899635660f4c.1920x1080.jpg?t=1551891091"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1043020/ss_7e5841b9be83f19a9c53830ebf47899635660f4c.600x338.jpg?t=1552979950",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1043020/ss_7e5841b9be83f19a9c53830ebf47899635660f4c.1920x1080.jpg?t=1552979950"
                 },
                 {
                     "id": 5,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1043020/ss_16ea8ad95aaf30b63bb181b8d628e96bb43a01ec.600x338.jpg?t=1551891091",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1043020/ss_16ea8ad95aaf30b63bb181b8d628e96bb43a01ec.1920x1080.jpg?t=1551891091"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1043020/ss_16ea8ad95aaf30b63bb181b8d628e96bb43a01ec.600x338.jpg?t=1552979950",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1043020/ss_16ea8ad95aaf30b63bb181b8d628e96bb43a01ec.1920x1080.jpg?t=1552979950"
                 }
             ],
             "movies": [
@@ -91,14 +124,14 @@
                 }
             ],
             "release_date": {
-                "coming_soon": true,
+                "coming_soon": false,
                 "date": "19 Mar, 2019"
             },
             "support_info": {
                 "url": "",
                 "email": "SelenaJ@gmail.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1043020/page_bg_generated_v6b.jpg?t=1551891091",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1043020/page_bg_generated_v6b.jpg?t=1552979950",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
