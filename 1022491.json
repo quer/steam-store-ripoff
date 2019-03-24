@@ -8,15 +8,15 @@
             "required_age": 0,
             "is_free": false,
             "controller_support": "full",
-            "detailed_description": "Allows Golbez to equip the following appearances.<br />\r\n- Golbez Reimagined I<br />\r\n- Golbez Reimagined II<br />\r\n- Golbez Reimagined III<br />\r\n<br />\r\n*You must first download DISSIDIA FINAL FANTASY NT Free Edition, Standard Edition or Deluxe Edition (available to purchase seperately) before you can use this content.    <br />\r\n* You must first purchase the character Starter Pack above before you can use this content.",
-            "about_the_game": "Allows Golbez to equip the following appearances.<br />\r\n- Golbez Reimagined I<br />\r\n- Golbez Reimagined II<br />\r\n- Golbez Reimagined III<br />\r\n<br />\r\n*You must first download DISSIDIA FINAL FANTASY NT Free Edition, Standard Edition or Deluxe Edition (available to purchase seperately) before you can use this content.    <br />\r\n* You must first purchase the character Starter Pack above before you can use this content.",
+            "detailed_description": "Allows Golbez to equip the following appearances.<br />\r\n- Golbez Reimagined I<br />\r\n- Golbez Reimagined II<br />\r\n- Golbez Reimagined III<br />\r\n<br />\r\n*You must first download DISSIDIA FINAL FANTASY NT Free Edition, Standard Edition or Deluxe Edition (available to purchase separately) before you can use this content.<br />\r\n*You must first purchase the character Starter Pack before you can use this content.",
+            "about_the_game": "Allows Golbez to equip the following appearances.<br />\r\n- Golbez Reimagined I<br />\r\n- Golbez Reimagined II<br />\r\n- Golbez Reimagined III<br />\r\n<br />\r\n*You must first download DISSIDIA FINAL FANTASY NT Free Edition, Standard Edition or Deluxe Edition (available to purchase separately) before you can use this content.<br />\r\n*You must first purchase the character Starter Pack before you can use this content.",
             "short_description": "Golbez Reimagined Appearance Set for Golbez",
             "fullgame": {
                 "appid": "921590",
                 "name": "DISSIDIA FINAL FANTASY NT Free Edition"
             },
             "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Japanese<strong>*</strong>, Korean, Traditional Chinese<br><strong>*</strong>languages with full audio support",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1022491/header.jpg?t=1552412480",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1022491/header.jpg?t=1553280309",
             "website": "https://dissidiafinalfantasynt.square-enix-games.com/",
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows® 10 64-bit<br></li><li><strong>Processor:</strong> Intel® Core™ i5-2550 or AMD FX-6300<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Radeon™ RX 460 or NVIDIA® GeForce® GTX 1050<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 35 GB available space<br></li><li><strong>Additional Notes:</strong> 60 FPS at 1280x720 Low settings</li></ul>",
@@ -41,7 +41,9 @@
                 "final_formatted": "2,99€"
             },
             "packages": [
-                339443
+                339443,
+                346804,
+                346805
             ],
             "package_groups": [
                 {
@@ -62,6 +64,26 @@
                             "can_get_free_license": "0",
                             "is_free_license": false,
                             "price_in_cents_with_discount": 299
+                        },
+                        {
+                            "packageid": 346804,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "DISSIDIA FINAL FANTASY NT Standard Edition - 29,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 2999
+                        },
+                        {
+                            "packageid": 346805,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "DISSIDIA FINAL FANTASY NT Deluxe Edition - 44,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 4499
                         }
                     ]
                 }
@@ -122,8 +144,8 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1022491/ss_54c915b28658974eded4d371ef2ebac86890da57.600x338.jpg?t=1552412480",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1022491/ss_54c915b28658974eded4d371ef2ebac86890da57.1920x1080.jpg?t=1552412480"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1022491/ss_54c915b28658974eded4d371ef2ebac86890da57.600x338.jpg?t=1553280309",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1022491/ss_54c915b28658974eded4d371ef2ebac86890da57.1920x1080.jpg?t=1553280309"
                 }
             ],
             "achievements": {
@@ -137,7 +159,7 @@
                 "url": "https://sqex.to/steamsupport",
                 "email": ""
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1022491/page_bg_generated_v6b.jpg?t=1552412480",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1022491/page_bg_generated_v6b.jpg?t=1553280309",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
