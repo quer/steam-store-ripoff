@@ -3,15 +3,15 @@
         "success": true,
         "data": {
             "type": "game",
-            "name": "uuu ska so smislom",
+            "name": "uuu so smislom",
             "steam_appid": 1018420,
             "required_age": 0,
             "is_free": false,
             "detailed_description": "How to Play?<br />\r\n- The goal is to drop blocks in order to create and destroy full lines on the screen both vertically and horizontally. Don't forget to keep the blocks from filling the screen.<br />\r\n- No time limit, no color match! Fill all the grids with the matching blocks and enjoy uuu ska so smislom! is a simple!<br />\r\nFeatures :<br />\r\n- 5 Different game modes.<br />\r\n- Two game themes, dark &amp; light.",
             "about_the_game": "How to Play?<br />\r\n- The goal is to drop blocks in order to create and destroy full lines on the screen both vertically and horizontally. Don't forget to keep the blocks from filling the screen.<br />\r\n- No time limit, no color match! Fill all the grids with the matching blocks and enjoy uuu ska so smislom! is a simple!<br />\r\nFeatures :<br />\r\n- 5 Different game modes.<br />\r\n- Two game themes, dark &amp; light.",
-            "short_description": "uuu ska so smislom! is a simple yet challenging and addictive game. It can be played within few seconds anytime to refresh your mind. Create your own block puzzle game with this template within few minutes.",
+            "short_description": "uuu so smislom! is a simple yet challenging and addictive game. It can be played within few seconds anytime to refresh your mind. Create your own block puzzle game with this template within few minutes.",
             "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1018420/header.jpg?t=1552152045",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1018420/header.jpg?t=1553270142",
             "website": null,
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows xp sp2<br></li><li><strong>Processor:</strong> Pentium® 4 1.5 GHz / Athlon® XP<br></li><li><strong>Memory:</strong> 100 MB RAM<br></li><li><strong>Graphics:</strong> GeForce 210 590Mhz<br></li><li><strong>DirectX:</strong> Version 5.2<br></li><li><strong>Storage:</strong> 300 MB available space</li></ul>",
@@ -25,7 +25,40 @@
             "publishers": [
                 "Game for people"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 79,
+                "final": 47,
+                "discount_percent": 41,
+                "initial_formatted": "0,79€",
+                "final_formatted": "0,47€"
+            },
+            "packages": [
+                337608
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy uuu so smislom",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 337608,
+                            "percent_savings_text": "-41%",
+                            "percent_savings": 0,
+                            "option_text": "uuu ska so smislom - <span class=\"discount_original_price\">0,79€</span> 0,47€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 47
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": false,
@@ -54,39 +87,96 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1018420/ss_4d77b3e930fb7e9a9d177294790b46e3913bf761.600x338.jpg?t=1552152045",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1018420/ss_4d77b3e930fb7e9a9d177294790b46e3913bf761.1920x1080.jpg?t=1552152045"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1018420/ss_c3226dc396f2475bb9ae70eca1610bb8cadaff21.600x338.jpg?t=1553270142",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1018420/ss_c3226dc396f2475bb9ae70eca1610bb8cadaff21.1920x1080.jpg?t=1553270142"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1018420/ss_3096cf0302031c28214f3ca654fb4670c126df48.600x338.jpg?t=1552152045",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1018420/ss_3096cf0302031c28214f3ca654fb4670c126df48.1920x1080.jpg?t=1552152045"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1018420/ss_7d6f2504f1d317ef7e8c15159013610950601621.600x338.jpg?t=1553270142",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1018420/ss_7d6f2504f1d317ef7e8c15159013610950601621.1920x1080.jpg?t=1553270142"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1018420/ss_f30abdfa795665e51651d5352378773d75463f0a.600x338.jpg?t=1552152045",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1018420/ss_f30abdfa795665e51651d5352378773d75463f0a.1920x1080.jpg?t=1552152045"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1018420/ss_344fdf194084d73fa3f3a6962e757c4481dd7ed9.600x338.jpg?t=1553270142",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1018420/ss_344fdf194084d73fa3f3a6962e757c4481dd7ed9.1920x1080.jpg?t=1553270142"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1018420/ss_57190b8b3c74edc0f678a0b10eb99ab3984599d7.600x338.jpg?t=1552152045",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1018420/ss_57190b8b3c74edc0f678a0b10eb99ab3984599d7.1920x1080.jpg?t=1552152045"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1018420/ss_b7416c8c9d9bb0762fa7810ae6478d76431ccf07.600x338.jpg?t=1553270142",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1018420/ss_b7416c8c9d9bb0762fa7810ae6478d76431ccf07.1920x1080.jpg?t=1553270142"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1018420/ss_95eae3b6c90b0c47573c3fa6952d7c29f8d802c0.600x338.jpg?t=1552152045",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1018420/ss_95eae3b6c90b0c47573c3fa6952d7c29f8d802c0.1920x1080.jpg?t=1552152045"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1018420/ss_b2a0cb04ca3ffca7500344d44ed8db85d73843d0.600x338.jpg?t=1553270142",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1018420/ss_b2a0cb04ca3ffca7500344d44ed8db85d73843d0.1920x1080.jpg?t=1553270142"
                 }
             ],
+            "movies": [
+                {
+                    "id": 256745513,
+                    "name": "uuu so smislom",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256745513/movie.293x165.jpg?t=1552750626",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256745513/movie480.webm?t=1552750626",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256745513/movie_max.webm?t=1552750626"
+                    },
+                    "highlight": true
+                }
+            ],
+            "achievements": {
+                "total": 61,
+                "highlighted": [
+                    {
+                        "name": "ууу со",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1018420/72939bd8a78d96ef682a3c1a0ab9dc67ee095d92.jpg"
+                    },
+                    {
+                        "name": "Всмысле?",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1018420/2f198bcc35aa142ba9a944ed193f2199bbe1863c.jpg"
+                    },
+                    {
+                        "name": "Смысол есть ",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1018420/47087e328a0203cfd5b78e3cdd6f48262a9d56fa.jpg"
+                    },
+                    {
+                        "name": "Бессмысленно",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1018420/49cd7a2f1d728e6767967645d874daafec1cb06e.jpg"
+                    },
+                    {
+                        "name": "бессмысленный смысл",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1018420/be23033ecbb4e429140fd8de3ccbc154affc2abe.jpg"
+                    },
+                    {
+                        "name": "меня переполняет смысол ",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1018420/af370b97e98717cdaaeb4cfea131c74c9d673cd8.jpg"
+                    },
+                    {
+                        "name": "просто чилл",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1018420/9f94d4eb0152e78bae520931e3e57102b65c9820.jpg"
+                    },
+                    {
+                        "name": "Жизнь без смысла имеет ли смысл?",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1018420/28ff3c7be716095c384f7ca5fb7d36e7f29ed153.jpg"
+                    },
+                    {
+                        "name": "Community Achievement",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1018420/c4967251f3ce0009e418cc710b54f74e4206a8cb.jpg"
+                    },
+                    {
+                        "name": "Community Achievement",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1018420/c4967251f3ce0009e418cc710b54f74e4206a8cb.jpg"
+                    }
+                ]
+            },
             "release_date": {
-                "coming_soon": true,
+                "coming_soon": false,
                 "date": "22 Mar, 2019"
             },
             "support_info": {
                 "url": "",
                 "email": "antohanowikow@yandex.ru"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1018420/page_bg_generated_v6b.jpg?t=1552152045",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1018420/page_bg_generated_v6b.jpg?t=1553270142",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
