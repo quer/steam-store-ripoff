@@ -15,7 +15,7 @@
                 "name": "Wall Street Tycoon"
             },
             "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1036180/header.jpg?t=1552093757",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1036180/header.jpg?t=1552576139",
             "website": "https://redfox.games/",
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7/8/10<br></li><li><strong>Processor:</strong> 2.0 GHz Dual core<br></li><li><strong>Memory:</strong> 2 MB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GT210 or ATI HD 7730<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
@@ -28,7 +28,40 @@
             "publishers": [
                 ""
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 819,
+                "final": 819,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "8,19€"
+            },
+            "packages": [
+                344957
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Wall Street Tycoon - Supporter Bundle",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 344957,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Supporter Bundle - 8,19€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 819
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": false,
@@ -65,28 +98,28 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1036180/ss_76dfaf5ddc3350cfd5606a1b0427f3f1047d0f7c.600x338.jpg?t=1552093757",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1036180/ss_76dfaf5ddc3350cfd5606a1b0427f3f1047d0f7c.1920x1080.jpg?t=1552093757"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1036180/ss_76dfaf5ddc3350cfd5606a1b0427f3f1047d0f7c.600x338.jpg?t=1552576139",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1036180/ss_76dfaf5ddc3350cfd5606a1b0427f3f1047d0f7c.1920x1080.jpg?t=1552576139"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1036180/ss_5c7979ee6fe10101df78a27f23ab9fe3970b575d.600x338.jpg?t=1552093757",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1036180/ss_5c7979ee6fe10101df78a27f23ab9fe3970b575d.1920x1080.jpg?t=1552093757"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1036180/ss_9297490800bf15af1ee8216dc05f9a60489246e5.600x338.jpg?t=1552576139",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1036180/ss_9297490800bf15af1ee8216dc05f9a60489246e5.1920x1080.jpg?t=1552576139"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1036180/ss_f237e912c20ad65c49aaff87b8e7dbac72af90f7.600x338.jpg?t=1552093757",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1036180/ss_f237e912c20ad65c49aaff87b8e7dbac72af90f7.1920x1080.jpg?t=1552093757"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1036180/ss_52c8924dbdf50718f2b493348711d8d92359c05e.600x338.jpg?t=1552576139",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1036180/ss_52c8924dbdf50718f2b493348711d8d92359c05e.1920x1080.jpg?t=1552576139"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1036180/ss_8170d027d5769b36b531797a5aca8875cbf240bd.600x338.jpg?t=1552093757",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1036180/ss_8170d027d5769b36b531797a5aca8875cbf240bd.1920x1080.jpg?t=1552093757"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1036180/ss_8170d027d5769b36b531797a5aca8875cbf240bd.600x338.jpg?t=1552576139",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1036180/ss_8170d027d5769b36b531797a5aca8875cbf240bd.1920x1080.jpg?t=1552576139"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1036180/ss_31d56c88d225a4f365856f82e3c314034d3bc5e6.600x338.jpg?t=1552093757",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1036180/ss_31d56c88d225a4f365856f82e3c314034d3bc5e6.1920x1080.jpg?t=1552093757"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1036180/ss_31d56c88d225a4f365856f82e3c314034d3bc5e6.600x338.jpg?t=1552576139",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1036180/ss_31d56c88d225a4f365856f82e3c314034d3bc5e6.1920x1080.jpg?t=1552576139"
                 }
             ],
             "movies": [
@@ -102,14 +135,14 @@
                 }
             ],
             "release_date": {
-                "coming_soon": true,
-                "date": "12 Mar, 2019"
+                "coming_soon": false,
+                "date": "14 Mar, 2019"
             },
             "support_info": {
                 "url": "https://redfox.games/forums",
                 "email": "redfoxgamestudios@gmail.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1036180/page_bg_generated_v6b.jpg?t=1552093757",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1036180/page_bg_generated_v6b.jpg?t=1552576139",
             "content_descriptors": {
                 "ids": [],
                 "notes": null

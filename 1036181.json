@@ -7,15 +7,15 @@
             "steam_appid": 1036181,
             "required_age": 0,
             "is_free": false,
-            "detailed_description": "<h2 class=\"bb_tag\">Add a Custom Character</h2>The <strong>Super Supporter</strong> bundle includes the ability for you to add a custom character to the game. You provide the name and details for a character based on anyone(real, fictional, it's up to you) and we will create a portrait and add your character to the game! <strong>Nothing lewd or copyrighted. We can veto your character if needed</strong><h2 class=\"bb_tag\">Additional Content</h2>With the supporter additions come extra content!! We have more characters, more items, an extra department and more to come! Don't buy this package just for the content alone, it's mostly about supporting us so we can continue making games. Thanks :)<h2 class=\"bb_tag\">Buy a developer a pizza</h2>For the price of a pizza you can directly support our studio. We have big plans for our next game, and that means we need money so we can spend more time making games! We decided to make Wall Street Tycoon free so everyone can play it, but our studio needs some love so we can pay bills and buy groceries as we continue the journey to making great games. Purchasing this package will help make that dream possible. <strong>THANK YOU</strong> for your support.",
-            "about_the_game": "<h2 class=\"bb_tag\">Add a Custom Character</h2>The <strong>Super Supporter</strong> bundle includes the ability for you to add a custom character to the game. You provide the name and details for a character based on anyone(real, fictional, it's up to you) and we will create a portrait and add your character to the game! <strong>Nothing lewd or copyrighted. We can veto your character if needed</strong><h2 class=\"bb_tag\">Additional Content</h2>With the supporter additions come extra content!! We have more characters, more items, an extra department and more to come! Don't buy this package just for the content alone, it's mostly about supporting us so we can continue making games. Thanks :)<h2 class=\"bb_tag\">Buy a developer a pizza</h2>For the price of a pizza you can directly support our studio. We have big plans for our next game, and that means we need money so we can spend more time making games! We decided to make Wall Street Tycoon free so everyone can play it, but our studio needs some love so we can pay bills and buy groceries as we continue the journey to making great games. Purchasing this package will help make that dream possible. <strong>THANK YOU</strong> for your support.",
+            "detailed_description": "<h2 class=\"bb_tag\">Add a Custom Character</h2>The <strong>Super Supporter</strong> bundle includes the ability for you to add a custom character to the game. You provide the name and details for a character based on anyone(real, fictional, it's up to you) and we will create a portrait and add your character to the game! <strong>Nothing too inappropriate or copyrighted. We can veto your character if needed</strong><h2 class=\"bb_tag\">Additional Content</h2>With the supporter additions come extra content!! We have more characters, more items, an extra department and more to come! Don't buy this package just for the content alone, it's mostly about supporting us so we can continue making games. Thanks :)<h2 class=\"bb_tag\">Buy a developer a pizza</h2>For the price of a pizza you can directly support our studio. We have big plans for our next game, and that means we need money so we can spend more time making games! We decided to make Wall Street Tycoon free so everyone can play it, but our studio needs some love so we can pay bills as we continue our journey towards making amazing games. Purchasing this package will help make that dream possible. <strong>THANK YOU</strong> for your support.",
+            "about_the_game": "<h2 class=\"bb_tag\">Add a Custom Character</h2>The <strong>Super Supporter</strong> bundle includes the ability for you to add a custom character to the game. You provide the name and details for a character based on anyone(real, fictional, it's up to you) and we will create a portrait and add your character to the game! <strong>Nothing too inappropriate or copyrighted. We can veto your character if needed</strong><h2 class=\"bb_tag\">Additional Content</h2>With the supporter additions come extra content!! We have more characters, more items, an extra department and more to come! Don't buy this package just for the content alone, it's mostly about supporting us so we can continue making games. Thanks :)<h2 class=\"bb_tag\">Buy a developer a pizza</h2>For the price of a pizza you can directly support our studio. We have big plans for our next game, and that means we need money so we can spend more time making games! We decided to make Wall Street Tycoon free so everyone can play it, but our studio needs some love so we can pay bills as we continue our journey towards making amazing games. Purchasing this package will help make that dream possible. <strong>THANK YOU</strong> for your support.",
             "short_description": "We decided to make WST free so the maximum amount of people get to enjoy it, but our studio needs some love so we can pay bills and buy groceries as we continue to make games. Please support us and our dream of making games for a living! Thank you.",
             "fullgame": {
                 "appid": "985710",
                 "name": "Wall Street Tycoon"
             },
             "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1036181/header.jpg?t=1552322046",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1036181/header.jpg?t=1552576256",
             "website": "https://redfox.games/",
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7/8/10<br></li><li><strong>Processor:</strong> 2.0 GHz Dual core<br></li><li><strong>Memory:</strong> 2 MB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GT210 or ATI HD 7730<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
@@ -28,7 +28,40 @@
             "publishers": [
                 ""
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 1249,
+                "final": 1249,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "12,49€"
+            },
+            "packages": [
+                344960
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Wall Street Tycoon - Super Supporter Bundle",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 344960,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Super Supporter Bundle - 12,49€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 1249
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": false,
@@ -65,33 +98,33 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1036181/ss_dfb2a88251b9fc13cede48664d38928df6ba5a37.600x338.jpg?t=1552322046",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1036181/ss_dfb2a88251b9fc13cede48664d38928df6ba5a37.1920x1080.jpg?t=1552322046"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1036181/ss_dfb2a88251b9fc13cede48664d38928df6ba5a37.600x338.jpg?t=1552576256",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1036181/ss_dfb2a88251b9fc13cede48664d38928df6ba5a37.1920x1080.jpg?t=1552576256"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1036181/ss_2a4120c36567481a1ec6775189ae0bb1b5af2834.600x338.jpg?t=1552322046",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1036181/ss_2a4120c36567481a1ec6775189ae0bb1b5af2834.1920x1080.jpg?t=1552322046"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1036181/ss_2a4120c36567481a1ec6775189ae0bb1b5af2834.600x338.jpg?t=1552576256",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1036181/ss_2a4120c36567481a1ec6775189ae0bb1b5af2834.1920x1080.jpg?t=1552576256"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1036181/ss_f237e912c20ad65c49aaff87b8e7dbac72af90f7.600x338.jpg?t=1552322046",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1036181/ss_f237e912c20ad65c49aaff87b8e7dbac72af90f7.1920x1080.jpg?t=1552322046"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1036181/ss_9297490800bf15af1ee8216dc05f9a60489246e5.600x338.jpg?t=1552576256",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1036181/ss_9297490800bf15af1ee8216dc05f9a60489246e5.1920x1080.jpg?t=1552576256"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1036181/ss_5c7979ee6fe10101df78a27f23ab9fe3970b575d.600x338.jpg?t=1552322046",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1036181/ss_5c7979ee6fe10101df78a27f23ab9fe3970b575d.1920x1080.jpg?t=1552322046"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1036181/ss_52c8924dbdf50718f2b493348711d8d92359c05e.600x338.jpg?t=1552576256",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1036181/ss_52c8924dbdf50718f2b493348711d8d92359c05e.1920x1080.jpg?t=1552576256"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1036181/ss_8170d027d5769b36b531797a5aca8875cbf240bd.600x338.jpg?t=1552322046",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1036181/ss_8170d027d5769b36b531797a5aca8875cbf240bd.1920x1080.jpg?t=1552322046"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1036181/ss_8170d027d5769b36b531797a5aca8875cbf240bd.600x338.jpg?t=1552576256",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1036181/ss_8170d027d5769b36b531797a5aca8875cbf240bd.1920x1080.jpg?t=1552576256"
                 },
                 {
                     "id": 5,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1036181/ss_31d56c88d225a4f365856f82e3c314034d3bc5e6.600x338.jpg?t=1552322046",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1036181/ss_31d56c88d225a4f365856f82e3c314034d3bc5e6.1920x1080.jpg?t=1552322046"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1036181/ss_31d56c88d225a4f365856f82e3c314034d3bc5e6.600x338.jpg?t=1552576256",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1036181/ss_31d56c88d225a4f365856f82e3c314034d3bc5e6.1920x1080.jpg?t=1552576256"
                 }
             ],
             "movies": [
@@ -107,14 +140,14 @@
                 }
             ],
             "release_date": {
-                "coming_soon": true,
+                "coming_soon": false,
                 "date": "14 Mar, 2019"
             },
             "support_info": {
                 "url": "https://redfox.games/forums",
                 "email": "redfoxgamestudios@gmail.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1036181/page_bg_generated_v6b.jpg?t=1552322046",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1036181/page_bg_generated_v6b.jpg?t=1552576256",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
