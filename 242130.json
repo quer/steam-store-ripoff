@@ -30,10 +30,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 2299,
-                "final": 2299,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "22,99€"
+                "final": 413,
+                "discount_percent": 82,
+                "initial_formatted": "22,99€",
+                "final_formatted": "4,13€"
             },
             "packages": [
                 48994
@@ -50,13 +50,13 @@
                     "subs": [
                         {
                             "packageid": 48994,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-82%",
                             "percent_savings": 0,
-                            "option_text": "Vector Thrust - 22,99€",
+                            "option_text": "Vector Thrust - <span class=\"discount_original_price\">22,99€</span> 4,13€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 2299
+                            "price_in_cents_with_discount": 413
                         }
                     ]
                 }
@@ -219,7 +219,7 @@
                 }
             ],
             "recommendations": {
-                "total": 469
+                "total": 470
             },
             "achievements": {
                 "total": 129,
