@@ -36,10 +36,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 299,
-                "final": 299,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "2,99€"
+                "final": 179,
+                "discount_percent": 40,
+                "initial_formatted": "2,99€",
+                "final_formatted": "1,79€"
             },
             "packages": [
                 29926
@@ -56,13 +56,13 @@
                     "subs": [
                         {
                             "packageid": 29926,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-40%",
                             "percent_savings": 0,
-                            "option_text": "Rocksmith 2014 - Queens Of The Stone Age - “My God Is The Sun” - 2,99€",
+                            "option_text": "Rocksmith 2014 - Queens Of The Stone Age - “My God Is The Sun” - <span class=\"discount_original_price\">2,99€</span> 1,79€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 299
+                            "price_in_cents_with_discount": 179
                         }
                     ]
                 }
