@@ -38,10 +38,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 78,
-                "final": 70,
-                "discount_percent": 10,
-                "initial_formatted": "0,78€",
-                "final_formatted": "0,70€"
+                "final": 78,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "0,78€"
             },
             "packages": [
                 348558
@@ -58,13 +58,13 @@
                     "subs": [
                         {
                             "packageid": 348558,
-                            "percent_savings_text": "-10%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Cat couple🐱 9 - <span class=\"discount_original_price\">0,78€</span> 0,70€",
+                            "option_text": "Cat couple🐱 9 - 0,78€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 70
+                            "price_in_cents_with_discount": 78
                         }
                     ]
                 }
