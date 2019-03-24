@@ -12,10 +12,10 @@
             "short_description": "A collection of five dakimakuras based on the characters of My Girlfriend.",
             "fullgame": {
                 "appid": "467690",
-                "name": "My Girlfriend"
+                "name": "Uninitialized"
             },
             "supported_languages": "English",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1026410/header.jpg?t=1551355590",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1026410/header.jpg?t=1552655844",
             "website": "http://dharker.studio",
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 or Newer<br></li><li><strong>Processor:</strong> 1.66 Ghz<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> 1920x1080<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
@@ -33,7 +33,40 @@
             "publishers": [
                 "Dharker Studio"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 399,
+                "final": 399,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "3,99€"
+            },
+            "packages": [
+                341021
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy My Girlfriend - Dakimakuras",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 341021,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "My Girlfriend - Dakimakuras - 3,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 399
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": true,
@@ -70,44 +103,47 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1026410/ss_a8e05738752a0e034007d1746b2bd5562d5b2d37.600x338.jpg?t=1551355590",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1026410/ss_a8e05738752a0e034007d1746b2bd5562d5b2d37.1920x1080.jpg?t=1551355590"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1026410/ss_a8e05738752a0e034007d1746b2bd5562d5b2d37.600x338.jpg?t=1552655844",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1026410/ss_a8e05738752a0e034007d1746b2bd5562d5b2d37.1920x1080.jpg?t=1552655844"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1026410/ss_57fb9d3d5d55385bfcee174a1a31f91f5c9443b6.600x338.jpg?t=1551355590",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1026410/ss_57fb9d3d5d55385bfcee174a1a31f91f5c9443b6.1920x1080.jpg?t=1551355590"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1026410/ss_57fb9d3d5d55385bfcee174a1a31f91f5c9443b6.600x338.jpg?t=1552655844",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1026410/ss_57fb9d3d5d55385bfcee174a1a31f91f5c9443b6.1920x1080.jpg?t=1552655844"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1026410/ss_58556d0698db921c08aa1e94da794c8df4b7a9b0.600x338.jpg?t=1551355590",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1026410/ss_58556d0698db921c08aa1e94da794c8df4b7a9b0.1920x1080.jpg?t=1551355590"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1026410/ss_58556d0698db921c08aa1e94da794c8df4b7a9b0.600x338.jpg?t=1552655844",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1026410/ss_58556d0698db921c08aa1e94da794c8df4b7a9b0.1920x1080.jpg?t=1552655844"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1026410/ss_191afa766296082ec107d501196a470219b97afe.600x338.jpg?t=1551355590",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1026410/ss_191afa766296082ec107d501196a470219b97afe.1920x1080.jpg?t=1551355590"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1026410/ss_191afa766296082ec107d501196a470219b97afe.600x338.jpg?t=1552655844",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1026410/ss_191afa766296082ec107d501196a470219b97afe.1920x1080.jpg?t=1552655844"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1026410/ss_2b12a0b599b4225235070b817836e331df69f746.600x338.jpg?t=1551355590",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1026410/ss_2b12a0b599b4225235070b817836e331df69f746.1920x1080.jpg?t=1551355590"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1026410/ss_2b12a0b599b4225235070b817836e331df69f746.600x338.jpg?t=1552655844",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1026410/ss_2b12a0b599b4225235070b817836e331df69f746.1920x1080.jpg?t=1552655844"
                 },
                 {
                     "id": 5,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1026410/ss_5a926d3cb4bacd6983d98242652af18a7b759fa4.600x338.jpg?t=1551355590",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1026410/ss_5a926d3cb4bacd6983d98242652af18a7b759fa4.1920x1080.jpg?t=1551355590"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1026410/ss_5a926d3cb4bacd6983d98242652af18a7b759fa4.600x338.jpg?t=1552655844",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1026410/ss_5a926d3cb4bacd6983d98242652af18a7b759fa4.1920x1080.jpg?t=1552655844"
                 }
             ],
+            "achievements": {
+                "total": 0
+            },
             "release_date": {
-                "coming_soon": true,
+                "coming_soon": false,
                 "date": "15 Mar, 2019"
             },
             "support_info": {
                 "url": "http://Dharker.Studio",
                 "email": ""
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1026410/page_bg_generated_v6b.jpg?t=1551355590",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1026410/page_bg_generated_v6b.jpg?t=1552655844",
             "content_descriptors": {
                 "ids": [
                     1,
