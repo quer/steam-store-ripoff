@@ -14,16 +14,16 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1025990/header.jpg?t=1551932652",
             "website": null,
             "pc_requirements": {
-                "minimum": "<strong>最低配置:</strong><br><ul class=\"bb_ul\"><li>需要 64 位处理器和操作系统<br></li><li><strong>操作系统:</strong> win7 64位<br></li><li><strong>处理器:</strong> i3 650<br></li><li><strong>内存:</strong> 1 GB RAM<br></li><li><strong>图形:</strong> GTX660<br></li><li><strong>DirectX 版本:</strong> 11<br></li><li><strong>存储空间:</strong> 需要 300 MB 可用空间</li></ul>",
-                "recommended": "<strong>推荐配置:</strong><br><ul class=\"bb_ul\"><li>需要 64 位处理器和操作系统<br></li><li><strong>操作系统:</strong> win10 64位<br></li><li><strong>处理器:</strong> i5 4690<br></li><li><strong>内存:</strong> 2 GB RAM<br></li><li><strong>图形:</strong> GTX 1060<br></li><li><strong>DirectX 版本:</strong> 11<br></li><li><strong>存储空间:</strong> 需要 300 MB 可用空间</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> win7 64位<br></li><li><strong>Processor:</strong> i3 650<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> GTX660<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 300 MB available space</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> win10 64位<br></li><li><strong>Processor:</strong> i5 4690<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> GTX 1060<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 300 MB available space</li></ul>"
             },
             "mac_requirements": {
-                "minimum": "<strong>最低配置:</strong><br><ul class=\"bb_ul\"><li>需要 64 位处理器和操作系统</li></ul>",
-                "recommended": "<strong>推荐配置:</strong><br><ul class=\"bb_ul\"><li>需要 64 位处理器和操作系统</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
             },
             "linux_requirements": {
-                "minimum": "<strong>最低配置:</strong><br><ul class=\"bb_ul\"><li>需要 64 位处理器和操作系统</li></ul>",
-                "recommended": "<strong>推荐配置:</strong><br><ul class=\"bb_ul\"><li>需要 64 位处理器和操作系统</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
             },
             "developers": [
                 "方块"
@@ -40,10 +40,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 819,
-                "final": 491,
-                "discount_percent": 40,
-                "initial_formatted": "8,19€",
-                "final_formatted": "4,91€"
+                "final": 819,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "8,19€"
             },
             "packages": [
                 340876,
@@ -61,13 +61,13 @@
                     "subs": [
                         {
                             "packageid": 340876,
-                            "percent_savings_text": "-40%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "方块人 - <span class=\"discount_original_price\">8,19€</span> 4,91€",
+                            "option_text": "方块人 - 8,19€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 491
+                            "price_in_cents_with_discount": 819
                         },
                         {
                             "packageid": 348773,
