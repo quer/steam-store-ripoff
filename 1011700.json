@@ -7,19 +7,21 @@
             "steam_appid": 1011700,
             "required_age": 0,
             "is_free": false,
-            "controller_support": "full",
+            "dlc": [
+                1044710
+            ],
             "detailed_description": "Take on Henry David Thoreau’s classic adventure in living simply in nature as you explore this epic open world game based on the story of Thoreau’s life in the woods alone at Walden Pond. Features a dynamic and changing natural environment filled with exquisite details, as well as a multi-faceted narrative following Thoreau’s quest for solitude and inspiration in the woods during a time of personal and social crises.<br />\r\n<br />\r\nCan you balance your basic needs for survival against your search for beauty and the sublime? Will you live life “deliberately”? Or will you live a life of “quiet desperation”? Find out in this critically acclaimed title that Smithsonian Magazine has called “the world’s most improbable video game.”<br />\r\n<br />\r\nWalden, a game was awarded Game of the Year and Most Significant Impact at Games for Change, Developers Choice at IndieCade, and nominated for the Unity Impact Award and the New York Game Critics Award for Best Indie Game.",
             "about_the_game": "Take on Henry David Thoreau’s classic adventure in living simply in nature as you explore this epic open world game based on the story of Thoreau’s life in the woods alone at Walden Pond. Features a dynamic and changing natural environment filled with exquisite details, as well as a multi-faceted narrative following Thoreau’s quest for solitude and inspiration in the woods during a time of personal and social crises.<br />\r\n<br />\r\nCan you balance your basic needs for survival against your search for beauty and the sublime? Will you live life “deliberately”? Or will you live a life of “quiet desperation”? Find out in this critically acclaimed title that Smithsonian Magazine has called “the world’s most improbable video game.”<br />\r\n<br />\r\nWalden, a game was awarded Game of the Year and Most Significant Impact at Games for Change, Developers Choice at IndieCade, and nominated for the Unity Impact Award and the New York Game Critics Award for Best Indie Game.",
             "short_description": "Take on Henry David Thoreau’s classic adventure in living simply in nature as you explore this epic open world game based on the story of Thoreau’s life in the woods alone at Walden Pond.",
             "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
             "reviews": "“Summed up in a single word, it would be ‘beautiful.’”<br>5/5 – <a href=\"https://steamcommunity.com/linkfilter/?url=https://www.commonsensemedia.org/game-reviews/walden-a-game\" target=\"_blank\" rel=\"noopener\"  >Common Sense Media</a><br><br>“An introspective ‘Oregon Trail’”<br><a href=\"https://steamcommunity.com/linkfilter/?url=https://www.cnn.com/2017/07/12/health/walden-game-wisdom-project/index.html\" target=\"_blank\" rel=\"noopener\"  >CNN</a><br><br>“A remarkable experiment in translation. As contemplative as its source material, it forces an anti-reflexive pace and coddles at its center an appreciation of calm and quiet.”<br><a href=\"https://steamcommunity.com/linkfilter/?url=https://www.npr.org/2018/12/13/676129780/reading-the-game-walden\" target=\"_blank\" rel=\"noopener\"  >NPR: Reading the Game</a><br>",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1011700/header.jpg?t=1550865347",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1011700/header.jpg?t=1552924842",
             "website": "https://www.waldengame.com",
             "pc_requirements": {
-                "minimum": "<strong>最低配置:</strong><br><ul class=\"bb_ul\"><li><strong>操作系统:</strong> 7 / 8 / 10<br></li><li><strong>处理器:</strong> 2.4 GHz<br></li><li><strong>内存:</strong> 8 GB RAM<br></li><li><strong>图形:</strong> 1024 MB NVidia or ATI graphics card<br></li><li><strong>DirectX 版本:</strong> 11<br></li><li><strong>存储空间:</strong> 需要 2 GB 可用空间</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 7 / 8 / 10<br></li><li><strong>Processor:</strong> 2.4 GHz<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> 1024 MB NVidia or ATI graphics card<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>"
             },
             "mac_requirements": {
-                "minimum": "<strong>最低配置:</strong><br><ul class=\"bb_ul\"><li><strong>操作系统:</strong> 10.9+<br></li><li><strong>处理器:</strong> 2.4 GHz<br></li><li><strong>内存:</strong> 8 GB RAM<br></li><li><strong>图形:</strong> 1024 MB NVidia or ATI graphics card<br></li><li><strong>存储空间:</strong> 需要 2 GB 可用空间</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 10.9+<br></li><li><strong>Processor:</strong> 2.4 GHz<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> 1024 MB NVidia or ATI graphics card<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>"
             },
             "linux_requirements": [],
             "legal_notice": "Copyright © 2014-2019 Tracy Fullerton and the Walden Team. All Rights Reserved.",
@@ -29,7 +31,40 @@
             "publishers": [
                 "USC Games"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 1599,
+                "final": 1279,
+                "discount_percent": 20,
+                "initial_formatted": "15,99€",
+                "final_formatted": "12,79€"
+            },
+            "packages": [
+                335015
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Walden, a game",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 335015,
+                            "percent_savings_text": "-20%",
+                            "percent_savings": 0,
+                            "option_text": "Walden, a game - <span class=\"discount_original_price\">15,99€</span> 12,79€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 1279
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": true,
@@ -45,12 +80,12 @@
                     "description": "Steam Achievements"
                 },
                 {
-                    "id": 28,
-                    "description": "Full controller support"
+                    "id": 18,
+                    "description": "Partial Controller Support"
                 },
                 {
-                    "id": 13,
-                    "description": "Captions available"
+                    "id": 23,
+                    "description": "Steam Cloud"
                 }
             ],
             "genres": [
@@ -66,53 +101,53 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1011700/ss_1bfd66dcfbdadd58177f4d3b29a24f035e65b77d.600x338.jpg?t=1550865347",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1011700/ss_1bfd66dcfbdadd58177f4d3b29a24f035e65b77d.1920x1080.jpg?t=1550865347"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1011700/ss_1bfd66dcfbdadd58177f4d3b29a24f035e65b77d.600x338.jpg?t=1552924842",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1011700/ss_1bfd66dcfbdadd58177f4d3b29a24f035e65b77d.1920x1080.jpg?t=1552924842"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1011700/ss_9dcb3c69a82c4bd78312c556711a46ff39c2fefd.600x338.jpg?t=1550865347",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1011700/ss_9dcb3c69a82c4bd78312c556711a46ff39c2fefd.1920x1080.jpg?t=1550865347"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1011700/ss_9dcb3c69a82c4bd78312c556711a46ff39c2fefd.600x338.jpg?t=1552924842",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1011700/ss_9dcb3c69a82c4bd78312c556711a46ff39c2fefd.1920x1080.jpg?t=1552924842"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1011700/ss_e43115a895ff7464cb12db70bf84f49b1c766644.600x338.jpg?t=1550865347",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1011700/ss_e43115a895ff7464cb12db70bf84f49b1c766644.1920x1080.jpg?t=1550865347"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1011700/ss_e43115a895ff7464cb12db70bf84f49b1c766644.600x338.jpg?t=1552924842",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1011700/ss_e43115a895ff7464cb12db70bf84f49b1c766644.1920x1080.jpg?t=1552924842"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1011700/ss_2c8df1f7d7a1526a1f363c2bfcefc4aa5b021d59.600x338.jpg?t=1550865347",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1011700/ss_2c8df1f7d7a1526a1f363c2bfcefc4aa5b021d59.1920x1080.jpg?t=1550865347"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1011700/ss_2c8df1f7d7a1526a1f363c2bfcefc4aa5b021d59.600x338.jpg?t=1552924842",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1011700/ss_2c8df1f7d7a1526a1f363c2bfcefc4aa5b021d59.1920x1080.jpg?t=1552924842"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1011700/ss_da180a5d864681370e4bef3b498a97a3774a6022.600x338.jpg?t=1550865347",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1011700/ss_da180a5d864681370e4bef3b498a97a3774a6022.1920x1080.jpg?t=1550865347"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1011700/ss_da180a5d864681370e4bef3b498a97a3774a6022.600x338.jpg?t=1552924842",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1011700/ss_da180a5d864681370e4bef3b498a97a3774a6022.1920x1080.jpg?t=1552924842"
                 },
                 {
                     "id": 5,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1011700/ss_dbb10b109fb4b6c65e42d86b41e014eede1e540c.600x338.jpg?t=1550865347",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1011700/ss_dbb10b109fb4b6c65e42d86b41e014eede1e540c.1920x1080.jpg?t=1550865347"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1011700/ss_dbb10b109fb4b6c65e42d86b41e014eede1e540c.600x338.jpg?t=1552924842",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1011700/ss_dbb10b109fb4b6c65e42d86b41e014eede1e540c.1920x1080.jpg?t=1552924842"
                 },
                 {
                     "id": 6,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1011700/ss_2b21e20f90fe6e79ee0a397da7d22c7827e925e8.600x338.jpg?t=1550865347",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1011700/ss_2b21e20f90fe6e79ee0a397da7d22c7827e925e8.1920x1080.jpg?t=1550865347"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1011700/ss_2b21e20f90fe6e79ee0a397da7d22c7827e925e8.600x338.jpg?t=1552924842",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1011700/ss_2b21e20f90fe6e79ee0a397da7d22c7827e925e8.1920x1080.jpg?t=1552924842"
                 },
                 {
                     "id": 7,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1011700/ss_029da087b80bc4c5dc7ce4869d15f02974224f73.600x338.jpg?t=1550865347",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1011700/ss_029da087b80bc4c5dc7ce4869d15f02974224f73.1920x1080.jpg?t=1550865347"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1011700/ss_029da087b80bc4c5dc7ce4869d15f02974224f73.600x338.jpg?t=1552924842",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1011700/ss_029da087b80bc4c5dc7ce4869d15f02974224f73.1920x1080.jpg?t=1552924842"
                 },
                 {
                     "id": 8,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1011700/ss_a9c452a1570d9f9c3edeed779bcd07e6e47cf79e.600x338.jpg?t=1550865347",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1011700/ss_a9c452a1570d9f9c3edeed779bcd07e6e47cf79e.1920x1080.jpg?t=1550865347"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1011700/ss_a9c452a1570d9f9c3edeed779bcd07e6e47cf79e.600x338.jpg?t=1552924842",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1011700/ss_a9c452a1570d9f9c3edeed779bcd07e6e47cf79e.1920x1080.jpg?t=1552924842"
                 },
                 {
                     "id": 9,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1011700/ss_e531a6934ab215e4987b62e49867a4d72250eea1.600x338.jpg?t=1550865347",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1011700/ss_e531a6934ab215e4987b62e49867a4d72250eea1.1920x1080.jpg?t=1550865347"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1011700/ss_e531a6934ab215e4987b62e49867a4d72250eea1.600x338.jpg?t=1552924842",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1011700/ss_e531a6934ab215e4987b62e49867a4d72250eea1.1920x1080.jpg?t=1552924842"
                 }
             ],
             "movies": [
@@ -127,15 +162,60 @@
                     "highlight": true
                 }
             ],
+            "achievements": {
+                "total": 27,
+                "highlighted": [
+                    {
+                        "name": "Carpenter",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1011700/107e3bff2ccf2168580511231c1401a906c3877a.jpg"
+                    },
+                    {
+                        "name": "Walden Millionaire",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1011700/43e3de7cedc9690ebe51de81015e4523cb852494.jpg"
+                    },
+                    {
+                        "name": "Poet",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1011700/056cb82543fdb2943a2ea0793d8a90dcc3240c0f.jpg"
+                    },
+                    {
+                        "name": "Abolitionist",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1011700/8cb803e88a1885c1b4d1d7efe4a4035e19834177.jpg"
+                    },
+                    {
+                        "name": "Hermit",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1011700/40503e4067baab4ff09249669399e0ff31687ae2.jpg"
+                    },
+                    {
+                        "name": "Naturalist",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1011700/4f312a5b1d6605a72b135a4294cf02a45c8e4108.jpg"
+                    },
+                    {
+                        "name": "Published Author",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1011700/8684a89b80eead5ac2fe71e372dcbc8e8aa6ebf9.jpg"
+                    },
+                    {
+                        "name": "Self-Reliant",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1011700/ca0e57cd0130de5317b7ee9df1074644e3c012a6.jpg"
+                    },
+                    {
+                        "name": "Surveyor",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1011700/04c24486bc2cdf854f1858fa915ad6620f75ee07.jpg"
+                    },
+                    {
+                        "name": "Good Son",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1011700/fa0825d6dfd7252a6ac4017a7731a3562580b68b.jpg"
+                    }
+                ]
+            },
             "release_date": {
-                "coming_soon": true,
-                "date": "Mar 2019"
+                "coming_soon": false,
+                "date": "18 Mar, 2019"
             },
             "support_info": {
                 "url": "https://form.jotform.us/70756591970164",
                 "email": "uscgameinnovationlab@gmail.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1011700/page_bg_generated_v6b.jpg?t=1550865347",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1011700/page_bg_generated_v6b.jpg?t=1552924842",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
