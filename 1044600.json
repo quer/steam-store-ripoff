@@ -18,13 +18,13 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1044600/header.jpg?t=1552044192",
             "website": null,
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Betriebssystem:</strong> Windows 8 or later<br></li><li><strong>Prozessor:</strong> 2 GHz processor or better<br></li><li><strong>Arbeitsspeicher:</strong> 4 GB RAM<br></li><li><strong>Grafik:</strong> DirectX compatible video card with at least 512 VRAM<br></li><li><strong>Speicherplatz:</strong> 1 MB verfügbarer Speicherplatz</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 8 or later<br></li><li><strong>Processor:</strong> 2 GHz processor or better<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> DirectX compatible video card with at least 512 VRAM<br></li><li><strong>Storage:</strong> 1 MB available space</li></ul>"
             },
             "mac_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Betriebssystem:</strong> 10.5 or later<br></li><li><strong>Prozessor:</strong> Intel 2 GHz processor or better<br></li><li><strong>Arbeitsspeicher:</strong> 4 GB RAM<br></li><li><strong>Grafik:</strong> OpenGL 2.0 compatible video card with at least 128 VRAM<br></li><li><strong>Speicherplatz:</strong> 1 MB verfügbarer Speicherplatz</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 10.5 or later<br></li><li><strong>Processor:</strong> Intel 2 GHz processor or better<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL 2.0 compatible video card with at least 128 VRAM<br></li><li><strong>Storage:</strong> 1 MB available space</li></ul>"
             },
             "linux_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Betriebssystem:</strong> Ubuntu 12.04 LTS (or similar, Debian-based distro)<br></li><li><strong>Prozessor:</strong> 2 GHz processor or better<br></li><li><strong>Arbeitsspeicher:</strong> 4 GB RAM<br></li><li><strong>Grafik:</strong> OpenGL 2.0 compatible video card<br></li><li><strong>Speicherplatz:</strong> 1 MB verfügbarer Speicherplatz</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 12.04 LTS (or similar, Debian-based distro)<br></li><li><strong>Processor:</strong> 2 GHz processor or better<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL 2.0 compatible video card<br></li><li><strong>Storage:</strong> 1 MB available space</li></ul>"
             },
             "developers": [
                 "Cool Girls Games"
@@ -35,10 +35,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 95,
-                "final": 80,
-                "discount_percent": 16,
-                "initial_formatted": "0,95€",
-                "final_formatted": "0,80€"
+                "final": 95,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "0,95€"
             },
             "packages": [
                 348098
@@ -55,13 +55,13 @@
                     "subs": [
                         {
                             "packageid": 348098,
-                            "percent_savings_text": "-16%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Armstrong for Boobs 'em up - <span class=\"discount_original_price\">0,95€</span> 0,80€",
+                            "option_text": "Armstrong for Boobs 'em up - 0,95€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 80
+                            "price_in_cents_with_discount": 95
                         }
                     ]
                 }
