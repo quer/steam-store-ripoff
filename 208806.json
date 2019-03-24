@@ -43,10 +43,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 79,
-                "final": 79,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "0,79€"
+                "final": 39,
+                "discount_percent": 51,
+                "initial_formatted": "0,79€",
+                "final_formatted": "0,39€"
             },
             "packages": [
                 26606,
@@ -66,43 +66,43 @@
                     "subs": [
                         {
                             "packageid": 26606,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-51%",
                             "percent_savings": 0,
-                            "option_text": "Tomb Raider: Hunter Skin - 0,79€",
+                            "option_text": "Tomb Raider: Hunter Skin - <span class=\"discount_original_price\">0,79€</span> 0,39€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 79
+                            "price_in_cents_with_discount": 39
                         },
                         {
                             "packageid": 26643,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-75%",
                             "percent_savings": 0,
-                            "option_text": "Tomb Raider: Outfit Pack - 1,59€",
+                            "option_text": "Tomb Raider: Outfit Pack - <span class=\"discount_original_price\">1,59€</span> 0,39€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 159
+                            "price_in_cents_with_discount": 39
                         },
                         {
                             "packageid": 28255,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-86%",
                             "percent_savings": 0,
-                            "option_text": "Tomb Raider: Adventure Pack - 5,49€",
+                            "option_text": "Tomb Raider: Adventure Pack - <span class=\"discount_original_price\">5,49€</span> 0,76€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 549
+                            "price_in_cents_with_discount": 76
                         },
                         {
                             "packageid": 49783,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-85%",
                             "percent_savings": 0,
-                            "option_text": "Tomb Raider GOTY Edition - 29,99€",
+                            "option_text": "Tomb Raider GOTY Edition - <span class=\"discount_original_price\">29,99€</span> 4,49€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 2999
+                            "price_in_cents_with_discount": 449
                         }
                     ]
                 }
