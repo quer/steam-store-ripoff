@@ -16,16 +16,16 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/250050/header.jpg?t=1515048635",
             "website": "http://www.lifegoesongame.com/",
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows Vista or later<br></li><li><strong>Processor:</strong> Intel Core 2 Duo 2.4 GHz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Shader Model 3.0 support with 512MB Integrated Memory<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 1100 MB available space</li></ul>",
-                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 or later<br></li><li><strong>Processor:</strong> Intel i3 3.3GHz or better<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Shader Model 3.0 Support and 1GB Dedicated Memory<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 1100 MB available space</li></ul>"
+                "minimum": "<strong>최소:</strong><br><ul class=\"bb_ul\"><li><strong>운영체제:</strong> Windows Vista or later<br></li><li><strong>프로세서:</strong> Intel Core 2 Duo 2.4 GHz<br></li><li><strong>메모리:</strong> 2 GB RAM<br></li><li><strong>그래픽:</strong> Shader Model 3.0 support with 512MB Integrated Memory<br></li><li><strong>DirectX:</strong> 버전 9.0c<br></li><li><strong>저장공간:</strong> 1100 MB 사용 가능 공간</li></ul>",
+                "recommended": "<strong>권장:</strong><br><ul class=\"bb_ul\"><li><strong>운영체제:</strong> Windows 7 or later<br></li><li><strong>프로세서:</strong> Intel i3 3.3GHz or better<br></li><li><strong>메모리:</strong> 4 GB RAM<br></li><li><strong>그래픽:</strong> Shader Model 3.0 Support and 1GB Dedicated Memory<br></li><li><strong>DirectX:</strong> 버전 9.0c<br></li><li><strong>저장공간:</strong> 1100 MB 사용 가능 공간</li></ul>"
             },
             "mac_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OS X 10.6.9 Snow Leopard or better<br></li><li><strong>Processor:</strong> 2.4 GHz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Shader Model 3.0 support with 512MB Integrated Memory<br></li><li><strong>Storage:</strong> 1100 MB available space</li></ul>",
-                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OS X 10.8.5 Mountain Lion or better<br></li><li><strong>Processor:</strong> 2.4 GHz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Shader Model 3.0 Support and 1GB Dedicated Memory<br></li><li><strong>Storage:</strong> 1100 MB available space</li></ul>"
+                "minimum": "<strong>최소:</strong><br><ul class=\"bb_ul\"><li><strong>운영체제:</strong> OS X 10.6.9 Snow Leopard or better<br></li><li><strong>프로세서:</strong> 2.4 GHz<br></li><li><strong>메모리:</strong> 2 GB RAM<br></li><li><strong>그래픽:</strong> Shader Model 3.0 support with 512MB Integrated Memory<br></li><li><strong>저장공간:</strong> 1100 MB 사용 가능 공간</li></ul>",
+                "recommended": "<strong>권장:</strong><br><ul class=\"bb_ul\"><li><strong>운영체제:</strong> OS X 10.8.5 Mountain Lion or better<br></li><li><strong>프로세서:</strong> 2.4 GHz<br></li><li><strong>메모리:</strong> 4 GB RAM<br></li><li><strong>그래픽:</strong> Shader Model 3.0 Support and 1GB Dedicated Memory<br></li><li><strong>저장공간:</strong> 1100 MB 사용 가능 공간</li></ul>"
             },
             "linux_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 32/64<br></li><li><strong>Processor:</strong> Intel Core 2 Duo 2.4GHz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Shader Model 3.0 support with 512MB Integrated Memory<br></li><li><strong>Storage:</strong> 1100 MB available space</li></ul>",
-                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 64<br></li><li><strong>Processor:</strong> Intel i3 3.3 GHz or better<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Shader Model 3.0 support and 1GB Dedicated Memory<br></li><li><strong>Storage:</strong> 1100 MB available space</li></ul>"
+                "minimum": "<strong>최소:</strong><br><ul class=\"bb_ul\"><li><strong>운영체제:</strong> Ubuntu 32/64<br></li><li><strong>프로세서:</strong> Intel Core 2 Duo 2.4GHz<br></li><li><strong>메모리:</strong> 2 GB RAM<br></li><li><strong>그래픽:</strong> Shader Model 3.0 support with 512MB Integrated Memory<br></li><li><strong>저장공간:</strong> 1100 MB 사용 가능 공간</li></ul>",
+                "recommended": "<strong>권장:</strong><br><ul class=\"bb_ul\"><li><strong>운영체제:</strong> Ubuntu 64<br></li><li><strong>프로세서:</strong> Intel i3 3.3 GHz or better<br></li><li><strong>메모리:</strong> 4 GB RAM<br></li><li><strong>그래픽:</strong> Shader Model 3.0 support and 1GB Dedicated Memory<br></li><li><strong>저장공간:</strong> 1100 MB 사용 가능 공간</li></ul>"
             },
             "developers": [
                 "Infinite Monkeys Entertainment Ltd."
@@ -36,10 +36,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 999,
-                "final": 299,
-                "discount_percent": 70,
-                "initial_formatted": "9,99€",
-                "final_formatted": "2,99€"
+                "final": 999,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "9,99€"
             },
             "packages": [
                 30380
@@ -56,13 +56,13 @@
                     "subs": [
                         {
                             "packageid": 30380,
-                            "percent_savings_text": "-70%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Life Goes On - <span class=\"discount_original_price\">9,99€</span> 2,99€",
+                            "option_text": "Life Goes On - 9,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 299
+                            "price_in_cents_with_discount": 999
                         }
                     ]
                 }
@@ -232,7 +232,7 @@
                 }
             ],
             "recommendations": {
-                "total": 1318
+                "total": 1337
             },
             "achievements": {
                 "total": 21,
