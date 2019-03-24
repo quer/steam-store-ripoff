@@ -29,10 +29,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 499,
-                "final": 499,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "4,99€"
+                "final": 169,
+                "discount_percent": 66,
+                "initial_formatted": "4,99€",
+                "final_formatted": "1,69€"
             },
             "packages": [
                 1013
@@ -49,13 +49,13 @@
                     "subs": [
                         {
                             "packageid": 1013,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-66%",
                             "percent_savings": 0,
-                            "option_text": "Tom Clancy's Rainbow Six® 3 Gold - 4,99€",
+                            "option_text": "Tom Clancy's Rainbow Six® 3 Gold - <span class=\"discount_original_price\">4,99€</span> 1,69€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 499
+                            "price_in_cents_with_discount": 169
                         }
                     ]
                 }
@@ -129,7 +129,7 @@
                 }
             ],
             "recommendations": {
-                "total": 782
+                "total": 787
             },
             "achievements": {
                 "total": 0
