@@ -11,8 +11,8 @@
             "detailed_description": "<h2 class=\"bb_tag\">Story</h2><br>Welcome to the world of Stoppa!<br>Evil giant machines have taken all the life in this planet. You are the only survivor!<br>Use your power of stopping time to manipulate objects around you, go across the 5 Areas and defeat bosses one by one to restore the life in the world.<h2 class=\"bb_tag\">Features</h2><ul class=\"bb_ul\"><li>You don't control the character, but the state of time and the objects around you!<br></li><li>50 Levels full of traps and puzzles.<br></li><li>5 (or more?) powerful Bosses.<br></li><li>50 challenging Missions.<br></li><li>Unlockable items: 50 Headgears, 5 Skins, Music and 2 cool Minigames.<br></li><li>Customization: Choose a Headgear, a Skin, draw your own Faces and save or load Character Templates.<br></li><li>Ranking: The less time you take to clear a level, the more stars you get!<br></li><li>Boss challenge: Rematch unlocked Bosses to get better total times.<br></li><li>You can play using your Mouse alone, using a Mouse and a Keyboard together, or using a Xbox One Controller.</li></ul>",
             "about_the_game": "<h2 class=\"bb_tag\">Story</h2><br>Welcome to the world of Stoppa!<br>Evil giant machines have taken all the life in this planet. You are the only survivor!<br>Use your power of stopping time to manipulate objects around you, go across the 5 Areas and defeat bosses one by one to restore the life in the world.<h2 class=\"bb_tag\">Features</h2><ul class=\"bb_ul\"><li>You don't control the character, but the state of time and the objects around you!<br></li><li>50 Levels full of traps and puzzles.<br></li><li>5 (or more?) powerful Bosses.<br></li><li>50 challenging Missions.<br></li><li>Unlockable items: 50 Headgears, 5 Skins, Music and 2 cool Minigames.<br></li><li>Customization: Choose a Headgear, a Skin, draw your own Faces and save or load Character Templates.<br></li><li>Ranking: The less time you take to clear a level, the more stars you get!<br></li><li>Boss challenge: Rematch unlocked Bosses to get better total times.<br></li><li>You can play using your Mouse alone, using a Mouse and a Keyboard together, or using a Xbox One Controller.</li></ul>",
             "short_description": "Stop time and manipulate objects around you to reach the goal line!",
-            "supported_languages": "English, Spanish - Latin America",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1035280/header.jpg?t=1552018325",
+            "supported_languages": "English, Spanish - Latin America, Spanish - Spain",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1035280/header.jpg?t=1552656169",
             "website": "http://stoppa.cl",
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 or later<br></li><li><strong>Processor:</strong> 2 Ghz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 100 MB available space</li></ul>"
@@ -27,7 +27,46 @@
             "publishers": [
                 "Michiru Michel Nakamura"
             ],
-            "package_groups": [],
+            "demos": [
+                {
+                    "appid": 1047500,
+                    "description": ""
+                }
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 399,
+                "final": 399,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "3,99€"
+            },
+            "packages": [
+                344582
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Stoppa!",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 344582,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Stoppa! - 3,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 399
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": false,
@@ -52,28 +91,33 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1035280/ss_af615ff9a6584cc7d4b4f7672b3487a5ae5fb3ca.600x338.jpg?t=1552018325",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1035280/ss_af615ff9a6584cc7d4b4f7672b3487a5ae5fb3ca.1920x1080.jpg?t=1552018325"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1035280/ss_af615ff9a6584cc7d4b4f7672b3487a5ae5fb3ca.600x338.jpg?t=1552656169",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1035280/ss_af615ff9a6584cc7d4b4f7672b3487a5ae5fb3ca.1920x1080.jpg?t=1552656169"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1035280/ss_20768b3538cf0c5e4907af0caf08b82b56a7fd4b.600x338.jpg?t=1552018325",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1035280/ss_20768b3538cf0c5e4907af0caf08b82b56a7fd4b.1920x1080.jpg?t=1552018325"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1035280/ss_2c6799288f609a29ee7834d81f13baaccd3786df.600x338.jpg?t=1552656169",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1035280/ss_2c6799288f609a29ee7834d81f13baaccd3786df.1920x1080.jpg?t=1552656169"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1035280/ss_2c6799288f609a29ee7834d81f13baaccd3786df.600x338.jpg?t=1552018325",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1035280/ss_2c6799288f609a29ee7834d81f13baaccd3786df.1920x1080.jpg?t=1552018325"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1035280/ss_c935f32d84b6fb22d6113641ecb075e31a673990.600x338.jpg?t=1552656169",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1035280/ss_c935f32d84b6fb22d6113641ecb075e31a673990.1920x1080.jpg?t=1552656169"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1035280/ss_f101003e4bb97283d37442e3efa42c298baa2de5.600x338.jpg?t=1552018325",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1035280/ss_f101003e4bb97283d37442e3efa42c298baa2de5.1920x1080.jpg?t=1552018325"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1035280/ss_f101003e4bb97283d37442e3efa42c298baa2de5.600x338.jpg?t=1552656169",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1035280/ss_f101003e4bb97283d37442e3efa42c298baa2de5.1920x1080.jpg?t=1552656169"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1035280/ss_672b7a2942c616cb317e7e77cd0c3871ddf4521a.600x338.jpg?t=1552018325",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1035280/ss_672b7a2942c616cb317e7e77cd0c3871ddf4521a.1920x1080.jpg?t=1552018325"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1035280/ss_0b91d2fa7d908027534d06e95327ca5b9e08a5c2.600x338.jpg?t=1552656169",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1035280/ss_0b91d2fa7d908027534d06e95327ca5b9e08a5c2.1920x1080.jpg?t=1552656169"
+                },
+                {
+                    "id": 5,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1035280/ss_672b7a2942c616cb317e7e77cd0c3871ddf4521a.600x338.jpg?t=1552656169",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1035280/ss_672b7a2942c616cb317e7e77cd0c3871ddf4521a.1920x1080.jpg?t=1552656169"
                 }
             ],
             "movies": [
@@ -88,15 +132,48 @@
                     "highlight": true
                 }
             ],
+            "achievements": {
+                "total": 7,
+                "highlighted": [
+                    {
+                        "name": "Life in the planet",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1035280/092e6888a78e532d5154dd6b609ede5e19293a5b.jpg"
+                    },
+                    {
+                        "name": "Mystic orb",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1035280/db300c5f52854bf10136e3d6a12109da554ac2d0.jpg"
+                    },
+                    {
+                        "name": "Master of time",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1035280/9048f8a9935f0d9adf6b709338a2313a502bc7f3.jpg"
+                    },
+                    {
+                        "name": "100 ways to die",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1035280/c4f229947fe2d2cad58fe5745c041f7c3e4caf95.jpg"
+                    },
+                    {
+                        "name": "Boxoss's eye",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1035280/7f07455d8d5f5f8e04fcccc6dc341db71b5395b2.jpg"
+                    },
+                    {
+                        "name": "Stop badge",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1035280/e15792cab6e65c1b340af5912c9299dc41377ab3.jpg"
+                    },
+                    {
+                        "name": "New look",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1035280/2a3bbc446587bf25a84ac3f76bf604fee0888e43.jpg"
+                    }
+                ]
+            },
             "release_date": {
-                "coming_soon": true,
+                "coming_soon": false,
                 "date": "15 Mar, 2019"
             },
             "support_info": {
                 "url": "http://stoppa.cl/contact",
                 "email": "support@stoppa.cl"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1035280/page_bg_generated_v6b.jpg?t=1552018325",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1035280/page_bg_generated_v6b.jpg?t=1552656169",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
