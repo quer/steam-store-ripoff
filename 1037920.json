@@ -7,11 +7,11 @@
             "steam_appid": 1037920,
             "required_age": 0,
             "is_free": false,
-            "detailed_description": "Description<br />\r\n<br />\r\nInfinitely up - this is an physical entertaining puzzle in which you need to build a tower of blocks that are randomly given to you. You lose if any of the blocks do not remain on the tower and fall. Collect points, get to higher levels, be smart in building. The game has several modes, both fairly easy and more difficult. There are also different figures that will help you as well as interfere with the construction. Can you build the highest tower?<br />\r\n<br />\r\nFeatures:<br />\r\n<br />\r\n- Interesting and simple gameplay<br />\r\n<br />\r\n- Different modes<br />\r\n<br />\r\n -Different figures<br />\r\n<br />\r\n- Game with physics<br />\r\n<br />\r\n- Pleasant music<br />\r\n<br />\r\n- Minimalistic picture",
-            "about_the_game": "Description<br />\r\n<br />\r\nInfinitely up - this is an physical entertaining puzzle in which you need to build a tower of blocks that are randomly given to you. You lose if any of the blocks do not remain on the tower and fall. Collect points, get to higher levels, be smart in building. The game has several modes, both fairly easy and more difficult. There are also different figures that will help you as well as interfere with the construction. Can you build the highest tower?<br />\r\n<br />\r\nFeatures:<br />\r\n<br />\r\n- Interesting and simple gameplay<br />\r\n<br />\r\n- Different modes<br />\r\n<br />\r\n -Different figures<br />\r\n<br />\r\n- Game with physics<br />\r\n<br />\r\n- Pleasant music<br />\r\n<br />\r\n- Minimalistic picture",
+            "detailed_description": "Description<br />\r\n<br />\r\nInfinitely up - this is an physical entertaining puzzle in which you need to build a tower of blocks that are randomly given to you. You lose if any of the blocks do not remain on the tower and fall. Collect points, get to higher levels, be smart in building.  There are also different figures that will help you as well as interfere with the construction. Can you build the highest tower?<br />\r\n<br />\r\nFeatures:<br />\r\n<br />\r\n- Interesting and simple gameplay<br />\r\n<br />\r\n -Different figures<br />\r\n<br />\r\n- Game with physics<br />\r\n<br />\r\n- Pleasant music<br />\r\n<br />\r\n- Minimalistic picture",
+            "about_the_game": "Description<br />\r\n<br />\r\nInfinitely up - this is an physical entertaining puzzle in which you need to build a tower of blocks that are randomly given to you. You lose if any of the blocks do not remain on the tower and fall. Collect points, get to higher levels, be smart in building.  There are also different figures that will help you as well as interfere with the construction. Can you build the highest tower?<br />\r\n<br />\r\nFeatures:<br />\r\n<br />\r\n- Interesting and simple gameplay<br />\r\n<br />\r\n -Different figures<br />\r\n<br />\r\n- Game with physics<br />\r\n<br />\r\n- Pleasant music<br />\r\n<br />\r\n- Minimalistic picture",
             "short_description": "Infinitely up - this is an physical interesting puzzle in which you need to build a tower as high as possible. The difficulty lies in the fact that if at least one piece falls, you lose. Can you build the largest tower?",
             "supported_languages": "English",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1037920/header.jpg?t=1551318618",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1037920/header.jpg?t=1553392305",
             "website": null,
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP/7/8/8.1/10<br></li><li><strong>Processor:</strong> 1.2 Ghz or faster processor<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> 200 MB<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 200 MB available space<br></li><li><strong>Additional Notes:</strong> Keyboard and Mouse</li></ul>",
@@ -25,7 +25,40 @@
             "publishers": [
                 "Kleo Landena"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 79,
+                "final": 47,
+                "discount_percent": 41,
+                "initial_formatted": "0,79€",
+                "final_formatted": "0,47€"
+            },
+            "packages": [
+                345654
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Infinitely up",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 345654,
+                            "percent_savings_text": "-41%",
+                            "percent_savings": 0,
+                            "option_text": "Infinitely up - <span class=\"discount_original_price\">0,79€</span> 0,47€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 47
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": false,
@@ -35,6 +68,10 @@
                 {
                     "id": 2,
                     "description": "Single-player"
+                },
+                {
+                    "id": 22,
+                    "description": "Steam Achievements"
                 }
             ],
             "genres": [
@@ -54,39 +91,68 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1037920/ss_13137d29a219adf27c1bf7eaa1844ad7df4194f9.600x338.jpg?t=1551318618",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1037920/ss_13137d29a219adf27c1bf7eaa1844ad7df4194f9.1920x1080.jpg?t=1551318618"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1037920/ss_ac3374fff238a2b144b06d404cb891faae003c58.600x338.jpg?t=1553392305",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1037920/ss_ac3374fff238a2b144b06d404cb891faae003c58.1920x1080.jpg?t=1553392305"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1037920/ss_356fbda6319761861f14316d08e834cad15b3ae6.600x338.jpg?t=1551318618",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1037920/ss_356fbda6319761861f14316d08e834cad15b3ae6.1920x1080.jpg?t=1551318618"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1037920/ss_d44315913403a62467239f2950527d4656a1c42b.600x338.jpg?t=1553392305",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1037920/ss_d44315913403a62467239f2950527d4656a1c42b.1920x1080.jpg?t=1553392305"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1037920/ss_d77870a023962eb53890f1fcebb623cd1bda9fe0.600x338.jpg?t=1551318618",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1037920/ss_d77870a023962eb53890f1fcebb623cd1bda9fe0.1920x1080.jpg?t=1551318618"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1037920/ss_8ff433d22323ce839ea3e3145e42b2d6af475a6e.600x338.jpg?t=1553392305",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1037920/ss_8ff433d22323ce839ea3e3145e42b2d6af475a6e.1920x1080.jpg?t=1553392305"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1037920/ss_bff134adaf78d25c87566a82867d88a0d79fc325.600x338.jpg?t=1551318618",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1037920/ss_bff134adaf78d25c87566a82867d88a0d79fc325.1920x1080.jpg?t=1551318618"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1037920/ss_1ce0e1a5e55405b6a3cdbdc95fe154c902c2431b.600x338.jpg?t=1553392305",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1037920/ss_1ce0e1a5e55405b6a3cdbdc95fe154c902c2431b.1920x1080.jpg?t=1553392305"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1037920/ss_5730c87b0124cfeea1cfe3251bdd2bedde3efbd5.600x338.jpg?t=1551318618",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1037920/ss_5730c87b0124cfeea1cfe3251bdd2bedde3efbd5.1920x1080.jpg?t=1551318618"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1037920/ss_35b2c25373646fbc0b90f9ebf53c4f325e3c8fb0.600x338.jpg?t=1553392305",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1037920/ss_35b2c25373646fbc0b90f9ebf53c4f325e3c8fb0.1920x1080.jpg?t=1553392305"
                 }
             ],
+            "achievements": {
+                "total": 6,
+                "highlighted": [
+                    {
+                        "name": "Start Game",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1037920/ef1cbf9f9e000647e5421524d240ce4b8e670944.jpg"
+                    },
+                    {
+                        "name": "First Fall",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1037920/6258e83aa47960cd4b011f481c6d419a08c3006e.jpg"
+                    },
+                    {
+                        "name": "First 1k",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1037920/6224e0e66a95ae5a421d0da4185f8c8aabb792ed.jpg"
+                    },
+                    {
+                        "name": "Skilled",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1037920/0e9652e2123d9b56d4296a6c01f344a057f1d86a.jpg"
+                    },
+                    {
+                        "name": "Pro",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1037920/ac16f1d56983d936760284a569f88bad23a54e4c.jpg"
+                    },
+                    {
+                        "name": "Learned the game",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1037920/22bd1bf2abf4563427768b63ec56f90a2895bde5.jpg"
+                    }
+                ]
+            },
             "release_date": {
-                "coming_soon": true,
-                "date": "18 Mar, 2019"
+                "coming_soon": false,
+                "date": "23 Mar, 2019"
             },
             "support_info": {
                 "url": "",
                 "email": "oksdev@mail.ru"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1037920/page_bg_generated_v6b.jpg?t=1551318618",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1037920/page_bg_generated_v6b.jpg?t=1553392305",
             "content_descriptors": {
                 "ids": [],
                 "notes": null

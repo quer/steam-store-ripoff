@@ -11,7 +11,7 @@
             "about_the_game": "<strong>Grand Dude Simulator</strong> is an open world sandbox game. This is a life simulator. The main objective is to enjoy what you are doing. You can do whatever you want. You can explore the town, find money and spend it to buy something, kill someone, enter any building – just everything that can be done in real life. You can live a regular life of an ordinary person or you can do any crazy things, play jokes on other people, and so on – it is all up to you.",
             "short_description": "Grand Dude Simulator is an open world sandbox game. This is a life simulator. The main objective is to enjoy what you are doing.",
             "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1037960/header.jpg?t=1552088157",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1037960/header.jpg?t=1552825064",
             "website": null,
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP, 7, 8, 10<br></li><li><strong>Processor:</strong> Dual Core 2.4 GHz<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> GeForce GTX 550<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>",
@@ -20,12 +20,45 @@
             "mac_requirements": [],
             "linux_requirements": [],
             "developers": [
-                "The Kiddy"
+                "Kiddy"
             ],
             "publishers": [
-                "The Kiddy"
+                "Kiddy"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 399,
+                "final": 399,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "3,99€"
+            },
+            "packages": [
+                345667
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Grand Dude Simulator",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 345667,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Grand Dude Simulator - 3,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 399
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": false,
@@ -52,28 +85,28 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1037960/ss_fcc5fe29cb557961584381228c64e1c004029ada.600x338.jpg?t=1552088157",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1037960/ss_fcc5fe29cb557961584381228c64e1c004029ada.1920x1080.jpg?t=1552088157"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1037960/ss_fcc5fe29cb557961584381228c64e1c004029ada.600x338.jpg?t=1552825064",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1037960/ss_fcc5fe29cb557961584381228c64e1c004029ada.1920x1080.jpg?t=1552825064"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1037960/ss_079659e4c782bd9b3dcb665c69b9bbe5cd41ec0e.600x338.jpg?t=1552088157",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1037960/ss_079659e4c782bd9b3dcb665c69b9bbe5cd41ec0e.1920x1080.jpg?t=1552088157"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1037960/ss_079659e4c782bd9b3dcb665c69b9bbe5cd41ec0e.600x338.jpg?t=1552825064",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1037960/ss_079659e4c782bd9b3dcb665c69b9bbe5cd41ec0e.1920x1080.jpg?t=1552825064"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1037960/ss_ffd9305d309d8c7f808195a2813a953b0a963f2d.600x338.jpg?t=1552088157",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1037960/ss_ffd9305d309d8c7f808195a2813a953b0a963f2d.1920x1080.jpg?t=1552088157"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1037960/ss_ffd9305d309d8c7f808195a2813a953b0a963f2d.600x338.jpg?t=1552825064",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1037960/ss_ffd9305d309d8c7f808195a2813a953b0a963f2d.1920x1080.jpg?t=1552825064"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1037960/ss_1ab171ade46491a7283b3ed80f72b701cc0a1c09.600x338.jpg?t=1552088157",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1037960/ss_1ab171ade46491a7283b3ed80f72b701cc0a1c09.1920x1080.jpg?t=1552088157"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1037960/ss_1ab171ade46491a7283b3ed80f72b701cc0a1c09.600x338.jpg?t=1552825064",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1037960/ss_1ab171ade46491a7283b3ed80f72b701cc0a1c09.1920x1080.jpg?t=1552825064"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1037960/ss_194c8008a050ab6c9ad8742b8162969d357f2d54.600x338.jpg?t=1552088157",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1037960/ss_194c8008a050ab6c9ad8742b8162969d357f2d54.1920x1080.jpg?t=1552088157"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1037960/ss_194c8008a050ab6c9ad8742b8162969d357f2d54.600x338.jpg?t=1552825064",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1037960/ss_194c8008a050ab6c9ad8742b8162969d357f2d54.1920x1080.jpg?t=1552825064"
                 }
             ],
             "movies": [
@@ -89,14 +122,14 @@
                 }
             ],
             "release_date": {
-                "coming_soon": true,
-                "date": "13 Mar, 2019"
+                "coming_soon": false,
+                "date": "12 Mar, 2019"
             },
             "support_info": {
                 "url": "",
                 "email": "jooomly@gmail.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1037960/page_bg_generated_v6b.jpg?t=1552088157",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1037960/page_bg_generated_v6b.jpg?t=1552825064",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
