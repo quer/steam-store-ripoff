@@ -44,17 +44,17 @@
             ],
             "price_overview": {
                 "currency": "EUR",
-                "initial": 3999,
-                "final": 479,
-                "discount_percent": 88,
-                "initial_formatted": "39,99€",
-                "final_formatted": "4,79€"
+                "initial": 12099,
+                "final": 1209,
+                "discount_percent": 90,
+                "initial_formatted": "120,99€",
+                "final_formatted": "12,09€"
             },
             "packages": [
                 17496,
-                44162,
+                55062,
                 69238,
-                55062
+                44162
             ],
             "package_groups": [
                 {
@@ -77,14 +77,14 @@
                             "price_in_cents_with_discount": 1999
                         },
                         {
-                            "packageid": 44162,
-                            "percent_savings_text": "-88%",
+                            "packageid": 55062,
+                            "percent_savings_text": "-90%",
                             "percent_savings": 0,
-                            "option_text": "Daedalic Adventure Bundle - <span class=\"discount_original_price\">39,99€</span> 4,79€",
+                            "option_text": "The Daedalic Armageddon Bundle - <span class=\"discount_original_price\">120,99€</span> 12,09€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 479
+                            "price_in_cents_with_discount": 1209
                         },
                         {
                             "packageid": 69238,
@@ -97,14 +97,14 @@
                             "price_in_cents_with_discount": 2999
                         },
                         {
-                            "packageid": 55062,
+                            "packageid": 44162,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "The Daedalic Armageddon Bundle - 120,99€",
+                            "option_text": "Daedalic Adventure Bundle - 39,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 12099
+                            "price_in_cents_with_discount": 3999
                         }
                     ]
                 }
@@ -251,7 +251,7 @@
                 }
             ],
             "recommendations": {
-                "total": 1368
+                "total": 1373
             },
             "achievements": {
                 "total": 29,
