@@ -29,10 +29,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 999,
-                "final": 999,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "9,99€"
+                "final": 339,
+                "discount_percent": 66,
+                "initial_formatted": "9,99€",
+                "final_formatted": "3,39€"
             },
             "packages": [
                 1423
@@ -49,13 +49,13 @@
                     "subs": [
                         {
                             "packageid": 1423,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-66%",
                             "percent_savings": 0,
-                            "option_text": "Tom Clancy's EndWar™ - 9,99€",
+                            "option_text": "Tom Clancy's EndWar™ - <span class=\"discount_original_price\">9,99€</span> 3,39€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 999
+                            "price_in_cents_with_discount": 339
                         }
                     ]
                 }
@@ -118,7 +118,7 @@
                 }
             ],
             "recommendations": {
-                "total": 345
+                "total": 347
             },
             "achievements": {
                 "total": 0
