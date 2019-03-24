@@ -7,11 +7,14 @@
             "steam_appid": 1042030,
             "required_age": 0,
             "is_free": false,
+            "dlc": [
+                1054670
+            ],
             "detailed_description": "Meet beautiful girls and spend time in their company dealing with scattered pieces of their memories. You will meet with such girls as Mika, who is 20 years old, another girlfriend Hikeru, who is 18 and other girls from 18 to 23.<br />\r\n<br />\r\nThe game is a classic puzzle. You have to go through all ten stages, as well as three levels of difficulty, in which pleasant surprises await you ;-)<br />\r\n<br />\r\n- Puzzle Game<br />\r\n<br />\r\n- Artworks<br />\r\n<br />\r\n- Nice music<br />\r\n<br />\r\n- Steam achievements<br />\r\n<br />\r\nKeyboard H: Complete Level",
             "about_the_game": "Meet beautiful girls and spend time in their company dealing with scattered pieces of their memories. You will meet with such girls as Mika, who is 20 years old, another girlfriend Hikeru, who is 18 and other girls from 18 to 23.<br />\r\n<br />\r\nThe game is a classic puzzle. You have to go through all ten stages, as well as three levels of difficulty, in which pleasant surprises await you ;-)<br />\r\n<br />\r\n- Puzzle Game<br />\r\n<br />\r\n- Artworks<br />\r\n<br />\r\n- Nice music<br />\r\n<br />\r\n- Steam achievements<br />\r\n<br />\r\nKeyboard H: Complete Level",
             "short_description": "The game is a classic puzzle with three levels of difficulty.",
             "supported_languages": "English",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1042030/header.jpg?t=1551452001",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1042030/header.jpg?t=1553248898",
             "website": null,
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10, Windows 8, Windows 7 32-bit<br></li><li><strong>Processor:</strong> Quad-core Intel or AMD processor, 2 GHz or faster<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> 1 Gb<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>",
@@ -25,7 +28,40 @@
             "publishers": [
                 "IR Studio"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 79,
+                "final": 47,
+                "discount_percent": 41,
+                "initial_formatted": "0,79€",
+                "final_formatted": "0,47€"
+            },
+            "packages": [
+                347118
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Nyasha Winter",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 347118,
+                            "percent_savings_text": "-41%",
+                            "percent_savings": 0,
+                            "option_text": "Nyasha Winter - <span class=\"discount_original_price\">0,79€</span> 0,47€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 47
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": false,
@@ -54,39 +90,96 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1042030/ss_7166ba786132ed094cd80521313e0ddb0ea9f7cc.600x338.jpg?t=1551452001",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1042030/ss_7166ba786132ed094cd80521313e0ddb0ea9f7cc.1920x1080.jpg?t=1551452001"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1042030/ss_227bbc67843e3545950d9596310c268316312470.600x338.jpg?t=1553248898",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1042030/ss_227bbc67843e3545950d9596310c268316312470.1920x1080.jpg?t=1553248898"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1042030/ss_96779290b46242ff91aa5d057821cef6eaea5727.600x338.jpg?t=1551452001",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1042030/ss_96779290b46242ff91aa5d057821cef6eaea5727.1920x1080.jpg?t=1551452001"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1042030/ss_414bfeacd7e3121c4098fc896e77e3d9bff0a529.600x338.jpg?t=1553248898",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1042030/ss_414bfeacd7e3121c4098fc896e77e3d9bff0a529.1920x1080.jpg?t=1553248898"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1042030/ss_c313fa789da3a93b5f983120a678f1c6f6883612.600x338.jpg?t=1551452001",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1042030/ss_c313fa789da3a93b5f983120a678f1c6f6883612.1920x1080.jpg?t=1551452001"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1042030/ss_1f2bc55949ebc99574dee154dbc1fb2d86304020.600x338.jpg?t=1553248898",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1042030/ss_1f2bc55949ebc99574dee154dbc1fb2d86304020.1920x1080.jpg?t=1553248898"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1042030/ss_227bbc67843e3545950d9596310c268316312470.600x338.jpg?t=1551452001",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1042030/ss_227bbc67843e3545950d9596310c268316312470.1920x1080.jpg?t=1551452001"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1042030/ss_d39ca4738a424ade9713188fc6bb4233118be44b.600x338.jpg?t=1553248898",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1042030/ss_d39ca4738a424ade9713188fc6bb4233118be44b.1920x1080.jpg?t=1553248898"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1042030/ss_414bfeacd7e3121c4098fc896e77e3d9bff0a529.600x338.jpg?t=1551452001",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1042030/ss_414bfeacd7e3121c4098fc896e77e3d9bff0a529.1920x1080.jpg?t=1551452001"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1042030/ss_b85a9aa45c89b58c9a8ed1b4412c515d498c785f.600x338.jpg?t=1553248898",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1042030/ss_b85a9aa45c89b58c9a8ed1b4412c515d498c785f.1920x1080.jpg?t=1553248898"
                 }
             ],
+            "movies": [
+                {
+                    "id": 256744135,
+                    "name": "Nyasha Winter - trailer",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256744135/movie.293x165.jpg?t=1552987606",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256744135/movie480.webm?t=1552987606",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256744135/movie_max.webm?t=1552987606"
+                    },
+                    "highlight": true
+                }
+            ],
+            "achievements": {
+                "total": 32,
+                "highlighted": [
+                    {
+                        "name": "Play",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042030/c88d717f6086ee9ec96bea7825f08b60da8a2da0.jpg"
+                    },
+                    {
+                        "name": "Off",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042030/86db60d5e2aaeacabd7ec95d5376ce34ff747503.jpg"
+                    },
+                    {
+                        "name": "Ume",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042030/673551001bb4447dda2c907d5a05c799f95adcdf.jpg"
+                    },
+                    {
+                        "name": "Ume",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042030/f457989ad7f8a667a9568b188b918e7b5aa0f35b.jpg"
+                    },
+                    {
+                        "name": "Ume",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042030/f502d72be8d3c36f372193d797731a9b83bb5252.jpg"
+                    },
+                    {
+                        "name": "Shizuka",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042030/7e139c463059164e2fcd6ccb73782acc5a76fe2c.jpg"
+                    },
+                    {
+                        "name": "Shizuka",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042030/855c73c4801500e5f54610bef7773a697b60eecb.jpg"
+                    },
+                    {
+                        "name": "Shizuka",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042030/6aeafc25a28a6b4b4cb3f2b1b6cb4b90608903d0.jpg"
+                    },
+                    {
+                        "name": "Mika",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042030/013698e03534d8a80857d390f11a9ae05682c3b2.jpg"
+                    },
+                    {
+                        "name": "Mika",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042030/910390718b1968820cd7498bc94a10dd44ce935f.jpg"
+                    }
+                ]
+            },
             "release_date": {
-                "coming_soon": true,
-                "date": "14 Mar, 2019"
+                "coming_soon": false,
+                "date": "22 Mar, 2019"
             },
             "support_info": {
                 "url": "",
                 "email": "irstudio2016@gmail.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1042030/page_bg_generated_v6b.jpg?t=1551452001",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1042030/page_bg_generated_v6b.jpg?t=1553248898",
             "content_descriptors": {
                 "ids": [
                     1,
