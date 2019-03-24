@@ -30,10 +30,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 569,
-                "final": 512,
-                "discount_percent": 10,
-                "initial_formatted": "5,69€",
-                "final_formatted": "5,12€"
+                "final": 569,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "5,69€"
             },
             "packages": [
                 336611
@@ -50,13 +50,13 @@
                     "subs": [
                         {
                             "packageid": 336611,
-                            "percent_savings_text": "-10%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Land Of The Void - <span class=\"discount_original_price\">5,69€</span> 5,12€",
+                            "option_text": "Land Of The Void - 5,69€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 512
+                            "price_in_cents_with_discount": 569
                         }
                     ]
                 }
