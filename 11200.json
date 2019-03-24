@@ -36,10 +36,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 999,
-                "final": 999,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "9,99€"
+                "final": 149,
+                "discount_percent": 85,
+                "initial_formatted": "9,99€",
+                "final_formatted": "1,49€"
             },
             "packages": [
                 551,
@@ -58,33 +58,33 @@
                     "subs": [
                         {
                             "packageid": 551,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-85%",
                             "percent_savings": 0,
-                            "option_text": "Shadowgrounds Survivor - 9,99€",
+                            "option_text": "Shadowgrounds Survivor - <span class=\"discount_original_price\">9,99€</span> 1,49€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 999
+                            "price_in_cents_with_discount": 149
                         },
                         {
                             "packageid": 230358,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-50%",
                             "percent_savings": 0,
-                            "option_text": "Shadowgrounds: Survivor - Commercial License - 12,99€",
+                            "option_text": "Shadowgrounds: Survivor - Commercial License - <span class=\"discount_original_price\">12,99€</span> 6,49€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1299
+                            "price_in_cents_with_discount": 649
                         },
                         {
                             "packageid": 552,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-85%",
                             "percent_savings": 0,
-                            "option_text": "Shadowgrounds Pack - 9,99€",
+                            "option_text": "Shadowgrounds Pack - <span class=\"discount_original_price\">9,99€</span> 1,49€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 999
+                            "price_in_cents_with_discount": 149
                         }
                     ]
                 }
