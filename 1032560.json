@@ -11,7 +11,7 @@
             "about_the_game": "<strong>Faux</strong> is a 2D fast-paced platformer where the player needs to pass all the traps in order to proceed.<br>Journey through the test chambers as you discover new abilities that either enhance, or decrease your performance.<br><br><br><br><br><strong>FEATURES</strong><br><br><ul class=\"bb_ul\"><li> Controller Support<br><br></li><li>Steam Achievements<br><br></li><li> Exciting and fast-paced gameplay<br><br></li><li>Replayability</li></ul>",
             "short_description": "Play as Faux, the artificial human and pass the difficult challenges that lie ahead.",
             "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1032560/header.jpg?t=1550285256",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1032560/header.jpg?t=1552921200",
             "website": null,
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 64-bit<br></li><li><strong>Processor:</strong> 2 GHz<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD 4000<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 250 MB available space</li></ul>",
@@ -26,7 +26,40 @@
             "publishers": [
                 "Pelagames"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 239,
+                "final": 191,
+                "discount_percent": 20,
+                "initial_formatted": "2,39€",
+                "final_formatted": "1,91€"
+            },
+            "packages": [
+                343519
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Faux",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 343519,
+                            "percent_savings_text": "-20%",
+                            "percent_savings": 0,
+                            "option_text": "Faux - <span class=\"discount_original_price\">2,39€</span> 1,91€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 191
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": false,
@@ -59,38 +92,38 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1032560/ss_ca8aa5d3a073a02b0a1b257cbe3796b8869d3bd2.600x338.jpg?t=1550285256",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1032560/ss_ca8aa5d3a073a02b0a1b257cbe3796b8869d3bd2.1920x1080.jpg?t=1550285256"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1032560/ss_ca8aa5d3a073a02b0a1b257cbe3796b8869d3bd2.600x338.jpg?t=1552921200",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1032560/ss_ca8aa5d3a073a02b0a1b257cbe3796b8869d3bd2.1920x1080.jpg?t=1552921200"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1032560/ss_b3d73505d1c5b0e5d7fbac264d14deb07215ea2e.600x338.jpg?t=1550285256",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1032560/ss_b3d73505d1c5b0e5d7fbac264d14deb07215ea2e.1920x1080.jpg?t=1550285256"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1032560/ss_b3d73505d1c5b0e5d7fbac264d14deb07215ea2e.600x338.jpg?t=1552921200",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1032560/ss_b3d73505d1c5b0e5d7fbac264d14deb07215ea2e.1920x1080.jpg?t=1552921200"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1032560/ss_44803f50a54512650e893015555e378543b57abe.600x338.jpg?t=1550285256",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1032560/ss_44803f50a54512650e893015555e378543b57abe.1920x1080.jpg?t=1550285256"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1032560/ss_44803f50a54512650e893015555e378543b57abe.600x338.jpg?t=1552921200",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1032560/ss_44803f50a54512650e893015555e378543b57abe.1920x1080.jpg?t=1552921200"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1032560/ss_8979f356e08c2e473cfac6e34a14c5459b363d74.600x338.jpg?t=1550285256",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1032560/ss_8979f356e08c2e473cfac6e34a14c5459b363d74.1920x1080.jpg?t=1550285256"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1032560/ss_8979f356e08c2e473cfac6e34a14c5459b363d74.600x338.jpg?t=1552921200",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1032560/ss_8979f356e08c2e473cfac6e34a14c5459b363d74.1920x1080.jpg?t=1552921200"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1032560/ss_bcc0e17703c3207baf26da29ec3f86a03c82c968.600x338.jpg?t=1550285256",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1032560/ss_bcc0e17703c3207baf26da29ec3f86a03c82c968.1920x1080.jpg?t=1550285256"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1032560/ss_bcc0e17703c3207baf26da29ec3f86a03c82c968.600x338.jpg?t=1552921200",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1032560/ss_bcc0e17703c3207baf26da29ec3f86a03c82c968.1920x1080.jpg?t=1552921200"
                 },
                 {
                     "id": 5,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1032560/ss_0078807b654d7a9ecde89ad2f89187c38d692867.600x338.jpg?t=1550285256",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1032560/ss_0078807b654d7a9ecde89ad2f89187c38d692867.1920x1080.jpg?t=1550285256"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1032560/ss_0078807b654d7a9ecde89ad2f89187c38d692867.600x338.jpg?t=1552921200",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1032560/ss_0078807b654d7a9ecde89ad2f89187c38d692867.1920x1080.jpg?t=1552921200"
                 },
                 {
                     "id": 6,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1032560/ss_af0e52bc0e213288004f23dcb778bd1d70d8fb82.600x338.jpg?t=1550285256",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1032560/ss_af0e52bc0e213288004f23dcb778bd1d70d8fb82.1920x1080.jpg?t=1550285256"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1032560/ss_af0e52bc0e213288004f23dcb778bd1d70d8fb82.600x338.jpg?t=1552921200",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1032560/ss_af0e52bc0e213288004f23dcb778bd1d70d8fb82.1920x1080.jpg?t=1552921200"
                 }
             ],
             "movies": [
@@ -105,15 +138,60 @@
                     "highlight": true
                 }
             ],
+            "achievements": {
+                "total": 10,
+                "highlighted": [
+                    {
+                        "name": "I saw that!",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1032560/8db7c3107c70b97d96c54b7c33deecceaa79faf6.jpg"
+                    },
+                    {
+                        "name": "I saw what you did there!",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1032560/13ea01602146a30fd462b787b425e9d23b0a8ac3.jpg"
+                    },
+                    {
+                        "name": "Death enthusiast!",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1032560/8be06e0919d2ce700e272db2ae8d387b033c49fd.jpg"
+                    },
+                    {
+                        "name": "Give up the ghost",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1032560/49b4b22b0062c3eaa7af8421604274b5509d1790.jpg"
+                    },
+                    {
+                        "name": "I caught it!",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1032560/657b6742496d01640e665f993e0aab737d85d3b3.jpg"
+                    },
+                    {
+                        "name": "Fast and Furious",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1032560/cb78a5850fb016de7cd91fe2a99595fff51aaa54.jpg"
+                    },
+                    {
+                        "name": "Enlightened",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1032560/0940f005684ca4f9fca30b97ae73ab78d2f225f5.jpg"
+                    },
+                    {
+                        "name": "illuminated",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1032560/83a7d6957752aae4f754f329032fa71a45524b31.jpg"
+                    },
+                    {
+                        "name": "All-knowing",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1032560/121fcb5d10625125a417d343307c576a9dd6ef57.jpg"
+                    },
+                    {
+                        "name": "Paragon",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1032560/083b2f3a3a7e93aa3ae46d946d02c58e981263c8.jpg"
+                    }
+                ]
+            },
             "release_date": {
-                "coming_soon": true,
+                "coming_soon": false,
                 "date": "18 Mar, 2019"
             },
             "support_info": {
                 "url": "",
                 "email": "pelagames@yahoo.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1032560/page_bg_generated_v6b.jpg?t=1550285256",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1032560/page_bg_generated_v6b.jpg?t=1552921200",
             "content_descriptors": {
                 "ids": [
                     2,
