@@ -32,10 +32,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 17999,
-                "final": 10799,
-                "discount_percent": 40,
-                "initial_formatted": "179,99€",
-                "final_formatted": "107,99€"
+                "final": 17999,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "179,99€"
             },
             "packages": [
                 346393
@@ -52,13 +52,13 @@
                     "subs": [
                         {
                             "packageid": 346393,
-                            "percent_savings_text": "-40%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Star Conflict: Thar'Ga. Deluxe Version - <span class=\"discount_original_price\">179,99€</span> 107,99€",
+                            "option_text": "Star Conflict: Thar'Ga. Deluxe Version - 179,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 10799
+                            "price_in_cents_with_discount": 17999
                         }
                     ]
                 }
