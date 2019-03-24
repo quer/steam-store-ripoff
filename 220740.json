@@ -44,16 +44,16 @@
             ],
             "price_overview": {
                 "currency": "EUR",
-                "initial": 1999,
-                "final": 199,
+                "initial": 12099,
+                "final": 1209,
                 "discount_percent": 90,
-                "initial_formatted": "19,99€",
-                "final_formatted": "1,99€"
+                "initial_formatted": "120,99€",
+                "final_formatted": "12,09€"
             },
             "packages": [
                 17922,
-                69238,
-                55062
+                55062,
+                69238
             ],
             "package_groups": [
                 {
@@ -67,13 +67,23 @@
                     "subs": [
                         {
                             "packageid": 17922,
-                            "percent_savings_text": "-90%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Chaos on Deponia - <span class=\"discount_original_price\">19,99€</span> 1,99€",
+                            "option_text": "Chaos on Deponia - 19,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 199
+                            "price_in_cents_with_discount": 1999
+                        },
+                        {
+                            "packageid": 55062,
+                            "percent_savings_text": "-90%",
+                            "percent_savings": 0,
+                            "option_text": "The Daedalic Armageddon Bundle - <span class=\"discount_original_price\">120,99€</span> 12,09€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 1209
                         },
                         {
                             "packageid": 69238,
@@ -84,16 +94,6 @@
                             "can_get_free_license": "0",
                             "is_free_license": false,
                             "price_in_cents_with_discount": 2999
-                        },
-                        {
-                            "packageid": 55062,
-                            "percent_savings_text": "",
-                            "percent_savings": 0,
-                            "option_text": "The Daedalic Armageddon Bundle - 120,99€",
-                            "option_description": "",
-                            "can_get_free_license": "0",
-                            "is_free_license": false,
-                            "price_in_cents_with_discount": 12099
                         }
                     ]
                 }
