@@ -11,12 +11,14 @@
             "about_the_game": "This is a simple game. Use it to make, share, and play text-only stories.<br><br>One Synth is a text based adventure editor based in a Gameboy aesthetic. <br>Using the Create feature you can design stories that:<ul class=\"bb_ul\"><li>Have multiple endings<br></li><li>Can be manipulated by user interaction<br></li><li>Loop back to checkpoints<br></li><li>Store variables when decisions are made<br></li><li>Alternate stories based on saved variables<br></li><li>Are fun to play</li></ul><br>The game is directly fueled by Steam Workshop, featuring upload and download capabilities from within game.<br>This allows anybody with a Steam account to play completely for free and enjoy an expansive, ever-growing community effort.<br><br>Make stories. Share stories. Play stories.<br><br>This, is One Synth.",
             "short_description": "A text based adventure editor - upload and play text based games from across the world using Steam Workshop",
             "supported_languages": "English",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1014550/header.jpg?t=1550330165",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1014550/header.jpg?t=1553049096",
             "website": null,
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Microsoft® Windows® 7<br></li><li><strong>Processor:</strong> 2.8 GHz Intel® Core™2 Duo or better<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> 512 MB<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Storage:</strong> 512 MB available space</li></ul>"
             },
-            "mac_requirements": [],
+            "mac_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OS X 10.9+</li></ul>"
+            },
             "linux_requirements": [],
             "developers": [
                 "Kawaiisun Games"
@@ -27,7 +29,7 @@
             "package_groups": [],
             "platforms": {
                 "windows": true,
-                "mac": false,
+                "mac": true,
                 "linux": false
             },
             "categories": [
@@ -65,33 +67,33 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1014550/ss_86cffbeff73e9bfb47a756db6f1e5ad45b4e0dd1.600x338.jpg?t=1550330165",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1014550/ss_86cffbeff73e9bfb47a756db6f1e5ad45b4e0dd1.1920x1080.jpg?t=1550330165"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1014550/ss_86cffbeff73e9bfb47a756db6f1e5ad45b4e0dd1.600x338.jpg?t=1553049096",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1014550/ss_86cffbeff73e9bfb47a756db6f1e5ad45b4e0dd1.1920x1080.jpg?t=1553049096"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1014550/ss_a3b76bb9735b9c5bb1569798faa375823e98b6aa.600x338.jpg?t=1550330165",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1014550/ss_a3b76bb9735b9c5bb1569798faa375823e98b6aa.1920x1080.jpg?t=1550330165"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1014550/ss_a3b76bb9735b9c5bb1569798faa375823e98b6aa.600x338.jpg?t=1553049096",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1014550/ss_a3b76bb9735b9c5bb1569798faa375823e98b6aa.1920x1080.jpg?t=1553049096"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1014550/ss_fa03e74de77aa7a6e3ff76f93dec6015970dd384.600x338.jpg?t=1550330165",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1014550/ss_fa03e74de77aa7a6e3ff76f93dec6015970dd384.1920x1080.jpg?t=1550330165"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1014550/ss_fa03e74de77aa7a6e3ff76f93dec6015970dd384.600x338.jpg?t=1553049096",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1014550/ss_fa03e74de77aa7a6e3ff76f93dec6015970dd384.1920x1080.jpg?t=1553049096"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1014550/ss_712ddd3577ac4e2ced282b3001fcd8e7872c6ba8.600x338.jpg?t=1550330165",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1014550/ss_712ddd3577ac4e2ced282b3001fcd8e7872c6ba8.1920x1080.jpg?t=1550330165"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1014550/ss_712ddd3577ac4e2ced282b3001fcd8e7872c6ba8.600x338.jpg?t=1553049096",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1014550/ss_712ddd3577ac4e2ced282b3001fcd8e7872c6ba8.1920x1080.jpg?t=1553049096"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1014550/ss_854cf0779ff626daeb26447f423389da24525c73.600x338.jpg?t=1550330165",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1014550/ss_854cf0779ff626daeb26447f423389da24525c73.1920x1080.jpg?t=1550330165"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1014550/ss_854cf0779ff626daeb26447f423389da24525c73.600x338.jpg?t=1553049096",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1014550/ss_854cf0779ff626daeb26447f423389da24525c73.1920x1080.jpg?t=1553049096"
                 },
                 {
                     "id": 5,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1014550/ss_eaafb43af53801117f85e275127e3a4bb4853cfc.600x338.jpg?t=1550330165",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1014550/ss_eaafb43af53801117f85e275127e3a4bb4853cfc.1920x1080.jpg?t=1550330165"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1014550/ss_eaafb43af53801117f85e275127e3a4bb4853cfc.600x338.jpg?t=1553049096",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1014550/ss_eaafb43af53801117f85e275127e3a4bb4853cfc.1920x1080.jpg?t=1553049096"
                 }
             ],
             "movies": [
@@ -117,7 +119,7 @@
                 "url": "",
                 "email": "kawaiisungames@gmail.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1014550/page_bg_generated_v6b.jpg?t=1550330165",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1014550/page_bg_generated_v6b.jpg?t=1553049096",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
