@@ -7,11 +7,14 @@
             "steam_appid": 1036910,
             "required_age": 0,
             "is_free": false,
-            "detailed_description": "<strong>After wandering through many parallel worlds, The Wallet return to his owner. The woman was happy to find it. She has enough money to pay off her debt now. But The Wallet did not have enough money to fulfill the sacred dream of an elderly lady. She has long wanted to get on her favorite show. On her birthday, The Magic Wallet decided to visit the parallel worlds again, to find a way to fulfill its owner dream.<br><br>This game is a decent continuation of the legendary game 100$.<br><br>Features:<br>- Casual arcade gameplay with puzzle elements.<br>- New levels with varying difficulty.<br>- A fascinating comics-style story.<br>- Minimalistic graphics.</strong>",
-            "about_the_game": "<strong>After wandering through many parallel worlds, The Wallet return to his owner. The woman was happy to find it. She has enough money to pay off her debt now. But The Wallet did not have enough money to fulfill the sacred dream of an elderly lady. She has long wanted to get on her favorite show. On her birthday, The Magic Wallet decided to visit the parallel worlds again, to find a way to fulfill its owner dream.<br><br>This game is a decent continuation of the legendary game 100$.<br><br>Features:<br>- Casual arcade gameplay with puzzle elements.<br>- New levels with varying difficulty.<br>- A fascinating comics-style story.<br>- Minimalistic graphics.</strong>",
+            "dlc": [
+                1045410
+            ],
+            "detailed_description": "<strong>After wandering through many parallel worlds, The Wallet return to his owner. The woman was happy to find it. She has enough money to pay off her debt now. But The Wallet did not have enough money to fulfill the sacred dream of an elderly lady. She has long wanted to get on her favorite show. On her birthday, The Magic Wallet decided to visit the parallel worlds again, to find a way to fulfill its owner dream.<br><br>This game is a decent continuation of the legendary game 100$.<br><br>Features:<br>- Casual arcade gameplay with puzzle elements.<br>- New levels with varying difficulty.<br>- A fascinating comics-style story.<br>- An intuitive story without words.<br>- Minimalistic graphics.</strong>",
+            "about_the_game": "<strong>After wandering through many parallel worlds, The Wallet return to his owner. The woman was happy to find it. She has enough money to pay off her debt now. But The Wallet did not have enough money to fulfill the sacred dream of an elderly lady. She has long wanted to get on her favorite show. On her birthday, The Magic Wallet decided to visit the parallel worlds again, to find a way to fulfill its owner dream.<br><br>This game is a decent continuation of the legendary game 100$.<br><br>Features:<br>- Casual arcade gameplay with puzzle elements.<br>- New levels with varying difficulty.<br>- A fascinating comics-style story.<br>- An intuitive story without words.<br>- Minimalistic graphics.</strong>",
             "short_description": "The Magic Wallet once again take his quest in search for untold wealth, to fulfill the long-held dream of its owner. Go to parallel worlds to collect hundreds of euros, and make the old lady happy!",
-            "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Arabic<strong>*</strong>, Bulgarian<strong>*</strong>, Portuguese - Brazil<strong>*</strong>, Hungarian<strong>*</strong>, Vietnamese<strong>*</strong>, Greek<strong>*</strong>, Danish<strong>*</strong>, Spanish - Latin America<strong>*</strong>, Traditional Chinese<strong>*</strong>, Simplified Chinese<strong>*</strong>, Korean<strong>*</strong>, Dutch<strong>*</strong>, Norwegian<strong>*</strong>, Polish<strong>*</strong>, Portuguese<strong>*</strong>, Romanian<strong>*</strong>, Russian<strong>*</strong>, Thai<strong>*</strong>, Turkish<strong>*</strong>, Ukrainian<strong>*</strong>, Finnish<strong>*</strong>, Czech<strong>*</strong>, Swedish<strong>*</strong>, Japanese<strong>*</strong><br><strong>*</strong>languages with full audio support",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1036910/header.jpg?t=1552035036",
+            "supported_languages": "English, French, Italian, German, Spanish - Spain, Arabic, Bulgarian, Portuguese - Brazil, Hungarian, Vietnamese, Greek, Danish, Spanish - Latin America, Traditional Chinese, Simplified Chinese, Korean, Dutch, Norwegian, Polish, Portuguese, Romanian, Russian, Thai, Turkish, Ukrainian, Finnish, Czech, Swedish, Japanese",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1036910/header.jpg?t=1552937000",
             "website": null,
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10 (x64)<br></li><li><strong>Processor:</strong> Intel Celeron 2000 MHz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> DirectX 11 aviable<br></li><li><strong>Storage:</strong> 100 MB available space<br></li><li><strong>Sound Card:</strong> DirectSound Compatible<br></li><li><strong>Additional Notes:</strong> Keyboard, Mouse</li></ul>"
@@ -24,7 +27,40 @@
             "publishers": [
                 "КиКо"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 79,
+                "final": 47,
+                "discount_percent": 41,
+                "initial_formatted": "0,79€",
+                "final_formatted": "0,47€"
+            },
+            "packages": [
+                345271
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy €100",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 345271,
+                            "percent_savings_text": "-41%",
+                            "percent_savings": 0,
+                            "option_text": "€100 - <span class=\"discount_original_price\">0,79€</span> 0,47€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 47
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": false,
@@ -34,6 +70,10 @@
                 {
                     "id": 2,
                     "description": "Single-player"
+                },
+                {
+                    "id": 22,
+                    "description": "Steam Achievements"
                 }
             ],
             "genres": [
@@ -45,28 +85,28 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1036910/ss_ec83ac9645baaf509d6f24723e2a7eed82070465.600x338.jpg?t=1552035036",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1036910/ss_ec83ac9645baaf509d6f24723e2a7eed82070465.1920x1080.jpg?t=1552035036"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1036910/ss_ec83ac9645baaf509d6f24723e2a7eed82070465.600x338.jpg?t=1552937000",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1036910/ss_ec83ac9645baaf509d6f24723e2a7eed82070465.1920x1080.jpg?t=1552937000"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1036910/ss_800e18be01929a24fc54e29a1971e798589ebcf0.600x338.jpg?t=1552035036",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1036910/ss_800e18be01929a24fc54e29a1971e798589ebcf0.1920x1080.jpg?t=1552035036"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1036910/ss_800e18be01929a24fc54e29a1971e798589ebcf0.600x338.jpg?t=1552937000",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1036910/ss_800e18be01929a24fc54e29a1971e798589ebcf0.1920x1080.jpg?t=1552937000"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1036910/ss_19671c985c2602230c6f54a7546932ad41b3b414.600x338.jpg?t=1552035036",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1036910/ss_19671c985c2602230c6f54a7546932ad41b3b414.1920x1080.jpg?t=1552035036"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1036910/ss_19671c985c2602230c6f54a7546932ad41b3b414.600x338.jpg?t=1552937000",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1036910/ss_19671c985c2602230c6f54a7546932ad41b3b414.1920x1080.jpg?t=1552937000"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1036910/ss_ebb88ef6ddf8970c4bb9c2178eb395da08c30c35.600x338.jpg?t=1552035036",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1036910/ss_ebb88ef6ddf8970c4bb9c2178eb395da08c30c35.1920x1080.jpg?t=1552035036"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1036910/ss_ebb88ef6ddf8970c4bb9c2178eb395da08c30c35.600x338.jpg?t=1552937000",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1036910/ss_ebb88ef6ddf8970c4bb9c2178eb395da08c30c35.1920x1080.jpg?t=1552937000"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1036910/ss_a523a9e63553a0f98d18ab54149ae81a582c39a3.600x338.jpg?t=1552035036",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1036910/ss_a523a9e63553a0f98d18ab54149ae81a582c39a3.1920x1080.jpg?t=1552035036"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1036910/ss_a523a9e63553a0f98d18ab54149ae81a582c39a3.600x338.jpg?t=1552937000",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1036910/ss_a523a9e63553a0f98d18ab54149ae81a582c39a3.1920x1080.jpg?t=1552937000"
                 }
             ],
             "movies": [
@@ -81,15 +121,60 @@
                     "highlight": true
                 }
             ],
+            "achievements": {
+                "total": 100,
+                "highlighted": [
+                    {
+                        "name": "KiKo",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1036910/6829948459af40428b389bb35d14ec4a47d2cefb.jpg"
+                    },
+                    {
+                        "name": "KiKo",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1036910/35f98084c9c0fce5aa5cd5f947718256af0296f9.jpg"
+                    },
+                    {
+                        "name": "KiKo",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1036910/d4c8eacdc6c5f59cdbd7d6bc2ae45c678235eac0.jpg"
+                    },
+                    {
+                        "name": "KiKo",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1036910/4f52387ec314c48ab8125421ae51625f0f66bd8c.jpg"
+                    },
+                    {
+                        "name": "KiKo",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1036910/a534b675d69cbb7bbe0990726325841647449143.jpg"
+                    },
+                    {
+                        "name": "KiKo",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1036910/33ea0f7749d11324fba0a40d44390676faf24487.jpg"
+                    },
+                    {
+                        "name": "KiKo",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1036910/e22be8270a452ae965b9c45b3d6e7fa6ffbeea9b.jpg"
+                    },
+                    {
+                        "name": "KiKo",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1036910/3453cf55c8e117ffafb90af25cf8660131942bb7.jpg"
+                    },
+                    {
+                        "name": "KiKo",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1036910/7927cc85545ea681e11935781316782d369248e6.jpg"
+                    },
+                    {
+                        "name": "KiKo",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1036910/ea550eab5f844d8249a34d8c0e2e7dfd20f8cec8.jpg"
+                    }
+                ]
+            },
             "release_date": {
-                "coming_soon": true,
-                "date": "22 Mar, 2019"
+                "coming_soon": false,
+                "date": "18 Mar, 2019"
             },
             "support_info": {
                 "url": "",
                 "email": "vidon@inbox.lv"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1036910/page_bg_generated_v6b.jpg?t=1552035036",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1036910/page_bg_generated_v6b.jpg?t=1552937000",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
