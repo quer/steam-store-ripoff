@@ -11,7 +11,7 @@
             "about_the_game": "We invite you to join the great shaman in a quest to explore the impossible universe in this fantastic match-3 game. You will find dozens of unique worlds with their own rewards… and dangers. Face challenging match-3 puzzles and meet strange denizens of fantastic planets. This captivating puzzles and thrilling storyline will captivate you from the start!<br />\r\n<br />\r\n- Unique Match 3 Design<br />\r\n- Square and hexagonal pitches<br />\r\n- Dynamic, challenging gameplay<br />\r\n- Relaxed music",
             "short_description": "We invite you to join the great shaman in a quest to explore the impossible universe in this fantastic match-3 game. You will find dozens of unique worlds with their own rewards… and dangers. Face challenging match-3 puzzles and meet strange denizens of fantastic planets.",
             "supported_languages": "English, French, Italian, German, Spanish - Spain, Portuguese - Brazil, Japanese, Dutch, Russian, Swedish",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1044640/header.jpg?t=1551919609",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1044640/header.jpg?t=1553133103",
             "website": null,
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP/ME/Vista/7/8/10<br></li><li><strong>Processor:</strong> 1.0GHz CPU<br></li><li><strong>Memory:</strong> 128 MB RAM<br></li><li><strong>Graphics:</strong> 128MB<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 200 MB available space<br></li><li><strong>Sound Card:</strong> DirectX compatible sound card</li></ul>",
@@ -25,7 +25,40 @@
             "publishers": [
                 "HH-Games"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 499,
+                "final": 374,
+                "discount_percent": 25,
+                "initial_formatted": "4,99€",
+                "final_formatted": "3,74€"
+            },
+            "packages": [
+                348110
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Mundus - Impossible Universe",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 348110,
+                            "percent_savings_text": "-25%",
+                            "percent_savings": 0,
+                            "option_text": "Mundus - Impossible Universe - <span class=\"discount_original_price\">4,99€</span> 3,74€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 374
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": false,
@@ -46,33 +79,33 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1044640/ss_2332058a8dd996cb821bbe0d2ed8cc4cfd2a8ec0.600x338.jpg?t=1551919609",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1044640/ss_2332058a8dd996cb821bbe0d2ed8cc4cfd2a8ec0.1920x1080.jpg?t=1551919609"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1044640/ss_2332058a8dd996cb821bbe0d2ed8cc4cfd2a8ec0.600x338.jpg?t=1553133103",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1044640/ss_2332058a8dd996cb821bbe0d2ed8cc4cfd2a8ec0.1920x1080.jpg?t=1553133103"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1044640/ss_60625afa68a318407e6a7b8a76e3d2afd432f17b.600x338.jpg?t=1551919609",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1044640/ss_60625afa68a318407e6a7b8a76e3d2afd432f17b.1920x1080.jpg?t=1551919609"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1044640/ss_60625afa68a318407e6a7b8a76e3d2afd432f17b.600x338.jpg?t=1553133103",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1044640/ss_60625afa68a318407e6a7b8a76e3d2afd432f17b.1920x1080.jpg?t=1553133103"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1044640/ss_8ec9ba90f67168e4cc633208883e4fbdf4c64543.600x338.jpg?t=1551919609",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1044640/ss_8ec9ba90f67168e4cc633208883e4fbdf4c64543.1920x1080.jpg?t=1551919609"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1044640/ss_8ec9ba90f67168e4cc633208883e4fbdf4c64543.600x338.jpg?t=1553133103",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1044640/ss_8ec9ba90f67168e4cc633208883e4fbdf4c64543.1920x1080.jpg?t=1553133103"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1044640/ss_5bb3d03d23c989ddf226f04a2583b2fe3890af17.600x338.jpg?t=1551919609",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1044640/ss_5bb3d03d23c989ddf226f04a2583b2fe3890af17.1920x1080.jpg?t=1551919609"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1044640/ss_5bb3d03d23c989ddf226f04a2583b2fe3890af17.600x338.jpg?t=1553133103",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1044640/ss_5bb3d03d23c989ddf226f04a2583b2fe3890af17.1920x1080.jpg?t=1553133103"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1044640/ss_03f80c842150a688b64fbfdaff6ce4b009f08494.600x338.jpg?t=1551919609",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1044640/ss_03f80c842150a688b64fbfdaff6ce4b009f08494.1920x1080.jpg?t=1551919609"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1044640/ss_03f80c842150a688b64fbfdaff6ce4b009f08494.600x338.jpg?t=1553133103",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1044640/ss_03f80c842150a688b64fbfdaff6ce4b009f08494.1920x1080.jpg?t=1553133103"
                 },
                 {
                     "id": 5,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1044640/ss_47a8b758720f923c296a5d767aa61ab0d3c10f95.600x338.jpg?t=1551919609",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1044640/ss_47a8b758720f923c296a5d767aa61ab0d3c10f95.1920x1080.jpg?t=1551919609"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1044640/ss_47a8b758720f923c296a5d767aa61ab0d3c10f95.600x338.jpg?t=1553133103",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1044640/ss_47a8b758720f923c296a5d767aa61ab0d3c10f95.1920x1080.jpg?t=1553133103"
                 }
             ],
             "movies": [
@@ -88,14 +121,14 @@
                 }
             ],
             "release_date": {
-                "coming_soon": true,
-                "date": "21 Mar, 2019"
+                "coming_soon": false,
+                "date": "20 Mar, 2019"
             },
             "support_info": {
                 "url": "",
                 "email": "support@gamepublishing.de"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1044640/page_bg_generated_v6b.jpg?t=1551919609",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1044640/page_bg_generated_v6b.jpg?t=1553133103",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
