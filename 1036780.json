@@ -12,7 +12,7 @@
             "about_the_game": "<i>Pokris</i> is what it sounds like: a cross between poker and Tetris. Playing cards drop from the top, and it's your job to match them vertically or horizontally into poker combinations like pairs, straights, flushes, and so on. As the timer goes up, so does the speed, so act fast. You'll have to decide between waiting for certain cards to boost your score with great hands like full houses, and just racking up pairs to clear some cards off the board.<br><br>For slightly more advanced gameplay, you can flip cards upside down by pressing up. When upside down they won't be counted towards combinations until you flip them back. This way you &quot;save&quot; a run for a three or four of a kind, for example, without accidentally matching a pair.<br><br>Your score is based on combinations scored, with more difficult hands counting for more points, and time alive.<br><br>Sit back, relax to some original music, and try to beat your own high score in <i>Pokris</i>.",
             "short_description": "A combination of poker and a certain falling blocks game. Match cards into pairs, straights, flushes, and more as they drop from the top. Beat your high score before the board fills up!",
             "supported_languages": "English",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1036780/header.jpg?t=1551993687",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1036780/header.jpg?t=1553293081",
             "website": null,
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Win7 SP1<br></li><li><strong>Processor:</strong> 2 GHz<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> 512 MB Video RAM<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>"
@@ -26,7 +26,40 @@
             "publishers": [
                 "Odd Digs"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 79,
+                "final": 79,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "0,79€"
+            },
+            "packages": [
+                345201
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Pokris",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 345201,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Pokris - 0,79€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 79
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": false,
@@ -55,28 +88,28 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1036780/ss_2c2e89b01ba77d74c023f94ec71d3fdea2a854a7.600x338.jpg?t=1551993687",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1036780/ss_2c2e89b01ba77d74c023f94ec71d3fdea2a854a7.1920x1080.jpg?t=1551993687"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1036780/ss_2c2e89b01ba77d74c023f94ec71d3fdea2a854a7.600x338.jpg?t=1553293081",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1036780/ss_2c2e89b01ba77d74c023f94ec71d3fdea2a854a7.1920x1080.jpg?t=1553293081"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1036780/ss_61a205d00cc8505a0a5623d6e2a4b93ce18aac26.600x338.jpg?t=1551993687",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1036780/ss_61a205d00cc8505a0a5623d6e2a4b93ce18aac26.1920x1080.jpg?t=1551993687"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1036780/ss_61a205d00cc8505a0a5623d6e2a4b93ce18aac26.600x338.jpg?t=1553293081",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1036780/ss_61a205d00cc8505a0a5623d6e2a4b93ce18aac26.1920x1080.jpg?t=1553293081"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1036780/ss_e417d3f5880c0fbc904f3801f2dc1e033ac47c15.600x338.jpg?t=1551993687",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1036780/ss_e417d3f5880c0fbc904f3801f2dc1e033ac47c15.1920x1080.jpg?t=1551993687"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1036780/ss_e417d3f5880c0fbc904f3801f2dc1e033ac47c15.600x338.jpg?t=1553293081",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1036780/ss_e417d3f5880c0fbc904f3801f2dc1e033ac47c15.1920x1080.jpg?t=1553293081"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1036780/ss_f1f3539a37ec18db86469fc6c8e42002735ea1cf.600x338.jpg?t=1551993687",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1036780/ss_f1f3539a37ec18db86469fc6c8e42002735ea1cf.1920x1080.jpg?t=1551993687"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1036780/ss_f1f3539a37ec18db86469fc6c8e42002735ea1cf.600x338.jpg?t=1553293081",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1036780/ss_f1f3539a37ec18db86469fc6c8e42002735ea1cf.1920x1080.jpg?t=1553293081"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1036780/ss_2c6a71f0a24e912d5256a266bd9f87b515d41cf2.600x338.jpg?t=1551993687",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1036780/ss_2c6a71f0a24e912d5256a266bd9f87b515d41cf2.1920x1080.jpg?t=1551993687"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1036780/ss_2c6a71f0a24e912d5256a266bd9f87b515d41cf2.600x338.jpg?t=1553293081",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1036780/ss_2c6a71f0a24e912d5256a266bd9f87b515d41cf2.1920x1080.jpg?t=1553293081"
                 }
             ],
             "movies": [
@@ -91,15 +124,60 @@
                     "highlight": true
                 }
             ],
+            "achievements": {
+                "total": 18,
+                "highlighted": [
+                    {
+                        "name": "Two Pair",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1036780/9ea9a6bc45f74c57aa79fe046f59780242a6340d.jpg"
+                    },
+                    {
+                        "name": "Three of a Kind",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1036780/cfc4dc13b3d2a10d7ad33be1b5797aa9908b915d.jpg"
+                    },
+                    {
+                        "name": "Straight",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1036780/22616cce697d4d408e6f93f0c066537e293aa677.jpg"
+                    },
+                    {
+                        "name": "Flush",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1036780/f5a36cff97e995f43ec9a87de1351657c38cce20.jpg"
+                    },
+                    {
+                        "name": "Full House",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1036780/a11defd798b386182de331f21954945a7420a1ec.jpg"
+                    },
+                    {
+                        "name": "Four of a Kind",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1036780/7e2f6058da5660dee25c7e46c209b1f85a701dce.jpg"
+                    },
+                    {
+                        "name": "Straight Flush",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1036780/5f24b7adfde9c6339d3f100da0072b5356b45dba.jpg"
+                    },
+                    {
+                        "name": "Royal Flush",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1036780/811f2dabc5587bf432ecf06bad806339350a6f27.jpg"
+                    },
+                    {
+                        "name": "Two in a Row",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1036780/915f6a5d45a9dfe5006c5b1bf6d2b3e079dee317.jpg"
+                    },
+                    {
+                        "name": "Three in a Row",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1036780/46f6cb5d58283cf1981ec01fd3cd7c474117893c.jpg"
+                    }
+                ]
+            },
             "release_date": {
-                "coming_soon": true,
-                "date": "19 Mar, 2019"
+                "coming_soon": false,
+                "date": "22 Mar, 2019"
             },
             "support_info": {
                 "url": "http://odddigs.com",
                 "email": "info@odddigs.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1036780/page_bg_generated_v6b.jpg?t=1551993687",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1036780/page_bg_generated_v6b.jpg?t=1553293081",
             "content_descriptors": {
                 "ids": [],
                 "notes": null

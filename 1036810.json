@@ -15,7 +15,7 @@
                 "name": "Jigsaw Masterpieces"
             },
             "supported_languages": "English, Japanese",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1036810/header.jpg?t=1551919878",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1036810/header.jpg?t=1552349422",
             "website": null,
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 64-bit or higher<br></li><li><strong>Processor:</strong> Core2 duo or higher<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> DirectX9.0 compatible<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 400 MB available space</li></ul>"
@@ -31,7 +31,40 @@
             "publishers": [
                 "BottleCu"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 239,
+                "final": 239,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "2,39€"
+            },
+            "packages": [
+                345237
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Jigsaw Masterpieces : Cute Lovely Cats",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 345237,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Jigsaw Masterpieces : Cute Lovely Cats - 2,39€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 239
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": true,
@@ -60,34 +93,34 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1036810/ss_62d470831ec1b5a8627ef50721562103652ba669.600x338.jpg?t=1551919878",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1036810/ss_62d470831ec1b5a8627ef50721562103652ba669.1920x1080.jpg?t=1551919878"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1036810/ss_62d470831ec1b5a8627ef50721562103652ba669.600x338.jpg?t=1552349422",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1036810/ss_62d470831ec1b5a8627ef50721562103652ba669.1920x1080.jpg?t=1552349422"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1036810/ss_6ddb0e7442159a96038742e013e979dd1fe7e991.600x338.jpg?t=1551919878",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1036810/ss_6ddb0e7442159a96038742e013e979dd1fe7e991.1920x1080.jpg?t=1551919878"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1036810/ss_6ddb0e7442159a96038742e013e979dd1fe7e991.600x338.jpg?t=1552349422",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1036810/ss_6ddb0e7442159a96038742e013e979dd1fe7e991.1920x1080.jpg?t=1552349422"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1036810/ss_2279bf0ea96e7be05a00ac469a9431d8c15d5c60.600x338.jpg?t=1551919878",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1036810/ss_2279bf0ea96e7be05a00ac469a9431d8c15d5c60.1920x1080.jpg?t=1551919878"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1036810/ss_2279bf0ea96e7be05a00ac469a9431d8c15d5c60.600x338.jpg?t=1552349422",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1036810/ss_2279bf0ea96e7be05a00ac469a9431d8c15d5c60.1920x1080.jpg?t=1552349422"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1036810/ss_dae953647ecacbe9d26c438561121e8f65c61406.600x338.jpg?t=1551919878",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1036810/ss_dae953647ecacbe9d26c438561121e8f65c61406.1920x1080.jpg?t=1551919878"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1036810/ss_dae953647ecacbe9d26c438561121e8f65c61406.600x338.jpg?t=1552349422",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1036810/ss_dae953647ecacbe9d26c438561121e8f65c61406.1920x1080.jpg?t=1552349422"
                 }
             ],
             "release_date": {
-                "coming_soon": true,
-                "date": "Mar 2019"
+                "coming_soon": false,
+                "date": "11 Mar, 2019"
             },
             "support_info": {
                 "url": "https://www.bottlecube.co.jp",
                 "email": "steam_support@bottlecube.co.jp"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1036810/page_bg_generated_v6b.jpg?t=1551919878",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1036810/page_bg_generated_v6b.jpg?t=1552349422",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
