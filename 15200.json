@@ -28,10 +28,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 999,
-                "final": 999,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "9,99€"
+                "final": 339,
+                "discount_percent": 66,
+                "initial_formatted": "9,99€",
+                "final_formatted": "3,39€"
             },
             "packages": [
                 810,
@@ -49,23 +49,23 @@
                     "subs": [
                         {
                             "packageid": 810,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-66%",
                             "percent_savings": 0,
-                            "option_text": "Silent Hunter®: Wolves of the Pacific - 9,99€",
+                            "option_text": "Silent Hunter®: Wolves of the Pacific - <span class=\"discount_original_price\">9,99€</span> 3,39€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 999
+                            "price_in_cents_with_discount": 339
                         },
                         {
                             "packageid": 13751,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-66%",
                             "percent_savings": 0,
-                            "option_text": "Silent Hunter Collection - 29,99€",
+                            "option_text": "Silent Hunter Collection - <span class=\"discount_original_price\">29,99€</span> 10,19€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 2999
+                            "price_in_cents_with_discount": 1019
                         }
                     ]
                 }
@@ -178,7 +178,7 @@
                 }
             ],
             "recommendations": {
-                "total": 341
+                "total": 343
             },
             "achievements": {
                 "total": 0
