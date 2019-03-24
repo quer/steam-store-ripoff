@@ -6,7 +6,7 @@
             "name": "Minion Masters - Voidborne Onslaught",
             "steam_appid": 1033840,
             "required_age": 0,
-            "is_free": true,
+            "is_free": false,
             "detailed_description": "Voidborne Onslaught is <strong>the</strong> Faction Box for starting your Voidborne Army – or adding some reinforcements to your existing Voidborne collection. This is a great <strong>+300%</strong> value bundle of Voidborne Minions, including the massive Legendary Colossus as well as 2 exclusive Voidborne cosmetics.<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/1033840/extras/MM_Descriptionimage_Gif.gif?t=1552054925\" ><h2 class=\"bb_tag\"><strong>Includes:</strong></h2><ul class=\"bb_ul\"><li>3x <strong>Colossus</strong> (Legendary)<br></li><li>5x Succubus (Supreme)<br></li><li>20x Rammer <br></li><li>40x Nether Bat<br></li><li>40x Morgrul's Ragers <br></li><li>5x Power Tokens (Get 5 extra random surprises)<br></li><li>1x Legendary Faction Box exclusive Voidborne <strong>Avatar - Animated Colossus!</strong><br></li><li>1x Legendary Faction Box exclusive Voidborne <strong>Emote - Animated Doompuffer!</strong></li></ul><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/1033840/extras/MM_VoidborneOnslaught_AnimatedAvatarandEmote.gif?t=1552054925\" ><br>The Voidborne faction is aggressive with high speed and dark magic. With this Faction Box, you can immediately experiment with the &quot;Voidborne Wound&quot; mechanic using &quot;Morgrul’s Ragers&quot; which makes your minions stronger if any of your Voidborne Minions wounded the opponent.",
             "about_the_game": "Voidborne Onslaught is <strong>the</strong> Faction Box for starting your Voidborne Army – or adding some reinforcements to your existing Voidborne collection. This is a great <strong>+300%</strong> value bundle of Voidborne Minions, including the massive Legendary Colossus as well as 2 exclusive Voidborne cosmetics.<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/1033840/extras/MM_Descriptionimage_Gif.gif?t=1552054925\" ><h2 class=\"bb_tag\"><strong>Includes:</strong></h2><ul class=\"bb_ul\"><li>3x <strong>Colossus</strong> (Legendary)<br></li><li>5x Succubus (Supreme)<br></li><li>20x Rammer <br></li><li>40x Nether Bat<br></li><li>40x Morgrul's Ragers <br></li><li>5x Power Tokens (Get 5 extra random surprises)<br></li><li>1x Legendary Faction Box exclusive Voidborne <strong>Avatar - Animated Colossus!</strong><br></li><li>1x Legendary Faction Box exclusive Voidborne <strong>Emote - Animated Doompuffer!</strong></li></ul><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/1033840/extras/MM_VoidborneOnslaught_AnimatedAvatarandEmote.gif?t=1552054925\" ><br>The Voidborne faction is aggressive with high speed and dark magic. With this Faction Box, you can immediately experiment with the &quot;Voidborne Wound&quot; mechanic using &quot;Morgrul’s Ragers&quot; which makes your minions stronger if any of your Voidborne Minions wounded the opponent.",
             "short_description": "Voidborne Onslaught is a Faction Box and the ideal starting point for your Voidborne Army – or a fantastic way to add reinforcements to your existing Voidborne collection – this is a great +300% value bundle of Voidborne Minions.",
@@ -32,12 +32,11 @@
                 "currency": "EUR",
                 "initial": 1249,
                 "final": 1249,
-                "discount_percent": 100,
-                "initial_formatted": "12,49€",
-                "final_formatted": "Free"
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "12,49€"
             },
             "packages": [
-                346115,
                 344021
             ],
             "package_groups": [
@@ -50,16 +49,6 @@
                     "display_type": 0,
                     "is_recurring_subscription": "false",
                     "subs": [
-                        {
-                            "packageid": 346115,
-                            "percent_savings_text": "-100%",
-                            "percent_savings": 0,
-                            "option_text": "Minion Masters - Voidborne Onslaught Limited Free Promotional Package - Mar 2019 - <span class=\"discount_original_price\">0,--€</span> Free",
-                            "option_description": "",
-                            "can_get_free_license": "0",
-                            "is_free_license": true,
-                            "price_in_cents_with_discount": 0
-                        },
                         {
                             "packageid": 344021,
                             "percent_savings_text": "",
