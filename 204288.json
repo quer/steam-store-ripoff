@@ -33,10 +33,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 299,
-                "final": 299,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "2,99€"
+                "final": 74,
+                "discount_percent": 75,
+                "initial_formatted": "2,99€",
+                "final_formatted": "0,74€"
             },
             "packages": [
                 14625,
@@ -56,43 +56,43 @@
                     "subs": [
                         {
                             "packageid": 14625,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-75%",
                             "percent_savings": 0,
-                            "option_text": "Anno 2070™ - The Nordamark Line Package - 2,99€",
+                            "option_text": "Anno 2070™ - The Nordamark Line Package - <span class=\"discount_original_price\">2,99€</span> 0,74€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 299
+                            "price_in_cents_with_discount": 74
                         },
                         {
                             "packageid": 14627,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-75%",
                             "percent_savings": 0,
-                            "option_text": "Anno 2070™  - The Nordamark Complete Package - 4,99€",
+                            "option_text": "Anno 2070™  - The Nordamark Complete Package - <span class=\"discount_original_price\">4,99€</span> 1,24€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 499
+                            "price_in_cents_with_discount": 124
                         },
                         {
                             "packageid": 18976,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-75%",
                             "percent_savings": 0,
-                            "option_text": "Anno 2070 DLC Complete Pack - 14,99€",
+                            "option_text": "Anno 2070 DLC Complete Pack - <span class=\"discount_original_price\">14,99€</span> 3,74€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1499
+                            "price_in_cents_with_discount": 374
                         },
                         {
                             "packageid": 26683,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-75%",
                             "percent_savings": 0,
-                            "option_text": "Anno 2070 Complete Edition - 29,99€",
+                            "option_text": "Anno 2070 Complete Edition - <span class=\"discount_original_price\">29,99€</span> 7,49€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 2999
+                            "price_in_cents_with_discount": 749
                         }
                     ]
                 }
