@@ -38,10 +38,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 999,
-                "final": 999,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "9,99€"
+                "final": 249,
+                "discount_percent": 75,
+                "initial_formatted": "9,99€",
+                "final_formatted": "2,49€"
             },
             "packages": [
                 26292,
@@ -59,13 +59,13 @@
                     "subs": [
                         {
                             "packageid": 26292,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-75%",
                             "percent_savings": 0,
-                            "option_text": "Sacred Citadel - 9,99€",
+                            "option_text": "Sacred Citadel - <span class=\"discount_original_price\">9,99€</span> 2,49€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 999
+                            "price_in_cents_with_discount": 249
                         },
                         {
                             "packageid": 26667,
@@ -195,7 +195,7 @@
                 }
             ],
             "recommendations": {
-                "total": 431
+                "total": 433
             },
             "achievements": {
                 "total": 35,
