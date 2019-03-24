@@ -42,10 +42,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 1999,
-                "final": 1999,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "19,99€"
+                "final": 679,
+                "discount_percent": 66,
+                "initial_formatted": "19,99€",
+                "final_formatted": "6,79€"
             },
             "packages": [
                 32036,
@@ -65,43 +65,43 @@
                     "subs": [
                         {
                             "packageid": 32036,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-66%",
                             "percent_savings": 0,
-                            "option_text": "Assassin's Creed Black Flag Digital Standard Edition - 19,99€",
+                            "option_text": "Assassin's Creed Black Flag Digital Standard Edition - <span class=\"discount_original_price\">19,99€</span> 6,79€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1999
+                            "price_in_cents_with_discount": 679
                         },
                         {
                             "packageid": 32039,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-67%",
                             "percent_savings": 0,
-                            "option_text": "Assassin's Creed Black Flag Digital Deluxe Edition - 29,99€",
+                            "option_text": "Assassin's Creed Black Flag Digital Deluxe Edition - <span class=\"discount_original_price\">29,99€</span> 9,89€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 2999
+                            "price_in_cents_with_discount": 989
                         },
                         {
                             "packageid": 33495,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-60%",
                             "percent_savings": 0,
-                            "option_text": "Assassin's Creed Black Flag - Season Pass - 19,99€",
+                            "option_text": "Assassin's Creed Black Flag - Season Pass - <span class=\"discount_original_price\">19,99€</span> 7,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1999
+                            "price_in_cents_with_discount": 799
                         },
                         {
                             "packageid": 36706,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-75%",
                             "percent_savings": 0,
-                            "option_text": "Assassin's Creed Liberation - 19,99€",
+                            "option_text": "Assassin's Creed Liberation - <span class=\"discount_original_price\">19,99€</span> 4,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1999
+                            "price_in_cents_with_discount": 499
                         }
                     ]
                 }
@@ -195,7 +195,7 @@
                 }
             ],
             "recommendations": {
-                "total": 23478
+                "total": 23558
             },
             "achievements": {
                 "total": 0
