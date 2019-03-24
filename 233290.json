@@ -15,8 +15,8 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/233290/header.jpg?t=1503075903",
             "website": "http://www.murdered.com",
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows Vista 64bit with Platform Update for Windows Vista<br></li><li><strong>Processor:</strong> High-Performance Dual Core CPU or Quad Core CPU<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> AMD Radeon™ HD 3870 512MB RAM / Nvidia GeForce 8800GT<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Storage:</strong> 12 GB available space</li></ul>",
-                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 64bit / Windows 8 64bit<br></li><li><strong>Processor:</strong> AMD FX-8000 series or better / Intel Quad i7 Core CPU<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> AMD Radeon™ TM R9 270 or better / Nvidia GTX 660 series or better<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 12 GB available space</li></ul>"
+                "minimum": "<strong>Vähintään:</strong><br><ul class=\"bb_ul\"><li><strong>Käyttöjärjestelmä:</strong> Windows Vista 64bit with Platform Update for Windows Vista<br></li><li><strong>Prosessori:</strong> High-Performance Dual Core CPU or Quad Core CPU<br></li><li><strong>Muisti:</strong> 2 GB RAM<br></li><li><strong>Grafiikka:</strong> AMD Radeon™ HD 3870 512MB RAM / Nvidia GeForce 8800GT<br></li><li><strong>DirectX:</strong> Versio 10<br></li><li><strong>Tallennus:</strong> 12 GB kiintolevytilaa</li></ul>",
+                "recommended": "<strong>Suositus:</strong><br><ul class=\"bb_ul\"><li><strong>Käyttöjärjestelmä:</strong> Windows 7 64bit / Windows 8 64bit<br></li><li><strong>Prosessori:</strong> AMD FX-8000 series or better / Intel Quad i7 Core CPU<br></li><li><strong>Muisti:</strong> 4 GB RAM<br></li><li><strong>Grafiikka:</strong> AMD Radeon™ TM R9 270 or better / Nvidia GTX 660 series or better<br></li><li><strong>DirectX:</strong> Versio 11<br></li><li><strong>Tallennus:</strong> 12 GB kiintolevytilaa</li></ul>"
             },
             "mac_requirements": [],
             "linux_requirements": [],
@@ -30,10 +30,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 2999,
-                "final": 2999,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "29,99€"
+                "final": 299,
+                "discount_percent": 90,
+                "initial_formatted": "29,99€",
+                "final_formatted": "2,99€"
             },
             "packages": [
                 40537
@@ -50,13 +50,13 @@
                     "subs": [
                         {
                             "packageid": 40537,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-90%",
                             "percent_savings": 0,
-                            "option_text": "MURDERED: SOUL SUSPECT™ - 29,99€",
+                            "option_text": "MURDERED: SOUL SUSPECT™ - <span class=\"discount_original_price\">29,99€</span> 2,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 2999
+                            "price_in_cents_with_discount": 299
                         }
                     ]
                 }
@@ -197,7 +197,7 @@
                 }
             ],
             "recommendations": {
-                "total": 5725
+                "total": 5770
             },
             "achievements": {
                 "total": 48,
