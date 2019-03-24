@@ -15,7 +15,7 @@
                 "name": "Dies irae ~Amantes amentes~"
             },
             "supported_languages": "English",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1038530/header.jpg?t=1552006745",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1038530/header.jpg?t=1553241584",
             "website": null,
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Storage:</strong> 350 MB available space<br></li><li><strong>Additional Notes:</strong> File Format: PDF</li></ul>"
@@ -29,7 +29,40 @@
             "publishers": [
                 "views Co., Ltd"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 819,
+                "final": 819,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "8,19€"
+            },
+            "packages": [
+                345859
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Dies irae ~Amantes amentes~ - Official Illustrated Guide",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 345859,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Dies irae ~Amantes amentes~ - Official Illustrated Guide - 8,19€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 819
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": false,
@@ -54,34 +87,37 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1038530/ss_59492e57d2cb784d55424acccbdade304304525c.600x338.jpg?t=1552006745",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1038530/ss_59492e57d2cb784d55424acccbdade304304525c.1920x1080.jpg?t=1552006745"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1038530/ss_59492e57d2cb784d55424acccbdade304304525c.600x338.jpg?t=1553241584",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1038530/ss_59492e57d2cb784d55424acccbdade304304525c.1920x1080.jpg?t=1553241584"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1038530/ss_c44daef8a99d0f6aa80f93aa232619384be2b6ab.600x338.jpg?t=1552006745",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1038530/ss_c44daef8a99d0f6aa80f93aa232619384be2b6ab.1920x1080.jpg?t=1552006745"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1038530/ss_c44daef8a99d0f6aa80f93aa232619384be2b6ab.600x338.jpg?t=1553241584",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1038530/ss_c44daef8a99d0f6aa80f93aa232619384be2b6ab.1920x1080.jpg?t=1553241584"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1038530/ss_e0a7656b40a23141302513005f93a8c0074ed7cf.600x338.jpg?t=1552006745",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1038530/ss_e0a7656b40a23141302513005f93a8c0074ed7cf.1920x1080.jpg?t=1552006745"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1038530/ss_e0a7656b40a23141302513005f93a8c0074ed7cf.600x338.jpg?t=1553241584",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1038530/ss_e0a7656b40a23141302513005f93a8c0074ed7cf.1920x1080.jpg?t=1553241584"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1038530/ss_030b0a43a924bb3bb58e0e081c29adcace767d2e.600x338.jpg?t=1552006745",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1038530/ss_030b0a43a924bb3bb58e0e081c29adcace767d2e.1920x1080.jpg?t=1552006745"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1038530/ss_030b0a43a924bb3bb58e0e081c29adcace767d2e.600x338.jpg?t=1553241584",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1038530/ss_030b0a43a924bb3bb58e0e081c29adcace767d2e.1920x1080.jpg?t=1553241584"
                 }
             ],
+            "achievements": {
+                "total": 0
+            },
             "release_date": {
-                "coming_soon": true,
+                "coming_soon": false,
                 "date": "22 Mar, 2019"
             },
             "support_info": {
                 "url": "",
                 "email": "support＠light.gr.jp"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1038530/page_bg_generated_v6b.jpg?t=1552006745",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1038530/page_bg_generated_v6b.jpg?t=1553241584",
             "content_descriptors": {
                 "ids": [
                     1,
