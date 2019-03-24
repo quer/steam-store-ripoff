@@ -7,11 +7,11 @@
             "steam_appid": 1044530,
             "required_age": 0,
             "is_free": false,
-            "detailed_description": "Enter Synapse - pixel puzzle that can kill a lot of time.<br />\r\n<br />\r\n<br />\r\n<br />\r\nGuide the magic ball and help him get out of the maze. Correctly calculate the flight path and dodge obstacles. You are waited by many various and difficult levels. The game can kill a lot of time, so make coffee and enjoy puzzles.",
-            "about_the_game": "Enter Synapse - pixel puzzle that can kill a lot of time.<br />\r\n<br />\r\n<br />\r\n<br />\r\nGuide the magic ball and help him get out of the maze. Correctly calculate the flight path and dodge obstacles. You are waited by many various and difficult levels. The game can kill a lot of time, so make coffee and enjoy puzzles.",
+            "detailed_description": "Enter Synapse - pixel puzzle that can kill a lot of time.<br />\r\nGuide the magic ball and help him get out of the maze. Correctly calculate the flight path and dodge obstacles. You are waited by many various and difficult levels. The game can kill a lot of time, so make coffee and enjoy puzzles.",
+            "about_the_game": "Enter Synapse - pixel puzzle that can kill a lot of time.<br />\r\nGuide the magic ball and help him get out of the maze. Correctly calculate the flight path and dodge obstacles. You are waited by many various and difficult levels. The game can kill a lot of time, so make coffee and enjoy puzzles.",
             "short_description": "Enter Synapse - pixel puzzle that can kill a lot of time.",
             "supported_languages": "English",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1044530/header.jpg?t=1552027769",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1044530/header.jpg?t=1553193109",
             "website": null,
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong> Dual Core<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> 128mb<br></li><li><strong>Storage:</strong> 4 MB available space</li></ul>"
@@ -24,7 +24,40 @@
             "publishers": [
                 "Zotdinex"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 159,
+                "final": 95,
+                "discount_percent": 40,
+                "initial_formatted": "1,59€",
+                "final_formatted": "0,95€"
+            },
+            "packages": [
+                348079
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Enter Synapse",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 348079,
+                            "percent_savings_text": "-40%",
+                            "percent_savings": 0,
+                            "option_text": "Enter Synapse - <span class=\"discount_original_price\">1,59€</span> 0,95€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 95
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": false,
@@ -49,28 +82,28 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1044530/ss_d8ed73af80a0ac33a68cc717ce9cdb460d717502.600x338.jpg?t=1552027769",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1044530/ss_d8ed73af80a0ac33a68cc717ce9cdb460d717502.1920x1080.jpg?t=1552027769"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1044530/ss_d8ed73af80a0ac33a68cc717ce9cdb460d717502.600x338.jpg?t=1553193109",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1044530/ss_d8ed73af80a0ac33a68cc717ce9cdb460d717502.1920x1080.jpg?t=1553193109"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1044530/ss_81c68fbcf563ad9967c148c032e1f5ffd557809d.600x338.jpg?t=1552027769",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1044530/ss_81c68fbcf563ad9967c148c032e1f5ffd557809d.1920x1080.jpg?t=1552027769"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1044530/ss_81c68fbcf563ad9967c148c032e1f5ffd557809d.600x338.jpg?t=1553193109",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1044530/ss_81c68fbcf563ad9967c148c032e1f5ffd557809d.1920x1080.jpg?t=1553193109"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1044530/ss_9e41eb053c9e1e15040aafdbf5d0081515f51837.600x338.jpg?t=1552027769",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1044530/ss_9e41eb053c9e1e15040aafdbf5d0081515f51837.1920x1080.jpg?t=1552027769"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1044530/ss_9e41eb053c9e1e15040aafdbf5d0081515f51837.600x338.jpg?t=1553193109",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1044530/ss_9e41eb053c9e1e15040aafdbf5d0081515f51837.1920x1080.jpg?t=1553193109"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1044530/ss_018bb03db5e9f60cd2c1cc0a0e5ac4ed92361533.600x338.jpg?t=1552027769",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1044530/ss_018bb03db5e9f60cd2c1cc0a0e5ac4ed92361533.1920x1080.jpg?t=1552027769"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1044530/ss_018bb03db5e9f60cd2c1cc0a0e5ac4ed92361533.600x338.jpg?t=1553193109",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1044530/ss_018bb03db5e9f60cd2c1cc0a0e5ac4ed92361533.1920x1080.jpg?t=1553193109"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1044530/ss_24ce074d1705a68ae6cde15d4c9c246652ebe804.600x338.jpg?t=1552027769",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1044530/ss_24ce074d1705a68ae6cde15d4c9c246652ebe804.1920x1080.jpg?t=1552027769"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1044530/ss_24ce074d1705a68ae6cde15d4c9c246652ebe804.600x338.jpg?t=1553193109",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1044530/ss_24ce074d1705a68ae6cde15d4c9c246652ebe804.1920x1080.jpg?t=1553193109"
                 }
             ],
             "movies": [
@@ -85,15 +118,60 @@
                     "highlight": true
                 }
             ],
+            "achievements": {
+                "total": 13,
+                "highlighted": [
+                    {
+                        "name": "1",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1044530/af0a491b6a8c1dee47a1bcb35b223233fb20d5c3.jpg"
+                    },
+                    {
+                        "name": "2",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1044530/8e8ceda4dfd8b55e8c6cc0c55f32f70f9292fa0d.jpg"
+                    },
+                    {
+                        "name": "3",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1044530/ba208aaf28af191ab5aa9f76a42edeaf3d28ac2f.jpg"
+                    },
+                    {
+                        "name": "4",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1044530/bcb3c78789156282111361fa0f8b628d3b97dc92.jpg"
+                    },
+                    {
+                        "name": "5",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1044530/042dac342ef6bdb8f9912da9afd5d824f790a61e.jpg"
+                    },
+                    {
+                        "name": "6",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1044530/e330e83bfed12dcb1916a23284ecba13eac4b8f0.jpg"
+                    },
+                    {
+                        "name": "7",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1044530/bc4c8311cf8b107d3e6d278c36473893c4423b43.jpg"
+                    },
+                    {
+                        "name": "8",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1044530/7a72fc6ba656566ee0b153ed26a6cfd199f61f22.jpg"
+                    },
+                    {
+                        "name": "9",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1044530/f76db31a60acc87d2d3fe00d34e001accb550b1e.jpg"
+                    },
+                    {
+                        "name": "10",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1044530/f7b2b506ec8593dd7eb24e7d02f8b48fba873de3.jpg"
+                    }
+                ]
+            },
             "release_date": {
-                "coming_soon": true,
+                "coming_soon": false,
                 "date": "21 Mar, 2019"
             },
             "support_info": {
                 "url": "",
                 "email": "support@zotdinex.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1044530/page_bg_generated_v6b.jpg?t=1552027769",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1044530/page_bg_generated_v6b.jpg?t=1553193109",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
