@@ -16,13 +16,13 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/269710/header.jpg?t=1479408268",
             "website": "http://TumblestoneGame.com",
             "pc_requirements": {
-                "minimum": "<strong>Минимальные:</strong><br><ul class=\"bb_ul\"><li><strong>ОС:</strong> Windows XP SP2+<br></li><li><strong>Процессор:</strong> SSE2 instruction set support<br></li><li><strong>Оперативная память:</strong> 1 GB ОЗУ<br></li><li><strong>Видеокарта:</strong> No dedicated graphics card required<br></li><li><strong>DirectX:</strong> Версии 9.0<br></li><li><strong>Место на диске:</strong> 1 GB</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP SP2+<br></li><li><strong>Processor:</strong> SSE2 instruction set support<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> No dedicated graphics card required<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
             },
             "mac_requirements": {
-                "minimum": "<strong>Минимальные:</strong><br><ul class=\"bb_ul\"><li><strong>ОС:</strong> Mac OS X 10.8+<br></li><li><strong>Процессор:</strong> SSE2 instruction set support<br></li><li><strong>Оперативная память:</strong> 1 GB ОЗУ<br></li><li><strong>Видеокарта:</strong> No dedicated graphics card required<br></li><li><strong>Место на диске:</strong> 1 GB</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OS X 10.8+<br></li><li><strong>Processor:</strong> SSE2 instruction set support<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> No dedicated graphics card required<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
             },
             "linux_requirements": {
-                "minimum": "<strong>Минимальные:</strong><br><ul class=\"bb_ul\"><li><strong>ОС:</strong> Ubuntu 16.04.1+ or SteamOS+<br></li><li><strong>Процессор:</strong> SSE2 instruction set support<br></li><li><strong>Оперативная память:</strong> 1 GB ОЗУ<br></li><li><strong>Видеокарта:</strong> No dedicated graphics card required<br></li><li><strong>Место на диске:</strong> 1 GB</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 16.04.1+ or SteamOS+<br></li><li><strong>Processor:</strong> SSE2 instruction set support<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> No dedicated graphics card required<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
             },
             "legal_notice": "Tumblestone ® is the Registered Trade Mark of The Quantum Astrophysicists Guild. All rights reserved.<br>Copyright © 2016 The Quantum Astrophysicists Guild. All rights reserved.<br>Not responsible for broken keyboards or friendships.<br><a href=\"https://steamcommunity.com/linkfilter/?url=http://tumblestonegame.com/privacy.html\" target=\"_blank\" rel=\"noopener\"  >Privacy Policy</a>",
             "developers": [
@@ -34,10 +34,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 2299,
-                "final": 2299,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "22,99€"
+                "final": 436,
+                "discount_percent": 81,
+                "initial_formatted": "22,99€",
+                "final_formatted": "4,36€"
             },
             "packages": [
                 129429
@@ -54,13 +54,13 @@
                     "subs": [
                         {
                             "packageid": 129429,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-81%",
                             "percent_savings": 0,
-                            "option_text": "Tumblestone - 22,99€",
+                            "option_text": "Tumblestone - <span class=\"discount_original_price\">22,99€</span> 4,36€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 2299
+                            "price_in_cents_with_discount": 436
                         }
                     ]
                 }
