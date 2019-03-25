@@ -32,10 +32,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 699,
-                "final": 419,
-                "discount_percent": 40,
-                "initial_formatted": "6,99€",
-                "final_formatted": "4,19€"
+                "final": 699,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "6,99€"
             },
             "packages": [
                 38206
@@ -52,13 +52,13 @@
                     "subs": [
                         {
                             "packageid": 38206,
-                            "percent_savings_text": "-40%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Ultionus: A Tale of Petty Revenge - <span class=\"discount_original_price\">6,99€</span> 4,19€",
+                            "option_text": "Ultionus: A Tale of Petty Revenge - 6,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 419
+                            "price_in_cents_with_discount": 699
                         }
                     ]
                 }
@@ -166,7 +166,7 @@
                 }
             ],
             "recommendations": {
-                "total": 106
+                "total": 107
             },
             "achievements": {
                 "total": 15,
