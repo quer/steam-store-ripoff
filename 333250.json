@@ -18,13 +18,13 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/333250/header.jpg?t=1551356579",
             "website": "http://www.animugame.com",
             "pc_requirements": {
-                "minimum": "<strong>最低配備:</strong><br><ul class=\"bb_ul\"><li><strong>作業系統:</strong> Windows XP+<br></li><li><strong>處理器:</strong> 2.0 GHz Dual Core Processor<br></li><li><strong>記憶體:</strong> 4 GB 記憶體<br></li><li><strong>顯示卡:</strong> DX9 (shader model 2.0) capabilities<br></li><li><strong>儲存空間:</strong> 430 MB 可用空間</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP+<br></li><li><strong>Processor:</strong> 2.0 GHz Dual Core Processor<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> DX9 (shader model 2.0) capabilities<br></li><li><strong>Storage:</strong> 430 MB available space</li></ul>"
             },
             "mac_requirements": {
-                "minimum": "<strong>最低配備:</strong><br><ul class=\"bb_ul\"><li><strong>作業系統:</strong> Mac OS X 10.6+<br></li><li><strong>處理器:</strong> 1,4 GHz Intel i5, 2.0 GHz Dual Core<br></li><li><strong>記憶體:</strong> 4 GB 記憶體<br></li><li><strong>顯示卡:</strong> Intel HD Graphics 4000<br></li><li><strong>儲存空間:</strong> 470 MB 可用空間</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OS X 10.6+<br></li><li><strong>Processor:</strong> 1,4 GHz Intel i5, 2.0 GHz Dual Core<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD Graphics 4000<br></li><li><strong>Storage:</strong> 470 MB available space</li></ul>"
             },
             "linux_requirements": {
-                "minimum": "<strong>最低配備:</strong><br><ul class=\"bb_ul\"><li><strong>作業系統:</strong> Ubuntu 12.04 LTS<br></li><li><strong>處理器:</strong> 2.0 GHz Dual Core Processor<br></li><li><strong>記憶體:</strong> 4 GB 記憶體<br></li><li><strong>顯示卡:</strong> Shader Model 3.0, 256 MB VRAM<br></li><li><strong>儲存空間:</strong> 460 MB 可用空間</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 12.04 LTS<br></li><li><strong>Processor:</strong> 2.0 GHz Dual Core Processor<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Shader Model 3.0, 256 MB VRAM<br></li><li><strong>Storage:</strong> 460 MB available space</li></ul>"
             },
             "developers": [
                 "Animu Game"
@@ -41,10 +41,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 799,
-                "final": 799,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "7,99€"
+                "final": 271,
+                "discount_percent": 66,
+                "initial_formatted": "7,99€",
+                "final_formatted": "2,71€"
             },
             "packages": [
                 54630
@@ -61,13 +61,13 @@
                     "subs": [
                         {
                             "packageid": 54630,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-66%",
                             "percent_savings": 0,
-                            "option_text": "Forward to the Sky - 7,99€",
+                            "option_text": "Forward to the Sky - <span class=\"discount_original_price\">7,99€</span> 2,71€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 799
+                            "price_in_cents_with_discount": 271
                         }
                     ]
                 }
@@ -162,7 +162,7 @@
                 }
             ],
             "recommendations": {
-                "total": 1434
+                "total": 1436
             },
             "achievements": {
                 "total": 12,
