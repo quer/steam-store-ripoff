@@ -33,10 +33,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 1399,
-                "final": 559,
-                "discount_percent": 60,
-                "initial_formatted": "13,99€",
-                "final_formatted": "5,59€"
+                "final": 1399,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "13,99€"
             },
             "packages": [
                 32725
@@ -53,13 +53,13 @@
                     "subs": [
                         {
                             "packageid": 32725,
-                            "percent_savings_text": "-60%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Train Simulator: CrossCountry Class 220 'Voyager' DEMU - <span class=\"discount_original_price\">13,99€</span> 5,59€",
+                            "option_text": "Train Simulator: CrossCountry Class 220 'Voyager' DEMU - 13,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 559
+                            "price_in_cents_with_discount": 1399
                         }
                     ]
                 }
