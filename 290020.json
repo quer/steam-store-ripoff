@@ -14,13 +14,13 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/290020/header.jpg?t=1512967430",
             "website": "http://www.incandescentgames.co.uk/",
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP SP2+<br></li><li><strong>Processor:</strong> SSE2 instruction set support<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> DX9 (shader model 3.0) or DX11 with feature level 9.3 capabilities.<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 4 GB available space</li></ul>"
+                "minimum": "<strong>Минимальные:</strong><br><ul class=\"bb_ul\"><li><strong>ОС:</strong> Windows XP SP2+<br></li><li><strong>Процессор:</strong> SSE2 instruction set support<br></li><li><strong>Оперативная память:</strong> 2 GB ОЗУ<br></li><li><strong>Видеокарта:</strong> DX9 (shader model 3.0) or DX11 with feature level 9.3 capabilities.<br></li><li><strong>DirectX:</strong> Версии 9.0c<br></li><li><strong>Место на диске:</strong> 4 GB</li></ul>"
             },
             "mac_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OS X 10.8+<br></li><li><strong>Processor:</strong> SSE2 instruction set support<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> DX9 (shader model 3.0) or DX11 with feature level 9.3 capabilities.<br></li><li><strong>Storage:</strong> 4 GB available space</li></ul>"
+                "minimum": "<strong>Минимальные:</strong><br><ul class=\"bb_ul\"><li><strong>ОС:</strong> Mac OS X 10.8+<br></li><li><strong>Процессор:</strong> SSE2 instruction set support<br></li><li><strong>Оперативная память:</strong> 2 GB ОЗУ<br></li><li><strong>Видеокарта:</strong> DX9 (shader model 3.0) or DX11 with feature level 9.3 capabilities.<br></li><li><strong>Место на диске:</strong> 4 GB</li></ul>"
             },
             "linux_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 12.04+, SteamOS+<br></li><li><strong>Processor:</strong> SSE2 instruction set support<br></li><li><strong>Memory:</strong> 2 MB RAM<br></li><li><strong>Graphics:</strong> DX9 (shader model 3.0) or DX11 with feature level 9.3 capabilities.<br></li><li><strong>Storage:</strong> 4 GB available space</li></ul>"
+                "minimum": "<strong>Минимальные:</strong><br><ul class=\"bb_ul\"><li><strong>ОС:</strong> Ubuntu 12.04+, SteamOS+<br></li><li><strong>Процессор:</strong> SSE2 instruction set support<br></li><li><strong>Оперативная память:</strong> 2 MB ОЗУ<br></li><li><strong>Видеокарта:</strong> DX9 (shader model 3.0) or DX11 with feature level 9.3 capabilities.<br></li><li><strong>Место на диске:</strong> 4 GB</li></ul>"
             },
             "developers": [
                 "Incandescent Games"
@@ -37,10 +37,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 1650,
-                "final": 1650,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "16,50€"
+                "final": 825,
+                "discount_percent": 50,
+                "initial_formatted": "16,50€",
+                "final_formatted": "8,25€"
             },
             "packages": [
                 40640
@@ -57,13 +57,13 @@
                     "subs": [
                         {
                             "packageid": 40640,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-50%",
                             "percent_savings": 0,
-                            "option_text": "LogicBots - 16,50€",
+                            "option_text": "LogicBots - <span class=\"discount_original_price\">16,50€</span> 8,25€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1650
+                            "price_in_cents_with_discount": 825
                         }
                     ]
                 }
@@ -204,7 +204,7 @@
                 }
             ],
             "recommendations": {
-                "total": 118
+                "total": 119
             },
             "achievements": {
                 "total": 27,
