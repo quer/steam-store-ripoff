@@ -39,10 +39,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 999,
-                "final": 999,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "9,99€"
+                "final": 99,
+                "discount_percent": 90,
+                "initial_formatted": "9,99€",
+                "final_formatted": "0,99€"
             },
             "packages": [
                 66700
@@ -59,13 +59,13 @@
                     "subs": [
                         {
                             "packageid": 66700,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-90%",
                             "percent_savings": 0,
-                            "option_text": "Kane and Lynch 2 - Dog Days - 9,99€",
+                            "option_text": "Kane and Lynch 2 - Dog Days - <span class=\"discount_original_price\">9,99€</span> 0,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 999
+                            "price_in_cents_with_discount": 99
                         }
                     ]
                 }
@@ -291,22 +291,12 @@
                     "highlight": true
                 },
                 {
-                    "id": 5772,
-                    "name": "Kane & Lynch 2: Undercover Cop Mode (ES)",
-                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/5772/movie.293x165.jpg?t=1447353382",
+                    "id": 5862,
+                    "name": "K&L2: You Think You Can Kill Me? (PEGI) (EN)",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/5862/movie.293x165.jpg?t=1447353414",
                     "webm": {
-                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/5772/movie480.webm?t=1447353382",
-                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/5772/movie_max.webm?t=1447353382"
-                    },
-                    "highlight": false
-                },
-                {
-                    "id": 5774,
-                    "name": "Kane & Lynch 2: Undercover Cop Mode Engish (PEGI)",
-                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/5774/movie.293x165.jpg?t=1447353384",
-                    "webm": {
-                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/5774/movie480.webm?t=1447353384",
-                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/5774/movie_max.webm?t=1447353384"
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/5862/movie480.webm?t=1447353414",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/5862/movie_max.webm?t=1447353414"
                     },
                     "highlight": false
                 },
@@ -331,18 +321,28 @@
                     "highlight": false
                 },
                 {
-                    "id": 5862,
-                    "name": "K&L2: You Think You Can Kill Me? (PEGI) (EN)",
-                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/5862/movie.293x165.jpg?t=1447353414",
+                    "id": 5774,
+                    "name": "Kane & Lynch 2: Undercover Cop Mode Engish (PEGI)",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/5774/movie.293x165.jpg?t=1447353384",
                     "webm": {
-                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/5862/movie480.webm?t=1447353414",
-                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/5862/movie_max.webm?t=1447353414"
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/5774/movie480.webm?t=1447353384",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/5774/movie_max.webm?t=1447353384"
+                    },
+                    "highlight": false
+                },
+                {
+                    "id": 5772,
+                    "name": "Kane & Lynch 2: Undercover Cop Mode (ES)",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/5772/movie.293x165.jpg?t=1447353382",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/5772/movie480.webm?t=1447353382",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/5772/movie_max.webm?t=1447353382"
                     },
                     "highlight": false
                 }
             ],
             "recommendations": {
-                "total": 2809
+                "total": 2837
             },
             "achievements": {
                 "total": 59,
