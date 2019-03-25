@@ -54,10 +54,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 4699,
-                "final": 1597,
-                "discount_percent": 66,
-                "initial_formatted": "46,99€",
-                "final_formatted": "15,97€"
+                "final": 4699,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "46,99€"
             },
             "packages": [
                 46002,
@@ -75,23 +75,23 @@
                     "subs": [
                         {
                             "packageid": 46002,
-                            "percent_savings_text": "-66%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "IL-2 Sturmovik: Battle of Stalingrad - <span class=\"discount_original_price\">46,99€</span> 15,97€",
+                            "option_text": "IL-2 Sturmovik: Battle of Stalingrad - 46,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1597
+                            "price_in_cents_with_discount": 4699
                         },
                         {
                             "packageid": 46736,
-                            "percent_savings_text": "-66%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "IL-2 Sturmovik: Battle of Stalingrad Deluxe - <span class=\"discount_original_price\">74,99€</span> 25,49€",
+                            "option_text": "IL-2 Sturmovik: Battle of Stalingrad Deluxe - 74,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 2549
+                            "price_in_cents_with_discount": 7499
                         }
                     ]
                 }
@@ -301,7 +301,7 @@
                 }
             ],
             "recommendations": {
-                "total": 1650
+                "total": 1675
             },
             "achievements": {
                 "total": 0
