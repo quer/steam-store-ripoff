@@ -33,10 +33,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 1599,
-                "final": 1599,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "15,99€"
+                "final": 959,
+                "discount_percent": 40,
+                "initial_formatted": "15,99€",
+                "final_formatted": "9,59€"
             },
             "packages": [
                 42262
@@ -53,13 +53,13 @@
                     "subs": [
                         {
                             "packageid": 42262,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-40%",
                             "percent_savings": 0,
-                            "option_text": "Rocksmith 2014 - Rage Against the Machine Song Pack (I-II) - 15,99€",
+                            "option_text": "Rocksmith 2014 - Rage Against the Machine Song Pack (I-II) - <span class=\"discount_original_price\">15,99€</span> 9,59€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1599
+                            "price_in_cents_with_discount": 959
                         }
                     ]
                 }
