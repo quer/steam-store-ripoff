@@ -34,10 +34,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 299,
-                "final": 299,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "2,99€"
+                "final": 149,
+                "discount_percent": 50,
+                "initial_formatted": "2,99€",
+                "final_formatted": "1,49€"
             },
             "packages": [
                 33588,
@@ -55,23 +55,23 @@
                     "subs": [
                         {
                             "packageid": 33588,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-50%",
                             "percent_savings": 0,
-                            "option_text": "Sacred 3: Orcland Story - 2,99€",
+                            "option_text": "Sacred 3: Orcland Story - <span class=\"discount_original_price\">2,99€</span> 1,49€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 299
+                            "price_in_cents_with_discount": 149
                         },
                         {
                             "packageid": 67169,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-75%",
                             "percent_savings": 0,
-                            "option_text": "Sacred 3 Gold - 19,99€",
+                            "option_text": "Sacred 3 Gold - <span class=\"discount_original_price\">19,99€</span> 4,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1999
+                            "price_in_cents_with_discount": 499
                         }
                     ]
                 }
