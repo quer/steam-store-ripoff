@@ -35,10 +35,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 1499,
-                "final": 1499,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "14,99€"
+                "final": 224,
+                "discount_percent": 85,
+                "initial_formatted": "14,99€",
+                "final_formatted": "2,24€"
             },
             "packages": [
                 46691
@@ -55,13 +55,13 @@
                     "subs": [
                         {
                             "packageid": 46691,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-85%",
                             "percent_savings": 0,
-                            "option_text": "The Way - 14,99€",
+                            "option_text": "The Way - <span class=\"discount_original_price\">14,99€</span> 2,24€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1499
+                            "price_in_cents_with_discount": 224
                         }
                     ]
                 }
@@ -212,7 +212,7 @@
                 }
             ],
             "recommendations": {
-                "total": 405
+                "total": 409
             },
             "achievements": {
                 "total": 29,
