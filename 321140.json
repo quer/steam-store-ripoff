@@ -39,9 +39,9 @@
             },
             "packages": [
                 50198,
+                67585,
                 90433,
-                67584,
-                67585
+                67584
             ],
             "package_groups": [
                 {
@@ -58,6 +58,16 @@
                             "percent_savings_text": "",
                             "percent_savings": 0,
                             "option_text": "GameGuru - Mega Pack 1 - 22,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 2299
+                        },
+                        {
+                            "packageid": 67585,
+                            "percent_savings_text": "-50%",
+                            "percent_savings": 0,
+                            "option_text": "GameGuru Premium Bundle - <span class=\"discount_original_price\">45,99€</span> 22,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
@@ -82,16 +92,6 @@
                             "can_get_free_license": "0",
                             "is_free_license": false,
                             "price_in_cents_with_discount": 3399
-                        },
-                        {
-                            "packageid": 67585,
-                            "percent_savings_text": "",
-                            "percent_savings": 0,
-                            "option_text": "GameGuru Premium Bundle - 45,99€",
-                            "option_description": "",
-                            "can_get_free_license": "0",
-                            "is_free_license": false,
-                            "price_in_cents_with_discount": 4599
                         }
                     ]
                 }
