@@ -37,10 +37,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 2999,
-                "final": 2999,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "29,99€"
+                "final": 1199,
+                "discount_percent": 60,
+                "initial_formatted": "29,99€",
+                "final_formatted": "11,99€"
             },
             "packages": [
                 54143,
@@ -58,23 +58,23 @@
                     "subs": [
                         {
                             "packageid": 54143,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-60%",
                             "percent_savings": 0,
-                            "option_text": "Far Cry 4 - 29,99€",
+                            "option_text": "Far Cry 4 - <span class=\"discount_original_price\">29,99€</span> 11,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 2999
+                            "price_in_cents_with_discount": 1199
                         },
                         {
                             "packageid": 54146,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-70%",
                             "percent_savings": 0,
-                            "option_text": "Far Cry 4 Gold - 59,99€",
+                            "option_text": "Far Cry 4 Gold - <span class=\"discount_original_price\">59,99€</span> 17,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 5999
+                            "price_in_cents_with_discount": 1799
                         }
                     ]
                 }
@@ -144,7 +144,7 @@
                 }
             ],
             "recommendations": {
-                "total": 19206
+                "total": 19306
             },
             "achievements": {
                 "total": 0
