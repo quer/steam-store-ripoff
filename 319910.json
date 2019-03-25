@@ -36,10 +36,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 2199,
-                "final": 2199,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "21,99€"
+                "final": 549,
+                "discount_percent": 75,
+                "initial_formatted": "21,99€",
+                "final_formatted": "5,49€"
             },
             "packages": [
                 49661,
@@ -58,33 +58,33 @@
                     "subs": [
                         {
                             "packageid": 49661,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-75%",
                             "percent_savings": 0,
-                            "option_text": "Trine 3 - 21,99€",
+                            "option_text": "Trine 3 - <span class=\"discount_original_price\">21,99€</span> 5,49€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 2199
+                            "price_in_cents_with_discount": 549
                         },
                         {
                             "packageid": 230361,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-50%",
                             "percent_savings": 0,
-                            "option_text": "Trine 3: The Artifacts of Power - Commercial License - 21,99€",
+                            "option_text": "Trine 3: The Artifacts of Power - Commercial License - <span class=\"discount_original_price\">21,99€</span> 10,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 2199
+                            "price_in_cents_with_discount": 1099
                         },
                         {
                             "packageid": 66041,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-75%",
                             "percent_savings": 0,
-                            "option_text": "Trine 3 - Three-Pack - 59,99€",
+                            "option_text": "Trine 3 - Three-Pack - <span class=\"discount_original_price\">59,99€</span> 14,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 5999
+                            "price_in_cents_with_discount": 1499
                         }
                     ]
                 }
@@ -241,7 +241,7 @@
                 }
             ],
             "recommendations": {
-                "total": 4137
+                "total": 4148
             },
             "achievements": {
                 "total": 28,
