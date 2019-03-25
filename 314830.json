@@ -31,11 +31,11 @@
             ],
             "price_overview": {
                 "currency": "EUR",
-                "initial": 1499,
-                "final": 1499,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "14,99€"
+                "initial": 1999,
+                "final": 199,
+                "discount_percent": 90,
+                "initial_formatted": "19,99€",
+                "final_formatted": "1,99€"
             },
             "packages": [
                 47877,
@@ -64,23 +64,23 @@
                         },
                         {
                             "packageid": 64046,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-90%",
                             "percent_savings": 0,
-                            "option_text": "Blackguards Franchise Bundle - 19,99€",
+                            "option_text": "Blackguards Franchise Bundle - <span class=\"discount_original_price\">19,99€</span> 1,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1999
+                            "price_in_cents_with_discount": 199
                         },
                         {
                             "packageid": 76471,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-90%",
                             "percent_savings": 0,
-                            "option_text": "Daedalic - Gigantic Bundle - 120,99€",
+                            "option_text": "Daedalic - Gigantic Bundle - <span class=\"discount_original_price\">120,99€</span> 12,09€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 12099
+                            "price_in_cents_with_discount": 1209
                         }
                     ]
                 }
