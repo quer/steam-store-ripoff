@@ -16,16 +16,16 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/296070/header.jpg?t=1547136731",
             "website": "http://mindpathtothalamus.com/",
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 (64 bits)<br></li><li><strong>Processor:</strong> Core 2 Duo E4300 1.8GHz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> GeForce 7600 GS<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>",
-                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 (64 bits)<br></li><li><strong>Processor:</strong> Intel Core i5-3570K 3.4Ghz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> GeForce GTX 660<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>"
+                "minimum": "<strong>最低:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 (64 bits)<br></li><li><strong>プロセッサー:</strong> Core 2 Duo E4300 1.8GHz<br></li><li><strong>メモリー:</strong> 2 GB RAM<br></li><li><strong>グラフィック:</strong> GeForce 7600 GS<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>ストレージ:</strong> 2 GB 利用可能</li></ul>",
+                "recommended": "<strong>推奨:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 (64 bits)<br></li><li><strong>プロセッサー:</strong> Intel Core i5-3570K 3.4Ghz<br></li><li><strong>メモリー:</strong> 4 GB RAM<br></li><li><strong>グラフィック:</strong> GeForce GTX 660<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>ストレージ:</strong> 2 GB 利用可能</li></ul>"
             },
             "mac_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Maverick (10.9.2) and above<br></li><li><strong>Graphics:</strong> ATI Radeon HD 2600 XT<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>",
-                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Maverick (10.9.2) and above<br></li><li><strong>Processor:</strong> Intel Core i5<br></li><li><strong>Graphics:</strong> GeForce GTX 660<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>"
+                "minimum": "<strong>最低:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Maverick (10.9.2) and above<br></li><li><strong>グラフィック:</strong> ATI Radeon HD 2600 XT<br></li><li><strong>ストレージ:</strong> 2 GB 利用可能</li></ul>",
+                "recommended": "<strong>推奨:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Maverick (10.9.2) and above<br></li><li><strong>プロセッサー:</strong> Intel Core i5<br></li><li><strong>グラフィック:</strong> GeForce GTX 660<br></li><li><strong>ストレージ:</strong> 2 GB 利用可能</li></ul>"
             },
             "linux_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Debian compatible<br></li><li><strong>Processor:</strong> Core 2 Duo E4300 1.8GHz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> GeForce 7600 GS<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Additional Notes:</strong> Proprietary drivers required</li></ul>",
-                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Debian compatible<br></li><li><strong>Processor:</strong> Intel Core i5-3570K 3.4Ghz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> GeForce GTX 660<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Additional Notes:</strong> Proprietary drivers required</li></ul>"
+                "minimum": "<strong>最低:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Debian compatible<br></li><li><strong>プロセッサー:</strong> Core 2 Duo E4300 1.8GHz<br></li><li><strong>メモリー:</strong> 2 GB RAM<br></li><li><strong>グラフィック:</strong> GeForce 7600 GS<br></li><li><strong>ストレージ:</strong> 2 GB 利用可能<br></li><li><strong>追記事項:</strong> Proprietary drivers required</li></ul>",
+                "recommended": "<strong>推奨:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Debian compatible<br></li><li><strong>プロセッサー:</strong> Intel Core i5-3570K 3.4Ghz<br></li><li><strong>メモリー:</strong> 4 GB RAM<br></li><li><strong>グラフィック:</strong> GeForce GTX 660<br></li><li><strong>ストレージ:</strong> 2 GB 利用可能<br></li><li><strong>追記事項:</strong> Proprietary drivers required</li></ul>"
             },
             "developers": [
                 "Pantumaca Barcelona",
@@ -39,10 +39,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 999,
-                "final": 199,
-                "discount_percent": 80,
-                "initial_formatted": "9,99€",
-                "final_formatted": "1,99€"
+                "final": 999,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "9,99€"
             },
             "packages": [
                 42637
@@ -59,13 +59,13 @@
                     "subs": [
                         {
                             "packageid": 42637,
-                            "percent_savings_text": "-80%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Mind: Path to Thalamus - <span class=\"discount_original_price\">9,99€</span> 1,99€",
+                            "option_text": "Mind: Path to Thalamus - 9,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 199
+                            "price_in_cents_with_discount": 999
                         }
                     ]
                 }
@@ -194,7 +194,7 @@
                 }
             ],
             "recommendations": {
-                "total": 705
+                "total": 708
             },
             "achievements": {
                 "total": 23,
