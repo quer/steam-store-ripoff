@@ -14,7 +14,7 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/320840/header.jpg?t=1447363437",
             "website": "http://www.cinemawarewings.com/",
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows Vista SP2, Windows 7, Windows 8<br></li><li><strong>Processor:</strong> 2 GHz Dual Core CPU<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD 3000, dedicated Nvidia or AMD graphics card with DirectX 9.0c hardware support<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 1 GB available space<br></li><li><strong>Sound Card:</strong> DirectX compatible</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Betriebssystem:</strong> Windows Vista SP2, Windows 7, Windows 8<br></li><li><strong>Prozessor:</strong> 2 GHz Dual Core CPU<br></li><li><strong>Arbeitsspeicher:</strong> 4 GB RAM<br></li><li><strong>Grafik:</strong> Intel HD 3000, dedicated Nvidia or AMD graphics card with DirectX 9.0c hardware support<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Speicherplatz:</strong> 1 GB verfügbarer Speicherplatz<br></li><li><strong>Soundkarte:</strong> DirectX compatible</li></ul>"
             },
             "mac_requirements": [],
             "linux_requirements": [],
@@ -28,10 +28,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 1499,
-                "final": 299,
-                "discount_percent": 80,
-                "initial_formatted": "14,99€",
-                "final_formatted": "2,99€"
+                "final": 1499,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "14,99€"
             },
             "packages": [
                 50061
@@ -48,13 +48,13 @@
                     "subs": [
                         {
                             "packageid": 50061,
-                            "percent_savings_text": "-80%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Wings! Remastered Edition - <span class=\"discount_original_price\">14,99€</span> 2,99€",
+                            "option_text": "Wings! Remastered Edition - 14,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 299
+                            "price_in_cents_with_discount": 1499
                         }
                     ]
                 }
@@ -141,7 +141,7 @@
                 }
             ],
             "recommendations": {
-                "total": 250
+                "total": 251
             },
             "achievements": {
                 "total": 12,
