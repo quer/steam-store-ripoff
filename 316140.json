@@ -16,16 +16,16 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/316140/header.jpg?t=1548388111",
             "website": "http://fightingfantasyapps.com/",
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP SP3<br></li><li><strong>Processor:</strong> 2 GHz dual core<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Hardware Accelerated Graphics with dedicated memory<br></li><li><strong>Storage:</strong> 350 MB available space</li></ul>",
-                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7/8<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Hardware Accelerated Graphics with 1GB memory<br></li><li><strong>Storage:</strong> 350 MB available space</li></ul>"
+                "minimum": "<strong>最低:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP SP3<br></li><li><strong>プロセッサー:</strong> 2 GHz dual core<br></li><li><strong>メモリー:</strong> 2 GB RAM<br></li><li><strong>グラフィック:</strong> Hardware Accelerated Graphics with dedicated memory<br></li><li><strong>ストレージ:</strong> 350 MB 利用可能</li></ul>",
+                "recommended": "<strong>推奨:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7/8<br></li><li><strong>メモリー:</strong> 4 GB RAM<br></li><li><strong>グラフィック:</strong> Hardware Accelerated Graphics with 1GB memory<br></li><li><strong>ストレージ:</strong> 350 MB 利用可能</li></ul>"
             },
             "mac_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OS 10.7.5+<br></li><li><strong>Processor:</strong> 2 GHz dual core<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Hardware Accelerated Graphics with dedicated memory<br></li><li><strong>Storage:</strong> 350 MB available space</li></ul>",
-                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OS 10.8<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Hardware Accelerated Graphics with 1GB memory<br></li><li><strong>Storage:</strong> 350 MB available space</li></ul>"
+                "minimum": "<strong>最低:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OS 10.7.5+<br></li><li><strong>プロセッサー:</strong> 2 GHz dual core<br></li><li><strong>メモリー:</strong> 2 GB RAM<br></li><li><strong>グラフィック:</strong> Hardware Accelerated Graphics with dedicated memory<br></li><li><strong>ストレージ:</strong> 350 MB 利用可能</li></ul>",
+                "recommended": "<strong>推奨:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OS 10.8<br></li><li><strong>メモリー:</strong> 4 GB RAM<br></li><li><strong>グラフィック:</strong> Hardware Accelerated Graphics with 1GB memory<br></li><li><strong>ストレージ:</strong> 350 MB 利用可能</li></ul>"
             },
             "linux_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Processor:</strong> 2 GHz dual core<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Hardware Accelerated Graphics with dedicated memory<br></li><li><strong>Storage:</strong> 350 MB available space</li></ul>",
-                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Hardware Accelerated Graphics with 1GB memory<br></li><li><strong>Storage:</strong> 350 MB available space</li></ul>"
+                "minimum": "<strong>最低:</strong><br><ul class=\"bb_ul\"><li><strong>プロセッサー:</strong> 2 GHz dual core<br></li><li><strong>メモリー:</strong> 2 GB RAM<br></li><li><strong>グラフィック:</strong> Hardware Accelerated Graphics with dedicated memory<br></li><li><strong>ストレージ:</strong> 350 MB 利用可能</li></ul>",
+                "recommended": "<strong>推奨:</strong><br><ul class=\"bb_ul\"><li><strong>メモリー:</strong> 4 GB RAM<br></li><li><strong>グラフィック:</strong> Hardware Accelerated Graphics with 1GB memory<br></li><li><strong>ストレージ:</strong> 350 MB 利用可能</li></ul>"
             },
             "legal_notice": "© Tin Man Games Pty Ltd, 2014<br />\r\nFighting Fantasy is a trademark owned by Steve Jackson and Ian Livingstone, all rights reserved.",
             "developers": [
@@ -37,10 +37,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 499,
-                "final": 249,
-                "discount_percent": 50,
-                "initial_formatted": "4,99€",
-                "final_formatted": "2,49€"
+                "final": 499,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "4,99€"
             },
             "packages": [
                 48350
@@ -57,13 +57,13 @@
                     "subs": [
                         {
                             "packageid": 48350,
-                            "percent_savings_text": "-50%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Appointment With FEAR - <span class=\"discount_original_price\">4,99€</span> 2,49€",
+                            "option_text": "Appointment With FEAR - 4,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 249
+                            "price_in_cents_with_discount": 499
                         }
                     ]
                 }
