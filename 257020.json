@@ -29,10 +29,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 599,
-                "final": 599,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "5,99€"
+                "final": 179,
+                "discount_percent": 70,
+                "initial_formatted": "5,99€",
+                "final_formatted": "1,79€"
             },
             "packages": [
                 32015,
@@ -50,23 +50,23 @@
                     "subs": [
                         {
                             "packageid": 32015,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-70%",
                             "percent_savings": 0,
-                            "option_text": "Guacamelee! Gold Original Soundtrack - 5,99€",
+                            "option_text": "Guacamelee! Gold Original Soundtrack - <span class=\"discount_original_price\">5,99€</span> 1,79€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 179
+                        },
+                        {
+                            "packageid": 73535,
+                            "percent_savings_text": "-70%",
+                            "percent_savings": 0,
+                            "option_text": "Guacamelee! Complete - <span class=\"discount_original_price\">19,99€</span> 5,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
                             "price_in_cents_with_discount": 599
-                        },
-                        {
-                            "packageid": 73535,
-                            "percent_savings_text": "",
-                            "percent_savings": 0,
-                            "option_text": "Guacamelee! Complete - 19,99€",
-                            "option_description": "",
-                            "can_get_free_license": "0",
-                            "is_free_license": false,
-                            "price_in_cents_with_discount": 1999
                         }
                     ]
                 }
