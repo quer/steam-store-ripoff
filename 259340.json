@@ -15,8 +15,8 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/259340/header.jpg?t=1512666396",
             "website": "http://www.chickenshoot.com/",
             "pc_requirements": {
-                "minimum": "<strong>最低配備:</strong><br><ul class=\"bb_ul\"><li><strong>作業系統:</strong> Wiindows XP / Vista / 7 / 8<br></li><li><strong>處理器:</strong> Intel or AMD Single Core CPU<br></li><li><strong>記憶體:</strong> 512 MB 記憶體<br></li><li><strong>顯示卡:</strong> DirectX compatible with 16 MB RAM<br></li><li><strong>DirectX:</strong> 版本：9.0c<br></li><li><strong>網路:</strong> 寬頻網際網路連線<br></li><li><strong>儲存空間:</strong> 250 MB 可用空間<br></li><li><strong>音效卡:</strong> DirectX compatible<br></li><li><strong>備註:</strong> Mouse and Keyboard</li></ul>",
-                "recommended": "<strong>建議配備:</strong><br><ul class=\"bb_ul\"><li><strong>作業系統:</strong> Wiindows XP / Vista / 7 / 8<br></li><li><strong>處理器:</strong> Intel or AMD Single Core CPU 1.5 GHz<br></li><li><strong>記憶體:</strong> 1 GB 記憶體<br></li><li><strong>顯示卡:</strong> DirectX compatible with 32 MB RAM<br></li><li><strong>DirectX:</strong> 版本：9.0c<br></li><li><strong>網路:</strong> 寬頻網際網路連線<br></li><li><strong>儲存空間:</strong> 350 MB 可用空間<br></li><li><strong>音效卡:</strong> DirectX compatible<br></li><li><strong>備註:</strong> Mouse and Keyboard</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Wiindows XP / Vista / 7 / 8<br></li><li><strong>Processor:</strong> Intel or AMD Single Core CPU<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> DirectX compatible with 16 MB RAM<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 250 MB available space<br></li><li><strong>Sound Card:</strong> DirectX compatible<br></li><li><strong>Additional Notes:</strong> Mouse and Keyboard</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Wiindows XP / Vista / 7 / 8<br></li><li><strong>Processor:</strong> Intel or AMD Single Core CPU 1.5 GHz<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> DirectX compatible with 32 MB RAM<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 350 MB available space<br></li><li><strong>Sound Card:</strong> DirectX compatible<br></li><li><strong>Additional Notes:</strong> Mouse and Keyboard</li></ul>"
             },
             "mac_requirements": [],
             "linux_requirements": [],
@@ -31,10 +31,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 699,
-                "final": 139,
-                "discount_percent": 80,
-                "initial_formatted": "6,99€",
-                "final_formatted": "1,39€"
+                "final": 699,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "6,99€"
             },
             "packages": [
                 33026
@@ -51,13 +51,13 @@
                     "subs": [
                         {
                             "packageid": 33026,
-                            "percent_savings_text": "-80%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Chicken Shoot Gold - <span class=\"discount_original_price\">6,99€</span> 1,39€",
+                            "option_text": "Chicken Shoot Gold - 6,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 139
+                            "price_in_cents_with_discount": 699
                         }
                     ]
                 }
