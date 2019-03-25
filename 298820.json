@@ -32,11 +32,11 @@
             ],
             "price_overview": {
                 "currency": "EUR",
-                "initial": 599,
-                "final": 599,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "5,99€"
+                "initial": 799,
+                "final": 79,
+                "discount_percent": 90,
+                "initial_formatted": "7,99€",
+                "final_formatted": "0,79€"
             },
             "packages": [
                 43471,
@@ -54,23 +54,23 @@
                     "subs": [
                         {
                             "packageid": 43471,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-85%",
                             "percent_savings": 0,
-                            "option_text": "Millennium 2 - Take Me Higher - 5,99€",
+                            "option_text": "Millennium 2 - Take Me Higher - <span class=\"discount_original_price\">5,99€</span> 0,89€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 599
+                            "price_in_cents_with_discount": 89
                         },
                         {
                             "packageid": 69272,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-90%",
                             "percent_savings": 0,
-                            "option_text": "Millennium 2 - Strategist Edition (contains Game+Guide) - 7,99€",
+                            "option_text": "Millennium 2 - Strategist Edition (contains Game+Guide) - <span class=\"discount_original_price\">7,99€</span> 0,79€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 799
+                            "price_in_cents_with_discount": 79
                         }
                     ]
                 }

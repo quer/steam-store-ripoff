@@ -32,16 +32,16 @@
             ],
             "price_overview": {
                 "currency": "EUR",
-                "initial": 999,
-                "final": 999,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "9,99€"
+                "initial": 1299,
+                "final": 129,
+                "discount_percent": 90,
+                "initial_formatted": "12,99€",
+                "final_formatted": "1,29€"
             },
             "packages": [
-                43480,
+                74581,
                 69269,
-                74581
+                43480
             ],
             "package_groups": [
                 {
@@ -54,34 +54,34 @@
                     "is_recurring_subscription": "false",
                     "subs": [
                         {
-                            "packageid": 43480,
-                            "percent_savings_text": "",
+                            "packageid": 74581,
+                            "percent_savings_text": "-90%",
                             "percent_savings": 0,
-                            "option_text": "Millennium 5 - The Battle of the Millennium - 9,99€",
+                            "option_text": "Millennium 5 - Deluxe Edition (contains Game+Guide+Goodies) - <span class=\"discount_original_price\">12,99€</span> 1,29€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 999
+                            "price_in_cents_with_discount": 129
                         },
                         {
                             "packageid": 69269,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-85%",
                             "percent_savings": 0,
-                            "option_text": "Millennium 5 - Strategist Edition (contains Game+Guide) - 11,99€",
+                            "option_text": "Millennium 5 - Strategist Edition (contains Game+Guide) - <span class=\"discount_original_price\">11,99€</span> 1,79€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1199
+                            "price_in_cents_with_discount": 179
                         },
                         {
-                            "packageid": 74581,
-                            "percent_savings_text": "",
+                            "packageid": 43480,
+                            "percent_savings_text": "-80%",
                             "percent_savings": 0,
-                            "option_text": "Millennium 5 - Deluxe Edition (contains Game+Guide+Goodies) - 12,99€",
+                            "option_text": "Millennium 5 - The Battle of the Millennium - <span class=\"discount_original_price\">9,99€</span> 1,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1299
+                            "price_in_cents_with_discount": 199
                         }
                     ]
                 }
