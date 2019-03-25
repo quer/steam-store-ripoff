@@ -14,7 +14,7 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/307340/header.jpg?t=1447362271",
             "website": null,
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP/Vista/7/8<br></li><li><strong>Processor:</strong> Pentium® or AMD® 1.3 GHz<br></li><li><strong>Memory:</strong> 128 MB RAM<br></li><li><strong>Graphics:</strong> 32MB 3D Video Card</li></ul>"
+                "minimum": "<strong>Minimalne:</strong><br><ul class=\"bb_ul\"><li><strong>System operacyjny:</strong> Windows XP/Vista/7/8<br></li><li><strong>Procesor:</strong> Pentium® or AMD® 1.3 GHz<br></li><li><strong>Pamięć:</strong> 128 MB RAM<br></li><li><strong>Karta graficzna:</strong> 32MB 3D Video Card</li></ul>"
             },
             "mac_requirements": [],
             "linux_requirements": [],
@@ -27,10 +27,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 599,
-                "final": 599,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "5,99€"
+                "final": 59,
+                "discount_percent": 90,
+                "initial_formatted": "5,99€",
+                "final_formatted": "0,59€"
             },
             "packages": [
                 45776,
@@ -48,23 +48,23 @@
                     "subs": [
                         {
                             "packageid": 45776,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-90%",
                             "percent_savings": 0,
-                            "option_text": "Platypus - 5,99€",
+                            "option_text": "Platypus - <span class=\"discount_original_price\">5,99€</span> 0,59€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 599
+                            "price_in_cents_with_discount": 59
                         },
                         {
                             "packageid": 49483,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-90%",
                             "percent_savings": 0,
-                            "option_text": "Platypus Mega Pack - 16,99€",
+                            "option_text": "Platypus Mega Pack - <span class=\"discount_original_price\">16,99€</span> 1,69€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1699
+                            "price_in_cents_with_discount": 169
                         }
                     ]
                 }
@@ -209,7 +209,7 @@
                 }
             ],
             "recommendations": {
-                "total": 159
+                "total": 160
             },
             "achievements": {
                 "total": 0
