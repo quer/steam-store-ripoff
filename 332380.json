@@ -33,15 +33,15 @@
             ],
             "price_overview": {
                 "currency": "EUR",
-                "initial": 1499,
-                "final": 1499,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "14,99€"
+                "initial": 1899,
+                "final": 189,
+                "discount_percent": 90,
+                "initial_formatted": "18,99€",
+                "final_formatted": "1,89€"
             },
             "packages": [
-                54306,
-                68765
+                68765,
+                54306
             ],
             "package_groups": [
                 {
@@ -54,24 +54,24 @@
                     "is_recurring_subscription": "false",
                     "subs": [
                         {
-                            "packageid": 54306,
-                            "percent_savings_text": "",
+                            "packageid": 68765,
+                            "percent_savings_text": "-90%",
                             "percent_savings": 0,
-                            "option_text": "Asguaard - 14,99€",
+                            "option_text": "Asguaard - Deluxe Edition (contains Game+Guide+Goodies) - <span class=\"discount_original_price\">18,99€</span> 1,89€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1499
+                            "price_in_cents_with_discount": 189
                         },
                         {
-                            "packageid": 68765,
-                            "percent_savings_text": "",
+                            "packageid": 54306,
+                            "percent_savings_text": "-85%",
                             "percent_savings": 0,
-                            "option_text": "Asguaard - Deluxe Edition (contains Game+Guide+Goodies) - 18,99€",
+                            "option_text": "Asguaard - <span class=\"discount_original_price\">14,99€</span> 2,24€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1899
+                            "price_in_cents_with_discount": 224
                         }
                     ]
                 }
