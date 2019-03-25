@@ -37,14 +37,14 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 1499,
-                "final": 1499,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "14,99€"
+                "final": 494,
+                "discount_percent": 67,
+                "initial_formatted": "14,99€",
+                "final_formatted": "4,94€"
             },
             "packages": [
-                291576,
-                51002
+                51002,
+                291576
             ],
             "package_groups": [
                 {
@@ -57,6 +57,16 @@
                     "is_recurring_subscription": "false",
                     "subs": [
                         {
+                            "packageid": 51002,
+                            "percent_savings_text": "-67%",
+                            "percent_savings": 0,
+                            "option_text": "Jotun: Valhalla Edition - <span class=\"discount_original_price\">14,99€</span> 4,94€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 494
+                        },
+                        {
                             "packageid": 291576,
                             "percent_savings_text": "",
                             "percent_savings": 0,
@@ -65,16 +75,6 @@
                             "can_get_free_license": "0",
                             "is_free_license": false,
                             "price_in_cents_with_discount": 1249
-                        },
-                        {
-                            "packageid": 51002,
-                            "percent_savings_text": "",
-                            "percent_savings": 0,
-                            "option_text": "Jotun: Valhalla Edition - 14,99€",
-                            "option_description": "",
-                            "can_get_free_license": "0",
-                            "is_free_license": false,
-                            "price_in_cents_with_discount": 1499
                         }
                     ]
                 }
@@ -214,7 +214,7 @@
                 }
             ],
             "recommendations": {
-                "total": 1423
+                "total": 1424
             },
             "achievements": {
                 "total": 36,
