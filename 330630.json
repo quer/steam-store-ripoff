@@ -32,10 +32,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 999,
-                "final": 199,
-                "discount_percent": 80,
-                "initial_formatted": "9,99€",
-                "final_formatted": "1,99€"
+                "final": 999,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "9,99€"
             },
             "packages": [
                 53579
@@ -52,13 +52,13 @@
                     "subs": [
                         {
                             "packageid": 53579,
-                            "percent_savings_text": "-80%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "RPG Maker VX Ace - Underworld Soundscapes - <span class=\"discount_original_price\">9,99€</span> 1,99€",
+                            "option_text": "RPG Maker VX Ace - Underworld Soundscapes - 9,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 199
+                            "price_in_cents_with_discount": 999
                         }
                     ]
                 }
