@@ -31,10 +31,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 799,
-                "final": 799,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "7,99€"
+                "final": 399,
+                "discount_percent": 50,
+                "initial_formatted": "7,99€",
+                "final_formatted": "3,99€"
             },
             "packages": [
                 55898,
@@ -53,33 +53,33 @@
                     "subs": [
                         {
                             "packageid": 55898,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-50%",
                             "percent_savings": 0,
-                            "option_text": "ALLTYNEX Second Original Soundtrack - 7,99€",
+                            "option_text": "ALLTYNEX Second Original Soundtrack - <span class=\"discount_original_price\">7,99€</span> 3,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 799
+                            "price_in_cents_with_discount": 399
                         },
                         {
                             "packageid": 56119,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-35%",
                             "percent_savings": 0,
-                            "option_text": "ALLTYNEX Second Deluxe Edition - 11,99€",
+                            "option_text": "ALLTYNEX Second Deluxe Edition - <span class=\"discount_original_price\">11,99€</span> 7,79€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1199
+                            "price_in_cents_with_discount": 779
                         },
                         {
                             "packageid": 56116,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-35%",
                             "percent_savings": 0,
-                            "option_text": "The Tale of ALLTYNEX Deluxe Edition - 27,99€",
+                            "option_text": "The Tale of ALLTYNEX Deluxe Edition - <span class=\"discount_original_price\">27,99€</span> 18,19€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 2799
+                            "price_in_cents_with_discount": 1819
                         }
                     ]
                 }
