@@ -26,11 +26,11 @@
             ],
             "price_overview": {
                 "currency": "EUR",
-                "initial": 599,
-                "final": 599,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "5,99€"
+                "initial": 1699,
+                "final": 169,
+                "discount_percent": 90,
+                "initial_formatted": "16,99€",
+                "final_formatted": "1,69€"
             },
             "packages": [
                 49486,
@@ -58,13 +58,13 @@
                         },
                         {
                             "packageid": 49483,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-90%",
                             "percent_savings": 0,
-                            "option_text": "Platypus Mega Pack - 16,99€",
+                            "option_text": "Platypus Mega Pack - <span class=\"discount_original_price\">16,99€</span> 1,69€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1699
+                            "price_in_cents_with_discount": 169
                         }
                     ]
                 }
