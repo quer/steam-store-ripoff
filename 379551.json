@@ -31,10 +31,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 5099,
-                "final": 2039,
-                "discount_percent": 60,
-                "initial_formatted": "50,99€",
-                "final_formatted": "20,39€"
+                "final": 5099,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "50,99€"
             },
             "packages": [
                 70814
@@ -51,13 +51,13 @@
                     "subs": [
                         {
                             "packageid": 70814,
-                            "percent_savings_text": "-60%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "FSX: Steam Edition - FS Global 2010 Add-On - <span class=\"discount_original_price\">50,99€</span> 20,39€",
+                            "option_text": "FSX: Steam Edition - FS Global 2010 Add-On - 50,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 2039
+                            "price_in_cents_with_discount": 5099
                         }
                     ]
                 }
