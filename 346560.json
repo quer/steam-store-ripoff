@@ -38,10 +38,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 799,
-                "final": 95,
-                "discount_percent": 88,
-                "initial_formatted": "7,99€",
-                "final_formatted": "0,95€"
+                "final": 799,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "7,99€"
             },
             "packages": [
                 59469,
@@ -59,13 +59,13 @@
                     "subs": [
                         {
                             "packageid": 59469,
-                            "percent_savings_text": "-88%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Hero of the Kingdom II - <span class=\"discount_original_price\">7,99€</span> 0,95€",
+                            "option_text": "Hero of the Kingdom II - 7,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 95
+                            "price_in_cents_with_discount": 799
                         },
                         {
                             "packageid": 303232,
@@ -181,7 +181,7 @@
                 }
             ],
             "recommendations": {
-                "total": 1043
+                "total": 1058
             },
             "achievements": {
                 "total": 48,
