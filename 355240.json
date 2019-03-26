@@ -31,10 +31,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 899,
-                "final": 899,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "8,99€"
+                "final": 269,
+                "discount_percent": 70,
+                "initial_formatted": "8,99€",
+                "final_formatted": "2,69€"
             },
             "packages": [
                 62538,
@@ -52,23 +52,23 @@
                     "subs": [
                         {
                             "packageid": 62538,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-70%",
                             "percent_savings": 0,
-                            "option_text": "NEO AQUARIUM - The King of Crustaceans - - 8,99€",
+                            "option_text": "NEO AQUARIUM - The King of Crustaceans - - <span class=\"discount_original_price\">8,99€</span> 2,69€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 899
+                            "price_in_cents_with_discount": 269
                         },
                         {
                             "packageid": 102221,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-70%",
                             "percent_savings": 0,
-                            "option_text": "NEO AQUARIUM - The King of Crustaceans - Soundtrack Edition - 11,99€",
+                            "option_text": "NEO AQUARIUM - The King of Crustaceans - Soundtrack Edition - <span class=\"discount_original_price\">11,99€</span> 3,59€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1199
+                            "price_in_cents_with_discount": 359
                         }
                     ]
                 }
@@ -169,7 +169,7 @@
                 }
             ],
             "recommendations": {
-                "total": 142
+                "total": 141
             },
             "achievements": {
                 "total": 21,
