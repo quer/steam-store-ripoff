@@ -35,10 +35,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 819,
-                "final": 614,
-                "discount_percent": 25,
-                "initial_formatted": "8,19€",
-                "final_formatted": "6,14€"
+                "final": 819,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "8,19€"
             },
             "packages": [
                 74812
@@ -55,13 +55,13 @@
                     "subs": [
                         {
                             "packageid": 74812,
-                            "percent_savings_text": "-25%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "StartBolita - <span class=\"discount_original_price\">8,19€</span> 6,14€",
+                            "option_text": "StartBolita - 8,19€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 614
+                            "price_in_cents_with_discount": 819
                         }
                     ]
                 }
