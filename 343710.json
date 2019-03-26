@@ -37,10 +37,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 1799,
-                "final": 1799,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "17,99€"
+                "final": 449,
+                "discount_percent": 75,
+                "initial_formatted": "17,99€",
+                "final_formatted": "4,49€"
             },
             "packages": [
                 58383
@@ -57,13 +57,13 @@
                     "subs": [
                         {
                             "packageid": 58383,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-75%",
                             "percent_savings": 0,
-                            "option_text": "Kholat - 17,99€",
+                            "option_text": "Kholat - <span class=\"discount_original_price\">17,99€</span> 4,49€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1799
+                            "price_in_cents_with_discount": 449
                         }
                     ]
                 }
@@ -209,7 +209,7 @@
                 }
             ],
             "recommendations": {
-                "total": 1287
+                "total": 1288
             },
             "achievements": {
                 "total": 20,
