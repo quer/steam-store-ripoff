@@ -14,11 +14,11 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/353550/header.jpg?t=1492974493",
             "website": null,
             "pc_requirements": {
-                "minimum": "<strong>最低配備:</strong><br><ul class=\"bb_ul\"><li><strong>作業系統:</strong> Windows XP SP2 or higher<br></li><li><strong>處理器:</strong> Quadcore 2.40GHz<br></li><li><strong>記憶體:</strong> 3 GB 記憶體<br></li><li><strong>顯示卡:</strong> Video card with 512MB of VRAM<br></li><li><strong>DirectX:</strong> 版本：9.0c<br></li><li><strong>儲存空間:</strong> 1 GB 可用空間</li></ul>",
-                "recommended": "<strong>建議配備:</strong><br><ul class=\"bb_ul\"><li><strong>作業系統:</strong> Windows 7 or higher<br></li><li><strong>處理器:</strong> Quadcore 3.2GHz<br></li><li><strong>記憶體:</strong> 4 GB 記憶體<br></li><li><strong>顯示卡:</strong> Video card Nvidia or ATI with 1024MB of VRAM<br></li><li><strong>DirectX:</strong> 版本：9.0c<br></li><li><strong>儲存空間:</strong> 1 GB 可用空間</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP SP2 or higher<br></li><li><strong>Processor:</strong> Quadcore 2.40GHz<br></li><li><strong>Memory:</strong> 3 GB RAM<br></li><li><strong>Graphics:</strong> Video card with 512MB of VRAM<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 or higher<br></li><li><strong>Processor:</strong> Quadcore 3.2GHz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Video card Nvidia or ATI with 1024MB of VRAM<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
             },
             "mac_requirements": {
-                "minimum": "<strong>最低配備:</strong><br><ul class=\"bb_ul\"><li><strong>作業系統:</strong> MAC OSX v10.6 Snow Leopard or higher<br></li><li><strong>處理器:</strong> Quadcore 2.40GHz<br></li><li><strong>記憶體:</strong> 3 GB 記憶體<br></li><li><strong>顯示卡:</strong> Video card with 512MB of VRAM<br></li><li><strong>儲存空間:</strong> 1 GB 可用空間</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> MAC OSX v10.6 Snow Leopard or higher<br></li><li><strong>Processor:</strong> Quadcore 2.40GHz<br></li><li><strong>Memory:</strong> 3 GB RAM<br></li><li><strong>Graphics:</strong> Video card with 512MB of VRAM<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
             },
             "linux_requirements": [],
             "developers": [
@@ -30,10 +30,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 199,
-                "final": 199,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "1,99€"
+                "final": 39,
+                "discount_percent": 80,
+                "initial_formatted": "1,99€",
+                "final_formatted": "0,39€"
             },
             "packages": [
                 61938,
@@ -51,13 +51,13 @@
                     "subs": [
                         {
                             "packageid": 61938,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-80%",
                             "percent_savings": 0,
-                            "option_text": "House of Caravan - 1,99€",
+                            "option_text": "House of Caravan - <span class=\"discount_original_price\">1,99€</span> 0,39€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 199
+                            "price_in_cents_with_discount": 39
                         },
                         {
                             "packageid": 250475,
@@ -189,7 +189,7 @@
                 }
             ],
             "recommendations": {
-                "total": 514
+                "total": 518
             },
             "achievements": {
                 "total": 5,
