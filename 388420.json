@@ -41,10 +41,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 1199,
-                "final": 1199,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "11,99€"
+                "final": 599,
+                "discount_percent": 50,
+                "initial_formatted": "11,99€",
+                "final_formatted": "5,99€"
             },
             "packages": [
                 73562,
@@ -62,23 +62,23 @@
                     "subs": [
                         {
                             "packageid": 73562,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-50%",
                             "percent_savings": 0,
-                            "option_text": "In Between - 11,99€",
+                            "option_text": "In Between - <span class=\"discount_original_price\">11,99€</span> 5,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1199
+                            "price_in_cents_with_discount": 599
                         },
                         {
                             "packageid": 75857,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-50%",
                             "percent_savings": 0,
-                            "option_text": "In Between - Deluxe - 14,99€",
+                            "option_text": "In Between - Deluxe - <span class=\"discount_original_price\">14,99€</span> 7,49€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1499
+                            "price_in_cents_with_discount": 749
                         }
                     ]
                 }
