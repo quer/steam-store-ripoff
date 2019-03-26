@@ -25,16 +25,16 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/356190/header.jpg?t=1538497118",
             "website": null,
             "pc_requirements": {
-                "minimum": "<strong>最低配置:</strong><br><ul class=\"bb_ul\"><li>需要 64 位处理器和操作系统<br></li><li><strong>操作系统:</strong> Windows 7 SP1 with Platform Update<br></li><li><strong>处理器:</strong> AMD FX-4350, 4.2 GHz / Intel Core i5-2300, 2.80 GHz<br></li><li><strong>内存:</strong> 6 GB RAM<br></li><li><strong>图形:</strong> AMD HD 7870, 2 GB / NVIDIA GTX 660, 2 GB<br></li><li><strong>DirectX 版本:</strong> 11<br></li><li><strong>网络:</strong> 宽带互联网连接<br></li><li><strong>存储空间:</strong> 需要 70 GB 可用空间<br></li><li><strong>附注事项:</strong> X64 required</li></ul>",
-                "recommended": "<strong>推荐配置:</strong><br><ul class=\"bb_ul\"><li>需要 64 位处理器和操作系统<br></li><li><strong>操作系统:</strong> Windows 10 Creators Update<br></li><li><strong>处理器:</strong> AMD FX-8350, 4.0 GHz / Intel Core i7-3770, 3.4 GHz<br></li><li><strong>内存:</strong> 12 GB RAM<br></li><li><strong>图形:</strong> AMD RX 480, 4 GB or RX580, 4GB / NVIDIA GTX 970, 4GB or GTX1060, 6GB<br></li><li><strong>DirectX 版本:</strong> 11<br></li><li><strong>网络:</strong> 宽带互联网连接<br></li><li><strong>存储空间:</strong> 需要 70 GB 可用空间<br></li><li><strong>附注事项:</strong> X64 required</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 7 SP1 with Platform Update<br></li><li><strong>Processor:</strong> AMD FX-4350, 4.2 GHz / Intel Core i5-2300, 2.80 GHz<br></li><li><strong>Memory:</strong> 6 GB RAM<br></li><li><strong>Graphics:</strong> AMD HD 7870, 2 GB / NVIDIA GTX 660, 2 GB<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 70 GB available space<br></li><li><strong>Additional Notes:</strong> X64 required</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10 Creators Update<br></li><li><strong>Processor:</strong> AMD FX-8350, 4.0 GHz / Intel Core i7-3770, 3.4 GHz<br></li><li><strong>Memory:</strong> 12 GB RAM<br></li><li><strong>Graphics:</strong> AMD RX 480, 4 GB or RX580, 4GB / NVIDIA GTX 970, 4GB or GTX1060, 6GB<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 70 GB available space<br></li><li><strong>Additional Notes:</strong> X64 required</li></ul>"
             },
             "mac_requirements": {
-                "minimum": "<strong>最低配置:</strong><br><ul class=\"bb_ul\"><li>需要 64 位处理器和操作系统</li></ul>",
-                "recommended": "<strong>推荐配置:</strong><br><ul class=\"bb_ul\"><li>需要 64 位处理器和操作系统</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
             },
             "linux_requirements": {
-                "minimum": "<strong>最低配置:</strong><br><ul class=\"bb_ul\"><li>需要 64 位处理器和操作系统</li></ul>",
-                "recommended": "<strong>推荐配置:</strong><br><ul class=\"bb_ul\"><li>需要 64 位处理器和操作系统</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
             },
             "legal_notice": "MIDDLE-EARTH: SHADOW OF WAR software © 2018 Warner Bros. Entertainment Inc Developed by Monolith Studios. © 2018 New Line Productions, Inc. All The Lord of the Rings content other than content from the New Line films © 2018 The Saul Zaentz Company d/b/a Middle-earth Enterprises (\"SZC\"). Middle-earth: Shadow of War, The Lord of the Rings and the names of the characters, items, events and places therein are trademarks of SZC under license to WB Games Inc. MONOLITH LOGO, WB GAMES LOGO, WB SHIELD: ™ & © Warner Bros. Entertainment Inc.<br />\r\n(s18)",
             "drm_notice": "Denuvo Antitamper",
@@ -53,10 +53,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 3999,
-                "final": 1319,
-                "discount_percent": 67,
-                "initial_formatted": "39,99€",
-                "final_formatted": "13,19€"
+                "final": 3999,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "39,99€"
             },
             "packages": [
                 156440,
@@ -75,13 +75,13 @@
                     "subs": [
                         {
                             "packageid": 156440,
-                            "percent_savings_text": "-67%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Middle-earth: Shadow of War - <span class=\"discount_original_price\">39,99€</span> 13,19€",
+                            "option_text": "Middle-earth: Shadow of War - 39,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1319
+                            "price_in_cents_with_discount": 3999
                         },
                         {
                             "packageid": 313545,
@@ -95,13 +95,13 @@
                         },
                         {
                             "packageid": 281112,
-                            "percent_savings_text": "-60%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Middle-earth: Shadow of War Definitive Edition - <span class=\"discount_original_price\">49,99€</span> 19,99€",
+                            "option_text": "Middle-earth: Shadow of War Definitive Edition - 49,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1999
+                            "price_in_cents_with_discount": 4999
                         }
                     ]
                 }
@@ -216,7 +216,7 @@
                 }
             ],
             "recommendations": {
-                "total": 16275
+                "total": 16458
             },
             "achievements": {
                 "total": 72,
