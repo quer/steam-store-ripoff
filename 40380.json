@@ -28,10 +28,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 499,
-                "final": 499,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "4,99€"
+                "final": 249,
+                "discount_percent": 50,
+                "initial_formatted": "4,99€",
+                "final_formatted": "2,49€"
             },
             "packages": [
                 6812
@@ -48,13 +48,13 @@
                     "subs": [
                         {
                             "packageid": 6812,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-50%",
                             "percent_savings": 0,
-                            "option_text": "Nail'd - 4,99€",
+                            "option_text": "Nail'd - <span class=\"discount_original_price\">4,99€</span> 2,49€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 499
+                            "price_in_cents_with_discount": 249
                         }
                     ]
                 }
@@ -137,7 +137,7 @@
                 }
             ],
             "recommendations": {
-                "total": 853
+                "total": 854
             },
             "achievements": {
                 "total": 0
