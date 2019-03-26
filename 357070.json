@@ -18,13 +18,13 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/357070/header.jpg?t=1478460277",
             "website": "http://www.ubermosh.com",
             "pc_requirements": {
-                "minimum": "<strong>Mínimos:</strong><br><ul class=\"bb_ul\"><li><strong>Sistema Operativo:</strong> Windows XP<br></li><li><strong>Processador:</strong> 1.6Ghz+<br></li><li><strong>Memória:</strong> 2048 MB de RAM<br></li><li><strong>Placa gráfica:</strong> 512MB<br></li><li><strong>Espaço no disco:</strong> Requer 390 MB de espaço livre</li></ul>",
-                "recommended": "<strong>Recomendados:</strong><br><ul class=\"bb_ul\"><li><strong>Processador:</strong> 2.2Ghz<br></li><li><strong>Placa gráfica:</strong> 1024MB</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP<br></li><li><strong>Processor:</strong> 1.6Ghz+<br></li><li><strong>Memory:</strong> 2048 MB RAM<br></li><li><strong>Graphics:</strong> 512MB<br></li><li><strong>Storage:</strong> 390 MB available space</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>Processor:</strong> 2.2Ghz<br></li><li><strong>Graphics:</strong> 1024MB</li></ul>"
             },
             "mac_requirements": [],
             "linux_requirements": {
-                "minimum": "<strong>Mínimos:</strong><br><ul class=\"bb_ul\"><li><strong>Sistema Operativo:</strong> Ubuntu 14.04 LTS or compatible<br></li><li><strong>Processador:</strong> 1.6Ghz+<br></li><li><strong>Memória:</strong> 2048 MB de RAM<br></li><li><strong>Placa gráfica:</strong> 512MB<br></li><li><strong>Espaço no disco:</strong> Requer 390 MB de espaço livre</li></ul>",
-                "recommended": "<strong>Recomendados:</strong><br><ul class=\"bb_ul\"><li><strong>Processador:</strong> 2.2Ghz<br></li><li><strong>Placa gráfica:</strong> 1024MB</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 14.04 LTS or compatible<br></li><li><strong>Processor:</strong> 1.6Ghz+<br></li><li><strong>Memory:</strong> 2048 MB RAM<br></li><li><strong>Graphics:</strong> 512MB<br></li><li><strong>Storage:</strong> 390 MB available space</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>Processor:</strong> 2.2Ghz<br></li><li><strong>Graphics:</strong> 1024MB</li></ul>"
             },
             "developers": [
                 "Walter Machado"
@@ -34,11 +34,11 @@
             ],
             "price_overview": {
                 "currency": "EUR",
-                "initial": 99,
-                "final": 99,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "0,99€"
+                "initial": 390,
+                "final": 39,
+                "discount_percent": 90,
+                "initial_formatted": "3,90€",
+                "final_formatted": "0,39€"
             },
             "packages": [
                 63210,
@@ -78,13 +78,13 @@
                         },
                         {
                             "packageid": 66335,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-90%",
                             "percent_savings": 0,
-                            "option_text": "UBERMOSH + Original Soundtrack - 3,90€",
+                            "option_text": "UBERMOSH + Original Soundtrack - <span class=\"discount_original_price\">3,90€</span> 0,39€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 390
+                            "price_in_cents_with_discount": 39
                         },
                         {
                             "packageid": 95016,
@@ -172,7 +172,7 @@
                 }
             ],
             "recommendations": {
-                "total": 1810
+                "total": 1812
             },
             "achievements": {
                 "total": 7,
