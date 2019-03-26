@@ -40,10 +40,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 999,
-                "final": 999,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "9,99€"
+                "final": 149,
+                "discount_percent": 85,
+                "initial_formatted": "9,99€",
+                "final_formatted": "1,49€"
             },
             "packages": [
                 7035
@@ -60,13 +60,13 @@
                     "subs": [
                         {
                             "packageid": 7035,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-85%",
                             "percent_savings": 0,
-                            "option_text": "Lara Croft and the Guardian of Light - 9,99€",
+                            "option_text": "Lara Croft and the Guardian of Light - <span class=\"discount_original_price\">9,99€</span> 1,49€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 999
+                            "price_in_cents_with_discount": 149
                         }
                     ]
                 }
@@ -239,7 +239,7 @@
                 }
             ],
             "recommendations": {
-                "total": 1953
+                "total": 1960
             },
             "achievements": {
                 "total": 12,
