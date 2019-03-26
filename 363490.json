@@ -14,7 +14,7 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/363490/header.jpg?t=1447372683",
             "website": "http://escapemachines.weebly.com/",
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP/Windows Vista/Windows 7/8<br></li><li><strong>Processor:</strong> 2.5 GHz<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> DirectX 9.0 Compatible<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 550 MB available space<br></li><li><strong>Sound Card:</strong> DirectX 9.0 Compatible Sound</li></ul>"
+                "minimum": "<strong>最低配置:</strong><br><ul class=\"bb_ul\"><li><strong>操作系统:</strong> Windows XP/Windows Vista/Windows 7/8<br></li><li><strong>处理器:</strong> 2.5 GHz<br></li><li><strong>内存:</strong> 1 GB RAM<br></li><li><strong>图形:</strong> DirectX 9.0 Compatible<br></li><li><strong>DirectX 版本:</strong> 9.0<br></li><li><strong>存储空间:</strong> 需要 550 MB 可用空间<br></li><li><strong>声卡:</strong> DirectX 9.0 Compatible Sound</li></ul>"
             },
             "mac_requirements": [],
             "linux_requirements": [],
@@ -27,10 +27,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 99,
-                "final": 49,
-                "discount_percent": 51,
-                "initial_formatted": "0,99€",
-                "final_formatted": "0,49€"
+                "final": 99,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "0,99€"
             },
             "packages": [
                 65333
@@ -47,13 +47,13 @@
                     "subs": [
                         {
                             "packageid": 65333,
-                            "percent_savings_text": "-51%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Escape Machines - <span class=\"discount_original_price\">0,99€</span> 0,49€",
+                            "option_text": "Escape Machines - 0,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 49
+                            "price_in_cents_with_discount": 99
                         }
                     ]
                 }
@@ -144,7 +144,7 @@
                 }
             ],
             "recommendations": {
-                "total": 399
+                "total": 400
             },
             "achievements": {
                 "total": 0
