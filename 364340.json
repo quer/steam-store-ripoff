@@ -32,10 +32,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 2299,
-                "final": 1609,
-                "discount_percent": 30,
-                "initial_formatted": "22,99€",
-                "final_formatted": "16,09€"
+                "final": 2299,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "22,99€"
             },
             "packages": [
                 65601
@@ -52,13 +52,13 @@
                     "subs": [
                         {
                             "packageid": 65601,
-                            "percent_savings_text": "-30%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "FSX: Steam Edition - Active Sky Next Add-On - <span class=\"discount_original_price\">22,99€</span> 16,09€",
+                            "option_text": "FSX: Steam Edition - Active Sky Next Add-On - 22,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1609
+                            "price_in_cents_with_discount": 2299
                         }
                     ]
                 }
@@ -135,7 +135,7 @@
                 }
             ],
             "recommendations": {
-                "total": 164
+                "total": 169
             },
             "achievements": {
                 "total": 0
