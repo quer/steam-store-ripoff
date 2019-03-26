@@ -29,10 +29,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 1499,
-                "final": 374,
-                "discount_percent": 75,
-                "initial_formatted": "14,99€",
-                "final_formatted": "3,74€"
+                "final": 1499,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "14,99€"
             },
             "packages": [
                 76053,
@@ -50,23 +50,23 @@
                     "subs": [
                         {
                             "packageid": 76053,
-                            "percent_savings_text": "-75%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Lost Horizon 2 - <span class=\"discount_original_price\">14,99€</span> 3,74€",
+                            "option_text": "Lost Horizon 2 - 14,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 374
+                            "price_in_cents_with_discount": 1499
                         },
                         {
                             "packageid": 79249,
-                            "percent_savings_text": "-75%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Lost Horizon Double Pack - <span class=\"discount_original_price\">19,99€</span> 4,99€",
+                            "option_text": "Lost Horizon Double Pack - 19,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 499
+                            "price_in_cents_with_discount": 1999
                         }
                     ]
                 }
