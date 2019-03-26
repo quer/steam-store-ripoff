@@ -39,10 +39,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 2499,
-                "final": 2499,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "24,99€"
+                "final": 1249,
+                "discount_percent": 50,
+                "initial_formatted": "24,99€",
+                "final_formatted": "12,49€"
             },
             "packages": [
                 81899,
@@ -60,23 +60,23 @@
                     "subs": [
                         {
                             "packageid": 81899,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-50%",
                             "percent_savings": 0,
-                            "option_text": "The Official App Game Kit Beginners Guide - 24,99€",
+                            "option_text": "The Official App Game Kit Beginners Guide - <span class=\"discount_original_price\">24,99€</span> 12,49€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 2499
+                            "price_in_cents_with_discount": 1249
                         },
                         {
                             "packageid": 82281,
-                            "percent_savings_text": "-50%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "AppGameKit - Beginners Bundle - <span class=\"discount_original_price\">92,99€</span> 46,49€",
+                            "option_text": "AppGameKit - Beginners Bundle - 92,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 4649
+                            "price_in_cents_with_discount": 9299
                         }
                     ]
                 }
