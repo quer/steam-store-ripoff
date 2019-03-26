@@ -14,7 +14,7 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/383330/header.jpg?t=1447376854",
             "website": "http://www.alistersoftware.co.za/deltaquadrant.php",
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP SP2/Vista/7/8/8.1<br></li><li><strong>Processor:</strong> 1.5 GHz or better<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> 128mb Video Memory, capable of Shader Model 2<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 200 MB available space<br></li><li><strong>Sound Card:</strong> DirectX 9.0c compatible</li></ul>"
+                "minimum": "<strong>Минимальные:</strong><br><ul class=\"bb_ul\"><li><strong>ОС:</strong> Windows XP SP2/Vista/7/8/8.1<br></li><li><strong>Процессор:</strong> 1.5 GHz or better<br></li><li><strong>Оперативная память:</strong> 1 GB ОЗУ<br></li><li><strong>Видеокарта:</strong> 128mb Video Memory, capable of Shader Model 2<br></li><li><strong>DirectX:</strong> Версии 9.0c<br></li><li><strong>Место на диске:</strong> 200 MB<br></li><li><strong>Звуковая карта:</strong> DirectX 9.0c compatible</li></ul>"
             },
             "mac_requirements": [],
             "linux_requirements": [],
@@ -28,10 +28,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 99,
-                "final": 49,
-                "discount_percent": 51,
-                "initial_formatted": "0,99€",
-                "final_formatted": "0,49€"
+                "final": 99,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "0,99€"
             },
             "packages": [
                 72007
@@ -48,13 +48,13 @@
                     "subs": [
                         {
                             "packageid": 72007,
-                            "percent_savings_text": "-51%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Star Chronicles: Delta Quadrant - <span class=\"discount_original_price\">0,99€</span> 0,49€",
+                            "option_text": "Star Chronicles: Delta Quadrant - 0,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 49
+                            "price_in_cents_with_discount": 99
                         }
                     ]
                 }
@@ -128,7 +128,7 @@
                 }
             ],
             "recommendations": {
-                "total": 112
+                "total": 113
             },
             "achievements": {
                 "total": 14,
