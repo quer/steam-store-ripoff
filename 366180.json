@@ -19,8 +19,8 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/366180/header.jpg?t=1522482396",
             "website": null,
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows (xp/vista/7)<br></li><li><strong>Processor:</strong> 2ghz core 2 duo<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> Direct X9.0c Compatible Card<br></li><li><strong>Storage:</strong> 420 MB available space<br></li><li><strong>Sound Card:</strong> Standard audio</li></ul>",
-                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows (xp/vista/7)<br></li><li><strong>Processor:</strong> 2ghz core 2 duo<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> Direct X9.0c Compatible Card<br></li><li><strong>Storage:</strong> 420 MB available space<br></li><li><strong>Sound Card:</strong> Standard audio</li></ul>"
+                "minimum": "<strong>最低:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows (xp/vista/7)<br></li><li><strong>プロセッサー:</strong> 2ghz core 2 duo<br></li><li><strong>メモリー:</strong> 512 MB RAM<br></li><li><strong>グラフィック:</strong> Direct X9.0c Compatible Card<br></li><li><strong>ストレージ:</strong> 420 MB 利用可能<br></li><li><strong>サウンドカード:</strong> Standard audio</li></ul>",
+                "recommended": "<strong>推奨:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows (xp/vista/7)<br></li><li><strong>プロセッサー:</strong> 2ghz core 2 duo<br></li><li><strong>メモリー:</strong> 512 MB RAM<br></li><li><strong>グラフィック:</strong> Direct X9.0c Compatible Card<br></li><li><strong>ストレージ:</strong> 420 MB 利用可能<br></li><li><strong>サウンドカード:</strong> Standard audio</li></ul>"
             },
             "mac_requirements": [],
             "linux_requirements": [],
@@ -33,10 +33,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 499,
-                "final": 99,
-                "discount_percent": 80,
-                "initial_formatted": "4,99€",
-                "final_formatted": "0,99€"
+                "final": 499,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "4,99€"
             },
             "packages": [
                 66171,
@@ -54,13 +54,13 @@
                     "subs": [
                         {
                             "packageid": 66171,
-                            "percent_savings_text": "-80%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Disposable Heroes - <span class=\"discount_original_price\">4,99€</span> 0,99€",
+                            "option_text": "Disposable Heroes - 4,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 99
+                            "price_in_cents_with_discount": 499
                         },
                         {
                             "packageid": 291571,
