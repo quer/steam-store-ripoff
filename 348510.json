@@ -29,10 +29,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 995,
-                "final": 995,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "9,95€"
+                "final": 666,
+                "discount_percent": 33,
+                "initial_formatted": "9,95€",
+                "final_formatted": "6,66€"
             },
             "packages": [
                 60142
@@ -49,13 +49,13 @@
                     "subs": [
                         {
                             "packageid": 60142,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-33%",
                             "percent_savings": 0,
-                            "option_text": "Autobahn Police Simulator - 9,95€",
+                            "option_text": "Autobahn Police Simulator - <span class=\"discount_original_price\">9,95€</span> 6,66€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 995
+                            "price_in_cents_with_discount": 666
                         }
                     ]
                 }
