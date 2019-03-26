@@ -34,10 +34,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 1249,
-                "final": 624,
-                "discount_percent": 50,
-                "initial_formatted": "12,49€",
-                "final_formatted": "6,24€"
+                "final": 1249,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "12,49€"
             },
             "packages": [
                 66044,
@@ -55,23 +55,23 @@
                     "subs": [
                         {
                             "packageid": 66044,
-                            "percent_savings_text": "-50%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Flying Tigers: Shadows Over China - <span class=\"discount_original_price\">12,49€</span> 6,24€",
+                            "option_text": "Flying Tigers: Shadows Over China - 12,49€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 624
+                            "price_in_cents_with_discount": 1249
                         },
                         {
                             "packageid": 76100,
-                            "percent_savings_text": "-50%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Flying Tigers: Shadows Over China - Deluxe Edition - <span class=\"discount_original_price\">14,99€</span> 7,49€",
+                            "option_text": "Flying Tigers: Shadows Over China - Deluxe Edition - 14,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 749
+                            "price_in_cents_with_discount": 1499
                         }
                     ]
                 }
@@ -346,7 +346,7 @@
                 }
             ],
             "recommendations": {
-                "total": 534
+                "total": 537
             },
             "achievements": {
                 "total": 28,
