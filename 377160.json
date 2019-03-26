@@ -48,10 +48,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 2999,
-                "final": 1499,
-                "discount_percent": 50,
-                "initial_formatted": "29,99€",
-                "final_formatted": "14,99€"
+                "final": 2999,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "29,99€"
             },
             "packages": [
                 103387,
@@ -73,23 +73,23 @@
                     "subs": [
                         {
                             "packageid": 103387,
-                            "percent_savings_text": "-50%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Fallout 4 - <span class=\"discount_original_price\">29,99€</span> 14,99€",
-                            "option_description": "",
-                            "can_get_free_license": "0",
-                            "is_free_license": false,
-                            "price_in_cents_with_discount": 1499
-                        },
-                        {
-                            "packageid": 199943,
-                            "percent_savings_text": "-50%",
-                            "percent_savings": 0,
-                            "option_text": "Fallout 4: Game of the Year Edition - <span class=\"discount_original_price\">59,99€</span> 29,99€",
+                            "option_text": "Fallout 4 - 29,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
                             "price_in_cents_with_discount": 2999
+                        },
+                        {
+                            "packageid": 199943,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Fallout 4: Game of the Year Edition - 59,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 5999
                         }
                     ]
                 },
@@ -388,7 +388,7 @@
                 }
             ],
             "recommendations": {
-                "total": 89233
+                "total": 89421
             },
             "achievements": {
                 "total": 84,
