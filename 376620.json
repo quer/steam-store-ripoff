@@ -15,11 +15,17 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/376620/header.jpg?t=1552259491",
             "website": null,
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows® 7, 64-bit<br></li><li><strong>Processor:</strong> Intel Core 2 Duo E4700 2.6 GHz or AMD Phenom 9950 Quad Core 2.6 GHz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> 1GB ATI Radeon HD 5770, 1GB NVIDIA GeForce GTX 460 or better<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 15 GB available space</li></ul>",
-                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows® 7, 64-bit<br></li><li><strong>Processor:</strong> 3GHz Quad Core<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> 2GB ATI Radeon HD 7970, 2GB NVIDIA GeForce GTX 770 or better<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 15 GB available space</li></ul>"
+                "minimum": "<strong>最低配置:</strong><br><ul class=\"bb_ul\"><li>需要 64 位处理器和操作系统<br></li><li><strong>操作系统:</strong> Windows® 7, 64-bit<br></li><li><strong>处理器:</strong> Intel Core 2 Duo E4700 2.6 GHz or AMD Phenom 9950 Quad Core 2.6 GHz<br></li><li><strong>内存:</strong> 4 GB RAM<br></li><li><strong>图形:</strong> 1GB ATI Radeon HD 5770, 1GB NVIDIA GeForce GTX 460 or better<br></li><li><strong>DirectX 版本:</strong> 11<br></li><li><strong>存储空间:</strong> 需要 15 GB 可用空间</li></ul>",
+                "recommended": "<strong>推荐配置:</strong><br><ul class=\"bb_ul\"><li>需要 64 位处理器和操作系统<br></li><li><strong>操作系统:</strong> Windows® 7, 64-bit<br></li><li><strong>处理器:</strong> 3GHz Quad Core<br></li><li><strong>内存:</strong> 8 GB RAM<br></li><li><strong>图形:</strong> 2GB ATI Radeon HD 7970, 2GB NVIDIA GeForce GTX 770 or better<br></li><li><strong>DirectX 版本:</strong> 11<br></li><li><strong>存储空间:</strong> 需要 15 GB 可用空间</li></ul>"
             },
-            "mac_requirements": [],
-            "linux_requirements": [],
+            "mac_requirements": {
+                "minimum": "<strong>最低配置:</strong><br><ul class=\"bb_ul\"><li>需要 64 位处理器和操作系统</li></ul>",
+                "recommended": "<strong>推荐配置:</strong><br><ul class=\"bb_ul\"><li>需要 64 位处理器和操作系统</li></ul>"
+            },
+            "linux_requirements": {
+                "minimum": "<strong>最低配置:</strong><br><ul class=\"bb_ul\"><li>需要 64 位处理器和操作系统</li></ul>",
+                "recommended": "<strong>推荐配置:</strong><br><ul class=\"bb_ul\"><li>需要 64 位处理器和操作系统</li></ul>"
+            },
             "legal_notice": "Arkin - © 2019 Raven Sword Industries Inc. Developed by Raven Sword Industries Inc. All rights reserved.",
             "developers": [
                 "Raven Sword Industries"
