@@ -57,10 +57,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 4999,
-                "final": 4999,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "49,99€"
+                "final": 999,
+                "discount_percent": 80,
+                "initial_formatted": "49,99€",
+                "final_formatted": "9,99€"
             },
             "packages": [
                 157827,
@@ -79,23 +79,23 @@
                     "subs": [
                         {
                             "packageid": 90033,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-80%",
                             "percent_savings": 0,
-                            "option_text": "Rise of the Tomb Raider: 20 Year Celebration - 49,99€",
+                            "option_text": "Rise of the Tomb Raider: 20 Year Celebration - <span class=\"discount_original_price\">49,99€</span> 9,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 4999
+                            "price_in_cents_with_discount": 999
                         },
                         {
                             "packageid": 90034,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-75%",
                             "percent_savings": 0,
-                            "option_text": "Rise of the Tomb Raider - Season Pass - 27,99€",
+                            "option_text": "Rise of the Tomb Raider - Season Pass - <span class=\"discount_original_price\">27,99€</span> 6,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 2799
+                            "price_in_cents_with_discount": 699
                         }
                     ]
                 }
@@ -220,7 +220,7 @@
                 }
             ],
             "recommendations": {
-                "total": 36760
+                "total": 36973
             },
             "achievements": {
                 "total": 143,
