@@ -19,8 +19,8 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/400490/header.jpg?t=1478822884",
             "website": "https://justcause.com/",
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Vista SP2 / Windows 7 SP1 / Windows 8.1 (64-bit OS required)<br></li><li><strong>Processor:</strong> Intel Core i5-2500k, 3.3GHz / AMD Phenom II X6 1075T 3GHz<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 670 (2GB) / AMD Radeon HD 7870 (2GB)<br></li><li><strong>Storage:</strong> 54 GB available space</li></ul>",
-                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Vista SP2 / Windows 7 SP1 / Windows 8.1 (64-bit OS required)<br></li><li><strong>Processor:</strong> Intel Core i7-3770, 3.4 GHz / AMD FX-8350, 4.0 GHz<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 780 (3GB) / AMD R9 290 (4GB)<br></li><li><strong>Storage:</strong> 54 GB available space</li></ul>"
+                "minimum": "<strong>Mínimos:</strong><br><ul class=\"bb_ul\"><li><strong>SO:</strong> Vista SP2 / Windows 7 SP1 / Windows 8.1 (64-bit OS required)<br></li><li><strong>Processador:</strong> Intel Core i5-2500k, 3.3GHz / AMD Phenom II X6 1075T 3GHz<br></li><li><strong>Memória:</strong> 8 GB de RAM<br></li><li><strong>Placa de vídeo:</strong> NVIDIA GeForce GTX 670 (2GB) / AMD Radeon HD 7870 (2GB)<br></li><li><strong>Armazenamento:</strong> 54 GB de espaço disponível</li></ul>",
+                "recommended": "<strong>Recomendados:</strong><br><ul class=\"bb_ul\"><li><strong>SO:</strong> Vista SP2 / Windows 7 SP1 / Windows 8.1 (64-bit OS required)<br></li><li><strong>Processador:</strong> Intel Core i7-3770, 3.4 GHz / AMD FX-8350, 4.0 GHz<br></li><li><strong>Memória:</strong> 8 GB de RAM<br></li><li><strong>Placa de vídeo:</strong> NVIDIA GeForce GTX 780 (3GB) / AMD R9 290 (4GB)<br></li><li><strong>Armazenamento:</strong> 54 GB de espaço disponível</li></ul>"
             },
             "mac_requirements": [],
             "linux_requirements": [],
@@ -34,10 +34,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 1199,
-                "final": 1199,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "11,99€"
+                "final": 359,
+                "discount_percent": 70,
+                "initial_formatted": "11,99€",
+                "final_formatted": "3,59€"
             },
             "packages": [
                 77699,
@@ -55,13 +55,13 @@
                     "subs": [
                         {
                             "packageid": 77699,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-70%",
                             "percent_savings": 0,
-                            "option_text": "Just Cause™ 3 DLC: Mech Land Assault Pack - 11,99€",
+                            "option_text": "Just Cause™ 3 DLC: Mech Land Assault Pack - <span class=\"discount_original_price\">11,99€</span> 3,59€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1199
+                            "price_in_cents_with_discount": 359
                         }
                     ]
                 }
