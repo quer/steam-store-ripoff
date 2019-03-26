@@ -29,10 +29,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 2299,
-                "final": 2299,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "22,99€"
+                "final": 1264,
+                "discount_percent": 45,
+                "initial_formatted": "22,99€",
+                "final_formatted": "12,64€"
             },
             "packages": [
                 59444,
@@ -50,23 +50,23 @@
                     "subs": [
                         {
                             "packageid": 59444,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-45%",
                             "percent_savings": 0,
-                            "option_text": "Tennis Elbow 2013 - 22,99€",
+                            "option_text": "Tennis Elbow 2013 - <span class=\"discount_original_price\">22,99€</span> 12,64€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 2299
+                            "price_in_cents_with_discount": 1264
                         },
                         {
                             "packageid": 59576,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-35%",
                             "percent_savings": 0,
-                            "option_text": "Tennis Elbow 2013 - Four Pack - 69,99€",
+                            "option_text": "Tennis Elbow 2013 - Four Pack - <span class=\"discount_original_price\">69,99€</span> 45,49€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 6999
+                            "price_in_cents_with_discount": 4549
                         }
                     ]
                 }
