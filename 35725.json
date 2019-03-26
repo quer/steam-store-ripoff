@@ -40,15 +40,15 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 1699,
-                "final": 1699,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "16,99€"
+                "final": 254,
+                "discount_percent": 85,
+                "initial_formatted": "16,99€",
+                "final_formatted": "2,54€"
             },
             "packages": [
                 28315,
-                230360,
                 28316,
+                230360,
                 28318,
                 28377
             ],
@@ -64,53 +64,53 @@
                     "subs": [
                         {
                             "packageid": 28315,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-85%",
                             "percent_savings": 0,
-                            "option_text": "Trine 2: Complete Story - 16,99€",
+                            "option_text": "Trine 2: Complete Story - <span class=\"discount_original_price\">16,99€</span> 2,54€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1699
-                        },
-                        {
-                            "packageid": 230360,
-                            "percent_savings_text": "",
-                            "percent_savings": 0,
-                            "option_text": "Trine 2 - Commercial License - 19,99€",
-                            "option_description": "",
-                            "can_get_free_license": "0",
-                            "is_free_license": false,
-                            "price_in_cents_with_discount": 1999
+                            "price_in_cents_with_discount": 254
                         },
                         {
                             "packageid": 28316,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-85%",
                             "percent_savings": 0,
-                            "option_text": "Trine 2: Complete Story 3-Pack - 33,99€",
+                            "option_text": "Trine 2: Complete Story 3-Pack - <span class=\"discount_original_price\">33,99€</span> 5,09€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 3399
+                            "price_in_cents_with_discount": 509
+                        },
+                        {
+                            "packageid": 230360,
+                            "percent_savings_text": "-50%",
+                            "percent_savings": 0,
+                            "option_text": "Trine 2 - Commercial License - <span class=\"discount_original_price\">19,99€</span> 9,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 999
                         },
                         {
                             "packageid": 28318,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-85%",
                             "percent_savings": 0,
-                            "option_text": "Trine 2: Soundtracks & Artbooks - 4,49€",
+                            "option_text": "Trine 2: Soundtracks & Artbooks - <span class=\"discount_original_price\">4,49€</span> 0,67€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 449
+                            "price_in_cents_with_discount": 67
                         },
                         {
                             "packageid": 28377,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-85%",
                             "percent_savings": 0,
-                            "option_text": "Trine 2: Complete Story Upgrade - 4,49€",
+                            "option_text": "Trine 2: Complete Story Upgrade - <span class=\"discount_original_price\">4,49€</span> 0,67€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 449
+                            "price_in_cents_with_discount": 67
                         }
                     ]
                 }
@@ -259,7 +259,7 @@
                 }
             ],
             "recommendations": {
-                "total": 11350
+                "total": 11363
             },
             "achievements": {
                 "total": 97,
