@@ -40,10 +40,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 3999,
-                "final": 3999,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "39,99€"
+                "final": 1199,
+                "discount_percent": 70,
+                "initial_formatted": "39,99€",
+                "final_formatted": "11,99€"
             },
             "packages": [
                 64503,
@@ -61,23 +61,23 @@
                     "subs": [
                         {
                             "packageid": 64503,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-70%",
                             "percent_savings": 0,
-                            "option_text": "Yooka-Laylee - 39,99€",
+                            "option_text": "Yooka-Laylee - <span class=\"discount_original_price\">39,99€</span> 11,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 3999
+                            "price_in_cents_with_discount": 1199
                         },
                         {
                             "packageid": 141967,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-70%",
                             "percent_savings": 0,
-                            "option_text": "Yooka-Laylee Digital Deluxe Edition - 49,99€",
+                            "option_text": "Yooka-Laylee Digital Deluxe Edition - <span class=\"discount_original_price\">49,99€</span> 14,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 4999
+                            "price_in_cents_with_discount": 1499
                         }
                     ]
                 }
@@ -253,7 +253,7 @@
                 }
             ],
             "recommendations": {
-                "total": 1550
+                "total": 1558
             },
             "achievements": {
                 "total": 35,
