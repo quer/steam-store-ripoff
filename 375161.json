@@ -36,10 +36,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 299,
-                "final": 299,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "2,99€"
+                "final": 254,
+                "discount_percent": 15,
+                "initial_formatted": "2,99€",
+                "final_formatted": "2,54€"
             },
             "packages": [
                 69299
@@ -56,13 +56,13 @@
                     "subs": [
                         {
                             "packageid": 69299,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-15%",
                             "percent_savings": 0,
-                            "option_text": "Discouraged Workers - Tarot PNP Pack - 2,99€",
+                            "option_text": "Discouraged Workers - Tarot PNP Pack - <span class=\"discount_original_price\">2,99€</span> 2,54€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 299
+                            "price_in_cents_with_discount": 254
                         }
                     ]
                 }
