@@ -14,7 +14,7 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/383730/header.jpg?t=1471489698",
             "website": null,
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Microsoft® Windows® XP/Vista/7/8<br></li><li><strong>Processor:</strong> Intel® Pentium®4 1.5GHz<br></li><li><strong>Graphics:</strong> 1024x768 or better video resolution in High Color mode<br></li><li><strong>Sound Card:</strong> DirectSound-compatible sound card</li></ul>"
+                "minimum": "<strong>最低配置:</strong><br><ul class=\"bb_ul\"><li><strong>操作系统:</strong> Microsoft® Windows® XP/Vista/7/8<br></li><li><strong>处理器:</strong> Intel® Pentium®4 1.5GHz<br></li><li><strong>图形:</strong> 1024x768 or better video resolution in High Color mode<br></li><li><strong>声卡:</strong> DirectSound-compatible sound card</li></ul>"
             },
             "mac_requirements": [],
             "linux_requirements": [],
@@ -27,10 +27,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 2299,
-                "final": 459,
-                "discount_percent": 80,
-                "initial_formatted": "22,99€",
-                "final_formatted": "4,59€"
+                "final": 2299,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "22,99€"
             },
             "packages": [
                 72112
@@ -47,13 +47,13 @@
                     "subs": [
                         {
                             "packageid": 72112,
-                            "percent_savings_text": "-80%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "RPG Maker 2000 - <span class=\"discount_original_price\">22,99€</span> 4,59€",
+                            "option_text": "RPG Maker 2000 - 22,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 459
+                            "price_in_cents_with_discount": 2299
                         }
                     ]
                 }
