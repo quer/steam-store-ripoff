@@ -15,16 +15,16 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/376480/header.jpg?t=1541391258",
             "website": null,
             "pc_requirements": {
-                "minimum": "<strong>Минимальные:</strong><br><ul class=\"bb_ul\"><li>Требуются 64-разрядные процессор и операционная система<br></li><li><strong>ОС:</strong> win 7 + (64 bit)<br></li><li><strong>Процессор:</strong> 2 ghz<br></li><li><strong>Оперативная память:</strong> 2 GB ОЗУ<br></li><li><strong>Видеокарта:</strong> 512 MB of dedicated video memory/ latest directxweb drivers (included)<br></li><li><strong>Дополнительно:</strong> Please make sure you have the latest DXWEB (included)</li></ul>",
-                "recommended": "<strong>Рекомендованные:</strong><br><ul class=\"bb_ul\"><li>Требуются 64-разрядные процессор и операционная система</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> win 7 + (64 bit)<br></li><li><strong>Processor:</strong> 2 ghz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> 512 MB of dedicated video memory/ latest directxweb drivers (included)<br></li><li><strong>Additional Notes:</strong> Please make sure you have the latest DXWEB (included)</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
             },
             "mac_requirements": {
-                "minimum": "<strong>Минимальные:</strong><br><ul class=\"bb_ul\"><li>Требуются 64-разрядные процессор и операционная система</li></ul>",
-                "recommended": "<strong>Рекомендованные:</strong><br><ul class=\"bb_ul\"><li>Требуются 64-разрядные процессор и операционная система</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
             },
             "linux_requirements": {
-                "minimum": "<strong>Минимальные:</strong><br><ul class=\"bb_ul\"><li>Требуются 64-разрядные процессор и операционная система</li></ul>",
-                "recommended": "<strong>Рекомендованные:</strong><br><ul class=\"bb_ul\"><li>Требуются 64-разрядные процессор и операционная система</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
             },
             "developers": [
                 "Rail Slave Games"
@@ -35,10 +35,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 599,
-                "final": 89,
-                "discount_percent": 85,
-                "initial_formatted": "5,99€",
-                "final_formatted": "0,89€"
+                "final": 599,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "5,99€"
             },
             "packages": [
                 69675
@@ -55,13 +55,13 @@
                     "subs": [
                         {
                             "packageid": 69675,
-                            "percent_savings_text": "-85%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Ohr - <span class=\"discount_original_price\">5,99€</span> 0,89€",
+                            "option_text": "Ohr - 5,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 89
+                            "price_in_cents_with_discount": 599
                         }
                     ]
                 }
