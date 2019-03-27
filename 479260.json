@@ -14,7 +14,7 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/479260/header.jpg?t=1495590452",
             "website": "https://vk.com/atriagames",
             "pc_requirements": {
-                "minimum": "<strong>Mínimos:</strong><br><ul class=\"bb_ul\"><li><strong>SO:</strong> Windows XP and newer<br></li><li><strong>Processador:</strong> 2.0+ GHz<br></li><li><strong>Memória:</strong> 512 MB de RAM<br></li><li><strong>Placa de vídeo:</strong> Integrated Graphics<br></li><li><strong>Armazenamento:</strong> 120 MB de espaço disponível<br></li><li><strong>Placa de som:</strong> Integrated Audio</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP and newer<br></li><li><strong>Processor:</strong> 2.0+ GHz<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> Integrated Graphics<br></li><li><strong>Storage:</strong> 120 MB available space<br></li><li><strong>Sound Card:</strong> Integrated Audio</li></ul>"
             },
             "mac_requirements": [],
             "linux_requirements": [],
@@ -28,10 +28,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 299,
-                "final": 299,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "2,99€"
+                "final": 41,
+                "discount_percent": 86,
+                "initial_formatted": "2,99€",
+                "final_formatted": "0,41€"
             },
             "packages": [
                 107147
@@ -48,13 +48,13 @@
                     "subs": [
                         {
                             "packageid": 107147,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-86%",
                             "percent_savings": 0,
-                            "option_text": "Cuties - 2,99€",
+                            "option_text": "Cuties - <span class=\"discount_original_price\">2,99€</span> 0,41€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 299
+                            "price_in_cents_with_discount": 41
                         }
                     ]
                 }
