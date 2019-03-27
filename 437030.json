@@ -15,7 +15,7 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/437030/header.jpg?t=1467961040",
             "website": null,
             "pc_requirements": {
-                "minimum": "<strong>最低配備:</strong><br><ul class=\"bb_ul\"><li><strong>作業系統:</strong> Windows 2000/XP/Vista/7/8/10(32bit/64bit)<br></li><li><strong>處理器:</strong> Intel® Pentium® 4 2.0 GHz equivalent or faster processor<br></li><li><strong>記憶體:</strong> 512 MB 記憶體<br></li><li><strong>儲存空間:</strong> 400 MB 可用空間<br></li><li><strong>備註:</strong> 1024 x 768 pixels or higher desktop resolution</li></ul>"
+                "minimum": "<strong>最低配置:</strong><br><ul class=\"bb_ul\"><li><strong>操作系统:</strong> Windows 2000/XP/Vista/7/8/10(32bit/64bit)<br></li><li><strong>处理器:</strong> Intel® Pentium® 4 2.0 GHz equivalent or faster processor<br></li><li><strong>内存:</strong> 512 MB RAM<br></li><li><strong>存储空间:</strong> 需要 400 MB 可用空间<br></li><li><strong>附注事项:</strong> 1024 x 768 pixels or higher desktop resolution</li></ul>"
             },
             "mac_requirements": [],
             "linux_requirements": [],
@@ -28,10 +28,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 599,
-                "final": 599,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "5,99€"
+                "final": 239,
+                "discount_percent": 60,
+                "initial_formatted": "5,99€",
+                "final_formatted": "2,39€"
             },
             "packages": [
                 91861
@@ -48,13 +48,13 @@
                     "subs": [
                         {
                             "packageid": 91861,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-60%",
                             "percent_savings": 0,
-                            "option_text": "MEMENTO - 5,99€",
+                            "option_text": "MEMENTO - <span class=\"discount_original_price\">5,99€</span> 2,39€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 599
+                            "price_in_cents_with_discount": 239
                         }
                     ]
                 }
