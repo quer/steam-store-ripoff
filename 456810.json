@@ -15,13 +15,13 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/456810/header.jpg?t=1461965313",
             "website": null,
             "pc_requirements": {
-                "minimum": "<strong>Минимальные:</strong><br><ul class=\"bb_ul\"><li><strong>ОС:</strong> Windows 7<br></li><li><strong>Процессор:</strong> Dual core from Intel or AMD at 2.0 GHz<br></li><li><strong>Оперативная память:</strong> 1 GB ОЗУ<br></li><li><strong>Видеокарта:</strong> nVidia 320M or higher, or Radeon 7000 or higher, or Intel HD 3000 or higher<br></li><li><strong>DirectX:</strong> Версии 9.0c<br></li><li><strong>Место на диске:</strong> 1 GB</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong> Dual core from Intel or AMD at 2.0 GHz<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> nVidia 320M or higher, or Radeon 7000 or higher, or Intel HD 3000 or higher<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
             },
             "mac_requirements": {
-                "minimum": "<strong>Минимальные:</strong><br><ul class=\"bb_ul\"><li><strong>ОС:</strong> OSX 10<br></li><li><strong>Процессор:</strong> Intel Dual Core<br></li><li><strong>Оперативная память:</strong> 1 GB ОЗУ<br></li><li><strong>Видеокарта:</strong> nVidia 320M or higher, or Radeon 7000 or higher, or Intel HD 3000 or higher<br></li><li><strong>Место на диске:</strong> 1 GB</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OSX 10<br></li><li><strong>Processor:</strong> Intel Dual Core<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> nVidia 320M or higher, or Radeon 7000 or higher, or Intel HD 3000 or higher<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
             },
             "linux_requirements": {
-                "minimum": "<strong>Минимальные:</strong><br><ul class=\"bb_ul\"><li><strong>ОС:</strong> Ubuntu 12.4<br></li><li><strong>Процессор:</strong> 2 GHz<br></li><li><strong>Оперативная память:</strong> 1 GB ОЗУ<br></li><li><strong>Видеокарта:</strong> openGL 2.1 Compatible<br></li><li><strong>Место на диске:</strong> 1 GB</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 12.4<br></li><li><strong>Processor:</strong> 2 GHz<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> openGL 2.1 Compatible<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
             },
             "developers": [
                 "Forever Entertainment S. A."
@@ -32,10 +32,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 499,
-                "final": 499,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "4,99€"
+                "final": 49,
+                "discount_percent": 90,
+                "initial_formatted": "4,99€",
+                "final_formatted": "0,49€"
             },
             "packages": [
                 99042
@@ -52,13 +52,13 @@
                     "subs": [
                         {
                             "packageid": 99042,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-90%",
                             "percent_savings": 0,
-                            "option_text": "Zombillie - 4,99€",
+                            "option_text": "Zombillie - <span class=\"discount_original_price\">4,99€</span> 0,49€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 499
+                            "price_in_cents_with_discount": 49
                         }
                     ]
                 }
