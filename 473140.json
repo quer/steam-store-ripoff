@@ -36,11 +36,11 @@
             ],
             "price_overview": {
                 "currency": "EUR",
-                "initial": 199,
-                "final": 199,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "1,99€"
+                "initial": 79,
+                "final": 47,
+                "discount_percent": 41,
+                "initial_formatted": "0,79€",
+                "final_formatted": "0,47€"
             },
             "packages": [
                 104933
@@ -57,13 +57,13 @@
                     "subs": [
                         {
                             "packageid": 104933,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-41%",
                             "percent_savings": 0,
-                            "option_text": "BomberZone - 1,99€",
+                            "option_text": "BomberZone - <span class=\"discount_original_price\">0,79€</span> 0,47€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 199
+                            "price_in_cents_with_discount": 47
                         }
                     ]
                 }
