@@ -15,7 +15,7 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/442890/header.jpg?t=1549451686",
             "website": "http://artifacts.xii.jp/products.html#mpexplorer",
             "pc_requirements": {
-                "minimum": "<strong>Mínimos:</strong><br><ul class=\"bb_ul\"><li><strong>SO:</strong> Windows 7/8/8.1/10<br></li><li><strong>Processador:</strong> Pentium III 1.0 GHz or better<br></li><li><strong>Memória:</strong> 256 MB de RAM<br></li><li><strong>Placa de vídeo:</strong> 800x600 resolution or higher<br></li><li><strong>Armazenamento:</strong> 50 MB de espaço disponível</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7/8/8.1/10<br></li><li><strong>Processor:</strong> Pentium III 1.0 GHz or better<br></li><li><strong>Memory:</strong> 256 MB RAM<br></li><li><strong>Graphics:</strong> 800x600 resolution or higher<br></li><li><strong>Storage:</strong> 50 MB available space</li></ul>"
             },
             "mac_requirements": [],
             "linux_requirements": [],
@@ -29,10 +29,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 999,
-                "final": 999,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "9,99€"
+                "final": 499,
+                "discount_percent": 50,
+                "initial_formatted": "9,99€",
+                "final_formatted": "4,99€"
             },
             "packages": [
                 93937
@@ -49,13 +49,13 @@
                     "subs": [
                         {
                             "packageid": 93937,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-50%",
                             "percent_savings": 0,
-                            "option_text": "Magic Potion Explorer - 9,99€",
+                            "option_text": "Magic Potion Explorer - <span class=\"discount_original_price\">9,99€</span> 4,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 999
+                            "price_in_cents_with_discount": 499
                         }
                     ]
                 }
