@@ -21,13 +21,13 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/420980/header.jpg?t=1545383621",
             "website": "http://www.Nickyswan.com",
             "pc_requirements": {
-                "minimum": "<strong>最低:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP<br></li><li><strong>プロセッサー:</strong> 1.66 Ghz<br></li><li><strong>メモリー:</strong> 1 GB RAM<br></li><li><strong>グラフィック:</strong> DirectX compatible card<br></li><li><strong>ストレージ:</strong> 1 GB 利用可能</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP<br></li><li><strong>Processor:</strong> 1.66 Ghz<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> DirectX compatible card<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
             },
             "mac_requirements": {
-                "minimum": "<strong>最低:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OS X version Leopard 10.5.8 or later<br></li><li><strong>プロセッサー:</strong> 1.66 Ghz<br></li><li><strong>メモリー:</strong> 1 GB RAM<br></li><li><strong>ストレージ:</strong> 1 GB 利用可能</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OS X version Leopard 10.5.8 or later<br></li><li><strong>Processor:</strong> 1.66 Ghz<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
             },
             "linux_requirements": {
-                "minimum": "<strong>最低:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 12.04<br></li><li><strong>プロセッサー:</strong> 1.66 Ghz<br></li><li><strong>メモリー:</strong> 1 GB RAM<br></li><li><strong>ストレージ:</strong> 1 GB 利用可能</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 12.04<br></li><li><strong>Processor:</strong> 1.66 Ghz<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
             },
             "legal_notice": "NickySwan ©2018+",
             "developers": [
@@ -39,10 +39,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 1079,
-                "final": 1079,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "10,79€"
+                "final": 701,
+                "discount_percent": 35,
+                "initial_formatted": "10,79€",
+                "final_formatted": "7,01€"
             },
             "packages": [
                 85801,
@@ -60,23 +60,23 @@
                     "subs": [
                         {
                             "packageid": 85801,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-35%",
                             "percent_savings": 0,
-                            "option_text": "Army Gals - 10,79€",
+                            "option_text": "Army Gals - <span class=\"discount_original_price\">10,79€</span> 7,01€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1079
+                            "price_in_cents_with_discount": 701
                         },
                         {
                             "packageid": 137242,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-35%",
                             "percent_savings": 0,
-                            "option_text": "Army Gals Deluxe Edition - 16,79€",
+                            "option_text": "Army Gals Deluxe Edition - <span class=\"discount_original_price\">16,79€</span> 10,91€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1679
+                            "price_in_cents_with_discount": 1091
                         }
                     ]
                 }
@@ -188,7 +188,7 @@
                 }
             ],
             "recommendations": {
-                "total": 165
+                "total": 167
             },
             "achievements": {
                 "total": 30,
