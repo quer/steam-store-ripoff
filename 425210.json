@@ -36,10 +36,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 1699,
-                "final": 1699,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "16,99€"
+                "final": 424,
+                "discount_percent": 75,
+                "initial_formatted": "16,99€",
+                "final_formatted": "4,24€"
             },
             "packages": [
                 87305,
@@ -57,23 +57,23 @@
                     "subs": [
                         {
                             "packageid": 87305,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-75%",
                             "percent_savings": 0,
-                            "option_text": "Shadwen - 16,99€",
+                            "option_text": "Shadwen - <span class=\"discount_original_price\">16,99€</span> 4,24€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1699
+                            "price_in_cents_with_discount": 424
                         },
                         {
                             "packageid": 230359,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-50%",
                             "percent_savings": 0,
-                            "option_text": "Shadwen - Commercial License - 16,99€",
+                            "option_text": "Shadwen - Commercial License - <span class=\"discount_original_price\">16,99€</span> 8,49€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1699
+                            "price_in_cents_with_discount": 849
                         }
                     ]
                 }
@@ -213,7 +213,7 @@
                 }
             ],
             "recommendations": {
-                "total": 616
+                "total": 620
             },
             "achievements": {
                 "total": 48,
