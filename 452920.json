@@ -19,10 +19,10 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/452920/header.jpg?t=1528357391",
             "website": "http://www.LaserDiscoDefenders.com",
             "pc_requirements": {
-                "minimum": "<strong>Minimale :</strong><br><ul class=\"bb_ul\"><li><strong>Système d'exploitation :</strong> Windows 7 or above<br></li><li><strong>Processeur :</strong> Intel dual core processor 2GHz or faster<br></li><li><strong>Mémoire vive :</strong> 2 GB de mémoire<br></li><li><strong>Graphiques :</strong> Dedicated graphics with 256MB memory or more<br></li><li><strong>Espace disque :</strong> 300 MB d'espace disque disponible</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 or above<br></li><li><strong>Processor:</strong> Intel dual core processor 2GHz or faster<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Dedicated graphics with 256MB memory or more<br></li><li><strong>Storage:</strong> 300 MB available space</li></ul>"
             },
             "mac_requirements": {
-                "minimum": "<strong>Minimale :</strong><br><ul class=\"bb_ul\"><li><strong>Système d'exploitation :</strong> OSX 10 or above<br></li><li><strong>Processeur :</strong> Intel dual core processor 2GHz or faster<br></li><li><strong>Mémoire vive :</strong> 2 GB de mémoire<br></li><li><strong>Graphiques :</strong> Dedicated graphics with 256MB memory or more<br></li><li><strong>Espace disque :</strong> 300 MB d'espace disque disponible</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OSX 10 or above<br></li><li><strong>Processor:</strong> Intel dual core processor 2GHz or faster<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Dedicated graphics with 256MB memory or more<br></li><li><strong>Storage:</strong> 300 MB available space</li></ul>"
             },
             "linux_requirements": [],
             "legal_notice": "Excalibur Publishing © 2017 - All rights reserved<br />\r\nOut of Bounds © 2017 - All rights reserved",
@@ -35,10 +35,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 999,
-                "final": 999,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "9,99€"
+                "final": 249,
+                "discount_percent": 75,
+                "initial_formatted": "9,99€",
+                "final_formatted": "2,49€"
             },
             "packages": [
                 97700
@@ -55,13 +55,13 @@
                     "subs": [
                         {
                             "packageid": 97700,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-75%",
                             "percent_savings": 0,
-                            "option_text": "Laser Disco Defenders - 9,99€",
+                            "option_text": "Laser Disco Defenders - <span class=\"discount_original_price\">9,99€</span> 2,49€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 999
+                            "price_in_cents_with_discount": 249
                         }
                     ]
                 }
