@@ -15,7 +15,7 @@
                 "name": "The Walsingham Files - Chapter 1"
             },
             "supported_languages": "English",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1054960/header.jpg?t=1553285283",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1054960/header.jpg?t=1553525581",
             "website": null,
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Microsoft® Windows® Vista / 7 / 8/ 8.1/ 10<br></li><li><strong>Processor:</strong> Intel® Pentium® 4 2.0 GHz equivalent or faster processor<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> Integrated Graphics Chip<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>"
@@ -30,7 +30,40 @@
             "publishers": [
                 ""
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 79,
+                "final": 79,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "0,79€"
+            },
+            "packages": [
+                352116
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy The Walsingham Files: Chapter 1 OST + Directors Commentary",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 352116,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "The Walsingham Files: Chapter 1 OST + Directors Commentary - 0,79€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 79
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": true,
@@ -67,19 +100,19 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1054960/ss_76fd932c520bb5e71802190c1063dfafa1f54763.600x338.jpg?t=1553285283",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1054960/ss_76fd932c520bb5e71802190c1063dfafa1f54763.1920x1080.jpg?t=1553285283"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1054960/ss_76fd932c520bb5e71802190c1063dfafa1f54763.600x338.jpg?t=1553525581",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1054960/ss_76fd932c520bb5e71802190c1063dfafa1f54763.1920x1080.jpg?t=1553525581"
                 }
             ],
             "release_date": {
-                "coming_soon": true,
-                "date": "28 Mar, 2019"
+                "coming_soon": false,
+                "date": "25 Mar, 2019"
             },
             "support_info": {
                 "url": "",
                 "email": "admin@sapphiredragonproductions.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1054960/page_bg_generated_v6b.jpg?t=1553285283",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1054960/page_bg_generated_v6b.jpg?t=1553525581",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
