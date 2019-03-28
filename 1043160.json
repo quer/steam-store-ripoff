@@ -12,8 +12,8 @@
             "about_the_game": "<h2 class=\"bb_tag\">The Christmas elves have turned</h2><br>In this single-player, turn-based strategy game, it's just you and the elves. You must protect yourself as you progress through the evil modicum of elves by any means necessary.<br><br>Though simple in appearance, you will find at its core that <i>You Versus 27 Elves</i> is about strategy, procedure, and thinking outside the box.<br><br>So be warned: This game will test you.<br>This game will break you (probably won't happen).<br>This game will take your assumptions and break them apart with a tiny little hammer (probably will happen).<br><br><strong>Are you ready for a challenge, human?</strong>",
             "short_description": "Fight your way through 27 unique elves in a journey that will bring you happiness, to your wits' end, and maybe even to tears. As you learn more about these thankless slaves who now wish to conquer the Earth, there's only one question you need to ask yourself: Will you be the hero the world needs?",
             "supported_languages": "English",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1043160/header.jpg?t=1551986815",
-            "website": null,
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1043160/header.jpg?t=1553584027",
+            "website": "http://27elves.com/",
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7+<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Storage:</strong> 250 MB available space<br></li><li><strong>Additional Notes:</strong> A dedicated GPU is recommended, but not required</li></ul>",
                 "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>Processor:</strong> Something from this decade</li></ul>"
@@ -29,7 +29,40 @@
             "publishers": [
                 "mistopportunity"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 399,
+                "final": 291,
+                "discount_percent": 27,
+                "initial_formatted": "3,99€",
+                "final_formatted": "2,91€"
+            },
+            "packages": [
+                347571
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy You Versus 27 Elves",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 347571,
+                            "percent_savings_text": "-27%",
+                            "percent_savings": 0,
+                            "option_text": "You Versus 27 Elves - <span class=\"discount_original_price\">3,99€</span> 2,91€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 291
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": true,
@@ -62,38 +95,38 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1043160/ss_a52548ee7c8de0d22c6a65f17313abcd691351aa.600x338.jpg?t=1551986815",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1043160/ss_a52548ee7c8de0d22c6a65f17313abcd691351aa.1920x1080.jpg?t=1551986815"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1043160/ss_a52548ee7c8de0d22c6a65f17313abcd691351aa.600x338.jpg?t=1553584027",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1043160/ss_a52548ee7c8de0d22c6a65f17313abcd691351aa.1920x1080.jpg?t=1553584027"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1043160/ss_536dcbd389f44a9d9e3a5b98ce47f429729d1dff.600x338.jpg?t=1551986815",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1043160/ss_536dcbd389f44a9d9e3a5b98ce47f429729d1dff.1920x1080.jpg?t=1551986815"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1043160/ss_536dcbd389f44a9d9e3a5b98ce47f429729d1dff.600x338.jpg?t=1553584027",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1043160/ss_536dcbd389f44a9d9e3a5b98ce47f429729d1dff.1920x1080.jpg?t=1553584027"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1043160/ss_9b585a229fd15353ab08360d0daf2c5646398934.600x338.jpg?t=1551986815",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1043160/ss_9b585a229fd15353ab08360d0daf2c5646398934.1920x1080.jpg?t=1551986815"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1043160/ss_9b585a229fd15353ab08360d0daf2c5646398934.600x338.jpg?t=1553584027",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1043160/ss_9b585a229fd15353ab08360d0daf2c5646398934.1920x1080.jpg?t=1553584027"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1043160/ss_1a1de84c2cf7c02905e91e4a79e00261ce948cf6.600x338.jpg?t=1551986815",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1043160/ss_1a1de84c2cf7c02905e91e4a79e00261ce948cf6.1920x1080.jpg?t=1551986815"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1043160/ss_1a1de84c2cf7c02905e91e4a79e00261ce948cf6.600x338.jpg?t=1553584027",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1043160/ss_1a1de84c2cf7c02905e91e4a79e00261ce948cf6.1920x1080.jpg?t=1553584027"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1043160/ss_f19a386d9ee71e42f5b88e1b373fb8bc3753f93d.600x338.jpg?t=1551986815",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1043160/ss_f19a386d9ee71e42f5b88e1b373fb8bc3753f93d.1920x1080.jpg?t=1551986815"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1043160/ss_f19a386d9ee71e42f5b88e1b373fb8bc3753f93d.600x338.jpg?t=1553584027",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1043160/ss_f19a386d9ee71e42f5b88e1b373fb8bc3753f93d.1920x1080.jpg?t=1553584027"
                 },
                 {
                     "id": 5,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1043160/ss_4a72a225b5fc68d16d987d999beef22dea48acb4.600x338.jpg?t=1551986815",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1043160/ss_4a72a225b5fc68d16d987d999beef22dea48acb4.1920x1080.jpg?t=1551986815"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1043160/ss_4a72a225b5fc68d16d987d999beef22dea48acb4.600x338.jpg?t=1553584027",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1043160/ss_4a72a225b5fc68d16d987d999beef22dea48acb4.1920x1080.jpg?t=1553584027"
                 },
                 {
                     "id": 6,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1043160/ss_71b614b549612c5e765c004aa5abf8b00dea25ad.600x338.jpg?t=1551986815",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1043160/ss_71b614b549612c5e765c004aa5abf8b00dea25ad.1920x1080.jpg?t=1551986815"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1043160/ss_71b614b549612c5e765c004aa5abf8b00dea25ad.600x338.jpg?t=1553584027",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1043160/ss_71b614b549612c5e765c004aa5abf8b00dea25ad.1920x1080.jpg?t=1553584027"
                 }
             ],
             "movies": [
@@ -108,15 +141,60 @@
                     "highlight": true
                 }
             ],
+            "achievements": {
+                "total": 27,
+                "highlighted": [
+                    {
+                        "name": "Jerk",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1043160/84a3e61d0b356a82c25e8293e708fe1dab4fa493.jpg"
+                    },
+                    {
+                        "name": "Blood, sweat, and tears",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1043160/3aa4c68031e2daefc20a5edf54fa3c99727c4343.jpg"
+                    },
+                    {
+                        "name": "Russian roulette",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1043160/76d4121c1e9a683b05f5eeb884c7c72da5b82a07.jpg"
+                    },
+                    {
+                        "name": "Muggle",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1043160/af17c640521d8f02977590538028da9dedb78cef.jpg"
+                    },
+                    {
+                        "name": "Don't do drugs",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1043160/72f7392ea1bbe7506c932e1f23248f33a18b4dda.jpg"
+                    },
+                    {
+                        "name": "Midas touch",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1043160/8ca3ddc3b9f1e854e4fa5419f4a5b3db7f372c26.jpg"
+                    },
+                    {
+                        "name": "Pop quiz",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1043160/f05d826b9663706c532a9e31ff1c68e77aa09fb5.jpg"
+                    },
+                    {
+                        "name": "Boned",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1043160/3e2217c273b217e8dfc9975f690af82a4ad19b21.jpg"
+                    },
+                    {
+                        "name": "Head in the game",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1043160/c86a684b19ac7bfb9454ab7fda10ccee8664201f.jpg"
+                    },
+                    {
+                        "name": "Disposition",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1043160/a47272fff4602a142b37aa8d7c24a26d0fd7f693.jpg"
+                    }
+                ]
+            },
             "release_date": {
-                "coming_soon": true,
+                "coming_soon": false,
                 "date": "26 Mar, 2019"
             },
             "support_info": {
                 "url": "",
                 "email": "srobinsonbusiness1@gmail.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1043160/page_bg_generated_v6b.jpg?t=1551986815",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1043160/page_bg_generated_v6b.jpg?t=1553584027",
             "content_descriptors": {
                 "ids": [
                     1,
