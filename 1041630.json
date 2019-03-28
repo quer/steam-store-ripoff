@@ -11,7 +11,7 @@
             "about_the_game": "I arrive in the jungle to save my best friend, Ara.<br />\r\nExplore the jungle, collect the Igrass.<br />\r\nWith the Igras you collected, defeat the boss, and save her.<br />\r\n<br />\r\nIt is a VR FPS game.<br />\r\n<br />\r\nWhile you're moving the jungle, you're learning weapons. <br />\r\nWe'll destroy the monsters, and when we get to the final boss,<br />\r\nIt is a game of summoning monsters to fight.",
             "short_description": "I arrive in the jungle to save my best friend, Ara. Explore the jungle, collect the Igrass. With the Igras you collected, defeat the boss, and save her. The mode of transportation and combat is typical of the FPS.",
             "supported_languages": "English",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1041630/header.jpg?t=1552450007",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1041630/header.jpg?t=1553646846",
             "website": null,
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 SP1, Windows 8.1, Windows 10 (64bit versions only)<br></li><li><strong>Processor:</strong> Intel Core i5-4590(AMD FX 8350)<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> GeForce GTX 970(AMD Radeon R9 290)<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 10 GB available space<br></li><li><strong>Sound Card:</strong> DirectX 9.0c compatible sound card with latest drivers</li></ul>",
@@ -25,7 +25,40 @@
             "publishers": [
                 "mCoCoA"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 819,
+                "final": 819,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "8,19€"
+            },
+            "packages": [
+                346973
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Jungle Adventure",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 346973,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Jungle Adventure - 8,19€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 819
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": false,
@@ -54,28 +87,28 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1041630/ss_e214b3c6c183a7ba80fac4bb1565e88572e2b147.600x338.jpg?t=1552450007",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1041630/ss_e214b3c6c183a7ba80fac4bb1565e88572e2b147.1920x1080.jpg?t=1552450007"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1041630/ss_e214b3c6c183a7ba80fac4bb1565e88572e2b147.600x338.jpg?t=1553646846",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1041630/ss_e214b3c6c183a7ba80fac4bb1565e88572e2b147.1920x1080.jpg?t=1553646846"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1041630/ss_231bb55c71514386bfd9b609c339fb746c8e981b.600x338.jpg?t=1552450007",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1041630/ss_231bb55c71514386bfd9b609c339fb746c8e981b.1920x1080.jpg?t=1552450007"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1041630/ss_231bb55c71514386bfd9b609c339fb746c8e981b.600x338.jpg?t=1553646846",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1041630/ss_231bb55c71514386bfd9b609c339fb746c8e981b.1920x1080.jpg?t=1553646846"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1041630/ss_ae07e074bebeb759f08f6ac08e0c656b6749086c.600x338.jpg?t=1552450007",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1041630/ss_ae07e074bebeb759f08f6ac08e0c656b6749086c.1920x1080.jpg?t=1552450007"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1041630/ss_ae07e074bebeb759f08f6ac08e0c656b6749086c.600x338.jpg?t=1553646846",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1041630/ss_ae07e074bebeb759f08f6ac08e0c656b6749086c.1920x1080.jpg?t=1553646846"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1041630/ss_54d5402c7d7205fc3531087c77348ea2f8c1f6d8.600x338.jpg?t=1552450007",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1041630/ss_54d5402c7d7205fc3531087c77348ea2f8c1f6d8.1920x1080.jpg?t=1552450007"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1041630/ss_54d5402c7d7205fc3531087c77348ea2f8c1f6d8.600x338.jpg?t=1553646846",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1041630/ss_54d5402c7d7205fc3531087c77348ea2f8c1f6d8.1920x1080.jpg?t=1553646846"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1041630/ss_0aa17fef25a0ccea814d070ca7fe75670e1388c8.600x338.jpg?t=1552450007",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1041630/ss_0aa17fef25a0ccea814d070ca7fe75670e1388c8.1920x1080.jpg?t=1552450007"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1041630/ss_0aa17fef25a0ccea814d070ca7fe75670e1388c8.600x338.jpg?t=1553646846",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1041630/ss_0aa17fef25a0ccea814d070ca7fe75670e1388c8.1920x1080.jpg?t=1553646846"
                 }
             ],
             "movies": [
@@ -91,14 +124,14 @@
                 }
             ],
             "release_date": {
-                "coming_soon": true,
-                "date": "29 Mar, 2019"
+                "coming_soon": false,
+                "date": "26 Mar, 2019"
             },
             "support_info": {
                 "url": "www.mcocoa.com",
                 "email": "sales@mcocoa.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1041630/page_bg_generated_v6b.jpg?t=1552450007",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1041630/page_bg_generated_v6b.jpg?t=1553646846",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
