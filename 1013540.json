@@ -14,16 +14,16 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1013540/header.jpg?t=1551061198",
             "website": null,
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>Processor:</strong> Intel Core i3<br></li><li><strong>Memory:</strong> 3 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GTX 660 2GB<br></li><li><strong>Storage:</strong> 3 GB available space</li></ul>",
-                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>Processor:</strong> Intel Core i5<br></li><li><strong>Memory:</strong> 6 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GTX 770 2GB<br></li><li><strong>Storage:</strong> 5 GB available space</li></ul>"
+                "minimum": "<strong>Vähintään:</strong><br><ul class=\"bb_ul\"><li>Vaatii 64-bittisen prosessorin ja käyttöjärjestelmän<br></li><li><strong>Prosessori:</strong> Intel Core i3<br></li><li><strong>Muisti:</strong> 3 GB RAM<br></li><li><strong>Grafiikka:</strong> Nvidia GTX 660 2GB<br></li><li><strong>Tallennus:</strong> 3 GB kiintolevytilaa</li></ul>",
+                "recommended": "<strong>Suositus:</strong><br><ul class=\"bb_ul\"><li>Vaatii 64-bittisen prosessorin ja käyttöjärjestelmän<br></li><li><strong>Prosessori:</strong> Intel Core i5<br></li><li><strong>Muisti:</strong> 6 GB RAM<br></li><li><strong>Grafiikka:</strong> Nvidia GTX 770 2GB<br></li><li><strong>Tallennus:</strong> 5 GB kiintolevytilaa</li></ul>"
             },
             "mac_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
-                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+                "minimum": "<strong>Vähintään:</strong><br><ul class=\"bb_ul\"><li>Vaatii 64-bittisen prosessorin ja käyttöjärjestelmän</li></ul>",
+                "recommended": "<strong>Suositus:</strong><br><ul class=\"bb_ul\"><li>Vaatii 64-bittisen prosessorin ja käyttöjärjestelmän</li></ul>"
             },
             "linux_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
-                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+                "minimum": "<strong>Vähintään:</strong><br><ul class=\"bb_ul\"><li>Vaatii 64-bittisen prosessorin ja käyttöjärjestelmän</li></ul>",
+                "recommended": "<strong>Suositus:</strong><br><ul class=\"bb_ul\"><li>Vaatii 64-bittisen prosessorin ja käyttöjärjestelmän</li></ul>"
             },
             "developers": [
                 "Round Cube Studio"
@@ -147,7 +147,7 @@
                 }
             ],
             "achievements": {
-                "total": 5,
+                "total": 12,
                 "highlighted": [
                     {
                         "name": "Copper Age",
@@ -168,6 +168,26 @@
                     {
                         "name": "Aluminium Age",
                         "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1013540/e7e4fe4ecd710509c246247223345b2b2f65bccf.jpg"
+                    },
+                    {
+                        "name": "Copper Ore",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1013540/bbb744bb91c871831e1bab3ce72328f0db2b5672.jpg"
+                    },
+                    {
+                        "name": "Iron Ore",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1013540/7c3e40b6cd9c8bf3a054d846d1f0149347a206c7.jpg"
+                    },
+                    {
+                        "name": "Aluminium Ore",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1013540/729908821cc367ce36ffcc750f876b9ebbf4f99e.jpg"
+                    },
+                    {
+                        "name": "Gold Ore",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1013540/3c964d97cab6e56a540266444e7ef2b8a7e20f60.jpg"
+                    },
+                    {
+                        "name": "Uranium Ore",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1013540/a6ac1541c89ea942e41eaae3b9845d2a6fc81f30.jpg"
                     }
                 ]
             },
