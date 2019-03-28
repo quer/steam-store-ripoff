@@ -12,14 +12,14 @@
             "short_description": "城市经营+战棋SLG经典结合！ 千人热血盟战,期待您的回归！",
             "supported_languages": "Simplified Chinese<strong>*</strong>, Traditional Chinese<strong>*</strong><br><strong>*</strong>languages with full audio support",
             "reviews": "9 – <a href=\"https://steamcommunity.com/linkfilter/?url=https://www.taptap.com/app/159727\" target=\"_blank\" rel=\"noopener\"  >TAPTAP</a><br>",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1041710/header.jpg?t=1553243982",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1041710/header.jpg?t=1553583324",
             "website": "http://www.tkgblue.com",
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> 64-bit Windows 7, Windows 8.1, Windows 10<br></li><li><strong>Processor:</strong> 1.5 GHz Dual Core<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA Geforce GT440 或者 AMD Radeon equivalent 及更高<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>",
                 "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> 64-bit Windows 7, Windows 8.1, Windows 10<br></li><li><strong>Processor:</strong> 2.4 GHz Dual Core<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA Geforce GT440 或者 AMD Radeon equivalent 及更高<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
             },
             "mac_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> OSX 10+<br></li><li><strong>Processor:</strong> 1.5 GHz Dual Core<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL 2.0 compatible, 512 MB VRAM<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>",
                 "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
             },
             "linux_requirements": {
@@ -35,7 +35,7 @@
             "package_groups": [],
             "platforms": {
                 "windows": true,
-                "mac": false,
+                "mac": true,
                 "linux": false
             },
             "categories": [
@@ -58,6 +58,10 @@
                 {
                     "id": 27,
                     "description": "Cross-Platform Multiplayer"
+                },
+                {
+                    "id": 35,
+                    "description": "In-App Purchases"
                 },
                 {
                     "id": 18,
@@ -85,38 +89,38 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1041710/ss_f32591e7936ccb41463863de8ba25479ed6eb805.600x338.jpg?t=1553243982",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1041710/ss_f32591e7936ccb41463863de8ba25479ed6eb805.1920x1080.jpg?t=1553243982"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1041710/ss_f32591e7936ccb41463863de8ba25479ed6eb805.600x338.jpg?t=1553583324",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1041710/ss_f32591e7936ccb41463863de8ba25479ed6eb805.1920x1080.jpg?t=1553583324"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1041710/ss_0eaf4c8dbc7bdb31cd9761f8c48d64932c5d8d02.600x338.jpg?t=1553243982",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1041710/ss_0eaf4c8dbc7bdb31cd9761f8c48d64932c5d8d02.1920x1080.jpg?t=1553243982"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1041710/ss_0eaf4c8dbc7bdb31cd9761f8c48d64932c5d8d02.600x338.jpg?t=1553583324",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1041710/ss_0eaf4c8dbc7bdb31cd9761f8c48d64932c5d8d02.1920x1080.jpg?t=1553583324"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1041710/ss_edd1160dc728e23e7933d244ff9196b4b8e035e7.600x338.jpg?t=1553243982",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1041710/ss_edd1160dc728e23e7933d244ff9196b4b8e035e7.1920x1080.jpg?t=1553243982"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1041710/ss_edd1160dc728e23e7933d244ff9196b4b8e035e7.600x338.jpg?t=1553583324",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1041710/ss_edd1160dc728e23e7933d244ff9196b4b8e035e7.1920x1080.jpg?t=1553583324"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1041710/ss_11154598eb6842bce85f0e8d4db110b17895370a.600x338.jpg?t=1553243982",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1041710/ss_11154598eb6842bce85f0e8d4db110b17895370a.1920x1080.jpg?t=1553243982"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1041710/ss_11154598eb6842bce85f0e8d4db110b17895370a.600x338.jpg?t=1553583324",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1041710/ss_11154598eb6842bce85f0e8d4db110b17895370a.1920x1080.jpg?t=1553583324"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1041710/ss_f718a23099f9c94af3c1d9dcfbe04723c57b3072.600x338.jpg?t=1553243982",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1041710/ss_f718a23099f9c94af3c1d9dcfbe04723c57b3072.1920x1080.jpg?t=1553243982"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1041710/ss_f718a23099f9c94af3c1d9dcfbe04723c57b3072.600x338.jpg?t=1553583324",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1041710/ss_f718a23099f9c94af3c1d9dcfbe04723c57b3072.1920x1080.jpg?t=1553583324"
                 },
                 {
                     "id": 5,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1041710/ss_6fcc55a8eab284538f18a03d4669717532d71895.600x338.jpg?t=1553243982",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1041710/ss_6fcc55a8eab284538f18a03d4669717532d71895.1920x1080.jpg?t=1553243982"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1041710/ss_6fcc55a8eab284538f18a03d4669717532d71895.600x338.jpg?t=1553583324",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1041710/ss_6fcc55a8eab284538f18a03d4669717532d71895.1920x1080.jpg?t=1553583324"
                 },
                 {
                     "id": 6,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1041710/ss_44e9ef32418eaccc6ef11fe2a9e4093a2618b3e6.600x338.jpg?t=1553243982",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1041710/ss_44e9ef32418eaccc6ef11fe2a9e4093a2618b3e6.1920x1080.jpg?t=1553243982"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1041710/ss_44e9ef32418eaccc6ef11fe2a9e4093a2618b3e6.600x338.jpg?t=1553583324",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1041710/ss_44e9ef32418eaccc6ef11fe2a9e4093a2618b3e6.1920x1080.jpg?t=1553583324"
                 }
             ],
             "release_date": {
@@ -127,7 +131,7 @@
                 "url": "https://www.taptap.com/app/159727",
                 "email": "1665770764@qq.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1041710/page_bg_generated_v6b.jpg?t=1553243982",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1041710/page_bg_generated_v6b.jpg?t=1553583324",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
