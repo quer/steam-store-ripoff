@@ -15,7 +15,7 @@
                 "name": "Willowbrooke Post | Story-Based Job Management Game"
             },
             "supported_languages": "English",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1046540/header.jpg?t=1552299597",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1046540/header.jpg?t=1553702432",
             "website": "http://www.willowbrookepost.com",
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7/8/10<br></li><li><strong>Processor:</strong> Intel Core i3 2GHz or equivalent<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Dedicated graphics card with 1GB memory<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
@@ -29,7 +29,40 @@
             "publishers": [
                 "Excalibur Games"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 239,
+                "final": 167,
+                "discount_percent": 30,
+                "initial_formatted": "2,39€",
+                "final_formatted": "1,67€"
+            },
+            "packages": [
+                348878
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Willowbrooke Post - Digital Soundtrack",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 348878,
+                            "percent_savings_text": "-30%",
+                            "percent_savings": 0,
+                            "option_text": "Willowbrooke Post - Digital Soundtrack - <span class=\"discount_original_price\">2,39€</span> 1,67€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 167
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": false,
@@ -58,44 +91,47 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1046540/ss_ffd51f88f660a800d7618f60a96e10ebe50564ec.600x338.jpg?t=1552299597",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1046540/ss_ffd51f88f660a800d7618f60a96e10ebe50564ec.1920x1080.jpg?t=1552299597"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1046540/ss_ffd51f88f660a800d7618f60a96e10ebe50564ec.600x338.jpg?t=1553702432",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1046540/ss_ffd51f88f660a800d7618f60a96e10ebe50564ec.1920x1080.jpg?t=1553702432"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1046540/ss_e4238f54d33e4bc2842d6a62e31a3b403bfe3cd6.600x338.jpg?t=1552299597",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1046540/ss_e4238f54d33e4bc2842d6a62e31a3b403bfe3cd6.1920x1080.jpg?t=1552299597"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1046540/ss_e4238f54d33e4bc2842d6a62e31a3b403bfe3cd6.600x338.jpg?t=1553702432",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1046540/ss_e4238f54d33e4bc2842d6a62e31a3b403bfe3cd6.1920x1080.jpg?t=1553702432"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1046540/ss_460f263bc23edee8311a3234960c4f3fadc26a93.600x338.jpg?t=1552299597",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1046540/ss_460f263bc23edee8311a3234960c4f3fadc26a93.1920x1080.jpg?t=1552299597"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1046540/ss_460f263bc23edee8311a3234960c4f3fadc26a93.600x338.jpg?t=1553702432",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1046540/ss_460f263bc23edee8311a3234960c4f3fadc26a93.1920x1080.jpg?t=1553702432"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1046540/ss_5004045f30e6fecdd901013f0687e11f57df8bec.600x338.jpg?t=1552299597",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1046540/ss_5004045f30e6fecdd901013f0687e11f57df8bec.1920x1080.jpg?t=1552299597"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1046540/ss_5004045f30e6fecdd901013f0687e11f57df8bec.600x338.jpg?t=1553702432",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1046540/ss_5004045f30e6fecdd901013f0687e11f57df8bec.1920x1080.jpg?t=1553702432"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1046540/ss_7eafa6a73754177294a6ffcec6b6ea4a9067daac.600x338.jpg?t=1552299597",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1046540/ss_7eafa6a73754177294a6ffcec6b6ea4a9067daac.1920x1080.jpg?t=1552299597"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1046540/ss_7eafa6a73754177294a6ffcec6b6ea4a9067daac.600x338.jpg?t=1553702432",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1046540/ss_7eafa6a73754177294a6ffcec6b6ea4a9067daac.1920x1080.jpg?t=1553702432"
                 },
                 {
                     "id": 5,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1046540/ss_393564d2df9fef53e0244ac3f05c137c2756c532.600x338.jpg?t=1552299597",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1046540/ss_393564d2df9fef53e0244ac3f05c137c2756c532.1920x1080.jpg?t=1552299597"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1046540/ss_393564d2df9fef53e0244ac3f05c137c2756c532.600x338.jpg?t=1553702432",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1046540/ss_393564d2df9fef53e0244ac3f05c137c2756c532.1920x1080.jpg?t=1553702432"
                 }
             ],
+            "achievements": {
+                "total": 0
+            },
             "release_date": {
-                "coming_soon": true,
+                "coming_soon": false,
                 "date": "27 Mar, 2019"
             },
             "support_info": {
                 "url": "http://www.excalibur-games.com",
                 "email": "support@excalibur-games.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1046540/page_bg_generated_v6b.jpg?t=1552299597",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1046540/page_bg_generated_v6b.jpg?t=1553702432",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
