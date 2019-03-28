@@ -30,10 +30,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 79,
-                "final": 79,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "0,79€"
+                "final": 51,
+                "discount_percent": 35,
+                "initial_formatted": "0,79€",
+                "final_formatted": "0,51€"
             },
             "packages": [
                 333041
@@ -50,13 +50,13 @@
                     "subs": [
                         {
                             "packageid": 333041,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-35%",
                             "percent_savings": 0,
-                            "option_text": "Pull Ball - 0,79€",
+                            "option_text": "Pull Ball - <span class=\"discount_original_price\">0,79€</span> 0,51€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 79
+                            "price_in_cents_with_discount": 51
                         }
                     ]
                 }
