@@ -15,7 +15,7 @@
                 "name": "Hentai Shooter 2: World Tour"
             },
             "supported_languages": "English, French, Italian, German, Spanish - Spain, Arabic, Bulgarian, Portuguese - Brazil, Hungarian, Vietnamese, Greek, Danish, Spanish - Latin America, Traditional Chinese, Simplified Chinese, Korean, Dutch, Norwegian, Polish, Portuguese, Romanian, Russian, Thai, Turkish, Ukrainian, Finnish, Czech, Swedish, Japanese",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1052820/header.jpg?t=1553326668",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1052820/header.jpg?t=1553506162",
             "website": null,
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Microsoft Windows<br></li><li><strong>Processor:</strong> Intel Pentium III 800 MHz<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> DirectX or OpenGL compatible card<br></li><li><strong>Storage:</strong> 50 MB available space</li></ul>"
@@ -28,7 +28,40 @@
             "publishers": [
                 "КиКо"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 399,
+                "final": 239,
+                "discount_percent": 40,
+                "initial_formatted": "3,99€",
+                "final_formatted": "2,39€"
+            },
+            "packages": [
+                351348
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Hentai Shooter 2 - Art Collection",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 351348,
+                            "percent_savings_text": "-40%",
+                            "percent_savings": 0,
+                            "option_text": "Hentai Shooter 2 - Art Collection - <span class=\"discount_original_price\">3,99€</span> 2,39€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 239
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": false,
@@ -53,49 +86,49 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1052820/ss_ee55fdbf41f1353dc565716738d148dcb9824d36.600x338.jpg?t=1553326668",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1052820/ss_ee55fdbf41f1353dc565716738d148dcb9824d36.1920x1080.jpg?t=1553326668"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1052820/ss_ee55fdbf41f1353dc565716738d148dcb9824d36.600x338.jpg?t=1553506162",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1052820/ss_ee55fdbf41f1353dc565716738d148dcb9824d36.1920x1080.jpg?t=1553506162"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1052820/ss_ad12c1b6a7c9507e3f334c2ec02ce388c6cd5db4.600x338.jpg?t=1553326668",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1052820/ss_ad12c1b6a7c9507e3f334c2ec02ce388c6cd5db4.1920x1080.jpg?t=1553326668"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1052820/ss_ad12c1b6a7c9507e3f334c2ec02ce388c6cd5db4.600x338.jpg?t=1553506162",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1052820/ss_ad12c1b6a7c9507e3f334c2ec02ce388c6cd5db4.1920x1080.jpg?t=1553506162"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1052820/ss_d3654adf533135f2ee0ae4a0c1599bb6d5b43a41.600x338.jpg?t=1553326668",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1052820/ss_d3654adf533135f2ee0ae4a0c1599bb6d5b43a41.1920x1080.jpg?t=1553326668"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1052820/ss_d3654adf533135f2ee0ae4a0c1599bb6d5b43a41.600x338.jpg?t=1553506162",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1052820/ss_d3654adf533135f2ee0ae4a0c1599bb6d5b43a41.1920x1080.jpg?t=1553506162"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1052820/ss_ccae93fffb6990dcdb080a2173c8953803262637.600x338.jpg?t=1553326668",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1052820/ss_ccae93fffb6990dcdb080a2173c8953803262637.1920x1080.jpg?t=1553326668"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1052820/ss_ccae93fffb6990dcdb080a2173c8953803262637.600x338.jpg?t=1553506162",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1052820/ss_ccae93fffb6990dcdb080a2173c8953803262637.1920x1080.jpg?t=1553506162"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1052820/ss_36882009525594fda96a95e75e2eda90c74785ba.600x338.jpg?t=1553326668",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1052820/ss_36882009525594fda96a95e75e2eda90c74785ba.1920x1080.jpg?t=1553326668"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1052820/ss_36882009525594fda96a95e75e2eda90c74785ba.600x338.jpg?t=1553506162",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1052820/ss_36882009525594fda96a95e75e2eda90c74785ba.1920x1080.jpg?t=1553506162"
                 },
                 {
                     "id": 5,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1052820/ss_f2f1841c547301aa8c4cec4fec90cf45c138a7b1.600x338.jpg?t=1553326668",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1052820/ss_f2f1841c547301aa8c4cec4fec90cf45c138a7b1.1920x1080.jpg?t=1553326668"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1052820/ss_f2f1841c547301aa8c4cec4fec90cf45c138a7b1.600x338.jpg?t=1553506162",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1052820/ss_f2f1841c547301aa8c4cec4fec90cf45c138a7b1.1920x1080.jpg?t=1553506162"
                 },
                 {
                     "id": 6,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1052820/ss_202f95f069dc0e989710f0a806c8237d4168fc44.600x338.jpg?t=1553326668",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1052820/ss_202f95f069dc0e989710f0a806c8237d4168fc44.1920x1080.jpg?t=1553326668"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1052820/ss_202f95f069dc0e989710f0a806c8237d4168fc44.600x338.jpg?t=1553506162",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1052820/ss_202f95f069dc0e989710f0a806c8237d4168fc44.1920x1080.jpg?t=1553506162"
                 }
             ],
             "release_date": {
-                "coming_soon": true,
+                "coming_soon": false,
                 "date": "25 Mar, 2019"
             },
             "support_info": {
                 "url": "",
                 "email": "vidon@inbox.lv"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1052820/page_bg_generated_v6b.jpg?t=1553326668",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1052820/page_bg_generated_v6b.jpg?t=1553506162",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
