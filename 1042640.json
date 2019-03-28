@@ -32,10 +32,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 1679,
-                "final": 1511,
-                "discount_percent": 10,
-                "initial_formatted": "16,79€",
-                "final_formatted": "15,11€"
+                "final": 1679,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "16,79€"
             },
             "packages": [
                 347358
@@ -52,13 +52,13 @@
                     "subs": [
                         {
                             "packageid": 347358,
-                            "percent_savings_text": "-10%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "A Clockwork Ley-Line - Complete Soundtrack - <span class=\"discount_original_price\">16,79€</span> 15,11€",
+                            "option_text": "A Clockwork Ley-Line - Complete Soundtrack - 16,79€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1511
+                            "price_in_cents_with_discount": 1679
                         }
                     ]
                 }
