@@ -15,7 +15,7 @@
                 "name": "Song Animals"
             },
             "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1036220/header.jpg?t=1553164276",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1036220/header.jpg?t=1553564336",
             "website": null,
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP<br></li><li><strong>Processor:</strong> 500 MHz<br></li><li><strong>Memory:</strong> 128 MB RAM<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>",
@@ -29,7 +29,40 @@
             "publishers": [
                 "Myshkin Entertainment"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 159,
+                "final": 119,
+                "discount_percent": 25,
+                "initial_formatted": "1,59€",
+                "final_formatted": "1,19€"
+            },
+            "packages": [
+                344973
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Song Animals - Collector's Edition",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 344973,
+                            "percent_savings_text": "-25%",
+                            "percent_savings": 0,
+                            "option_text": "Song Animals - Collector's Edition - <span class=\"discount_original_price\">1,59€</span> 1,19€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 119
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": false,
@@ -58,34 +91,34 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1036220/ss_470a73319acda9a77f05eb9e117e9fbf21cc8983.600x338.jpg?t=1553164276",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1036220/ss_470a73319acda9a77f05eb9e117e9fbf21cc8983.1920x1080.jpg?t=1553164276"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1036220/ss_470a73319acda9a77f05eb9e117e9fbf21cc8983.600x338.jpg?t=1553564336",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1036220/ss_470a73319acda9a77f05eb9e117e9fbf21cc8983.1920x1080.jpg?t=1553564336"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1036220/ss_3f4f9c5941699fc1afc4147161975b3f787e00d2.600x338.jpg?t=1553164276",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1036220/ss_3f4f9c5941699fc1afc4147161975b3f787e00d2.1920x1080.jpg?t=1553164276"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1036220/ss_3f4f9c5941699fc1afc4147161975b3f787e00d2.600x338.jpg?t=1553564336",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1036220/ss_3f4f9c5941699fc1afc4147161975b3f787e00d2.1920x1080.jpg?t=1553564336"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1036220/ss_27fe8780439e9ecb97fc212412319baddb98d70b.600x338.jpg?t=1553164276",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1036220/ss_27fe8780439e9ecb97fc212412319baddb98d70b.1920x1080.jpg?t=1553164276"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1036220/ss_27fe8780439e9ecb97fc212412319baddb98d70b.600x338.jpg?t=1553564336",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1036220/ss_27fe8780439e9ecb97fc212412319baddb98d70b.1920x1080.jpg?t=1553564336"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1036220/ss_15f545c7e46c753529ed2eca7ba2cda5e3ce4e36.600x338.jpg?t=1553164276",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1036220/ss_15f545c7e46c753529ed2eca7ba2cda5e3ce4e36.1920x1080.jpg?t=1553164276"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1036220/ss_15f545c7e46c753529ed2eca7ba2cda5e3ce4e36.600x338.jpg?t=1553564336",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1036220/ss_15f545c7e46c753529ed2eca7ba2cda5e3ce4e36.1920x1080.jpg?t=1553564336"
                 }
             ],
             "release_date": {
-                "coming_soon": true,
+                "coming_soon": false,
                 "date": "25 Mar, 2019"
             },
             "support_info": {
                 "url": "www.myshkin.net",
                 "email": "edwin.montgomery@gmail.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1036220/page_bg_generated_v6b.jpg?t=1553164276",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1036220/page_bg_generated_v6b.jpg?t=1553564336",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
