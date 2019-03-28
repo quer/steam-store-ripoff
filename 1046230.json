@@ -11,7 +11,7 @@
             "about_the_game": "Soccer Player Simulator – a physics-based soccer simulator. The main feature of the game is the unpredictable behavior of the players on the pitch. However, you should keep in mind that not only the opponent team’s players are going to faff around but your own as well, because their main task is not to score a goal but just to kick the ball as strong as they can, and they do not really bother where it is going to fly then. Besides, sometimes the players do not scruple to hit one another, and you can act in the same way too. And if you neutralize the opponent's player, their team will become weaker so you will have more chances to win. The main objective is to score 15 goals to win the match. You can use any kind of dirty tricks, for there are no rules in this game.",
             "short_description": "Soccer Player Simulator – a physics-based soccer simulator. The main feature of the game is the unpredictable behavior of the players on the pitch.",
             "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1046230/header.jpg?t=1553171300",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1046230/header.jpg?t=1553723878",
             "website": null,
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP, 7, 8, 10<br></li><li><strong>Processor:</strong> Dual Core 2.4 GHz<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> GeForce GTX 550<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>",
@@ -25,7 +25,40 @@
             "publishers": [
                 "Kiddy"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 79,
+                "final": 67,
+                "discount_percent": 15,
+                "initial_formatted": "0,79€",
+                "final_formatted": "0,67€"
+            },
+            "packages": [
+                348753
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Soccer Player Simulator",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 348753,
+                            "percent_savings_text": "-15%",
+                            "percent_savings": 0,
+                            "option_text": "Soccer Player Simulator - <span class=\"discount_original_price\">0,79€</span> 0,67€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 67
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": false,
@@ -54,49 +87,61 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1046230/ss_feb9ac231a501242686c03305481382ff2ab4b85.600x338.jpg?t=1553171300",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1046230/ss_feb9ac231a501242686c03305481382ff2ab4b85.1920x1080.jpg?t=1553171300"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1046230/ss_feb9ac231a501242686c03305481382ff2ab4b85.600x338.jpg?t=1553723878",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1046230/ss_feb9ac231a501242686c03305481382ff2ab4b85.1920x1080.jpg?t=1553723878"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1046230/ss_89cd36fbd263921299683d6f4815b7317a5bc322.600x338.jpg?t=1553171300",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1046230/ss_89cd36fbd263921299683d6f4815b7317a5bc322.1920x1080.jpg?t=1553171300"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1046230/ss_89cd36fbd263921299683d6f4815b7317a5bc322.600x338.jpg?t=1553723878",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1046230/ss_89cd36fbd263921299683d6f4815b7317a5bc322.1920x1080.jpg?t=1553723878"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1046230/ss_ab87e953a65e6fbe3b9fc857d69ee5f0b12f74f0.600x338.jpg?t=1553171300",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1046230/ss_ab87e953a65e6fbe3b9fc857d69ee5f0b12f74f0.1920x1080.jpg?t=1553171300"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1046230/ss_ab87e953a65e6fbe3b9fc857d69ee5f0b12f74f0.600x338.jpg?t=1553723878",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1046230/ss_ab87e953a65e6fbe3b9fc857d69ee5f0b12f74f0.1920x1080.jpg?t=1553723878"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1046230/ss_4aacf5e390ceac4f48830c7df371d7399220928f.600x338.jpg?t=1553171300",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1046230/ss_4aacf5e390ceac4f48830c7df371d7399220928f.1920x1080.jpg?t=1553171300"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1046230/ss_4aacf5e390ceac4f48830c7df371d7399220928f.600x338.jpg?t=1553723878",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1046230/ss_4aacf5e390ceac4f48830c7df371d7399220928f.1920x1080.jpg?t=1553723878"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1046230/ss_3c85833646199d98a66d0d5e1411b86b7d91467e.600x338.jpg?t=1553171300",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1046230/ss_3c85833646199d98a66d0d5e1411b86b7d91467e.1920x1080.jpg?t=1553171300"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1046230/ss_3c85833646199d98a66d0d5e1411b86b7d91467e.600x338.jpg?t=1553723878",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1046230/ss_3c85833646199d98a66d0d5e1411b86b7d91467e.1920x1080.jpg?t=1553723878"
                 },
                 {
                     "id": 5,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1046230/ss_715a42014bc360f835b5ed74f8f7ccf3f4b658b1.600x338.jpg?t=1553171300",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1046230/ss_715a42014bc360f835b5ed74f8f7ccf3f4b658b1.1920x1080.jpg?t=1553171300"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1046230/ss_715a42014bc360f835b5ed74f8f7ccf3f4b658b1.600x338.jpg?t=1553723878",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1046230/ss_715a42014bc360f835b5ed74f8f7ccf3f4b658b1.1920x1080.jpg?t=1553723878"
                 },
                 {
                     "id": 6,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1046230/ss_8047f4338af2d908bbfa72f9a42972b87cf749b0.600x338.jpg?t=1553171300",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1046230/ss_8047f4338af2d908bbfa72f9a42972b87cf749b0.1920x1080.jpg?t=1553171300"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1046230/ss_8047f4338af2d908bbfa72f9a42972b87cf749b0.600x338.jpg?t=1553723878",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1046230/ss_8047f4338af2d908bbfa72f9a42972b87cf749b0.1920x1080.jpg?t=1553723878"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 256746246,
+                    "name": "Trailer",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256746246/movie.293x165.jpg?t=1553523664",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256746246/movie480.webm?t=1553523664",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256746246/movie_max.webm?t=1553523664"
+                    },
+                    "highlight": true
                 }
             ],
             "release_date": {
-                "coming_soon": true,
+                "coming_soon": false,
                 "date": "27 Mar, 2019"
             },
             "support_info": {
                 "url": "",
                 "email": "jooomly@gmail.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1046230/page_bg_generated_v6b.jpg?t=1553171300",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1046230/page_bg_generated_v6b.jpg?t=1553723878",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
