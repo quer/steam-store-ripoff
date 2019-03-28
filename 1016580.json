@@ -7,15 +7,15 @@
             "steam_appid": 1016580,
             "required_age": 0,
             "is_free": true,
-            "detailed_description": "",
-            "about_the_game": "",
-            "short_description": "",
+            "detailed_description": "This is a Mahjong game from china.It is not four people game that is traditional chinese Mahjong game ,but it is two people game . <br />\r\nThis game has two mode:local game mode and network game mode.in local game mode,player will get coins by a virtual competitor and player's level up.<br />\r\nin network game mode,player will play Mahjong game with another player from internet.<br />\r\nIf you wanna learn play Mahjong ,And this game will make you become an expert .",
+            "about_the_game": "This is a Mahjong game from china.It is not four people game that is traditional chinese Mahjong game ,but it is two people game . <br />\r\nThis game has two mode:local game mode and network game mode.in local game mode,player will get coins by a virtual competitor and player's level up.<br />\r\nin network game mode,player will play Mahjong game with another player from internet.<br />\r\nIf you wanna learn play Mahjong ,And this game will make you become an expert .",
+            "short_description": "This is a Mahjong game from china.It is interesting that is used two players game mode.Game scoring rules are based on Chinese official scoring.",
             "fullgame": {
                 "appid": "892460",
                 "name": "TwoPlay Mahjong"
             },
-            "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1016580/header.jpg?t=1553245965",
+            "supported_languages": "English<strong>*</strong>, Simplified Chinese<strong>*</strong><br><strong>*</strong>languages with full audio support",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1016580/header.jpg?t=1553763958",
             "website": null,
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 7 Service Pack 1<br></li><li><strong>Processor:</strong> PII 500<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>",
@@ -58,6 +58,10 @@
                 {
                     "id": 15,
                     "description": "Stats"
+                },
+                {
+                    "id": 16,
+                    "description": "Includes Source SDK"
                 }
             ],
             "genres": [
@@ -74,6 +78,33 @@
                     "description": "Strategy"
                 }
             ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1016580/ss_012c0e59aa301e52cb94250c1de1d27c887822e4.600x338.jpg?t=1553763958",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1016580/ss_012c0e59aa301e52cb94250c1de1d27c887822e4.1920x1080.jpg?t=1553763958"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1016580/ss_fdb25f974266a18a3d1195a583c237ada57b233f.600x338.jpg?t=1553763958",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1016580/ss_fdb25f974266a18a3d1195a583c237ada57b233f.1920x1080.jpg?t=1553763958"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1016580/ss_71721851a9cd7cd15df66ddbd64dad15bc819726.600x338.jpg?t=1553763958",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1016580/ss_71721851a9cd7cd15df66ddbd64dad15bc819726.1920x1080.jpg?t=1553763958"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1016580/ss_bbda7569b817ea94dc99f73fa779c336fd49023d.600x338.jpg?t=1553763958",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1016580/ss_bbda7569b817ea94dc99f73fa779c336fd49023d.1920x1080.jpg?t=1553763958"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1016580/ss_02009059e213e85b4dcc780cd56a2b7b3747f9de.600x338.jpg?t=1553763958",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1016580/ss_02009059e213e85b4dcc780cd56a2b7b3747f9de.1920x1080.jpg?t=1553763958"
+                }
+            ],
             "release_date": {
                 "coming_soon": false,
                 "date": "22 Mar, 2019"
@@ -82,7 +113,7 @@
                 "url": "",
                 "email": "yuexiaoll@163.com"
             },
-            "background": "",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1016580/page_bg_generated_v6b.jpg?t=1553763958",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
