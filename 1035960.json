@@ -11,7 +11,7 @@
             "about_the_game": "Begin your work as a Recycler using the brand new tool Recycler's Terminal, it offers you quite a lot functions to make your work easier<br><ul class=\"bb_ul\"><li>Recycle five different recycled resource from recycle points<br></li><li>Produce certain products by hand or workbench using recycled resources<br></li><li>Develop and expand, buy new equipments including Production Line will make every thing different<br></li><li>Buy or sell your product through the trade market, you can even manipulate it!<br></li><li>By spending a little more time, you may get rare collections from recycling works<br></li><li>Complete your own mission, and more other missions with rewards</li></ul>And what your goal is? That's not important, the real important idea is that recycling resources will benefit the future of human race, hope that one day we can recycle most of the resource in waste.",
             "short_description": "To be a recycler newly recruited, you have got your major assistent of recycle work, the Recycler's Terminal. Please use it to do your job, recycle resources, manufacture products, trade on the market, complete mission and so on.",
             "supported_languages": "Simplified Chinese",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1035960/header.jpg?t=1552606687",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1035960/header.jpg?t=1553783987",
             "website": null,
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> <br></li><li><strong>Processor:</strong> <br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> <br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 100 MB available space<br></li><li><strong>Sound Card:</strong> </li></ul>",
@@ -25,7 +25,40 @@
             "publishers": [
                 "Roach Game Studio"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 79,
+                "final": 63,
+                "discount_percent": 20,
+                "initial_formatted": "0,79€",
+                "final_formatted": "0,63€"
+            },
+            "packages": [
+                344822
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Recycler's Terminal",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 344822,
+                            "percent_savings_text": "-20%",
+                            "percent_savings": 0,
+                            "option_text": "Recycler's Terminal - <span class=\"discount_original_price\">0,79€</span> 0,63€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 63
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": false,
@@ -50,28 +83,28 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1035960/ss_a975aa2d1196ec6ea3ad85a414f9d1f784aa477d.600x338.jpg?t=1552606687",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1035960/ss_a975aa2d1196ec6ea3ad85a414f9d1f784aa477d.1920x1080.jpg?t=1552606687"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1035960/ss_a975aa2d1196ec6ea3ad85a414f9d1f784aa477d.600x338.jpg?t=1553783987",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1035960/ss_a975aa2d1196ec6ea3ad85a414f9d1f784aa477d.1920x1080.jpg?t=1553783987"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1035960/ss_bee5e319f8c02d986c7bb369fa604a68feb3e91c.600x338.jpg?t=1552606687",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1035960/ss_bee5e319f8c02d986c7bb369fa604a68feb3e91c.1920x1080.jpg?t=1552606687"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1035960/ss_bee5e319f8c02d986c7bb369fa604a68feb3e91c.600x338.jpg?t=1553783987",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1035960/ss_bee5e319f8c02d986c7bb369fa604a68feb3e91c.1920x1080.jpg?t=1553783987"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1035960/ss_27b95f48f77d359a7def62a3b720e6f39bc56bd4.600x338.jpg?t=1552606687",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1035960/ss_27b95f48f77d359a7def62a3b720e6f39bc56bd4.1920x1080.jpg?t=1552606687"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1035960/ss_27b95f48f77d359a7def62a3b720e6f39bc56bd4.600x338.jpg?t=1553783987",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1035960/ss_27b95f48f77d359a7def62a3b720e6f39bc56bd4.1920x1080.jpg?t=1553783987"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1035960/ss_dce19d7dcd2cdf28a1c1f755c2f1630abbfa4abf.600x338.jpg?t=1552606687",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1035960/ss_dce19d7dcd2cdf28a1c1f755c2f1630abbfa4abf.1920x1080.jpg?t=1552606687"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1035960/ss_dce19d7dcd2cdf28a1c1f755c2f1630abbfa4abf.600x338.jpg?t=1553783987",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1035960/ss_dce19d7dcd2cdf28a1c1f755c2f1630abbfa4abf.1920x1080.jpg?t=1553783987"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1035960/ss_67962f7d81604bddc89524830492fee35351f605.600x338.jpg?t=1552606687",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1035960/ss_67962f7d81604bddc89524830492fee35351f605.1920x1080.jpg?t=1552606687"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1035960/ss_67962f7d81604bddc89524830492fee35351f605.600x338.jpg?t=1553783987",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1035960/ss_67962f7d81604bddc89524830492fee35351f605.1920x1080.jpg?t=1553783987"
                 }
             ],
             "movies": [
@@ -87,14 +120,14 @@
                 }
             ],
             "release_date": {
-                "coming_soon": true,
+                "coming_soon": false,
                 "date": "28 Mar, 2019"
             },
             "support_info": {
                 "url": "",
                 "email": "luke.liu.524@outlook.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1035960/page_bg_generated_v6b.jpg?t=1552606687",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1035960/page_bg_generated_v6b.jpg?t=1553783987",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
