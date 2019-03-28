@@ -17,7 +17,7 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1036910/header.jpg?t=1552937000",
             "website": null,
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10 (x64)<br></li><li><strong>Processor:</strong> Intel Celeron 2000 MHz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> DirectX 11 aviable<br></li><li><strong>Storage:</strong> 100 MB available space<br></li><li><strong>Sound Card:</strong> DirectSound Compatible<br></li><li><strong>Additional Notes:</strong> Keyboard, Mouse</li></ul>"
+                "minimum": "<strong>Минимальные:</strong><br><ul class=\"bb_ul\"><li><strong>ОС:</strong> Windows 10 (x64)<br></li><li><strong>Процессор:</strong> Intel Celeron 2000 MHz<br></li><li><strong>Оперативная память:</strong> 2 GB ОЗУ<br></li><li><strong>Видеокарта:</strong> DirectX 11 aviable<br></li><li><strong>Место на диске:</strong> 100 MB<br></li><li><strong>Звуковая карта:</strong> DirectSound Compatible<br></li><li><strong>Дополнительно:</strong> Keyboard, Mouse</li></ul>"
             },
             "mac_requirements": [],
             "linux_requirements": [],
@@ -30,10 +30,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 79,
-                "final": 47,
-                "discount_percent": 41,
-                "initial_formatted": "0,79€",
-                "final_formatted": "0,47€"
+                "final": 79,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "0,79€"
             },
             "packages": [
                 345271
@@ -50,13 +50,13 @@
                     "subs": [
                         {
                             "packageid": 345271,
-                            "percent_savings_text": "-41%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "€100 - <span class=\"discount_original_price\">0,79€</span> 0,47€",
+                            "option_text": "€100 - 0,79€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 47
+                            "price_in_cents_with_discount": 79
                         }
                     ]
                 }
