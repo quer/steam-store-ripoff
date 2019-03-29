@@ -11,7 +11,7 @@
             "about_the_game": "A classic runner is waiting for you, in which you will visit dangerous streets and ordeals. The character is in the territory contaminated with radiation, so in order to survive, you will have to collect an antidote! Pass the strength test and exceed your results to see the whole dangerous world of our game!",
             "short_description": "A classic runner is waiting for you, in which you will visit dangerous streets and ordeals. The character is in the territory contaminated with radiation, so in order to survive, you will have to collect an antidote! Pass the strength test and exceed your results to see the whole dangerous world of our game!",
             "supported_languages": "English",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/295650/header.jpg?t=1552665676",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/295650/header.jpg?t=1553688556",
             "website": null,
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows Vista, Windows 7, Windows 8<br></li><li><strong>Processor:</strong> Intel Core Duo, 2.4 GHz / AMD Athlon X2, 2.8 GHz<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce 8800 GTS / AMD Radeon 3850<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 715 MB available space</li></ul>",
@@ -29,7 +29,40 @@
             "publishers": [
                 "PPC"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 79,
+                "final": 47,
+                "discount_percent": 41,
+                "initial_formatted": "0,79€",
+                "final_formatted": "0,47€"
+            },
+            "packages": [
+                42574
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Streng Check",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 42574,
+                            "percent_savings_text": "-41%",
+                            "percent_savings": 0,
+                            "option_text": "Streng Check - <span class=\"discount_original_price\">0,79€</span> 0,47€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 47
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": false,
@@ -62,28 +95,28 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/295650/ss_658eecb8752ea91fbaa47c689c2a8f56ad9a8141.600x338.jpg?t=1552665676",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/295650/ss_658eecb8752ea91fbaa47c689c2a8f56ad9a8141.1920x1080.jpg?t=1552665676"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/295650/ss_658eecb8752ea91fbaa47c689c2a8f56ad9a8141.600x338.jpg?t=1553688556",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/295650/ss_658eecb8752ea91fbaa47c689c2a8f56ad9a8141.1920x1080.jpg?t=1553688556"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/295650/ss_20ebdb6b4a4cbe6a20728d58db4d2f369dcf0ec3.600x338.jpg?t=1552665676",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/295650/ss_20ebdb6b4a4cbe6a20728d58db4d2f369dcf0ec3.1920x1080.jpg?t=1552665676"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/295650/ss_20ebdb6b4a4cbe6a20728d58db4d2f369dcf0ec3.600x338.jpg?t=1553688556",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/295650/ss_20ebdb6b4a4cbe6a20728d58db4d2f369dcf0ec3.1920x1080.jpg?t=1553688556"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/295650/ss_4f75417276b68e21607094650fcd611ab6617f97.600x338.jpg?t=1552665676",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/295650/ss_4f75417276b68e21607094650fcd611ab6617f97.1920x1080.jpg?t=1552665676"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/295650/ss_4f75417276b68e21607094650fcd611ab6617f97.600x338.jpg?t=1553688556",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/295650/ss_4f75417276b68e21607094650fcd611ab6617f97.1920x1080.jpg?t=1553688556"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/295650/ss_4bd4a2c77fe93c666565581a7cd0f9f846741640.600x338.jpg?t=1552665676",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/295650/ss_4bd4a2c77fe93c666565581a7cd0f9f846741640.1920x1080.jpg?t=1552665676"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/295650/ss_4bd4a2c77fe93c666565581a7cd0f9f846741640.600x338.jpg?t=1553688556",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/295650/ss_4bd4a2c77fe93c666565581a7cd0f9f846741640.1920x1080.jpg?t=1553688556"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/295650/ss_2f4e94a2cd84bfe2c26adfa1a86e14ef2f563728.600x338.jpg?t=1552665676",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/295650/ss_2f4e94a2cd84bfe2c26adfa1a86e14ef2f563728.1920x1080.jpg?t=1552665676"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/295650/ss_2f4e94a2cd84bfe2c26adfa1a86e14ef2f563728.600x338.jpg?t=1553688556",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/295650/ss_2f4e94a2cd84bfe2c26adfa1a86e14ef2f563728.1920x1080.jpg?t=1553688556"
                 }
             ],
             "movies": [
@@ -98,15 +131,18 @@
                     "highlight": true
                 }
             ],
+            "achievements": {
+                "total": 0
+            },
             "release_date": {
-                "coming_soon": true,
-                "date": "1 Apr, 2019"
+                "coming_soon": false,
+                "date": "27 Mar, 2019"
             },
             "support_info": {
                 "url": "",
                 "email": "4rosegames@gmail.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/295650/page_bg_generated_v6b.jpg?t=1552665676",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/295650/page_bg_generated_v6b.jpg?t=1553688556",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
