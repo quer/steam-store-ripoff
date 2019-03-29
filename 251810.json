@@ -38,15 +38,15 @@
             ],
             "price_overview": {
                 "currency": "EUR",
-                "initial": 9299,
-                "final": 9299,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "92,99€"
+                "initial": 27899,
+                "final": 6974,
+                "discount_percent": 75,
+                "initial_formatted": "278,99€",
+                "final_formatted": "69,74€"
             },
             "packages": [
-                30777,
-                42346
+                42346,
+                30777
             ],
             "package_groups": [
                 {
@@ -59,24 +59,24 @@
                     "is_recurring_subscription": "false",
                     "subs": [
                         {
+                            "packageid": 42346,
+                            "percent_savings_text": "-75%",
+                            "percent_savings": 0,
+                            "option_text": "Leadwerks Game Engine: Team 4-Pack - <span class=\"discount_original_price\">278,99€</span> 69,74€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 6974
+                        },
+                        {
                             "packageid": 30777,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Leadwerks Game Engine - 92,99€",
+                            "option_text": "Leadwerks Game Engine - 84,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 9299
-                        },
-                        {
-                            "packageid": 42346,
-                            "percent_savings_text": "",
-                            "percent_savings": 0,
-                            "option_text": "Leadwerks Game Engine: Team 4-Pack - 278,99€",
-                            "option_description": "",
-                            "can_get_free_license": "0",
-                            "is_free_license": false,
-                            "price_in_cents_with_discount": 27899
+                            "price_in_cents_with_discount": 8499
                         }
                     ]
                 }
