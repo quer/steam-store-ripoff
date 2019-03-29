@@ -56,10 +56,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 699,
-                "final": 174,
-                "discount_percent": 75,
-                "initial_formatted": "6,99€",
-                "final_formatted": "1,74€"
+                "final": 699,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "6,99€"
             },
             "packages": [
                 38934,
@@ -77,23 +77,23 @@
                     "subs": [
                         {
                             "packageid": 38934,
-                            "percent_savings_text": "-75%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "100% Orange Juice - <span class=\"discount_original_price\">6,99€</span> 1,74€",
+                            "option_text": "100% Orange Juice - 6,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 174
+                            "price_in_cents_with_discount": 699
                         },
                         {
                             "packageid": 43177,
-                            "percent_savings_text": "-60%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "100% Orange Juice - 4 Pack - <span class=\"discount_original_price\">14,99€</span> 5,99€",
+                            "option_text": "100% Orange Juice - 4 Pack - 14,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 599
+                            "price_in_cents_with_discount": 1499
                         }
                     ]
                 }
@@ -222,7 +222,7 @@
                 }
             ],
             "recommendations": {
-                "total": 6848
+                "total": 6861
             },
             "achievements": {
                 "total": 152,
