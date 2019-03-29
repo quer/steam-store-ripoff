@@ -32,10 +32,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 799,
-                "final": 799,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "7,99€"
+                "final": 399,
+                "discount_percent": 50,
+                "initial_formatted": "7,99€",
+                "final_formatted": "3,99€"
             },
             "packages": [
                 18604,
@@ -53,23 +53,23 @@
                     "subs": [
                         {
                             "packageid": 18604,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-50%",
                             "percent_savings": 0,
-                            "option_text": "Killing Floor - Golden Weapons Pack - 7,99€",
+                            "option_text": "Killing Floor - Golden Weapons Pack - <span class=\"discount_original_price\">7,99€</span> 3,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 799
+                            "price_in_cents_with_discount": 399
                         },
                         {
                             "packageid": 52351,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-50%",
                             "percent_savings": 0,
-                            "option_text": "Killing Floor - Weapons Bundle - 27,99€",
+                            "option_text": "Killing Floor - Weapons Bundle - <span class=\"discount_original_price\">27,99€</span> 13,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 2799
+                            "price_in_cents_with_discount": 1399
                         }
                     ]
                 }
