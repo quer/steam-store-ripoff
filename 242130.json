@@ -15,8 +15,8 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/242130/header.jpg?t=1468498027",
             "website": "http://time-symmetry.com/",
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP SP3, Windows Vista SP2, Windows 7, Windows 8<br></li><li><strong>Processor:</strong> 1 Ghz<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> 128 MB DirectX®–compliant, Shader 2.0–enabled video card<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 3 GB available space</li></ul>",
-                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP SP3, Windows Vista SP2, Windows 7, Windows 8<br></li><li><strong>Processor:</strong> 3 Ghz Dual Core<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> 512 MB DirectX®–compliant, Shader 3.0–enabled video card<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 3 GB available space</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>İşletim Sistemi:</strong> Windows XP SP3, Windows Vista SP2, Windows 7, Windows 8<br></li><li><strong>İşlemci:</strong> 1 Ghz<br></li><li><strong>Bellek:</strong> 1 GB RAM<br></li><li><strong>Ekran Kartı:</strong> 128 MB DirectX®–compliant, Shader 2.0–enabled video card<br></li><li><strong>DirectX:</strong> Sürüm 9.0c<br></li><li><strong>Ağ:</strong> Genişbant İnternet bağlantısı<br></li><li><strong>Depolama:</strong> 3 GB kullanılabilir alan</li></ul>",
+                "recommended": "<strong>Önerilen:</strong><br><ul class=\"bb_ul\"><li><strong>İşletim Sistemi:</strong> Windows XP SP3, Windows Vista SP2, Windows 7, Windows 8<br></li><li><strong>İşlemci:</strong> 3 Ghz Dual Core<br></li><li><strong>Bellek:</strong> 4 GB RAM<br></li><li><strong>Ekran Kartı:</strong> 512 MB DirectX®–compliant, Shader 3.0–enabled video card<br></li><li><strong>DirectX:</strong> Sürüm 9.0c<br></li><li><strong>Ağ:</strong> Genişbant İnternet bağlantısı<br></li><li><strong>Depolama:</strong> 3 GB kullanılabilir alan</li></ul>"
             },
             "mac_requirements": [],
             "linux_requirements": [],
@@ -30,10 +30,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 2299,
-                "final": 413,
-                "discount_percent": 82,
-                "initial_formatted": "22,99€",
-                "final_formatted": "4,13€"
+                "final": 2299,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "22,99€"
             },
             "packages": [
                 48994
@@ -50,13 +50,13 @@
                     "subs": [
                         {
                             "packageid": 48994,
-                            "percent_savings_text": "-82%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Vector Thrust - <span class=\"discount_original_price\">22,99€</span> 4,13€",
+                            "option_text": "Vector Thrust - 22,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 413
+                            "price_in_cents_with_discount": 2299
                         }
                     ]
                 }
