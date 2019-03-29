@@ -16,13 +16,13 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/253650/header.jpg?t=1447358716",
             "website": "http://games.forever-entertainment.com/sparkle-2-evo",
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong> Dual core from Intel or AMD at 2.0 GHz<br></li><li><strong>Memory:</strong> 2 MB RAM<br></li><li><strong>Graphics:</strong> nVidia GeForce 6800, ATI/AMD Radeaon HD2600<br></li><li><strong>Storage:</strong> 180 MB available space</li></ul>"
+                "minimum": "<strong>Минимальные:</strong><br><ul class=\"bb_ul\"><li><strong>ОС:</strong> Windows 7<br></li><li><strong>Процессор:</strong> Dual core from Intel or AMD at 2.0 GHz<br></li><li><strong>Оперативная память:</strong> 2 MB ОЗУ<br></li><li><strong>Видеокарта:</strong> nVidia GeForce 6800, ATI/AMD Radeaon HD2600<br></li><li><strong>Место на диске:</strong> 180 MB</li></ul>"
             },
             "mac_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OSX 10<br></li><li><strong>Processor:</strong> Intel Dual Core<br></li><li><strong>Memory:</strong> 2 MB RAM<br></li><li><strong>Graphics:</strong> nVidia 320M or higher, or Radeon 7000 or higher, or Intel HD 3000 or higher<br></li><li><strong>Storage:</strong> 180 MB available space</li></ul>"
+                "minimum": "<strong>Минимальные:</strong><br><ul class=\"bb_ul\"><li><strong>ОС:</strong> OSX 10<br></li><li><strong>Процессор:</strong> Intel Dual Core<br></li><li><strong>Оперативная память:</strong> 2 MB ОЗУ<br></li><li><strong>Видеокарта:</strong> nVidia 320M or higher, or Radeon 7000 or higher, or Intel HD 3000 or higher<br></li><li><strong>Место на диске:</strong> 180 MB</li></ul>"
             },
             "linux_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 12.4<br></li><li><strong>Processor:</strong> 2 GHz<br></li><li><strong>Memory:</strong> 180 MB RAM<br></li><li><strong>Graphics:</strong> OpenGl 2.1 compatible<br></li><li><strong>Storage:</strong> 180 MB available space</li></ul>"
+                "minimum": "<strong>Минимальные:</strong><br><ul class=\"bb_ul\"><li><strong>ОС:</strong> Ubuntu 12.4<br></li><li><strong>Процессор:</strong> 2 GHz<br></li><li><strong>Оперативная память:</strong> 180 MB ОЗУ<br></li><li><strong>Видеокарта:</strong> OpenGl 2.1 compatible<br></li><li><strong>Место на диске:</strong> 180 MB</li></ul>"
             },
             "publishers": [
                 "Forever Entertainment S. A."
@@ -30,10 +30,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 499,
-                "final": 499,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "4,99€"
+                "final": 49,
+                "discount_percent": 90,
+                "initial_formatted": "4,99€",
+                "final_formatted": "0,49€"
             },
             "packages": [
                 31054
@@ -50,13 +50,13 @@
                     "subs": [
                         {
                             "packageid": 31054,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-90%",
                             "percent_savings": 0,
-                            "option_text": "Sparkle 2 Evo - 4,99€",
+                            "option_text": "Sparkle 2 Evo - <span class=\"discount_original_price\">4,99€</span> 0,49€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 499
+                            "price_in_cents_with_discount": 49
                         }
                     ]
                 }
@@ -160,7 +160,7 @@
                 }
             ],
             "recommendations": {
-                "total": 1497
+                "total": 1496
             },
             "achievements": {
                 "total": 22,
