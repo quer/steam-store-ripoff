@@ -29,11 +29,11 @@
             ],
             "price_overview": {
                 "currency": "EUR",
-                "initial": 999,
-                "final": 999,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "9,99€"
+                "initial": 2299,
+                "final": 344,
+                "discount_percent": 85,
+                "initial_formatted": "22,99€",
+                "final_formatted": "3,44€"
             },
             "packages": [
                 35502,
@@ -61,13 +61,13 @@
                         },
                         {
                             "packageid": 66219,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-85%",
                             "percent_savings": 0,
-                            "option_text": "Lucius Bundle - 22,99€",
+                            "option_text": "Lucius Bundle - <span class=\"discount_original_price\">22,99€</span> 3,44€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 2299
+                            "price_in_cents_with_discount": 344
                         }
                     ]
                 }
@@ -200,7 +200,7 @@
                 }
             ],
             "recommendations": {
-                "total": 4650
+                "total": 4646
             },
             "achievements": {
                 "total": 58,
