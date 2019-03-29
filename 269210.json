@@ -57,15 +57,15 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 599,
-                "final": 89,
-                "discount_percent": 85,
-                "initial_formatted": "5,99€",
-                "final_formatted": "0,89€"
+                "final": 599,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "5,99€"
             },
             "packages": [
                 35704,
-                47820,
-                308381
+                308381,
+                47820
             ],
             "package_groups": [
                 {
@@ -79,23 +79,13 @@
                     "subs": [
                         {
                             "packageid": 35704,
-                            "percent_savings_text": "-85%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Hero Siege - <span class=\"discount_original_price\">5,99€</span> 0,89€",
+                            "option_text": "Hero Siege - 5,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 89
-                        },
-                        {
-                            "packageid": 47820,
-                            "percent_savings_text": "-80%",
-                            "percent_savings": 0,
-                            "option_text": "Hero Siege - 4 Pack - <span class=\"discount_original_price\">17,99€</span> 3,59€",
-                            "option_description": "",
-                            "can_get_free_license": "0",
-                            "is_free_license": false,
-                            "price_in_cents_with_discount": 359
+                            "price_in_cents_with_discount": 599
                         },
                         {
                             "packageid": 308381,
@@ -106,6 +96,16 @@
                             "can_get_free_license": "0",
                             "is_free_license": false,
                             "price_in_cents_with_discount": 599
+                        },
+                        {
+                            "packageid": 47820,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Hero Siege - 4 Pack - 17,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 1799
                         }
                     ]
                 }
@@ -236,7 +236,7 @@
                 }
             ],
             "recommendations": {
-                "total": 13991
+                "total": 14026
             },
             "achievements": {
                 "total": 57,
