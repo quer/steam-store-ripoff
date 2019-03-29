@@ -19,8 +19,8 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/259253/header.jpg?t=1450405721",
             "website": "http://www.callofduty.com",
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 64-Bit / Windows 8 64-Bit<br></li><li><strong>Processor:</strong> Intel® Core™ 2 Duo E8200 2.66 GHZ / AMD Phenom™ X3 8750 2.4 GHZ or better<br></li><li><strong>Memory:</strong> 6 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA® GeForce™ GTX GTS 450 / ATI® Radeon™ HD 5870 or better<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 40 GB available space<br></li><li><strong>Sound Card:</strong> DirectX Compatible Sound Card<br></li><li><strong>Additional Notes:</strong> Broadband connection and service required for Multiplayer Connectivity. Internet connection required for activation.</li></ul>",
-                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 64-Bit / Windows 8 64-Bit<br></li><li><strong>Processor:</strong> Intel® Core™ i5 - 680 @ 3.6GHz<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA® GeForce™ GTX 760 @ 4GB<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 40 GB available space<br></li><li><strong>Sound Card:</strong> DirectX Compatible Sound Card<br></li><li><strong>Additional Notes:</strong> Broadband connection and service required for Multiplayer Connectivity. Internet connection required for activation.</li></ul>"
+                "minimum": "<strong>最低配備:</strong><br><ul class=\"bb_ul\"><li><strong>作業系統:</strong> Windows 7 64-Bit / Windows 8 64-Bit<br></li><li><strong>處理器:</strong> Intel® Core™ 2 Duo E8200 2.66 GHZ / AMD Phenom™ X3 8750 2.4 GHZ or better<br></li><li><strong>記憶體:</strong> 6 GB 記憶體<br></li><li><strong>顯示卡:</strong> NVIDIA® GeForce™ GTX GTS 450 / ATI® Radeon™ HD 5870 or better<br></li><li><strong>DirectX:</strong> 版本：11<br></li><li><strong>網路:</strong> 寬頻網際網路連線<br></li><li><strong>儲存空間:</strong> 40 GB 可用空間<br></li><li><strong>音效卡:</strong> DirectX Compatible Sound Card<br></li><li><strong>備註:</strong> Broadband connection and service required for Multiplayer Connectivity. Internet connection required for activation.</li></ul>",
+                "recommended": "<strong>建議配備:</strong><br><ul class=\"bb_ul\"><li><strong>作業系統:</strong> Windows 7 64-Bit / Windows 8 64-Bit<br></li><li><strong>處理器:</strong> Intel® Core™ i5 - 680 @ 3.6GHz<br></li><li><strong>記憶體:</strong> 8 GB 記憶體<br></li><li><strong>顯示卡:</strong> NVIDIA® GeForce™ GTX 760 @ 4GB<br></li><li><strong>DirectX:</strong> 版本：11<br></li><li><strong>網路:</strong> 寬頻網際網路連線<br></li><li><strong>儲存空間:</strong> 40 GB 可用空間<br></li><li><strong>音效卡:</strong> DirectX Compatible Sound Card<br></li><li><strong>備註:</strong> Broadband connection and service required for Multiplayer Connectivity. Internet connection required for activation.</li></ul>"
             },
             "mac_requirements": [],
             "linux_requirements": [],
@@ -34,10 +34,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 1449,
-                "final": 1449,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "14,49€"
+                "final": 941,
+                "discount_percent": 35,
+                "initial_formatted": "14,49€",
+                "final_formatted": "9,41€"
             },
             "packages": [
                 33005,
@@ -55,13 +55,13 @@
                     "subs": [
                         {
                             "packageid": 33005,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-35%",
                             "percent_savings": 0,
-                            "option_text": "Call of Duty: Ghosts - Nemesis - 14,49€",
+                            "option_text": "Call of Duty: Ghosts - Nemesis - <span class=\"discount_original_price\">14,49€</span> 9,41€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1449
+                            "price_in_cents_with_discount": 941
                         },
                         {
                             "packageid": 49997,
