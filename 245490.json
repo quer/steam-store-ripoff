@@ -24,8 +24,8 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/245490/header.jpg?t=1511961896",
             "website": "http://trials.ubi.com/",
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows Vista SP2, Windows 7 SP1, Windows 8 or Windows 8.1<br></li><li><strong>Processor:</strong> Intel Core i3 550  @ 3.2 GHz  or AMD Athlon II X4 620 @ 2.6 GHz<br></li><li><strong>Memory:</strong> 3 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTS450 or AMD Radeon HD5770 (1024MB VRAM with Shader Model 5.0 or higher)<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 8 GB available space<br></li><li><strong>Sound Card:</strong> DirectX 10.1 Compatible Sound Card<br></li><li><strong>Additional Notes:</strong> DirectX 10.1 or higher required</li></ul>",
-                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows Vista SP2, Windows 7 SP1, Windows 8 or Windows 8.1<br></li><li><strong>Processor:</strong> Intel Core i5 2400s @ 2.5 GHz or AMD Phenom II X4 955 @ 3.2 GHz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 560 Ti or better / AMD Radeon HD7850 or better<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 8 GB available space<br></li><li><strong>Sound Card:</strong> DirectX 10.1 Compatible Sound Card<br></li><li><strong>Additional Notes:</strong> DirectX 10.1 or higher required</li></ul>"
+                "minimum": "<strong>最低配置:</strong><br><ul class=\"bb_ul\"><li><strong>操作系统:</strong> Windows Vista SP2, Windows 7 SP1, Windows 8 or Windows 8.1<br></li><li><strong>处理器:</strong> Intel Core i3 550  @ 3.2 GHz  or AMD Athlon II X4 620 @ 2.6 GHz<br></li><li><strong>内存:</strong> 3 GB RAM<br></li><li><strong>图形:</strong> NVIDIA GeForce GTS450 or AMD Radeon HD5770 (1024MB VRAM with Shader Model 5.0 or higher)<br></li><li><strong>DirectX 版本:</strong> 11<br></li><li><strong>存储空间:</strong> 需要 8 GB 可用空间<br></li><li><strong>声卡:</strong> DirectX 10.1 Compatible Sound Card<br></li><li><strong>附注事项:</strong> DirectX 10.1 or higher required</li></ul>",
+                "recommended": "<strong>推荐配置:</strong><br><ul class=\"bb_ul\"><li><strong>操作系统:</strong> Windows Vista SP2, Windows 7 SP1, Windows 8 or Windows 8.1<br></li><li><strong>处理器:</strong> Intel Core i5 2400s @ 2.5 GHz or AMD Phenom II X4 955 @ 3.2 GHz<br></li><li><strong>内存:</strong> 4 GB RAM<br></li><li><strong>图形:</strong> NVIDIA GeForce GTX 560 Ti or better / AMD Radeon HD7850 or better<br></li><li><strong>DirectX 版本:</strong> 11<br></li><li><strong>存储空间:</strong> 需要 8 GB 可用空间<br></li><li><strong>声卡:</strong> DirectX 10.1 Compatible Sound Card<br></li><li><strong>附注事项:</strong> DirectX 10.1 or higher required</li></ul>"
             },
             "mac_requirements": [],
             "linux_requirements": [],
@@ -46,10 +46,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 1999,
-                "final": 599,
-                "discount_percent": 70,
-                "initial_formatted": "19,99€",
-                "final_formatted": "5,99€"
+                "final": 1999,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "19,99€"
             },
             "packages": [
                 43179,
@@ -67,23 +67,23 @@
                     "subs": [
                         {
                             "packageid": 43179,
-                            "percent_savings_text": "-70%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Trials Fusion - <span class=\"discount_original_price\">19,99€</span> 5,99€",
+                            "option_text": "Trials Fusion - 19,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 599
+                            "price_in_cents_with_discount": 1999
                         },
                         {
                             "packageid": 72929,
-                            "percent_savings_text": "-66%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Trials Fusion - The Awesome MAX Edition - <span class=\"discount_original_price\">39,99€</span> 13,59€",
+                            "option_text": "Trials Fusion - The Awesome MAX Edition - 39,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1359
+                            "price_in_cents_with_discount": 3999
                         }
                     ]
                 }
@@ -169,7 +169,7 @@
                 }
             ],
             "recommendations": {
-                "total": 1586
+                "total": 1587
             },
             "achievements": {
                 "total": 0
