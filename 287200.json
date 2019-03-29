@@ -37,10 +37,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 999,
-                "final": 799,
-                "discount_percent": 20,
-                "initial_formatted": "9,99€",
-                "final_formatted": "7,99€"
+                "final": 999,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "9,99€"
             },
             "packages": [
                 39939
@@ -57,13 +57,13 @@
                     "subs": [
                         {
                             "packageid": 39939,
-                            "percent_savings_text": "-20%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Wildlife Park 3 - <span class=\"discount_original_price\">9,99€</span> 7,99€",
+                            "option_text": "Wildlife Park 3 - 9,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 799
+                            "price_in_cents_with_discount": 999
                         }
                     ]
                 }
@@ -368,7 +368,7 @@
                 }
             ],
             "recommendations": {
-                "total": 250
+                "total": 249
             },
             "achievements": {
                 "total": 41,
