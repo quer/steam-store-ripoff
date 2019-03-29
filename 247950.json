@@ -21,8 +21,8 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/247950/header.jpg?t=1447358428",
             "website": "http://www.sacred-world.com",
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows Vista SP2 / 7 / 8<br></li><li><strong>Processor:</strong> Intel Pentium D945 (Dual Core 3400 MHz)/ AMD Athlon 64 X2 6000+ (Dual Core 3000 MHz)<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GeForce GT 610 (1024MB) / ATI Radeon 4770 (512MB)<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 25 GB available space<br></li><li><strong>Sound Card:</strong> DirectX 9.0c-compatible</li></ul>",
-                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows Vista SP2 / 7 / 8<br></li><li><strong>Processor:</strong> Intel Core i5-4430 (Quad Core 3000 MHz) / AMD Phenom 9500 (Quad Core 2200 MHz)<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GeForce GT 640 (2048MB) / ATI Radeon HD 5570 (1024MB)<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 25 GB available space<br></li><li><strong>Sound Card:</strong> DirectX 9.0c-compatible</li></ul>"
+                "minimum": "<strong>최소:</strong><br><ul class=\"bb_ul\"><li><strong>운영체제:</strong> Windows Vista SP2 / 7 / 8<br></li><li><strong>프로세서:</strong> Intel Pentium D945 (Dual Core 3400 MHz)/ AMD Athlon 64 X2 6000+ (Dual Core 3000 MHz)<br></li><li><strong>메모리:</strong> 2 GB RAM<br></li><li><strong>그래픽:</strong> Nvidia GeForce GT 610 (1024MB) / ATI Radeon 4770 (512MB)<br></li><li><strong>DirectX:</strong> 버전 9.0c<br></li><li><strong>저장공간:</strong> 25 GB 사용 가능 공간<br></li><li><strong>사운드카드:</strong> DirectX 9.0c-compatible</li></ul>",
+                "recommended": "<strong>권장:</strong><br><ul class=\"bb_ul\"><li><strong>운영체제:</strong> Windows Vista SP2 / 7 / 8<br></li><li><strong>프로세서:</strong> Intel Core i5-4430 (Quad Core 3000 MHz) / AMD Phenom 9500 (Quad Core 2200 MHz)<br></li><li><strong>메모리:</strong> 4 GB RAM<br></li><li><strong>그래픽:</strong> Nvidia GeForce GT 640 (2048MB) / ATI Radeon HD 5570 (1024MB)<br></li><li><strong>DirectX:</strong> 버전 9.0c<br></li><li><strong>저장공간:</strong> 25 GB 사용 가능 공간<br></li><li><strong>사운드카드:</strong> DirectX 9.0c-compatible</li></ul>"
             },
             "mac_requirements": [],
             "linux_requirements": [],
@@ -36,10 +36,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 1499,
-                "final": 374,
-                "discount_percent": 75,
-                "initial_formatted": "14,99€",
-                "final_formatted": "3,74€"
+                "final": 1499,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "14,99€"
             },
             "packages": [
                 48667,
@@ -57,23 +57,23 @@
                     "subs": [
                         {
                             "packageid": 48667,
-                            "percent_savings_text": "-75%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Sacred 3 - <span class=\"discount_original_price\">14,99€</span> 3,74€",
+                            "option_text": "Sacred 3 - 14,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 374
+                            "price_in_cents_with_discount": 1499
                         },
                         {
                             "packageid": 67169,
-                            "percent_savings_text": "-75%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Sacred 3 Gold - <span class=\"discount_original_price\">19,99€</span> 4,99€",
+                            "option_text": "Sacred 3 Gold - 19,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 499
+                            "price_in_cents_with_discount": 1999
                         }
                     ]
                 }
