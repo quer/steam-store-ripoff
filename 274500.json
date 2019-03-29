@@ -19,13 +19,13 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/274500/header.jpg?t=1545331704",
             "website": "http://www.stellarjockeys.com/",
             "pc_requirements": {
-                "minimum": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li><strong>SO:</strong> Windows Vista or later.<br></li><li><strong>Procesador:</strong> 2.6 GHz or faster<br></li><li><strong>Memoria:</strong> 4 GB de RAM<br></li><li><strong>Gráficos:</strong> AMD Radeon 5770 / NVIDIA GTX 460 or better<br></li><li><strong>Almacenamiento:</strong> 1 GB de espacio disponible</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows Vista or later.<br></li><li><strong>Processor:</strong> 2.6 GHz or faster<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> AMD Radeon 5770 / NVIDIA GTX 460 or better<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
             },
             "mac_requirements": {
-                "minimum": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li><strong>SO:</strong> Intel Mac OSX 10.7.4 or later.<br></li><li><strong>Procesador:</strong> 2.6 GHz or faster<br></li><li><strong>Memoria:</strong> 4 GB de RAM<br></li><li><strong>Gráficos:</strong> Intel HD 5000 or better<br></li><li><strong>Almacenamiento:</strong> 1 GB de espacio disponible<br></li><li><strong>Notas adicionales:</strong> Two button mouse + middle mouse button required.</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Intel Mac OSX 10.7.4 or later.<br></li><li><strong>Processor:</strong> 2.6 GHz or faster<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD 5000 or better<br></li><li><strong>Storage:</strong> 1 GB available space<br></li><li><strong>Additional Notes:</strong> Two button mouse + middle mouse button required.</li></ul>"
             },
             "linux_requirements": {
-                "minimum": "<strong>Mínimo:</strong><br><ul class=\"bb_ul\"><li><strong>Procesador:</strong> 2.6 GHz or faster<br></li><li><strong>Memoria:</strong> 4 GB de RAM<br></li><li><strong>Gráficos:</strong> AMD Radeon 5770 / NVIDIA GTX 460 or better<br></li><li><strong>Almacenamiento:</strong> 1 GB de espacio disponible</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Processor:</strong> 2.6 GHz or faster<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> AMD Radeon 5770 / NVIDIA GTX 460 or better<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
             },
             "legal_notice": "©2018 Stellar Jockeys",
             "developers": [
@@ -38,10 +38,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 1599,
-                "final": 1599,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "15,99€"
+                "final": 959,
+                "discount_percent": 40,
+                "initial_formatted": "15,99€",
+                "final_formatted": "9,59€"
             },
             "packages": [
                 105530,
@@ -59,23 +59,23 @@
                     "subs": [
                         {
                             "packageid": 105530,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-40%",
                             "percent_savings": 0,
-                            "option_text": "Brigador - 15,99€",
+                            "option_text": "Brigador - <span class=\"discount_original_price\">15,99€</span> 9,59€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1599
+                            "price_in_cents_with_discount": 959
                         },
                         {
                             "packageid": 37144,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-47%",
                             "percent_savings": 0,
-                            "option_text": "Brigador: Up-Armored Deluxe - 23,99€",
+                            "option_text": "Brigador: Up-Armored Deluxe - <span class=\"discount_original_price\">23,99€</span> 12,71€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 2399
+                            "price_in_cents_with_discount": 1271
                         }
                     ]
                 }
@@ -236,7 +236,7 @@
                 }
             ],
             "recommendations": {
-                "total": 1043
+                "total": 1048
             },
             "achievements": {
                 "total": 63,
