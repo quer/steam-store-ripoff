@@ -44,16 +44,16 @@
             ],
             "price_overview": {
                 "currency": "EUR",
-                "initial": 12099,
-                "final": 1209,
-                "discount_percent": 90,
-                "initial_formatted": "120,99€",
-                "final_formatted": "12,09€"
+                "initial": 2999,
+                "final": 599,
+                "discount_percent": 80,
+                "initial_formatted": "29,99€",
+                "final_formatted": "5,99€"
             },
             "packages": [
                 17922,
-                55062,
-                69238
+                69238,
+                55062
             ],
             "package_groups": [
                 {
@@ -76,6 +76,16 @@
                             "price_in_cents_with_discount": 1999
                         },
                         {
+                            "packageid": 69238,
+                            "percent_savings_text": "-80%",
+                            "percent_savings": 0,
+                            "option_text": "The Daedalic Comedy Selection - <span class=\"discount_original_price\">29,99€</span> 5,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 599
+                        },
+                        {
                             "packageid": 55062,
                             "percent_savings_text": "-90%",
                             "percent_savings": 0,
@@ -84,16 +94,6 @@
                             "can_get_free_license": "0",
                             "is_free_license": false,
                             "price_in_cents_with_discount": 1209
-                        },
-                        {
-                            "packageid": 69238,
-                            "percent_savings_text": "",
-                            "percent_savings": 0,
-                            "option_text": "The Daedalic Comedy Selection - 29,99€",
-                            "option_description": "",
-                            "can_get_free_license": "0",
-                            "is_free_license": false,
-                            "price_in_cents_with_discount": 2999
                         }
                     ]
                 }
@@ -225,7 +225,7 @@
                 }
             ],
             "recommendations": {
-                "total": 1184
+                "total": 1185
             },
             "achievements": {
                 "total": 34,
