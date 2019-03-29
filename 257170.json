@@ -14,10 +14,10 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/257170/header.jpg?t=1447358900",
             "website": "http://rebuildgame.com",
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP +<br></li><li><strong>Processor:</strong> 1.6Ghz<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> Most cards. Check here: <a href=\"https://steamcommunity.com/linkfilter/?url=http://helpx.adobe.com/x-productkb/multi/stage3d-unsupported-chipsets-drivers-flash.html\" target=\"_blank\" rel=\"noopener\"  >http://helpx.adobe.com/x-productkb/multi/stage3d-unsupported-chipsets-drivers-flash.html</a><br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>"
+                "minimum": "<strong>最低:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP +<br></li><li><strong>プロセッサー:</strong> 1.6Ghz<br></li><li><strong>メモリー:</strong> 1 GB RAM<br></li><li><strong>グラフィック:</strong> Most cards. Check here: <a href=\"https://steamcommunity.com/linkfilter/?url=http://helpx.adobe.com/x-productkb/multi/stage3d-unsupported-chipsets-drivers-flash.html\" target=\"_blank\" rel=\"noopener\"  >http://helpx.adobe.com/x-productkb/multi/stage3d-unsupported-chipsets-drivers-flash.html</a><br></li><li><strong>ストレージ:</strong> 200 MB 利用可能</li></ul>"
             },
             "mac_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Processor:</strong> 1.6Ghz<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> Most cards. Check here: <a href=\"https://steamcommunity.com/linkfilter/?url=http://helpx.adobe.com/x-productkb/multi/stage3d-unsupported-chipsets-drivers-flash.html\" target=\"_blank\" rel=\"noopener\"  >http://helpx.adobe.com/x-productkb/multi/stage3d-unsupported-chipsets-drivers-flash.html</a><br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>"
+                "minimum": "<strong>最低:</strong><br><ul class=\"bb_ul\"><li><strong>プロセッサー:</strong> 1.6Ghz<br></li><li><strong>メモリー:</strong> 1 GB RAM<br></li><li><strong>グラフィック:</strong> Most cards. Check here: <a href=\"https://steamcommunity.com/linkfilter/?url=http://helpx.adobe.com/x-productkb/multi/stage3d-unsupported-chipsets-drivers-flash.html\" target=\"_blank\" rel=\"noopener\"  >http://helpx.adobe.com/x-productkb/multi/stage3d-unsupported-chipsets-drivers-flash.html</a><br></li><li><strong>ストレージ:</strong> 200 MB 利用可能</li></ul>"
             },
             "linux_requirements": [],
             "legal_notice": "Copyright Sarah Northway & Northway Games",
@@ -31,10 +31,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 1199,
-                "final": 1199,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "11,99€"
+                "final": 599,
+                "discount_percent": 50,
+                "initial_formatted": "11,99€",
+                "final_formatted": "5,99€"
             },
             "packages": [
                 32083,
@@ -53,33 +53,33 @@
                     "subs": [
                         {
                             "packageid": 32083,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-50%",
                             "percent_savings": 0,
-                            "option_text": "Rebuild 3: Gangs of Deadsville - 11,99€",
+                            "option_text": "Rebuild 3: Gangs of Deadsville - <span class=\"discount_original_price\">11,99€</span> 5,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1199
+                            "price_in_cents_with_discount": 599
                         },
                         {
                             "packageid": 44103,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-50%",
                             "percent_savings": 0,
-                            "option_text": "Rebuild 3: Gangs of Deadsville - Deluxe Edition - 20,99€",
+                            "option_text": "Rebuild 3: Gangs of Deadsville - Deluxe Edition - <span class=\"discount_original_price\">20,99€</span> 10,49€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 2099
+                            "price_in_cents_with_discount": 1049
                         },
                         {
                             "packageid": 44775,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-50%",
                             "percent_savings": 0,
-                            "option_text": "Rebuild: Gangs of Deadsville - Deluxe Upgrade - 8,99€",
+                            "option_text": "Rebuild: Gangs of Deadsville - Deluxe Upgrade - <span class=\"discount_original_price\">8,99€</span> 4,49€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 899
+                            "price_in_cents_with_discount": 449
                         }
                     ]
                 }
@@ -244,7 +244,7 @@
                 }
             ],
             "recommendations": {
-                "total": 780
+                "total": 781
             },
             "achievements": {
                 "total": 42,
