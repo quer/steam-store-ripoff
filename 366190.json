@@ -32,10 +32,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 28999,
-                "final": 28999,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "289,99€"
+                "final": 2899,
+                "discount_percent": 90,
+                "initial_formatted": "289,99€",
+                "final_formatted": "28,99€"
             },
             "packages": [
                 66173
@@ -52,13 +52,13 @@
                     "subs": [
                         {
                             "packageid": 66173,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-90%",
                             "percent_savings": 0,
-                            "option_text": "CopperCube - Professional Edition - 289,99€",
+                            "option_text": "CopperCube - Professional Edition - <span class=\"discount_original_price\">289,99€</span> 28,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 28999
+                            "price_in_cents_with_discount": 2899
                         }
                     ]
                 }
