@@ -15,8 +15,8 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/302080/header.jpg?t=1447361929",
             "website": "http://www.busdrivergame.com/",
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 98/ME/2000/XP/Vista/7/8<br></li><li><strong>Processor:</strong> 1GHz Pentium III or equivalent<br></li><li><strong>Memory:</strong> 256 MB RAM<br></li><li><strong>Graphics:</strong> OpenGL 1.3 compatible 64MB AGP with hardware T&amp;L<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 300 MB available space</li></ul>",
-                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP/Vista/7/8<br></li><li><strong>Processor:</strong> 1.5GHz Pentium IV or equivalent<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> OpenGL 1.5 compatible 128MB PCI Express with hardware T&amp;L<br></li><li><strong>Storage:</strong> 300 MB available space<br></li><li><strong>Sound Card:</strong> DirectX compatible soundcard<br></li><li><strong>Additional Notes:</strong> DirectX compatible gamepad or steering wheel</li></ul>"
+                "minimum": "<strong>Минимальные:</strong><br><ul class=\"bb_ul\"><li><strong>ОС:</strong> Windows 98/ME/2000/XP/Vista/7/8<br></li><li><strong>Процессор:</strong> 1GHz Pentium III or equivalent<br></li><li><strong>Оперативная память:</strong> 256 MB ОЗУ<br></li><li><strong>Видеокарта:</strong> OpenGL 1.3 compatible 64MB AGP with hardware T&amp;L<br></li><li><strong>DirectX:</strong> Версии 9.0<br></li><li><strong>Место на диске:</strong> 300 MB</li></ul>",
+                "recommended": "<strong>Рекомендованные:</strong><br><ul class=\"bb_ul\"><li><strong>ОС:</strong> Windows XP/Vista/7/8<br></li><li><strong>Процессор:</strong> 1.5GHz Pentium IV or equivalent<br></li><li><strong>Оперативная память:</strong> 512 MB ОЗУ<br></li><li><strong>Видеокарта:</strong> OpenGL 1.5 compatible 128MB PCI Express with hardware T&amp;L<br></li><li><strong>Место на диске:</strong> 300 MB<br></li><li><strong>Звуковая карта:</strong> DirectX compatible soundcard<br></li><li><strong>Дополнительно:</strong> DirectX compatible gamepad or steering wheel</li></ul>"
             },
             "mac_requirements": [],
             "linux_requirements": [],
@@ -29,10 +29,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 799,
-                "final": 159,
-                "discount_percent": 80,
-                "initial_formatted": "7,99€",
-                "final_formatted": "1,59€"
+                "final": 799,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "7,99€"
             },
             "packages": [
                 44428
@@ -49,13 +49,13 @@
                     "subs": [
                         {
                             "packageid": 44428,
-                            "percent_savings_text": "-80%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Bus Driver - <span class=\"discount_original_price\">7,99€</span> 1,59€",
+                            "option_text": "Bus Driver - 7,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 159
+                            "price_in_cents_with_discount": 799
                         }
                     ]
                 }
@@ -144,7 +144,7 @@
                 }
             ],
             "recommendations": {
-                "total": 999
+                "total": 1001
             },
             "achievements": {
                 "total": 0
