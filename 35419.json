@@ -28,10 +28,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 659,
-                "final": 659,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "6,59€"
+                "final": 329,
+                "discount_percent": 50,
+                "initial_formatted": "6,59€",
+                "final_formatted": "3,29€"
             },
             "packages": [
                 6881,
@@ -49,23 +49,23 @@
                     "subs": [
                         {
                             "packageid": 6881,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-50%",
                             "percent_savings": 0,
-                            "option_text": "Killing Floor - \"London's Finest\" DLC Character pack - 6,59€",
+                            "option_text": "Killing Floor - \"London's Finest\" DLC Character pack - <span class=\"discount_original_price\">6,59€</span> 3,29€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 659
+                            "price_in_cents_with_discount": 329
                         },
                         {
                             "packageid": 52349,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-50%",
                             "percent_savings": 0,
-                            "option_text": "Killing Floor - Character Pack Bundle - 24,99€",
+                            "option_text": "Killing Floor - Character Pack Bundle - <span class=\"discount_original_price\">24,99€</span> 12,49€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 2499
+                            "price_in_cents_with_discount": 1249
                         }
                     ]
                 }
