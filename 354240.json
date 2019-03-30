@@ -18,10 +18,10 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/354240/header.jpg?t=1498065674",
             "website": "https://www.escalation.com",
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Microsoft® Windows® XP / Vista / 7 / 8<br></li><li><strong>Processor:</strong> Any processor with at least 1.0GHz<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> Any card with at least 128MB<br></li><li><strong>Storage:</strong> 50 MB available space</li></ul>"
+                "minimum": "<strong>最低配置:</strong><br><ul class=\"bb_ul\"><li><strong>操作系统:</strong> Microsoft® Windows® XP / Vista / 7 / 8<br></li><li><strong>处理器:</strong> Any processor with at least 1.0GHz<br></li><li><strong>内存:</strong> 512 MB RAM<br></li><li><strong>图形:</strong> Any card with at least 128MB<br></li><li><strong>存储空间:</strong> 需要 50 MB 可用空间</li></ul>"
             },
             "mac_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OS X Mountain Lion<br></li><li><strong>Processor:</strong> 2.0 GHz Dual Core Processor<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> Integrated Graphics (256MB)<br></li><li><strong>Storage:</strong> 50 MB available space</li></ul>"
+                "minimum": "<strong>最低配置:</strong><br><ul class=\"bb_ul\"><li><strong>操作系统:</strong> OS X Mountain Lion<br></li><li><strong>处理器:</strong> 2.0 GHz Dual Core Processor<br></li><li><strong>内存:</strong> 1 GB RAM<br></li><li><strong>图形:</strong> Integrated Graphics (256MB)<br></li><li><strong>存储空间:</strong> 需要 50 MB 可用空间</li></ul>"
             },
             "linux_requirements": [],
             "developers": [
@@ -32,15 +32,15 @@
             ],
             "price_overview": {
                 "currency": "EUR",
-                "initial": 699,
-                "final": 244,
-                "discount_percent": 65,
-                "initial_formatted": "6,99€",
-                "final_formatted": "2,44€"
+                "initial": 499,
+                "final": 499,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "4,99€"
             },
             "packages": [
-                62591,
-                62172
+                62172,
+                62591
             ],
             "package_groups": [
                 {
@@ -53,16 +53,6 @@
                     "is_recurring_subscription": "false",
                     "subs": [
                         {
-                            "packageid": 62591,
-                            "percent_savings_text": "-65%",
-                            "percent_savings": 0,
-                            "option_text": "Please Don't Touch Anything: Soundtrack Edition - <span class=\"discount_original_price\">6,99€</span> 2,44€",
-                            "option_description": "",
-                            "can_get_free_license": "0",
-                            "is_free_license": false,
-                            "price_in_cents_with_discount": 244
-                        },
-                        {
                             "packageid": 62172,
                             "percent_savings_text": "",
                             "percent_savings": 0,
@@ -71,6 +61,16 @@
                             "can_get_free_license": "0",
                             "is_free_license": false,
                             "price_in_cents_with_discount": 499
+                        },
+                        {
+                            "packageid": 62591,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Please Don't Touch Anything: Soundtrack Edition - 6,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 699
                         }
                     ]
                 }
@@ -148,7 +148,7 @@
                 }
             ],
             "recommendations": {
-                "total": 2495
+                "total": 2500
             },
             "achievements": {
                 "total": 15,
