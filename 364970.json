@@ -37,10 +37,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 6999,
-                "final": 6999,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "69,99€"
+                "final": 769,
+                "discount_percent": 89,
+                "initial_formatted": "69,99€",
+                "final_formatted": "7,69€"
             },
             "packages": [
                 65785
@@ -57,13 +57,13 @@
                     "subs": [
                         {
                             "packageid": 65785,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-89%",
                             "percent_savings": 0,
-                            "option_text": "CopperCube 5 - 69,99€",
+                            "option_text": "CopperCube 5 - <span class=\"discount_original_price\">69,99€</span> 7,69€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 6999
+                            "price_in_cents_with_discount": 769
                         }
                     ]
                 }
