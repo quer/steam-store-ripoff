@@ -29,10 +29,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 1679,
-                "final": 1679,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "16,79€"
+                "final": 419,
+                "discount_percent": 75,
+                "initial_formatted": "16,79€",
+                "final_formatted": "4,19€"
             },
             "packages": [
                 87695
@@ -49,13 +49,13 @@
                     "subs": [
                         {
                             "packageid": 87695,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-75%",
                             "percent_savings": 0,
-                            "option_text": "Perception - 16,79€",
+                            "option_text": "Perception - <span class=\"discount_original_price\">16,79€</span> 4,19€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1679
+                            "price_in_cents_with_discount": 419
                         }
                     ]
                 }
@@ -222,7 +222,7 @@
                 }
             ],
             "recommendations": {
-                "total": 181
+                "total": 182
             },
             "achievements": {
                 "total": 33,
