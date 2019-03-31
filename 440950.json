@@ -38,6 +38,7 @@
                 "final_formatted": "4,99€"
             },
             "packages": [
+                322087,
                 93265
             ],
             "package_groups": [
@@ -50,6 +51,16 @@
                     "display_type": 0,
                     "is_recurring_subscription": "false",
                     "subs": [
+                        {
+                            "packageid": 322087,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Story Of the Survivor - Commercial License - 3,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 399
+                        },
                         {
                             "packageid": 93265,
                             "percent_savings_text": "",
