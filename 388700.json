@@ -32,10 +32,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 3899,
-                "final": 3899,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "38,99€"
+                "final": 2339,
+                "discount_percent": 40,
+                "initial_formatted": "38,99€",
+                "final_formatted": "23,39€"
             },
             "packages": [
                 73346
@@ -52,13 +52,13 @@
                     "subs": [
                         {
                             "packageid": 73346,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-40%",
                             "percent_savings": 0,
-                            "option_text": "Nobunaga's Ambition: Souzou with Power Up Kit - 38,99€",
+                            "option_text": "Nobunaga's Ambition: Souzou with Power Up Kit - <span class=\"discount_original_price\">38,99€</span> 23,39€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 3899
+                            "price_in_cents_with_discount": 2339
                         }
                     ]
                 }
