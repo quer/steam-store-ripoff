@@ -7,27 +7,67 @@
             "steam_appid": 508440,
             "required_age": 0,
             "is_free": false,
-            "detailed_description": "<strong>Totally Accurate Battle Simulator is a wacky physics-based tactics game. </strong><br><br>Experience accurate warfare through the ages. From medieval peasants to modern-day advanced weaponry, TABS uses state of the art physics-based simulation to provide you with never-before-seen insight to our greatest battles of history.<br><br><br><i>- &quot;This doesn't look like real history at all&quot;<br><br>- &quot;At least the helmets look correct&quot;<br><br>- &quot;What are you doing in my office? GET OUT&quot;</i>",
-            "about_the_game": "<strong>Totally Accurate Battle Simulator is a wacky physics-based tactics game. </strong><br><br>Experience accurate warfare through the ages. From medieval peasants to modern-day advanced weaponry, TABS uses state of the art physics-based simulation to provide you with never-before-seen insight to our greatest battles of history.<br><br><br><i>- &quot;This doesn't look like real history at all&quot;<br><br>- &quot;At least the helmets look correct&quot;<br><br>- &quot;What are you doing in my office? GET OUT&quot;</i>",
-            "short_description": "Totally Accurate Battle Simulator is a wacky physics-based tactics game. Experience accurate warfare through the ages. From medieval peasants to modern-day weaponry, TABS uses state of the art physics-based simulation to provide you with never-before-seen insight to our greatest battles of history.",
+            "detailed_description": "<strong>Totally Accurate Battle Simulator is a wacky physics-based tactics game. </strong><br><br>Experience accurate warfare through the ages, TABS uses state of the art physics-based simulation to provide you with never-before-seen insight to our greatest battles of history.<br><br><br><i>- &quot;This doesn't look like real history at all&quot;<br><br>- &quot;At least the helmets look correct&quot;<br><br>- &quot;What are you doing in my office? GET OUT&quot;</i><h2 class=\"bb_tag\"><strong>Features</strong></h2><br><ul class=\"bb_ul\"><li>Campaign<br></li><li>Sandbox mode<br></li><li>A bunch of silly units</li></ul>",
+            "about_the_game": "<strong>Totally Accurate Battle Simulator is a wacky physics-based tactics game. </strong><br><br>Experience accurate warfare through the ages, TABS uses state of the art physics-based simulation to provide you with never-before-seen insight to our greatest battles of history.<br><br><br><i>- &quot;This doesn't look like real history at all&quot;<br><br>- &quot;At least the helmets look correct&quot;<br><br>- &quot;What are you doing in my office? GET OUT&quot;</i><h2 class=\"bb_tag\"><strong>Features</strong></h2><br><ul class=\"bb_ul\"><li>Campaign<br></li><li>Sandbox mode<br></li><li>A bunch of silly units</li></ul>",
+            "short_description": "Totally Accurate Battle Simulator is a wacky physics-based tactics game. Experience accurate warfare through the ages. TABS uses state of the art physics-based simulation to provide you with never-before-seen insight to our greatest battles of history.",
             "supported_languages": "English",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/508440/header.jpg?t=1542792716",
-            "website": "http://landfall.se/totally-accurate-battle-simulator",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/508440/header.jpg?t=1554120312",
+            "website": "http://landfall.se",
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong> 2.5gz<br></li><li><strong>Graphics:</strong> GTX 560ti<br></li><li><strong>Storage:</strong> 300 MB available space</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong> Intel Core i5-2400 @ 3.1 GHz or AMD FX-6300 @ 3.5 GHz or equivalent<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 670 or AMD R9 270 (2GB VRAM with Shader Model 5.0 or better)<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 3 GB available space<br></li><li><strong>Additional Notes:</strong> Only runs on 64 bit systems</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Win 10<br></li><li><strong>Processor:</strong> Intel Core i7-4770 @ 3.4 GHz or AMD Ryzen 5 1600 @ 3.2 GHz or equivalent<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 970 or AMD R9 290X (4GB VRAM with Shader Model 5.0 or better)<br></li><li><strong>Storage:</strong> 3 GB available space<br></li><li><strong>Additional Notes:</strong> Only runs on 64 bit systems</li></ul>"
             },
-            "mac_requirements": [],
-            "linux_requirements": [],
+            "mac_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> macOS Mojave<br></li><li><strong>Processor:</strong> 2.3GHz dual-core Intel Core i5<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Intel Iris Plus Graphics 640<br></li><li><strong>Storage:</strong> 3 GB available space<br></li><li><strong>Additional Notes:</strong> Mac book pro 2018 or later</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> macOS Mojave<br></li><li><strong>Processor:</strong> 2.9GHz 6-core Intel Core i9<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Radeon Pro 560X<br></li><li><strong>Storage:</strong> 3 GB available space</li></ul>"
+            },
+            "linux_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+            },
             "developers": [
                 "Landfall"
             ],
             "publishers": [
                 "Landfall"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 1249,
+                "final": 1249,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "12,49€"
+            },
+            "packages": [
+                117560
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Totally Accurate Battle Simulator",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 117560,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Totally Accurate Battle Simulator - 12,49€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 1249
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
-                "mac": false,
+                "mac": true,
                 "linux": false
             },
             "categories": [
@@ -48,56 +88,68 @@
                 {
                     "id": "2",
                     "description": "Strategy"
+                },
+                {
+                    "id": "70",
+                    "description": "Early Access"
                 }
             ],
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/508440/ss_e90e96aabf8f3e10d1f44368149bc9050ce0e895.600x338.jpg?t=1542792716",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/508440/ss_e90e96aabf8f3e10d1f44368149bc9050ce0e895.1920x1080.jpg?t=1542792716"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/508440/ss_e502c3d72a454d8792fced42d241158d964af359.600x338.jpg?t=1554120312",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/508440/ss_e502c3d72a454d8792fced42d241158d964af359.1920x1080.jpg?t=1554120312"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/508440/ss_8b46961f58721a6f89da3d4159ca5bc602c9c0d6.600x338.jpg?t=1542792716",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/508440/ss_8b46961f58721a6f89da3d4159ca5bc602c9c0d6.1920x1080.jpg?t=1542792716"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/508440/ss_030da80be50d61bfb2da4956f9755b30f97cc28a.600x338.jpg?t=1554120312",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/508440/ss_030da80be50d61bfb2da4956f9755b30f97cc28a.1920x1080.jpg?t=1554120312"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/508440/ss_75022edf4152b917a023e429907d7c6a184e962d.600x338.jpg?t=1542792716",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/508440/ss_75022edf4152b917a023e429907d7c6a184e962d.1920x1080.jpg?t=1542792716"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/508440/ss_7002d323c3c9d6b554217c2ae610911c5f62b00e.600x338.jpg?t=1554120312",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/508440/ss_7002d323c3c9d6b554217c2ae610911c5f62b00e.1920x1080.jpg?t=1554120312"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/508440/ss_23c67caa016d7de3019bed6bd7da480d8ce6237a.600x338.jpg?t=1542792716",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/508440/ss_23c67caa016d7de3019bed6bd7da480d8ce6237a.1920x1080.jpg?t=1542792716"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/508440/ss_86d4583ae848376b825f9b9ef845d0ab7c99a544.600x338.jpg?t=1554120312",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/508440/ss_86d4583ae848376b825f9b9ef845d0ab7c99a544.1920x1080.jpg?t=1554120312"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/508440/ss_129443c0ced66778a415973dad8e92be2fffc52b.600x338.jpg?t=1542792716",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/508440/ss_129443c0ced66778a415973dad8e92be2fffc52b.1920x1080.jpg?t=1542792716"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/508440/ss_40fbb620f8ad4d6591670ab2360d2b68db1bee8c.600x338.jpg?t=1554120312",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/508440/ss_40fbb620f8ad4d6591670ab2360d2b68db1bee8c.1920x1080.jpg?t=1554120312"
+                },
+                {
+                    "id": 5,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/508440/ss_93b43b1c3970b12ba763cd538e8d0fbd5638b60a.600x338.jpg?t=1554120312",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/508440/ss_93b43b1c3970b12ba763cd538e8d0fbd5638b60a.1920x1080.jpg?t=1554120312"
                 }
             ],
             "movies": [
                 {
-                    "id": 256667913,
-                    "name": "Pre-Alpha trailer",
-                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256667913/movie.293x165.jpg?t=1480015119",
+                    "id": 256746848,
+                    "name": "Early Access Trailer",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256746848/movie.293x165.jpg?t=1554116569",
                     "webm": {
-                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256667913/movie480.webm?t=1480015119",
-                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256667913/movie_max.webm?t=1480015119"
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256746848/movie480.webm?t=1554116569",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256746848/movie_max.webm?t=1554116569"
                     },
                     "highlight": true
                 }
             ],
+            "achievements": {
+                "total": 0
+            },
             "release_date": {
-                "coming_soon": true,
-                "date": "TBA"
+                "coming_soon": false,
+                "date": "1 Apr, 2019"
             },
             "support_info": {
                 "url": "",
                 "email": "support@landfall.se"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/508440/page_bg_generated_v6b.jpg?t=1542792716",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/508440/page_bg_generated_v6b.jpg?t=1554120312",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
