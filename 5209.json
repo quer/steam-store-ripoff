@@ -11,16 +11,20 @@
             "about_the_game": "",
             "short_description": "",
             "fullgame": {
-                "appid": null,
-                "name": "Uninitialized"
+                "appid": "27000",
+                "name": "The Path"
             },
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/5209/header.jpg?t=1447351737",
-            "website": null,
+            "supported_languages": "English",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/27000/header.jpg?t=1447351736",
+            "website": "http://Tale-of-Tales.com/ThePath",
             "pc_requirements": [],
             "mac_requirements": [],
             "linux_requirements": [],
+            "developers": [
+                "Tale of Tales"
+            ],
             "publishers": [
-                ""
+                "Tale of Tales"
             ],
             "package_groups": [],
             "platforms": {
@@ -28,9 +32,19 @@
                 "mac": false,
                 "linux": false
             },
+            "genres": [
+                {
+                    "id": "23",
+                    "description": "Indie"
+                },
+                {
+                    "id": "25",
+                    "description": "Adventure"
+                }
+            ],
             "release_date": {
                 "coming_soon": false,
-                "date": ""
+                "date": "18 Mar, 2009"
             },
             "support_info": {
                 "url": "",
