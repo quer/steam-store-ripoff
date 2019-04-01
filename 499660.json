@@ -32,10 +32,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 2499,
-                "final": 2499,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "24,99€"
+                "final": 1749,
+                "discount_percent": 30,
+                "initial_formatted": "24,99€",
+                "final_formatted": "17,49€"
             },
             "packages": [
                 114430
@@ -52,13 +52,13 @@
                     "subs": [
                         {
                             "packageid": 114430,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-30%",
                             "percent_savings": 0,
-                            "option_text": "Medieval Kingdom Wars - 24,99€",
+                            "option_text": "Medieval Kingdom Wars - <span class=\"discount_original_price\">24,99€</span> 17,49€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 2499
+                            "price_in_cents_with_discount": 1749
                         }
                     ]
                 }
@@ -69,7 +69,7 @@
                 "linux": false
             },
             "metacritic": {
-                "score": 65,
+                "score": 60,
                 "url": "https://www.metacritic.com/game/pc/medieval-kingdom-wars?ftag=MCD-06-10aaa1f"
             },
             "categories": [
@@ -211,7 +211,7 @@
                 }
             ],
             "recommendations": {
-                "total": 1352
+                "total": 1396
             },
             "achievements": {
                 "total": 20,
