@@ -14,13 +14,18 @@
                 "appid": null,
                 "name": "Uninitialized"
             },
+            "supported_languages": "English",
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/5316/header.jpg?t=1447352355",
             "website": null,
             "pc_requirements": [],
             "mac_requirements": [],
             "linux_requirements": [],
+            "developers": [
+                "Blue Byte",
+                "Related"
+            ],
             "publishers": [
-                ""
+                "Ubisoft"
             ],
             "package_groups": [],
             "platforms": {
@@ -28,9 +33,25 @@
                 "mac": false,
                 "linux": false
             },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "2",
+                    "description": "Strategy"
+                },
+                {
+                    "id": "28",
+                    "description": "Simulation"
+                }
+            ],
             "release_date": {
                 "coming_soon": false,
-                "date": ""
+                "date": "24 Jul, 2009"
             },
             "support_info": {
                 "url": "",
