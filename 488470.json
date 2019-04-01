@@ -8,8 +8,8 @@
             "required_age": 0,
             "is_free": false,
             "controller_support": "full",
-            "detailed_description": "<h2 class=\"bb_tag\">The Shaman</h2><br>- Unlock the Shaman class!<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/488470/extras/shamann.gif?t=1542017901\" ><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/488470/extras/shaman_talents.png?t=1542017901\" >",
-            "about_the_game": "<h2 class=\"bb_tag\">The Shaman</h2><br>- Unlock the Shaman class!<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/488470/extras/shamann.gif?t=1542017901\" ><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/488470/extras/shaman_talents.png?t=1542017901\" >",
+            "detailed_description": "<h2 class=\"bb_tag\">The Shaman</h2><br>- Unlock the Shaman class!<br><br><img src=\"https://media.st.dl.bscstorage.net/steam/apps/488470/extras/shamann.gif?t=1542017901\" crossorigin=\"anonymous\"><br><img src=\"https://media.st.dl.bscstorage.net/steam/apps/488470/extras/shaman_talents.png?t=1542017901\" crossorigin=\"anonymous\">",
+            "about_the_game": "<h2 class=\"bb_tag\">The Shaman</h2><br>- Unlock the Shaman class!<br><br><img src=\"https://media.st.dl.bscstorage.net/steam/apps/488470/extras/shamann.gif?t=1542017901\" crossorigin=\"anonymous\"><br><img src=\"https://media.st.dl.bscstorage.net/steam/apps/488470/extras/shaman_talents.png?t=1542017901\" crossorigin=\"anonymous\">",
             "short_description": "The Shaman- Unlock the Shaman class!",
             "fullgame": {
                 "appid": "269210",
@@ -40,10 +40,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 329,
-                "final": 82,
-                "discount_percent": 75,
-                "initial_formatted": "3,29€",
-                "final_formatted": "0,82€"
+                "final": 329,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "3,29€"
             },
             "packages": [
                 110147
@@ -60,13 +60,13 @@
                     "subs": [
                         {
                             "packageid": 110147,
-                            "percent_savings_text": "-75%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Shaman's Storm Bundle! - <span class=\"discount_original_price\">3,29€</span> 0,82€",
+                            "option_text": "Shaman's Storm Bundle! - 3,29€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 82
+                            "price_in_cents_with_discount": 329
                         }
                     ]
                 }
