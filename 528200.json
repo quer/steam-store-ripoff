@@ -35,10 +35,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 19900,
-                "final": 6965,
-                "discount_percent": 65,
-                "initial_formatted": "199,--€",
-                "final_formatted": "69,65€"
+                "final": 19900,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "199,--€"
             },
             "packages": [
                 126788
@@ -55,13 +55,13 @@
                     "subs": [
                         {
                             "packageid": 126788,
-                            "percent_savings_text": "-65%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "VEGAS Pro 14 Edit Steam Edition - <span class=\"discount_original_price\">199,--€</span> 69,65€",
+                            "option_text": "VEGAS Pro 14 Edit Steam Edition - 199,--€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 6965
+                            "price_in_cents_with_discount": 19900
                         }
                     ]
                 }
@@ -117,7 +117,7 @@
                 }
             ],
             "recommendations": {
-                "total": 360
+                "total": 364
             },
             "achievements": {
                 "total": 0
