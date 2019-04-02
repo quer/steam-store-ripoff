@@ -18,10 +18,10 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/543520/header.jpg?t=1551669041",
             "website": "http://www.rpgmakerweb.com/",
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7/8/8.1/10<br></li><li><strong>Processor:</strong> Intel Core2 Duo or better<br></li><li><strong>Graphics:</strong> DirectX 9/OpenGL 4.1 capable GPU<br></li><li><strong>Storage:</strong> 250 MB available space<br></li><li><strong>Sound Card:</strong> DirectSound-compatible sound card<br></li><li><strong>Additional Notes:</strong> 1024 x 768 pixels or higher desktop resolution</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Besturingssysteem:</strong> Windows 7/8/8.1/10<br></li><li><strong>Processor:</strong> Intel Core2 Duo or better<br></li><li><strong>Grafische kaart:</strong> DirectX 9/OpenGL 4.1 capable GPU<br></li><li><strong>Opslagruimte:</strong> 250 MB beschikbare ruimte<br></li><li><strong>Geluidskaart:</strong> DirectSound-compatible sound card<br></li><li><strong>Aanvullende opmerkingen:</strong> 1024 x 768 pixels or higher desktop resolution</li></ul>"
             },
             "mac_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OSX 10.10 or better<br></li><li><strong>Processor:</strong> Intel Core2 Duo or better<br></li><li><strong>Graphics:</strong> Compatible OpenGLR<br></li><li><strong>Storage:</strong> 250 MB available space<br></li><li><strong>Additional Notes:</strong> 1280x768 or better Display</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Besturingssysteem:</strong> Mac OSX 10.10 or better<br></li><li><strong>Processor:</strong> Intel Core2 Duo or better<br></li><li><strong>Grafische kaart:</strong> Compatible OpenGLR<br></li><li><strong>Opslagruimte:</strong> 250 MB beschikbare ruimte<br></li><li><strong>Aanvullende opmerkingen:</strong> 1280x768 or better Display</li></ul>"
             },
             "linux_requirements": [],
             "legal_notice": "©2015 KADOKAWA CORPORATION./YOJI OJIMA",
@@ -34,10 +34,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 999,
-                "final": 499,
-                "discount_percent": 50,
-                "initial_formatted": "9,99€",
-                "final_formatted": "4,99€"
+                "final": 999,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "9,99€"
             },
             "packages": [
                 133849
@@ -54,13 +54,13 @@
                     "subs": [
                         {
                             "packageid": 133849,
-                            "percent_savings_text": "-50%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "RPG Maker MV - MV Monsters HIBIKI KATAKURA ver Vol.1 - <span class=\"discount_original_price\">9,99€</span> 4,99€",
+                            "option_text": "RPG Maker MV - MV Monsters HIBIKI KATAKURA ver Vol.1 - 9,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 499
+                            "price_in_cents_with_discount": 999
                         }
                     ]
                 }
