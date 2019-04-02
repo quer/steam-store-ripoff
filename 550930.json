@@ -31,14 +31,14 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 329,
-                "final": 329,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "3,29€"
+                "final": 82,
+                "discount_percent": 75,
+                "initial_formatted": "3,29€",
+                "final_formatted": "0,82€"
             },
             "packages": [
-                320837,
-                136556
+                136556,
+                320837
             ],
             "package_groups": [
                 {
@@ -51,20 +51,20 @@
                     "is_recurring_subscription": "false",
                     "subs": [
                         {
-                            "packageid": 320837,
-                            "percent_savings_text": "-50%",
+                            "packageid": 136556,
+                            "percent_savings_text": "-75%",
                             "percent_savings": 0,
-                            "option_text": "Rocket Craze 3D - Commercial License - <span class=\"discount_original_price\">3,29€</span> 1,64€",
+                            "option_text": "Rocket Craze 3D - <span class=\"discount_original_price\">3,29€</span> 0,82€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 164
+                            "price_in_cents_with_discount": 82
                         },
                         {
-                            "packageid": 136556,
+                            "packageid": 320837,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Rocket Craze 3D - 3,29€",
+                            "option_text": "Rocket Craze 3D - Commercial License - 3,29€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
