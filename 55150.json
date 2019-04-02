@@ -45,10 +45,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 1999,
-                "final": 499,
-                "discount_percent": 75,
-                "initial_formatted": "19,99€",
-                "final_formatted": "4,99€"
+                "final": 1999,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "19,99€"
             },
             "packages": [
                 11443,
@@ -67,23 +67,23 @@
                     "subs": [
                         {
                             "packageid": 11443,
-                            "percent_savings_text": "-75%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Warhammer 40,000: Space Marine - <span class=\"discount_original_price\">19,99€</span> 4,99€",
+                            "option_text": "Warhammer 40,000: Space Marine - 19,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 499
+                            "price_in_cents_with_discount": 1999
                         },
                         {
                             "packageid": 15351,
-                            "percent_savings_text": "-75%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Warhammer 40,000: Space Marine Collection - <span class=\"discount_original_price\">42,99€</span> 10,74€",
+                            "option_text": "Warhammer 40,000: Space Marine Collection - 42,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1074
+                            "price_in_cents_with_discount": 4299
                         },
                         {
                             "packageid": 116764,
@@ -280,7 +280,7 @@
                 }
             ],
             "recommendations": {
-                "total": 5003
+                "total": 5024
             },
             "achievements": {
                 "total": 60,
