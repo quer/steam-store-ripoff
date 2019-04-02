@@ -14,8 +14,8 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/549100/header.jpg?t=1544807547",
             "website": null,
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows Xp, Vista, 7, 8, 10<br></li><li><strong>Processor:</strong> 2.6 Ghz+<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Storage:</strong> 50 MB available space</li></ul>",
-                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows Xp, Vista, 7, 8, 10<br></li><li><strong>Processor:</strong> 3.0 Ghz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Storage:</strong> 100 MB available space</li></ul>"
+                "minimum": "<strong>最低配置:</strong><br><ul class=\"bb_ul\"><li><strong>操作系统:</strong> Windows Xp, Vista, 7, 8, 10<br></li><li><strong>处理器:</strong> 2.6 Ghz+<br></li><li><strong>内存:</strong> 2 GB RAM<br></li><li><strong>DirectX 版本:</strong> 10<br></li><li><strong>存储空间:</strong> 需要 50 MB 可用空间</li></ul>",
+                "recommended": "<strong>推荐配置:</strong><br><ul class=\"bb_ul\"><li><strong>操作系统:</strong> Windows Xp, Vista, 7, 8, 10<br></li><li><strong>处理器:</strong> 3.0 Ghz<br></li><li><strong>内存:</strong> 4 GB RAM<br></li><li><strong>DirectX 版本:</strong> 10<br></li><li><strong>存储空间:</strong> 需要 100 MB 可用空间</li></ul>"
             },
             "mac_requirements": [],
             "linux_requirements": [],
@@ -29,10 +29,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 79,
-                "final": 39,
-                "discount_percent": 51,
-                "initial_formatted": "0,79€",
-                "final_formatted": "0,39€"
+                "final": 79,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "0,79€"
             },
             "packages": [
                 135784
@@ -49,13 +49,13 @@
                     "subs": [
                         {
                             "packageid": 135784,
-                            "percent_savings_text": "-51%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "GravNewton - <span class=\"discount_original_price\">0,79€</span> 0,39€",
+                            "option_text": "GravNewton - 0,79€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 39
+                            "price_in_cents_with_discount": 79
                         }
                     ]
                 }
