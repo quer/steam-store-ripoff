@@ -19,7 +19,7 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/553072/header.jpg?t=1544286300",
             "website": "http://decayinglogic.com/",
             "pc_requirements": {
-                "minimum": "<strong>Minimale :</strong><br><ul class=\"bb_ul\"><li><strong>Système d'exploitation :</strong> Windows 10, 8.1, 8, 7, Vista, XP<br></li><li><strong>Processeur :</strong> Intel® Core 2 Duo<br></li><li><strong>Mémoire vive :</strong> 2 GB de mémoire<br></li><li><strong>Graphiques :</strong> DirectX 9.0 Compatible<br></li><li><strong>Espace disque :</strong> 300 MB d'espace disque disponible<br></li><li><strong>Carte son :</strong> Generic Sound Device</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10, 8.1, 8, 7, Vista, XP<br></li><li><strong>Processor:</strong> Intel® Core 2 Duo<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> DirectX 9.0 Compatible<br></li><li><strong>Storage:</strong> 300 MB available space<br></li><li><strong>Sound Card:</strong> Generic Sound Device</li></ul>"
             },
             "mac_requirements": [],
             "linux_requirements": [],
@@ -33,10 +33,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 399,
-                "final": 399,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "3,99€"
+                "final": 175,
+                "discount_percent": 56,
+                "initial_formatted": "3,99€",
+                "final_formatted": "1,75€"
             },
             "packages": [
                 137398
@@ -53,13 +53,13 @@
                     "subs": [
                         {
                             "packageid": 137398,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-56%",
                             "percent_savings": 0,
-                            "option_text": "Pixel Puzzles Ultimate - Puzzle Pack: Scotland - 3,99€",
+                            "option_text": "Pixel Puzzles Ultimate - Puzzle Pack: Scotland - <span class=\"discount_original_price\">3,99€</span> 1,75€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 399
+                            "price_in_cents_with_discount": 175
                         }
                     ]
                 }
