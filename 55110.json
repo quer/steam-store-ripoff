@@ -32,17 +32,17 @@
             ],
             "price_overview": {
                 "currency": "EUR",
-                "initial": 1999,
-                "final": 1999,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "19,99€"
+                "initial": 7999,
+                "final": 1599,
+                "discount_percent": 80,
+                "initial_formatted": "79,99€",
+                "final_formatted": "15,99€"
             },
             "packages": [
                 8392,
                 241419,
-                15630,
-                123985
+                123985,
+                15630
             ],
             "package_groups": [
                 {
@@ -65,6 +65,16 @@
                             "price_in_cents_with_discount": 1999
                         },
                         {
+                            "packageid": 123985,
+                            "percent_savings_text": "-80%",
+                            "percent_savings": 0,
+                            "option_text": "The New THQ Classics - <span class=\"discount_original_price\">79,99€</span> 15,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 1599
+                        },
+                        {
                             "packageid": 15630,
                             "percent_savings_text": "",
                             "percent_savings": 0,
@@ -73,16 +83,6 @@
                             "can_get_free_license": "0",
                             "is_free_license": false,
                             "price_in_cents_with_discount": 5999
-                        },
-                        {
-                            "packageid": 123985,
-                            "percent_savings_text": "",
-                            "percent_savings": 0,
-                            "option_text": "The New THQ Classics - 79,99€",
-                            "option_description": "",
-                            "can_get_free_license": "0",
-                            "is_free_license": false,
-                            "price_in_cents_with_discount": 7999
                         }
                     ]
                 },
@@ -211,7 +211,7 @@
                 }
             ],
             "recommendations": {
-                "total": 1764
+                "total": 1767
             },
             "achievements": {
                 "total": 58,
