@@ -11,7 +11,7 @@
             "about_the_game": "This game with absurd humor. Pee in the toilet, break the toilet, washing machine, make a hole in the wall, piss the police, destroy the city.",
             "short_description": "This game with absurd humor. Pee in the toilet, break the toilet, washing machine, make a hole in the wall, piss the police, destroy the city.",
             "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1002270/header.jpg?t=1553698899",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1002270/header.jpg?t=1560849132",
             "website": null,
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong> Intel(R) Core 2 Duo CPU 3.00 GHz<br></li><li><strong>Memory:</strong> 4096 MB RAM<br></li><li><strong>Graphics:</strong> GeForce 9600 GT 512MB<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>",
@@ -31,7 +31,46 @@
             "publishers": [
                 "Koker_007"
             ],
-            "package_groups": [],
+            "demos": [
+                {
+                    "appid": 1107080,
+                    "description": ""
+                }
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 329,
+                "final": 329,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "3,29€"
+            },
+            "packages": [
+                331253
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy PiiSim",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 331253,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "PiiSim - 3,29€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 329
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": false,
@@ -45,6 +84,14 @@
                 {
                     "id": 22,
                     "description": "Steam Achievements"
+                },
+                {
+                    "id": 23,
+                    "description": "Steam Cloud"
+                },
+                {
+                    "id": 25,
+                    "description": "Steam Leaderboards"
                 }
             ],
             "genres": [
@@ -53,71 +100,96 @@
                     "description": "Action"
                 },
                 {
+                    "id": "4",
+                    "description": "Casual"
+                },
+                {
                     "id": "23",
                     "description": "Indie"
                 },
                 {
                     "id": "28",
                     "description": "Simulation"
-                },
-                {
-                    "id": "70",
-                    "description": "Early Access"
                 }
             ],
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1002270/ss_6ac8b33d41c902460452fa6224a367a2ae0cd60f.600x338.jpg?t=1553698899",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1002270/ss_6ac8b33d41c902460452fa6224a367a2ae0cd60f.1920x1080.jpg?t=1553698899"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1002270/ss_30b99ff38c01db988da3471a0762dec8060d4f6d.600x338.jpg?t=1560849132",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1002270/ss_30b99ff38c01db988da3471a0762dec8060d4f6d.1920x1080.jpg?t=1560849132"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1002270/ss_81902b926474621ec2651cf741f2899c285f2190.600x338.jpg?t=1553698899",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1002270/ss_81902b926474621ec2651cf741f2899c285f2190.1920x1080.jpg?t=1553698899"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1002270/ss_e58a47db5d040889237d9e04d4a447b6ad8e1339.600x338.jpg?t=1560849132",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1002270/ss_e58a47db5d040889237d9e04d4a447b6ad8e1339.1920x1080.jpg?t=1560849132"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1002270/ss_4d2f9c4401d2f7bf43122e3849b10ad212713ca9.600x338.jpg?t=1553698899",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1002270/ss_4d2f9c4401d2f7bf43122e3849b10ad212713ca9.1920x1080.jpg?t=1553698899"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1002270/ss_ffda15ed27e5ffff68d9219688a3334176ef094e.600x338.jpg?t=1560849132",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1002270/ss_ffda15ed27e5ffff68d9219688a3334176ef094e.1920x1080.jpg?t=1560849132"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1002270/ss_2f3d25cbbe3b55846edb8e81c4ed7d1fc98d4e24.600x338.jpg?t=1553698899",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1002270/ss_2f3d25cbbe3b55846edb8e81c4ed7d1fc98d4e24.1920x1080.jpg?t=1553698899"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1002270/ss_ab1776c96b7e172d379de59bf5a13c79d51bf3af.600x338.jpg?t=1560849132",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1002270/ss_ab1776c96b7e172d379de59bf5a13c79d51bf3af.1920x1080.jpg?t=1560849132"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1002270/ss_b10bb771105afae627665fb6d53922c1b40088c1.600x338.jpg?t=1553698899",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1002270/ss_b10bb771105afae627665fb6d53922c1b40088c1.1920x1080.jpg?t=1553698899"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1002270/ss_99b71127bc056d621500503815b5c0939b8024e9.600x338.jpg?t=1560849132",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1002270/ss_99b71127bc056d621500503815b5c0939b8024e9.1920x1080.jpg?t=1560849132"
                 },
                 {
                     "id": 5,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1002270/ss_e6214ec024f1710c917a81d34e930aad33c105a4.600x338.jpg?t=1553698899",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1002270/ss_e6214ec024f1710c917a81d34e930aad33c105a4.1920x1080.jpg?t=1553698899"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1002270/ss_6201d2fbd5ff8f15024f278ec2ae6df0fa4cac99.600x338.jpg?t=1560849132",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1002270/ss_6201d2fbd5ff8f15024f278ec2ae6df0fa4cac99.1920x1080.jpg?t=1560849132"
                 },
                 {
                     "id": 6,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1002270/ss_12c3f246f27306914818a6c540e66b6e20eaae73.600x338.jpg?t=1553698899",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1002270/ss_12c3f246f27306914818a6c540e66b6e20eaae73.1920x1080.jpg?t=1553698899"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1002270/ss_416bffa5b9b3b2ee6b39abc46f586ce3f72a86d8.600x338.jpg?t=1560849132",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1002270/ss_416bffa5b9b3b2ee6b39abc46f586ce3f72a86d8.1920x1080.jpg?t=1560849132"
                 },
                 {
                     "id": 7,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1002270/ss_03048e658981871ac89abb3e73f22b97b5a3e763.600x338.jpg?t=1553698899",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1002270/ss_03048e658981871ac89abb3e73f22b97b5a3e763.1920x1080.jpg?t=1553698899"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1002270/ss_a29ce30495ae73aa731ae353852f6fc3824b1a70.600x338.jpg?t=1560849132",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1002270/ss_a29ce30495ae73aa731ae353852f6fc3824b1a70.1920x1080.jpg?t=1560849132"
                 },
                 {
                     "id": 8,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1002270/ss_3498f4b2997e3323e7af421be1ba55bb532958d9.600x338.jpg?t=1553698899",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1002270/ss_3498f4b2997e3323e7af421be1ba55bb532958d9.1920x1080.jpg?t=1553698899"
-                },
-                {
-                    "id": 9,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1002270/ss_93fd6e035d69a21fb4b97470bc65da0378d2865f.600x338.jpg?t=1553698899",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1002270/ss_93fd6e035d69a21fb4b97470bc65da0378d2865f.1920x1080.jpg?t=1553698899"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1002270/ss_fc948606356c36c3cf1149a1019d03f4d758768c.600x338.jpg?t=1560849132",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1002270/ss_fc948606356c36c3cf1149a1019d03f4d758768c.1920x1080.jpg?t=1560849132"
                 }
             ],
             "movies": [
+                {
+                    "id": 256751729,
+                    "name": "Gameplay GER",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256751729/movie.293x165.jpg?t=1559722878",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256751729/movie480.webm?t=1559722878",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256751729/movie_max.webm?t=1559722878"
+                    },
+                    "highlight": true
+                },
+                {
+                    "id": 256751728,
+                    "name": "Gameplay ENG",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256751728/movie.293x165.jpg?t=1558909828",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256751728/movie480.webm?t=1558909828",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256751728/movie_max.webm?t=1558909828"
+                    },
+                    "highlight": true
+                },
+                {
+                    "id": 256751727,
+                    "name": "Gameplay RUS",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256751727/movie.293x165.jpg?t=1558910738",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256751727/movie480.webm?t=1558910738",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256751727/movie_max.webm?t=1558910738"
+                    },
+                    "highlight": true
+                },
                 {
                     "id": 256743104,
                     "name": "PiiSim Trailer 1",
@@ -129,22 +201,63 @@
                     "highlight": true
                 }
             ],
+            "achievements": {
+                "total": 22,
+                "highlighted": [
+                    {
+                        "name": "Pii Beginer",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1002270/90517bdec4c2a4fb272bb89add7d4bffc5b520f5.jpg"
+                    },
+                    {
+                        "name": "Pii is amazing",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1002270/8028299e7b338922509520b64baa6421c701043e.jpg"
+                    },
+                    {
+                        "name": "Pii intelligent",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1002270/44d90ba72c78eed32ed14d295daa0afd4e8fc909.jpg"
+                    },
+                    {
+                        "name": "Pii intense",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1002270/851cec8c42f784eec1375b42ec74a6179e750ab1.jpg"
+                    },
+                    {
+                        "name": "Pii aggressive",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1002270/4a330adcb2477ec399dba768b1e09a36c0ea58ed.jpg"
+                    },
+                    {
+                        "name": "Hello World!",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1002270/92af685b2ddcddd782199c483f8c0c020b5fee90.jpg"
+                    },
+                    {
+                        "name": "Troublemaker",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1002270/15a8c06cdc9ed370563866f452c9cd170e6cce26.jpg"
+                    },
+                    {
+                        "name": "State of emergency",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1002270/ed8fb246a6320c2cd6c7294e8625a9264703b20d.jpg"
+                    },
+                    {
+                        "name": "Uncontrollable",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1002270/4717104febec9e3c94d72e44ee65417991baa323.jpg"
+                    },
+                    {
+                        "name": "Pees the police",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1002270/410139e993d2e1734be24d2a6c2bd8c8cdbc299f.jpg"
+                    }
+                ]
+            },
             "release_date": {
-                "coming_soon": true,
-                "date": "2019 Apr 1"
+                "coming_soon": false,
+                "date": "20 May, 2019"
             },
             "support_info": {
                 "url": "https://vk.com/koker007",
                 "email": ""
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1002270/page_bg_generated_v6b.jpg?t=1553698899",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1002270/page_bg_generated_v6b.jpg?t=1560849132",
             "content_descriptors": {
-                "ids": [
-                    1,
-                    2,
-                    5
-                ],
-                "notes": "Game play implies urinating on objects.\r\nThere are subjects implying \"meaning\" the presence of sex. However, nothing can be seen."
+                "ids": [],
+                "notes": null
             }
         }
     }
