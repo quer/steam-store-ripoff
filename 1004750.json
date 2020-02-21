@@ -12,11 +12,11 @@
             "about_the_game": "The WRC championship is the most difficult and unpredictable motorsport competition in the world. Drivers, co-drivers and technical staff have to constantly adapt to get the best from their cars and be the fastest on each surface, whatever the weather, both day and night.<br />\r\n<br />\r\nWith the new dynamic weather system developed for WRC 8, rain, snow and hailstorms have a bigger impact, resulting in a much more true to life simulation. Road grip changes during the race, cars need to be tuned specifically for each special stage, tyre choices and stock management need to be considered, and making proper use of the weather team to get the best advice... The weather is much more than a visual effect - now it's finally coming into its own, adding a whole new dimension to the game.<br />\r\n<br />\r\nIn solo mode take on the new challenges of a completely overhauled, more realistic career mode, designed in conjunction with WRC drivers: schedule and activity management between rallies, research and development to improve the car, recruitment and management of your staff (mechanics, engineers, medical and weather teams, financial director, communication manager, etc.). <br />\r\n<br />\r\nIn multiplayer mode, weekly challenges and eSports WRC  are back and the competition is more intense than ever. <br />\r\n<br />\r\nWith 50 teams, 14 rallies and more than 100 special stages from the 2019 season, WRC 8 offers the most content ever in an off-road racing game. Rise to the challenge!",
             "short_description": "Never before has the official WRC simulation been this authentic. New off-road physics on all road surfaces, completely redesigned career mode, dynamic weather, 50 teams, 14 countries, 100+ stages, weekly challenges and the eSports mode… Aim for the top in the most intense WRC experience yet!",
             "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Japanese<strong>*</strong>, Korean, Polish, Russian, Simplified Chinese<strong>*</strong>, Traditional Chinese<br><strong>*</strong>languages with full audio support",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1004750/header.jpg?t=1549461370",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1004750/header.jpg?t=1566889993",
             "website": null,
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows® 7 64bits<br></li><li><strong>Processor:</strong> Intel Core i3-540 or AMD Phenom II X4 940<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GeForce GTX 560 or AMD Radeon HD 6870<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 19 GB available space<br></li><li><strong>Sound Card:</strong> DirectX Compatible Soundcard<br></li><li><strong>Additional Notes:</strong> 64bit Only</li></ul>",
-                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10 64-bit<br></li><li><strong>Processor:</strong> Intel Core i7-3770 or AMD FX-8350<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GTX 780 or AMD R9 290<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 19 MB available space<br></li><li><strong>Sound Card:</strong> DirectX Compatible Soundcard<br></li><li><strong>Additional Notes:</strong> 64bit Only</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows® 7 64bits<br></li><li><strong>Processor:</strong> Intel Core i3-2100 or AMD FX-4350<br></li><li><strong>Memory:</strong> 6 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GeForce GTX 650 2GB or ATI Radeon HD 5870 2GB<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 19 GB available space<br></li><li><strong>Sound Card:</strong> DirectX Compatible Soundcard<br></li><li><strong>Additional Notes:</strong> 64bit Only</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10 64-bit<br></li><li><strong>Processor:</strong> Intel Core i5-6600 or AMD Ryzen 5 1600<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GeForce GTX 1060 3GB or Radeon RX 580 4GB<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 19 MB available space<br></li><li><strong>Sound Card:</strong> DirectX Compatible Soundcard<br></li><li><strong>Additional Notes:</strong> 64bit Only</li></ul>"
             },
             "mac_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
@@ -48,12 +48,16 @@
                     "description": "Multi-player"
                 },
                 {
+                    "id": 49,
+                    "description": "PvP"
+                },
+                {
                     "id": 36,
-                    "description": "Online Multi-Player"
+                    "description": "Online PvP"
                 },
                 {
                     "id": 37,
-                    "description": "Local Multi-Player"
+                    "description": "Shared/Split Screen PvP"
                 },
                 {
                     "id": 24,
@@ -66,13 +70,13 @@
                 {
                     "id": 28,
                     "description": "Full controller support"
+                },
+                {
+                    "id": 44,
+                    "description": "Remote Play Together"
                 }
             ],
             "genres": [
-                {
-                    "id": "4",
-                    "description": "Casual"
-                },
                 {
                     "id": "9",
                     "description": "Racing"
@@ -89,51 +93,76 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1004750/ss_b3ef8732bef79d19205484c928dc109e4ae8c561.600x338.jpg?t=1549461370",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1004750/ss_b3ef8732bef79d19205484c928dc109e4ae8c561.1920x1080.jpg?t=1549461370"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1004750/ss_b3ef8732bef79d19205484c928dc109e4ae8c561.600x338.jpg?t=1566889993",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1004750/ss_b3ef8732bef79d19205484c928dc109e4ae8c561.1920x1080.jpg?t=1566889993"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1004750/ss_f4c94a31ebebbd5b37fcc26f45bb17dead71f477.600x338.jpg?t=1549461370",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1004750/ss_f4c94a31ebebbd5b37fcc26f45bb17dead71f477.1920x1080.jpg?t=1549461370"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1004750/ss_f4c94a31ebebbd5b37fcc26f45bb17dead71f477.600x338.jpg?t=1566889993",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1004750/ss_f4c94a31ebebbd5b37fcc26f45bb17dead71f477.1920x1080.jpg?t=1566889993"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1004750/ss_d1ea8fab32154bc370d34ca963d331f4769a4f83.600x338.jpg?t=1549461370",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1004750/ss_d1ea8fab32154bc370d34ca963d331f4769a4f83.1920x1080.jpg?t=1549461370"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1004750/ss_d1ea8fab32154bc370d34ca963d331f4769a4f83.600x338.jpg?t=1566889993",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1004750/ss_d1ea8fab32154bc370d34ca963d331f4769a4f83.1920x1080.jpg?t=1566889993"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1004750/ss_7f0d3ac28042b27721ebc7b9a8be55dfe8acbdb6.600x338.jpg?t=1549461370",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1004750/ss_7f0d3ac28042b27721ebc7b9a8be55dfe8acbdb6.1920x1080.jpg?t=1549461370"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1004750/ss_7f0d3ac28042b27721ebc7b9a8be55dfe8acbdb6.600x338.jpg?t=1566889993",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1004750/ss_7f0d3ac28042b27721ebc7b9a8be55dfe8acbdb6.1920x1080.jpg?t=1566889993"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1004750/ss_998279f12e1ed86809ef45505ad3421cc3aa6ea5.600x338.jpg?t=1549461370",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1004750/ss_998279f12e1ed86809ef45505ad3421cc3aa6ea5.1920x1080.jpg?t=1549461370"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1004750/ss_998279f12e1ed86809ef45505ad3421cc3aa6ea5.600x338.jpg?t=1566889993",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1004750/ss_998279f12e1ed86809ef45505ad3421cc3aa6ea5.1920x1080.jpg?t=1566889993"
+                },
+                {
+                    "id": 6,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1004750/ss_860143bfab261ebae9e7a9ec2a111a64577a3afb.600x338.jpg?t=1566889993",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1004750/ss_860143bfab261ebae9e7a9ec2a111a64577a3afb.1920x1080.jpg?t=1566889993"
+                },
+                {
+                    "id": 7,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1004750/ss_d788c84852da67c29311c2b75c8256afe8245b94.600x338.jpg?t=1566889993",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1004750/ss_d788c84852da67c29311c2b75c8256afe8245b94.1920x1080.jpg?t=1566889993"
+                },
+                {
+                    "id": 8,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1004750/ss_0b24484c0b9c6cb0269f11ace130d3221e107659.600x338.jpg?t=1566889993",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1004750/ss_0b24484c0b9c6cb0269f11ace130d3221e107659.1920x1080.jpg?t=1566889993"
+                },
+                {
+                    "id": 9,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1004750/ss_75a243f21ea00730562797f4a8f50c9fa50c7371.600x338.jpg?t=1566889993",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1004750/ss_75a243f21ea00730562797f4a8f50c9fa50c7371.1920x1080.jpg?t=1566889993"
+                },
+                {
+                    "id": 10,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1004750/ss_0bac03de7bbe120f96d6135b142b1ffdb9d556e6.600x338.jpg?t=1566889993",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1004750/ss_0bac03de7bbe120f96d6135b142b1ffdb9d556e6.1920x1080.jpg?t=1566889993"
                 }
             ],
             "movies": [
                 {
                     "id": 256740958,
                     "name": "Announcement Trailer",
-                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256740958/movie.293x165.jpg?t=1548347709",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256740958/movie.293x165.jpg?t=1562576170",
                     "webm": {
-                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256740958/movie480.webm?t=1548347709",
-                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256740958/movie_max.webm?t=1548347709"
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256740958/movie480.webm?t=1562576170",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256740958/movie_max.webm?t=1562576170"
                     },
                     "highlight": true
                 }
             ],
             "release_date": {
                 "coming_soon": true,
-                "date": "September 2019"
+                "date": "September 2020"
             },
             "support_info": {
                 "url": "",
                 "email": "gcharlier@bigben.fr"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1004750/page_bg_generated_v6b.jpg?t=1549461370",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1004750/page_bg_generated_v6b.jpg?t=1566889993",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
