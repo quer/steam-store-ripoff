@@ -1,0 +1,114 @@
+{
+    "556150": {
+        "success": true,
+        "data": {
+            "type": "dlc",
+            "name": "3DMark VRS feature test",
+            "steam_appid": 556150,
+            "required_age": 0,
+            "is_free": true,
+            "detailed_description": "Variable-Rate Shading (VRS) is a new feature in DirectX 12 that allows developers to improve performance by selectively reducing the level of detail in parts of the frame where there will be little noticeable effect on image quality.<br><br>There are two tiers of VRS support. With Tier 1, developers can specify a different shading rate for each draw call. Tier 2 adds more flexibility and control by allowing different shading rates within each draw call.<br><br>This 3DMark feature test helps you compare differences in performance and image quality when using Tier 1 or Tier 2 Variable-Rate Shading. There is also an interactive mode for experimenting with different VRS settings and exporting frames for comparison.<br><br><ul class=\"bb_ul\"><li>Compare performance and image quality with Variable-Rate Shading. <br></li><li>Separate tests for Tier 1 and Tier 2. <br></li><li>DirectX 12 API implementation for impartial results.<br></li><li>Interactive mode for experimenting with VRS settings.</li></ul>",
+            "about_the_game": "Variable-Rate Shading (VRS) is a new feature in DirectX 12 that allows developers to improve performance by selectively reducing the level of detail in parts of the frame where there will be little noticeable effect on image quality.<br><br>There are two tiers of VRS support. With Tier 1, developers can specify a different shading rate for each draw call. Tier 2 adds more flexibility and control by allowing different shading rates within each draw call.<br><br>This 3DMark feature test helps you compare differences in performance and image quality when using Tier 1 or Tier 2 Variable-Rate Shading. There is also an interactive mode for experimenting with different VRS settings and exporting frames for comparison.<br><br><ul class=\"bb_ul\"><li>Compare performance and image quality with Variable-Rate Shading. <br></li><li>Separate tests for Tier 1 and Tier 2. <br></li><li>DirectX 12 API implementation for impartial results.<br></li><li>Interactive mode for experimenting with VRS settings.</li></ul>",
+            "short_description": "Test variable-rate shading performance and image quality.",
+            "fullgame": {
+                "appid": "223850",
+                "name": "3DMark"
+            },
+            "supported_languages": "English, German, Simplified Chinese, Russian, Japanese, Korean, Spanish - Spain, Traditional Chinese",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/556150/header.jpg?t=1579598961",
+            "website": "https://benchmarks.ul.com/3dmark",
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10 version 1903 or later<br>\t</li><li><strong>Processor:</strong>Dual-core processor<br>\t</li><li><strong>Memory:</strong>4 GB<br>\t</li><li><strong>Graphics:</strong>DirectX 12*<br>\t</li><li><strong>Video memory:</strong>1 GB<br>\t</li><li><strong>Storage:</strong>720 MB</li></ul><br>* To run the Tier 1 test you need a DirectX 12 GPU that supports Tier 1 Variable-Rate Shading. You need a GPU that supports Tier 2 Variable-Rate Shading to run the Tier 2 test."
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "developers": [
+                "UL"
+            ],
+            "publishers": [
+                "UL"
+            ],
+            "packages": [
+                323175
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy 3DMark VRS feature test",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 323175,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "3DMark - 24,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 2499
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 21,
+                    "description": "Downloadable Content"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "57",
+                    "description": "Utilities"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/556150/ss_61880f6b4cc2ebf9701a41cb0497a2278f986d18.600x338.jpg?t=1579598961",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/556150/ss_61880f6b4cc2ebf9701a41cb0497a2278f986d18.1920x1080.jpg?t=1579598961"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/556150/ss_7bf65a535a64aeddbcb6355a1817e00c3bcbe21f.600x338.jpg?t=1579598961",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/556150/ss_7bf65a535a64aeddbcb6355a1817e00c3bcbe21f.1920x1080.jpg?t=1579598961"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/556150/ss_a6f019af6c81a0c14668ea99c1cdcec89480e769.600x338.jpg?t=1579598961",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/556150/ss_a6f019af6c81a0c14668ea99c1cdcec89480e769.1920x1080.jpg?t=1579598961"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/556150/ss_415e9f5ca321bd548a72640ff75da5492e84f4e0.600x338.jpg?t=1579598961",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/556150/ss_415e9f5ca321bd548a72640ff75da5492e84f4e0.1920x1080.jpg?t=1579598961"
+                }
+            ],
+            "achievements": {
+                "total": 0
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "26 Aug, 2019"
+            },
+            "support_info": {
+                "url": "https://benchmarks.ul.com/support",
+                "email": ""
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/556150/page_bg_generated_v6b.jpg?t=1579598961",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}

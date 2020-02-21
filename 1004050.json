@@ -11,11 +11,11 @@
             "about_the_game": "time of the zombies sets you as the only survivor in an apocalyptic world filled with zombies,<br />\r\n guns and ammo. How long will you stay alive? will you end up as zombie food?",
             "short_description": "time of the zombies sets you as the only survivor in an apocalyptic world filled with zombies, guns and ammo. How long will you stay alive? will you end up as zombie food?",
             "supported_languages": "English",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1004050/header.jpg?t=1553252236",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1004050/header.jpg?t=1557938771",
             "website": null,
             "pc_requirements": {
-                "minimum": "<strong>Минимальные:</strong><br><ul class=\"bb_ul\"><li><strong>ОС:</strong> windows 10<br></li><li><strong>Процессор:</strong> i5<br></li><li><strong>Оперативная память:</strong> 8000 MB ОЗУ<br></li><li><strong>Видеокарта:</strong> 2047 mb at least<br></li><li><strong>Место на диске:</strong> 1433 MB<br></li><li><strong>Звуковая карта:</strong> 1gz</li></ul>",
-                "recommended": "<strong>Рекомендованные:</strong><br><ul class=\"bb_ul\"><li><strong>ОС:</strong> windows 10<br></li><li><strong>Процессор:</strong> i7<br></li><li><strong>Оперативная память:</strong> 16000 MB ОЗУ<br></li><li><strong>Видеокарта:</strong> 8191 mb at least<br></li><li><strong>Место на диске:</strong> 2000 MB</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> windows 10<br></li><li><strong>Processor:</strong> i5<br></li><li><strong>Memory:</strong> 8000 MB RAM<br></li><li><strong>Graphics:</strong> 2047 mb at least<br></li><li><strong>Storage:</strong> 1433 MB available space<br></li><li><strong>Sound Card:</strong> 1gz</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> windows 10<br></li><li><strong>Processor:</strong> i7<br></li><li><strong>Memory:</strong> 16000 MB RAM<br></li><li><strong>Graphics:</strong> 8191 mb at least<br></li><li><strong>Storage:</strong> 2000 MB available space</li></ul>"
             },
             "mac_requirements": [],
             "linux_requirements": [],
@@ -25,13 +25,19 @@
             "publishers": [
                 "kessels game studio"
             ],
+            "demos": [
+                {
+                    "appid": 1072260,
+                    "description": ""
+                }
+            ],
             "price_overview": {
                 "currency": "EUR",
-                "initial": 239,
-                "final": 239,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "2,39€"
+                "initial": 79,
+                "final": 47,
+                "discount_percent": 41,
+                "initial_formatted": "0,79€",
+                "final_formatted": "0,47€"
             },
             "packages": [
                 331912,
@@ -49,13 +55,13 @@
                     "subs": [
                         {
                             "packageid": 331912,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-41%",
                             "percent_savings": 0,
-                            "option_text": "time of the zombies - 2,39€",
+                            "option_text": "time of the zombies - <span class=\"discount_original_price\">0,79€</span> 0,47€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 239
+                            "price_in_cents_with_discount": 47
                         },
                         {
                             "packageid": 352261,
@@ -79,6 +85,10 @@
                 {
                     "id": 2,
                     "description": "Single-player"
+                },
+                {
+                    "id": 23,
+                    "description": "Steam Cloud"
                 }
             ],
             "genres": [
@@ -90,38 +100,38 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1004050/ss_a34daf4c9f3c682b3ca9d14206c8c9da7e97a9c5.600x338.jpg?t=1553252236",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1004050/ss_a34daf4c9f3c682b3ca9d14206c8c9da7e97a9c5.1920x1080.jpg?t=1553252236"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1004050/ss_a34daf4c9f3c682b3ca9d14206c8c9da7e97a9c5.600x338.jpg?t=1557938771",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1004050/ss_a34daf4c9f3c682b3ca9d14206c8c9da7e97a9c5.1920x1080.jpg?t=1557938771"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1004050/ss_d548fe419f568ce45683eaec8f739748e34e1138.600x338.jpg?t=1553252236",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1004050/ss_d548fe419f568ce45683eaec8f739748e34e1138.1920x1080.jpg?t=1553252236"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1004050/ss_d548fe419f568ce45683eaec8f739748e34e1138.600x338.jpg?t=1557938771",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1004050/ss_d548fe419f568ce45683eaec8f739748e34e1138.1920x1080.jpg?t=1557938771"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1004050/ss_88d2e6a6ace11dccee25987ff29e6f3f6ff9213f.600x338.jpg?t=1553252236",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1004050/ss_88d2e6a6ace11dccee25987ff29e6f3f6ff9213f.1920x1080.jpg?t=1553252236"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1004050/ss_88d2e6a6ace11dccee25987ff29e6f3f6ff9213f.600x338.jpg?t=1557938771",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1004050/ss_88d2e6a6ace11dccee25987ff29e6f3f6ff9213f.1920x1080.jpg?t=1557938771"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1004050/ss_13dee6904ed8d2cca0b57ba885a0f6dd9c3249ac.600x338.jpg?t=1553252236",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1004050/ss_13dee6904ed8d2cca0b57ba885a0f6dd9c3249ac.1920x1080.jpg?t=1553252236"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1004050/ss_13dee6904ed8d2cca0b57ba885a0f6dd9c3249ac.600x338.jpg?t=1557938771",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1004050/ss_13dee6904ed8d2cca0b57ba885a0f6dd9c3249ac.1920x1080.jpg?t=1557938771"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1004050/ss_0a272cbf8cb6b86862be366c2add0638241a3597.600x338.jpg?t=1553252236",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1004050/ss_0a272cbf8cb6b86862be366c2add0638241a3597.1920x1080.jpg?t=1553252236"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1004050/ss_0a272cbf8cb6b86862be366c2add0638241a3597.600x338.jpg?t=1557938771",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1004050/ss_0a272cbf8cb6b86862be366c2add0638241a3597.1920x1080.jpg?t=1557938771"
                 },
                 {
                     "id": 5,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1004050/ss_fefca07500d08cd7553eb40ad0ba8fa4d64bf92d.600x338.jpg?t=1553252236",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1004050/ss_fefca07500d08cd7553eb40ad0ba8fa4d64bf92d.1920x1080.jpg?t=1553252236"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1004050/ss_fefca07500d08cd7553eb40ad0ba8fa4d64bf92d.600x338.jpg?t=1557938771",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1004050/ss_fefca07500d08cd7553eb40ad0ba8fa4d64bf92d.1920x1080.jpg?t=1557938771"
                 },
                 {
                     "id": 6,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1004050/ss_252a74b76bf733f042637b840fa9e2f3f8106b74.600x338.jpg?t=1553252236",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1004050/ss_252a74b76bf733f042637b840fa9e2f3f8106b74.1920x1080.jpg?t=1553252236"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1004050/ss_252a74b76bf733f042637b840fa9e2f3f8106b74.600x338.jpg?t=1557938771",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1004050/ss_252a74b76bf733f042637b840fa9e2f3f8106b74.1920x1080.jpg?t=1557938771"
                 }
             ],
             "movies": [
@@ -153,7 +163,7 @@
                 "url": "",
                 "email": "info@kessels-game-studio.nl"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1004050/page_bg_generated_v6b.jpg?t=1553252236",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1004050/page_bg_generated_v6b.jpg?t=1557938771",
             "content_descriptors": {
                 "ids": [
                     2,
