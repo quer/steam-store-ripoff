@@ -7,11 +7,11 @@
             "steam_appid": 1005630,
             "required_age": 0,
             "is_free": false,
-            "detailed_description": "<strong>Hope For Village</strong> is an Old-School RPG game. We designed this game for mini rpg &amp; survival fans. Farming, crafting, combat, fishing and more, just explore it! <br>Monsters, wild animals, enemies of kingdom... Who do you think will win?<h2 class=\"bb_tag\">Features</h2><ul class=\"bb_ul\"><li>Mini RPG Survival game!<br></li><li>You can loot items!<br></li><li>Craft new weapons!<br></li><li>Manage the basic farm system!<br></li><li>Buy new weapons and armors!<br></li><li>Fight with enemies and monsters!<br></li><li>You can fish!<br></li><li>You can cook!<br></li><li>You can be a miner!<br></li><li>Turn Based Combat System!<br></li><li>Sail your own boat!<br></li><li>Day &amp; Night System!</li></ul><br>Explore the forest, discover secret places...<br><br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/1005630/extras/Logo.png?t=1553197677\" >",
-            "about_the_game": "<strong>Hope For Village</strong> is an Old-School RPG game. We designed this game for mini rpg &amp; survival fans. Farming, crafting, combat, fishing and more, just explore it! <br>Monsters, wild animals, enemies of kingdom... Who do you think will win?<h2 class=\"bb_tag\">Features</h2><ul class=\"bb_ul\"><li>Mini RPG Survival game!<br></li><li>You can loot items!<br></li><li>Craft new weapons!<br></li><li>Manage the basic farm system!<br></li><li>Buy new weapons and armors!<br></li><li>Fight with enemies and monsters!<br></li><li>You can fish!<br></li><li>You can cook!<br></li><li>You can be a miner!<br></li><li>Turn Based Combat System!<br></li><li>Sail your own boat!<br></li><li>Day &amp; Night System!</li></ul><br>Explore the forest, discover secret places...<br><br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/1005630/extras/Logo.png?t=1553197677\" >",
+            "detailed_description": "<strong>Hope For Village</strong> is an Old-School RPG game. We designed this game for mini rpg &amp; survival fans. Farming, crafting, combat, fishing and more, just explore it! <br>Monsters, wild animals, enemies of kingdom... Who do you think will win?<h2 class=\"bb_tag\">Features</h2><ul class=\"bb_ul\"><li>Mini RPG Survival game!<br></li><li>You can loot items!<br></li><li>Craft new weapons!<br></li><li>Manage the basic farm system!<br></li><li>Buy new weapons and armors!<br></li><li>Fight with enemies and monsters!<br></li><li>You can fish!<br></li><li>You can cook!<br></li><li>You can be a miner!<br></li><li>Turn Based Combat System!<br></li><li>Sail your own boat!<br></li><li>Day &amp; Night System!</li></ul><br>Explore the forest, discover secret places...<br><br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/1005630/extras/Logo.png?t=1575300436\" >",
+            "about_the_game": "<strong>Hope For Village</strong> is an Old-School RPG game. We designed this game for mini rpg &amp; survival fans. Farming, crafting, combat, fishing and more, just explore it! <br>Monsters, wild animals, enemies of kingdom... Who do you think will win?<h2 class=\"bb_tag\">Features</h2><ul class=\"bb_ul\"><li>Mini RPG Survival game!<br></li><li>You can loot items!<br></li><li>Craft new weapons!<br></li><li>Manage the basic farm system!<br></li><li>Buy new weapons and armors!<br></li><li>Fight with enemies and monsters!<br></li><li>You can fish!<br></li><li>You can cook!<br></li><li>You can be a miner!<br></li><li>Turn Based Combat System!<br></li><li>Sail your own boat!<br></li><li>Day &amp; Night System!</li></ul><br>Explore the forest, discover secret places...<br><br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/1005630/extras/Logo.png?t=1575300436\" >",
             "short_description": "Hope For Village is an Old-School RPG game. Farming, crafting, combat, fishing and more, just explore it! Monsters, wild animals, enemies of kingdom... Who do you think will win?",
             "supported_languages": "English",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1005630/header.jpg?t=1553197677",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1005630/header.jpg?t=1575300436",
             "website": null,
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7/8/8.1/10<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 800 MB available space</li></ul>",
@@ -25,7 +25,40 @@
             "publishers": [
                 "Cloaz Studio"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 159,
+                "final": 63,
+                "discount_percent": 60,
+                "initial_formatted": "1,59€",
+                "final_formatted": "0,63€"
+            },
+            "packages": [
+                332546
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Hope For Village",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 332546,
+                            "percent_savings_text": "-60%",
+                            "percent_savings": 0,
+                            "option_text": "Hope For Village - <span class=\"discount_original_price\">1,59€</span> 0,63€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 63
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": false,
@@ -35,6 +68,10 @@
                 {
                     "id": 2,
                     "description": "Single-player"
+                },
+                {
+                    "id": 18,
+                    "description": "Partial Controller Support"
                 }
             ],
             "genres": [
@@ -58,43 +95,43 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1005630/ss_57c1d5845eb0560459c669f69012f2e5cc7f9c2c.600x338.jpg?t=1553197677",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1005630/ss_57c1d5845eb0560459c669f69012f2e5cc7f9c2c.1920x1080.jpg?t=1553197677"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1005630/ss_57c1d5845eb0560459c669f69012f2e5cc7f9c2c.600x338.jpg?t=1575300436",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1005630/ss_57c1d5845eb0560459c669f69012f2e5cc7f9c2c.1920x1080.jpg?t=1575300436"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1005630/ss_2e20bf18d53535bd26a84a0b1315c426c349cea1.600x338.jpg?t=1553197677",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1005630/ss_2e20bf18d53535bd26a84a0b1315c426c349cea1.1920x1080.jpg?t=1553197677"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1005630/ss_2e20bf18d53535bd26a84a0b1315c426c349cea1.600x338.jpg?t=1575300436",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1005630/ss_2e20bf18d53535bd26a84a0b1315c426c349cea1.1920x1080.jpg?t=1575300436"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1005630/ss_37358131ba3751caae23f8731df71b5303ffb5c5.600x338.jpg?t=1553197677",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1005630/ss_37358131ba3751caae23f8731df71b5303ffb5c5.1920x1080.jpg?t=1553197677"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1005630/ss_37358131ba3751caae23f8731df71b5303ffb5c5.600x338.jpg?t=1575300436",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1005630/ss_37358131ba3751caae23f8731df71b5303ffb5c5.1920x1080.jpg?t=1575300436"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1005630/ss_c6fae51c2aad5ac6e9565df72456c8ba11a8411d.600x338.jpg?t=1553197677",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1005630/ss_c6fae51c2aad5ac6e9565df72456c8ba11a8411d.1920x1080.jpg?t=1553197677"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1005630/ss_c6fae51c2aad5ac6e9565df72456c8ba11a8411d.600x338.jpg?t=1575300436",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1005630/ss_c6fae51c2aad5ac6e9565df72456c8ba11a8411d.1920x1080.jpg?t=1575300436"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1005630/ss_15d8966da0b29d6a35152957052348dc61d44d9a.600x338.jpg?t=1553197677",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1005630/ss_15d8966da0b29d6a35152957052348dc61d44d9a.1920x1080.jpg?t=1553197677"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1005630/ss_15d8966da0b29d6a35152957052348dc61d44d9a.600x338.jpg?t=1575300436",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1005630/ss_15d8966da0b29d6a35152957052348dc61d44d9a.1920x1080.jpg?t=1575300436"
                 },
                 {
                     "id": 5,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1005630/ss_4abf74eca778021d73d87526ce04638b6246400b.600x338.jpg?t=1553197677",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1005630/ss_4abf74eca778021d73d87526ce04638b6246400b.1920x1080.jpg?t=1553197677"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1005630/ss_4abf74eca778021d73d87526ce04638b6246400b.600x338.jpg?t=1575300436",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1005630/ss_4abf74eca778021d73d87526ce04638b6246400b.1920x1080.jpg?t=1575300436"
                 },
                 {
                     "id": 6,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1005630/ss_83dcf6de0cac5264ed1ebdac9b7f51c35fb8c503.600x338.jpg?t=1553197677",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1005630/ss_83dcf6de0cac5264ed1ebdac9b7f51c35fb8c503.1920x1080.jpg?t=1553197677"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1005630/ss_83dcf6de0cac5264ed1ebdac9b7f51c35fb8c503.600x338.jpg?t=1575300436",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1005630/ss_83dcf6de0cac5264ed1ebdac9b7f51c35fb8c503.1920x1080.jpg?t=1575300436"
                 },
                 {
                     "id": 7,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1005630/ss_1a547637d656ae2fdda8b43c6989f535977be3a5.600x338.jpg?t=1553197677",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1005630/ss_1a547637d656ae2fdda8b43c6989f535977be3a5.1920x1080.jpg?t=1553197677"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1005630/ss_1a547637d656ae2fdda8b43c6989f535977be3a5.600x338.jpg?t=1575300436",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1005630/ss_1a547637d656ae2fdda8b43c6989f535977be3a5.1920x1080.jpg?t=1575300436"
                 }
             ],
             "movies": [
@@ -110,14 +147,14 @@
                 }
             ],
             "release_date": {
-                "coming_soon": true,
+                "coming_soon": false,
                 "date": "4 Apr, 2019"
             },
             "support_info": {
                 "url": "",
                 "email": "cloazstudio@gmail.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1005630/page_bg_generated_v6b.jpg?t=1553197677",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1005630/page_bg_generated_v6b.jpg?t=1575300436",
             "content_descriptors": {
                 "ids": [],
                 "notes": null

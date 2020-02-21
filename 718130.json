@@ -1,0 +1,156 @@
+{
+    "718130": {
+        "success": true,
+        "data": {
+            "type": "dlc",
+            "name": "Direwolf - Supporter's Package",
+            "steam_appid": 718130,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "If you want to show some support for the devs and artists, you can become a supporter, and unlock some sweet ingame and social perks.<br><br>(This will of course never give you any in-game advantages, as we do not want any sort of pay-to-win mechanics in our games.)<br><br><strong>Perk list</strong><br><ul class=\"bb_ul\"><li>You gain TWICE as many experience points for each game.<br></li><li>You can have 5 ongoing quests, instead of just 3.<br></li><li>Unlock some unique cosmetics<br></li><li>You will receive a golden status marker on our Discord group.<br></li><li>Community title: Supporter</li></ul><br>10% of the sale still goes to our Wolf Wildlife Reserve partner.",
+            "about_the_game": "If you want to show some support for the devs and artists, you can become a supporter, and unlock some sweet ingame and social perks.<br><br>(This will of course never give you any in-game advantages, as we do not want any sort of pay-to-win mechanics in our games.)<br><br><strong>Perk list</strong><br><ul class=\"bb_ul\"><li>You gain TWICE as many experience points for each game.<br></li><li>You can have 5 ongoing quests, instead of just 3.<br></li><li>Unlock some unique cosmetics<br></li><li>You will receive a golden status marker on our Discord group.<br></li><li>Community title: Supporter</li></ul><br>10% of the sale still goes to our Wolf Wildlife Reserve partner.",
+            "short_description": "Support the development of Direwolf and get a sweet stack of perks.",
+            "fullgame": {
+                "appid": "657730",
+                "name": "Direwolf"
+            },
+            "supported_languages": "English",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/718130/header.jpg?t=1571929089",
+            "website": "https://direwolfonline.com",
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP SP2+<br></li><li><strong>Processor:</strong> 1.7 GHz Dual Core<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> DX9 (shader model 3.0) or DX11 with feature level 9.3 capabilities.<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 1 GB available space<br></li><li><strong>Additional Notes:</strong> Requires the Direwolf main game.</li></ul>"
+            },
+            "mac_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Snow Leopard 10.6.8 or later<br></li><li><strong>Processor:</strong> Intel Core Duo<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> ATI Radeon HD 4850, NVIDIA GeForce GT 120, Intel HD 3000, or equivalent card with at least 512 MB VRAM<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 1 GB available space<br></li><li><strong>Additional Notes:</strong> Requires the Direwolf main game.</li></ul>"
+            },
+            "linux_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 12.04+ or SteamOS<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> DX9 (shader model 3.0) or DX11 with feature level 9.3 capabilities.<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 1 GB available space<br></li><li><strong>Additional Notes:</strong> Requires the Direwolf main game.</li></ul>"
+            },
+            "developers": [
+                "LizardFactory"
+            ],
+            "publishers": [
+                "LizardFactory"
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 1499,
+                "final": 1499,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "14,99€"
+            },
+            "packages": [
+                208249
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Direwolf - Supporter's Package",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 208249,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Direwolf - Supporter pack - 14,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 1499
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": true,
+                "linux": true
+            },
+            "categories": [
+                {
+                    "id": 36,
+                    "description": "Online PvP"
+                },
+                {
+                    "id": 38,
+                    "description": "Online Co-op"
+                },
+                {
+                    "id": 21,
+                    "description": "Downloadable Content"
+                },
+                {
+                    "id": 22,
+                    "description": "Steam Achievements"
+                },
+                {
+                    "id": 29,
+                    "description": "Steam Trading Cards"
+                },
+                {
+                    "id": 30,
+                    "description": "Steam Workshop"
+                },
+                {
+                    "id": 35,
+                    "description": "In-App Purchases"
+                },
+                {
+                    "id": 23,
+                    "description": "Steam Cloud"
+                },
+                {
+                    "id": 15,
+                    "description": "Stats"
+                },
+                {
+                    "id": 17,
+                    "description": "Includes level editor"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "37",
+                    "description": "Free to Play"
+                },
+                {
+                    "id": "23",
+                    "description": "Indie"
+                },
+                {
+                    "id": "3",
+                    "description": "RPG"
+                },
+                {
+                    "id": "2",
+                    "description": "Strategy"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/718130/ss_e3840c277c22520f48918cb201c72e837a5c2805.600x338.jpg?t=1571929089",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/718130/ss_e3840c277c22520f48918cb201c72e837a5c2805.1920x1080.jpg?t=1571929089"
+                }
+            ],
+            "release_date": {
+                "coming_soon": false,
+                "date": "24 May, 2019"
+            },
+            "support_info": {
+                "url": "http://playdirewolf.com",
+                "email": "direwolf@lizardfactory.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/718130/page_bg_generated_v6b.jpg?t=1571929089",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}
