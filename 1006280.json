@@ -34,14 +34,15 @@
             ],
             "price_overview": {
                 "currency": "EUR",
-                "initial": 159,
-                "final": 54,
-                "discount_percent": 66,
-                "initial_formatted": "1,59€",
-                "final_formatted": "0,54€"
+                "initial": 79,
+                "final": 79,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "0,79€"
             },
             "packages": [
-                332796
+                332796,
+                345144
             ],
             "package_groups": [
                 {
@@ -55,13 +56,23 @@
                     "subs": [
                         {
                             "packageid": 332796,
-                            "percent_savings_text": "-66%",
+                            "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "True Hentai Puzzle 666 - <span class=\"discount_original_price\">1,59€</span> 0,54€",
+                            "option_text": "True Hentai Puzzle 666 - 0,79€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 54
+                            "price_in_cents_with_discount": 79
+                        },
+                        {
+                            "packageid": 345144,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "True Hentai Puzzle 666 - Commercial License - 8,19€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 819
                         }
                     ]
                 }
