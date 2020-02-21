@@ -1,0 +1,174 @@
+{
+    "1033070": {
+        "success": true,
+        "data": {
+            "type": "dlc",
+            "name": "AppGameKit Studio - Particle Editor",
+            "steam_appid": 1033070,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "The AppGameKit Studio Particle Editor is an easy to use editor that brings GPU particles to your creations. Leverage the power of your GPU to create complex effects with high particle counts without a big performance impact.<br><br>The AppGameKit Studio Particle Editor is compatible with AppGameKit Studio and AppGameKit Classic.<br> <br>The editor provides tools for controlling all the essential effect parameters and lets you create particle movement and flows visually without the need for programming or complex formulas.<br><br>Particles can be controlled and moved by building a layered stack of influencer effects such as reflectors, swirls, forces and attractors.<br><br>There's also a special paint layer with which you can freely paint particle movements (speed and direction) in the 3D space surrounding the emitter. This allows for instant visual feedback and an iterative and artistic way of building your game effects.<br><br>You can load (or use the included) particle images and gradients to shape and colour each particle throughout its lifetime.<br> <br>Once an effect is finished, you can export it and use it in your AppGameKit projects with the run-time code that adds the GPU particle functionality.<br><br>Initialising the system and loading effects is very straight forward and you also get access to functions that let you control most of the effect settings in real-time if desired.<br> <br>The editor comes with over 150 pre-made effects which can then be further tweaked and changed in the editor.<h2 class=\"bb_tag\">Features</h2><ul class=\"bb_ul\"><li>Paint layer provides a very simple to use artistic approach for painting particle flow-directions interactively<br></li><li>Simple to use run-time for AppGameKit Studio and AppGameKit Classic apps projects<br></li><li>User controllable max particle counts (4K, 16K, 64K, 256K, 1M) so effects can be fine tuned for different hardware specs<br></li><li>Run-time option to load an effect with a reduced particle count<br></li><li>Freeze the simulation to inspect the currently displayed effect<br></li><li>Flexible emitter functionality with several emitter types (box, circle, disc, filled sphere, spherical shell, line)<br></li><li>All emitter shapes can be fine tuned (size/radius, rotation and position)<br></li><li>Run-time control over the effect's position - reuse the same effect in different places in your games<br></li><li>Emitters can be activated and deactivated in the editor and at run-time<br></li><li>Variable emission count can be auto-optimised to have as many particles on screen as possible<br></li><li>Burst emitters for explosions and sparks<br></li><li>Full control over for how many frames an emitter creates particle before going dormant<br></li><li>Specify the initial speed of particles and any random variance setting<br></li><li>Particle blend modes  supported (opaque, alpha, additive)<br></li><li>Several particle textures are included for common effects<br></li><li>Custom textures supported<br></li><li>Particle tinting can be easily controlled for the particles lifetime by using gradients.<br></li><li>Custom gradient textures are supported<br></li><li>Particle orientation methods supported include, camera facing, billboard, full 3D rotation, movement speed oriented<br></li><li>Control the size of each particle at the start and at the end of its lifetime<br></li><li>Turbulence system for adding natural looking randomness to the effects<br></li><li>Custom noise textures are supported for turbulence<br></li><li>Turbulence field can be translated and rotated at run-time<br></li><li>Layered vector field system for controlling overall particle movement and flows<br></li><li>Shape based layers can add localised directional forces, attract/repel or swirl particles<br></li><li>Reflector system that can be used to bounce particles off floors and walls</li></ul>",
+            "about_the_game": "The AppGameKit Studio Particle Editor is an easy to use editor that brings GPU particles to your creations. Leverage the power of your GPU to create complex effects with high particle counts without a big performance impact.<br><br>The AppGameKit Studio Particle Editor is compatible with AppGameKit Studio and AppGameKit Classic.<br> <br>The editor provides tools for controlling all the essential effect parameters and lets you create particle movement and flows visually without the need for programming or complex formulas.<br><br>Particles can be controlled and moved by building a layered stack of influencer effects such as reflectors, swirls, forces and attractors.<br><br>There's also a special paint layer with which you can freely paint particle movements (speed and direction) in the 3D space surrounding the emitter. This allows for instant visual feedback and an iterative and artistic way of building your game effects.<br><br>You can load (or use the included) particle images and gradients to shape and colour each particle throughout its lifetime.<br> <br>Once an effect is finished, you can export it and use it in your AppGameKit projects with the run-time code that adds the GPU particle functionality.<br><br>Initialising the system and loading effects is very straight forward and you also get access to functions that let you control most of the effect settings in real-time if desired.<br> <br>The editor comes with over 150 pre-made effects which can then be further tweaked and changed in the editor.<h2 class=\"bb_tag\">Features</h2><ul class=\"bb_ul\"><li>Paint layer provides a very simple to use artistic approach for painting particle flow-directions interactively<br></li><li>Simple to use run-time for AppGameKit Studio and AppGameKit Classic apps projects<br></li><li>User controllable max particle counts (4K, 16K, 64K, 256K, 1M) so effects can be fine tuned for different hardware specs<br></li><li>Run-time option to load an effect with a reduced particle count<br></li><li>Freeze the simulation to inspect the currently displayed effect<br></li><li>Flexible emitter functionality with several emitter types (box, circle, disc, filled sphere, spherical shell, line)<br></li><li>All emitter shapes can be fine tuned (size/radius, rotation and position)<br></li><li>Run-time control over the effect's position - reuse the same effect in different places in your games<br></li><li>Emitters can be activated and deactivated in the editor and at run-time<br></li><li>Variable emission count can be auto-optimised to have as many particles on screen as possible<br></li><li>Burst emitters for explosions and sparks<br></li><li>Full control over for how many frames an emitter creates particle before going dormant<br></li><li>Specify the initial speed of particles and any random variance setting<br></li><li>Particle blend modes  supported (opaque, alpha, additive)<br></li><li>Several particle textures are included for common effects<br></li><li>Custom textures supported<br></li><li>Particle tinting can be easily controlled for the particles lifetime by using gradients.<br></li><li>Custom gradient textures are supported<br></li><li>Particle orientation methods supported include, camera facing, billboard, full 3D rotation, movement speed oriented<br></li><li>Control the size of each particle at the start and at the end of its lifetime<br></li><li>Turbulence system for adding natural looking randomness to the effects<br></li><li>Custom noise textures are supported for turbulence<br></li><li>Turbulence field can be translated and rotated at run-time<br></li><li>Layered vector field system for controlling overall particle movement and flows<br></li><li>Shape based layers can add localised directional forces, attract/repel or swirl particles<br></li><li>Reflector system that can be used to bounce particles off floors and walls</li></ul>",
+            "short_description": "The AppGameKit Studio Particle Editor is an easy to use editor that brings GPU particles to your creations. Leverage the power of your GPU to create complex effects with high particle counts without a big performance impact.",
+            "fullgame": {
+                "appid": "1024640",
+                "name": "AppGameKit Studio"
+            },
+            "supported_languages": "English",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1033070/header.jpg?t=1571922429",
+            "website": null,
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP SP2 or better<br></li><li><strong>Processor:</strong> Intel Celeron / Athlon Sempron or better<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> Open GL 2.0 compatible or better<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Sound Card:</strong> N/A</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 or better<br></li><li><strong>Processor:</strong> Intel Core 2 / Athlon 2 X2 or better<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia Geforce 470GTX Titan / ATI Radeon 5850 or better<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Sound Card:</strong> N/A</li></ul>"
+            },
+            "mac_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mountain Lion 10.8 or better for IDE (10.7 for compiled apps)<br></li><li><strong>Processor:</strong> Intel Celeron or better<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> Open GL 2.0 compatible or better<br></li><li><strong>Storage:</strong> 3 GB available space<br></li><li><strong>Sound Card:</strong> N/A</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mountain Lion 10.9 or better<br></li><li><strong>Processor:</strong> Intel Core 2 or better<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia / ATI (shader model 4.0+, year 2009) or better<br></li><li><strong>Storage:</strong> 3 GB available space<br></li><li><strong>Sound Card:</strong> N/A</li></ul>"
+            },
+            "linux_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 14.04 (may work with others)<br></li><li><strong>Processor:</strong> Intel Celeron / Athlon Sempron or better<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> Open GL 2.0 compatible or better<br></li><li><strong>Storage:</strong> 1 GB available space<br></li><li><strong>Sound Card:</strong> N/A</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 14.04 (may work with others)<br></li><li><strong>Processor:</strong> Intel Core 2 / Athlon 2 X2 or better<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia Geforce 470GTX Titan / ATI Radeon 5850 or better<br></li><li><strong>Storage:</strong> 1 GB available space<br></li><li><strong>Sound Card:</strong> N/A</li></ul>"
+            },
+            "developers": [
+                "TheGameCreators"
+            ],
+            "publishers": [
+                "TheGameCreators"
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 3399,
+                "final": 3399,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "33,99€"
+            },
+            "packages": [
+                343691
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy AppGameKit Studio - Particle Editor",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 343691,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "AppGameKit Studio - Particle Editor - 33,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 3399
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": true,
+                "linux": true
+            },
+            "categories": [
+                {
+                    "id": 21,
+                    "description": "Downloadable Content"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "51",
+                    "description": "Animation & Modeling"
+                },
+                {
+                    "id": "54",
+                    "description": "Education"
+                },
+                {
+                    "id": "60",
+                    "description": "Game Development"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1033070/ss_feb8c17db81ea97fc65b1c08eefb633b24c39f0f.600x338.jpg?t=1571922429",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1033070/ss_feb8c17db81ea97fc65b1c08eefb633b24c39f0f.1920x1080.jpg?t=1571922429"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1033070/ss_2515fd202fa3291b6e996478b0b90bc9ada985b9.600x338.jpg?t=1571922429",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1033070/ss_2515fd202fa3291b6e996478b0b90bc9ada985b9.1920x1080.jpg?t=1571922429"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1033070/ss_c7400139d130c7d267f60c60ca3238938ad7b393.600x338.jpg?t=1571922429",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1033070/ss_c7400139d130c7d267f60c60ca3238938ad7b393.1920x1080.jpg?t=1571922429"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1033070/ss_32d00cc0f720d86ed6683fe93a5b4ef0316ba9f8.600x338.jpg?t=1571922429",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1033070/ss_32d00cc0f720d86ed6683fe93a5b4ef0316ba9f8.1920x1080.jpg?t=1571922429"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1033070/ss_1d08d449f498aeaf464a71ec1850e65b60054dee.600x338.jpg?t=1571922429",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1033070/ss_1d08d449f498aeaf464a71ec1850e65b60054dee.1920x1080.jpg?t=1571922429"
+                },
+                {
+                    "id": 5,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1033070/ss_4426a9faad2811408c69953035c3c3da0d051df1.600x338.jpg?t=1571922429",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1033070/ss_4426a9faad2811408c69953035c3c3da0d051df1.1920x1080.jpg?t=1571922429"
+                },
+                {
+                    "id": 6,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1033070/ss_09dc359dc19d00cbe7ff21963f2bd802cdc89bff.600x338.jpg?t=1571922429",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1033070/ss_09dc359dc19d00cbe7ff21963f2bd802cdc89bff.1920x1080.jpg?t=1571922429"
+                },
+                {
+                    "id": 7,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1033070/ss_be7c5edb1cceb91fa63d4f3971c58385998dc65a.600x338.jpg?t=1571922429",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1033070/ss_be7c5edb1cceb91fa63d4f3971c58385998dc65a.1920x1080.jpg?t=1571922429"
+                },
+                {
+                    "id": 8,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1033070/ss_c2f2b0d4666917c76ddcd833694b1cfea72d0332.600x338.jpg?t=1571922429",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1033070/ss_c2f2b0d4666917c76ddcd833694b1cfea72d0332.1920x1080.jpg?t=1571922429"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 256764706,
+                    "name": "Particle Editor Intro",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256764706/movie.293x165.jpg?t=1571381412",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256764706/movie480.webm?t=1571381412",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256764706/movie_max.webm?t=1571381412"
+                    },
+                    "highlight": true
+                }
+            ],
+            "achievements": {
+                "total": 0
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "24 Oct, 2019"
+            },
+            "support_info": {
+                "url": "http://www.thegamecreators.com/?m=contact_support",
+                "email": "support@thegamecreators.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1033070/page_bg_generated_v6b.jpg?t=1571922429",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}
