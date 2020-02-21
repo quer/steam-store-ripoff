@@ -1,0 +1,150 @@
+{
+    "825470": {
+        "success": true,
+        "data": {
+            "type": "dlc",
+            "name": "Aimtastic: Pro Edition",
+            "steam_appid": 825470,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "This DLC will unlock access to all current and future playable modes.",
+            "about_the_game": "This DLC will unlock access to all current and future playable modes.",
+            "short_description": "This DLC will unlock access to all current and future playable modes.",
+            "fullgame": {
+                "appid": "757240",
+                "name": "Aimtastic"
+            },
+            "supported_languages": "English",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/825470/header.jpg?t=1579197861",
+            "website": "http://aimtasticgame.com/",
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 or newer<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "developers": [
+                "Victor Möller"
+            ],
+            "publishers": [
+                "Pixel Pointer Studios"
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 819,
+                "final": 819,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "8,19€"
+            },
+            "packages": [
+                253476
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Aimtastic: Pro Edition",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 253476,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Aimtastic - Full Game - 8,19€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 819
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 21,
+                    "description": "Downloadable Content"
+                },
+                {
+                    "id": 30,
+                    "description": "Steam Workshop"
+                },
+                {
+                    "id": 15,
+                    "description": "Stats"
+                },
+                {
+                    "id": 25,
+                    "description": "Steam Leaderboards"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "1",
+                    "description": "Action"
+                },
+                {
+                    "id": "37",
+                    "description": "Free to Play"
+                },
+                {
+                    "id": "23",
+                    "description": "Indie"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/825470/ss_112db5b9385caa07960f02900cb129789c60a087.600x338.jpg?t=1579197861",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/825470/ss_112db5b9385caa07960f02900cb129789c60a087.1920x1080.jpg?t=1579197861"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/825470/ss_f98c8e8f553627bb777493f76808e39434cc3a09.600x338.jpg?t=1579197861",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/825470/ss_f98c8e8f553627bb777493f76808e39434cc3a09.1920x1080.jpg?t=1579197861"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/825470/ss_9a78279e75dad459da31286521bf4d2d1b94adc8.600x338.jpg?t=1579197861",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/825470/ss_9a78279e75dad459da31286521bf4d2d1b94adc8.1920x1080.jpg?t=1579197861"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 256772547,
+                    "name": "Trailer",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256772547/movie.293x165.jpg?t=1579184324",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256772547/movie480.webm?t=1579184324",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256772547/movie_max.webm?t=1579184324"
+                    },
+                    "highlight": true
+                }
+            ],
+            "release_date": {
+                "coming_soon": false,
+                "date": "16 Jan, 2020"
+            },
+            "support_info": {
+                "url": "",
+                "email": "info@pixelpointerstudios.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/825470/page_bg_generated_v6b.jpg?t=1579197861",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}
