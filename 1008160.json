@@ -34,7 +34,8 @@
                 "final_formatted": "3,99€"
             },
             "packages": [
-                333525
+                333525,
+                354585
             ],
             "package_groups": [
                 {
@@ -55,6 +56,27 @@
                             "can_get_free_license": "0",
                             "is_free_license": false,
                             "price_in_cents_with_discount": 399
+                        }
+                    ]
+                },
+                {
+                    "name": "subscriptions",
+                    "title": "Buy SubnetPing Subscription Plan",
+                    "description": "To be billed on a recurring basis.",
+                    "selection_text": "Select a subscription plan",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "true",
+                    "subs": [
+                        {
+                            "packageid": 354585,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "1 Month(s) @ 0,79€/Month",
+                            "option_description": "<p class=\"game_purchase_subscription\">11,59€ at checkout, auto-renewed every 1 month(s) at 0,79€.</p>",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 1159
                         }
                     ]
                 }

@@ -70,8 +70,16 @@
                     "description": "Multi-player"
                 },
                 {
+                    "id": 49,
+                    "description": "PvP"
+                },
+                {
                     "id": 36,
-                    "description": "Online Multi-Player"
+                    "description": "Online PvP"
+                },
+                {
+                    "id": 9,
+                    "description": "Co-op"
                 },
                 {
                     "id": 38,
@@ -161,6 +169,51 @@
                     "highlight": true
                 }
             ],
+            "achievements": {
+                "total": 12,
+                "highlighted": [
+                    {
+                        "name": "Start",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1008070/fb398b084287100751e5a3f4fbc2c24b1a8f265d.jpg"
+                    },
+                    {
+                        "name": "Hunting",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1008070/21b1b595e0b8540aa8934e26bf2364a7dd34d3a9.jpg"
+                    },
+                    {
+                        "name": "Delicious",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1008070/02d02fc9210fe137a5b27d97674f46593b6329c3.jpg"
+                    },
+                    {
+                        "name": "Endless",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1008070/e07a6b3a351681cf7d9da08b5d72f59aa9dbe461.jpg"
+                    },
+                    {
+                        "name": "Clicking",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1008070/0f02670c947e86a80ec91159b675be5634054046.jpg"
+                    },
+                    {
+                        "name": "Guide",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1008070/d5c70a311d45e40d1d52eeb127b0f147d0a98c00.jpg"
+                    },
+                    {
+                        "name": "Victory",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1008070/a283c1f3de25f42e41593ae6bb4ef31c44963afa.jpg"
+                    },
+                    {
+                        "name": "Hell",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1008070/706e32eca7d91a790cdbf761542374f8f3c4f04c.jpg"
+                    },
+                    {
+                        "name": "Eden",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1008070/eaa21bdcc853641d7c8f5eb685107147155f3231.jpg"
+                    },
+                    {
+                        "name": "Rule",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1008070/9dea4cad4c73f0387463260c921c08d434a96933.jpg"
+                    }
+                ]
+            },
             "release_date": {
                 "coming_soon": false,
                 "date": "22 Jan, 2019"

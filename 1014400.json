@@ -1,0 +1,108 @@
+{
+    "1014400": {
+        "success": true,
+        "data": {
+            "type": "game",
+            "name": "Notemon",
+            "steam_appid": 1014400,
+            "required_age": 0,
+            "is_free": false,
+            "controller_support": "full",
+            "detailed_description": "In Notemon you and your best friend (a Notemon) wash up on the shore of a small town called Nyoo Owtearowa. This town was a normal and peaceful place as the small group of settlers cleared some space to build their houses and started mining some stone for construction. But recently Notemon have been aggressive and the citizens of Nyoo Owtearowa are in danger! In your exploration of Nyoo Owtearowa you can befriend Notemon, build them a home, investigate the recent Notemon aggression, help the townsfolk and discover everything that awaits you in this delightful and mysterious land.<br><br>Gidday, I'm Nick from Croaking Kero, and I'm making Notemon.<br><br>I love turn-based monster-taming RPGs and with Notemon I wanted to fix the major problems I have with this genre.<br><br><ul class=\"bb_ul\"><li>Instead of beating the monsters into submission, you build them a home and entice them to join your team.<br></li><li>Battle moves don't cost a resource (like MP/PP), but instead give the Notemon a cooldown until their next move.<br></li><li>Health, stats and status conditions are all restored after each battle.<br></li><li>No move overwriting. Notemon learn new moves as they level up and all the unlocked moves stay available forever. You can select up to 4 moves to be used in battle and you can change this selection any time outside of battle. Try as many strategies and combinations as you like!<br></li><li>Non-linear gameplay. The game has a story but you're not forced to follow it through a central plot. Instead you may explore the world at your leisure and choose how to engage with the story, if you do at all.</li></ul><br>Notemon is made with PICO-8, a fantasy console with virtual cartridges. Normally PICO-8 games consist of a single 32KB virtual cartridge, but Notemon is the biggest PICO-8 game ever made, using 16 cartridges bundled together into a single file! Code and data for different parts of the game has been distributed between these cartridges and is automatically loaded during gameplay. Much of the data has been encoded within the cartridges to be decoded at load-time to create the NPCs and objects on the maps.",
+            "about_the_game": "In Notemon you and your best friend (a Notemon) wash up on the shore of a small town called Nyoo Owtearowa. This town was a normal and peaceful place as the small group of settlers cleared some space to build their houses and started mining some stone for construction. But recently Notemon have been aggressive and the citizens of Nyoo Owtearowa are in danger! In your exploration of Nyoo Owtearowa you can befriend Notemon, build them a home, investigate the recent Notemon aggression, help the townsfolk and discover everything that awaits you in this delightful and mysterious land.<br><br>Gidday, I'm Nick from Croaking Kero, and I'm making Notemon.<br><br>I love turn-based monster-taming RPGs and with Notemon I wanted to fix the major problems I have with this genre.<br><br><ul class=\"bb_ul\"><li>Instead of beating the monsters into submission, you build them a home and entice them to join your team.<br></li><li>Battle moves don't cost a resource (like MP/PP), but instead give the Notemon a cooldown until their next move.<br></li><li>Health, stats and status conditions are all restored after each battle.<br></li><li>No move overwriting. Notemon learn new moves as they level up and all the unlocked moves stay available forever. You can select up to 4 moves to be used in battle and you can change this selection any time outside of battle. Try as many strategies and combinations as you like!<br></li><li>Non-linear gameplay. The game has a story but you're not forced to follow it through a central plot. Instead you may explore the world at your leisure and choose how to engage with the story, if you do at all.</li></ul><br>Notemon is made with PICO-8, a fantasy console with virtual cartridges. Normally PICO-8 games consist of a single 32KB virtual cartridge, but Notemon is the biggest PICO-8 game ever made, using 16 cartridges bundled together into a single file! Code and data for different parts of the game has been distributed between these cartridges and is automatically loaded during gameplay. Much of the data has been encoded within the cartridges to be decoded at load-time to create the NPCs and objects on the maps.",
+            "short_description": "Monster-taming turn-based RPG. Explore Nyoo Owtearowa to befriend Notemon, build them a home, investigate the recent Notemon aggression, help the townsfolk and discover everything that awaits you in this delightful and mysterious New Zealand-inspired place.",
+            "supported_languages": "English",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1014400/header.jpg?t=1561812882",
+            "website": null,
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 7<br></li><li><strong>Processor:</strong> 700MHz<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> Any<br></li><li><strong>Storage:</strong> 1 MB available space<br></li><li><strong>Sound Card:</strong> Any</li></ul>"
+            },
+            "mac_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 10.10<br></li><li><strong>Processor:</strong> 700MHz<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> Any<br></li><li><strong>Storage:</strong> 1 MB available space<br></li><li><strong>Sound Card:</strong> Any</li></ul>"
+            },
+            "linux_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 32-bit or 64-bit<br></li><li><strong>Processor:</strong> 700MHz<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> Any<br></li><li><strong>Storage:</strong> 1 MB available space<br></li><li><strong>Sound Card:</strong> Any<br></li><li><strong>Additional Notes:</strong> Requires SDL2</li></ul>"
+            },
+            "developers": [
+                "Croaking Kero"
+            ],
+            "publishers": [
+                "Croaking Kero"
+            ],
+            "package_groups": [],
+            "platforms": {
+                "windows": true,
+                "mac": true,
+                "linux": true
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 28,
+                    "description": "Full controller support"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "3",
+                    "description": "RPG"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1014400/ss_c619a179eb70478984699d81d7c4914019c5b2ff.600x338.jpg?t=1561812882",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1014400/ss_c619a179eb70478984699d81d7c4914019c5b2ff.1920x1080.jpg?t=1561812882"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1014400/ss_2ae425b8a5fbd3e0c1eb2de75bb8cae5faca98ef.600x338.jpg?t=1561812882",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1014400/ss_2ae425b8a5fbd3e0c1eb2de75bb8cae5faca98ef.1920x1080.jpg?t=1561812882"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1014400/ss_5ea06bd8ef176c2e0749ace91621ead0d092a19c.600x338.jpg?t=1561812882",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1014400/ss_5ea06bd8ef176c2e0749ace91621ead0d092a19c.1920x1080.jpg?t=1561812882"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1014400/ss_aa7e2be57386d8b57d769ee5d3622a7a8ef2e945.600x338.jpg?t=1561812882",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1014400/ss_aa7e2be57386d8b57d769ee5d3622a7a8ef2e945.1920x1080.jpg?t=1561812882"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1014400/ss_a771f2df51203c602390a84677ba0b6b00cc7c3e.600x338.jpg?t=1561812882",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1014400/ss_a771f2df51203c602390a84677ba0b6b00cc7c3e.1920x1080.jpg?t=1561812882"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 256747262,
+                    "name": "Welcome to Nyoo Owtearowa",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256747262/movie.293x165.jpg?t=1555186980",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256747262/movie480.webm?t=1555186980",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256747262/movie_max.webm?t=1555186980"
+                    },
+                    "highlight": true
+                }
+            ],
+            "release_date": {
+                "coming_soon": true,
+                "date": "When it's done"
+            },
+            "support_info": {
+                "url": "",
+                "email": "support@croakingkero.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1014400/page_bg_generated_v6b.jpg?t=1561812882",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}
