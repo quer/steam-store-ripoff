@@ -1,0 +1,109 @@
+{
+    "496104": {
+        "success": true,
+        "data": {
+            "type": "dlc",
+            "name": "3DMark PCI Express feature test",
+            "steam_appid": 496104,
+            "required_age": 0,
+            "is_free": true,
+            "detailed_description": "PCI Express (PCIe) is a standard interface that provides high-bandwidth communication between devices in a computer. New PCI Express 4.0 interfaces provide up to twice the bandwidth of PCI Express 3.0. With more bandwidth, games can transfer more data, reduce loading times, and support more complex scenes. <br><br>This 3DMark feature test measures the bandwidth available to your GPU over your system's PCI Express interface.<br><br><ul class=\"bb_ul\"><li> Measure the bandwidth available to your GPU over PCIe.<br></li><li> Test the performance of the latest PCIe 4.0 hardware.<br></li><li> Compare the bandwidth of PCIe 4.0 and PCIe 3.0 interfaces.</li></ul>",
+            "about_the_game": "PCI Express (PCIe) is a standard interface that provides high-bandwidth communication between devices in a computer. New PCI Express 4.0 interfaces provide up to twice the bandwidth of PCI Express 3.0. With more bandwidth, games can transfer more data, reduce loading times, and support more complex scenes. <br><br>This 3DMark feature test measures the bandwidth available to your GPU over your system's PCI Express interface.<br><br><ul class=\"bb_ul\"><li> Measure the bandwidth available to your GPU over PCIe.<br></li><li> Test the performance of the latest PCIe 4.0 hardware.<br></li><li> Compare the bandwidth of PCIe 4.0 and PCIe 3.0 interfaces.</li></ul>",
+            "short_description": "Test the PCI Express bandwidth performance of your PC.",
+            "fullgame": {
+                "appid": "223850",
+                "name": "3DMark"
+            },
+            "supported_languages": "English, German, Simplified Chinese, Russian, Spanish - Spain, Japanese, Korean, Traditional Chinese",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/496104/header.jpg?t=1579598698",
+            "website": "https://benchmarks.ul.com/3dmark",
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>Windows 10 64bit<br>\t</li><li><strong>Processor:</strong>Dual core processor<br>\t</li><li><strong>Graphics:</strong>Dedicated graphics card with DirectX 12 support<br>\t</li><li><strong>Memory:</strong>12 GB<br>\t</li><li><strong>Video memory:</strong>4 GB<br>\t</li><li><strong>Storage:</strong>170 MB</li></ul><br>You need a DirectX 12 compatible discrete graphics card to run this test. The test will not run on systems that have only integrated graphics. External GPU enclosures are not supported."
+            },
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "developers": [
+                "UL"
+            ],
+            "publishers": [
+                "UL"
+            ],
+            "packages": [
+                323175
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy 3DMark PCI Express feature test",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 323175,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "3DMark - 24,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 2499
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 21,
+                    "description": "Downloadable Content"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "57",
+                    "description": "Utilities"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/496104/ss_02f312d3ad9f629c4cf8f1ea2b3f7128f97ff7fd.600x338.jpg?t=1579598698",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/496104/ss_02f312d3ad9f629c4cf8f1ea2b3f7128f97ff7fd.1920x1080.jpg?t=1579598698"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/496104/ss_5462e1672e31bdbd7fb147203e3cb41e79b1bd29.600x338.jpg?t=1579598698",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/496104/ss_5462e1672e31bdbd7fb147203e3cb41e79b1bd29.1920x1080.jpg?t=1579598698"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/496104/ss_e477c09d32a0156444848a903e9d9b38c2d205cc.600x338.jpg?t=1579598698",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/496104/ss_e477c09d32a0156444848a903e9d9b38c2d205cc.1920x1080.jpg?t=1579598698"
+                }
+            ],
+            "achievements": {
+                "total": 0
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "25 Jun, 2019"
+            },
+            "support_info": {
+                "url": "https://benchmarks.ul.com/support",
+                "email": ""
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/496104/page_bg_generated_v6b.jpg?t=1579598698",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
+    }
+}
