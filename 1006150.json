@@ -12,13 +12,16 @@
             "short_description": "Urban Justice is a side scroller fighting game inspired by the genre's classics like Final Fight and Streets of Rage. The game offers a fast paced, casual gameplay that puts players in Riverden, a city being torn apart by gangs, hooligans and corrupted government.",
             "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
             "reviews": "“It is a game with a great purpose behind it and a team with an important mission”<br><a href=\"https://steamcommunity.com/linkfilter/?url=https://ifgn.com/a-look-at-urban-justice/\" target=\"_blank\" rel=\"noopener\"  >IFGN</a><br>",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1006150/header.jpg?t=1551550382",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1006150/header.jpg?t=1576474464",
             "website": "https://www.evil-bunneh.com/projects",
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong> Intel 1.2 Ghz or equivalent<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Intel (R) HD Graphics or equivalent<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>",
                 "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 / 10<br></li><li><strong>Processor:</strong> Intel 1.6 Ghz or equivalent<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> GeForce or ATI Graphic Accelerator<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
             },
-            "mac_requirements": [],
+            "mac_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Version 10.8: &quot;Mountain Lion&quot; +<br></li><li><strong>Processor:</strong> Intel 1.2 Ghz or equivalent<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Intel (R) HD Graphics or equivalent<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Version 10.14: &quot;Mojave&quot; +<br></li><li><strong>Processor:</strong> Intel 1.6 Ghz or equivalent<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> GeForce or ATI Graphic Accelerator<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
+            },
             "linux_requirements": [],
             "legal_notice": "Urban Justice © 2018 Evil Bunneh. All rights reserved. Developed by Evil Bunneh. Urban Justice and Evil Bunneh logos are trademarks or registered trademarks of Evil Bunneh. All other trademarks are property of their respective owners.",
             "developers": [
@@ -29,11 +32,11 @@
             ],
             "price_overview": {
                 "currency": "EUR",
-                "initial": 659,
-                "final": 659,
+                "initial": 159,
+                "final": 159,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "6,59€"
+                "final_formatted": "1,59€"
             },
             "packages": [
                 332754
@@ -52,18 +55,18 @@
                             "packageid": 332754,
                             "percent_savings_text": "",
                             "percent_savings": 0,
-                            "option_text": "Urban Justice - 6,59€",
+                            "option_text": "Urban Justice - 1,59€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 659
+                            "price_in_cents_with_discount": 159
                         }
                     ]
                 }
             ],
             "platforms": {
                 "windows": true,
-                "mac": false,
+                "mac": true,
                 "linux": false
             },
             "categories": [
@@ -84,12 +87,24 @@
                     "description": "Shared/Split Screen"
                 },
                 {
+                    "id": 22,
+                    "description": "Steam Achievements"
+                },
+                {
                     "id": 18,
                     "description": "Partial Controller Support"
                 },
                 {
                     "id": 23,
                     "description": "Steam Cloud"
+                },
+                {
+                    "id": 15,
+                    "description": "Stats"
+                },
+                {
+                    "id": 44,
+                    "description": "Remote Play Together"
                 }
             ],
             "genres": [
@@ -113,53 +128,53 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1006150/ss_319bea1d2140eaddf0305466e46ca25c9f034604.600x338.jpg?t=1551550382",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1006150/ss_319bea1d2140eaddf0305466e46ca25c9f034604.1920x1080.jpg?t=1551550382"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1006150/ss_319bea1d2140eaddf0305466e46ca25c9f034604.600x338.jpg?t=1576474464",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1006150/ss_319bea1d2140eaddf0305466e46ca25c9f034604.1920x1080.jpg?t=1576474464"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1006150/ss_dbcf73f0e98d7b664ee6389c96ff0436d800744a.600x338.jpg?t=1551550382",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1006150/ss_dbcf73f0e98d7b664ee6389c96ff0436d800744a.1920x1080.jpg?t=1551550382"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1006150/ss_dbcf73f0e98d7b664ee6389c96ff0436d800744a.600x338.jpg?t=1576474464",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1006150/ss_dbcf73f0e98d7b664ee6389c96ff0436d800744a.1920x1080.jpg?t=1576474464"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1006150/ss_86ca65227eb3a4402ceeb8391018c2a8be684237.600x338.jpg?t=1551550382",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1006150/ss_86ca65227eb3a4402ceeb8391018c2a8be684237.1920x1080.jpg?t=1551550382"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1006150/ss_86ca65227eb3a4402ceeb8391018c2a8be684237.600x338.jpg?t=1576474464",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1006150/ss_86ca65227eb3a4402ceeb8391018c2a8be684237.1920x1080.jpg?t=1576474464"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1006150/ss_630c0b46f7d3331c7ee2d58e4e838c3c6ff5d0a3.600x338.jpg?t=1551550382",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1006150/ss_630c0b46f7d3331c7ee2d58e4e838c3c6ff5d0a3.1920x1080.jpg?t=1551550382"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1006150/ss_630c0b46f7d3331c7ee2d58e4e838c3c6ff5d0a3.600x338.jpg?t=1576474464",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1006150/ss_630c0b46f7d3331c7ee2d58e4e838c3c6ff5d0a3.1920x1080.jpg?t=1576474464"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1006150/ss_c6484efeacfd9324698a3aa9e3ae52914a1742d1.600x338.jpg?t=1551550382",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1006150/ss_c6484efeacfd9324698a3aa9e3ae52914a1742d1.1920x1080.jpg?t=1551550382"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1006150/ss_c6484efeacfd9324698a3aa9e3ae52914a1742d1.600x338.jpg?t=1576474464",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1006150/ss_c6484efeacfd9324698a3aa9e3ae52914a1742d1.1920x1080.jpg?t=1576474464"
                 },
                 {
                     "id": 5,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1006150/ss_e2d4aa51e19f1b77285a173e18046ad26aaded7b.600x338.jpg?t=1551550382",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1006150/ss_e2d4aa51e19f1b77285a173e18046ad26aaded7b.1920x1080.jpg?t=1551550382"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1006150/ss_e2d4aa51e19f1b77285a173e18046ad26aaded7b.600x338.jpg?t=1576474464",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1006150/ss_e2d4aa51e19f1b77285a173e18046ad26aaded7b.1920x1080.jpg?t=1576474464"
                 },
                 {
                     "id": 6,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1006150/ss_13ba49e74a0566ac7d8ab73d1de5d953aa99a21c.600x338.jpg?t=1551550382",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1006150/ss_13ba49e74a0566ac7d8ab73d1de5d953aa99a21c.1920x1080.jpg?t=1551550382"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1006150/ss_13ba49e74a0566ac7d8ab73d1de5d953aa99a21c.600x338.jpg?t=1576474464",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1006150/ss_13ba49e74a0566ac7d8ab73d1de5d953aa99a21c.1920x1080.jpg?t=1576474464"
                 },
                 {
                     "id": 7,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1006150/ss_8a5832212e48b083b0ccbad0a031e918232fc3e9.600x338.jpg?t=1551550382",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1006150/ss_8a5832212e48b083b0ccbad0a031e918232fc3e9.1920x1080.jpg?t=1551550382"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1006150/ss_8a5832212e48b083b0ccbad0a031e918232fc3e9.600x338.jpg?t=1576474464",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1006150/ss_8a5832212e48b083b0ccbad0a031e918232fc3e9.1920x1080.jpg?t=1576474464"
                 },
                 {
                     "id": 8,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1006150/ss_d4b743d78140298e9a61c9880a9fb64fa59a29dc.600x338.jpg?t=1551550382",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1006150/ss_d4b743d78140298e9a61c9880a9fb64fa59a29dc.1920x1080.jpg?t=1551550382"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1006150/ss_d4b743d78140298e9a61c9880a9fb64fa59a29dc.600x338.jpg?t=1576474464",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1006150/ss_d4b743d78140298e9a61c9880a9fb64fa59a29dc.1920x1080.jpg?t=1576474464"
                 },
                 {
                     "id": 9,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1006150/ss_8303c273df9426f07c43d91d87a1bf3566303d23.600x338.jpg?t=1551550382",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1006150/ss_8303c273df9426f07c43d91d87a1bf3566303d23.1920x1080.jpg?t=1551550382"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1006150/ss_8303c273df9426f07c43d91d87a1bf3566303d23.600x338.jpg?t=1576474464",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1006150/ss_8303c273df9426f07c43d91d87a1bf3566303d23.1920x1080.jpg?t=1576474464"
                 }
             ],
             "movies": [
@@ -174,6 +189,51 @@
                     "highlight": true
                 }
             ],
+            "achievements": {
+                "total": 20,
+                "highlighted": [
+                    {
+                        "name": "New Chapter",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1006150/9cf4d8718573bddd4ec242f49d7e959c415aa7a8.jpg"
+                    },
+                    {
+                        "name": "Payed Respects",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1006150/909988e67ced04758d0f5cbcdf6f487c079b3762.jpg"
+                    },
+                    {
+                        "name": "Brawler",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1006150/8df38d43b8728ce8e2174b267b1c842852929235.jpg"
+                    },
+                    {
+                        "name": "Warrior",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1006150/ef31b98143cf52d1d16f65788fa97e1c4b9eac3a.jpg"
+                    },
+                    {
+                        "name": "Savior",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1006150/dbb9576a3a37e9a4d569a9a903c5c95df785acf7.jpg"
+                    },
+                    {
+                        "name": "Defender",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1006150/18709ae50d5472e9ced5e17a00abef6f39e7253f.jpg"
+                    },
+                    {
+                        "name": "Protector",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1006150/918335c1c825763fc501d91bbfc0b4758d84b627.jpg"
+                    },
+                    {
+                        "name": "Messiah",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1006150/0ebe8752f74036137a64d0ce2babd9c81b926dc4.jpg"
+                    },
+                    {
+                        "name": "Contender",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1006150/25852a1a48a6480eb912ecd8cbf0904650dd7b0c.jpg"
+                    },
+                    {
+                        "name": "Challenger",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1006150/8953e05e2c753222a1afefd2efef0c1dd09e622d.jpg"
+                    }
+                ]
+            },
             "release_date": {
                 "coming_soon": false,
                 "date": "17 Jan, 2019"
@@ -182,7 +242,7 @@
                 "url": "",
                 "email": "contact@evil-bunneh.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1006150/page_bg_generated_v6b.jpg?t=1551550382",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1006150/page_bg_generated_v6b.jpg?t=1576474464",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
