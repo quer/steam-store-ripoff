@@ -7,11 +7,11 @@
             "steam_appid": 1007080,
             "required_age": 0,
             "is_free": false,
-            "detailed_description": "<h2 class=\"bb_tag\">Introduction:</h2><br>Top down RPG strategy game. Player have 3 different characters in every level with different skills, abilities and attack patterns. Drag &amp; drop player units on the grid with mouse. Move characters to desired slots and press attack button, then every attack happens automatically. After player have make all his moves, shift turns to AI opponent. Player can continue as long as at least 1 of his characters are alive. Levels contain 1-4 waves and last wave contain boss. After boss is death level are completed. Only last wave will contain bosses. So use your brains and just mouse to beat enemies<h2 class=\"bb_tag\">Features:</h2>- 3 player characters with different skills and attack patterns:<br>   - Pig Warrior. most powerful player character with double damage <br>   - Gangsta Mage <br>   - Woman Mage<br><br>- Police enemies in every waves<br>- Different bosses in end of levels:<br>   - Green zombie boss with double damage ability<br>   - Red Cyborg boss with ability to spawn rocks to attack grid<br>- 3 levels<h2 class=\"bb_tag\">Planned features:</h2><br>- more levels coming 2-4 in upcoming months<br><br>- more different bosses",
-            "about_the_game": "<h2 class=\"bb_tag\">Introduction:</h2><br>Top down RPG strategy game. Player have 3 different characters in every level with different skills, abilities and attack patterns. Drag &amp; drop player units on the grid with mouse. Move characters to desired slots and press attack button, then every attack happens automatically. After player have make all his moves, shift turns to AI opponent. Player can continue as long as at least 1 of his characters are alive. Levels contain 1-4 waves and last wave contain boss. After boss is death level are completed. Only last wave will contain bosses. So use your brains and just mouse to beat enemies<h2 class=\"bb_tag\">Features:</h2>- 3 player characters with different skills and attack patterns:<br>   - Pig Warrior. most powerful player character with double damage <br>   - Gangsta Mage <br>   - Woman Mage<br><br>- Police enemies in every waves<br>- Different bosses in end of levels:<br>   - Green zombie boss with double damage ability<br>   - Red Cyborg boss with ability to spawn rocks to attack grid<br>- 3 levels<h2 class=\"bb_tag\">Planned features:</h2><br>- more levels coming 2-4 in upcoming months<br><br>- more different bosses",
-            "short_description": "Top Down drag &amp; drop RPG strategy game. Help 3 survivor to kill enemies in different worlds, using just brains and mouse.",
+            "detailed_description": "<h2 class=\"bb_tag\">Introduction:</h2><br>Top down RPG puzzle and strategy game. Player have 3 different characters in every level with different skills, abilities and attack patterns. Drag &amp; drop player units on the grid with mouse. Move characters to desired slots and press attack button, then every attack happens automatically. After player have make all his moves, shift turns to AI opponent. Player can continue as long as at least 1 of his characters are alive. Levels contain 1-4 waves and last wave contain boss. After boss is death level are completed. Only last wave will contain bosses. So use your brains and just mouse to beat enemies<h2 class=\"bb_tag\">Features:</h2>- 3 player characters with different skills and attack patterns:<br>   - Pig Warrior. most powerful player character with double damage <br>   - Gangsta Mage <br>   - Woman Mage<br><br>- Police enemies in every waves<br>- Different bosses in end of levels:<br>   - Green zombie boss with double damage ability<br>   - Red Cyborg boss with ability to spawn rocks to attack grid<br>- 7 levels<br>- Easy steam achievements<h2 class=\"bb_tag\">Planned features:</h2>- more different bosses",
+            "about_the_game": "<h2 class=\"bb_tag\">Introduction:</h2><br>Top down RPG puzzle and strategy game. Player have 3 different characters in every level with different skills, abilities and attack patterns. Drag &amp; drop player units on the grid with mouse. Move characters to desired slots and press attack button, then every attack happens automatically. After player have make all his moves, shift turns to AI opponent. Player can continue as long as at least 1 of his characters are alive. Levels contain 1-4 waves and last wave contain boss. After boss is death level are completed. Only last wave will contain bosses. So use your brains and just mouse to beat enemies<h2 class=\"bb_tag\">Features:</h2>- 3 player characters with different skills and attack patterns:<br>   - Pig Warrior. most powerful player character with double damage <br>   - Gangsta Mage <br>   - Woman Mage<br><br>- Police enemies in every waves<br>- Different bosses in end of levels:<br>   - Green zombie boss with double damage ability<br>   - Red Cyborg boss with ability to spawn rocks to attack grid<br>- 7 levels<br>- Easy steam achievements<h2 class=\"bb_tag\">Planned features:</h2>- more different bosses",
+            "short_description": "Top Down drag &amp; drop RPG strategy game. Help 3 survivor to kill enemies in different worlds.",
             "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1007080/header.jpg?t=1552633715",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1007080/header.jpg?t=1555611440",
             "website": null,
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> windows 8<br></li><li><strong>Processor:</strong> i5<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVidia GeForce 800 series<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 4 GB available space<br></li><li><strong>Sound Card:</strong> Direct x9</li></ul>",
@@ -28,7 +28,40 @@
             "publishers": [
                 "Tero Lunkka"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 79,
+                "final": 79,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "0,79€"
+            },
+            "packages": [
+                333123
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Death Rpg",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 333123,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "Death Rpg - 0,79€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 79
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": false,
@@ -38,6 +71,10 @@
                 {
                     "id": 2,
                     "description": "Single-player"
+                },
+                {
+                    "id": 22,
+                    "description": "Steam Achievements"
                 }
             ],
             "genres": [
@@ -57,33 +94,33 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1007080/ss_57c7b13fdd0a2ebf99dccf3ec1381cd9ed7c3f98.600x338.jpg?t=1552633715",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1007080/ss_57c7b13fdd0a2ebf99dccf3ec1381cd9ed7c3f98.1920x1080.jpg?t=1552633715"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1007080/ss_57c7b13fdd0a2ebf99dccf3ec1381cd9ed7c3f98.600x338.jpg?t=1555611440",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1007080/ss_57c7b13fdd0a2ebf99dccf3ec1381cd9ed7c3f98.1920x1080.jpg?t=1555611440"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1007080/ss_c1166965df79539884de1d350d0b2c536d8151cb.600x338.jpg?t=1552633715",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1007080/ss_c1166965df79539884de1d350d0b2c536d8151cb.1920x1080.jpg?t=1552633715"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1007080/ss_c1166965df79539884de1d350d0b2c536d8151cb.600x338.jpg?t=1555611440",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1007080/ss_c1166965df79539884de1d350d0b2c536d8151cb.1920x1080.jpg?t=1555611440"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1007080/ss_93101560663047509b255fdb35a31d73b16477e5.600x338.jpg?t=1552633715",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1007080/ss_93101560663047509b255fdb35a31d73b16477e5.1920x1080.jpg?t=1552633715"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1007080/ss_93101560663047509b255fdb35a31d73b16477e5.600x338.jpg?t=1555611440",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1007080/ss_93101560663047509b255fdb35a31d73b16477e5.1920x1080.jpg?t=1555611440"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1007080/ss_81461407615d562fd7159775d53fd3bda40f1a33.600x338.jpg?t=1552633715",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1007080/ss_81461407615d562fd7159775d53fd3bda40f1a33.1920x1080.jpg?t=1552633715"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1007080/ss_81461407615d562fd7159775d53fd3bda40f1a33.600x338.jpg?t=1555611440",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1007080/ss_81461407615d562fd7159775d53fd3bda40f1a33.1920x1080.jpg?t=1555611440"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1007080/ss_f8b840b06a859dceefc488501cc36c28c095095f.600x338.jpg?t=1552633715",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1007080/ss_f8b840b06a859dceefc488501cc36c28c095095f.1920x1080.jpg?t=1552633715"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1007080/ss_f8b840b06a859dceefc488501cc36c28c095095f.600x338.jpg?t=1555611440",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1007080/ss_f8b840b06a859dceefc488501cc36c28c095095f.1920x1080.jpg?t=1555611440"
                 },
                 {
                     "id": 5,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1007080/ss_7e7cebbf08d3a79473f88fd3ab358950f33f0ec2.600x338.jpg?t=1552633715",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1007080/ss_7e7cebbf08d3a79473f88fd3ab358950f33f0ec2.1920x1080.jpg?t=1552633715"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1007080/ss_7e7cebbf08d3a79473f88fd3ab358950f33f0ec2.600x338.jpg?t=1555611440",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1007080/ss_7e7cebbf08d3a79473f88fd3ab358950f33f0ec2.1920x1080.jpg?t=1555611440"
                 }
             ],
             "movies": [
@@ -98,15 +135,48 @@
                     "highlight": true
                 }
             ],
+            "achievements": {
+                "total": 7,
+                "highlighted": [
+                    {
+                        "name": "Lava map",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1007080/ebdddfed98e8668d347ba9a3256e2682024424c5.jpg"
+                    },
+                    {
+                        "name": "Snow map",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1007080/9e5f600e91757046bf1c8b155955138d6204799b.jpg"
+                    },
+                    {
+                        "name": "Forest map",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1007080/ef021be450e5b6502368b7525429a046a11e09a9.jpg"
+                    },
+                    {
+                        "name": "City map",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1007080/3a56ea05df4043461722f60aee825e99b8b84a66.jpg"
+                    },
+                    {
+                        "name": "City map 2 ",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1007080/3b5d0278a236eedcafcbc365311baaf1126cc6ad.jpg"
+                    },
+                    {
+                        "name": "Black boss map",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1007080/ced494b07b688897513ddc3c2e6308660718db70.jpg"
+                    },
+                    {
+                        "name": "Super boss map",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1007080/d65540b0b2a669260154a8cd7f6ff335e21e52d9.jpg"
+                    }
+                ]
+            },
             "release_date": {
-                "coming_soon": true,
+                "coming_soon": false,
                 "date": "29 Mar, 2019"
             },
             "support_info": {
                 "url": "steamcommunity.com/id/mastermindfin",
                 "email": "tero.lunkka@gmail.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1007080/page_bg_generated_v6b.jpg?t=1552633715",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1007080/page_bg_generated_v6b.jpg?t=1555611440",
             "content_descriptors": {
                 "ids": [],
                 "notes": null

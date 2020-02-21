@@ -11,7 +11,7 @@
             "about_the_game": "Explore the world of Pangea as you embark on your adventure in this Open-World 2D ARPG. Follow and unravel the fate of the Firstborne or craft your own destiny alone or with friends.<br><br>BorderStrain is based on a custom built OpenGL game engine and delivers a procedual world full of loot and adventures! Customize your character by leveling and allocating skill-points in any of the 4 unique skill-trees. Build your character according to your play-style and that of your companions as the game support up to 5 Player Co-Op Multiplayer! Structures &amp; Items can be crafted by resources found throught the world<br><br>High-scores are recorded and available in the in-game Leaderboards<br><br>The integrated Map-Maker allows for easy design of custom expansions which can be shared with Friends!<br><br><ul class=\"bb_ul\"><li>Open-World 2D ARPG</li><li>Procedual World &amp; Loot</li><li>Set Items with Unique Abilities</li><li>4 Unique Skill-Trees</li><li>5 Player Multiplayer</li><li>Craft, Build &amp; Explore</li><li>Integrated Map-Maker for Custom Expansions</li></ul>",
             "short_description": "Explore the world of Pangea as you embark on your adventure in this Open-World 2D ARPG. Follow and unravel the fate of the Firstborne or craft your own destiny alone or with friends with full multiplayer support.",
             "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1007070/header.jpg?t=1553154747",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1007070/header.jpg?t=1574462761",
             "website": "https://www.borderstrain.com/",
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong> Quad Core 2.0 GHz<br></li><li><strong>Memory:</strong> 3 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL 3.0 Support 1 GB VRAM<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>",
@@ -25,7 +25,40 @@
             "publishers": [
                 "Gallivanting Rhino Studio"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 1079,
+                "final": 1079,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "10,79€"
+            },
+            "packages": [
+                333120
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy BorderStrain",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 333120,
+                            "percent_savings_text": "",
+                            "percent_savings": 0,
+                            "option_text": "BorderStrain - 10,79€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 1079
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": false,
@@ -70,46 +103,66 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1007070/ss_6f067de983b2ee25922ee00e4c466fd85a25cab8.600x338.jpg?t=1553154747",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1007070/ss_6f067de983b2ee25922ee00e4c466fd85a25cab8.1920x1080.jpg?t=1553154747"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1007070/ss_6f067de983b2ee25922ee00e4c466fd85a25cab8.600x338.jpg?t=1574462761",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1007070/ss_6f067de983b2ee25922ee00e4c466fd85a25cab8.1920x1080.jpg?t=1574462761"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1007070/ss_ab32c88a8484b8f7eb9e999bb2fdc87ed34cc5c7.600x338.jpg?t=1553154747",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1007070/ss_ab32c88a8484b8f7eb9e999bb2fdc87ed34cc5c7.1920x1080.jpg?t=1553154747"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1007070/ss_ab32c88a8484b8f7eb9e999bb2fdc87ed34cc5c7.600x338.jpg?t=1574462761",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1007070/ss_ab32c88a8484b8f7eb9e999bb2fdc87ed34cc5c7.1920x1080.jpg?t=1574462761"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1007070/ss_5dc605fbda8250f4034ea66a3d43fd7acf31ecb7.600x338.jpg?t=1553154747",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1007070/ss_5dc605fbda8250f4034ea66a3d43fd7acf31ecb7.1920x1080.jpg?t=1553154747"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1007070/ss_5dc605fbda8250f4034ea66a3d43fd7acf31ecb7.600x338.jpg?t=1574462761",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1007070/ss_5dc605fbda8250f4034ea66a3d43fd7acf31ecb7.1920x1080.jpg?t=1574462761"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1007070/ss_085593da7a602d3ec8630a6a5519972f7b525e23.600x338.jpg?t=1553154747",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1007070/ss_085593da7a602d3ec8630a6a5519972f7b525e23.1920x1080.jpg?t=1553154747"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1007070/ss_085593da7a602d3ec8630a6a5519972f7b525e23.600x338.jpg?t=1574462761",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1007070/ss_085593da7a602d3ec8630a6a5519972f7b525e23.1920x1080.jpg?t=1574462761"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1007070/ss_c8f2e18b326603ad6ba72c88b9e5722ccdaf6d33.600x338.jpg?t=1553154747",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1007070/ss_c8f2e18b326603ad6ba72c88b9e5722ccdaf6d33.1920x1080.jpg?t=1553154747"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1007070/ss_c8f2e18b326603ad6ba72c88b9e5722ccdaf6d33.600x338.jpg?t=1574462761",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1007070/ss_c8f2e18b326603ad6ba72c88b9e5722ccdaf6d33.1920x1080.jpg?t=1574462761"
                 },
                 {
                     "id": 5,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1007070/ss_c677b7ae4c96332e6b7e7cdca11b3b521ca5c758.600x338.jpg?t=1553154747",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1007070/ss_c677b7ae4c96332e6b7e7cdca11b3b521ca5c758.1920x1080.jpg?t=1553154747"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1007070/ss_c677b7ae4c96332e6b7e7cdca11b3b521ca5c758.600x338.jpg?t=1574462761",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1007070/ss_c677b7ae4c96332e6b7e7cdca11b3b521ca5c758.1920x1080.jpg?t=1574462761"
                 },
                 {
                     "id": 6,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1007070/ss_4b6b22f20847d492d377d4648fa3b24a92da50c3.600x338.jpg?t=1553154747",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1007070/ss_4b6b22f20847d492d377d4648fa3b24a92da50c3.1920x1080.jpg?t=1553154747"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1007070/ss_4b6b22f20847d492d377d4648fa3b24a92da50c3.600x338.jpg?t=1574462761",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1007070/ss_4b6b22f20847d492d377d4648fa3b24a92da50c3.1920x1080.jpg?t=1574462761"
                 },
                 {
                     "id": 7,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1007070/ss_223fb70160eb972fa24b3478468610ddd2fe3ebb.600x338.jpg?t=1553154747",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1007070/ss_223fb70160eb972fa24b3478468610ddd2fe3ebb.1920x1080.jpg?t=1553154747"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1007070/ss_223fb70160eb972fa24b3478468610ddd2fe3ebb.600x338.jpg?t=1574462761",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1007070/ss_223fb70160eb972fa24b3478468610ddd2fe3ebb.1920x1080.jpg?t=1574462761"
                 }
             ],
             "movies": [
+                {
+                    "id": 256758899,
+                    "name": "Trailer #3 Wayfaring Patch",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256758899/movie.293x165.jpg?t=1565649069",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256758899/movie480.webm?t=1565649069",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256758899/movie_max.webm?t=1565649069"
+                    },
+                    "highlight": true
+                },
+                {
+                    "id": 256754830,
+                    "name": "Trailer #2 Pangea Patch",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256754830/movie.293x165.jpg?t=1561808547",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256754830/movie480.webm?t=1561808547",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256754830/movie_max.webm?t=1561808547"
+                    },
+                    "highlight": true
+                },
                 {
                     "id": 256741812,
                     "name": "Trailer #1",
@@ -121,15 +174,18 @@
                     "highlight": true
                 }
             ],
+            "achievements": {
+                "total": 0
+            },
             "release_date": {
-                "coming_soon": true,
-                "date": "Spring 2019"
+                "coming_soon": false,
+                "date": "24 May, 2019"
             },
             "support_info": {
                 "url": "https://www.borderstrain.com/",
                 "email": "admin@borderstrain.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1007070/page_bg_generated_v6b.jpg?t=1553154747",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1007070/page_bg_generated_v6b.jpg?t=1574462761",
             "content_descriptors": {
                 "ids": [
                     2,
