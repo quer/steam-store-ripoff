@@ -8,15 +8,15 @@
             "required_age": 0,
             "is_free": false,
             "controller_support": "full",
-            "detailed_description": "Purchase this DLC disables score limit on this table!<br><br><strong>Devil Riders 2019</strong><br><br><u>Information:</u><br><ul class=\"bb_ul\"><li>Name: Devil Riders 2019<br></li><li>Theme: Motorcycle riding<br></li><li>Production year: 2019<br></li><li>Type: Solid State (SS)</li></ul><br><u>Features:</u><br><ul class=\"bb_ul\"><li>1 playfield<br></li><li>2 flippers<br></li><li>3 pop bumpers<br></li><li>3 eject holes<br></li><li>2 ramps<br></li><li>1 special ramp<br></li><li>1 spinner<br></li><li>2 kickbacks<br></li><li>2-bank drop targets (1)<br></li><li>3-bank drop targets (2)<br></li><li>4-bank drop targets (1)</li></ul>",
-            "about_the_game": "Purchase this DLC disables score limit on this table!<br><br><strong>Devil Riders 2019</strong><br><br><u>Information:</u><br><ul class=\"bb_ul\"><li>Name: Devil Riders 2019<br></li><li>Theme: Motorcycle riding<br></li><li>Production year: 2019<br></li><li>Type: Solid State (SS)</li></ul><br><u>Features:</u><br><ul class=\"bb_ul\"><li>1 playfield<br></li><li>2 flippers<br></li><li>3 pop bumpers<br></li><li>3 eject holes<br></li><li>2 ramps<br></li><li>1 special ramp<br></li><li>1 spinner<br></li><li>2 kickbacks<br></li><li>2-bank drop targets (1)<br></li><li>3-bank drop targets (2)<br></li><li>4-bank drop targets (1)</li></ul>",
+            "detailed_description": "Purchase this DLC disables score limit on this table!<br><br><strong>Devil Riders 2019</strong><br><br><u>Information:</u><br><ul class=\"bb_ul\"><li>Name: Devil Riders 2019<br></li><li>Theme: Motorcycle riding<br></li><li>Production year: 2019<br></li><li>Type: Solid State (SS)</li></ul><br><u>Features:</u><br><ul class=\"bb_ul\"><li>1 playfield<br></li><li>3 flippers<br></li><li>3 pop bumpers<br></li><li>3 eject holes<br></li><li>2 ramps<br></li><li>1 special ramp<br></li><li>1 spinner<br></li><li>2 kickbacks<br></li><li>2-bank drop targets (1)<br></li><li>3-bank drop targets (2)<br></li><li>4-bank spot targets (1)</li></ul>",
+            "about_the_game": "Purchase this DLC disables score limit on this table!<br><br><strong>Devil Riders 2019</strong><br><br><u>Information:</u><br><ul class=\"bb_ul\"><li>Name: Devil Riders 2019<br></li><li>Theme: Motorcycle riding<br></li><li>Production year: 2019<br></li><li>Type: Solid State (SS)</li></ul><br><u>Features:</u><br><ul class=\"bb_ul\"><li>1 playfield<br></li><li>3 flippers<br></li><li>3 pop bumpers<br></li><li>3 eject holes<br></li><li>2 ramps<br></li><li>1 special ramp<br></li><li>1 spinner<br></li><li>2 kickbacks<br></li><li>2-bank drop targets (1)<br></li><li>3-bank drop targets (2)<br></li><li>4-bank spot targets (1)</li></ul>",
             "short_description": "Devil Riders 2019 Table is a modernized version of the original Devil Riders table from 1984.",
             "fullgame": {
                 "appid": "444930",
                 "name": "Zaccaria Pinball"
             },
             "supported_languages": "English",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1029820/header.jpg?t=1553689112",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1029820/header.jpg?t=1587553669",
             "website": null,
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 / Windows 8 / Windows 10<br></li><li><strong>Processor:</strong> Dual Core 1.6 GHz or better<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD Graphics 3000 or equivalent<br></li><li><strong>Storage:</strong> 1 GB available space<br></li><li><strong>Sound Card:</strong> Windows compatible sound card</li></ul>"
@@ -36,10 +36,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 239,
-                "final": 215,
-                "discount_percent": 10,
-                "initial_formatted": "2,39€",
-                "final_formatted": "2,15€"
+                "final": 239,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "2,39€"
             },
             "packages": [
                 342488
@@ -56,13 +56,13 @@
                     "subs": [
                         {
                             "packageid": 342488,
-                            "percent_savings_text": "-10%",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Zaccaria Pinball - Devil Riders 2019 Table - <span class=\"discount_original_price\">2,39€</span> 2,15€",
+                            "option_text": "Zaccaria Pinball - Devil Riders 2019 Table - 2,39€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 215
+                            "price_in_cents_with_discount": 239
                         }
                     ]
                 }
@@ -82,12 +82,16 @@
                     "description": "Multi-player"
                 },
                 {
+                    "id": 49,
+                    "description": "PvP"
+                },
+                {
                     "id": 36,
-                    "description": "Online Multi-Player"
+                    "description": "Online PvP"
                 },
                 {
                     "id": 37,
-                    "description": "Local Multi-Player"
+                    "description": "Shared/Split Screen PvP"
                 },
                 {
                     "id": 24,
@@ -151,28 +155,28 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029820/ss_a32666111d2500fe0ebb89a7a571c4bf22ddf581.600x338.jpg?t=1553689112",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029820/ss_a32666111d2500fe0ebb89a7a571c4bf22ddf581.1920x1080.jpg?t=1553689112"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029820/ss_a32666111d2500fe0ebb89a7a571c4bf22ddf581.600x338.jpg?t=1587553669",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029820/ss_a32666111d2500fe0ebb89a7a571c4bf22ddf581.1920x1080.jpg?t=1587553669"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029820/ss_bef271032bb4993b1ad9e98c1c00d843b46238e6.600x338.jpg?t=1553689112",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029820/ss_bef271032bb4993b1ad9e98c1c00d843b46238e6.1920x1080.jpg?t=1553689112"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029820/ss_bef271032bb4993b1ad9e98c1c00d843b46238e6.600x338.jpg?t=1587553669",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029820/ss_bef271032bb4993b1ad9e98c1c00d843b46238e6.1920x1080.jpg?t=1587553669"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029820/ss_7f7ab5a3996d155d920cbc4c5b114aa438669511.600x338.jpg?t=1553689112",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029820/ss_7f7ab5a3996d155d920cbc4c5b114aa438669511.1920x1080.jpg?t=1553689112"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029820/ss_7f7ab5a3996d155d920cbc4c5b114aa438669511.600x338.jpg?t=1587553669",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029820/ss_7f7ab5a3996d155d920cbc4c5b114aa438669511.1920x1080.jpg?t=1587553669"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029820/ss_fbe483e43491fa0bf214315fde603d55c88421ad.600x338.jpg?t=1553689112",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029820/ss_fbe483e43491fa0bf214315fde603d55c88421ad.1920x1080.jpg?t=1553689112"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029820/ss_fbe483e43491fa0bf214315fde603d55c88421ad.600x338.jpg?t=1587553669",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029820/ss_fbe483e43491fa0bf214315fde603d55c88421ad.1920x1080.jpg?t=1587553669"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029820/ss_9e1dd3290c7c3c436683e72d455bf7d452b80ae3.600x338.jpg?t=1553689112",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029820/ss_9e1dd3290c7c3c436683e72d455bf7d452b80ae3.1920x1080.jpg?t=1553689112"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029820/ss_9e1dd3290c7c3c436683e72d455bf7d452b80ae3.600x338.jpg?t=1587553669",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029820/ss_9e1dd3290c7c3c436683e72d455bf7d452b80ae3.1920x1080.jpg?t=1587553669"
                 }
             ],
             "release_date": {
@@ -183,7 +187,7 @@
                 "url": "",
                 "email": "contact.magicpixel2012@gmail.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1029820/page_bg_generated_v6b.jpg?t=1553689112",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1029820/page_bg_generated_v6b.jpg?t=1587553669",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
