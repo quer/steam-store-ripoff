@@ -12,7 +12,7 @@
             "about_the_game": "<strong>You are the hero</strong>, your last memory is fighting with the demon Guile and felling it, thus saving your world. However, <strong>you seem to have died</strong> in the process and now you cannot remember her, the one for which you went alone to fight the demon. Due to your great deed, the gods have given you <strong>five more days</strong> to put your affairs in order, but time will quickly take its toll and you will grow weaker as the days pass.<br><br>Good luck in finding out what happened!<br><br>From renowned creator Shoji Masuda (Linda³, Oreshika) comes an epic anti-RPG about aging and death.<br>A full localization and brush-up of a game only available until now in Japan on PS Vita.<h2 class=\"bb_tag\">Features:</h2><ul class=\"bb_ul\"><li>Fantasy anti-RPG where the hero starts at his strongest, and grows weaker as time passes<br></li><li>Over 50 different funerals (endings) depending on what the hero accomplished<br></li><li>8 unique heroines to woo, each with their own personalities and motivations. Which is the one you were protecting?<br></li><li>Visit the world you have just saved, and resolve remaining problems to lead it to the best possible future</li></ul>",
             "short_description": "The hero defeated the demon Guile, but lost his life in the process. Given five more days to put his affairs in order, guide him to the best possible funeral in this anti-RPG where he grows weaker.",
             "supported_languages": "English, Japanese<strong>*</strong><br><strong>*</strong>languages with full audio support",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1054050/header.jpg?t=1581485708",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1054050/header.jpg?t=1589362699",
             "website": null,
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 8 / 10<br></li><li><strong>Processor:</strong> 2.0 GHz or better<br></li><li><strong>Graphics:</strong> DirectX 11 capable GPU<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Sound Card:</strong> DirectX 11 capable</li></ul>"
@@ -27,7 +27,40 @@
             "publishers": [
                 "Degica"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 3399,
+                "final": 3399,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "33,99€"
+            },
+            "packages": [
+                351770
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Hero must die. again",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 351770,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "Hero must die. again - 33,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 3399
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": false,
@@ -47,6 +80,10 @@
                     "description": "Full controller support"
                 },
                 {
+                    "id": 29,
+                    "description": "Steam Trading Cards"
+                },
+                {
                     "id": 23,
                     "description": "Steam Cloud"
                 }
@@ -60,51 +97,114 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1054050/ss_43715014be5f5bf26a430ea53856b2723a6c6362.600x338.jpg?t=1581485708",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1054050/ss_43715014be5f5bf26a430ea53856b2723a6c6362.1920x1080.jpg?t=1581485708"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1054050/ss_43715014be5f5bf26a430ea53856b2723a6c6362.600x338.jpg?t=1589362699",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1054050/ss_43715014be5f5bf26a430ea53856b2723a6c6362.1920x1080.jpg?t=1589362699"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1054050/ss_350cb21d91ec067e6bd6a3c248f49306c2203724.600x338.jpg?t=1581485708",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1054050/ss_350cb21d91ec067e6bd6a3c248f49306c2203724.1920x1080.jpg?t=1581485708"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1054050/ss_350cb21d91ec067e6bd6a3c248f49306c2203724.600x338.jpg?t=1589362699",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1054050/ss_350cb21d91ec067e6bd6a3c248f49306c2203724.1920x1080.jpg?t=1589362699"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1054050/ss_9ae3e80b4c08a47fa454c4fe466b71f38a010525.600x338.jpg?t=1581485708",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1054050/ss_9ae3e80b4c08a47fa454c4fe466b71f38a010525.1920x1080.jpg?t=1581485708"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1054050/ss_9ae3e80b4c08a47fa454c4fe466b71f38a010525.600x338.jpg?t=1589362699",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1054050/ss_9ae3e80b4c08a47fa454c4fe466b71f38a010525.1920x1080.jpg?t=1589362699"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1054050/ss_466a46a86bf185d11074cfa0f9b1c3aee6acecff.600x338.jpg?t=1581485708",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1054050/ss_466a46a86bf185d11074cfa0f9b1c3aee6acecff.1920x1080.jpg?t=1581485708"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1054050/ss_466a46a86bf185d11074cfa0f9b1c3aee6acecff.600x338.jpg?t=1589362699",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1054050/ss_466a46a86bf185d11074cfa0f9b1c3aee6acecff.1920x1080.jpg?t=1589362699"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1054050/ss_514040c9a90b270ad3f0034106eb2794381c72b5.600x338.jpg?t=1581485708",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1054050/ss_514040c9a90b270ad3f0034106eb2794381c72b5.1920x1080.jpg?t=1581485708"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1054050/ss_514040c9a90b270ad3f0034106eb2794381c72b5.600x338.jpg?t=1589362699",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1054050/ss_514040c9a90b270ad3f0034106eb2794381c72b5.1920x1080.jpg?t=1589362699"
                 }
             ],
             "movies": [
                 {
+                    "id": 256776300,
+                    "name": "Official PV_EN",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256776300/movie.293x165.jpg?t=1582698742",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256776300/movie480.webm?t=1582698742",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256776300/movie_max.webm?t=1582698742"
+                    },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256776300/movie480.mp4?t=1582698742",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256776300/movie_max.mp4?t=1582698742"
+                    },
+                    "highlight": true
+                },
+                {
                     "id": 256769728,
                     "name": "Teaser Trailer_EN",
-                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256769728/movie.293x165.jpg?t=1576807995",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256769728/movie.293x165.jpg?t=1582694457",
                     "webm": {
-                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256769728/movie480.webm?t=1576807995",
-                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256769728/movie_max.webm?t=1576807995"
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256769728/movie480.webm?t=1582694457",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256769728/movie_max.webm?t=1582694457"
+                    },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256769728/movie480.mp4?t=1582694457",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256769728/movie_max.mp4?t=1582694457"
                     },
                     "highlight": true
                 }
             ],
+            "achievements": {
+                "total": 57,
+                "highlighted": [
+                    {
+                        "name": "The Hunter's Respect",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1054050/c0da3ea342ed8a07ff2c64e956a2ebfa266615ca.jpg"
+                    },
+                    {
+                        "name": "The Nun's Respect",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1054050/224880636f3bd805a22c93ab11807f74960b4d01.jpg"
+                    },
+                    {
+                        "name": "The Scientist's Respect",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1054050/1493923146da852af77eba672541f3163c7b5aba.jpg"
+                    },
+                    {
+                        "name": "The Warrior's Respect",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1054050/1bac1fda2fd459ea9a2ca842ae812276bfd97ff2.jpg"
+                    },
+                    {
+                        "name": "The Merchant's Respect",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1054050/ef4bb758704a184a7362373c4d669d10405926c5.jpg"
+                    },
+                    {
+                        "name": "Rival's Respect",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1054050/6b25cbf3cfca984a7fd0ed285a3704a067472f1b.jpg"
+                    },
+                    {
+                        "name": "The Hero's Respect",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1054050/4b078694f2cc5f14413b4158c35e5774852b1cab.jpg"
+                    },
+                    {
+                        "name": "Respected by All",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1054050/59b212bb35474ae1b622a757650fb795238612af.jpg"
+                    },
+                    {
+                        "name": "Moving Up in the World",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1054050/db256027773a18027709d9db4bc5ccef69ff063c.jpg"
+                    },
+                    {
+                        "name": "Jail Breaker",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1054050/621359b70bd55d6d445ed25a8631f393d4b7891f.jpg"
+                    }
+                ]
+            },
             "release_date": {
-                "coming_soon": true,
+                "coming_soon": false,
                 "date": "26 Feb, 2020"
             },
             "support_info": {
                 "url": "",
                 "email": "games@degica.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1054050/page_bg_generated_v6b.jpg?t=1581485708",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1054050/page_bg_generated_v6b.jpg?t=1589362699",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
