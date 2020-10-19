@@ -6,12 +6,12 @@
             "name": "Space Expand",
             "steam_appid": 1029120,
             "required_age": 0,
-            "is_free": false,
+            "is_free": true,
             "detailed_description": "Take control and expand your empire through different constellations in this minimalist 4X strategy game.<br />\r\n<br />\r\n- Up to 500 randomly generated worlds running in parallel and in real time.<br />\r\n<br />\r\n- Many intense battles in real time across your galactic sector.<br />\r\n<br />\r\n- Colonize and terraform new worlds or destroy planets already habited by other races or players.<br />\r\n<br />\r\n- Improve your planetary defenses, research and ship fleets.<br />\r\n<br />\r\n- Trade with players and form guilds to conquer many solar systems.",
             "about_the_game": "Take control and expand your empire through different constellations in this minimalist 4X strategy game.<br />\r\n<br />\r\n- Up to 500 randomly generated worlds running in parallel and in real time.<br />\r\n<br />\r\n- Many intense battles in real time across your galactic sector.<br />\r\n<br />\r\n- Colonize and terraform new worlds or destroy planets already habited by other races or players.<br />\r\n<br />\r\n- Improve your planetary defenses, research and ship fleets.<br />\r\n<br />\r\n- Trade with players and form guilds to conquer many solar systems.",
             "short_description": "Take control and expand your empire through different constellations in this minimalist 4X strategy game.",
             "supported_languages": "English",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1029120/header.jpg?t=1552515424",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1029120/header.jpg?t=1592474978",
             "website": null,
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 64-bit Windows 7, 64-bit Windows 10<br></li><li><strong>Processor:</strong> AMD Ryzen 3 2200G or Intel CPU Core i3-2100<br></li><li><strong>Memory:</strong> 500 MB RAM<br></li><li><strong>Graphics:</strong> 512 MB Video memory<br></li><li><strong>Storage:</strong> 20 MB available space</li></ul>",
@@ -41,12 +41,20 @@
                     "description": "Multi-player"
                 },
                 {
-                    "id": 36,
-                    "description": "Online Multi-Player"
-                },
-                {
                     "id": 20,
                     "description": "MMO"
+                },
+                {
+                    "id": 49,
+                    "description": "PvP"
+                },
+                {
+                    "id": 36,
+                    "description": "Online PvP"
+                },
+                {
+                    "id": 9,
+                    "description": "Co-op"
                 },
                 {
                     "id": 38,
@@ -78,41 +86,55 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029120/ss_c29c2128295241d3019459919572f7311622bb6b.600x338.jpg?t=1552515424",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029120/ss_c29c2128295241d3019459919572f7311622bb6b.1920x1080.jpg?t=1552515424"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029120/ss_c29c2128295241d3019459919572f7311622bb6b.600x338.jpg?t=1592474978",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029120/ss_c29c2128295241d3019459919572f7311622bb6b.1920x1080.jpg?t=1592474978"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029120/ss_685f66377a0dd137d42227b86d8019546a193775.600x338.jpg?t=1552515424",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029120/ss_685f66377a0dd137d42227b86d8019546a193775.1920x1080.jpg?t=1552515424"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029120/ss_685f66377a0dd137d42227b86d8019546a193775.600x338.jpg?t=1592474978",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029120/ss_685f66377a0dd137d42227b86d8019546a193775.1920x1080.jpg?t=1592474978"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029120/ss_ba9202a40293753f311d5d0277e49aac4fac61de.600x338.jpg?t=1552515424",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029120/ss_ba9202a40293753f311d5d0277e49aac4fac61de.1920x1080.jpg?t=1552515424"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029120/ss_ba9202a40293753f311d5d0277e49aac4fac61de.600x338.jpg?t=1592474978",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029120/ss_ba9202a40293753f311d5d0277e49aac4fac61de.1920x1080.jpg?t=1592474978"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029120/ss_0946d4b0d3428da675eac9ebde93879675a998c7.600x338.jpg?t=1552515424",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029120/ss_0946d4b0d3428da675eac9ebde93879675a998c7.1920x1080.jpg?t=1552515424"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029120/ss_0946d4b0d3428da675eac9ebde93879675a998c7.600x338.jpg?t=1592474978",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029120/ss_0946d4b0d3428da675eac9ebde93879675a998c7.1920x1080.jpg?t=1592474978"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029120/ss_6639de5e38ccb1d0609a680621f35b43260d2183.600x338.jpg?t=1552515424",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029120/ss_6639de5e38ccb1d0609a680621f35b43260d2183.1920x1080.jpg?t=1552515424"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029120/ss_6639de5e38ccb1d0609a680621f35b43260d2183.600x338.jpg?t=1592474978",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029120/ss_6639de5e38ccb1d0609a680621f35b43260d2183.1920x1080.jpg?t=1592474978"
                 },
                 {
                     "id": 5,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029120/ss_f2f041af7eb7f0988deb021f9fab303ff9fc28ed.600x338.jpg?t=1552515424",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029120/ss_f2f041af7eb7f0988deb021f9fab303ff9fc28ed.1920x1080.jpg?t=1552515424"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029120/ss_f2f041af7eb7f0988deb021f9fab303ff9fc28ed.600x338.jpg?t=1592474978",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029120/ss_f2f041af7eb7f0988deb021f9fab303ff9fc28ed.1920x1080.jpg?t=1592474978"
                 },
                 {
                     "id": 6,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029120/ss_2e41d72389d5d0b29ef73324a8df763f2dcf3e1f.600x338.jpg?t=1552515424",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029120/ss_2e41d72389d5d0b29ef73324a8df763f2dcf3e1f.1920x1080.jpg?t=1552515424"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029120/ss_2e41d72389d5d0b29ef73324a8df763f2dcf3e1f.600x338.jpg?t=1592474978",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029120/ss_2e41d72389d5d0b29ef73324a8df763f2dcf3e1f.1920x1080.jpg?t=1592474978"
                 }
             ],
             "movies": [
+                {
+                    "id": 256789892,
+                    "name": "Space Expand 2.0",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256789892/movie.293x165.jpg?t=1592474973",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256789892/movie480_vp9.webm?t=1592474973",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256789892/movie_max_vp9.webm?t=1592474973"
+                    },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256789892/movie480.mp4?t=1592474973",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256789892/movie_max.mp4?t=1592474973"
+                    },
+                    "highlight": true
+                },
                 {
                     "id": 256742432,
                     "name": "Space Expand",
@@ -121,9 +143,58 @@
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/256742432/movie480.webm?t=1549635106",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/256742432/movie_max.webm?t=1549635106"
                     },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256742432/movie480.mp4?t=1549635106",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256742432/movie_max.mp4?t=1549635106"
+                    },
                     "highlight": true
                 }
             ],
+            "achievements": {
+                "total": 16,
+                "highlighted": [
+                    {
+                        "name": "Increasing a planet's defence to the maximum",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1029120/5d0b0758f9ad6ed440606f635fd607e532a4595d.jpg"
+                    },
+                    {
+                        "name": "Conquer a planet",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1029120/1ea810dc484ef6590fba4d8a6940457535ba6d70.jpg"
+                    },
+                    {
+                        "name": "Trade 10 achievement with other player",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1029120/ce2484fc0455ac6293a3119309d2ab4ef5122d5c.jpg"
+                    },
+                    {
+                        "name": "Explore points of interest and found 100 colons",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1029120/d2f325f3dc04a8760cdb78f81e3704a5be281a87.jpg"
+                    },
+                    {
+                        "name": "Participate in the destruction of a Death Star.",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1029120/a2c99a5a6dbaedb2cd2692b5e99a4021e48a2cc4.jpg"
+                    },
+                    {
+                        "name": "Destroy 10,000 enemy ships",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1029120/1deaa6e5d3b744c74b0b39200f628265d31a77b8.jpg"
+                    },
+                    {
+                        "name": "Conquering all the planets of a system",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1029120/58bbf3d088a42723e30933e0c0c2486442e8f3b2.jpg"
+                    },
+                    {
+                        "name": "Constructing once all the different orbital stations",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1029120/2eac285214275204ea48e5b546d5701fd5f4a76f.jpg"
+                    },
+                    {
+                        "name": "Bringing 100,000,000 tons of ore from solar orbit to your home planet",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1029120/b107b68e24e5687a5b2aa5e9022e4237e958cf0d.jpg"
+                    },
+                    {
+                        "name": "Unlocking all the technologies of the intergalactic science system",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1029120/22c60f2743b6b17500ab5b67753fcea88085641d.jpg"
+                    }
+                ]
+            },
             "release_date": {
                 "coming_soon": false,
                 "date": "22 Feb, 2019"
@@ -132,7 +203,7 @@
                 "url": "",
                 "email": ""
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1029120/page_bg_generated_v6b.jpg?t=1552515424",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1029120/page_bg_generated_v6b.jpg?t=1592474978",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
