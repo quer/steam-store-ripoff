@@ -15,19 +15,25 @@
                 "name": "Star Conflict"
             },
             "supported_languages": "English<strong>*</strong>, Russian<strong>*</strong>, French, German, Spanish - Spain, Portuguese, Polish, Hungarian, Czech, Ukrainian, Simplified Chinese<br><strong>*</strong>languages with full audio support",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1049650/header.jpg?t=1553749250",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1049650/header.jpg?t=1589801864",
             "website": "http://star-conflict.com/",
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP<br>\t</li><li><strong>Processor:</strong> 2.0 GHz, Intel Pentium 4 / AMD Athlon II<br>\t</li><li><strong>Memory:</strong> 4 GB RAM<br>\t</li><li><strong>Video Card:</strong> 512 MB, NVidia / AMD Radeon / Intel (HD 3000, HD 4000) with support for Pixel Shader 3.0 (AMD Radeon X1000 not supported)<br>\t</li><li><strong>Hard Disk Space:</strong> 6 GB<br>\t</li><li><strong>Additional:</strong> Broadband Internet connection</li></ul>",
-                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7/8/10<br>\t</li><li><strong>Processor:</strong> 2.3 GHz, Intel Core 2 Duo / AMD<br>\t</li><li><strong>Memory:</strong> 4 GB RAM<br>\t</li><li><strong>Video Card:</strong> 1024 MB, NVidia GeForce 650 / AMD Radeon HD 5750<br>\t</li><li><strong>Hard Disk Space:</strong> 6 GB<br>\t</li><li><strong>Additional:</strong> Broadband Internet connection</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7<br>\t</li><li><strong>Processor:</strong> 2.3 GHz, Intel Core 2 Duo / 2.5 GHz, AMD A6-9220<br>\t</li><li><strong>Memory:</strong> 6 GB RAM<br>\t</li><li><strong>Video Card:</strong> 512 MB, NVidia / AMD Radeon / Intel (HD 3000, HD 4000) with support for Pixel Shader 3.0 (AMD Radeon X1000 not supported)<br>\t</li><li><strong>Hard Disk Space:</strong> 8.5 GB<br>\t</li><li><strong>Additional:</strong> Broadband Internet connection</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7/8/10<br>\t</li><li><strong>Processor:</strong> 2.3 GHz, Intel Core 2 Duo / 2.5 GHz, AMD A6-9220<br>\t</li><li><strong>Memory:</strong> 6 GB RAM<br>\t</li><li><strong>Video Card:</strong> 1024 MB, NVidia GeForce 650 / AMD Radeon HD 5750<br>\t</li><li><strong>Hard Disk Space:</strong> 8.5 GB<br>\t</li><li><strong>Additional:</strong> Broadband Internet connection</li></ul>"
             },
-            "mac_requirements": [],
-            "linux_requirements": [],
+            "mac_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Snow Leopard<br>\t</li><li><strong>Processor:</strong> 2.3 GHz, Intel Core 2 Duo / 2.5 GHz, AMD A6-9220<br></li><li><strong>Memory:</strong> 6 GB RAM<br></li><li><strong>Video Card:</strong> 512 MB, NVidia / AMD Radeon / Intel HD 3000, HD 4000<br>\t</li><li><strong>Hard Drive:</strong> 8.5 GB<br>\t</li><li><strong>Other Requirements:</strong> Broadband Internet connection<br>\t</li><li><strong>Additional:</strong> Not recommended for Intel integrated graphics or Mac Minis or early-generation MacBooks</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mavericks<br>\t</li><li><strong>Processor:</strong> 2.3 GHz, Intel Core 2 Duo / 2.5 GHz, AMD A6-9220<br></li><li><strong>Memory:</strong> 6 GB RAM<br></li><li><strong>Video Card:</strong> 1024 MB, NVidia GeForce 650 / AMD Radeon HD 5750<br></li><li><strong>Hard Drive:</strong> 8.5 GB<br>\t</li><li><strong>Other Requirements:</strong> Broadband Internet connection<br>\t</li><li><strong>Additional:</strong> Not recommended for Intel integrated graphics or Mac Minis or early-generation MacBooks</li></ul>"
+            },
+            "linux_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Most modern Ubuntu distributions 13.04 or higher, SteamOS<br>\t</li><li><strong>Processor:</strong> 2.3 GHz, Intel Core 2 Duo / 2.5 GHz, AMD A6-9220<br>\t</li><li><strong>Memory:</strong> 6 GB RAM<br>\t</li><li><strong>Video Card:</strong> 512 MB, NVidia / AMD Radeon / Intel (HD 3000, HD 4000) with support for Pixel Shader 3.0 (AMD Radeon X1000 not supported)<br>\t</li><li><strong>Hard Disk Space:</strong> 8.5 GB<br>\t</li><li><strong>Additional:</strong> Broadband Internet connection</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 14.04, SteamOS<br>\t</li><li><strong>Processor:</strong> 2.3 GHz, Intel Core 2 Duo / 2.5 GHz, AMD A6-9220<br>\t</li><li><strong>Memory:</strong> 6 GB RAM<br>\t</li><li><strong>Video Card:</strong> 1024 MB, NVidia GeForce 650 / AMD Radeon HD 5750<br>\t</li><li><strong>Hard Disk Space:</strong> 8.5 GB<br>\t</li><li><strong>Additional:</strong> Broadband Internet connection</li></ul>"
+            },
             "developers": [
                 "Star Gem Inc."
             ],
             "publishers": [
-                ""
+                "Gaijin Distribution KFT"
             ],
             "price_overview": {
                 "currency": "EUR",
@@ -52,7 +58,7 @@
                     "subs": [
                         {
                             "packageid": 350116,
-                            "percent_savings_text": "",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
                             "option_text": "Star Conflict - Pilgrim - 29,99€",
                             "option_description": "",
@@ -123,28 +129,28 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1049650/ss_428f6913f3dd123bfdd413e65bd97d76c3090fc5.600x338.jpg?t=1553749250",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1049650/ss_428f6913f3dd123bfdd413e65bd97d76c3090fc5.1920x1080.jpg?t=1553749250"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1049650/ss_428f6913f3dd123bfdd413e65bd97d76c3090fc5.600x338.jpg?t=1589801864",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1049650/ss_428f6913f3dd123bfdd413e65bd97d76c3090fc5.1920x1080.jpg?t=1589801864"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1049650/ss_5956f3e2c5b2a0387864b1b86291e8fbdcc1bead.600x338.jpg?t=1553749250",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1049650/ss_5956f3e2c5b2a0387864b1b86291e8fbdcc1bead.1920x1080.jpg?t=1553749250"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1049650/ss_5956f3e2c5b2a0387864b1b86291e8fbdcc1bead.600x338.jpg?t=1589801864",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1049650/ss_5956f3e2c5b2a0387864b1b86291e8fbdcc1bead.1920x1080.jpg?t=1589801864"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1049650/ss_c874b153a94bcfc2b82673fd39b3810d56904da4.600x338.jpg?t=1553749250",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1049650/ss_c874b153a94bcfc2b82673fd39b3810d56904da4.1920x1080.jpg?t=1553749250"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1049650/ss_c874b153a94bcfc2b82673fd39b3810d56904da4.600x338.jpg?t=1589801864",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1049650/ss_c874b153a94bcfc2b82673fd39b3810d56904da4.1920x1080.jpg?t=1589801864"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1049650/ss_390cb4e3ce280524ccec193c640a0ef05b4e4511.600x338.jpg?t=1553749250",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1049650/ss_390cb4e3ce280524ccec193c640a0ef05b4e4511.1920x1080.jpg?t=1553749250"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1049650/ss_390cb4e3ce280524ccec193c640a0ef05b4e4511.600x338.jpg?t=1589801864",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1049650/ss_390cb4e3ce280524ccec193c640a0ef05b4e4511.1920x1080.jpg?t=1589801864"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1049650/ss_eb531216ad25d3cb2f7561fa04f51d6db042ae42.600x338.jpg?t=1553749250",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1049650/ss_eb531216ad25d3cb2f7561fa04f51d6db042ae42.1920x1080.jpg?t=1553749250"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1049650/ss_eb531216ad25d3cb2f7561fa04f51d6db042ae42.600x338.jpg?t=1589801864",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1049650/ss_eb531216ad25d3cb2f7561fa04f51d6db042ae42.1920x1080.jpg?t=1589801864"
                 }
             ],
             "movies": [
@@ -156,6 +162,10 @@
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/256745213/movie480.webm?t=1553749226",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/256745213/movie_max.webm?t=1553749226"
                     },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256745213/movie480.mp4?t=1553749226",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256745213/movie_max.mp4?t=1553749226"
+                    },
                     "highlight": true
                 },
                 {
@@ -166,12 +176,13 @@
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/256745211/movie480.webm?t=1553749236",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/256745211/movie_max.webm?t=1553749236"
                     },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256745211/movie480.mp4?t=1553749236",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256745211/movie_max.mp4?t=1553749236"
+                    },
                     "highlight": true
                 }
             ],
-            "achievements": {
-                "total": 0
-            },
             "release_date": {
                 "coming_soon": false,
                 "date": "27 Mar, 2019"
@@ -180,7 +191,7 @@
                 "url": "http://support.gaijinent.com",
                 "email": "support@gaijinent.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1049650/page_bg_generated_v6b.jpg?t=1553749250",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1049650/page_bg_generated_v6b.jpg?t=1589801864",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
