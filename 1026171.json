@@ -39,10 +39,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 239,
-                "final": 239,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "2,39€"
+                "final": 119,
+                "discount_percent": 50,
+                "initial_formatted": "2,39€",
+                "final_formatted": "1,19€"
             },
             "packages": [
                 340939
@@ -59,13 +59,13 @@
                     "subs": [
                         {
                             "packageid": 340939,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-50% ",
                             "percent_savings": 0,
-                            "option_text": "Septerra Core - Digital Deluxe Content - 2,39€",
+                            "option_text": "Septerra Core - Digital Deluxe Content - <span class=\"discount_original_price\">2,39€</span> 1,19€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 239
+                            "price_in_cents_with_discount": 119
                         }
                     ]
                 }
@@ -123,9 +123,6 @@
                     "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1026171/ss_ea56c7f6c8459fcedfbcad52d3cea38d0a61dbce.1920x1080.jpg?t=1549893919"
                 }
             ],
-            "achievements": {
-                "total": 0
-            },
             "release_date": {
                 "coming_soon": false,
                 "date": "11 Feb, 2019"
