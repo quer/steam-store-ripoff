@@ -8,14 +8,14 @@
             "required_age": 0,
             "is_free": false,
             "controller_support": "full",
-            "detailed_description": "The Ploshers are a pair of intergalactic exterminators. With the ability to change color and machine gun horns, they will do the job.<br />\r\nA retro style game that will force you to have quick reflexes.<br />\r\n40 stages.<br />\r\n40 different enemies and traps.<br />\r\n3 levels of difficulty.<br />\r\n1 or 2 players.<br />\r\n50 achievements.<br />\r\nKeyboard and Xbox controller or compatible.<br />\r\nFrantic action and lots of fun.",
-            "about_the_game": "The Ploshers are a pair of intergalactic exterminators. With the ability to change color and machine gun horns, they will do the job.<br />\r\nA retro style game that will force you to have quick reflexes.<br />\r\n40 stages.<br />\r\n40 different enemies and traps.<br />\r\n3 levels of difficulty.<br />\r\n1 or 2 players.<br />\r\n50 achievements.<br />\r\nKeyboard and Xbox controller or compatible.<br />\r\nFrantic action and lots of fun.",
-            "short_description": "Frantic action and lots of fun. 1 or 2 players. Keyboard and Xbox controller or compatible.",
+            "detailed_description": "The Ploshers are a pair of intergalactic exterminators. With the ability to change color and machine gun horns, they will do the job.<br />\r\nA retro style game that will force you to have quick reflexes.<br />\r\n40 stages.<br />\r\n40 different enemies and traps.<br />\r\n3 levels of difficulty.<br />\r\n1 or 2 players.<br />\r\n50 achievements.<br />\r\nKeyboard and Xbox controller or compatible.<br />\r\nFrantic action and lots of fun.<br />\r\nDownload and play the demo to ensure compatibility and performance.",
+            "about_the_game": "The Ploshers are a pair of intergalactic exterminators. With the ability to change color and machine gun horns, they will do the job.<br />\r\nA retro style game that will force you to have quick reflexes.<br />\r\n40 stages.<br />\r\n40 different enemies and traps.<br />\r\n3 levels of difficulty.<br />\r\n1 or 2 players.<br />\r\n50 achievements.<br />\r\nKeyboard and Xbox controller or compatible.<br />\r\nFrantic action and lots of fun.<br />\r\nDownload and play the demo to ensure compatibility and performance.",
+            "short_description": "Frantic action and lots of fun. 1 or 2 players. Keyboard and Xbox controller or compatible. Casual look, hardcore gameplay. Demo available.",
             "supported_languages": "English",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1036000/header.jpg?t=1553901882",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1036000/header.jpg?t=1559470806",
             "website": null,
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 and up<br></li><li><strong>Processor:</strong> 1,5 Ghz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Storage:</strong> 100 MB available space</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 and up<br></li><li><strong>Processor:</strong> 1,5 Ghz<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Storage:</strong> 100 MB available space</li></ul>"
             },
             "mac_requirements": [],
             "linux_requirements": [],
@@ -26,7 +26,57 @@
             "publishers": [
                 "platypurplestudios"
             ],
-            "package_groups": [],
+            "demos": [
+                {
+                    "appid": 1066590,
+                    "description": ""
+                }
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 659,
+                "final": 659,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "6,59€"
+            },
+            "packages": [
+                344835,
+                369357
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy The Ploshers",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 344835,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "The Ploshers - 6,59€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 659
+                        },
+                        {
+                            "packageid": 369357,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "The Ploshers - Commercial License - 6,59€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 659
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": false,
@@ -42,8 +92,12 @@
                     "description": "Multi-player"
                 },
                 {
+                    "id": 49,
+                    "description": "PvP"
+                },
+                {
                     "id": 37,
-                    "description": "Local Multi-Player"
+                    "description": "Shared/Split Screen PvP"
                 },
                 {
                     "id": 9,
@@ -51,7 +105,7 @@
                 },
                 {
                     "id": 39,
-                    "description": "Local Co-op"
+                    "description": "Shared/Split Screen Co-op"
                 },
                 {
                     "id": 24,
@@ -64,6 +118,14 @@
                 {
                     "id": 28,
                     "description": "Full controller support"
+                },
+                {
+                    "id": 25,
+                    "description": "Steam Leaderboards"
+                },
+                {
+                    "id": 44,
+                    "description": "Remote Play Together"
                 }
             ],
             "genres": [
@@ -83,58 +145,58 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1036000/ss_8032c667d96584d14705121e17d6c8682381b984.600x338.jpg?t=1553901882",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1036000/ss_8032c667d96584d14705121e17d6c8682381b984.1920x1080.jpg?t=1553901882"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1036000/ss_8032c667d96584d14705121e17d6c8682381b984.600x338.jpg?t=1559470806",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1036000/ss_8032c667d96584d14705121e17d6c8682381b984.1920x1080.jpg?t=1559470806"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1036000/ss_4ff6038de12d7633cd8cc960b04b4b6c812f3a1e.600x338.jpg?t=1553901882",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1036000/ss_4ff6038de12d7633cd8cc960b04b4b6c812f3a1e.1920x1080.jpg?t=1553901882"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1036000/ss_4ff6038de12d7633cd8cc960b04b4b6c812f3a1e.600x338.jpg?t=1559470806",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1036000/ss_4ff6038de12d7633cd8cc960b04b4b6c812f3a1e.1920x1080.jpg?t=1559470806"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1036000/ss_b062b5c6f97927bb15c6c4cdf27c20b80302d180.600x338.jpg?t=1553901882",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1036000/ss_b062b5c6f97927bb15c6c4cdf27c20b80302d180.1920x1080.jpg?t=1553901882"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1036000/ss_b062b5c6f97927bb15c6c4cdf27c20b80302d180.600x338.jpg?t=1559470806",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1036000/ss_b062b5c6f97927bb15c6c4cdf27c20b80302d180.1920x1080.jpg?t=1559470806"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1036000/ss_1e376960c74c034a1dbd9b85c0c0e82dad2cee3e.600x338.jpg?t=1553901882",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1036000/ss_1e376960c74c034a1dbd9b85c0c0e82dad2cee3e.1920x1080.jpg?t=1553901882"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1036000/ss_1e376960c74c034a1dbd9b85c0c0e82dad2cee3e.600x338.jpg?t=1559470806",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1036000/ss_1e376960c74c034a1dbd9b85c0c0e82dad2cee3e.1920x1080.jpg?t=1559470806"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1036000/ss_72ce8f307ebf2593e0d8c92faf294a564be45495.600x338.jpg?t=1553901882",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1036000/ss_72ce8f307ebf2593e0d8c92faf294a564be45495.1920x1080.jpg?t=1553901882"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1036000/ss_72ce8f307ebf2593e0d8c92faf294a564be45495.600x338.jpg?t=1559470806",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1036000/ss_72ce8f307ebf2593e0d8c92faf294a564be45495.1920x1080.jpg?t=1559470806"
                 },
                 {
                     "id": 5,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1036000/ss_8361a7491b6cb170ecc7a0c894bf343b136907bd.600x338.jpg?t=1553901882",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1036000/ss_8361a7491b6cb170ecc7a0c894bf343b136907bd.1920x1080.jpg?t=1553901882"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1036000/ss_8361a7491b6cb170ecc7a0c894bf343b136907bd.600x338.jpg?t=1559470806",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1036000/ss_8361a7491b6cb170ecc7a0c894bf343b136907bd.1920x1080.jpg?t=1559470806"
                 },
                 {
                     "id": 6,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1036000/ss_3f5ecfaaa757578d4d12309036aa800fdc54f34d.600x338.jpg?t=1553901882",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1036000/ss_3f5ecfaaa757578d4d12309036aa800fdc54f34d.1920x1080.jpg?t=1553901882"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1036000/ss_3f5ecfaaa757578d4d12309036aa800fdc54f34d.600x338.jpg?t=1559470806",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1036000/ss_3f5ecfaaa757578d4d12309036aa800fdc54f34d.1920x1080.jpg?t=1559470806"
                 },
                 {
                     "id": 7,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1036000/ss_ba0bc8d7054a5b038290713948d370f916fa7f7f.600x338.jpg?t=1553901882",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1036000/ss_ba0bc8d7054a5b038290713948d370f916fa7f7f.1920x1080.jpg?t=1553901882"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1036000/ss_ba0bc8d7054a5b038290713948d370f916fa7f7f.600x338.jpg?t=1559470806",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1036000/ss_ba0bc8d7054a5b038290713948d370f916fa7f7f.1920x1080.jpg?t=1559470806"
                 },
                 {
                     "id": 8,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1036000/ss_395c78e702a219b137ce6ad7075d8ae73dcf061e.600x338.jpg?t=1553901882",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1036000/ss_395c78e702a219b137ce6ad7075d8ae73dcf061e.1920x1080.jpg?t=1553901882"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1036000/ss_395c78e702a219b137ce6ad7075d8ae73dcf061e.600x338.jpg?t=1559470806",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1036000/ss_395c78e702a219b137ce6ad7075d8ae73dcf061e.1920x1080.jpg?t=1559470806"
                 },
                 {
                     "id": 9,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1036000/ss_1be07f2eeed70ad36206a20402c06f75661507a4.600x338.jpg?t=1553901882",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1036000/ss_1be07f2eeed70ad36206a20402c06f75661507a4.1920x1080.jpg?t=1553901882"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1036000/ss_1be07f2eeed70ad36206a20402c06f75661507a4.600x338.jpg?t=1559470806",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1036000/ss_1be07f2eeed70ad36206a20402c06f75661507a4.1920x1080.jpg?t=1559470806"
                 },
                 {
                     "id": 10,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1036000/ss_9416b913815c80aef49a358d66fe4328a2921c9a.600x338.jpg?t=1553901882",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1036000/ss_9416b913815c80aef49a358d66fe4328a2921c9a.1920x1080.jpg?t=1553901882"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1036000/ss_9416b913815c80aef49a358d66fe4328a2921c9a.600x338.jpg?t=1559470806",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1036000/ss_9416b913815c80aef49a358d66fe4328a2921c9a.1920x1080.jpg?t=1559470806"
                 }
             ],
             "movies": [
@@ -146,6 +208,10 @@
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/256746705/movie480.webm?t=1553901859",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/256746705/movie_max.webm?t=1553901859"
                     },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256746705/movie480.mp4?t=1553901859",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256746705/movie_max.mp4?t=1553901859"
+                    },
                     "highlight": true
                 },
                 {
@@ -156,18 +222,67 @@
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/256746174/movie480.webm?t=1553901869",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/256746174/movie_max.webm?t=1553901869"
                     },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256746174/movie480.mp4?t=1553901869",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256746174/movie_max.mp4?t=1553901869"
+                    },
                     "highlight": true
                 }
             ],
+            "achievements": {
+                "total": 50,
+                "highlighted": [
+                    {
+                        "name": "stage_01",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1036000/9eb08ed39530a6704363c4585270d4cce65f0843.jpg"
+                    },
+                    {
+                        "name": "stage_02",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1036000/b92906741884b416e1e9af26829f414c1ebc6fa0.jpg"
+                    },
+                    {
+                        "name": "stage_03",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1036000/42f236b4516b57abdd603cba000c1266f659a041.jpg"
+                    },
+                    {
+                        "name": "stage_04",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1036000/761d0c947b2a93633afa00eb2f2a20b25f94966c.jpg"
+                    },
+                    {
+                        "name": "stage_05",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1036000/68293c1b176d37a1477ed16cfd58b08bafc01ba1.jpg"
+                    },
+                    {
+                        "name": "stage_06",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1036000/97aa4343b18ae12cd3261789ae6697947017d7ca.jpg"
+                    },
+                    {
+                        "name": "stage_07",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1036000/f8cbe278101b4e924735ccb8467b07acfd4f6000.jpg"
+                    },
+                    {
+                        "name": "stage_08",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1036000/9dd2f4414234d5198cb993be0ca9a23657a1f4b2.jpg"
+                    },
+                    {
+                        "name": "stage_09",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1036000/2653b98e30071aa9e516ed5b2c8a237434c62af3.jpg"
+                    },
+                    {
+                        "name": "stage_10",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1036000/6dc5a395064140a371bccb789111f9d16053667b.jpg"
+                    }
+                ]
+            },
             "release_date": {
-                "coming_soon": true,
-                "date": "Apr 2019"
+                "coming_soon": false,
+                "date": "16 Apr, 2019"
             },
             "support_info": {
                 "url": "https://twitter.com/platypurple",
                 "email": "platypurplestudios@gmail.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1036000/page_bg_generated_v6b.jpg?t=1553901882",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1036000/page_bg_generated_v6b.jpg?t=1559470806",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
