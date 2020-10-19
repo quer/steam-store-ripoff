@@ -48,7 +48,7 @@
                     "subs": [
                         {
                             "packageid": 345667,
-                            "percent_savings_text": "",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
                             "option_text": "Grand Dude Simulator - 3,99€",
                             "option_description": "",
@@ -118,9 +118,16 @@
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/256744885/movie480.webm?t=1552088146",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/256744885/movie_max.webm?t=1552088146"
                     },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256744885/movie480.mp4?t=1552088146",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256744885/movie_max.mp4?t=1552088146"
+                    },
                     "highlight": true
                 }
             ],
+            "recommendations": {
+                "total": 129
+            },
             "release_date": {
                 "coming_soon": false,
                 "date": "12 Mar, 2019"
