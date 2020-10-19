@@ -14,11 +14,11 @@
                 "appid": "1047160",
                 "name": "ItazuraVR Safe for Work"
             },
-            "supported_languages": "English, Japanese<strong>*</strong><br><strong>*</strong>languages with full audio support",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1057263/header.jpg?t=1553849610",
+            "supported_languages": "English, Japanese<strong>*</strong>, Simplified Chinese, Traditional Chinese<br><strong>*</strong>languages with full audio support",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1057263/header.jpg?t=1561010680",
             "website": "https://www.itazura.biz/product/ItazuraVR_sfw_en/",
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 7 SP1, Windows 8.1, Windows 10 (64-bit versions only)<br></li><li><strong>Processor:</strong> Intel i5-4590<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 970 or AMD Radeon R9 290<br></li><li><strong>Storage:</strong> 50 MB available space<br></li><li><strong>Sound Card:</strong> Support for PCM playback through DirectSound</li></ul>",
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 7 SP1, Windows 8.1, Windows 10 (64-bit versions only)<br></li><li><strong>Processor:</strong> Intel i5-4590<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 970 or AMD Radeon R9 290<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 50 MB available space<br></li><li><strong>Sound Card:</strong> Support for PCM playback through DirectSound<br></li><li><strong>Additional Notes:</strong> SteamVR</li></ul>",
                 "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
             },
             "mac_requirements": {
@@ -33,9 +33,42 @@
                 "REAL"
             ],
             "publishers": [
-                ""
+                "ARTLINK"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 159,
+                "final": 159,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "1,59€"
+            },
+            "packages": [
+                353123
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy ItazuraVR SfW - Underwear Pack",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 353123,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "ItazuraVR SfW - Underwear Pack - 1,59€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 159
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": false,
@@ -64,44 +97,44 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1057263/ss_f7254c740623c1005686b47ba6ca10158f30deeb.600x338.jpg?t=1553849610",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1057263/ss_f7254c740623c1005686b47ba6ca10158f30deeb.1920x1080.jpg?t=1553849610"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1057263/ss_f7254c740623c1005686b47ba6ca10158f30deeb.600x338.jpg?t=1561010680",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1057263/ss_f7254c740623c1005686b47ba6ca10158f30deeb.1920x1080.jpg?t=1561010680"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1057263/ss_fb8c92a26d045b963009749d33fd81c7c666a640.600x338.jpg?t=1553849610",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1057263/ss_fb8c92a26d045b963009749d33fd81c7c666a640.1920x1080.jpg?t=1553849610"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1057263/ss_fb8c92a26d045b963009749d33fd81c7c666a640.600x338.jpg?t=1561010680",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1057263/ss_fb8c92a26d045b963009749d33fd81c7c666a640.1920x1080.jpg?t=1561010680"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1057263/ss_c13ba1b43a17e4d455d4a58e7e2e690a5d075064.600x338.jpg?t=1553849610",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1057263/ss_c13ba1b43a17e4d455d4a58e7e2e690a5d075064.1920x1080.jpg?t=1553849610"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1057263/ss_c13ba1b43a17e4d455d4a58e7e2e690a5d075064.600x338.jpg?t=1561010680",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1057263/ss_c13ba1b43a17e4d455d4a58e7e2e690a5d075064.1920x1080.jpg?t=1561010680"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1057263/ss_ab80b1a3f379d84694300060b6d8f1f7262463f2.600x338.jpg?t=1553849610",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1057263/ss_ab80b1a3f379d84694300060b6d8f1f7262463f2.1920x1080.jpg?t=1553849610"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1057263/ss_ab80b1a3f379d84694300060b6d8f1f7262463f2.600x338.jpg?t=1561010680",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1057263/ss_ab80b1a3f379d84694300060b6d8f1f7262463f2.1920x1080.jpg?t=1561010680"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1057263/ss_493c640e70125603fd929701724d7453a22f351c.600x338.jpg?t=1553849610",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1057263/ss_493c640e70125603fd929701724d7453a22f351c.1920x1080.jpg?t=1553849610"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1057263/ss_493c640e70125603fd929701724d7453a22f351c.600x338.jpg?t=1561010680",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1057263/ss_493c640e70125603fd929701724d7453a22f351c.1920x1080.jpg?t=1561010680"
                 },
                 {
                     "id": 5,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1057263/ss_64fb9c29781f5a6b45ce56fe4117e4585dab7f69.600x338.jpg?t=1553849610",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1057263/ss_64fb9c29781f5a6b45ce56fe4117e4585dab7f69.1920x1080.jpg?t=1553849610"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1057263/ss_64fb9c29781f5a6b45ce56fe4117e4585dab7f69.600x338.jpg?t=1561010680",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1057263/ss_64fb9c29781f5a6b45ce56fe4117e4585dab7f69.1920x1080.jpg?t=1561010680"
                 }
             ],
             "release_date": {
-                "coming_soon": true,
+                "coming_soon": false,
                 "date": "1 Apr, 2019"
             },
             "support_info": {
                 "url": "https://www2.interheart.co.jp/support/index.html",
                 "email": "support@interheart.co.jp"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1057263/page_bg_generated_v6b.jpg?t=1553849610",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1057263/page_bg_generated_v6b.jpg?t=1561010680",
             "content_descriptors": {
                 "ids": [
                     1,

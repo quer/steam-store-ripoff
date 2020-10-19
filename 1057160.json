@@ -7,15 +7,15 @@
             "steam_appid": 1057160,
             "required_age": 0,
             "is_free": false,
-            "detailed_description": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/1057160/extras/dlc-vip-desc.png?t=1553747903\" ><br><br><strong>Expand your KillStreak.tv experience with New Content and Boosters;</strong><br><ul class=\"bb_ul\"><li> 32 Custom Gun Skins; 4 exclusive skins across 8 guns (including the new spas12 and m16)<br></li><li> Alvin the Alien Head; A new exclusive Alien head with unlockable skins and mods.<br></li><li> Werewolf Hat; A new exclusive Werewolf hat with unlockable skins and mods.<br></li><li> XP Booster; Ongoing booster to all XP gains for equipped items.<br></li><li> Kill Coin Booster; Ongoing booster to all Kill Coins earnt per kill.<br></li><li> Early Access Weapons; Ongoing access to all new weapons before anyone else (First Additions; Spas + M16)</li></ul>",
-            "about_the_game": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/1057160/extras/dlc-vip-desc.png?t=1553747903\" ><br><br><strong>Expand your KillStreak.tv experience with New Content and Boosters;</strong><br><ul class=\"bb_ul\"><li> 32 Custom Gun Skins; 4 exclusive skins across 8 guns (including the new spas12 and m16)<br></li><li> Alvin the Alien Head; A new exclusive Alien head with unlockable skins and mods.<br></li><li> Werewolf Hat; A new exclusive Werewolf hat with unlockable skins and mods.<br></li><li> XP Booster; Ongoing booster to all XP gains for equipped items.<br></li><li> Kill Coin Booster; Ongoing booster to all Kill Coins earnt per kill.<br></li><li> Early Access Weapons; Ongoing access to all new weapons before anyone else (First Additions; Spas + M16)</li></ul>",
-            "short_description": "KILLSTREAK.TV VIP BUNDLE; 32 Exclusive Gun Skins, Alvin the Alien Head, Werewolf Hat, XP Booster, Kill Coin Booster, Early Access Weapons!",
+            "detailed_description": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/1057160/extras/dlc-vip-desc.png?t=1556244848\" /><br><br><strong>Expand your KillStreak.tv experience with New Content and Boosters;</strong><br><ul class=\"bb_ul\"><li> 32 (+4) Custom Gun Skins; 4 exclusive skins across 8 (+1) guns <i>(including new MP5)</i><br></li><li> Alvin the Alien Head; A new exclusive Alien head with unlockable skins and mods<br></li><li> Werewolf Hat; A new exclusive Werewolf hat with unlockable skins and mods<br></li><li> XP Booster; Ongoing booster to all XP gains for equipped items<br></li><li> Kill Coin Booster; Ongoing booster to all Kill Coins earnt per kill<br></li><li> Early Access Weapons; Ongoing access to new weapons a few weeks before other players<br></li><li> 2500 Kill Coins; Starter pack of kill coins to buy new or rank up items</li></ul>",
+            "about_the_game": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/1057160/extras/dlc-vip-desc.png?t=1556244848\" /><br><br><strong>Expand your KillStreak.tv experience with New Content and Boosters;</strong><br><ul class=\"bb_ul\"><li> 32 (+4) Custom Gun Skins; 4 exclusive skins across 8 (+1) guns <i>(including new MP5)</i><br></li><li> Alvin the Alien Head; A new exclusive Alien head with unlockable skins and mods<br></li><li> Werewolf Hat; A new exclusive Werewolf hat with unlockable skins and mods<br></li><li> XP Booster; Ongoing booster to all XP gains for equipped items<br></li><li> Kill Coin Booster; Ongoing booster to all Kill Coins earnt per kill<br></li><li> Early Access Weapons; Ongoing access to new weapons a few weeks before other players<br></li><li> 2500 Kill Coins; Starter pack of kill coins to buy new or rank up items</li></ul>",
+            "short_description": "KILLSTREAK.TV VIP BUNDLE; 32 (+4) Exclusive Gun Skins, Alvin the Alien Head, Werewolf Hat, XP Booster, Kill Coin Booster, Early Access Weapons!",
             "fullgame": {
                 "appid": "1053060",
                 "name": "KillStreak.tv"
             },
             "supported_languages": "English",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1057160/header.jpg?t=1553747903",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1057160/header.jpg?t=1556244848",
             "website": "https://killstreak.tv",
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7/8/10<br></li><li><strong>Processor:</strong> 2.0ghz Dual Core<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Intel/AMD Integrated Graphics<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 250 MB available space</li></ul>",
@@ -32,7 +32,40 @@
             "publishers": [
                 "Blue Wizard Digital"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 819,
+                "final": 819,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "8,19€"
+            },
+            "packages": [
+                353074
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy KillStreak.tv : VIP Bundle",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 353074,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "KillStreak.tv VIP Bundle - 8,19€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 819
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": true,
@@ -49,7 +82,7 @@
                 },
                 {
                     "id": 36,
-                    "description": "Online Multi-Player"
+                    "description": "Online PvP"
                 },
                 {
                     "id": 21,
@@ -69,39 +102,39 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1057160/ss_68c454e1d0be631e0671001df1da8cdde2a29c84.600x338.jpg?t=1553747903",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1057160/ss_68c454e1d0be631e0671001df1da8cdde2a29c84.1920x1080.jpg?t=1553747903"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1057160/ss_68c454e1d0be631e0671001df1da8cdde2a29c84.600x338.jpg?t=1556244848",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1057160/ss_68c454e1d0be631e0671001df1da8cdde2a29c84.1920x1080.jpg?t=1556244848"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1057160/ss_212fd553ad9cea301875d667ce1d678bbd873efd.600x338.jpg?t=1553747903",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1057160/ss_212fd553ad9cea301875d667ce1d678bbd873efd.1920x1080.jpg?t=1553747903"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1057160/ss_212fd553ad9cea301875d667ce1d678bbd873efd.600x338.jpg?t=1556244848",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1057160/ss_212fd553ad9cea301875d667ce1d678bbd873efd.1920x1080.jpg?t=1556244848"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1057160/ss_36e9ad86e844d7bf76c9b164f191d7e196fb2391.600x338.jpg?t=1553747903",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1057160/ss_36e9ad86e844d7bf76c9b164f191d7e196fb2391.1920x1080.jpg?t=1553747903"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1057160/ss_36e9ad86e844d7bf76c9b164f191d7e196fb2391.600x338.jpg?t=1556244848",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1057160/ss_36e9ad86e844d7bf76c9b164f191d7e196fb2391.1920x1080.jpg?t=1556244848"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1057160/ss_8a6654f68ad23ee4d6741e12620f7b7bff0586dc.600x338.jpg?t=1553747903",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1057160/ss_8a6654f68ad23ee4d6741e12620f7b7bff0586dc.1920x1080.jpg?t=1553747903"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1057160/ss_8a6654f68ad23ee4d6741e12620f7b7bff0586dc.600x338.jpg?t=1556244848",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1057160/ss_8a6654f68ad23ee4d6741e12620f7b7bff0586dc.1920x1080.jpg?t=1556244848"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1057160/ss_44cada69aecc7f651e1834d55d7792d6fbd070a6.600x338.jpg?t=1553747903",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1057160/ss_44cada69aecc7f651e1834d55d7792d6fbd070a6.1920x1080.jpg?t=1553747903"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1057160/ss_44cada69aecc7f651e1834d55d7792d6fbd070a6.600x338.jpg?t=1556244848",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1057160/ss_44cada69aecc7f651e1834d55d7792d6fbd070a6.1920x1080.jpg?t=1556244848"
                 }
             ],
             "release_date": {
-                "coming_soon": true,
-                "date": "Apr 2019"
+                "coming_soon": false,
+                "date": "11 Apr, 2019"
             },
             "support_info": {
                 "url": "https://www.sideque.st/support.html",
                 "email": "sidequestsoftware@gmail.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1057160/page_bg_generated_v6b.jpg?t=1553747903",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1057160/page_bg_generated_v6b.jpg?t=1556244848",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
