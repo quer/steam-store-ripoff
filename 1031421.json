@@ -2,30 +2,24 @@
     "1031421": {
         "success": true,
         "data": {
-            "type": "dlc",
+            "type": "music",
             "name": "Heart of the Woods Original Soundtrack - Moonlight",
             "steam_appid": 1031421,
             "required_age": 0,
             "is_free": false,
-            "detailed_description": "All the tracks composed by Kris &quot;Astartus&quot; Flacke for <i>Heart of the Woods.</i>  Includes .wav and .mp3 versions.<br><br>1. A Brittle Song of Things To Come<br>2. Episode One<br>3. White Walls and Half-Timber<br>4. A Place You Don't Belong<br>5. Daggersmile<br>6. Not What We Had Hoped For<br>7. Spiritus Arboreum<br>8. The Time of Smiling<br>9. Skitters In the Snow<br>10. Wooden Hearts<br>11. A Thousand Years or More<br>12. Nerthus' Blessings<br>13. A Dress of Ice<br>14. Episode One (Spoopy Mix)<br>15. A Widdle Song of People Plumb",
-            "about_the_game": "All the tracks composed by Kris &quot;Astartus&quot; Flacke for <i>Heart of the Woods.</i>  Includes .wav and .mp3 versions.<br><br>1. A Brittle Song of Things To Come<br>2. Episode One<br>3. White Walls and Half-Timber<br>4. A Place You Don't Belong<br>5. Daggersmile<br>6. Not What We Had Hoped For<br>7. Spiritus Arboreum<br>8. The Time of Smiling<br>9. Skitters In the Snow<br>10. Wooden Hearts<br>11. A Thousand Years or More<br>12. Nerthus' Blessings<br>13. A Dress of Ice<br>14. Episode One (Spoopy Mix)<br>15. A Widdle Song of People Plumb",
+            "detailed_description": "All the tracks composed by Kris &quot;Astartus&quot; Flacke for <i>Heart of the Woods.</i>  Includes .flac and .mp3 versions.",
+            "about_the_game": "All the tracks composed by Kris &quot;Astartus&quot; Flacke for <i>Heart of the Woods.</i>  Includes .flac and .mp3 versions.",
             "short_description": "All the tracks composed by Kris &quot;Astartus&quot; Flacke for Heart of the Woods.",
             "fullgame": {
                 "appid": "844660",
                 "name": "Heart of the Woods"
             },
             "supported_languages": "English",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1031421/header.jpg?t=1550281610",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1031421/header.jpg?t=1598844484",
             "website": "https://vnstudioelan.com",
-            "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Storage:</strong> 1 GB available space</li></ul>"
-            },
-            "mac_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Storage:</strong> 1 GB available space</li></ul>"
-            },
-            "linux_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Storage:</strong> 1 GB available space</li></ul>"
-            },
+            "pc_requirements": [],
+            "mac_requirements": [],
+            "linux_requirements": [],
             "developers": [
                 "Studio Élan"
             ],
@@ -55,7 +49,7 @@
                     "subs": [
                         {
                             "packageid": 343114,
-                            "percent_savings_text": "",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
                             "option_text": "Heart of the Woods - OST 2 - 3,99€",
                             "option_description": "",
@@ -73,16 +67,8 @@
             },
             "categories": [
                 {
-                    "id": 2,
-                    "description": "Single-player"
-                },
-                {
-                    "id": 21,
-                    "description": "Downloadable Content"
-                },
-                {
-                    "id": 29,
-                    "description": "Steam Trading Cards"
+                    "id": 50,
+                    "description": "Additional High-Quality Audio"
                 }
             ],
             "genres": [
@@ -98,22 +84,35 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031421/ss_12ef353807dcb8d06d2bc903d4ccdfa0ffe16f2d.600x338.jpg?t=1550281610",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031421/ss_12ef353807dcb8d06d2bc903d4ccdfa0ffe16f2d.1920x1080.jpg?t=1550281610"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031421/ss_12ef353807dcb8d06d2bc903d4ccdfa0ffe16f2d.600x338.jpg?t=1598844484",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031421/ss_12ef353807dcb8d06d2bc903d4ccdfa0ffe16f2d.1920x1080.jpg?t=1598844484"
                 }
             ],
-            "achievements": {
-                "total": 0
-            },
+            "movies": [
+                {
+                    "id": 256787035,
+                    "name": "Heart of the Woods OST: Moonlight - Album Sampler",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256787035/movie.293x165.jpg?t=1591057028",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256787035/movie480_vp9.webm?t=1591057028",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256787035/movie_max_vp9.webm?t=1591057028"
+                    },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256787035/movie480.mp4?t=1591057028",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256787035/movie_max.mp4?t=1591057028"
+                    },
+                    "highlight": true
+                }
+            ],
             "release_date": {
                 "coming_soon": false,
                 "date": "15 Feb, 2019"
             },
             "support_info": {
-                "url": "",
-                "email": "support@sekaiproject.com"
+                "url": "https://sekaiproject.com/contact/",
+                "email": ""
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1031421/page_bg_generated_v6b.jpg?t=1550281610",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1031421/page_bg_generated_v6b.jpg?t=1598844484",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
