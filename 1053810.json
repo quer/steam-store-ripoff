@@ -15,7 +15,7 @@
                 "name": "The World Next Door"
             },
             "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1053810/header.jpg?t=1553186658",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1053810/header.jpg?t=1553877005",
             "website": "https://theworldnextdoor.com",
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Anything that can play music!</li></ul>"
@@ -31,7 +31,40 @@
             "publishers": [
                 "VIZ Media"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 499,
+                "final": 499,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "4,99€"
+            },
+            "packages": [
+                351682
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy The World Next Door - Original Soundtrack",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 351682,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "The World Next Door - Original Soundtrack - 4,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 499
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": true,
@@ -64,19 +97,19 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1053810/ss_cc3d71c6a1cd45516b76158322585c37c2162a6d.600x338.jpg?t=1553186658",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1053810/ss_cc3d71c6a1cd45516b76158322585c37c2162a6d.1920x1080.jpg?t=1553186658"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1053810/ss_cc3d71c6a1cd45516b76158322585c37c2162a6d.600x338.jpg?t=1553877005",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1053810/ss_cc3d71c6a1cd45516b76158322585c37c2162a6d.1920x1080.jpg?t=1553877005"
                 }
             ],
             "release_date": {
-                "coming_soon": true,
-                "date": "28 Mar, 2019"
+                "coming_soon": false,
+                "date": "29 Mar, 2019"
             },
             "support_info": {
                 "url": "https://theworldnextdoor.com",
                 "email": "hello@rosecitygames.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1053810/page_bg_generated_v6b.jpg?t=1553186658",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1053810/page_bg_generated_v6b.jpg?t=1553877005",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
