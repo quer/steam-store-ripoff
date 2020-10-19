@@ -7,14 +7,14 @@
             "steam_appid": 1045510,
             "required_age": 0,
             "is_free": false,
-            "detailed_description": "<h1>Experimental Games!</h1><p><a href=\"https://store.steampowered.com/app/838390/Merry_Glade/\" target=\"_blank\" rel=\"noreferrer\"  id=\"dynamiclink_0\" >https://store.steampowered.com/app/838390/Merry_Glade/</a><br><a href=\"https://store.steampowered.com/app/981960/Horror_Girl_Puzzle/\" target=\"_blank\" rel=\"noreferrer\"  id=\"dynamiclink_1\" >https://store.steampowered.com/app/981960/Horror_Girl_Puzzle/</a></p><br><h1>About the Game</h1>Call of Fries - a physical arcade about fried potatoes. Hand-drawn graphics and guitar music! No blood - only ketchup! <br>Try to get to the mouth! Beware of burgers, mushrooms and pasta!<br><br>Perhaps this is a simulator of fried potatoes ...<br><br>Here are some of the buns you will encounter in the game:<br>- colorful drawn graphics;<br>- completely physical world;<br>- burgers, mushrooms and pasta;<br>- pleasant guitar music;<br>- interesting and difficult situations.<br><br>Mouth is waiting for you!<br>Good Luck!",
-            "about_the_game": "Call of Fries - a physical arcade about fried potatoes. Hand-drawn graphics and guitar music! No blood - only ketchup! <br />\r\nTry to get to the mouth! Beware of burgers, mushrooms and pasta!<br />\r\n<br />\r\nPerhaps this is a simulator of fried potatoes ...<br />\r\n<br />\r\nHere are some of the buns you will encounter in the game:<br />\r\n- colorful drawn graphics;<br />\r\n- completely physical world;<br />\r\n- burgers, mushrooms and pasta;<br />\r\n- pleasant guitar music;<br />\r\n- interesting and difficult situations.<br />\r\n<br />\r\nMouth is waiting for you!<br />\r\nGood Luck!",
-            "short_description": "Call of Fries - a physical arcade about fried potatoes. Hand-drawn graphics and guitar music! No blood - only ketchup! Try to get to the mouth! Beware of burgers, mushrooms and pasta!",
+            "detailed_description": "<h1>Experimental Games!</h1><p><a href=\"https://store.steampowered.com/app/1157260/_vs/\" target=\"_blank\" rel=\"noreferrer\"  id=\"dynamiclink_0\" >https://store.steampowered.com/app/1157260/_vs/</a><br><a href=\"https://store.steampowered.com/app/1084360/Mister_Burnhouse/\" target=\"_blank\" rel=\"noreferrer\"  id=\"dynamiclink_1\" >https://store.steampowered.com/app/1084360/Mister_Burnhouse/</a></p><br><h1>About the Game</h1>Call of Fries is a comical fries simulator. Fun physical arcade with drawn graphics and excellent music. <br>No blood - only ketchup!<br><br>Every potato dreams of getting in your mouth! But it's not that easy. There are always a lot of obstacles on the way. <br>Try to overcome all the traps and fill your stomach!<br><br>Here are some game features:<br><br><ul class=\"bb_ul\"><li>intuitive mouse control,<br></li><li>no blood, just ketchup and mushrooms,<br></li><li>complex physical puzzles,<br></li><li>great music,<br></li><li>many interesting situations.</li></ul><br>It is highly recommended that you do not play on an empty stomach!",
+            "about_the_game": "Call of Fries is a comical fries simulator. Fun physical arcade with drawn graphics and excellent music. <br>No blood - only ketchup!<br><br>Every potato dreams of getting in your mouth! But it's not that easy. There are always a lot of obstacles on the way. <br>Try to overcome all the traps and fill your stomach!<br><br>Here are some game features:<br><br><ul class=\"bb_ul\"><li>intuitive mouse control,<br></li><li>no blood, just ketchup and mushrooms,<br></li><li>complex physical puzzles,<br></li><li>great music,<br></li><li>many interesting situations.</li></ul><br>It is highly recommended that you do not play on an empty stomach!",
+            "short_description": "Call of Fries is a comical fries simulator. Fun physical arcade with drawn graphics and excellent music. No blood - only ketchup!",
             "supported_languages": "English",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1045510/header.jpg?t=1553870051",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1045510/header.jpg?t=1570791956",
             "website": "https://www.loginovskikh.com/",
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7, 8, 10<br></li><li><strong>Processor:</strong> 2.3 GHz Dual Core<br></li><li><strong>Graphics:</strong> Intel HD 4000<br></li><li><strong>Storage:</strong> 50 MB available space<br></li><li><strong>Sound Card:</strong> Any<br></li><li><strong>Additional Notes:</strong> 1080p, 16:9 recommended. Mouse.</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7, 8, 10<br></li><li><strong>Processor:</strong> 2.3 GHz Dual Core<br></li><li><strong>Memory:</strong> 1024 MB RAM<br></li><li><strong>Graphics:</strong> Intel HD 4000<br></li><li><strong>Storage:</strong> 20 MB available space<br></li><li><strong>Sound Card:</strong> Any<br></li><li><strong>Additional Notes:</strong> 1080p, 16:9 recommended. Mouse.</li></ul>"
             },
             "mac_requirements": [],
             "linux_requirements": [],
@@ -24,7 +24,40 @@
             "publishers": [
                 "Anatoliy Loginovskikh"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 329,
+                "final": 329,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "3,29€"
+            },
+            "packages": [
+                348420
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Call of Fries",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 348420,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "Call of Fries - 3,29€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 329
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": false,
@@ -61,31 +94,45 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1045510/ss_1da80007d137b30b69fea00edae7edb8141e4971.600x338.jpg?t=1553870051",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1045510/ss_1da80007d137b30b69fea00edae7edb8141e4971.1920x1080.jpg?t=1553870051"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1045510/ss_1da80007d137b30b69fea00edae7edb8141e4971.600x338.jpg?t=1570791956",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1045510/ss_1da80007d137b30b69fea00edae7edb8141e4971.1920x1080.jpg?t=1570791956"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1045510/ss_3af113ce371d0234740ec5c8ccceef5c3a52febb.600x338.jpg?t=1553870051",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1045510/ss_3af113ce371d0234740ec5c8ccceef5c3a52febb.1920x1080.jpg?t=1553870051"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1045510/ss_3af113ce371d0234740ec5c8ccceef5c3a52febb.600x338.jpg?t=1570791956",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1045510/ss_3af113ce371d0234740ec5c8ccceef5c3a52febb.1920x1080.jpg?t=1570791956"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1045510/ss_1ea52588f455afae1a5a958bdc149356fb9d7da7.600x338.jpg?t=1553870051",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1045510/ss_1ea52588f455afae1a5a958bdc149356fb9d7da7.1920x1080.jpg?t=1553870051"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1045510/ss_1ea52588f455afae1a5a958bdc149356fb9d7da7.600x338.jpg?t=1570791956",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1045510/ss_1ea52588f455afae1a5a958bdc149356fb9d7da7.1920x1080.jpg?t=1570791956"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1045510/ss_d0709c39dac727d9a149ba5e5888d5b5b3c82eb1.600x338.jpg?t=1553870051",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1045510/ss_d0709c39dac727d9a149ba5e5888d5b5b3c82eb1.1920x1080.jpg?t=1553870051"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1045510/ss_d0709c39dac727d9a149ba5e5888d5b5b3c82eb1.600x338.jpg?t=1570791956",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1045510/ss_d0709c39dac727d9a149ba5e5888d5b5b3c82eb1.1920x1080.jpg?t=1570791956"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1045510/ss_846b8fc9aa7cf53f3b8acf674fbb4ee3d6229c29.600x338.jpg?t=1553870051",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1045510/ss_846b8fc9aa7cf53f3b8acf674fbb4ee3d6229c29.1920x1080.jpg?t=1553870051"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1045510/ss_846b8fc9aa7cf53f3b8acf674fbb4ee3d6229c29.600x338.jpg?t=1570791956",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1045510/ss_846b8fc9aa7cf53f3b8acf674fbb4ee3d6229c29.1920x1080.jpg?t=1570791956"
                 }
             ],
             "movies": [
+                {
+                    "id": 256753044,
+                    "name": "New_Trailer",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256753044/movie.293x165.jpg?t=1560174090",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256753044/movie480.webm?t=1560174090",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256753044/movie_max.webm?t=1560174090"
+                    },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256753044/movie480.mp4?t=1560174090",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256753044/movie_max.mp4?t=1560174090"
+                    },
+                    "highlight": true
+                },
                 {
                     "id": 256746516,
                     "name": "Gameplay",
@@ -94,18 +141,67 @@
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/256746516/movie480.webm?t=1553870038",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/256746516/movie_max.webm?t=1553870038"
                     },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256746516/movie480.mp4?t=1553870038",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256746516/movie_max.mp4?t=1553870038"
+                    },
                     "highlight": true
                 }
             ],
+            "achievements": {
+                "total": 25,
+                "highlighted": [
+                    {
+                        "name": "Burger!",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1045510/77655c20c7ddf7a2de69b6dad574d7be42238033.jpg"
+                    },
+                    {
+                        "name": "Watermelon!",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1045510/ab2e13124c1d42da3612a85699a8db5a9c369eaa.jpg"
+                    },
+                    {
+                        "name": "Jelly!",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1045510/f599e3069d514b8f1a1a8017a621c8dbfb4e70dc.jpg"
+                    },
+                    {
+                        "name": "Donut!",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1045510/b2f322a3c16590a33951d9971ee5d2d8e2c50f54.jpg"
+                    },
+                    {
+                        "name": "Hot dog!",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1045510/72919cb68d1a891407b7cbb9b7d788d137565ff6.jpg"
+                    },
+                    {
+                        "name": "Orange!",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1045510/8b8c375f96d8a20a6dcfa846419c69a5e8389cc3.jpg"
+                    },
+                    {
+                        "name": "Pizza!",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1045510/fa99dbb290fd567fcf4e2fdbbfc84e809a4aab7d.jpg"
+                    },
+                    {
+                        "name": "Croissant!",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1045510/e249e14e8e7960e8cdd8cff406572a7410dcc75a.jpg"
+                    },
+                    {
+                        "name": "Cheesecake!",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1045510/72db17b7df4d21278c152a9e187e716d6347f82a.jpg"
+                    },
+                    {
+                        "name": "Melon!",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1045510/1b3c0feecdaf3975fe73a0af8d96b5e3744a4b81.jpg"
+                    }
+                ]
+            },
             "release_date": {
-                "coming_soon": true,
-                "date": "12 Apr, 2019"
+                "coming_soon": false,
+                "date": "10 Jun, 2019"
             },
             "support_info": {
                 "url": "",
                 "email": "anatoliy_loginovskikh@mail.ru"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1045510/page_bg_generated_v6b.jpg?t=1553870051",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1045510/page_bg_generated_v6b.jpg?t=1570791956",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
