@@ -11,13 +11,13 @@
             "about_the_game": "This is a game about you, Josh. <br />\r\n<br />\r\nToday is your birthday!!!<br />\r\n<br />\r\nThis is my present to you: a virtual tour of your house, with me, your best friend as your guide. We can reminisce about the good times, crack jokes, maybe even play a few games.<br />\r\n<br />\r\nEither way it'll be tons of fun. Because it's your birthday, and you are my best friend in the world.<br />\r\n<br />\r\n----<br />\r\n<br />\r\nGame For You, Josh is a Ren'Py built visual novel that uses text input and features original tracks from Priscilla Snow, Christa Lee, and Evan William Thompson. <br />\r\n<br />\r\nYou need to solve the puzzle of &quot;your&quot; childhood home while managing the delicate emotions of your guide. <br />\r\n<br />\r\nPlaytime is abut 15-30 minutes and the ending is variant.",
             "short_description": "this game is for josh",
             "supported_languages": "English",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1035260/header.jpg?t=1553745221",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1035260/header.jpg?t=1554732785",
             "website": "https://snotwurm.neocities.org/",
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong> 1.8GHz Dual-Core CPU<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Integrated graphics</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong> 1.8GHz Dual-Core CPU<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Integrated graphics<br></li><li><strong>Storage:</strong> 140 MB available space</li></ul>"
             },
             "mac_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OS X 10.9<br></li><li><strong>Processor:</strong> 1.8GHz Dual-Core CPU<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Integrated graphics</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OS X 10.9<br></li><li><strong>Processor:</strong> 1.8GHz Dual-Core CPU<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Integrated graphics<br></li><li><strong>Storage:</strong> 130 MB available space</li></ul>"
             },
             "linux_requirements": [],
             "developers": [
@@ -26,7 +26,40 @@
             "publishers": [
                 "Penelope Evans"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 239,
+                "final": 239,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "2,39€"
+            },
+            "packages": [
+                344574
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy A Game For You, Josh",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 344574,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "A Game For You, Josh - 2,39€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 239
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": true,
@@ -38,12 +71,8 @@
                     "description": "Single-player"
                 },
                 {
-                    "id": 13,
-                    "description": "Captions available"
-                },
-                {
-                    "id": 18,
-                    "description": "Partial Controller Support"
+                    "id": 22,
+                    "description": "Steam Achievements"
                 }
             ],
             "genres": [
@@ -55,28 +84,28 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1035260/ss_b3a307eb3bdb6957230766c484f63d4bd8a6aab0.600x338.jpg?t=1553745221",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1035260/ss_b3a307eb3bdb6957230766c484f63d4bd8a6aab0.1920x1080.jpg?t=1553745221"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1035260/ss_b3a307eb3bdb6957230766c484f63d4bd8a6aab0.600x338.jpg?t=1554732785",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1035260/ss_b3a307eb3bdb6957230766c484f63d4bd8a6aab0.1920x1080.jpg?t=1554732785"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1035260/ss_b0fadf2116834966d9a65405d2f465e38ac53f7b.600x338.jpg?t=1553745221",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1035260/ss_b0fadf2116834966d9a65405d2f465e38ac53f7b.1920x1080.jpg?t=1553745221"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1035260/ss_b0fadf2116834966d9a65405d2f465e38ac53f7b.600x338.jpg?t=1554732785",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1035260/ss_b0fadf2116834966d9a65405d2f465e38ac53f7b.1920x1080.jpg?t=1554732785"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1035260/ss_c515a614b72eaea9238a61710c4c2a68c9224634.600x338.jpg?t=1553745221",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1035260/ss_c515a614b72eaea9238a61710c4c2a68c9224634.1920x1080.jpg?t=1553745221"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1035260/ss_c515a614b72eaea9238a61710c4c2a68c9224634.600x338.jpg?t=1554732785",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1035260/ss_c515a614b72eaea9238a61710c4c2a68c9224634.1920x1080.jpg?t=1554732785"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1035260/ss_3674cf0c5e02693c9250c8c40500e96860059128.600x338.jpg?t=1553745221",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1035260/ss_3674cf0c5e02693c9250c8c40500e96860059128.1920x1080.jpg?t=1553745221"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1035260/ss_3674cf0c5e02693c9250c8c40500e96860059128.600x338.jpg?t=1554732785",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1035260/ss_3674cf0c5e02693c9250c8c40500e96860059128.1920x1080.jpg?t=1554732785"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1035260/ss_f4964644c23eeb9b4496859e7de648829ff5a348.600x338.jpg?t=1553745221",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1035260/ss_f4964644c23eeb9b4496859e7de648829ff5a348.1920x1080.jpg?t=1553745221"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1035260/ss_f4964644c23eeb9b4496859e7de648829ff5a348.600x338.jpg?t=1554732785",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1035260/ss_f4964644c23eeb9b4496859e7de648829ff5a348.1920x1080.jpg?t=1554732785"
                 }
             ],
             "movies": [
@@ -88,18 +117,51 @@
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/256743282/movie480.webm?t=1553557727",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/256743282/movie_max.webm?t=1553557727"
                     },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256743282/movie480.mp4?t=1553557727",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256743282/movie_max.mp4?t=1553557727"
+                    },
                     "highlight": true
                 }
             ],
+            "achievements": {
+                "total": 6,
+                "highlighted": [
+                    {
+                        "name": "you live in my house",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1035260/5e0712a893d3aff12af4268f7f4e6b7fa60c791a.jpg"
+                    },
+                    {
+                        "name": "true friend",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1035260/f46fd0c3c5dc37caf9055adb68a99e363ee4dec2.jpg"
+                    },
+                    {
+                        "name": "2 real friend",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1035260/59a33c5344d96babcb958c840abc95db83e63b92.jpg"
+                    },
+                    {
+                        "name": "you suck as a person",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1035260/d5ec30d6a190e7bf1f49eab06a54a3b6485b9e5d.jpg"
+                    },
+                    {
+                        "name": "we love 2005",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1035260/4dc110fb05ba5e392f68aad8a9ef9d03f2c559b6.jpg"
+                    },
+                    {
+                        "name": "he's just a baby, cut it out",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1035260/84c0d3e98ddd29aacdca38592cbd6500a4acdef9.jpg"
+                    }
+                ]
+            },
             "release_date": {
-                "coming_soon": true,
-                "date": "Apr 2019"
+                "coming_soon": false,
+                "date": "8 Apr, 2019"
             },
             "support_info": {
                 "url": "",
                 "email": "penmarevans@gmail.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1035260/page_bg_generated_v6b.jpg?t=1553745221",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1035260/page_bg_generated_v6b.jpg?t=1554732785",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
