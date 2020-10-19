@@ -54,7 +54,7 @@
                     "subs": [
                         {
                             "packageid": 345225,
-                            "percent_savings_text": "",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
                             "option_text": "Groove Coaster - Don’t Die - 1,59€",
                             "option_description": "",
@@ -122,12 +122,13 @@
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/256750221/movie480.webm?t=1557797782",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/256750221/movie_max.webm?t=1557797782"
                     },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256750221/movie480.mp4?t=1557797782",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256750221/movie_max.mp4?t=1557797782"
+                    },
                     "highlight": true
                 }
             ],
-            "achievements": {
-                "total": 0
-            },
             "release_date": {
                 "coming_soon": false,
                 "date": "13 May, 2019"
