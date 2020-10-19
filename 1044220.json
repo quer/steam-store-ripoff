@@ -7,34 +7,75 @@
             "steam_appid": 1044220,
             "required_age": 0,
             "is_free": false,
-            "detailed_description": "Casual physical puzzle. You need to remove the red elements from the scene, and keep the blue on the platform for 2 seconds.<br />\r\nThe game has an imitation of real physics in 2D space, you have to solve puzzles using the force of gravity.<br />\r\n<br />\r\nOik Reloaded is a rethinking of the famous Oik series.<br />\r\nThe game is released on a new engine, unlike previous games in the series. <br />\r\nNew style, new game elements, no more RNG!<br />\r\nAnd all this with beautiful music!",
-            "about_the_game": "Casual physical puzzle. You need to remove the red elements from the scene, and keep the blue on the platform for 2 seconds.<br />\r\nThe game has an imitation of real physics in 2D space, you have to solve puzzles using the force of gravity.<br />\r\n<br />\r\nOik Reloaded is a rethinking of the famous Oik series.<br />\r\nThe game is released on a new engine, unlike previous games in the series. <br />\r\nNew style, new game elements, no more RNG!<br />\r\nAnd all this with beautiful music!",
-            "short_description": "Casual physical puzzle. You need to remove the red elements from the scene, and keep the blue on the platform for 2 seconds. The game has an imitation of real physics in 2D space, you have to solve puzzles using the force of gravity.",
-            "supported_languages": "English",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1044220/header.jpg?t=1553269995",
+            "detailed_description": "The final part of the OIK reloaded!<br />\r\nYou need to remove all red objects from the screen and hold the blue cube on the platform for 2 seconds!<br />\r\nThe game simulates real physics.<br />\r\n<br />\r\n- 60 interesting levels<br />\r\n- Stylish interface<br />\r\n- Beautiful music from the composer Trauerbaum.",
+            "about_the_game": "The final part of the OIK reloaded!<br />\r\nYou need to remove all red objects from the screen and hold the blue cube on the platform for 2 seconds!<br />\r\nThe game simulates real physics.<br />\r\n<br />\r\n- 60 interesting levels<br />\r\n- Stylish interface<br />\r\n- Beautiful music from the composer Trauerbaum.",
+            "short_description": "Casual physical puzzle!",
+            "supported_languages": "English, French, Italian, German, Spanish - Spain, Arabic, Bulgarian, Portuguese - Brazil, Hungarian, Vietnamese, Greek, Danish, Spanish - Latin America, Traditional Chinese, Simplified Chinese, Korean, Dutch, Norwegian, Polish, Portuguese, Romanian, Russian, Thai, Turkish, Ukrainian, Finnish, Czech, Swedish, Japanese",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1044220/header.jpg?t=1593104070",
             "website": null,
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP, 7, Vista, 8, 8.1, 10<br></li><li><strong>Processor:</strong> Intel Celeron 1800 MHz<br></li><li><strong>Memory:</strong> 256 MB RAM<br></li><li><strong>Graphics:</strong> Intel HD Graphics<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 50 MB available space</li></ul>",
                 "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP, 7, Vista, 8, 8.1, 10<br></li><li><strong>Processor:</strong> Intel Core i3<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> Intel HD Graphics<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 50 MB available space</li></ul>"
             },
-            "mac_requirements": [],
-            "linux_requirements": [],
+            "mac_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 10.6.x (Snow Leopard)<br></li><li><strong>Processor:</strong> Dual Core CPU<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> 256mb<br></li><li><strong>Storage:</strong> 80 MB available space</li></ul>"
+            },
+            "linux_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 14.04 &amp; Steam OS<br></li><li><strong>Processor:</strong> Dual Core CPU<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> 256mb<br></li><li><strong>Storage:</strong> 69 MB available space</li></ul>"
+            },
             "developers": [
                 "Crew Lab"
             ],
             "publishers": [
                 "Crew Lab"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 79,
+                "final": 79,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "0,79€"
+            },
+            "packages": [
+                347940
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Oik Reloaded",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 347940,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "Oik Reloaded - 0,79€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 79
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
-                "mac": false,
+                "mac": true,
                 "linux": false
             },
             "categories": [
                 {
                     "id": 2,
                     "description": "Single-player"
+                },
+                {
+                    "id": 22,
+                    "description": "Steam Achievements"
                 }
             ],
             "genres": [
@@ -45,42 +86,38 @@
                 {
                     "id": "23",
                     "description": "Indie"
-                },
-                {
-                    "id": "70",
-                    "description": "Early Access"
                 }
             ],
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1044220/ss_709501d67b6ff166f3c0d4671c72448f81b4fae2.600x338.jpg?t=1553269995",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1044220/ss_709501d67b6ff166f3c0d4671c72448f81b4fae2.1920x1080.jpg?t=1553269995"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1044220/ss_709501d67b6ff166f3c0d4671c72448f81b4fae2.600x338.jpg?t=1593104070",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1044220/ss_709501d67b6ff166f3c0d4671c72448f81b4fae2.1920x1080.jpg?t=1593104070"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1044220/ss_68c359d42e3c5a1d14291f3050fac21c337d96f6.600x338.jpg?t=1553269995",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1044220/ss_68c359d42e3c5a1d14291f3050fac21c337d96f6.1920x1080.jpg?t=1553269995"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1044220/ss_68c359d42e3c5a1d14291f3050fac21c337d96f6.600x338.jpg?t=1593104070",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1044220/ss_68c359d42e3c5a1d14291f3050fac21c337d96f6.1920x1080.jpg?t=1593104070"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1044220/ss_4dd7797541d33d596ba7046b5f8debf8201be0b9.600x338.jpg?t=1553269995",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1044220/ss_4dd7797541d33d596ba7046b5f8debf8201be0b9.1920x1080.jpg?t=1553269995"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1044220/ss_4dd7797541d33d596ba7046b5f8debf8201be0b9.600x338.jpg?t=1593104070",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1044220/ss_4dd7797541d33d596ba7046b5f8debf8201be0b9.1920x1080.jpg?t=1593104070"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1044220/ss_1fe74338eb2b54104c64b81ebe6eaa6e994176fe.600x338.jpg?t=1553269995",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1044220/ss_1fe74338eb2b54104c64b81ebe6eaa6e994176fe.1920x1080.jpg?t=1553269995"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1044220/ss_1fe74338eb2b54104c64b81ebe6eaa6e994176fe.600x338.jpg?t=1593104070",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1044220/ss_1fe74338eb2b54104c64b81ebe6eaa6e994176fe.1920x1080.jpg?t=1593104070"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1044220/ss_7b21de552dfdbe4bf882a56098fa5b83467fe457.600x338.jpg?t=1553269995",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1044220/ss_7b21de552dfdbe4bf882a56098fa5b83467fe457.1920x1080.jpg?t=1553269995"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1044220/ss_7b21de552dfdbe4bf882a56098fa5b83467fe457.600x338.jpg?t=1593104070",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1044220/ss_7b21de552dfdbe4bf882a56098fa5b83467fe457.1920x1080.jpg?t=1593104070"
                 },
                 {
                     "id": 5,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1044220/ss_1e7809be9bc1279ba14c50e4b529ef3ccecc2d63.600x338.jpg?t=1553269995",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1044220/ss_1e7809be9bc1279ba14c50e4b529ef3ccecc2d63.1920x1080.jpg?t=1553269995"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1044220/ss_1e7809be9bc1279ba14c50e4b529ef3ccecc2d63.600x338.jpg?t=1593104070",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1044220/ss_1e7809be9bc1279ba14c50e4b529ef3ccecc2d63.1920x1080.jpg?t=1593104070"
                 }
             ],
             "movies": [
@@ -92,18 +129,67 @@
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/256744445/movie480.webm?t=1551844234",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/256744445/movie_max.webm?t=1551844234"
                     },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256744445/movie480.mp4?t=1551844234",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256744445/movie_max.mp4?t=1551844234"
+                    },
                     "highlight": true
                 }
             ],
+            "achievements": {
+                "total": 60,
+                "highlighted": [
+                    {
+                        "name": "A",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1044220/3886ab023a486491902d38823dca26471ba48cf5.jpg"
+                    },
+                    {
+                        "name": "B",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1044220/273c21dfed4cb598b7dda02cff2ce4bd9d68581f.jpg"
+                    },
+                    {
+                        "name": "C",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1044220/33b3fc35f365c95b12a643417c4d4921b5ca8b67.jpg"
+                    },
+                    {
+                        "name": "D",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1044220/ca7d5664db5941d1dcfedf83857493fe594c3f79.jpg"
+                    },
+                    {
+                        "name": "E",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1044220/eb327f9f7a4f84e3bf2479abbbbddb73413db269.jpg"
+                    },
+                    {
+                        "name": "F",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1044220/2e835c79d99056e4a66dedb7c448a52b2ecdb185.jpg"
+                    },
+                    {
+                        "name": "G",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1044220/5848cfc3d7e2c6c55e1e3ea1ebed858f7bab54bd.jpg"
+                    },
+                    {
+                        "name": "H",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1044220/0b3a906187d68016997d689f775972239c25f820.jpg"
+                    },
+                    {
+                        "name": "I",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1044220/24d62f1f011662b0875fbf6e1d4e0802746fe335.jpg"
+                    },
+                    {
+                        "name": "J",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1044220/4318bd9fbb75e523d0e68db0af0383eab3e9ec6d.jpg"
+                    }
+                ]
+            },
             "release_date": {
-                "coming_soon": true,
-                "date": ""
+                "coming_soon": false,
+                "date": "25 Jun, 2020"
             },
             "support_info": {
                 "url": "http://store.steampowered.com/app/1044220",
                 "email": "crew.lab.sup@gmail.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1044220/page_bg_generated_v6b.jpg?t=1553269995",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1044220/page_bg_generated_v6b.jpg?t=1593104070",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
