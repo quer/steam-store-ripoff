@@ -12,7 +12,7 @@
             "about_the_game": "<h2 class=\"bb_tag\">【﻿ｓｕｒｆ　ｔｈｅ　ｎｅｔ】</h2><h2 class=\"bb_tag\">【﻿ｆｌｉｐ　ｙｏｕｒ　ｆｏｅｓ】</h2><h2 class=\"bb_tag\">【﻿ｓｗｉｍ　ｔｏ　ｆｒｅｅｄｏｍ】</h2><h2 class=\"bb_tag\">ㄏㄞˇ ㄊㄨㄣˊ </h2><h2 class=\"bb_tag\"></h2><br>Echo Royale is a side scrolling casual vaporwave-inspired battle royale game in which you jump your dolphin through a gauntlet of statues, palm trees, and spinning computers -- but don't touch anything! Outlast up to 20 other players, or play solo.<h2 class=\"bb_tag\">ㄆㄞˋ ㄉㄨㄟˋ </h2>",
             "short_description": "Surf the net. Flip your foes. Swim to freedom.",
             "supported_languages": "English",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1052370/header.jpg?t=1553136854",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1052370/header.jpg?t=1556294486",
             "website": "https://echoroyale.com/",
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 or later</li></ul>"
@@ -29,11 +29,44 @@
             "publishers": [
                 "Dead Genre Studios"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 79,
+                "final": 79,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "0,79€"
+            },
+            "packages": [
+                351189
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Echo Royale",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 351189,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "Echo Royale - 0,79€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 79
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": true,
-                "linux": true
+                "linux": false
             },
             "categories": [
                 {
@@ -45,8 +78,12 @@
                     "description": "Multi-player"
                 },
                 {
+                    "id": 49,
+                    "description": "PvP"
+                },
+                {
                     "id": 36,
-                    "description": "Online Multi-Player"
+                    "description": "Online PvP"
                 },
                 {
                     "id": 27,
@@ -66,44 +103,63 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1052370/ss_e7eb4b4c0ac52dc47a16c4fcc415df06defb9d68.600x338.jpg?t=1553136854",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1052370/ss_e7eb4b4c0ac52dc47a16c4fcc415df06defb9d68.1920x1080.jpg?t=1553136854"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1052370/ss_e7eb4b4c0ac52dc47a16c4fcc415df06defb9d68.600x338.jpg?t=1556294486",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1052370/ss_e7eb4b4c0ac52dc47a16c4fcc415df06defb9d68.1920x1080.jpg?t=1556294486"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1052370/ss_0d72a3ed35de871754c9dbb4dd4b294b8a708623.600x338.jpg?t=1553136854",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1052370/ss_0d72a3ed35de871754c9dbb4dd4b294b8a708623.1920x1080.jpg?t=1553136854"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1052370/ss_0d72a3ed35de871754c9dbb4dd4b294b8a708623.600x338.jpg?t=1556294486",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1052370/ss_0d72a3ed35de871754c9dbb4dd4b294b8a708623.1920x1080.jpg?t=1556294486"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1052370/ss_d282e56d395a21e69f6f12425e72c4382c329bb1.600x338.jpg?t=1553136854",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1052370/ss_d282e56d395a21e69f6f12425e72c4382c329bb1.1920x1080.jpg?t=1553136854"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1052370/ss_4595bb447e5a43333d3764d1071ebf8caa38012b.600x338.jpg?t=1556294486",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1052370/ss_4595bb447e5a43333d3764d1071ebf8caa38012b.1920x1080.jpg?t=1556294486"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1052370/ss_4595bb447e5a43333d3764d1071ebf8caa38012b.600x338.jpg?t=1553136854",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1052370/ss_4595bb447e5a43333d3764d1071ebf8caa38012b.1920x1080.jpg?t=1553136854"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1052370/ss_7fbb99539b8204ca2e9bad2bc26caeeddc42532e.600x338.jpg?t=1556294486",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1052370/ss_7fbb99539b8204ca2e9bad2bc26caeeddc42532e.1920x1080.jpg?t=1556294486"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1052370/ss_ae9486d8efcf7ac8ee2fd624cd29b6e5949fc539.600x338.jpg?t=1553136854",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1052370/ss_ae9486d8efcf7ac8ee2fd624cd29b6e5949fc539.1920x1080.jpg?t=1553136854"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1052370/ss_ee12a4b8613b937e797afafb010518fe255fc11f.600x338.jpg?t=1556294486",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1052370/ss_ee12a4b8613b937e797afafb010518fe255fc11f.1920x1080.jpg?t=1556294486"
                 },
                 {
                     "id": 5,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1052370/ss_608691222e61bd0601f8656ff485ab242dc10dc4.600x338.jpg?t=1553136854",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1052370/ss_608691222e61bd0601f8656ff485ab242dc10dc4.1920x1080.jpg?t=1553136854"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1052370/ss_d282e56d395a21e69f6f12425e72c4382c329bb1.600x338.jpg?t=1556294486",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1052370/ss_d282e56d395a21e69f6f12425e72c4382c329bb1.1920x1080.jpg?t=1556294486"
                 }
             ],
+            "movies": [
+                {
+                    "id": 256748910,
+                    "name": "Trailer",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256748910/movie.293x165.jpg?t=1556141311",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256748910/movie480.webm?t=1556141311",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256748910/movie_max.webm?t=1556141311"
+                    },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256748910/movie480.mp4?t=1556141311",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256748910/movie_max.mp4?t=1556141311"
+                    },
+                    "highlight": true
+                }
+            ],
+            "achievements": {
+                "total": 0
+            },
             "release_date": {
-                "coming_soon": true,
-                "date": "April 3019"
+                "coming_soon": false,
+                "date": "26 Apr, 2019"
             },
             "support_info": {
                 "url": "https://echoroyale.com/",
                 "email": "help@deadgenre.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1052370/page_bg_generated_v6b.jpg?t=1553136854",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1052370/page_bg_generated_v6b.jpg?t=1556294486",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
