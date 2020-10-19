@@ -11,7 +11,7 @@
             "about_the_game": "Casual colorful physical puzzle with sweets, jumpers, teleports, accelerators, reverse gravity,  traps, treadmills, flowers, butterflies, Easter eggs and explosions.<br />\r\nThe goal of the player is to keep the cookies on the chocolate bar for some time to pass the level.<br />\r\n<br />\r\nIn Chocolate makes you happy: Easter:<br />\r\n- 50 levels<br />\r\n- Explosions<br />\r\n- Jumpers<br />\r\n- Teleports<br />\r\n- Sweets<br />\r\n- Accelerators<br />\r\n- Traps<br />\r\n- Changing gravity<br />\r\n- Treadmills<br />\r\n- Flowers<br />\r\n- Butterflies<br />\r\n- Easter eggs<br />\r\n- Easter Art",
             "short_description": "Casual colorful physical puzzle with sweets, jumpers, teleports, accelerators, reverse gravity, traps, treadmills, flowers, butterflies, Easter eggs and explosions.",
             "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Arabic<strong>*</strong>, Bulgarian<strong>*</strong>, Portuguese - Brazil<strong>*</strong>, Hungarian<strong>*</strong>, Vietnamese<strong>*</strong>, Greek<strong>*</strong>, Danish<strong>*</strong>, Spanish - Latin America<strong>*</strong>, Traditional Chinese<strong>*</strong>, Simplified Chinese<strong>*</strong>, Korean<strong>*</strong>, Dutch<strong>*</strong>, Norwegian<strong>*</strong>, Polish<strong>*</strong>, Portuguese<strong>*</strong>, Romanian<strong>*</strong>, Russian<strong>*</strong>, Thai<strong>*</strong>, Turkish<strong>*</strong>, Ukrainian<strong>*</strong>, Finnish<strong>*</strong>, Czech<strong>*</strong>, Swedish<strong>*</strong>, Japanese<strong>*</strong><br><strong>*</strong>languages with full audio support",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1054610/header.jpg?t=1553271979",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1054610/header.jpg?t=1582043384",
             "website": null,
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7, 8.1, 10<br></li><li><strong>Processor:</strong> Intel or AMD 2 GHz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Any</li></ul>"
@@ -24,7 +24,40 @@
             "publishers": [
                 "Blender Games"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 79,
+                "final": 79,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "0,79€"
+            },
+            "packages": [
+                351971
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Chocolate makes you happy: Easter",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 351971,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "Chocolate makes you happy: Easter - 0,79€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 79
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": false,
@@ -38,6 +71,10 @@
                 {
                     "id": 22,
                     "description": "Steam Achievements"
+                },
+                {
+                    "id": 23,
+                    "description": "Steam Cloud"
                 }
             ],
             "genres": [
@@ -53,28 +90,28 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1054610/ss_3170cb682a53e137bf71e11af53bf12008cb44ae.600x338.jpg?t=1553271979",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1054610/ss_3170cb682a53e137bf71e11af53bf12008cb44ae.1920x1080.jpg?t=1553271979"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1054610/ss_3170cb682a53e137bf71e11af53bf12008cb44ae.600x338.jpg?t=1582043384",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1054610/ss_3170cb682a53e137bf71e11af53bf12008cb44ae.1920x1080.jpg?t=1582043384"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1054610/ss_1eea76b1a660ce04f444158ff67f04e705eaf8a9.600x338.jpg?t=1553271979",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1054610/ss_1eea76b1a660ce04f444158ff67f04e705eaf8a9.1920x1080.jpg?t=1553271979"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1054610/ss_1eea76b1a660ce04f444158ff67f04e705eaf8a9.600x338.jpg?t=1582043384",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1054610/ss_1eea76b1a660ce04f444158ff67f04e705eaf8a9.1920x1080.jpg?t=1582043384"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1054610/ss_aab40fc3ee82f27ff46416bb74b04947ce8d7618.600x338.jpg?t=1553271979",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1054610/ss_aab40fc3ee82f27ff46416bb74b04947ce8d7618.1920x1080.jpg?t=1553271979"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1054610/ss_aab40fc3ee82f27ff46416bb74b04947ce8d7618.600x338.jpg?t=1582043384",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1054610/ss_aab40fc3ee82f27ff46416bb74b04947ce8d7618.1920x1080.jpg?t=1582043384"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1054610/ss_f71a68c08b4ddb53e98ce6fa2d433b5a82ceb189.600x338.jpg?t=1553271979",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1054610/ss_f71a68c08b4ddb53e98ce6fa2d433b5a82ceb189.1920x1080.jpg?t=1553271979"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1054610/ss_f71a68c08b4ddb53e98ce6fa2d433b5a82ceb189.600x338.jpg?t=1582043384",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1054610/ss_f71a68c08b4ddb53e98ce6fa2d433b5a82ceb189.1920x1080.jpg?t=1582043384"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1054610/ss_c59f5746490a5d5493290ab869829c323851ecef.600x338.jpg?t=1553271979",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1054610/ss_c59f5746490a5d5493290ab869829c323851ecef.1920x1080.jpg?t=1553271979"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1054610/ss_c59f5746490a5d5493290ab869829c323851ecef.600x338.jpg?t=1582043384",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1054610/ss_c59f5746490a5d5493290ab869829c323851ecef.1920x1080.jpg?t=1582043384"
                 }
             ],
             "movies": [
@@ -86,18 +123,67 @@
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/256745908/movie480.webm?t=1553242408",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/256745908/movie_max.webm?t=1553242408"
                     },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256745908/movie480.mp4?t=1553242408",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256745908/movie_max.mp4?t=1553242408"
+                    },
                     "highlight": true
                 }
             ],
+            "achievements": {
+                "total": 100,
+                "highlighted": [
+                    {
+                        "name": "Level 1",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1054610/53736a028d41035e51da4bee61fbdd9a690454f2.jpg"
+                    },
+                    {
+                        "name": "Level 2",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1054610/c905884e26801b4dbb2293ac941e6b6dcaefbe64.jpg"
+                    },
+                    {
+                        "name": "Level 3",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1054610/3d9815bdef53617e926c0da3511e3bcefdb7395d.jpg"
+                    },
+                    {
+                        "name": "Level 4",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1054610/55c326af18d9037e7d164b8a13e09122cd3cb95d.jpg"
+                    },
+                    {
+                        "name": "Level 5",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1054610/f5a3cc7de88cbadc160a62909bb123237435fbc0.jpg"
+                    },
+                    {
+                        "name": "Level 6",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1054610/55724725d43537eed96853a592c05f285864bbbd.jpg"
+                    },
+                    {
+                        "name": "Level 7",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1054610/3b91e96ffe6d7a5144ab1fe31270448f1583178c.jpg"
+                    },
+                    {
+                        "name": "Level 8",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1054610/bef8c132a4d254d7620d25a4e3324b3c4a4c1e68.jpg"
+                    },
+                    {
+                        "name": "Level 9",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1054610/77e751b5f9126b0745d396753dc24d3b1820ea41.jpg"
+                    },
+                    {
+                        "name": "Level 10",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1054610/2276a6933d81dd3548cf776088548a9542ba67dc.jpg"
+                    }
+                ]
+            },
             "release_date": {
-                "coming_soon": true,
+                "coming_soon": false,
                 "date": "5 Apr, 2019"
             },
             "support_info": {
                 "url": "https://store.steampowered.com/app/1054610",
                 "email": "blendergamez@gmail.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1054610/page_bg_generated_v6b.jpg?t=1553271979",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1054610/page_bg_generated_v6b.jpg?t=1582043384",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
