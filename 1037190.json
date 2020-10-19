@@ -11,11 +11,11 @@
             "dlc": [
                 1047710
             ],
-            "detailed_description": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/1037190/extras/characters_banner.png?t=1553777608\" ><br><br>Shipped is a simple local multiplayer naval game for up to 8 players. You can accelerate, but you can't break! Choose your favorite girl and navigate around the screen without losing control of your ship. Grab crates to get ammunition or shoot air with your empty cannons to push enemies or deflect incoming fire. Keep up with the movement of the camera! If your ship goes off-screen it will instantly explode!<br><br>Not enough friends? Add AI-controlled players or try to clear the single-player arcade mode.<br><br><ul class=\"bb_ul\"><li>Local multiplayer for 2-8 players.<br></li><li>Challenging single player mode.<br></li><li>Play with friends or against the AI.<br></li><li>5 different game modes.<br></li><li>Simple controls, hard to master.<br></li><li>Lovely characters and soundtrack.</li></ul>",
-            "about_the_game": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/1037190/extras/characters_banner.png?t=1553777608\" ><br><br>Shipped is a simple local multiplayer naval game for up to 8 players. You can accelerate, but you can't break! Choose your favorite girl and navigate around the screen without losing control of your ship. Grab crates to get ammunition or shoot air with your empty cannons to push enemies or deflect incoming fire. Keep up with the movement of the camera! If your ship goes off-screen it will instantly explode!<br><br>Not enough friends? Add AI-controlled players or try to clear the single-player arcade mode.<br><br><ul class=\"bb_ul\"><li>Local multiplayer for 2-8 players.<br></li><li>Challenging single player mode.<br></li><li>Play with friends or against the AI.<br></li><li>5 different game modes.<br></li><li>Simple controls, hard to master.<br></li><li>Lovely characters and soundtrack.</li></ul>",
-            "short_description": "Challenge your friends in a naval battle of steering, pushing and shooting. Keep your ship on-screen and avoid crashing with land to survive.",
+            "detailed_description": "Shipped is a simple local multiplayer naval game for up to 8 players. You can accelerate, but you can't brake! Choose your favorite girl and navigate around the screen without losing control of your ship. Grab crates to get ammunition or shoot air with your empty cannons to push enemies or deflect incoming fire. Keep up with the movement of the camera! If your ship goes off-screen it will instantly explode!<br><br>Not enough friends? Add AI-controlled players or try to clear the single-player arcade mode.<br><br><ul class=\"bb_ul\"><li>Local multiplayer for 2-8 players.<br></li><li>Challenging single player mode.<br></li><li>Play with friends or against the AI.<br></li><li>5 different game modes.<br></li><li>Simple controls, hard to master.<br></li><li>Lovely characters and soundtrack.</li></ul>",
+            "about_the_game": "Shipped is a simple local multiplayer naval game for up to 8 players. You can accelerate, but you can't brake! Choose your favorite girl and navigate around the screen without losing control of your ship. Grab crates to get ammunition or shoot air with your empty cannons to push enemies or deflect incoming fire. Keep up with the movement of the camera! If your ship goes off-screen it will instantly explode!<br><br>Not enough friends? Add AI-controlled players or try to clear the single-player arcade mode.<br><br><ul class=\"bb_ul\"><li>Local multiplayer for 2-8 players.<br></li><li>Challenging single player mode.<br></li><li>Play with friends or against the AI.<br></li><li>5 different game modes.<br></li><li>Simple controls, hard to master.<br></li><li>Lovely characters and soundtrack.</li></ul>",
+            "short_description": "Challenge your friends in a naval battle of steering, pushing and shooting. Keep your ship on-screen and avoid crashing with land to survive. Up to 8 players.",
             "supported_languages": "English, French, Italian, German, Spanish - Spain, Japanese, Korean, Portuguese, Russian, Simplified Chinese",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1037190/header.jpg?t=1553777608",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1037190/header.jpg?t=1601329675",
             "website": "http://www.majorariatto.com/shipped",
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 SP1+<br></li><li><strong>Processor:</strong> Dual Core<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> ATI Radeon HD 4850 or Nvidia Geforce 940MX<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 240 MB available space<br></li><li><strong>Sound Card:</strong> DirectX compatible sound card<br></li><li><strong>Additional Notes:</strong> Keyboard or Gamepad</li></ul>"
@@ -32,7 +32,40 @@
             "publishers": [
                 "Majorariatto"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 599,
+                "final": 599,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "5,99€"
+            },
+            "packages": [
+                345377
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Shipped",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 345377,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "Shipped - 5,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 599
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": true,
@@ -48,8 +81,12 @@
                     "description": "Multi-player"
                 },
                 {
+                    "id": 49,
+                    "description": "PvP"
+                },
+                {
                     "id": 37,
-                    "description": "Local Multi-Player"
+                    "description": "Shared/Split Screen PvP"
                 },
                 {
                     "id": 24,
@@ -66,6 +103,10 @@
                 {
                     "id": 23,
                     "description": "Steam Cloud"
+                },
+                {
+                    "id": 44,
+                    "description": "Remote Play Together"
                 }
             ],
             "genres": [
@@ -89,51 +130,122 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1037190/ss_64dddf31160f50807f67712c4fe852757d78a2e2.600x338.jpg?t=1553777608",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1037190/ss_64dddf31160f50807f67712c4fe852757d78a2e2.1920x1080.jpg?t=1553777608"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1037190/ss_64dddf31160f50807f67712c4fe852757d78a2e2.600x338.jpg?t=1601329675",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1037190/ss_64dddf31160f50807f67712c4fe852757d78a2e2.1920x1080.jpg?t=1601329675"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1037190/ss_23b43b6ec022791f7d0188e0246273c9866e7e21.600x338.jpg?t=1553777608",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1037190/ss_23b43b6ec022791f7d0188e0246273c9866e7e21.1920x1080.jpg?t=1553777608"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1037190/ss_eaaa95fc5d5a498f72fa63531165a35541b21087.600x338.jpg?t=1601329675",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1037190/ss_eaaa95fc5d5a498f72fa63531165a35541b21087.1920x1080.jpg?t=1601329675"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1037190/ss_54abef3410bed225a0c5aa65a2e04a0c182c354c.600x338.jpg?t=1553777608",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1037190/ss_54abef3410bed225a0c5aa65a2e04a0c182c354c.1920x1080.jpg?t=1553777608"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1037190/ss_23b43b6ec022791f7d0188e0246273c9866e7e21.600x338.jpg?t=1601329675",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1037190/ss_23b43b6ec022791f7d0188e0246273c9866e7e21.1920x1080.jpg?t=1601329675"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1037190/ss_82256d7a6494420ff51ca23f5d1b1c558f66b1b5.600x338.jpg?t=1553777608",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1037190/ss_82256d7a6494420ff51ca23f5d1b1c558f66b1b5.1920x1080.jpg?t=1553777608"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1037190/ss_d0e6ef6e1d472e45358416c31b7dd26da8662fa2.600x338.jpg?t=1601329675",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1037190/ss_d0e6ef6e1d472e45358416c31b7dd26da8662fa2.1920x1080.jpg?t=1601329675"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1037190/ss_d0e6ef6e1d472e45358416c31b7dd26da8662fa2.600x338.jpg?t=1553777608",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1037190/ss_d0e6ef6e1d472e45358416c31b7dd26da8662fa2.1920x1080.jpg?t=1553777608"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1037190/ss_54abef3410bed225a0c5aa65a2e04a0c182c354c.600x338.jpg?t=1601329675",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1037190/ss_54abef3410bed225a0c5aa65a2e04a0c182c354c.1920x1080.jpg?t=1601329675"
+                },
+                {
+                    "id": 5,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1037190/ss_82256d7a6494420ff51ca23f5d1b1c558f66b1b5.600x338.jpg?t=1601329675",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1037190/ss_82256d7a6494420ff51ca23f5d1b1c558f66b1b5.1920x1080.jpg?t=1601329675"
                 }
             ],
             "movies": [
                 {
                     "id": 256744615,
                     "name": "Shipped trailer",
-                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256744615/movie.293x165.jpg?t=1553777604",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256744615/movie.293x165.jpg?t=1601327393",
                     "webm": {
-                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256744615/movie480.webm?t=1553777604",
-                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256744615/movie_max.webm?t=1553777604"
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256744615/movie480.webm?t=1601327393",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256744615/movie_max.webm?t=1601327393"
+                    },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256744615/movie480.mp4?t=1601327393",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256744615/movie_max.mp4?t=1601327393"
+                    },
+                    "highlight": true
+                },
+                {
+                    "id": 256802771,
+                    "name": "Shipped gameplay",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256802771/movie.293x165.jpg?t=1601329670",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256802771/movie480_vp9.webm?t=1601329670",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256802771/movie_max_vp9.webm?t=1601329670"
+                    },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256802771/movie480.mp4?t=1601329670",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256802771/movie_max.mp4?t=1601329670"
                     },
                     "highlight": true
                 }
             ],
+            "recommendations": {
+                "total": 349
+            },
+            "achievements": {
+                "total": 11,
+                "highlighted": [
+                    {
+                        "name": "First game",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1037190/30550d92101135f5d8f2495d2515f168e8471747.jpg"
+                    },
+                    {
+                        "name": "Freedom",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1037190/77d20494eb2d5115b3e34bca1f305cc35d3774e2.jpg"
+                    },
+                    {
+                        "name": "Intro",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1037190/4895d7b18f4034c49a3bd5a1822d76e0b5f6d806.jpg"
+                    },
+                    {
+                        "name": "Tofe",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1037190/fa8ffb182a8df09889789f507faa81b0ce0f191c.jpg"
+                    },
+                    {
+                        "name": "Nobu",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1037190/85fda2d65b8f23ad4898485d5c97553923ea97c1.jpg"
+                    },
+                    {
+                        "name": "Taka",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1037190/23a4fc23c8d5316bb1f09b3c2b778a5ae25fa539.jpg"
+                    },
+                    {
+                        "name": "Waba",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1037190/f1e2533e9fd73673366129decda05ceca6197aba.jpg"
+                    },
+                    {
+                        "name": "Miki",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1037190/29d779b6077193bfc8fbd4de86c2493a60e6b563.jpg"
+                    },
+                    {
+                        "name": "Lico",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1037190/52ffea38e6e647b11255b4ac20ac2884145ac22f.jpg"
+                    },
+                    {
+                        "name": "Naru",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1037190/11e8fd97e59938c1151cdcf660d1968345d629a5.jpg"
+                    }
+                ]
+            },
             "release_date": {
-                "coming_soon": true,
+                "coming_soon": false,
                 "date": "28 Mar, 2019"
             },
             "support_info": {
                 "url": "http://www.majorariatto.com/",
                 "email": "contact@majorariatto.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1037190/page_bg_generated_v6b.jpg?t=1553777608",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1037190/page_bg_generated_v6b.jpg?t=1601329675",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
