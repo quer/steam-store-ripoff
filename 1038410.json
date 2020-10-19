@@ -33,11 +33,11 @@
             ],
             "price_overview": {
                 "currency": "EUR",
-                "initial": 899,
-                "final": 899,
+                "initial": 739,
+                "final": 739,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "8,99€"
+                "final_formatted": "7,39€"
             },
             "packages": [
                 345821
@@ -54,13 +54,13 @@
                     "subs": [
                         {
                             "packageid": 345821,
-                            "percent_savings_text": "",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "ShooterSpheres - 8,99€",
+                            "option_text": "ShooterSpheres - 7,39€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 899
+                            "price_in_cents_with_discount": 739
                         }
                     ]
                 }
@@ -129,6 +129,10 @@
                     "webm": {
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/256743742/movie480.webm?t=1551309863",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/256743742/movie_max.webm?t=1551309863"
+                    },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256743742/movie480.mp4?t=1551309863",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256743742/movie_max.mp4?t=1551309863"
                     },
                     "highlight": true
                 }

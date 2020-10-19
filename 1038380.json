@@ -14,7 +14,7 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1038380/header.jpg?t=1550908842",
             "website": null,
             "pc_requirements": {
-                "minimum": "<strong>Минимальные:</strong><br><ul class=\"bb_ul\"><li><strong>ОС:</strong> Windows 7/Windows 8/Windows 10<br></li><li><strong>Процессор:</strong> 1.4 GHz<br></li><li><strong>Оперативная память:</strong> 1024 MB ОЗУ<br></li><li><strong>DirectX:</strong> Версии 9.0<br></li><li><strong>Место на диске:</strong> 916 MB</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7/Windows 8/Windows 10<br></li><li><strong>Processor:</strong> 1.4 GHz<br></li><li><strong>Memory:</strong> 1024 MB RAM<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 916 MB available space</li></ul>"
             },
             "mac_requirements": [],
             "linux_requirements": [],
@@ -26,11 +26,11 @@
             ],
             "price_overview": {
                 "currency": "EUR",
-                "initial": 1079,
-                "final": 1079,
+                "initial": 819,
+                "final": 819,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "10,79€"
+                "final_formatted": "8,19€"
             },
             "packages": [
                 345813
@@ -47,13 +47,13 @@
                     "subs": [
                         {
                             "packageid": 345813,
-                            "percent_savings_text": "",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "PuppetShow: Porcelain Smile Collector's Edition - 10,79€",
+                            "option_text": "PuppetShow: Porcelain Smile Collector's Edition - 8,19€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1079
+                            "price_in_cents_with_discount": 819
                         }
                     ]
                 }
@@ -140,12 +140,13 @@
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/256743643/movie480.webm?t=1550877962",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/256743643/movie_max.webm?t=1550877962"
                     },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256743643/movie480.mp4?t=1550877962",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256743643/movie_max.mp4?t=1550877962"
+                    },
                     "highlight": true
                 }
             ],
-            "achievements": {
-                "total": 0
-            },
             "release_date": {
                 "coming_soon": false,
                 "date": "23 Feb, 2019"
