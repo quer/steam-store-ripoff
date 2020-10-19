@@ -14,7 +14,7 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1024520/header.jpg?t=1550766358",
             "website": null,
             "pc_requirements": {
-                "minimum": "<strong>最低配置:</strong><br><ul class=\"bb_ul\"><li><strong>操作系统:</strong> Windows 7<br></li><li><strong>处理器:</strong> Core 2 Duo E6400 2.1 GHz<br></li><li><strong>内存:</strong> 1 GB RAM<br></li><li><strong>图形:</strong> GeForce GTS 450<br></li><li><strong>DirectX 版本:</strong> 9.0c<br></li><li><strong>存储空间:</strong> 需要 950 MB 可用空间</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong> Core 2 Duo E6400 2.1 GHz<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> GeForce GTS 450<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 950 MB available space</li></ul>"
             },
             "mac_requirements": [],
             "linux_requirements": [],
@@ -47,7 +47,7 @@
                     "subs": [
                         {
                             "packageid": 340250,
-                            "percent_savings_text": "",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
                             "option_text": "Viking: Sigurd's Adventure - 3,99€",
                             "option_description": "",
@@ -149,6 +149,10 @@
                     "webm": {
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/256741801/movie480.webm?t=1549212664",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/256741801/movie_max.webm?t=1549212664"
+                    },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256741801/movie480.mp4?t=1549212664",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256741801/movie_max.mp4?t=1549212664"
                     },
                     "highlight": true
                 }
