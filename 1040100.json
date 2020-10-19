@@ -15,7 +15,7 @@
                 "name": "VR Regatta - The Sailing Game"
             },
             "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1040100/header.jpg?t=1551818549",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1040100/header.jpg?t=1556829072",
             "website": "https://www.marineverse.com",
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Intel i7-6700 equivalent or greater<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GTX 1070</li></ul>"
@@ -28,7 +28,40 @@
             "publishers": [
                 ""
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 819,
+                "final": 819,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "8,19€"
+            },
+            "packages": [
+                346420
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy VR Regatta - Arctic",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 346420,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "VR Regatta - Arctic - 8,19€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 819
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": false,
@@ -73,24 +106,50 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1040100/ss_3c28834f4c44428674cf56a768f02f18d9e78027.600x338.jpg?t=1551818549",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1040100/ss_3c28834f4c44428674cf56a768f02f18d9e78027.1920x1080.jpg?t=1551818549"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1040100/ss_3c28834f4c44428674cf56a768f02f18d9e78027.600x338.jpg?t=1556829072",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1040100/ss_3c28834f4c44428674cf56a768f02f18d9e78027.1920x1080.jpg?t=1556829072"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1040100/ss_fd616537f39f4112ee134baea0331c3ee91a7175.600x338.jpg?t=1551818549",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1040100/ss_fd616537f39f4112ee134baea0331c3ee91a7175.1920x1080.jpg?t=1551818549"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1040100/ss_72a142ea125b6d60334cd8a4613083d617698f34.600x338.jpg?t=1556829072",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1040100/ss_72a142ea125b6d60334cd8a4613083d617698f34.1920x1080.jpg?t=1556829072"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1040100/ss_2c2a008ae9566a390ce896d1efeeef596febf1a1.600x338.jpg?t=1556829072",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1040100/ss_2c2a008ae9566a390ce896d1efeeef596febf1a1.1920x1080.jpg?t=1556829072"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1040100/ss_084326cb8e307f93ca8993921c70ed632b2e6741.600x338.jpg?t=1556829072",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1040100/ss_084326cb8e307f93ca8993921c70ed632b2e6741.1920x1080.jpg?t=1556829072"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 256749208,
+                    "name": "Arctic",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256749208/movie.293x165.jpg?t=1556451211",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256749208/movie480.webm?t=1556451211",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256749208/movie_max.webm?t=1556451211"
+                    },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256749208/movie480.mp4?t=1556451211",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256749208/movie_max.mp4?t=1556451211"
+                    },
+                    "highlight": true
                 }
             ],
             "release_date": {
-                "coming_soon": true,
-                "date": "2019"
+                "coming_soon": false,
+                "date": "2 May, 2019"
             },
             "support_info": {
                 "url": "https://www.marineverse.com/contact",
                 "email": "support@marineverse.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1040100/page_bg_generated_v6b.jpg?t=1551818549",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1040100/page_bg_generated_v6b.jpg?t=1556829072",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
