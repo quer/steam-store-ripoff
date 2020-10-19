@@ -8,18 +8,21 @@
             "required_age": 0,
             "is_free": false,
             "controller_support": "full",
+            "dlc": [
+                1047880
+            ],
             "detailed_description": "You Died... but a Necromancer revived you! And will keep reviving you back to their crazy tower of death until you reach the top floor and get rid of them, allowing you to finally be free...  <br><br>Reaching the top to challenge the Necromancer is no easy feat, the pathways are narrow and full of traps: chainsaws, spikes, cannons, flamethrowers... On top of that, the floor behind you will start exploding if you take too long! <br><br>Can you stop this<strong> madness?</strong><br><br>Or will you <strong>give up?</strong><br><br><br><strong>Game Features<br>------------------------------------------</strong><br>The main game consists of 5 areas of 4 floors each that you have to complete without getting hit a single time otherwise you will be revived at the last checkpoint. <br><br><ul class=\"bb_ul\"><li><strong>Procedural Levels:</strong> Every floor is different!<br></li><li><strong>Up,Down,Left,Right!:</strong> Simple to pick up but hard to master <br></li><li><strong>Up to 4 players:</strong> Cooperate! Only one needs to complete the floor <br></li><li><strong>Versus mode:</strong> Or compete! Let's see who completes the floor first<br></li><li><strong>Endless mode:</strong> How high can you climb without dying?<br></li><li><strong>Customizable difficulty:</strong> Settings to make the game easier, harder or just for fun<br></li><li><strong>+30 characters:</strong> ​Lots of characters to choose from! They do not bring any gameplay advantage - it's all about taking your favorite skeleton into the tower.</li></ul>",
             "about_the_game": "You Died... but a Necromancer revived you! And will keep reviving you back to their crazy tower of death until you reach the top floor and get rid of them, allowing you to finally be free...  <br><br>Reaching the top to challenge the Necromancer is no easy feat, the pathways are narrow and full of traps: chainsaws, spikes, cannons, flamethrowers... On top of that, the floor behind you will start exploding if you take too long! <br><br>Can you stop this<strong> madness?</strong><br><br>Or will you <strong>give up?</strong><br><br><br><strong>Game Features<br>------------------------------------------</strong><br>The main game consists of 5 areas of 4 floors each that you have to complete without getting hit a single time otherwise you will be revived at the last checkpoint. <br><br><ul class=\"bb_ul\"><li><strong>Procedural Levels:</strong> Every floor is different!<br></li><li><strong>Up,Down,Left,Right!:</strong> Simple to pick up but hard to master <br></li><li><strong>Up to 4 players:</strong> Cooperate! Only one needs to complete the floor <br></li><li><strong>Versus mode:</strong> Or compete! Let's see who completes the floor first<br></li><li><strong>Endless mode:</strong> How high can you climb without dying?<br></li><li><strong>Customizable difficulty:</strong> Settings to make the game easier, harder or just for fun<br></li><li><strong>+30 characters:</strong> ​Lots of characters to choose from! They do not bring any gameplay advantage - it's all about taking your favorite skeleton into the tower.</li></ul>",
             "short_description": "You Died ... but a Necromancer revived you! Reaching the top is no easy feat: The pathways are narrow, full of traps and on top of that, the floor will start exploding behind you if you take too long!",
-            "supported_languages": "English, Spanish - Spain, French",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1037100/header.jpg?t=1553635569",
+            "supported_languages": "English, Spanish - Spain, French, Portuguese, Japanese",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1037100/header.jpg?t=1571844472",
             "website": "http://bolhut.com/You-Died-But-A-Necromancer-Revived-You/",
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows Vista, 7, 8, 8.1, 10 x84/x64<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> 200 MB<br></li><li><strong>Storage:</strong> 300 MB available space</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows Vista, 7, 8, 8.1, 10 x84/x64<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> 500 MB<br></li><li><strong>Storage:</strong> 300 MB available space</li></ul>"
             },
             "mac_requirements": [],
             "linux_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 16 or higher<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> 200 MB<br></li><li><strong>Storage:</strong> 300 MB available space</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 16 or higher<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> 500 MB<br></li><li><strong>Storage:</strong> 300 MB available space</li></ul>"
             },
             "legal_notice": "You Died but a Necromancer revived you © 2019 BolHut<br />\r\nAll Rights Reserved.",
             "developers": [
@@ -28,7 +31,40 @@
             "publishers": [
                 "BolHut"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 899,
+                "final": 899,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "8,99€"
+            },
+            "packages": [
+                345338
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy You Died but a Necromancer revived you",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 345338,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "You Died but a Necromancer revived you - 8,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 899
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": false,
@@ -40,8 +76,16 @@
                     "description": "Single-player"
                 },
                 {
+                    "id": 1,
+                    "description": "Multi-player"
+                },
+                {
+                    "id": 49,
+                    "description": "PvP"
+                },
+                {
                     "id": 37,
-                    "description": "Local Multi-Player"
+                    "description": "Shared/Split Screen PvP"
                 },
                 {
                     "id": 9,
@@ -49,7 +93,7 @@
                 },
                 {
                     "id": 39,
-                    "description": "Local Co-op"
+                    "description": "Shared/Split Screen Co-op"
                 },
                 {
                     "id": 24,
@@ -66,6 +110,10 @@
                 {
                     "id": 23,
                     "description": "Steam Cloud"
+                },
+                {
+                    "id": 44,
+                    "description": "Remote Play Together"
                 }
             ],
             "genres": [
@@ -81,61 +129,110 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1037100/ss_df4df0808f7faab3397420c811fd89d285d5a196.600x338.jpg?t=1553635569",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1037100/ss_df4df0808f7faab3397420c811fd89d285d5a196.1920x1080.jpg?t=1553635569"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1037100/ss_df4df0808f7faab3397420c811fd89d285d5a196.600x338.jpg?t=1571844472",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1037100/ss_df4df0808f7faab3397420c811fd89d285d5a196.1920x1080.jpg?t=1571844472"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1037100/ss_bcfd207043c7cbd27b6d91f5b3825e9692758e97.600x338.jpg?t=1553635569",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1037100/ss_bcfd207043c7cbd27b6d91f5b3825e9692758e97.1920x1080.jpg?t=1553635569"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1037100/ss_bcfd207043c7cbd27b6d91f5b3825e9692758e97.600x338.jpg?t=1571844472",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1037100/ss_bcfd207043c7cbd27b6d91f5b3825e9692758e97.1920x1080.jpg?t=1571844472"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1037100/ss_addd49a64da99c356a44f18c730d96a369a841bc.600x338.jpg?t=1553635569",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1037100/ss_addd49a64da99c356a44f18c730d96a369a841bc.1920x1080.jpg?t=1553635569"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1037100/ss_addd49a64da99c356a44f18c730d96a369a841bc.600x338.jpg?t=1571844472",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1037100/ss_addd49a64da99c356a44f18c730d96a369a841bc.1920x1080.jpg?t=1571844472"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1037100/ss_9a2a7f8cdf34f4f84a669ff9c49b1db85750b855.600x338.jpg?t=1553635569",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1037100/ss_9a2a7f8cdf34f4f84a669ff9c49b1db85750b855.1920x1080.jpg?t=1553635569"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1037100/ss_9a2a7f8cdf34f4f84a669ff9c49b1db85750b855.600x338.jpg?t=1571844472",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1037100/ss_9a2a7f8cdf34f4f84a669ff9c49b1db85750b855.1920x1080.jpg?t=1571844472"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1037100/ss_6b0e7dc8d4071e434a25a586ca6b43043bd66914.600x338.jpg?t=1553635569",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1037100/ss_6b0e7dc8d4071e434a25a586ca6b43043bd66914.1920x1080.jpg?t=1553635569"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1037100/ss_6b0e7dc8d4071e434a25a586ca6b43043bd66914.600x338.jpg?t=1571844472",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1037100/ss_6b0e7dc8d4071e434a25a586ca6b43043bd66914.1920x1080.jpg?t=1571844472"
                 },
                 {
                     "id": 5,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1037100/ss_2b8b0845ba623cf505d668f55b4fd14255f4d177.600x338.jpg?t=1553635569",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1037100/ss_2b8b0845ba623cf505d668f55b4fd14255f4d177.1920x1080.jpg?t=1553635569"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1037100/ss_2b8b0845ba623cf505d668f55b4fd14255f4d177.600x338.jpg?t=1571844472",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1037100/ss_2b8b0845ba623cf505d668f55b4fd14255f4d177.1920x1080.jpg?t=1571844472"
                 },
                 {
                     "id": 6,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1037100/ss_89d732a5acb0a627bbcc09bc7ddc9c3e320cc359.600x338.jpg?t=1553635569",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1037100/ss_89d732a5acb0a627bbcc09bc7ddc9c3e320cc359.1920x1080.jpg?t=1553635569"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1037100/ss_89d732a5acb0a627bbcc09bc7ddc9c3e320cc359.600x338.jpg?t=1571844472",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1037100/ss_89d732a5acb0a627bbcc09bc7ddc9c3e320cc359.1920x1080.jpg?t=1571844472"
                 }
             ],
             "movies": [
                 {
-                    "id": 256744882,
-                    "name": "2018 Gameplay Trailer",
-                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256744882/movie.293x165.jpg?t=1552084535",
+                    "id": 256747290,
+                    "name": "2019 Gameplay Trailer+ Release Date (Updated",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256747290/movie.293x165.jpg?t=1554488615",
                     "webm": {
-                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256744882/movie480.webm?t=1552084535",
-                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256744882/movie_max.webm?t=1552084535"
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256747290/movie480.webm?t=1554488615",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256747290/movie_max.webm?t=1554488615"
+                    },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256747290/movie480.mp4?t=1554488615",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256747290/movie_max.mp4?t=1554488615"
                     },
                     "highlight": true
                 }
             ],
+            "achievements": {
+                "total": 21,
+                "highlighted": [
+                    {
+                        "name": "Welcome!",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1037100/22af41203c51b5f38e950fce9464c161eec6f203.jpg"
+                    },
+                    {
+                        "name": "The Entrances",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1037100/29a504310a657bdeac3b9d52674bb105f03e0e81.jpg"
+                    },
+                    {
+                        "name": "The Hallways",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1037100/5f81ae69cc06e44e4abe735338c1d792583d62f2.jpg"
+                    },
+                    {
+                        "name": "The Kitchens",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1037100/8cd605481d7bb3270ea396896256732a1ba44336.jpg"
+                    },
+                    {
+                        "name": "The Mirkrooms",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1037100/bdd54c82da3e563f505a19cd63bc72a8c6a1dad7.jpg"
+                    },
+                    {
+                        "name": "The Gardens",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1037100/fb093a4188132c868ee4fadb63110faaa830a3e2.jpg"
+                    },
+                    {
+                        "name": "The Necromancer",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1037100/3dcd66ffb7f97d64ae4236012e1888cd7c2d4045.jpg"
+                    },
+                    {
+                        "name": "Bone",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1037100/b371e407e9f5078a421513bf54dd7ef8de91fd74.jpg"
+                    },
+                    {
+                        "name": "Skull",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1037100/c182aaefda0d7a1bb24d503834cda2616dee3418.jpg"
+                    },
+                    {
+                        "name": "Skeleton",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1037100/93b3afa3479c17a8cb3fe5af15cff338f8e48721.jpg"
+                    }
+                ]
+            },
             "release_date": {
-                "coming_soon": true,
-                "date": "Coming Soonish!"
+                "coming_soon": false,
+                "date": "19 Apr, 2019"
             },
             "support_info": {
                 "url": "http://bolhut.com/",
                 "email": ""
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1037100/page_bg_generated_v6b.jpg?t=1553635569",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1037100/page_bg_generated_v6b.jpg?t=1571844472",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
