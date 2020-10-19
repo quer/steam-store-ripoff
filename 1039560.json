@@ -7,15 +7,15 @@
             "steam_appid": 1039560,
             "required_age": 0,
             "is_free": false,
-            "detailed_description": "After winning her first sticker book competition, Amanda has her eyes set on even greater heights. Help Amanda create award-winning sticker books. Swap stickers, earn power-ups and clear each puzzle to make Amanda's new dream come true. Amanda needs to be at her best to compete internationally, so she has decided to make five different sticker books, all with wildlife themes. Featuring 79 levels to complete, over 20 upgrades and five themed sticker books, Amanda's Sticker Book 2: Amazing Wildlife is an eye-catching adventure. <br />\r\n<br />\r\n- 79 thrilling match3 levels<br />\r\n- over 20 upgrades and bonusses<br />\r\n- five sticker books, each with its own theme<br />\r\n- three useful tools to master and use<br />\r\n- more than a dozen elements to gather",
-            "about_the_game": "After winning her first sticker book competition, Amanda has her eyes set on even greater heights. Help Amanda create award-winning sticker books. Swap stickers, earn power-ups and clear each puzzle to make Amanda's new dream come true. Amanda needs to be at her best to compete internationally, so she has decided to make five different sticker books, all with wildlife themes. Featuring 79 levels to complete, over 20 upgrades and five themed sticker books, Amanda's Sticker Book 2: Amazing Wildlife is an eye-catching adventure. <br />\r\n<br />\r\n- 79 thrilling match3 levels<br />\r\n- over 20 upgrades and bonusses<br />\r\n- five sticker books, each with its own theme<br />\r\n- three useful tools to master and use<br />\r\n- more than a dozen elements to gather",
-            "short_description": "After winning her first sticker book competition, Amanda has her eyes set on even greater heights. Help Amanda create award-winning sticker books. Swap stickers, earn power-ups and clear each puzzle to make Amanda's new dream come true.",
+            "detailed_description": "After winning her first sticker book competition, Amanda has her eyes set on even greater heights. Help Amanda create award-winning sticker books. Match groups, swap stickers, earn power-ups and clear each puzzle to make Amanda's new dream come true. Amanda needs to be at her best to compete internationally, so she has decided to make five different sticker books, all with wildlife themes. Featuring 79 levels to complete, over 20 upgrades and five themed sticker books, <br />\r\n<br />\r\n- 79 thrilling match3 levels<br />\r\n- over 20 upgrades and bonusses<br />\r\n- five sticker books, each with its own theme<br />\r\n- three useful special tools to master and use<br />\r\n- more than a dozen elements to gather",
+            "about_the_game": "After winning her first sticker book competition, Amanda has her eyes set on even greater heights. Help Amanda create award-winning sticker books. Match groups, swap stickers, earn power-ups and clear each puzzle to make Amanda's new dream come true. Amanda needs to be at her best to compete internationally, so she has decided to make five different sticker books, all with wildlife themes. Featuring 79 levels to complete, over 20 upgrades and five themed sticker books, <br />\r\n<br />\r\n- 79 thrilling match3 levels<br />\r\n- over 20 upgrades and bonusses<br />\r\n- five sticker books, each with its own theme<br />\r\n- three useful special tools to master and use<br />\r\n- more than a dozen elements to gather",
+            "short_description": "Can you help Amanda in this thrilling match-3 game and win the international sticker book competition? Play 79 thrilling match-3 levels with over 20 upgrades and bonusses!",
             "supported_languages": "English, French, German",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1039560/header.jpg?t=1552992652",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1039560/header.jpg?t=1602839730",
             "website": null,
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP/ME/Vista/7/8/10<br></li><li><strong>Processor:</strong> 1.0GHz CPU<br></li><li><strong>Memory:</strong> 128 MB RAM<br></li><li><strong>Graphics:</strong> 128MB<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 200 MB available space<br></li><li><strong>Sound Card:</strong> DirectX compatible sound card</li></ul>",
-                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP/ME/Vista/7/8/10<br></li><li><strong>Processor:</strong> 1.2GHz CPU<br></li><li><strong>Memory:</strong> 128 MB RAM<br></li><li><strong>Graphics:</strong> 256 MB<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 200 MB available space<br></li><li><strong>Sound Card:</strong> DirectX compatible sound card</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP/7/8/10<br></li><li><strong>Processor:</strong> 1.0GHz CPU<br></li><li><strong>Memory:</strong> 128 MB RAM<br></li><li><strong>Graphics:</strong> 128MB<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 200 MB available space<br></li><li><strong>Sound Card:</strong> DirectX compatible sound card</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows  7 / 8 / 10<br></li><li><strong>Processor:</strong> 1.2GHz CPU<br></li><li><strong>Memory:</strong> 128 MB RAM<br></li><li><strong>Graphics:</strong> 256 MB<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 200 MB available space<br></li><li><strong>Sound Card:</strong> DirectX compatible sound card</li></ul>"
             },
             "mac_requirements": [],
             "linux_requirements": [],
@@ -48,7 +48,7 @@
                     "subs": [
                         {
                             "packageid": 346227,
-                            "percent_savings_text": "",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
                             "option_text": "Amanda's Sticker Book 2: Amazing Wildlife - 2,39€",
                             "option_description": "",
@@ -68,44 +68,60 @@
                 {
                     "id": 2,
                     "description": "Single-player"
+                },
+                {
+                    "id": 18,
+                    "description": "Partial Controller Support"
                 }
             ],
             "genres": [
                 {
+                    "id": "1",
+                    "description": "Action"
+                },
+                {
                     "id": "4",
                     "description": "Casual"
+                },
+                {
+                    "id": "23",
+                    "description": "Indie"
+                },
+                {
+                    "id": "2",
+                    "description": "Strategy"
                 }
             ],
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1039560/ss_deafc8089a2c7c90919d04451dc4f48f8584bc40.600x338.jpg?t=1552992652",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1039560/ss_deafc8089a2c7c90919d04451dc4f48f8584bc40.1920x1080.jpg?t=1552992652"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1039560/ss_deafc8089a2c7c90919d04451dc4f48f8584bc40.600x338.jpg?t=1602839730",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1039560/ss_deafc8089a2c7c90919d04451dc4f48f8584bc40.1920x1080.jpg?t=1602839730"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1039560/ss_d222fdb213cf9dc9673be4590594bfd04b4d1575.600x338.jpg?t=1552992652",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1039560/ss_d222fdb213cf9dc9673be4590594bfd04b4d1575.1920x1080.jpg?t=1552992652"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1039560/ss_d222fdb213cf9dc9673be4590594bfd04b4d1575.600x338.jpg?t=1602839730",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1039560/ss_d222fdb213cf9dc9673be4590594bfd04b4d1575.1920x1080.jpg?t=1602839730"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1039560/ss_f5b40c6f38b3a2da69b5a8ebfdfa4e8b995d725a.600x338.jpg?t=1552992652",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1039560/ss_f5b40c6f38b3a2da69b5a8ebfdfa4e8b995d725a.1920x1080.jpg?t=1552992652"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1039560/ss_f5b40c6f38b3a2da69b5a8ebfdfa4e8b995d725a.600x338.jpg?t=1602839730",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1039560/ss_f5b40c6f38b3a2da69b5a8ebfdfa4e8b995d725a.1920x1080.jpg?t=1602839730"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1039560/ss_c863a0b7b10d489cd6652cfafde74fa88df93a61.600x338.jpg?t=1552992652",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1039560/ss_c863a0b7b10d489cd6652cfafde74fa88df93a61.1920x1080.jpg?t=1552992652"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1039560/ss_c863a0b7b10d489cd6652cfafde74fa88df93a61.600x338.jpg?t=1602839730",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1039560/ss_c863a0b7b10d489cd6652cfafde74fa88df93a61.1920x1080.jpg?t=1602839730"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1039560/ss_ffa0fd56a8bee2654b199ca8b316af73db3bb6da.600x338.jpg?t=1552992652",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1039560/ss_ffa0fd56a8bee2654b199ca8b316af73db3bb6da.1920x1080.jpg?t=1552992652"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1039560/ss_ffa0fd56a8bee2654b199ca8b316af73db3bb6da.600x338.jpg?t=1602839730",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1039560/ss_ffa0fd56a8bee2654b199ca8b316af73db3bb6da.1920x1080.jpg?t=1602839730"
                 },
                 {
                     "id": 5,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1039560/ss_5444788903add95e8aa3102a2a231413044a7ec0.600x338.jpg?t=1552992652",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1039560/ss_5444788903add95e8aa3102a2a231413044a7ec0.1920x1080.jpg?t=1552992652"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1039560/ss_5444788903add95e8aa3102a2a231413044a7ec0.600x338.jpg?t=1602839730",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1039560/ss_5444788903add95e8aa3102a2a231413044a7ec0.1920x1080.jpg?t=1602839730"
                 }
             ],
             "movies": [
@@ -117,6 +133,10 @@
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/256743783/movie480.webm?t=1551145164",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/256743783/movie_max.webm?t=1551145164"
                     },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256743783/movie480.mp4?t=1551145164",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256743783/movie_max.mp4?t=1551145164"
+                    },
                     "highlight": true
                 }
             ],
@@ -126,9 +146,9 @@
             },
             "support_info": {
                 "url": "",
-                "email": "support@gamepublishing.de"
+                "email": "support@hh-games.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1039560/page_bg_generated_v6b.jpg?t=1552992652",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1039560/page_bg_generated_v6b.jpg?t=1602839730",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
