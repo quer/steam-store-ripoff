@@ -7,11 +7,11 @@
             "steam_appid": 1033340,
             "required_age": 0,
             "is_free": false,
-            "detailed_description": "biorhythm is a rhythmic infection game, set to the beat of the heart. you play as lonely bacteria, lost in the human bloodstream. explore, fight, and uncover the mystery of your new home!<br><br>it features beautiful hand-painted art &amp; an orchestral score.<br><br><ul class=\"bb_ul\"><li>grow a swarm of bacteria and explore the human body at a microscopic scale<br></li><li>encounter strange microbes &amp; fearsome white blood cells<br></li><li>try your best to be good and not to hurt anyone</li></ul><br>created by Brady Soglin. art by Anna Cich &amp; Jackie Lombard. sounds by Dylan Payne &amp; Bobby Volpendesta.",
-            "about_the_game": "biorhythm is a rhythmic infection game, set to the beat of the heart. you play as lonely bacteria, lost in the human bloodstream. explore, fight, and uncover the mystery of your new home!<br><br>it features beautiful hand-painted art &amp; an orchestral score.<br><br><ul class=\"bb_ul\"><li>grow a swarm of bacteria and explore the human body at a microscopic scale<br></li><li>encounter strange microbes &amp; fearsome white blood cells<br></li><li>try your best to be good and not to hurt anyone</li></ul><br>created by Brady Soglin. art by Anna Cich &amp; Jackie Lombard. sounds by Dylan Payne &amp; Bobby Volpendesta.",
-            "short_description": "in biorhythm, you play as lonely bacteria, lost in the human bloodstream. explore, fight, and uncover the mystery of your new home to the beat of the heart.",
+            "detailed_description": "In biorhythm, you play as bacteria lost in the human body. As the heart beats, everything in the body moves to the rhythm. You'll swim through the bloodstream to the beat, exploring, fighting other microbes, and duplicating yourself as you go.<br><br>As the progression of your lifecycle weakens the body, you'll face terrifying challenges; vicious microbes, hungering white blood cells, intense fever.<br><br>The game runs 2.5 - 3 hours. It features hand-painted art, an orchestral score, and a thrilling story.<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/1033340/extras/a5-vein.gif?t=1566627296\" /><br><br><ul class=\"bb_ul\"><li>Grow a swarm of bacteria and explore the human body at a microscopic scale<br></li><li>Encounter strange microbes &amp; fearsome white blood cells<br></li><li>Live as an outsider in a vast, incomprehensible system</li></ul><br>Created by Brady Soglin. Art by Anna Cich &amp; Jackie Lombard. Sounds by Dylan Payne &amp; Bobby Volpendesta.",
+            "about_the_game": "In biorhythm, you play as bacteria lost in the human body. As the heart beats, everything in the body moves to the rhythm. You'll swim through the bloodstream to the beat, exploring, fighting other microbes, and duplicating yourself as you go.<br><br>As the progression of your lifecycle weakens the body, you'll face terrifying challenges; vicious microbes, hungering white blood cells, intense fever.<br><br>The game runs 2.5 - 3 hours. It features hand-painted art, an orchestral score, and a thrilling story.<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/1033340/extras/a5-vein.gif?t=1566627296\" /><br><br><ul class=\"bb_ul\"><li>Grow a swarm of bacteria and explore the human body at a microscopic scale<br></li><li>Encounter strange microbes &amp; fearsome white blood cells<br></li><li>Live as an outsider in a vast, incomprehensible system</li></ul><br>Created by Brady Soglin. Art by Anna Cich &amp; Jackie Lombard. Sounds by Dylan Payne &amp; Bobby Volpendesta.",
+            "short_description": "You are bacteria, lost in the human bloodstream. Explore, fight, and uncover the mystery of your new home to the beat of the heart.",
             "supported_languages": "English",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1033340/header.jpg?t=1553794200",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1033340/header.jpg?t=1566627296",
             "website": "http://biorhythmgame.com",
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong> 2.3 GHz<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> DirectX 11 compatible video card<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 400 MB available space<br></li><li><strong>Sound Card:</strong> a sound card</li></ul>"
@@ -27,7 +27,40 @@
             "publishers": [
                 "overfull LLC"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 659,
+                "final": 659,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "6,59€"
+            },
+            "packages": [
+                343784
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy biorhythm",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 343784,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "biorhythm - 6,59€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 659
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": true,
@@ -41,6 +74,10 @@
                 {
                     "id": 22,
                     "description": "Steam Achievements"
+                },
+                {
+                    "id": 23,
+                    "description": "Steam Cloud"
                 }
             ],
             "genres": [
@@ -60,56 +97,124 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1033340/ss_0c03e4658c6d4df4aa9cb76df000594342f4027a.600x338.jpg?t=1553794200",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1033340/ss_0c03e4658c6d4df4aa9cb76df000594342f4027a.1920x1080.jpg?t=1553794200"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1033340/ss_880a35bf3608083e9b5260d83bd2362f20dce91f.600x338.jpg?t=1566627296",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1033340/ss_880a35bf3608083e9b5260d83bd2362f20dce91f.1920x1080.jpg?t=1566627296"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1033340/ss_bbc0937fb8369d3f846e0e0ab1f341dc5f2c474f.600x338.jpg?t=1553794200",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1033340/ss_bbc0937fb8369d3f846e0e0ab1f341dc5f2c474f.1920x1080.jpg?t=1553794200"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1033340/ss_b476b6b2a9298eca25469cee8ecadc1854362b49.600x338.jpg?t=1566627296",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1033340/ss_b476b6b2a9298eca25469cee8ecadc1854362b49.1920x1080.jpg?t=1566627296"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1033340/ss_a6dab59fdae59c1eb962ba55312104e76ac705a1.600x338.jpg?t=1553794200",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1033340/ss_a6dab59fdae59c1eb962ba55312104e76ac705a1.1920x1080.jpg?t=1553794200"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1033340/ss_cee79a715193f1e71ecd83025cda6c5dfa53a200.600x338.jpg?t=1566627296",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1033340/ss_cee79a715193f1e71ecd83025cda6c5dfa53a200.1920x1080.jpg?t=1566627296"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1033340/ss_90d079cfbc56fe7cd7301148e6f616d6139e648e.600x338.jpg?t=1553794200",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1033340/ss_90d079cfbc56fe7cd7301148e6f616d6139e648e.1920x1080.jpg?t=1553794200"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1033340/ss_716dd20ec9e29789f2216ec1dd203ee282ed6f71.600x338.jpg?t=1566627296",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1033340/ss_716dd20ec9e29789f2216ec1dd203ee282ed6f71.1920x1080.jpg?t=1566627296"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1033340/ss_98c8017090a325f83f91f50d012092309c6690d9.600x338.jpg?t=1553794200",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1033340/ss_98c8017090a325f83f91f50d012092309c6690d9.1920x1080.jpg?t=1553794200"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1033340/ss_a73291a90be80dff9bb0b11e022ba1f99600cb83.600x338.jpg?t=1566627296",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1033340/ss_a73291a90be80dff9bb0b11e022ba1f99600cb83.1920x1080.jpg?t=1566627296"
                 },
                 {
                     "id": 5,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1033340/ss_5fca610b84348576506bcc8ec6108b14149f00f6.600x338.jpg?t=1553794200",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1033340/ss_5fca610b84348576506bcc8ec6108b14149f00f6.1920x1080.jpg?t=1553794200"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1033340/ss_6f409ad848b3780d11fdf049df8a0fa354f49194.600x338.jpg?t=1566627296",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1033340/ss_6f409ad848b3780d11fdf049df8a0fa354f49194.1920x1080.jpg?t=1566627296"
+                },
+                {
+                    "id": 6,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1033340/ss_e1e6ad16306c0bfd37389d05089c977829d11dfd.600x338.jpg?t=1566627296",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1033340/ss_e1e6ad16306c0bfd37389d05089c977829d11dfd.1920x1080.jpg?t=1566627296"
                 }
             ],
             "movies": [
                 {
-                    "id": 256743724,
-                    "name": "trailer 1",
-                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256743724/movie.293x165.jpg?t=1553794185",
+                    "id": 256758171,
+                    "name": "gameplay trailer (proper attribution)",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256758171/movie.293x165.jpg?t=1564953618",
                     "webm": {
-                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256743724/movie480.webm?t=1553794185",
-                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256743724/movie_max.webm?t=1553794185"
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256758171/movie480.webm?t=1564953618",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256758171/movie_max.webm?t=1564953618"
+                    },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256758171/movie480.mp4?t=1564953618",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256758171/movie_max.mp4?t=1564953618"
+                    },
+                    "highlight": true
+                },
+                {
+                    "id": 256758172,
+                    "name": "raw gameplay",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256758172/movie.293x165.jpg?t=1564953626",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256758172/movie480.webm?t=1564953626",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256758172/movie_max.webm?t=1564953626"
+                    },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256758172/movie480.mp4?t=1564953626",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256758172/movie_max.mp4?t=1564953626"
                     },
                     "highlight": true
                 }
             ],
+            "achievements": {
+                "total": 12,
+                "highlighted": [
+                    {
+                        "name": "The Phage",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1033340/0fe06344e11ffc741470f561afe61c0c9e423069.jpg"
+                    },
+                    {
+                        "name": "Brutality",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1033340/43d910091894938c47f1b4418b0b2ef239658b6a.jpg"
+                    },
+                    {
+                        "name": "Ending A",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1033340/9aa5db915a9a8949389ab6e9fd4e9e090cbcff7f.jpg"
+                    },
+                    {
+                        "name": "Ending B",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1033340/e842f4f0fcc79ca401bde5d0a5bf010543b90de2.jpg"
+                    },
+                    {
+                        "name": "Ending ?",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1033340/b84fae113293398d32a1f773e8da0ed5ce4ac6c2.jpg"
+                    },
+                    {
+                        "name": "Halfway There",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1033340/6746fb5b5fbf584d54dd4c39364dfd1885b5eb64.jpg"
+                    },
+                    {
+                        "name": "The Plasmid",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1033340/193ee252beb568efb11e969a0bd8bdfdcb9c0d36.jpg"
+                    },
+                    {
+                        "name": "Microbial Shield",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1033340/4e0a11cbaac0b14dc37a97339777dd8d1e16d043.jpg"
+                    },
+                    {
+                        "name": "Rupture",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1033340/49b283d006ba7dc42389345fb82e860be62700d4.jpg"
+                    },
+                    {
+                        "name": "My Round Little Friends",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1033340/b0c9434de862247dd8f60b1cd637bafb369b451a.jpg"
+                    }
+                ]
+            },
             "release_date": {
-                "coming_soon": true,
-                "date": "Summer 2019"
+                "coming_soon": false,
+                "date": "23 Aug, 2019"
             },
             "support_info": {
                 "url": "",
                 "email": "help.ovrfull@gmail.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1033340/page_bg_generated_v6b.jpg?t=1553794200",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1033340/page_bg_generated_v6b.jpg?t=1566627296",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
