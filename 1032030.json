@@ -7,7 +7,6 @@
             "steam_appid": 1032030,
             "required_age": 0,
             "is_free": false,
-            "controller_support": "full",
             "detailed_description": "This DLC give you the images used in Shantalia and Corali'hulu<br />\r\nResolution: 1280x720<br />\r\nThey will be located in “Extra (DLC)”.",
             "about_the_game": "This DLC give you the images used in Shantalia and Corali'hulu<br />\r\nResolution: 1280x720<br />\r\nThey will be located in “Extra (DLC)”.",
             "short_description": "This DLC give you the images used in Shantalia and Corali'hulu",
@@ -16,7 +15,7 @@
                 "name": "Shantalia and Corali'hulu"
             },
             "supported_languages": "English, French",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1032030/header.jpg?t=1551436833",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1032030/header.jpg?t=1568668566",
             "website": "http://miagames.net/en/shantalia-and-coralihulu",
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 or later<br></li><li><strong>Processor:</strong> 1.2 Ghz<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> 1280x720<br></li><li><strong>Storage:</strong> 2 MB available space</li></ul>"
@@ -33,40 +32,7 @@
             "publishers": [
                 "Mia Blais-Côté"
             ],
-            "price_overview": {
-                "currency": "EUR",
-                "initial": 90,
-                "final": 90,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "0,90€"
-            },
-            "packages": [
-                343324
-            ],
-            "package_groups": [
-                {
-                    "name": "default",
-                    "title": "Buy Shantalia and Corali'hulu (Extra)",
-                    "description": "",
-                    "selection_text": "Select a purchase option",
-                    "save_text": "",
-                    "display_type": 0,
-                    "is_recurring_subscription": "false",
-                    "subs": [
-                        {
-                            "packageid": 343324,
-                            "percent_savings_text": "",
-                            "percent_savings": 0,
-                            "option_text": "Shantalia and Corali'hulu (Extra) - 0,90€",
-                            "option_description": "",
-                            "can_get_free_license": "0",
-                            "is_free_license": false,
-                            "price_in_cents_with_discount": 90
-                        }
-                    ]
-                }
-            ],
+            "package_groups": [],
             "platforms": {
                 "windows": true,
                 "mac": true,
@@ -80,18 +46,6 @@
                 {
                     "id": 21,
                     "description": "Downloadable Content"
-                },
-                {
-                    "id": 22,
-                    "description": "Steam Achievements"
-                },
-                {
-                    "id": 28,
-                    "description": "Full controller support"
-                },
-                {
-                    "id": 23,
-                    "description": "Steam Cloud"
                 }
             ],
             "genres": [
@@ -107,18 +61,18 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1032030/ss_e61a68de9dd26da5c1e737975775c12b568186e4.600x338.jpg?t=1551436833",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1032030/ss_e61a68de9dd26da5c1e737975775c12b568186e4.1920x1080.jpg?t=1551436833"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1032030/ss_e61a68de9dd26da5c1e737975775c12b568186e4.600x338.jpg?t=1568668566",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1032030/ss_e61a68de9dd26da5c1e737975775c12b568186e4.1920x1080.jpg?t=1568668566"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1032030/ss_084bb1e0cd7213c5c66d537ed19b2e0ed6421ea2.600x338.jpg?t=1551436833",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1032030/ss_084bb1e0cd7213c5c66d537ed19b2e0ed6421ea2.1920x1080.jpg?t=1551436833"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1032030/ss_084bb1e0cd7213c5c66d537ed19b2e0ed6421ea2.600x338.jpg?t=1568668566",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1032030/ss_084bb1e0cd7213c5c66d537ed19b2e0ed6421ea2.1920x1080.jpg?t=1568668566"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1032030/ss_e89cfc39603e5ef7e5701fbe1244f03a3336ad6a.600x338.jpg?t=1551436833",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1032030/ss_e89cfc39603e5ef7e5701fbe1244f03a3336ad6a.1920x1080.jpg?t=1551436833"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1032030/ss_e89cfc39603e5ef7e5701fbe1244f03a3336ad6a.600x338.jpg?t=1568668566",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1032030/ss_e89cfc39603e5ef7e5701fbe1244f03a3336ad6a.1920x1080.jpg?t=1568668566"
                 }
             ],
             "release_date": {
@@ -129,7 +83,7 @@
                 "url": "https://www.facebook.com/miabcgames/",
                 "email": ""
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1032030/page_bg_generated_v6b.jpg?t=1551436833",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1032030/page_bg_generated_v6b.jpg?t=1568668566",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
