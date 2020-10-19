@@ -29,11 +29,11 @@
             ],
             "price_overview": {
                 "currency": "EUR",
-                "initial": 399,
-                "final": 399,
+                "initial": 239,
+                "final": 239,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "3,99€"
+                "final_formatted": "2,39€"
             },
             "packages": [
                 338548
@@ -50,13 +50,13 @@
                     "subs": [
                         {
                             "packageid": 338548,
-                            "percent_savings_text": "",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Apoapsis - 3,99€",
+                            "option_text": "Apoapsis - 2,39€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 399
+                            "price_in_cents_with_discount": 239
                         }
                     ]
                 }
@@ -121,6 +121,10 @@
                     "webm": {
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/256743766/movie480.webm?t=1551125265",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/256743766/movie_max.webm?t=1551125265"
+                    },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256743766/movie480.mp4?t=1551125265",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256743766/movie_max.mp4?t=1551125265"
                     },
                     "highlight": true
                 }
