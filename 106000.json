@@ -51,7 +51,7 @@
                     "subs": [
                         {
                             "packageid": 11681,
-                            "percent_savings_text": "",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
                             "option_text": "The Cursed Crusade - 14,99€",
                             "option_description": "",
@@ -87,6 +87,10 @@
                 {
                     "id": 24,
                     "description": "Shared/Split Screen"
+                },
+                {
+                    "id": 44,
+                    "description": "Remote Play Together"
                 }
             ],
             "genres": [
@@ -152,7 +156,7 @@
                 }
             ],
             "recommendations": {
-                "total": 171
+                "total": 198
             },
             "achievements": {
                 "total": 42,
