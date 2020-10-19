@@ -7,14 +7,14 @@
             "steam_appid": 1039470,
             "required_age": 0,
             "is_free": false,
-            "detailed_description": "Over My Dead Pixel is a top down shooter where you command antivirus software to defend your computer from malware. Beware, firing your weapons will shrink your playspace. Acquire powerups and modules to unleash a torrent of attacks. Maneuver deftly to avoid the enemies and the walls, as one single hit means restarting.<h2 class=\"bb_tag\">UNLEASH A TORRENT OF PIXELS<br>UPDATE YOUR ABILITIES<br>EXECUTE MALWARE<br>SURGE UP THE LEADERBOARDS<br><br>BUT ABOVE ALL ELSE<br><br>SECURE YOUR DATA<br><br>WILL YOU MAKE IT?<br>OVER MY DEAD PIXEL</h2>",
-            "about_the_game": "Over My Dead Pixel is a top down shooter where you command antivirus software to defend your computer from malware. Beware, firing your weapons will shrink your playspace. Acquire powerups and modules to unleash a torrent of attacks. Maneuver deftly to avoid the enemies and the walls, as one single hit means restarting.<h2 class=\"bb_tag\">UNLEASH A TORRENT OF PIXELS<br>UPDATE YOUR ABILITIES<br>EXECUTE MALWARE<br>SURGE UP THE LEADERBOARDS<br><br>BUT ABOVE ALL ELSE<br><br>SECURE YOUR DATA<br><br>WILL YOU MAKE IT?<br>OVER MY DEAD PIXEL</h2>",
-            "short_description": "Over My Dead Pixel is a top down shooter where you command antivirus software to defend your computer from malware. Beware, firing your weapons will shrink your playspace. Acquire powerups and modules to unleash a torrent of attacks. Maneuver deftly to avoid the enemies and the walls, as one single hit means restarting.",
+            "detailed_description": "Over My Dead Pixel is a top down shooter where you command antivirus software to defend your computer from malware. Beware, firing your weapons will shrink your playspace. Acquire powerups and modules to unleash a torrent of attacks. Maneuver deftly to avoid the enemies and the walls, as one single hit means restarting.<h2 class=\"bb_tag\">UNLEASH A TORRENT OF PIXELS<br>UPDATE YOUR ABILITIES<br>EXECUTE MALWARE<br>UNLOCK COLOR PALETTES<br>SURGE UP THE LEADERBOARDS<br><br>BUT ABOVE ALL ELSE<br><br>SECURE YOUR DATA<br><br>WILL YOU MAKE IT?<br>OVER MY DEAD PIXEL</h2>",
+            "about_the_game": "Over My Dead Pixel is a top down shooter where you command antivirus software to defend your computer from malware. Beware, firing your weapons will shrink your playspace. Acquire powerups and modules to unleash a torrent of attacks. Maneuver deftly to avoid the enemies and the walls, as one single hit means restarting.<h2 class=\"bb_tag\">UNLEASH A TORRENT OF PIXELS<br>UPDATE YOUR ABILITIES<br>EXECUTE MALWARE<br>UNLOCK COLOR PALETTES<br>SURGE UP THE LEADERBOARDS<br><br>BUT ABOVE ALL ELSE<br><br>SECURE YOUR DATA<br><br>WILL YOU MAKE IT?<br>OVER MY DEAD PIXEL</h2>",
+            "short_description": "Over My Dead Pixel is a top down shooter where you command antivirus software to defend your computer from malware. Beware, firing your weapons will shrink your playspace. Maneuver deftly to avoid the enemies and the walls, as one single hit means restarting.",
             "supported_languages": "English",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1039470/header.jpg?t=1553678350",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1039470/header.jpg?t=1555107384",
             "website": "https://minoshdigital.com",
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Quad core i5<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Quad core i5<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>"
             },
             "mac_requirements": [],
             "linux_requirements": [],
@@ -24,7 +24,40 @@
             "publishers": [
                 "Minosh Digital"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 399,
+                "final": 399,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "3,99€"
+            },
+            "packages": [
+                346199
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Over My Dead Pixel",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 346199,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "Over My Dead Pixel - 3,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 399
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": false,
@@ -34,6 +67,10 @@
                 {
                     "id": 2,
                     "description": "Single-player"
+                },
+                {
+                    "id": 22,
+                    "description": "Steam Achievements"
                 },
                 {
                     "id": 15,
@@ -57,51 +94,130 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1039470/ss_cb54d1710771ac1a6908cf2d5f34c734b51b6aca.600x338.jpg?t=1553678350",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1039470/ss_cb54d1710771ac1a6908cf2d5f34c734b51b6aca.1920x1080.jpg?t=1553678350"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1039470/ss_f1913e913ad2aeaefe07232caaa8f51c75c7fddf.600x338.jpg?t=1555107384",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1039470/ss_f1913e913ad2aeaefe07232caaa8f51c75c7fddf.1920x1080.jpg?t=1555107384"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1039470/ss_6a8e3095d5b7d6ab72f9ea0eb3f4802f7cad1fd1.600x338.jpg?t=1553678350",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1039470/ss_6a8e3095d5b7d6ab72f9ea0eb3f4802f7cad1fd1.1920x1080.jpg?t=1553678350"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1039470/ss_03f1b75f53152e45f3075eb3df49403563841ff2.600x338.jpg?t=1555107384",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1039470/ss_03f1b75f53152e45f3075eb3df49403563841ff2.1920x1080.jpg?t=1555107384"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1039470/ss_4ee0fce10502a7a1027d685b2c66fda2b4ce7aba.600x338.jpg?t=1553678350",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1039470/ss_4ee0fce10502a7a1027d685b2c66fda2b4ce7aba.1920x1080.jpg?t=1553678350"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1039470/ss_353c0f1ea19c05a6554de5227a49c453ce215b5b.600x338.jpg?t=1555107384",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1039470/ss_353c0f1ea19c05a6554de5227a49c453ce215b5b.1920x1080.jpg?t=1555107384"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1039470/ss_513efa6a5e139185158f58da50e89b8bd648f5ad.600x338.jpg?t=1553678350",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1039470/ss_513efa6a5e139185158f58da50e89b8bd648f5ad.1920x1080.jpg?t=1553678350"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1039470/ss_ae409a00d4f481eca76f3047ac3c07f52158ca69.600x338.jpg?t=1555107384",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1039470/ss_ae409a00d4f481eca76f3047ac3c07f52158ca69.1920x1080.jpg?t=1555107384"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1039470/ss_50bb09ad957f2e11929135968be60afd19975ba2.600x338.jpg?t=1553678350",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1039470/ss_50bb09ad957f2e11929135968be60afd19975ba2.1920x1080.jpg?t=1553678350"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1039470/ss_81efe2d601dc2ce9eabe3893aaf4771cdbaaa487.600x338.jpg?t=1555107384",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1039470/ss_81efe2d601dc2ce9eabe3893aaf4771cdbaaa487.1920x1080.jpg?t=1555107384"
+                },
+                {
+                    "id": 5,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1039470/ss_ea9afefc7bc40c25f31b52fdc5c334bf5bb16958.600x338.jpg?t=1555107384",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1039470/ss_ea9afefc7bc40c25f31b52fdc5c334bf5bb16958.1920x1080.jpg?t=1555107384"
+                },
+                {
+                    "id": 6,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1039470/ss_3fa4117ce28da6eed2fc9a3c509d20ea0b488a57.600x338.jpg?t=1555107384",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1039470/ss_3fa4117ce28da6eed2fc9a3c509d20ea0b488a57.1920x1080.jpg?t=1555107384"
+                },
+                {
+                    "id": 7,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1039470/ss_d3007c94abd9e8c498169afb34109143d67a7630.600x338.jpg?t=1555107384",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1039470/ss_d3007c94abd9e8c498169afb34109143d67a7630.1920x1080.jpg?t=1555107384"
+                },
+                {
+                    "id": 8,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1039470/ss_8a014e86706f0eb2cd8cf8f73988fb4dbb94b93f.600x338.jpg?t=1555107384",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1039470/ss_8a014e86706f0eb2cd8cf8f73988fb4dbb94b93f.1920x1080.jpg?t=1555107384"
+                },
+                {
+                    "id": 9,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1039470/ss_0c6ee96432a9f21674763c117ac83b1b84367137.600x338.jpg?t=1555107384",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1039470/ss_0c6ee96432a9f21674763c117ac83b1b84367137.1920x1080.jpg?t=1555107384"
+                },
+                {
+                    "id": 10,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1039470/ss_724047ddd3bfe0a8b81ecec24de0af9a57ac91ab.600x338.jpg?t=1555107384",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1039470/ss_724047ddd3bfe0a8b81ecec24de0af9a57ac91ab.1920x1080.jpg?t=1555107384"
                 }
             ],
             "movies": [
                 {
-                    "id": 256744933,
-                    "name": "Over My Dead Pixel v1.0 Gameplay Trailer",
-                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256744933/movie.293x165.jpg?t=1552168518",
+                    "id": 256747783,
+                    "name": "Over My Dead Pixel Launch Trailer",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256747783/movie.293x165.jpg?t=1555033945",
                     "webm": {
-                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256744933/movie480.webm?t=1552168518",
-                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256744933/movie_max.webm?t=1552168518"
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256747783/movie480.webm?t=1555033945",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256747783/movie_max.webm?t=1555033945"
+                    },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256747783/movie480.mp4?t=1555033945",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256747783/movie_max.mp4?t=1555033945"
                     },
                     "highlight": true
                 }
             ],
+            "achievements": {
+                "total": 10,
+                "highlighted": [
+                    {
+                        "name": "Dead Pixel",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1039470/f2c5b90b6d81e8110389cc1cd9ead20cda092bdd.jpg"
+                    },
+                    {
+                        "name": "Overloaded",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1039470/018aa6294e52cca013b37f63f3b13cebf2a2415e.jpg"
+                    },
+                    {
+                        "name": "Null",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1039470/24fb36a77e9ef20b479c2ab9b9bb1cc447eeab3f.jpg"
+                    },
+                    {
+                        "name": "Critical",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1039470/4d6f14a0a878b1c469d26c5ba8378c1e27d6bdc3.jpg"
+                    },
+                    {
+                        "name": "Eye Strain",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1039470/f20cf1be6952916e8b96a429569adf6a4d79554e.jpg"
+                    },
+                    {
+                        "name": "Overclocked",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1039470/c7f5f23a16ef0802b93ee5aaae9f3ecd7b410142.jpg"
+                    },
+                    {
+                        "name": "Ray Tracing",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1039470/7858c5e95f563e029626698a0ae26108257e2ef7.jpg"
+                    },
+                    {
+                        "name": "Cycle",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1039470/3e0721982b9341f27d44a3f72255de424654acc1.jpg"
+                    },
+                    {
+                        "name": "Sweeper",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1039470/07eb704aa6d953e000ab629b94775cb90e0925bc.jpg"
+                    },
+                    {
+                        "name": "Geek",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1039470/71b33bd84158ee1268bf880bdbb8d8c303a122f9.jpg"
+                    }
+                ]
+            },
             "release_date": {
-                "coming_soon": true,
-                "date": "March 2019"
+                "coming_soon": false,
+                "date": "12 Apr, 2019"
             },
             "support_info": {
                 "url": "",
                 "email": "minoshdigitalcontact@gmail.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1039470/page_bg_generated_v6b.jpg?t=1553678350",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1039470/page_bg_generated_v6b.jpg?t=1555107384",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
