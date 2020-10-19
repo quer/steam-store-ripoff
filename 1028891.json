@@ -8,15 +8,15 @@
             "required_age": 0,
             "is_free": false,
             "controller_support": "full",
-            "detailed_description": "Make your presence known by stamping the Seal of Inquisition onto the ground with every step.<br />\r\n <br />\r\nThis DLC contains a cosmetic item: Seal of Inquisition Footprint.",
-            "about_the_game": "Make your presence known by stamping the Seal of Inquisition onto the ground with every step.<br />\r\n <br />\r\nThis DLC contains a cosmetic item: Seal of Inquisition Footprint.",
+            "detailed_description": "Make your presence known by stamping the Seal of Inquisition onto the ground with every step.<br />\r\n <br />\r\nThis DLC contains a cosmetic item: Seal of Inquisition Footprints.",
+            "about_the_game": "Make your presence known by stamping the Seal of Inquisition onto the ground with every step.<br />\r\n <br />\r\nThis DLC contains a cosmetic item: Seal of Inquisition Footprints.",
             "short_description": "Make your presence known by stamping the Seal of Inquisition onto the ground with every step. This DLC contains a cosmetic item: Seal of Inquisition Footprint.",
             "fullgame": {
                 "appid": "527430",
                 "name": "Warhammer 40,000: Inquisitor - Martyr"
             },
             "supported_languages": "English<strong>*</strong>, French, German, Spanish - Spain, Hungarian, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Japanese<br><strong>*</strong>languages with full audio support",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1028891/header.jpg?t=1553781314",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1028891/header.jpg?t=1571043492",
             "website": "https://neocoregames.com/en/games/warhammer-40k-inquisitor-martyr",
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 64-bit Windows 7+ (8 / 8.1 / 10)<br></li><li><strong>Processor:</strong> Intel CPU Core i3-2120 (3.3 GHz) / AMD CPU FX-6300 (3.5 GHz)<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GeForce GTX 760 (2 GB) / AMD Radeon HD 7850 (2 GB)<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 30 GB available space</li></ul>",
@@ -40,7 +40,8 @@
                 "final_formatted": "1,99€"
             },
             "packages": [
-                342072
+                342072,
+                411862
             ],
             "package_groups": [
                 {
@@ -54,13 +55,23 @@
                     "subs": [
                         {
                             "packageid": 342072,
-                            "percent_savings_text": "",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
                             "option_text": "Warhammer 40,000: Inquisitor - Martyr - Seal of Inquisition Footprints - 1,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
                             "price_in_cents_with_discount": 199
+                        },
+                        {
+                            "packageid": 411862,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "Warhammer 40,000: Inquisitor - Martyr Complete Collection - 79,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 7999
                         }
                     ]
                 }
@@ -81,7 +92,7 @@
                 },
                 {
                     "id": 36,
-                    "description": "Online Multi-Player"
+                    "description": "Online PvP"
                 },
                 {
                     "id": 9,
@@ -129,33 +140,30 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1028891/ss_9c7240a2d91c12563cd7210fb326733615d4dec1.600x338.jpg?t=1553781314",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1028891/ss_9c7240a2d91c12563cd7210fb326733615d4dec1.1920x1080.jpg?t=1553781314"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1028891/ss_9c7240a2d91c12563cd7210fb326733615d4dec1.600x338.jpg?t=1571043492",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1028891/ss_9c7240a2d91c12563cd7210fb326733615d4dec1.1920x1080.jpg?t=1571043492"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1028891/ss_175573a5b1ed28d943f6a5b1558d8755c014f830.600x338.jpg?t=1553781314",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1028891/ss_175573a5b1ed28d943f6a5b1558d8755c014f830.1920x1080.jpg?t=1553781314"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1028891/ss_175573a5b1ed28d943f6a5b1558d8755c014f830.600x338.jpg?t=1571043492",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1028891/ss_175573a5b1ed28d943f6a5b1558d8755c014f830.1920x1080.jpg?t=1571043492"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1028891/ss_53bfb56a197dfa0814f4d312f13f084e261e727a.600x338.jpg?t=1553781314",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1028891/ss_53bfb56a197dfa0814f4d312f13f084e261e727a.1920x1080.jpg?t=1553781314"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1028891/ss_53bfb56a197dfa0814f4d312f13f084e261e727a.600x338.jpg?t=1571043492",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1028891/ss_53bfb56a197dfa0814f4d312f13f084e261e727a.1920x1080.jpg?t=1571043492"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1028891/ss_7ebb564f86aae445c73f6f4c78dad1a380762fd4.600x338.jpg?t=1553781314",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1028891/ss_7ebb564f86aae445c73f6f4c78dad1a380762fd4.1920x1080.jpg?t=1553781314"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1028891/ss_7ebb564f86aae445c73f6f4c78dad1a380762fd4.600x338.jpg?t=1571043492",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1028891/ss_7ebb564f86aae445c73f6f4c78dad1a380762fd4.1920x1080.jpg?t=1571043492"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1028891/ss_c66948723fd774b9bd3e03245d5576f72146b234.600x338.jpg?t=1553781314",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1028891/ss_c66948723fd774b9bd3e03245d5576f72146b234.1920x1080.jpg?t=1553781314"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1028891/ss_c66948723fd774b9bd3e03245d5576f72146b234.600x338.jpg?t=1571043492",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1028891/ss_c66948723fd774b9bd3e03245d5576f72146b234.1920x1080.jpg?t=1571043492"
                 }
             ],
-            "achievements": {
-                "total": 0
-            },
             "release_date": {
                 "coming_soon": false,
                 "date": "28 Mar, 2019"
@@ -164,7 +172,7 @@
                 "url": "https://neocoregames.com/en/community/hub?game=warhammer-40k",
                 "email": "support@neocoregames.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1028891/page_bg_generated_v6b.jpg?t=1553781314",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1028891/page_bg_generated_v6b.jpg?t=1571043492",
             "content_descriptors": {
                 "ids": [
                     2,
