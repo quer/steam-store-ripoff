@@ -15,17 +15,17 @@
                 "name": "Monads"
             },
             "supported_languages": "Korean, English",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1017280/header.jpg?t=1552980331",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1017280/header.jpg?t=1574794541",
             "website": null,
             "pc_requirements": {
-                "minimum": "<strong>最低:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP SP2 or higher<br></li><li><strong>プロセッサー:</strong> Any processor w/ SSE2 instruction set support<br></li><li><strong>メモリー:</strong> 512 MB RAM<br></li><li><strong>グラフィック:</strong> Any graphic processor w/ DirectX 9.0c(shader model 3.0) capabilities<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>ストレージ:</strong> 200 MB 利用可能</li></ul>",
-                "recommended": "<strong>推奨:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 / 8 / 8.1 / 10<br></li><li><strong>プロセッサー:</strong> Any processor w/ SSE2 instruction set support<br></li><li><strong>メモリー:</strong> 1 GB RAM<br></li><li><strong>グラフィック:</strong> Any graphic processor w/ DirectX 11(feature level 9_3) capabilities<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>ストレージ:</strong> 1 GB 利用可能</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP SP2 or higher<br></li><li><strong>Processor:</strong> Any processor w/ SSE2 instruction set support<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> Any graphic processor w/ DirectX 9.0c(shader model 3.0) capabilities<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 / 8 / 8.1 / 10<br></li><li><strong>Processor:</strong> Any processor w/ SSE2 instruction set support<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> Any graphic processor w/ DirectX 11(feature level 9_3) capabilities<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
             },
             "mac_requirements": [],
             "linux_requirements": [],
             "legal_notice": "© Team Monads. All rights reserved. Distributed by PsychoFlux Entertainment.",
             "developers": [
-                "Team Monads"
+                "Team Monad"
             ],
             "publishers": [
                 "PsychoFlux Entertainment"
@@ -33,7 +33,7 @@
             "package_groups": [],
             "platforms": {
                 "windows": true,
-                "mac": false,
+                "mac": true,
                 "linux": false
             },
             "categories": [
@@ -63,48 +63,45 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1017280/ss_cad3ba44168f4c4995420f0e25be7fff694410d6.600x338.jpg?t=1552980331",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1017280/ss_cad3ba44168f4c4995420f0e25be7fff694410d6.1920x1080.jpg?t=1552980331"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1017280/ss_cad3ba44168f4c4995420f0e25be7fff694410d6.600x338.jpg?t=1574794541",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1017280/ss_cad3ba44168f4c4995420f0e25be7fff694410d6.1920x1080.jpg?t=1574794541"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1017280/ss_11ca1864749207eedcc3d89eaff79fec11b8f130.600x338.jpg?t=1552980331",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1017280/ss_11ca1864749207eedcc3d89eaff79fec11b8f130.1920x1080.jpg?t=1552980331"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1017280/ss_11ca1864749207eedcc3d89eaff79fec11b8f130.600x338.jpg?t=1574794541",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1017280/ss_11ca1864749207eedcc3d89eaff79fec11b8f130.1920x1080.jpg?t=1574794541"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1017280/ss_7f6d28360deec24ab683433636d99df5bdbfa7e2.600x338.jpg?t=1552980331",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1017280/ss_7f6d28360deec24ab683433636d99df5bdbfa7e2.1920x1080.jpg?t=1552980331"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1017280/ss_7f6d28360deec24ab683433636d99df5bdbfa7e2.600x338.jpg?t=1574794541",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1017280/ss_7f6d28360deec24ab683433636d99df5bdbfa7e2.1920x1080.jpg?t=1574794541"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1017280/ss_07ba5c6ec652e0c524decac496bff7603f3e0d77.600x338.jpg?t=1552980331",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1017280/ss_07ba5c6ec652e0c524decac496bff7603f3e0d77.1920x1080.jpg?t=1552980331"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1017280/ss_07ba5c6ec652e0c524decac496bff7603f3e0d77.600x338.jpg?t=1574794541",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1017280/ss_07ba5c6ec652e0c524decac496bff7603f3e0d77.1920x1080.jpg?t=1574794541"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1017280/ss_1abbc7409c38e09d6c92c077d5d6706a30dfe279.600x338.jpg?t=1552980331",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1017280/ss_1abbc7409c38e09d6c92c077d5d6706a30dfe279.1920x1080.jpg?t=1552980331"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1017280/ss_1abbc7409c38e09d6c92c077d5d6706a30dfe279.600x338.jpg?t=1574794541",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1017280/ss_1abbc7409c38e09d6c92c077d5d6706a30dfe279.1920x1080.jpg?t=1574794541"
                 },
                 {
                     "id": 5,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1017280/ss_725158fcd2b37f11f7eab48236c26cb65e4c6f4e.600x338.jpg?t=1552980331",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1017280/ss_725158fcd2b37f11f7eab48236c26cb65e4c6f4e.1920x1080.jpg?t=1552980331"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1017280/ss_725158fcd2b37f11f7eab48236c26cb65e4c6f4e.600x338.jpg?t=1574794541",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1017280/ss_725158fcd2b37f11f7eab48236c26cb65e4c6f4e.1920x1080.jpg?t=1574794541"
                 },
                 {
                     "id": 6,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1017280/ss_1aa496218a04480d1bead622a8d4602ae5c32880.600x338.jpg?t=1552980331",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1017280/ss_1aa496218a04480d1bead622a8d4602ae5c32880.1920x1080.jpg?t=1552980331"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1017280/ss_1aa496218a04480d1bead622a8d4602ae5c32880.600x338.jpg?t=1574794541",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1017280/ss_1aa496218a04480d1bead622a8d4602ae5c32880.1920x1080.jpg?t=1574794541"
                 },
                 {
                     "id": 7,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1017280/ss_aff07fb68a233302187ee0015401ff10a8ee0770.600x338.jpg?t=1552980331",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1017280/ss_aff07fb68a233302187ee0015401ff10a8ee0770.1920x1080.jpg?t=1552980331"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1017280/ss_aff07fb68a233302187ee0015401ff10a8ee0770.600x338.jpg?t=1574794541",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1017280/ss_aff07fb68a233302187ee0015401ff10a8ee0770.1920x1080.jpg?t=1574794541"
                 }
             ],
-            "achievements": {
-                "total": 0
-            },
             "release_date": {
                 "coming_soon": false,
                 "date": "17 Jan, 2019"
@@ -113,7 +110,7 @@
                 "url": "http://www.psychoflux.com/",
                 "email": "contact@psychoflux.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1017280/page_bg_generated_v6b.jpg?t=1552980331",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1017280/page_bg_generated_v6b.jpg?t=1574794541",
             "content_descriptors": {
                 "ids": [],
                 "notes": null

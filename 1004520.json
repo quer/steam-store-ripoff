@@ -8,18 +8,20 @@
             "required_age": 0,
             "is_free": false,
             "controller_support": "full",
-            "detailed_description": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/1004520/extras/jb_jump.png?t=1579942018\" ><br><br>Jellybean is lost in a strange world beneath the surface, and Pleasant and Tom must find him and bring him home. This bite-sized RPG features a unique RTTB (real-time turn-based) battle system where speed and skill count. Team up with underworld characters to rescue your curious pooch from fiendish and overly friendly foes.",
-            "about_the_game": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/1004520/extras/jb_jump.png?t=1579942018\" ><br><br>Jellybean is lost in a strange world beneath the surface, and Pleasant and Tom must find him and bring him home. This bite-sized RPG features a unique RTTB (real-time turn-based) battle system where speed and skill count. Team up with underworld characters to rescue your curious pooch from fiendish and overly friendly foes.",
-            "short_description": "Jellybean is lost in a strange world beneath the surface, and Pleasant and Tom must find him and bring him home.",
+            "detailed_description": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/1004520/extras/jb_jump.png?t=1597846492\" /><br><br>Jellybean is lost in a strange world beneath the surface, and Pleasant and Tom must find him and bring him home. This bite-sized RPG features a unique RTTB (real-time turn-based) battle system where speed and skill count. Team up with underworld characters to rescue your curious pooch from fiendish and overly friendly foes.",
+            "about_the_game": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/1004520/extras/jb_jump.png?t=1597846492\" /><br><br>Jellybean is lost in a strange world beneath the surface, and Pleasant and Tom must find him and bring him home. This bite-sized RPG features a unique RTTB (real-time turn-based) battle system where speed and skill count. Team up with underworld characters to rescue your curious pooch from fiendish and overly friendly foes.",
+            "short_description": "Recover your beloved dog, Jellybean, from a strange world in this action/JRPG combo!",
             "supported_languages": "English, French",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1004520/header.jpg?t=1579942018",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1004520/header.jpg?t=1597846492",
             "website": "https://nooskewl.ca/dog-o",
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7+<br></li><li><strong>Processor:</strong> Intel Atom Z3745<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD (Bay Trail)<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 10 MB available space<br></li><li><strong>Additional Notes:</strong> 1280x720 minimum</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7+<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 10 MB available space</li></ul>"
             },
-            "mac_requirements": [],
+            "mac_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> macOS 10.11+<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD<br></li><li><strong>Storage:</strong> 10 MB available space</li></ul>"
+            },
             "linux_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 18.04+<br></li><li><strong>Processor:</strong> Intel Atom Z3745<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD (Bay Trail)<br></li><li><strong>Storage:</strong> 10 MB available space<br></li><li><strong>Additional Notes:</strong> 1280x720 minimum</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD<br></li><li><strong>Storage:</strong> 10 MB available space</li></ul>"
             },
             "legal_notice": "© 2020 Nooskewl",
             "developers": [
@@ -28,10 +30,16 @@
             "publishers": [
                 "Nooskewl"
             ],
+            "demos": [
+                {
+                    "appid": 1292580,
+                    "description": ""
+                }
+            ],
             "package_groups": [],
             "platforms": {
                 "windows": true,
-                "mac": false,
+                "mac": true,
                 "linux": true
             },
             "categories": [
@@ -85,56 +93,55 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1004520/ss_e45a7a0cac17357a81753be947a8545dc63edfb7.600x338.jpg?t=1579942018",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1004520/ss_e45a7a0cac17357a81753be947a8545dc63edfb7.1920x1080.jpg?t=1579942018"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1004520/ss_e45a7a0cac17357a81753be947a8545dc63edfb7.600x338.jpg?t=1597846492",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1004520/ss_e45a7a0cac17357a81753be947a8545dc63edfb7.1920x1080.jpg?t=1597846492"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1004520/ss_de046b293e9bc309efc613ad55c0e4917a8e7b58.600x338.jpg?t=1579942018",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1004520/ss_de046b293e9bc309efc613ad55c0e4917a8e7b58.1920x1080.jpg?t=1579942018"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1004520/ss_de046b293e9bc309efc613ad55c0e4917a8e7b58.600x338.jpg?t=1597846492",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1004520/ss_de046b293e9bc309efc613ad55c0e4917a8e7b58.1920x1080.jpg?t=1597846492"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1004520/ss_b478a599ef701dc8774dba0e89d131a0810db7e7.600x338.jpg?t=1579942018",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1004520/ss_b478a599ef701dc8774dba0e89d131a0810db7e7.1920x1080.jpg?t=1579942018"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1004520/ss_8310e4a33f39ca58de1ef06dbd04fca87a92804c.600x338.jpg?t=1597846492",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1004520/ss_8310e4a33f39ca58de1ef06dbd04fca87a92804c.1920x1080.jpg?t=1597846492"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1004520/ss_8310e4a33f39ca58de1ef06dbd04fca87a92804c.600x338.jpg?t=1579942018",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1004520/ss_8310e4a33f39ca58de1ef06dbd04fca87a92804c.1920x1080.jpg?t=1579942018"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1004520/ss_370a9a09a06a1a3aa7a5a57f3b226cfcbebbb982.600x338.jpg?t=1597846492",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1004520/ss_370a9a09a06a1a3aa7a5a57f3b226cfcbebbb982.1920x1080.jpg?t=1597846492"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1004520/ss_370a9a09a06a1a3aa7a5a57f3b226cfcbebbb982.600x338.jpg?t=1579942018",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1004520/ss_370a9a09a06a1a3aa7a5a57f3b226cfcbebbb982.1920x1080.jpg?t=1579942018"
-                },
-                {
-                    "id": 5,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1004520/ss_6432c9c8826731d24a3c333df5e14b119a92e697.600x338.jpg?t=1579942018",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1004520/ss_6432c9c8826731d24a3c333df5e14b119a92e697.1920x1080.jpg?t=1579942018"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1004520/ss_6432c9c8826731d24a3c333df5e14b119a92e697.600x338.jpg?t=1597846492",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1004520/ss_6432c9c8826731d24a3c333df5e14b119a92e697.1920x1080.jpg?t=1597846492"
                 }
             ],
             "movies": [
                 {
-                    "id": 256773330,
-                    "name": "Quick Look",
-                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256773330/movie.293x165.jpg?t=1579942013",
+                    "id": 256776165,
+                    "name": "Pre-Trailer",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256776165/movie.293x165.jpg?t=1582598262",
                     "webm": {
-                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256773330/movie480.webm?t=1579942013",
-                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256773330/movie_max.webm?t=1579942013"
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256776165/movie480.webm?t=1582598262",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256776165/movie_max.webm?t=1582598262"
+                    },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256776165/movie480.mp4?t=1582598262",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256776165/movie_max.mp4?t=1582598262"
                     },
                     "highlight": true
                 }
             ],
             "release_date": {
                 "coming_soon": true,
-                "date": "2020"
+                "date": "Late 2020/early 2021"
             },
             "support_info": {
                 "url": "https://nooskewl.ca/contact",
                 "email": "contact@nooskewl.ca"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1004520/page_bg_generated_v6b.jpg?t=1579942018",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1004520/page_bg_generated_v6b.jpg?t=1597846492",
             "content_descriptors": {
                 "ids": [],
                 "notes": null

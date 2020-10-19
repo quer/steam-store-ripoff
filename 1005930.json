@@ -3,18 +3,20 @@
         "success": true,
         "data": {
             "type": "game",
-            "name": "Timeflow – Time and Money Simulator",
+            "name": "Timeflow – Time & Money Sim",
             "steam_appid": 1005930,
             "required_age": 0,
             "is_free": false,
             "dlc": [
-                1184200
+                1184200,
+                1284500
             ],
-            "detailed_description": "“Timeflow” is an educational game that teaches you the basics of investing and time-management.<br />\r\n<br />\r\nYou can make a career, buy real estate, run business, be a blogger, play on a stock market, get additional education, network, and carefully plan your time for all of it. <br />\r\n<br />\r\nYour final goal is to make the dream of your life come true, having enough money saved on your bank account, by creating a passive income to cover your needs and expenses.<br />\r\n<br />\r\nThe project was first released in 2015 and it was downloaded over 12,000 times since then. We constantly update the project by requests and ideas of our users.<br />\r\n<br />\r\nPlease submit any questions to our email or the community forum in Steam.",
-            "about_the_game": "“Timeflow” is an educational game that teaches you the basics of investing and time-management.<br />\r\n<br />\r\nYou can make a career, buy real estate, run business, be a blogger, play on a stock market, get additional education, network, and carefully plan your time for all of it. <br />\r\n<br />\r\nYour final goal is to make the dream of your life come true, having enough money saved on your bank account, by creating a passive income to cover your needs and expenses.<br />\r\n<br />\r\nThe project was first released in 2015 and it was downloaded over 12,000 times since then. We constantly update the project by requests and ideas of our users.<br />\r\n<br />\r\nPlease submit any questions to our email or the community forum in Steam.",
-            "short_description": "Learn how to turn your time into money. Investment basics meet time management. Your goal is to make your life time dream come true. You can make a career, buy real estate, run business, play on a stock market, even become a blogger or make a fortune on an art market.",
+            "detailed_description": "*** Over 70,000 downloads across all platforms!<br />\r\n+++ Free mobile version if you leave a review and send a screenshot to support@timeflow.ru<br />\r\n<br />\r\nFind your own best personal investing strategy! You can make a career, freelance, run business, invest in real estate, trade stocks, get additional education, network.<br />\r\n<br />\r\nWhile doing that, become a better version of yourself. Maintain the life/work balance. Grow your family. Get rid of bad habits. Avoid common financial mistakes. Overcome your unnecessary desires. Help your parents. Do sports. Donate to charity. But don't get yourself too comfortable, you have to win until you retire!<br />\r\n<br />\r\nYour game goal is to achieve financial freedom and make the dream of your life come true! <br />\r\n<br />\r\nRemember, you just can't do everything! You have to invest your time the same way you invest your money! Study time management and organize your plans accordingly, choosing what's important and what's not.<br />\r\n<br />\r\nTimeflow is based on the best financial education books and business simulators such as Monopoly, Cashflow 101, Payday, Tycoon, and others by such authors as Robert Kiyosaki, Steven Covey, Richard Branson, Brian Tracy.<br />\r\n<br />\r\nPlease submit any questions to support@timeflow.ru or our forum",
+            "about_the_game": "*** Over 70,000 downloads across all platforms!<br />\r\n+++ Free mobile version if you leave a review and send a screenshot to support@timeflow.ru<br />\r\n<br />\r\nFind your own best personal investing strategy! You can make a career, freelance, run business, invest in real estate, trade stocks, get additional education, network.<br />\r\n<br />\r\nWhile doing that, become a better version of yourself. Maintain the life/work balance. Grow your family. Get rid of bad habits. Avoid common financial mistakes. Overcome your unnecessary desires. Help your parents. Do sports. Donate to charity. But don't get yourself too comfortable, you have to win until you retire!<br />\r\n<br />\r\nYour game goal is to achieve financial freedom and make the dream of your life come true! <br />\r\n<br />\r\nRemember, you just can't do everything! You have to invest your time the same way you invest your money! Study time management and organize your plans accordingly, choosing what's important and what's not.<br />\r\n<br />\r\nTimeflow is based on the best financial education books and business simulators such as Monopoly, Cashflow 101, Payday, Tycoon, and others by such authors as Robert Kiyosaki, Steven Covey, Richard Branson, Brian Tracy.<br />\r\n<br />\r\nPlease submit any questions to support@timeflow.ru or our forum",
+            "short_description": "Learn how to turn your time into money. Investment basics meet time management. Your goal is to make your dream come true. You can make a career, buy real estate, run business, trade stocks, become a blogger, or make a fortune on an art market. Study, network, and plan your time for all of it.",
             "supported_languages": "English, Russian",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1005930/header.jpg?t=1575036802",
+            "reviews": "“Timeflow forces you to reckon with your own miserable budget”<br><a href=\"https://www.rockpapershotgun.com/2019/02/05/timeflow-review-early-access/#comments\" target=\"_blank\" rel=\"noreferrer\"  >Rock Paper Shotgun</a><br>",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1005930/header.jpg?t=1595718499",
             "website": null,
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 or higher<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>"
@@ -46,7 +48,7 @@
             "package_groups": [
                 {
                     "name": "default",
-                    "title": "Buy Timeflow – Time and Money Simulator",
+                    "title": "Buy Timeflow – Time & Money Sim",
                     "description": "",
                     "selection_text": "Select a purchase option",
                     "save_text": "",
@@ -55,7 +57,7 @@
                     "subs": [
                         {
                             "packageid": 332667,
-                            "percent_savings_text": "",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
                             "option_text": "Timeflow - 8,19€",
                             "option_description": "",
@@ -93,6 +95,14 @@
                     "description": "Shared/Split Screen"
                 },
                 {
+                    "id": 22,
+                    "description": "Steam Achievements"
+                },
+                {
+                    "id": 35,
+                    "description": "In-App Purchases"
+                },
+                {
                     "id": 23,
                     "description": "Steam Cloud"
                 },
@@ -126,53 +136,53 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1005930/ss_5c97c4dedcc9d6c6ae5201844c02262379465103.600x338.jpg?t=1575036802",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1005930/ss_5c97c4dedcc9d6c6ae5201844c02262379465103.1920x1080.jpg?t=1575036802"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1005930/ss_5c97c4dedcc9d6c6ae5201844c02262379465103.600x338.jpg?t=1595718499",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1005930/ss_5c97c4dedcc9d6c6ae5201844c02262379465103.1920x1080.jpg?t=1595718499"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1005930/ss_2360a96a76e14b7cb64eb5cc40220c5ae51160a2.600x338.jpg?t=1575036802",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1005930/ss_2360a96a76e14b7cb64eb5cc40220c5ae51160a2.1920x1080.jpg?t=1575036802"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1005930/ss_2360a96a76e14b7cb64eb5cc40220c5ae51160a2.600x338.jpg?t=1595718499",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1005930/ss_2360a96a76e14b7cb64eb5cc40220c5ae51160a2.1920x1080.jpg?t=1595718499"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1005930/ss_5af959099fac4b65d19f50694f894404283dad95.600x338.jpg?t=1575036802",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1005930/ss_5af959099fac4b65d19f50694f894404283dad95.1920x1080.jpg?t=1575036802"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1005930/ss_5af959099fac4b65d19f50694f894404283dad95.600x338.jpg?t=1595718499",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1005930/ss_5af959099fac4b65d19f50694f894404283dad95.1920x1080.jpg?t=1595718499"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1005930/ss_3ef53f7716ac68f227f94622f2625e2242ed4e32.600x338.jpg?t=1575036802",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1005930/ss_3ef53f7716ac68f227f94622f2625e2242ed4e32.1920x1080.jpg?t=1575036802"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1005930/ss_3ef53f7716ac68f227f94622f2625e2242ed4e32.600x338.jpg?t=1595718499",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1005930/ss_3ef53f7716ac68f227f94622f2625e2242ed4e32.1920x1080.jpg?t=1595718499"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1005930/ss_8bde56cf965b026fa438b4fa14ebb32b51f4f097.600x338.jpg?t=1575036802",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1005930/ss_8bde56cf965b026fa438b4fa14ebb32b51f4f097.1920x1080.jpg?t=1575036802"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1005930/ss_8bde56cf965b026fa438b4fa14ebb32b51f4f097.600x338.jpg?t=1595718499",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1005930/ss_8bde56cf965b026fa438b4fa14ebb32b51f4f097.1920x1080.jpg?t=1595718499"
                 },
                 {
                     "id": 5,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1005930/ss_83ca41c5191aaeff09bb39ac17f2bd1898af9f30.600x338.jpg?t=1575036802",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1005930/ss_83ca41c5191aaeff09bb39ac17f2bd1898af9f30.1920x1080.jpg?t=1575036802"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1005930/ss_83ca41c5191aaeff09bb39ac17f2bd1898af9f30.600x338.jpg?t=1595718499",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1005930/ss_83ca41c5191aaeff09bb39ac17f2bd1898af9f30.1920x1080.jpg?t=1595718499"
                 },
                 {
                     "id": 6,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1005930/ss_f23982ee86630e27d3c9f897f6e1fb9e4fe4ec61.600x338.jpg?t=1575036802",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1005930/ss_f23982ee86630e27d3c9f897f6e1fb9e4fe4ec61.1920x1080.jpg?t=1575036802"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1005930/ss_f23982ee86630e27d3c9f897f6e1fb9e4fe4ec61.600x338.jpg?t=1595718499",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1005930/ss_f23982ee86630e27d3c9f897f6e1fb9e4fe4ec61.1920x1080.jpg?t=1595718499"
                 },
                 {
                     "id": 7,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1005930/ss_524cd8ce20a2241c491c0a14e2c3019512f17ed4.600x338.jpg?t=1575036802",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1005930/ss_524cd8ce20a2241c491c0a14e2c3019512f17ed4.1920x1080.jpg?t=1575036802"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1005930/ss_524cd8ce20a2241c491c0a14e2c3019512f17ed4.600x338.jpg?t=1595718499",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1005930/ss_524cd8ce20a2241c491c0a14e2c3019512f17ed4.1920x1080.jpg?t=1595718499"
                 },
                 {
                     "id": 8,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1005930/ss_c2b9c312c007abb22b5be5bb0fab5abfa6467a5e.600x338.jpg?t=1575036802",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1005930/ss_c2b9c312c007abb22b5be5bb0fab5abfa6467a5e.1920x1080.jpg?t=1575036802"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1005930/ss_c2b9c312c007abb22b5be5bb0fab5abfa6467a5e.600x338.jpg?t=1595718499",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1005930/ss_c2b9c312c007abb22b5be5bb0fab5abfa6467a5e.1920x1080.jpg?t=1595718499"
                 },
                 {
                     "id": 9,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1005930/ss_37722c3a0252dec17a1af3346d8fd194eaf30446.600x338.jpg?t=1575036802",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1005930/ss_37722c3a0252dec17a1af3346d8fd194eaf30446.1920x1080.jpg?t=1575036802"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1005930/ss_37722c3a0252dec17a1af3346d8fd194eaf30446.600x338.jpg?t=1595718499",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1005930/ss_37722c3a0252dec17a1af3346d8fd194eaf30446.1920x1080.jpg?t=1595718499"
                 }
             ],
             "movies": [
@@ -184,14 +194,18 @@
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/256740111/movie480.webm?t=1547875728",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/256740111/movie_max.webm?t=1547875728"
                     },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256740111/movie480.mp4?t=1547875728",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256740111/movie_max.mp4?t=1547875728"
+                    },
                     "highlight": true
                 }
             ],
             "recommendations": {
-                "total": 363
+                "total": 609
             },
             "achievements": {
-                "total": 104,
+                "total": 103,
                 "highlighted": [
                     {
                         "name": "Start low...",
@@ -237,13 +251,13 @@
             },
             "release_date": {
                 "coming_soon": false,
-                "date": "18 Jan, 2019"
+                "date": "Jan 2019"
             },
             "support_info": {
                 "url": "http://timeflow.info/wiki",
                 "email": "support@timeflow.ru"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1005930/page_bg_generated_v6b.jpg?t=1575036802",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1005930/page_bg_generated_v6b.jpg?t=1595718499",
             "content_descriptors": {
                 "ids": [],
                 "notes": null

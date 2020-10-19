@@ -16,20 +16,26 @@
                 "name": "Warhammer: Chaosbane"
             },
             "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Simplified Chinese, Traditional Chinese, Korean, Spanish - Latin America, Japanese, Polish, Portuguese, Portuguese - Brazil, Russian<br><strong>*</strong>languages with full audio support",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1004912/header.jpg?t=1576655631",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1004912/header.jpg?t=1599205462",
             "website": "https://www.facebook.com/WarhammerChaosbane/",
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows® 7 64bits<br></li><li><strong>Processor:</strong> Intel Core i3-540 or AMD Phenom II X4 940<br></li><li><strong>Memory:</strong> 4 MB RAM<br></li><li><strong>Graphics:</strong> Nvidia GeForce GTX 560 or AMD Radeon HD 6870<br></li><li><strong>Storage:</strong> 20 MB available space<br></li><li><strong>Sound Card:</strong> DirectX Compatible Soundcard<br></li><li><strong>Additional Notes:</strong> 64bit Only</li></ul>",
-                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows® 10 64bits<br></li><li><strong>Processor:</strong> Intel Core i7-3770 or AMD FX-8350<br></li><li><strong>Memory:</strong> 8 MB RAM<br></li><li><strong>Graphics:</strong> Nvidia GTX 780 or AMD R9 290<br></li><li><strong>Storage:</strong> 20 MB available space<br></li><li><strong>Sound Card:</strong> DirectX Compatible Soundcard<br></li><li><strong>Additional Notes:</strong> 64bit Only</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows® 7 64bits<br></li><li><strong>Processor:</strong> Intel Core i3-540 or AMD Phenom II X4 940<br></li><li><strong>Memory:</strong> 4 MB RAM<br></li><li><strong>Graphics:</strong> Nvidia GeForce GTX 560 or AMD Radeon HD 6870<br></li><li><strong>Storage:</strong> 20 MB available space<br></li><li><strong>Sound Card:</strong> DirectX Compatible Soundcard<br></li><li><strong>Additional Notes:</strong> 64bit Only</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows® 10 64bits<br></li><li><strong>Processor:</strong> Intel Core i7-3770 or AMD FX-8350<br></li><li><strong>Memory:</strong> 8 MB RAM<br></li><li><strong>Graphics:</strong> Nvidia GTX 780 or AMD R9 290<br></li><li><strong>Storage:</strong> 20 MB available space<br></li><li><strong>Sound Card:</strong> DirectX Compatible Soundcard<br></li><li><strong>Additional Notes:</strong> 64bit Only</li></ul>"
             },
-            "mac_requirements": [],
-            "linux_requirements": [],
+            "mac_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+            },
+            "linux_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+            },
             "legal_notice": "Warhammer: Chaosbane © Copyright Games Workshop Limited 2018. Chaosbane, the Chaosbane logo, GW, Games Workshop, Warhammer, The Game of Fantasy Battles, the twin-tailed comet logo, and all associated logos, illustrations, images, names, creatures, races, vehicles, locations, weapons, characters, and the distinctive likeness thereof, are either ® or TM, and/or © Games Workshop Limited, variably registered around the world, and used under licence. Published by Bigben Interactive and developed by Eko Software. All rights reserved to their respective owners.",
             "developers": [
                 "Eko Software"
             ],
             "publishers": [
-                ""
+                "Nacon"
             ],
             "price_overview": {
                 "currency": "EUR",
@@ -54,7 +60,7 @@
                     "subs": [
                         {
                             "packageid": 332274,
-                            "percent_savings_text": "",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
                             "option_text": "Warhammer Chaosbane - Gold Boost - 4,99€",
                             "option_description": "",
@@ -114,6 +120,10 @@
                 {
                     "id": 28,
                     "description": "Full controller support"
+                },
+                {
+                    "id": 23,
+                    "description": "Steam Cloud"
                 }
             ],
             "genres": [
@@ -133,22 +143,19 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1004912/ss_c4dc93635954b545d18c5757ba30ce67d8b9c2a3.600x338.jpg?t=1576655631",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1004912/ss_c4dc93635954b545d18c5757ba30ce67d8b9c2a3.1920x1080.jpg?t=1576655631"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1004912/ss_aab45c4e816d81ea57fde1d0b17e72bbbf69620a.600x338.jpg?t=1599205462",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1004912/ss_aab45c4e816d81ea57fde1d0b17e72bbbf69620a.1920x1080.jpg?t=1599205462"
                 }
             ],
-            "achievements": {
-                "total": 0
-            },
             "release_date": {
                 "coming_soon": false,
                 "date": "31 May, 2019"
             },
             "support_info": {
                 "url": "",
-                "email": "hotline@bigben.fr"
+                "email": "support@nacon.fr"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1004912/page_bg_generated_v6b.jpg?t=1576655631",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1004912/page_bg_generated_v6b.jpg?t=1599205462",
             "content_descriptors": {
                 "ids": [],
                 "notes": null

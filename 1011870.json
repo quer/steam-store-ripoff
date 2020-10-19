@@ -3,29 +3,62 @@
         "success": true,
         "data": {
             "type": "game",
-            "name": "萌盟大冒险 Cute Adventure",
+            "name": "萌盟大冒险 Men adventure",
             "steam_appid": 1011870,
             "required_age": 0,
             "is_free": false,
-            "detailed_description": "The game is still in early development and is currently complete: city of liberty - salvation star. We are still working on the game system, making distinctive characters and weapons, repairing and improving levels, and planning the next level. Please continue to pay attention, I will launch the beta version as soon as possible, thank you for your support!",
-            "about_the_game": "The game is still in early development and is currently complete: city of liberty - salvation star. We are still working on the game system, making distinctive characters and weapons, repairing and improving levels, and planning the next level. Please continue to pay attention, I will launch the beta version as soon as possible, thank you for your support!",
-            "short_description": "萌盟大冒险 Cute Adventure，is a multiplayer shoot game。Players will control the vibrant young characters, bring their own weapons to travel around adventure, defeat evil forces, maintain justice.Games are casual shooting games, I believe you can have fun!",
-            "supported_languages": "English, Simplified Chinese",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1011870/header.jpg?t=1552185283",
+            "detailed_description": "The game will continue to grow and optimize.Many connoisseurs around the world have recommended this game.<br />\r\n<br />\r\n<br />\r\nOpenworld island that can challenge 9 monsters and extra season of the game map gameplay: liberty city rescue goddess<br />\r\n<br />\r\n<br />\r\nCurrently supports up to 4 players online or single player games<br />\r\n<br />\r\n<br />\r\n<br />\r\nThank you for your support!，have FUN ！！！",
+            "about_the_game": "The game will continue to grow and optimize.Many connoisseurs around the world have recommended this game.<br />\r\n<br />\r\n<br />\r\nOpenworld island that can challenge 9 monsters and extra season of the game map gameplay: liberty city rescue goddess<br />\r\n<br />\r\n<br />\r\nCurrently supports up to 4 players online or single player games<br />\r\n<br />\r\n<br />\r\n<br />\r\nThank you for your support!，have FUN ！！！",
+            "short_description": "Cute Adventure,is a multiplayer shoot casual game。Players will control the vibrant young characters, bring their own weapons to defeat evil forces, maintain justice.",
+            "supported_languages": "English, Simplified Chinese, French, German, Russian, Japanese, Korean, Italian, Spanish - Spain, Traditional Chinese",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1011870/header.jpg?t=1599915594",
             "website": null,
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> win7（32bit）<br></li><li><strong>Processor:</strong> inter core i5<br></li><li><strong>Memory:</strong> 5 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GTX 1050<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 6 GB available space</li></ul>",
-                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> win7 （64bit）<br></li><li><strong>Processor:</strong> inter core i7<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GTX 1050TI<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 6 GB available space</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> win7（32bit）<br></li><li><strong>Processor:</strong> intel core i5<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GTX 750ti<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 3.5 GB available space</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> win 10 （64bit）<br></li><li><strong>Processor:</strong> intel core i7<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GTX 1050TI<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 3.5 GB available space</li></ul>"
             },
             "mac_requirements": [],
             "linux_requirements": [],
             "developers": [
-                "XFGames"
+                "mo yygames"
             ],
             "publishers": [
-                "XFGames"
+                "mo yygames"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 1499,
+                "final": 1499,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "14,99€"
+            },
+            "packages": [
+                335102
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy 萌盟大冒险 Men adventure",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 335102,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "萌盟大冒险 Cute Adventure - 14,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 1499
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": false,
@@ -39,9 +72,29 @@
                 {
                     "id": 1,
                     "description": "Multi-player"
+                },
+                {
+                    "id": 9,
+                    "description": "Co-op"
+                },
+                {
+                    "id": 38,
+                    "description": "Online Co-op"
+                },
+                {
+                    "id": 18,
+                    "description": "Partial Controller Support"
+                },
+                {
+                    "id": 23,
+                    "description": "Steam Cloud"
                 }
             ],
             "genres": [
+                {
+                    "id": "1",
+                    "description": "Action"
+                },
                 {
                     "id": "25",
                     "description": "Adventure"
@@ -58,56 +111,90 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1011870/ss_303b74992346893637c572d6fb004fa771caf3eb.600x338.jpg?t=1552185283",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1011870/ss_303b74992346893637c572d6fb004fa771caf3eb.1920x1080.jpg?t=1552185283"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1011870/ss_2b10f89a2909e0b5122abfd37ac670bdc92e7497.600x338.jpg?t=1599915594",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1011870/ss_2b10f89a2909e0b5122abfd37ac670bdc92e7497.1920x1080.jpg?t=1599915594"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1011870/ss_cc15d1f49486261f1b42144ee514d57bf8f9d4b5.600x338.jpg?t=1552185283",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1011870/ss_cc15d1f49486261f1b42144ee514d57bf8f9d4b5.1920x1080.jpg?t=1552185283"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1011870/ss_8a72781efb79b39c0fcfa99e82085c07b16cd8ff.600x338.jpg?t=1599915594",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1011870/ss_8a72781efb79b39c0fcfa99e82085c07b16cd8ff.1920x1080.jpg?t=1599915594"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1011870/ss_ea2ea7952f2f40ac9d0bb5e1a16e0a7314e4ab40.600x338.jpg?t=1552185283",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1011870/ss_ea2ea7952f2f40ac9d0bb5e1a16e0a7314e4ab40.1920x1080.jpg?t=1552185283"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1011870/ss_5fc2c5f75c0fd974e0a2e4c1efb0d9954498fb9c.600x338.jpg?t=1599915594",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1011870/ss_5fc2c5f75c0fd974e0a2e4c1efb0d9954498fb9c.1920x1080.jpg?t=1599915594"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1011870/ss_979844b6f39eb6c16bfb53b47d04ac4fc65468ad.600x338.jpg?t=1552185283",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1011870/ss_979844b6f39eb6c16bfb53b47d04ac4fc65468ad.1920x1080.jpg?t=1552185283"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1011870/ss_b2021aa48a446f34b65b1810e5ace4d510a3ec35.600x338.jpg?t=1599915594",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1011870/ss_b2021aa48a446f34b65b1810e5ace4d510a3ec35.1920x1080.jpg?t=1599915594"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1011870/ss_24a78a18e0947788b4f716dae6d8d70daf270da8.600x338.jpg?t=1552185283",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1011870/ss_24a78a18e0947788b4f716dae6d8d70daf270da8.1920x1080.jpg?t=1552185283"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1011870/ss_aad2804bf93822dca0ac0bd8e66a84104e618660.600x338.jpg?t=1599915594",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1011870/ss_aad2804bf93822dca0ac0bd8e66a84104e618660.1920x1080.jpg?t=1599915594"
                 },
                 {
                     "id": 5,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1011870/ss_4bf993c4530bac02b10d2bd5f1b9f92963518da4.600x338.jpg?t=1552185283",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1011870/ss_4bf993c4530bac02b10d2bd5f1b9f92963518da4.1920x1080.jpg?t=1552185283"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1011870/ss_75265ad9acfd2e1f1cde5afcf2fe6702a3b770ce.600x338.jpg?t=1599915594",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1011870/ss_75265ad9acfd2e1f1cde5afcf2fe6702a3b770ce.1920x1080.jpg?t=1599915594"
+                },
+                {
+                    "id": 6,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1011870/ss_f7ed25f0929ec452163d0f9d8f67c3a5354ee96c.600x338.jpg?t=1599915594",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1011870/ss_f7ed25f0929ec452163d0f9d8f67c3a5354ee96c.1920x1080.jpg?t=1599915594"
+                },
+                {
+                    "id": 7,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1011870/ss_2dbd641695062f739ce80f9b8ee9f3f81d44e3a7.600x338.jpg?t=1599915594",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1011870/ss_2dbd641695062f739ce80f9b8ee9f3f81d44e3a7.1920x1080.jpg?t=1599915594"
+                },
+                {
+                    "id": 8,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1011870/ss_0ac11348496e4a6bdb70af61aab1c75ab5e285f9.600x338.jpg?t=1599915594",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1011870/ss_0ac11348496e4a6bdb70af61aab1c75ab5e285f9.1920x1080.jpg?t=1599915594"
+                },
+                {
+                    "id": 9,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1011870/ss_223803ce6c4791d338d3d1f4fdc9510a2cc56c95.600x338.jpg?t=1599915594",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1011870/ss_223803ce6c4791d338d3d1f4fdc9510a2cc56c95.1920x1080.jpg?t=1599915594"
+                },
+                {
+                    "id": 10,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1011870/ss_2fa57419bcbc8f85eb5fe3ec6ead8fe80b2d8c63.600x338.jpg?t=1599915594",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1011870/ss_2fa57419bcbc8f85eb5fe3ec6ead8fe80b2d8c63.1920x1080.jpg?t=1599915594"
+                },
+                {
+                    "id": 11,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1011870/ss_3c1f8f408c9913ba7431f473ccc90d153ef89385.600x338.jpg?t=1599915594",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1011870/ss_3c1f8f408c9913ba7431f473ccc90d153ef89385.1920x1080.jpg?t=1599915594"
                 }
             ],
             "movies": [
                 {
-                    "id": 256744916,
-                    "name": "实机演示",
-                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256744916/movie.293x165.jpg?t=1552185279",
+                    "id": 256788487,
+                    "name": "INTRO",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256788487/movie.293x165.jpg?t=1591788472",
                     "webm": {
-                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256744916/movie480.webm?t=1552185279",
-                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256744916/movie_max.webm?t=1552185279"
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256788487/movie480_vp9.webm?t=1591788472",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256788487/movie_max_vp9.webm?t=1591788472"
+                    },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256788487/movie480.mp4?t=1591788472",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256788487/movie_max.mp4?t=1591788472"
                     },
                     "highlight": true
                 }
             ],
             "release_date": {
-                "coming_soon": true,
-                "date": "in developing"
+                "coming_soon": false,
+                "date": "20 Nov, 2019"
             },
             "support_info": {
                 "url": "",
-                "email": "2291347282@qq.com"
+                "email": ""
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1011870/page_bg_generated_v6b.jpg?t=1552185283",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1011870/page_bg_generated_v6b.jpg?t=1599915594",
             "content_descriptors": {
                 "ids": [],
                 "notes": null

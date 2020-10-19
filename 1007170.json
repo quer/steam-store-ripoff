@@ -1,5 +1,111 @@
 {
     "1007170": {
-        "success": false
+        "success": true,
+        "data": {
+            "type": "dlc",
+            "name": "Artbook - Metal Pass 3",
+            "steam_appid": 1007170,
+            "required_age": 0,
+            "is_free": false,
+            "detailed_description": "",
+            "about_the_game": "",
+            "short_description": "",
+            "fullgame": {
+                "appid": "331360",
+                "name": "Heavy Metal Machines"
+            },
+            "supported_languages": "English<strong>*</strong>, Portuguese - Brazil, Russian, French, German, Spanish - Spain, Turkish, Polish<br><strong>*</strong>languages with full audio support",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1007170/header.jpg?t=1590786136",
+            "website": "http://www.heavymetalmachines.com",
+            "pc_requirements": [],
+            "mac_requirements": [],
+            "linux_requirements": [],
+            "legal_notice": "Copyright © 2018 • Hoplon • All rights reserved.",
+            "developers": [
+                "Hoplon"
+            ],
+            "publishers": [
+                ""
+            ],
+            "package_groups": [],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": false
+            },
+            "categories": [
+                {
+                    "id": 1,
+                    "description": "Multi-player"
+                },
+                {
+                    "id": 36,
+                    "description": "Online PvP"
+                },
+                {
+                    "id": 9,
+                    "description": "Co-op"
+                },
+                {
+                    "id": 38,
+                    "description": "Online Co-op"
+                },
+                {
+                    "id": 21,
+                    "description": "Downloadable Content"
+                },
+                {
+                    "id": 29,
+                    "description": "Steam Trading Cards"
+                },
+                {
+                    "id": 13,
+                    "description": "Captions available"
+                },
+                {
+                    "id": 35,
+                    "description": "In-App Purchases"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "1",
+                    "description": "Action"
+                },
+                {
+                    "id": "37",
+                    "description": "Free to Play"
+                },
+                {
+                    "id": "23",
+                    "description": "Indie"
+                },
+                {
+                    "id": "9",
+                    "description": "Racing"
+                },
+                {
+                    "id": "18",
+                    "description": "Sports"
+                },
+                {
+                    "id": "2",
+                    "description": "Strategy"
+                }
+            ],
+            "release_date": {
+                "coming_soon": false,
+                "date": ""
+            },
+            "support_info": {
+                "url": "http://www.heavymetalmachines.com/support/",
+                "email": ""
+            },
+            "background": "",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
     }
 }

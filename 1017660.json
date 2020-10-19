@@ -48,7 +48,7 @@
                     "subs": [
                         {
                             "packageid": 337328,
-                            "percent_savings_text": "",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
                             "option_text": "Don't Go into the Woods - 2,39€",
                             "option_description": "",
@@ -130,12 +130,13 @@
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/256752535/movie480.webm?t=1559830955",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/256752535/movie_max.webm?t=1559830955"
                     },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256752535/movie480.mp4?t=1559830955",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256752535/movie_max.mp4?t=1559830955"
+                    },
                     "highlight": true
                 }
             ],
-            "achievements": {
-                "total": 0
-            },
             "release_date": {
                 "coming_soon": false,
                 "date": "30 Jun, 2019"

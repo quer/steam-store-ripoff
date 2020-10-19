@@ -7,16 +7,15 @@
             "steam_appid": 1001690,
             "required_age": 0,
             "is_free": false,
-            "controller_support": "full",
-            "detailed_description": "Mars Flight VR is a helicopter simulator that lets you explore real locations on mars. Take control of the JPL Mars Helicopter Scout, a real helicopter designed to fly in the thin martian atmosphere. Explore multiple locations on mars including Jezero crater, the landing site for the 2020 NASA Mars mission.<br />\r\n<br />\r\nThis game is in Early Access and will be regularly updated over the following months with new features including: Steam Leaderboards, science missions, new locations, new vehicles and additional control schemes.",
-            "about_the_game": "Mars Flight VR is a helicopter simulator that lets you explore real locations on mars. Take control of the JPL Mars Helicopter Scout, a real helicopter designed to fly in the thin martian atmosphere. Explore multiple locations on mars including Jezero crater, the landing site for the 2020 NASA Mars mission.<br />\r\n<br />\r\nThis game is in Early Access and will be regularly updated over the following months with new features including: Steam Leaderboards, science missions, new locations, new vehicles and additional control schemes.",
-            "short_description": "Mars Flight VR is a helicopter simulator that lets you explore real locations on mars. Take control of the JPL Mars Helicopter Scout, a helicopter designed to fly in the thin martian atmosphere.",
+            "detailed_description": "Mars Flight VR is a helicopter simulator that lets you explore real locations on mars. Take control of &quot;Ingenuity&quot;, the JPL Mars Helicopter Scout, a real helicopter designed to fly in the thin martian atmosphere. Explore Jezero crater, the landing site for the 2020 NASA Mars mission.<br />\r\n<br />\r\nThis game is in Early Access and will be regularly updated over the following months with new features including: New locations, new vehicles, achievements and additional control schemes.<br />\r\n<br />\r\nThis is a seated VR experience which requires a gamepad to play.",
+            "about_the_game": "Mars Flight VR is a helicopter simulator that lets you explore real locations on mars. Take control of &quot;Ingenuity&quot;, the JPL Mars Helicopter Scout, a real helicopter designed to fly in the thin martian atmosphere. Explore Jezero crater, the landing site for the 2020 NASA Mars mission.<br />\r\n<br />\r\nThis game is in Early Access and will be regularly updated over the following months with new features including: New locations, new vehicles, achievements and additional control schemes.<br />\r\n<br />\r\nThis is a seated VR experience which requires a gamepad to play.",
+            "short_description": "Mars Flight VR is a helicopter simulator that lets you explore real locations on mars. Take control of &quot;Ingenuity&quot;, the JPL Mars Helicopter Scout, a helicopter designed to fly in the thin martian atmosphere.",
             "supported_languages": "English",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1001690/header.jpg?t=1555307179",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1001690/header.jpg?t=1591235660",
             "website": "http://ionormal.com",
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong> Intel Core i7 2.4GHz<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> DirectX 11 compatible video card<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>",
-                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Intel Core i7 3.3GHz<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> DirectX 11 compatible video card<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong> Intel Core i7 2.4GHz<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GTX 970 / AMD Radeon R9 290<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 3 GB available space</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Intel Core i7 3.3GHz<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GTX 1050 / AMD Radeon R9 290<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 4 GB available space</li></ul>"
             },
             "mac_requirements": [],
             "linux_requirements": [],
@@ -26,7 +25,40 @@
             "publishers": [
                 "Io Normal"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 1249,
+                "final": 1249,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "12,49€"
+            },
+            "packages": [
+                331031
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Mars Flight VR",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 331031,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "Mars Flight VR - 12,49€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 1249
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": false,
@@ -38,11 +70,15 @@
                     "description": "Single-player"
                 },
                 {
-                    "id": 28,
-                    "description": "Full controller support"
+                    "id": 25,
+                    "description": "Steam Leaderboards"
                 }
             ],
             "genres": [
+                {
+                    "id": "9",
+                    "description": "Racing"
+                },
                 {
                     "id": "28",
                     "description": "Simulation"
@@ -55,51 +91,55 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1001690/ss_369d60c3056c554e52d41efc0003525ab232be81.600x338.jpg?t=1555307179",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1001690/ss_369d60c3056c554e52d41efc0003525ab232be81.1920x1080.jpg?t=1555307179"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1001690/ss_d941de4c7eeaa2b57f0411a2d3ddac080db40371.600x338.jpg?t=1591235660",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1001690/ss_d941de4c7eeaa2b57f0411a2d3ddac080db40371.1920x1080.jpg?t=1591235660"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1001690/ss_cac6011650a1bad5e3e51900125749d354ddb623.600x338.jpg?t=1555307179",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1001690/ss_cac6011650a1bad5e3e51900125749d354ddb623.1920x1080.jpg?t=1555307179"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1001690/ss_28e3fdda2d4d1bb4ef2d7813929259fbfbacbe2b.600x338.jpg?t=1591235660",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1001690/ss_28e3fdda2d4d1bb4ef2d7813929259fbfbacbe2b.1920x1080.jpg?t=1591235660"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1001690/ss_3d5b30d6f9c4b30e895e84b0be3d2db02d575eb0.600x338.jpg?t=1555307179",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1001690/ss_3d5b30d6f9c4b30e895e84b0be3d2db02d575eb0.1920x1080.jpg?t=1555307179"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1001690/ss_8c3f102b8f7695202688b75fa57d23a0214c0d4b.600x338.jpg?t=1591235660",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1001690/ss_8c3f102b8f7695202688b75fa57d23a0214c0d4b.1920x1080.jpg?t=1591235660"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1001690/ss_8ce774ba2b829535a52aa944c883fed925b625b7.600x338.jpg?t=1555307179",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1001690/ss_8ce774ba2b829535a52aa944c883fed925b625b7.1920x1080.jpg?t=1555307179"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1001690/ss_64736c716a1d257661e0805141a6211d656f3953.600x338.jpg?t=1591235660",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1001690/ss_64736c716a1d257661e0805141a6211d656f3953.1920x1080.jpg?t=1591235660"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1001690/ss_32be55c3915530ed3f5e188b69e8251670fb4d47.600x338.jpg?t=1555307179",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1001690/ss_32be55c3915530ed3f5e188b69e8251670fb4d47.1920x1080.jpg?t=1555307179"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1001690/ss_99b45e8710fd66e5a9c90cfc3ae30a65cf9035be.600x338.jpg?t=1591235660",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1001690/ss_99b45e8710fd66e5a9c90cfc3ae30a65cf9035be.1920x1080.jpg?t=1591235660"
                 }
             ],
             "movies": [
                 {
-                    "id": 256739532,
-                    "name": "Exploring Jezero Crater",
-                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256739532/movie.293x165.jpg?t=1546564138",
+                    "id": 256785909,
+                    "name": "Early Access Trailer",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256785909/movie.293x165.jpg?t=1589962348",
                     "webm": {
-                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256739532/movie480.webm?t=1546564138",
-                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256739532/movie_max.webm?t=1546564138"
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256785909/movie480_vp9.webm?t=1589962348",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256785909/movie_max_vp9.webm?t=1589962348"
+                    },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256785909/movie480.mp4?t=1589962348",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256785909/movie_max.mp4?t=1589962348"
                     },
                     "highlight": true
                 }
             ],
             "release_date": {
-                "coming_soon": true,
-                "date": "30 Apr, 2019"
+                "coming_soon": false,
+                "date": "3 Jun, 2020"
             },
             "support_info": {
                 "url": "http://ionormal.com",
                 "email": "support@ionormal.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1001690/page_bg_generated_v6b.jpg?t=1555307179",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1001690/page_bg_generated_v6b.jpg?t=1591235660",
             "content_descriptors": {
                 "ids": [],
                 "notes": null

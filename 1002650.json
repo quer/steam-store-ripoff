@@ -9,9 +9,9 @@
             "is_free": false,
             "detailed_description": "Puttin' Around is a fun spin on online mini golf games which features fun game modes to play with others online around the world. <br><br>The controls and play style are intuitive and make it easy to jump into or host a game. Play along with your friends, or make new ones.<br><br><strong>Key Features</strong><br><ul class=\"bb_ul\"><li> Dedicated servers around the world<br></li><li> Up to 10 player in online multiplayer<br></li><li> Level editor with Steam Workshop to share and download maps<br></li><li> Chose between traditional mini golf, or play a round of Point Control</li></ul>",
             "about_the_game": "Puttin' Around is a fun spin on online mini golf games which features fun game modes to play with others online around the world. <br><br>The controls and play style are intuitive and make it easy to jump into or host a game. Play along with your friends, or make new ones.<br><br><strong>Key Features</strong><br><ul class=\"bb_ul\"><li> Dedicated servers around the world<br></li><li> Up to 10 player in online multiplayer<br></li><li> Level editor with Steam Workshop to share and download maps<br></li><li> Chose between traditional mini golf, or play a round of Point Control</li></ul>",
-            "short_description": "Ever wanted to experience life as a golf ball? Well now you can! In Puttin' Around, putt yourself across various custom physics-defying worlds! Enjoy friendship-ruining victories, frustrating bugs, and quality memes.",
+            "short_description": "Ever wanted to experience life as a golf ball? Well now you can! In Puttin' Around, putt yourself across various custom physics-defying worlds! Enjoy friendship-ruining victories with custom maps and game types.",
             "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1002650/header.jpg?t=1552676452",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1002650/header.jpg?t=1568123829",
             "website": null,
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows® Vista/XP<br></li><li><strong>Processor:</strong> 1.8 GHz Processor<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> 512MB dedicated VRAM<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Sound Card:</strong> If you want to hear sound, yes</li></ul>",
@@ -54,7 +54,7 @@
                     "subs": [
                         {
                             "packageid": 331389,
-                            "percent_savings_text": "",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
                             "option_text": "Puttin' Around - 3,99€",
                             "option_description": "",
@@ -72,8 +72,16 @@
             },
             "categories": [
                 {
+                    "id": 1,
+                    "description": "Multi-player"
+                },
+                {
+                    "id": 49,
+                    "description": "PvP"
+                },
+                {
                     "id": 36,
-                    "description": "Online Multi-Player"
+                    "description": "Online PvP"
                 },
                 {
                     "id": 27,
@@ -117,36 +125,50 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1002650/ss_9eafc875b0a2399ae71d869ea2217caed4842992.600x338.jpg?t=1552676452",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1002650/ss_9eafc875b0a2399ae71d869ea2217caed4842992.1920x1080.jpg?t=1552676452"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1002650/ss_8b6bf5c5de616be297b160dc535b7cd73223a43a.600x338.jpg?t=1568123829",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1002650/ss_8b6bf5c5de616be297b160dc535b7cd73223a43a.1920x1080.jpg?t=1568123829"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1002650/ss_815f557995111582275140e72753ffe9e98123e9.600x338.jpg?t=1552676452",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1002650/ss_815f557995111582275140e72753ffe9e98123e9.1920x1080.jpg?t=1552676452"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1002650/ss_ffd76d399037bbe2266960f460e99469e6470070.600x338.jpg?t=1568123829",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1002650/ss_ffd76d399037bbe2266960f460e99469e6470070.1920x1080.jpg?t=1568123829"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1002650/ss_9199997fcdffc2d0065bc00bf55cf68762fafca3.600x338.jpg?t=1552676452",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1002650/ss_9199997fcdffc2d0065bc00bf55cf68762fafca3.1920x1080.jpg?t=1552676452"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1002650/ss_b5ac17ddf3c061c45ddd0e06e72277cc0fff616c.600x338.jpg?t=1568123829",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1002650/ss_b5ac17ddf3c061c45ddd0e06e72277cc0fff616c.1920x1080.jpg?t=1568123829"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1002650/ss_7655791e504c4534879afe7df962e44182bc9073.600x338.jpg?t=1552676452",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1002650/ss_7655791e504c4534879afe7df962e44182bc9073.1920x1080.jpg?t=1552676452"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1002650/ss_9334980cb0e5a24881ebce4b0d155567f7a80530.600x338.jpg?t=1568123829",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1002650/ss_9334980cb0e5a24881ebce4b0d155567f7a80530.1920x1080.jpg?t=1568123829"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1002650/ss_523cdd803063947a87ed113f6ba580b62ad38f47.600x338.jpg?t=1552676452",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1002650/ss_523cdd803063947a87ed113f6ba580b62ad38f47.1920x1080.jpg?t=1552676452"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1002650/ss_2656ecaa62e7aa0ee1e8bec6deed32b45a296f57.600x338.jpg?t=1568123829",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1002650/ss_2656ecaa62e7aa0ee1e8bec6deed32b45a296f57.1920x1080.jpg?t=1568123829"
                 },
                 {
                     "id": 5,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1002650/ss_b5ac17ddf3c061c45ddd0e06e72277cc0fff616c.600x338.jpg?t=1552676452",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1002650/ss_b5ac17ddf3c061c45ddd0e06e72277cc0fff616c.1920x1080.jpg?t=1552676452"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1002650/ss_be46dbacaec6852122e37d53d05b80d0196439d8.600x338.jpg?t=1568123829",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1002650/ss_be46dbacaec6852122e37d53d05b80d0196439d8.1920x1080.jpg?t=1568123829"
                 }
             ],
             "movies": [
+                {
+                    "id": 256761609,
+                    "name": "0.13.0 Map Creator Trailer",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256761609/movie.293x165.jpg?t=1568123825",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256761609/movie480.webm?t=1568123825",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256761609/movie_max.webm?t=1568123825"
+                    },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256761609/movie480.mp4?t=1568123825",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256761609/movie_max.mp4?t=1568123825"
+                    },
+                    "highlight": true
+                },
                 {
                     "id": 256739462,
                     "name": "Gameplay Trailer",
@@ -154,6 +176,10 @@
                     "webm": {
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/256739462/movie480.webm?t=1548173992",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/256739462/movie_max.webm?t=1548173992"
+                    },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256739462/movie480.mp4?t=1548173992",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256739462/movie_max.mp4?t=1548173992"
                     },
                     "highlight": true
                 }
@@ -183,7 +209,7 @@
                 "url": "https://better-games.org",
                 "email": "contact@better-games.org"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1002650/page_bg_generated_v6b.jpg?t=1552676452",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1002650/page_bg_generated_v6b.jpg?t=1568123829",
             "content_descriptors": {
                 "ids": [],
                 "notes": null

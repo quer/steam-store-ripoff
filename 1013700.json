@@ -26,11 +26,11 @@
             ],
             "price_overview": {
                 "currency": "EUR",
-                "initial": 2999,
-                "final": 2999,
+                "initial": 1679,
+                "final": 1679,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "29,99€"
+                "final_formatted": "16,79€"
             },
             "packages": [
                 335863
@@ -47,13 +47,13 @@
                     "subs": [
                         {
                             "packageid": 335863,
-                            "percent_savings_text": "",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Draft Day Sports: College Football 2019 - 29,99€",
+                            "option_text": "Draft Day Sports: College Football 2019 - 16,79€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 2999
+                            "price_in_cents_with_discount": 1679
                         }
                     ]
                 }
@@ -124,12 +124,13 @@
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/256740716/movie480.webm?t=1547826603",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/256740716/movie_max.webm?t=1547826603"
                     },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256740716/movie480.mp4?t=1547826603",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256740716/movie_max.mp4?t=1547826603"
+                    },
                     "highlight": true
                 }
             ],
-            "achievements": {
-                "total": 0
-            },
             "release_date": {
                 "coming_soon": false,
                 "date": "8 Feb, 2019"

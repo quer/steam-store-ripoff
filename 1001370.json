@@ -14,8 +14,8 @@
                 "appid": "307960",
                 "name": "IL-2 Sturmovik: Battle of Stalingrad"
             },
-            "supported_languages": "English, Russian, German<strong>*</strong>, Spanish - Spain<br><strong>*</strong>languages with full audio support",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1001370/header.jpg?t=1549304791",
+            "supported_languages": "English, Russian, German<strong>*</strong>, Spanish - Spain, French<br><strong>*</strong>languages with full audio support",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1001370/header.jpg?t=1574950344",
             "website": "http://il2sturmovik.com/",
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> 64-bit Windows® 7 (SP1) / Windows® 8 / Windows® 10<br></li><li><strong>Processor:</strong> Intel® Core™ 2 Quad 2.6 GHz / Intel® Core™ i5/i7 2.6 GHz<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> GeForce GTX 660/Radeon HD 7770 with 2 Gb VRAM or better<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 20 GB available space<br></li><li><strong>Additional Notes:</strong> DirectX® compatible flight stick is recommended.</li></ul>",
@@ -40,10 +40,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 819,
-                "final": 409,
-                "discount_percent": 50,
-                "initial_formatted": "8,19€",
-                "final_formatted": "4,09€"
+                "final": 819,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "8,19€"
             },
             "packages": [
                 330911
@@ -60,13 +60,13 @@
                     "subs": [
                         {
                             "packageid": 330911,
-                            "percent_savings_text": "-50%",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "IL-2 Sturmovik: Fortress on the Volga - <span class=\"discount_original_price\">8,19€</span> 4,09€",
+                            "option_text": "IL-2 Sturmovik: Fortress on the Volga - 8,19€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 409
+                            "price_in_cents_with_discount": 819
                         }
                     ]
                 }
@@ -99,48 +99,45 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1001370/ss_c9c457476cdb98d1981f82fcd6723fb498024861.600x338.jpg?t=1549304791",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1001370/ss_c9c457476cdb98d1981f82fcd6723fb498024861.1920x1080.jpg?t=1549304791"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1001370/ss_c9c457476cdb98d1981f82fcd6723fb498024861.600x338.jpg?t=1574950344",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1001370/ss_c9c457476cdb98d1981f82fcd6723fb498024861.1920x1080.jpg?t=1574950344"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1001370/ss_e0cf2efc44c0339c25c788b78fabeecdd09f0eec.600x338.jpg?t=1549304791",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1001370/ss_e0cf2efc44c0339c25c788b78fabeecdd09f0eec.1920x1080.jpg?t=1549304791"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1001370/ss_e0cf2efc44c0339c25c788b78fabeecdd09f0eec.600x338.jpg?t=1574950344",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1001370/ss_e0cf2efc44c0339c25c788b78fabeecdd09f0eec.1920x1080.jpg?t=1574950344"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1001370/ss_5d8b024476e1500315cfcd698adb4fcad10a2983.600x338.jpg?t=1549304791",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1001370/ss_5d8b024476e1500315cfcd698adb4fcad10a2983.1920x1080.jpg?t=1549304791"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1001370/ss_5d8b024476e1500315cfcd698adb4fcad10a2983.600x338.jpg?t=1574950344",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1001370/ss_5d8b024476e1500315cfcd698adb4fcad10a2983.1920x1080.jpg?t=1574950344"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1001370/ss_b9a09af49f00d442068e89918df5dad70355409e.600x338.jpg?t=1549304791",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1001370/ss_b9a09af49f00d442068e89918df5dad70355409e.1920x1080.jpg?t=1549304791"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1001370/ss_b9a09af49f00d442068e89918df5dad70355409e.600x338.jpg?t=1574950344",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1001370/ss_b9a09af49f00d442068e89918df5dad70355409e.1920x1080.jpg?t=1574950344"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1001370/ss_85c493bd0a8165af46a0f5dceabc0c3cac7ca248.600x338.jpg?t=1549304791",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1001370/ss_85c493bd0a8165af46a0f5dceabc0c3cac7ca248.1920x1080.jpg?t=1549304791"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1001370/ss_85c493bd0a8165af46a0f5dceabc0c3cac7ca248.600x338.jpg?t=1574950344",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1001370/ss_85c493bd0a8165af46a0f5dceabc0c3cac7ca248.1920x1080.jpg?t=1574950344"
                 },
                 {
                     "id": 5,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1001370/ss_3f9c791c18794803a4b4d269d03ac7ca43ac6b78.600x338.jpg?t=1549304791",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1001370/ss_3f9c791c18794803a4b4d269d03ac7ca43ac6b78.1920x1080.jpg?t=1549304791"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1001370/ss_3f9c791c18794803a4b4d269d03ac7ca43ac6b78.600x338.jpg?t=1574950344",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1001370/ss_3f9c791c18794803a4b4d269d03ac7ca43ac6b78.1920x1080.jpg?t=1574950344"
                 },
                 {
                     "id": 6,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1001370/ss_d3fe5694ba2eaa0fa9e613a2ea27dc1443c01492.600x338.jpg?t=1549304791",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1001370/ss_d3fe5694ba2eaa0fa9e613a2ea27dc1443c01492.1920x1080.jpg?t=1549304791"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1001370/ss_d3fe5694ba2eaa0fa9e613a2ea27dc1443c01492.600x338.jpg?t=1574950344",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1001370/ss_d3fe5694ba2eaa0fa9e613a2ea27dc1443c01492.1920x1080.jpg?t=1574950344"
                 },
                 {
                     "id": 7,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1001370/ss_2e69c004ea253759842e54241962b353163597ac.600x338.jpg?t=1549304791",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1001370/ss_2e69c004ea253759842e54241962b353163597ac.1920x1080.jpg?t=1549304791"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1001370/ss_2e69c004ea253759842e54241962b353163597ac.600x338.jpg?t=1574950344",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1001370/ss_2e69c004ea253759842e54241962b353163597ac.1920x1080.jpg?t=1574950344"
                 }
             ],
-            "achievements": {
-                "total": 0
-            },
             "release_date": {
                 "coming_soon": false,
                 "date": "19 Dec, 2018"
@@ -149,7 +146,7 @@
                 "url": "http://il2sturmovik.com/support/",
                 "email": "support@1cgs.net"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1001370/page_bg_generated_v6b.jpg?t=1549304791",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1001370/page_bg_generated_v6b.jpg?t=1574950344",
             "content_descriptors": {
                 "ids": [],
                 "notes": null

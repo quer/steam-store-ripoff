@@ -34,11 +34,11 @@
             ],
             "price_overview": {
                 "currency": "EUR",
-                "initial": 239,
-                "final": 239,
+                "initial": 79,
+                "final": 79,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "2,39€"
+                "final_formatted": "0,79€"
             },
             "packages": [
                 331765
@@ -55,13 +55,13 @@
                     "subs": [
                         {
                             "packageid": 331765,
-                            "percent_savings_text": "",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Abandonment - 2,39€",
+                            "option_text": "Abandonment - 0,79€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 239
+                            "price_in_cents_with_discount": 79
                         }
                     ]
                 }
@@ -122,6 +122,10 @@
                     "webm": {
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/256738814/movie480.webm?t=1545452873",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/256738814/movie_max.webm?t=1545452873"
+                    },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256738814/movie480.mp4?t=1545452873",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256738814/movie_max.mp4?t=1545452873"
                     },
                     "highlight": true
                 }

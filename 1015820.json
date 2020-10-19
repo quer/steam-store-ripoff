@@ -34,11 +34,11 @@
             ],
             "price_overview": {
                 "currency": "EUR",
-                "initial": 2999,
-                "final": 2999,
+                "initial": 2099,
+                "final": 2099,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "29,99€"
+                "final_formatted": "20,99€"
             },
             "packages": [
                 336649
@@ -55,13 +55,13 @@
                     "subs": [
                         {
                             "packageid": 336649,
-                            "percent_savings_text": "",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Deadly Kingdom - 29,99€",
+                            "option_text": "Deadly Kingdom - 20,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 2999
+                            "price_in_cents_with_discount": 2099
                         }
                     ]
                 }
@@ -179,6 +179,10 @@
                     "webm": {
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/256744289/movie480.webm?t=1551444612",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/256744289/movie_max.webm?t=1551444612"
+                    },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256744289/movie480.mp4?t=1551444612",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256744289/movie_max.mp4?t=1551444612"
                     },
                     "highlight": true
                 }

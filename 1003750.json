@@ -47,7 +47,7 @@
                     "subs": [
                         {
                             "packageid": 331811,
-                            "percent_savings_text": "",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
                             "option_text": "她2 : 我还想再见到你   Her2 : I Want To See You Again - 3,29€",
                             "option_description": "",
@@ -142,6 +142,10 @@
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/256742115/movie480.webm?t=1549198602",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/256742115/movie_max.webm?t=1549198602"
                     },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256742115/movie480.mp4?t=1549198602",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256742115/movie_max.mp4?t=1549198602"
+                    },
                     "highlight": true
                 },
                 {
@@ -152,11 +156,15 @@
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/256741941/movie480.webm?t=1548990934",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/256741941/movie_max.webm?t=1548990934"
                     },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256741941/movie480.mp4?t=1548990934",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256741941/movie_max.mp4?t=1548990934"
+                    },
                     "highlight": true
                 }
             ],
             "recommendations": {
-                "total": 101
+                "total": 102
             },
             "achievements": {
                 "total": 72,

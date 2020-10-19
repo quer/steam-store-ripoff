@@ -15,7 +15,7 @@
                 "name": "Heavy Metal Machines"
             },
             "supported_languages": "English<strong>*</strong>, Portuguese - Brazil, Russian, French, German, Spanish - Spain, Turkish, Polish<br><strong>*</strong>languages with full audio support",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1015221/header.jpg?t=1549891997",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1015221/header.jpg?t=1590786172",
             "website": "http://www.heavymetalmachines.com",
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 7 or Newer (64-bit)<br></li><li><strong>Processor:</strong> 2.0 GHz Dual core<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> AMD or NVIDIA graphics card with at least 512 MB video ram and Shader Model 3.0 support. (NVIDIA GT 710, AMD Radeon R5 240)<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 7 GB available space<br></li><li><strong>Sound Card:</strong> Required</li></ul>",
@@ -36,40 +36,7 @@
             "publishers": [
                 "Hoplon"
             ],
-            "price_overview": {
-                "currency": "EUR",
-                "initial": 1679,
-                "final": 1679,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "16,79€"
-            },
-            "packages": [
-                336450
-            ],
-            "package_groups": [
-                {
-                    "name": "default",
-                    "title": "Buy HMM Metal Pass Premium Season 3 + 1300 Cash",
-                    "description": "",
-                    "selection_text": "Select a purchase option",
-                    "save_text": "",
-                    "display_type": 0,
-                    "is_recurring_subscription": "false",
-                    "subs": [
-                        {
-                            "packageid": 336450,
-                            "percent_savings_text": "",
-                            "percent_savings": 0,
-                            "option_text": "HMM Metal Pass Premium Season 3 + 1300 Cash - 16,79€",
-                            "option_description": "",
-                            "can_get_free_license": "0",
-                            "is_free_license": false,
-                            "price_in_cents_with_discount": 1679
-                        }
-                    ]
-                }
-            ],
+            "package_groups": [],
             "platforms": {
                 "windows": true,
                 "mac": false,
@@ -82,7 +49,7 @@
                 },
                 {
                     "id": 36,
-                    "description": "Online Multi-Player"
+                    "description": "Online PvP"
                 },
                 {
                     "id": 9,
@@ -138,18 +105,18 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1015221/ss_4cf34608f890429f66063936ade206b0cf04abec.600x338.jpg?t=1549891997",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1015221/ss_4cf34608f890429f66063936ade206b0cf04abec.1920x1080.jpg?t=1549891997"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1015221/ss_4cf34608f890429f66063936ade206b0cf04abec.600x338.jpg?t=1590786172",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1015221/ss_4cf34608f890429f66063936ade206b0cf04abec.1920x1080.jpg?t=1590786172"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1015221/ss_57c67b7109789f7fa75a9d5aad310ee9076a26da.600x338.jpg?t=1549891997",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1015221/ss_57c67b7109789f7fa75a9d5aad310ee9076a26da.1920x1080.jpg?t=1549891997"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1015221/ss_57c67b7109789f7fa75a9d5aad310ee9076a26da.600x338.jpg?t=1590786172",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1015221/ss_57c67b7109789f7fa75a9d5aad310ee9076a26da.1920x1080.jpg?t=1590786172"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1015221/ss_7c86e8086db38df164c8f80a87a5f85c717f1856.600x338.jpg?t=1549891997",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1015221/ss_7c86e8086db38df164c8f80a87a5f85c717f1856.1920x1080.jpg?t=1549891997"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1015221/ss_7c86e8086db38df164c8f80a87a5f85c717f1856.600x338.jpg?t=1590786172",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1015221/ss_7c86e8086db38df164c8f80a87a5f85c717f1856.1920x1080.jpg?t=1590786172"
                 }
             ],
             "movies": [
@@ -160,6 +127,10 @@
                     "webm": {
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/256742401/movie480.webm?t=1549891993",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/256742401/movie_max.webm?t=1549891993"
+                    },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256742401/movie480.mp4?t=1549891993",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256742401/movie_max.mp4?t=1549891993"
                     },
                     "highlight": true
                 }
@@ -172,7 +143,7 @@
                 "url": "http://www.heavymetalmachines.com/support/",
                 "email": ""
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1015221/page_bg_generated_v6b.jpg?t=1549891997",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1015221/page_bg_generated_v6b.jpg?t=1590786172",
             "content_descriptors": {
                 "ids": [],
                 "notes": null

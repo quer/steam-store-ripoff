@@ -15,7 +15,7 @@
                 "name": "Secret World Legends"
             },
             "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, German<strong>*</strong><br><strong>*</strong>languages with full audio support",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1017810/header.jpg?t=1549636619",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1017810/header.jpg?t=1573148606",
             "website": "http://www.secretworldlegends.com",
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10 / Windows XP (SP 1) / Vista (SP 1) / Windows 7 (SP 1)<br>\t</li><li><strong>Processor:</strong> 2.6 GHZ Intel Core 2 DUO or equivalent AMD CPU<br>\t</li><li><strong>Memory:</strong> At least 2GB RAM for Windows XP / 3GB Ram for Windows Vista and Windows 7<br>\t</li><li><strong>Hard Disk Space:</strong> 6.4GB Download (13.7 on Disk)<br>\t</li><li><strong>Video Card:</strong> nVidia 8800 series 512 VRAM or better/Radeon HD3850 512MB or better<br>\t</li><li><strong>DirectX®:</strong> 9.0c<br>\t</li><li><strong>Sound:</strong> DirectX 9.0c compatible sound card</li></ul>",
@@ -30,40 +30,7 @@
             "publishers": [
                 ""
             ],
-            "price_overview": {
-                "currency": "EUR",
-                "initial": 9999,
-                "final": 9999,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "99,99€"
-            },
-            "packages": [
-                337379
-            ],
-            "package_groups": [
-                {
-                    "name": "default",
-                    "title": "Buy 12 Month Patron Bundle",
-                    "description": "",
-                    "selection_text": "Select a purchase option",
-                    "save_text": "",
-                    "display_type": 0,
-                    "is_recurring_subscription": "false",
-                    "subs": [
-                        {
-                            "packageid": 337379,
-                            "percent_savings_text": "",
-                            "percent_savings": 0,
-                            "option_text": "12 Month Patron Bundle - 99,99€",
-                            "option_description": "",
-                            "can_get_free_license": "0",
-                            "is_free_license": false,
-                            "price_in_cents_with_discount": 9999
-                        }
-                    ]
-                }
-            ],
+            "package_groups": [],
             "platforms": {
                 "windows": true,
                 "mac": false,
@@ -75,12 +42,12 @@
                     "description": "Multi-player"
                 },
                 {
-                    "id": 36,
-                    "description": "Online Multi-Player"
-                },
-                {
                     "id": 20,
                     "description": "MMO"
+                },
+                {
+                    "id": 36,
+                    "description": "Online PvP"
                 },
                 {
                     "id": 38,
@@ -120,13 +87,10 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1017810/ss_0803ff4a6631e7daa96ac6bd51c9090be13a739e.600x338.jpg?t=1549636619",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1017810/ss_0803ff4a6631e7daa96ac6bd51c9090be13a739e.1920x1080.jpg?t=1549636619"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1017810/ss_0803ff4a6631e7daa96ac6bd51c9090be13a739e.600x338.jpg?t=1573148606",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1017810/ss_0803ff4a6631e7daa96ac6bd51c9090be13a739e.1920x1080.jpg?t=1573148606"
                 }
             ],
-            "achievements": {
-                "total": 0
-            },
             "release_date": {
                 "coming_soon": false,
                 "date": "6 Feb, 2019"
@@ -135,7 +99,7 @@
                 "url": "http://help.funcom.com/",
                 "email": ""
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1017810/page_bg_generated_v6b.jpg?t=1549636619",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1017810/page_bg_generated_v6b.jpg?t=1573148606",
             "content_descriptors": {
                 "ids": [],
                 "notes": null

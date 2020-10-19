@@ -15,13 +15,18 @@
                 "name": "Cows VS Vikings"
             },
             "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1002090/header.jpg?t=1545283424",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1002090/header.jpg?t=1591304206",
             "website": "http://cowsvsvikings.com/",
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong> CPU 1 GHz<br></li><li><strong>Graphics:</strong> DirectX compatible<br></li><li><strong>DirectX:</strong> Version 8.1<br></li><li><strong>Storage:</strong> 100 MB available space<br></li><li><strong>Sound Card:</strong> DirectX compatible</li></ul>"
             },
-            "mac_requirements": [],
-            "linux_requirements": [],
+            "mac_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> High Sierra v. 10.13.6<br></li><li><strong>Processor:</strong> CPU 1 GHz<br></li><li><strong>Storage:</strong> 100 MB available space</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>Storage:</strong> 100 MB available space</li></ul>"
+            },
+            "linux_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Processor:</strong> CPU 1 GHz<br></li><li><strong>Storage:</strong> 100 MB available space</li></ul>"
+            },
             "developers": [
                 "Redox Entertainment Inc"
             ],
@@ -34,8 +39,8 @@
             "package_groups": [],
             "platforms": {
                 "windows": true,
-                "mac": false,
-                "linux": false
+                "mac": true,
+                "linux": true
             },
             "categories": [
                 {
@@ -72,8 +77,38 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1002090/ss_d2be231f5580e1ce9a8bc96133d521c52c3e91f2.600x338.jpg?t=1545283424",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1002090/ss_d2be231f5580e1ce9a8bc96133d521c52c3e91f2.1920x1080.jpg?t=1545283424"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1002090/ss_dbd5175fc3b62100b931ffdde21c944c19a08cba.600x338.jpg?t=1591304206",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1002090/ss_dbd5175fc3b62100b931ffdde21c944c19a08cba.1920x1080.jpg?t=1591304206"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1002090/ss_47b79e4a8e531b8c1d97880cc31b4ed425bef4f8.600x338.jpg?t=1591304206",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1002090/ss_47b79e4a8e531b8c1d97880cc31b4ed425bef4f8.1920x1080.jpg?t=1591304206"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1002090/ss_4c0863cc71fe46d2e63d93d363a74d9cf0b2f617.600x338.jpg?t=1591304206",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1002090/ss_4c0863cc71fe46d2e63d93d363a74d9cf0b2f617.1920x1080.jpg?t=1591304206"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1002090/ss_1bbc7b5ad47e8467b115b9dc196671eb29124b20.600x338.jpg?t=1591304206",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1002090/ss_1bbc7b5ad47e8467b115b9dc196671eb29124b20.1920x1080.jpg?t=1591304206"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1002090/ss_cd53b843c7430ff681c1bdfc630250ccc1037f7f.600x338.jpg?t=1591304206",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1002090/ss_cd53b843c7430ff681c1bdfc630250ccc1037f7f.1920x1080.jpg?t=1591304206"
+                },
+                {
+                    "id": 5,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1002090/ss_22e154f5f54d6f898fa70471297b6efa080f566a.600x338.jpg?t=1591304206",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1002090/ss_22e154f5f54d6f898fa70471297b6efa080f566a.1920x1080.jpg?t=1591304206"
+                },
+                {
+                    "id": 6,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1002090/ss_a2062b02e6ac2f6cb7f763f7a247ebaac79ed733.600x338.jpg?t=1591304206",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1002090/ss_a2062b02e6ac2f6cb7f763f7a247ebaac79ed733.1920x1080.jpg?t=1591304206"
                 }
             ],
             "release_date": {
@@ -84,7 +119,7 @@
                 "url": "http://redox.ca/",
                 "email": "arteom@redox.ca"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1002090/page_bg_generated_v6b.jpg?t=1545283424",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1002090/page_bg_generated_v6b.jpg?t=1591304206",
             "content_descriptors": {
                 "ids": [],
                 "notes": null

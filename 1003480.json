@@ -49,7 +49,7 @@
                     "subs": [
                         {
                             "packageid": 331699,
-                            "percent_savings_text": "",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
                             "option_text": "Fireboy &amp; Watergirl: Elements - 0,79€",
                             "option_description": "",
@@ -71,12 +71,20 @@
                     "description": "Single-player"
                 },
                 {
+                    "id": 1,
+                    "description": "Multi-player"
+                },
+                {
                     "id": 24,
                     "description": "Shared/Split Screen"
                 },
                 {
                     "id": 22,
                     "description": "Steam Achievements"
+                },
+                {
+                    "id": 44,
+                    "description": "Remote Play Together"
                 }
             ],
             "genres": [
@@ -126,9 +134,16 @@
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/256739214/movie480.webm?t=1547066809",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/256739214/movie_max.webm?t=1547066809"
                     },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256739214/movie480.mp4?t=1547066809",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256739214/movie_max.mp4?t=1547066809"
+                    },
                     "highlight": true
                 }
             ],
+            "recommendations": {
+                "total": 140
+            },
             "achievements": {
                 "total": 2,
                 "highlighted": [

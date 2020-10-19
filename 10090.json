@@ -48,7 +48,7 @@
                     "subs": [
                         {
                             "packageid": 1157,
-                            "percent_savings_text": "",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
                             "option_text": "Call of Duty: World at War - 19,99€",
                             "option_description": "",
@@ -194,6 +194,10 @@
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/5147/movie480.webm?t=1480110865",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/5147/movie_max.webm?t=1480110865"
                     },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/5147/movie480.mp4?t=1480110865",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/5147/movie_max.mp4?t=1480110865"
+                    },
                     "highlight": true
                 },
                 {
@@ -203,6 +207,10 @@
                     "webm": {
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/5253/movie480.webm?t=1480110878",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/5253/movie_max.webm?t=1480110878"
+                    },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/5253/movie480.mp4?t=1480110878",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/5253/movie_max.mp4?t=1480110878"
                     },
                     "highlight": true
                 },
@@ -214,14 +222,15 @@
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/5254/movie480.webm?t=1480110891",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/5254/movie_max.webm?t=1480110891"
                     },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/5254/movie480.mp4?t=1480110891",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/5254/movie_max.mp4?t=1480110891"
+                    },
                     "highlight": true
                 }
             ],
             "recommendations": {
-                "total": 21243
-            },
-            "achievements": {
-                "total": 0
+                "total": 26312
             },
             "release_date": {
                 "coming_soon": false,

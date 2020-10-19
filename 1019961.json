@@ -13,7 +13,7 @@
             "short_description": "Note: This product is included in the Season Pass 3. Be careful to avoid making a redundant purchase. An additional costume for Lu Xun &quot;Knight Costume&quot; will be available for use.",
             "fullgame": {
                 "appid": "730310",
-                "name": "DYNASTY WARRIORS 9 真・三國無双８"
+                "name": "DYNASTY WARRIORS 9"
             },
             "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Portuguese - Brazil, Korean, Japanese<strong>*</strong>, Simplified Chinese<strong>*</strong>, Traditional Chinese<br><strong>*</strong>languages with full audio support",
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1019961/header.jpg?t=1550735356",
@@ -40,7 +40,10 @@
                 "final_formatted": "2,99€"
             },
             "packages": [
-                338254
+                338254,
+                414770,
+                414771,
+                414767
             ],
             "package_groups": [
                 {
@@ -54,13 +57,43 @@
                     "subs": [
                         {
                             "packageid": 338254,
-                            "percent_savings_text": "",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
                             "option_text": "DYNASTY WARRIORS 9: Lu Xun \"Knight Costume\" / 陸遜「騎士風コスチューム」 - 2,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
                             "price_in_cents_with_discount": 299
+                        },
+                        {
+                            "packageid": 414770,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "DYNASTY WARRIORS 9 / 真・三國無双８- Additional Costumes Set - 49,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 4999
+                        },
+                        {
+                            "packageid": 414771,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "DYNASTY WARRIORS 9 / 真・三國無双８- All Season Passes Set - 64,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 6499
+                        },
+                        {
+                            "packageid": 414767,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "DYNASTY WARRIORS 9 Complete Edition / 真・三國無双８ オールシーズンパスエディション - 89,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 8999
                         }
                     ]
                 }
@@ -81,11 +114,11 @@
                 },
                 {
                     "id": 36,
-                    "description": "Online Multi-Player"
+                    "description": "Online PvP"
                 },
                 {
                     "id": 37,
-                    "description": "Local Multi-Player"
+                    "description": "Shared/Split Screen PvP"
                 },
                 {
                     "id": 9,
@@ -97,7 +130,7 @@
                 },
                 {
                     "id": 39,
-                    "description": "Local Co-op"
+                    "description": "Shared/Split Screen Co-op"
                 },
                 {
                     "id": 21,
@@ -133,9 +166,6 @@
                     "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1019961/ss_48c42b0d87b93bd44957e049eb3f854726380985.1920x1080.jpg?t=1550735356"
                 }
             ],
-            "achievements": {
-                "total": 0
-            },
             "release_date": {
                 "coming_soon": false,
                 "date": "20 Feb, 2019"

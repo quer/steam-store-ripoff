@@ -7,15 +7,15 @@
             "steam_appid": 1019230,
             "required_age": 0,
             "is_free": false,
-            "detailed_description": "In Mr Hack Jack: robot detective you will reconstruct a stream of mysterious robot crimes by solving puzzles and interacting with a bunch of funny yet fairly incompetent Police bots. <br />\r\n<br />\r\n<br />\r\nUsing your detective tools and hacking abilities, investigate each scene and uncover the victim’s final moments. Hack into the doors and robot brains with your “hack jack” plug or use your magnifier to uncover hidden clues.<br />\r\n<br />\r\n<br />\r\nMr Hack Jack: robot detective is a light-hearted take on detective stories set in a jazzy robot world.",
-            "about_the_game": "In Mr Hack Jack: robot detective you will reconstruct a stream of mysterious robot crimes by solving puzzles and interacting with a bunch of funny yet fairly incompetent Police bots. <br />\r\n<br />\r\n<br />\r\nUsing your detective tools and hacking abilities, investigate each scene and uncover the victim’s final moments. Hack into the doors and robot brains with your “hack jack” plug or use your magnifier to uncover hidden clues.<br />\r\n<br />\r\n<br />\r\nMr Hack Jack: robot detective is a light-hearted take on detective stories set in a jazzy robot world.",
-            "short_description": "In Mr Hack Jack: robot detective you will reconstruct a stream of mysterious robot crimes by solving puzzles and interacting with a bunch of funny yet fairly incompetent Police bots.",
-            "supported_languages": "English<strong>*</strong>, Japanese<strong>*</strong><br><strong>*</strong>languages with full audio support",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1019230/header.jpg?t=1553666207",
-            "website": "http://site-1427434-9694-2928.strikingly.com/",
+            "detailed_description": "Mr Hack Jack: Robot Detective is a light-hearted take on detective stories set in a jazzy robot world.<br />\r\n<br />\r\nIn Mr Hack Jack: Robot Detective you will reconstruct a stream of mysterious robot crimes by solving puzzles and interacting with a bunch of funny yet fairly incompetent Police bots. <br />\r\n<br />\r\nUsing your detective tools and hacking abilities, investigate each scene and uncover the victim’s final moments. Hack into doors and robot brains with your “hack jack” plug and use your magnifier to uncover hidden clues.",
+            "about_the_game": "Mr Hack Jack: Robot Detective is a light-hearted take on detective stories set in a jazzy robot world.<br />\r\n<br />\r\nIn Mr Hack Jack: Robot Detective you will reconstruct a stream of mysterious robot crimes by solving puzzles and interacting with a bunch of funny yet fairly incompetent Police bots. <br />\r\n<br />\r\nUsing your detective tools and hacking abilities, investigate each scene and uncover the victim’s final moments. Hack into doors and robot brains with your “hack jack” plug and use your magnifier to uncover hidden clues.",
+            "short_description": "A detective story set in a jazzy robot world. Solve mysterious robot crimes by solving puzzles and interacting with a bunch of funny yet fairly incompetent Police bots.",
+            "supported_languages": "English<strong>*</strong>, Japanese<strong>*</strong>, German<strong>*</strong>, Simplified Chinese<strong>*</strong>, Spanish - Spain<strong>*</strong>, Russian<strong>*</strong>, French<strong>*</strong><br><strong>*</strong>languages with full audio support",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1019230/header.jpg?t=1560506263",
+            "website": "https://www.donutsvr.com/",
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 7<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Geforce 770<br></li><li><strong>Storage:</strong> ５ GB available space</li></ul>",
-                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 10<br></li><li><strong>Processor:</strong> Core i7<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> Geforce 970<br></li><li><strong>Storage:</strong> ５ GB available space</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 7<br></li><li><strong>Processor:</strong> Core i5<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Geforce 770 - AMD Radeon R9 280X<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 10<br></li><li><strong>Processor:</strong> Core i7<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Geforce 970 - AMD Radeon R9 290<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>"
             },
             "mac_requirements": [],
             "linux_requirements": [],
@@ -25,7 +25,40 @@
             "publishers": [
                 "Donuts Co. Ltd."
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 1249,
+                "final": 1249,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "12,49€"
+            },
+            "packages": [
+                337970
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Mr.Hack Jack: Robot Detective",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 337970,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "Mr Hackjack - 12,49€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 1249
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": false,
@@ -35,10 +68,6 @@
                 {
                     "id": 2,
                     "description": "Single-player"
-                },
-                {
-                    "id": 18,
-                    "description": "Partial Controller Support"
                 }
             ],
             "genres": [
@@ -54,49 +83,122 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1019230/ss_a06b8ccab1f8b4f95ba236d0681bd88618785bb9.600x338.jpg?t=1553666207",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1019230/ss_a06b8ccab1f8b4f95ba236d0681bd88618785bb9.1920x1080.jpg?t=1553666207"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1019230/ss_33ab44bcd7d5ffbf61bc910790d520896f51a764.600x338.jpg?t=1560506263",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1019230/ss_33ab44bcd7d5ffbf61bc910790d520896f51a764.1920x1080.jpg?t=1560506263"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1019230/ss_999fb94140aae9fccb92cdd4455bb0320098d9f7.600x338.jpg?t=1553666207",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1019230/ss_999fb94140aae9fccb92cdd4455bb0320098d9f7.1920x1080.jpg?t=1553666207"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1019230/ss_5abd5a22d08545879cab921d45e2879cd4351f45.600x338.jpg?t=1560506263",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1019230/ss_5abd5a22d08545879cab921d45e2879cd4351f45.1920x1080.jpg?t=1560506263"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1019230/ss_079705e5bdd749bc9a05e7b077beca79b24ef5db.600x338.jpg?t=1553666207",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1019230/ss_079705e5bdd749bc9a05e7b077beca79b24ef5db.1920x1080.jpg?t=1553666207"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1019230/ss_edbc66419600aa74fe5b2d816af5b72e64de818e.600x338.jpg?t=1560506263",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1019230/ss_edbc66419600aa74fe5b2d816af5b72e64de818e.1920x1080.jpg?t=1560506263"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1019230/ss_c2066f668ff671ae22e60eb304f05de9c1699325.600x338.jpg?t=1553666207",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1019230/ss_c2066f668ff671ae22e60eb304f05de9c1699325.1920x1080.jpg?t=1553666207"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1019230/ss_920d4d228d660bf8c1a7607c48121af7770f4e46.600x338.jpg?t=1560506263",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1019230/ss_920d4d228d660bf8c1a7607c48121af7770f4e46.1920x1080.jpg?t=1560506263"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1019230/ss_8b1ae32cd6ef63aa4f28bb333da2dd7398d109af.600x338.jpg?t=1553666207",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1019230/ss_8b1ae32cd6ef63aa4f28bb333da2dd7398d109af.1920x1080.jpg?t=1553666207"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1019230/ss_5166a13fdc5fa193040baab96293ddf3acb8c6f2.600x338.jpg?t=1560506263",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1019230/ss_5166a13fdc5fa193040baab96293ddf3acb8c6f2.1920x1080.jpg?t=1560506263"
                 },
                 {
                     "id": 5,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1019230/ss_aeb2a0896a75074bcdb6508c1d2ab32caf8d2695.600x338.jpg?t=1553666207",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1019230/ss_aeb2a0896a75074bcdb6508c1d2ab32caf8d2695.1920x1080.jpg?t=1553666207"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1019230/ss_c49383dd0449fced7d5e68a88f66f36d9f4ec93a.600x338.jpg?t=1560506263",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1019230/ss_c49383dd0449fced7d5e68a88f66f36d9f4ec93a.1920x1080.jpg?t=1560506263"
                 },
                 {
                     "id": 6,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1019230/ss_74ba51c6c4913084d2449f1a7cd59c31e58cfac6.600x338.jpg?t=1553666207",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1019230/ss_74ba51c6c4913084d2449f1a7cd59c31e58cfac6.1920x1080.jpg?t=1553666207"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1019230/ss_a2f65146f6f9bb1999d475e5ff0260c81b3b7c0a.600x338.jpg?t=1560506263",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1019230/ss_a2f65146f6f9bb1999d475e5ff0260c81b3b7c0a.1920x1080.jpg?t=1560506263"
+                },
+                {
+                    "id": 7,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1019230/ss_9837b9fc64dba3e2e0c7e4227f8d676eb1eb651a.600x338.jpg?t=1560506263",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1019230/ss_9837b9fc64dba3e2e0c7e4227f8d676eb1eb651a.1920x1080.jpg?t=1560506263"
+                },
+                {
+                    "id": 8,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1019230/ss_4e03300d1de4e5f41227afff0ccd46bc2ee0667f.600x338.jpg?t=1560506263",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1019230/ss_4e03300d1de4e5f41227afff0ccd46bc2ee0667f.1920x1080.jpg?t=1560506263"
+                },
+                {
+                    "id": 9,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1019230/ss_23ff17f4b7bee841c3e1495f906258ad7d3cb667.600x338.jpg?t=1560506263",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1019230/ss_23ff17f4b7bee841c3e1495f906258ad7d3cb667.1920x1080.jpg?t=1560506263"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 256750314,
+                    "name": "Release trailer",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256750314/movie.293x165.jpg?t=1557534882",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256750314/movie480.webm?t=1557534882",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256750314/movie_max.webm?t=1557534882"
+                    },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256750314/movie480.mp4?t=1557534882",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256750314/movie_max.mp4?t=1557534882"
+                    },
+                    "highlight": true
+                },
+                {
+                    "id": 256750044,
+                    "name": "Promo: The bump",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256750044/movie.293x165.jpg?t=1557729301",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256750044/movie480.webm?t=1557729301",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256750044/movie_max.webm?t=1557729301"
+                    },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256750044/movie480.mp4?t=1557729301",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256750044/movie_max.mp4?t=1557729301"
+                    },
+                    "highlight": false
+                },
+                {
+                    "id": 256750043,
+                    "name": "Promo: Runaway romance",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256750043/movie.293x165.jpg?t=1557729311",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256750043/movie480.webm?t=1557729311",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256750043/movie_max.webm?t=1557729311"
+                    },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256750043/movie480.mp4?t=1557729311",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256750043/movie_max.mp4?t=1557729311"
+                    },
+                    "highlight": false
+                },
+                {
+                    "id": 256750042,
+                    "name": "Promo: This way sir",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256750042/movie.293x165.jpg?t=1557369822",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256750042/movie480.webm?t=1557369822",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256750042/movie_max.webm?t=1557369822"
+                    },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256750042/movie480.mp4?t=1557369822",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256750042/movie_max.mp4?t=1557369822"
+                    },
+                    "highlight": false
                 }
             ],
             "release_date": {
-                "coming_soon": true,
-                "date": "Coming soon"
+                "coming_soon": false,
+                "date": "10 May, 2019"
             },
             "support_info": {
-                "url": "",
+                "url": "www.donutsvr.com",
                 "email": "vrgame@donuts.ne.jp"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1019230/page_bg_generated_v6b.jpg?t=1553666207",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1019230/page_bg_generated_v6b.jpg?t=1560506263",
             "content_descriptors": {
                 "ids": [],
                 "notes": null

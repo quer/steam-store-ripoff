@@ -11,32 +11,68 @@
             "about_the_game": "This is a visual novel about 60 minutes in length, telling a story of memories.The visual novel &quot;Once10&quot; is a story which will recall the experience of many individuals. Regardless of if you're in your springtime of life having full of dreams for the future, or if you're a matured adult who has already stepped into the society and owns a family, you will all somehow spot traces of yourself in &quot;Once10&quot;. Because that‘one time' not only exists in the game, but it also belongs to each one of us. It's a heartwarming story with moments of joy and regret.",
             "short_description": "This is a visual novel about 60 minutes in length, telling a story of memories.he visual novel &quot;Once10&quot; is a story which will recall the experience of many individuals.",
             "supported_languages": "Simplified Chinese<strong>*</strong><br><strong>*</strong>languages with full audio support",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1009950/header.jpg?t=1548290964",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1009950/header.jpg?t=1569233324",
             "website": null,
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong> i3 2GHz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> GeForce GT 625M<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>",
                 "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> i3 3GHz<br></li><li><strong>Memory:</strong> 8 MB RAM<br></li><li><strong>Graphics:</strong> GeForce GTX 650 Ti<br></li><li><strong>DirectX:</strong> Version 12<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>"
             },
-            "mac_requirements": [],
+            "mac_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 10.6<br></li><li><strong>Processor:</strong> 1Ghz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 10.6<br></li><li><strong>Processor:</strong> 3GHz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>"
+            },
             "linux_requirements": [],
             "developers": [
-                "净土制作室",
+                "JingtuStudio",
                 "乌鸦大仙"
             ],
             "publishers": [
-                "净土制作室",
+                "JingtuStudio",
                 "乌鸦大仙"
             ],
-            "package_groups": [],
+            "packages": [
+                382218
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Once10",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 382218,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "Once10 - Commercial License (Free) - Free",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": true,
+                            "price_in_cents_with_discount": 0
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
-                "mac": false,
+                "mac": true,
                 "linux": false
             },
             "categories": [
                 {
                     "id": 2,
                     "description": "Single-player"
+                },
+                {
+                    "id": 22,
+                    "description": "Steam Achievements"
+                },
+                {
+                    "id": 23,
+                    "description": "Steam Cloud"
                 }
             ],
             "genres": [
@@ -56,33 +92,33 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1009950/ss_bf93f5fe0a11b0aa1ce23fd9742c6fc5cd6f99d1.600x338.jpg?t=1548290964",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1009950/ss_bf93f5fe0a11b0aa1ce23fd9742c6fc5cd6f99d1.1920x1080.jpg?t=1548290964"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1009950/ss_bf93f5fe0a11b0aa1ce23fd9742c6fc5cd6f99d1.600x338.jpg?t=1569233324",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1009950/ss_bf93f5fe0a11b0aa1ce23fd9742c6fc5cd6f99d1.1920x1080.jpg?t=1569233324"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1009950/ss_4f9ef2ad99a6fa34bd6c0f27cec05662a2967022.600x338.jpg?t=1548290964",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1009950/ss_4f9ef2ad99a6fa34bd6c0f27cec05662a2967022.1920x1080.jpg?t=1548290964"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1009950/ss_4f9ef2ad99a6fa34bd6c0f27cec05662a2967022.600x338.jpg?t=1569233324",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1009950/ss_4f9ef2ad99a6fa34bd6c0f27cec05662a2967022.1920x1080.jpg?t=1569233324"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1009950/ss_2327663c6a844917e21d63df45fa8df3b2cf84d6.600x338.jpg?t=1548290964",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1009950/ss_2327663c6a844917e21d63df45fa8df3b2cf84d6.1920x1080.jpg?t=1548290964"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1009950/ss_2327663c6a844917e21d63df45fa8df3b2cf84d6.600x338.jpg?t=1569233324",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1009950/ss_2327663c6a844917e21d63df45fa8df3b2cf84d6.1920x1080.jpg?t=1569233324"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1009950/ss_252ee5be0689652cf9a6e5bb162ed4568c3e9200.600x338.jpg?t=1548290964",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1009950/ss_252ee5be0689652cf9a6e5bb162ed4568c3e9200.1920x1080.jpg?t=1548290964"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1009950/ss_252ee5be0689652cf9a6e5bb162ed4568c3e9200.600x338.jpg?t=1569233324",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1009950/ss_252ee5be0689652cf9a6e5bb162ed4568c3e9200.1920x1080.jpg?t=1569233324"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1009950/ss_80a8dd17a8ed0ff2979e11336d336062c391c4aa.600x338.jpg?t=1548290964",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1009950/ss_80a8dd17a8ed0ff2979e11336d336062c391c4aa.1920x1080.jpg?t=1548290964"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1009950/ss_80a8dd17a8ed0ff2979e11336d336062c391c4aa.600x338.jpg?t=1569233324",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1009950/ss_80a8dd17a8ed0ff2979e11336d336062c391c4aa.1920x1080.jpg?t=1569233324"
                 },
                 {
                     "id": 5,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1009950/ss_5675953f7ceab2834fc7102a885a2e1e0202c515.600x338.jpg?t=1548290964",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1009950/ss_5675953f7ceab2834fc7102a885a2e1e0202c515.1920x1080.jpg?t=1548290964"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1009950/ss_5675953f7ceab2834fc7102a885a2e1e0202c515.600x338.jpg?t=1569233324",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1009950/ss_5675953f7ceab2834fc7102a885a2e1e0202c515.1920x1080.jpg?t=1569233324"
                 }
             ],
             "movies": [
@@ -93,6 +129,10 @@
                     "webm": {
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/256739733/movie480.webm?t=1547023518",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/256739733/movie_max.webm?t=1547023518"
+                    },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256739733/movie480.mp4?t=1547023518",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256739733/movie_max.mp4?t=1547023518"
                     },
                     "highlight": true
                 }
@@ -138,7 +178,7 @@
                 "url": "https://weibo.com/jingtustudio",
                 "email": ""
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1009950/page_bg_generated_v6b.jpg?t=1548290964",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1009950/page_bg_generated_v6b.jpg?t=1569233324",
             "content_descriptors": {
                 "ids": [],
                 "notes": null

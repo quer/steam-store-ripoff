@@ -55,7 +55,7 @@
                     "subs": [
                         {
                             "packageid": 337444,
-                            "percent_savings_text": "",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
                             "option_text": "Anniversary Collection Arcade Classics - 19,99€",
                             "option_description": "",
@@ -162,9 +162,16 @@
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/256746417/movie480.webm?t=1555607023",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/256746417/movie_max.webm?t=1555607023"
                     },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256746417/movie480.mp4?t=1555607023",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256746417/movie_max.mp4?t=1555607023"
+                    },
                     "highlight": true
                 }
             ],
+            "recommendations": {
+                "total": 101
+            },
             "achievements": {
                 "total": 17,
                 "highlighted": [

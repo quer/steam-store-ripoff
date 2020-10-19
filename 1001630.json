@@ -11,10 +11,6 @@
             "detailed_description": "<h1>Steam Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>#label_about_the_series</h1>SYNOPSIS: Max meets a beautiful girl online, but when their ‘outside’ date goes awry he returns home for a drunken late-night porn binge and discovers a portal to the dark net. Bad things happen.",
             "about_the_game": "SYNOPSIS: Max meets a beautiful girl online, but when their ‘outside’ date goes awry he returns home for a drunken late-night porn binge and discovers a portal to the dark net. Bad things happen.",
             "short_description": "SUBVERSE is a sci-fi web-series about the dark side of the Internet. Addiction. Dating. Privacy. Public shaming.",
-            "fullgame": {
-                "appid": null,
-                "name": "Uninitialized"
-            },
             "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1001630/header.jpg?t=1547827587",
             "website": "http://www.subverse.online/",
@@ -52,7 +48,7 @@
                     "subs": [
                         {
                             "packageid": 331009,
-                            "percent_savings_text": "",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
                             "option_text": "SUBVERSE - Free",
                             "option_description": "",
@@ -150,12 +146,13 @@
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/256739619/movie480.webm?t=1547750849",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/256739619/movie_max.webm?t=1547750849"
                     },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256739619/movie480.mp4?t=1547750849",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256739619/movie_max.mp4?t=1547750849"
+                    },
                     "highlight": true
                 }
             ],
-            "achievements": {
-                "total": 0
-            },
             "release_date": {
                 "coming_soon": false,
                 "date": "17 Jan, 2019"

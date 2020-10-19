@@ -47,7 +47,7 @@
                     "subs": [
                         {
                             "packageid": 337698,
-                            "percent_savings_text": "",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
                             "option_text": "Dawn Break -Origin- - 2,39€",
                             "option_description": "",
@@ -119,6 +119,10 @@
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/256750677/movie480.webm?t=1557971008",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/256750677/movie_max.webm?t=1557971008"
                     },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256750677/movie480.mp4?t=1557971008",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256750677/movie_max.mp4?t=1557971008"
+                    },
                     "highlight": true
                 },
                 {
@@ -128,6 +132,10 @@
                     "webm": {
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/256750676/movie480.webm?t=1557971018",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/256750676/movie_max.webm?t=1557971018"
+                    },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256750676/movie480.mp4?t=1557971018",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256750676/movie_max.mp4?t=1557971018"
                     },
                     "highlight": true
                 },
@@ -139,12 +147,13 @@
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/256743691/movie480.webm?t=1555555433",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/256743691/movie_max.webm?t=1555555433"
                     },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256743691/movie480.mp4?t=1555555433",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256743691/movie_max.mp4?t=1555555433"
+                    },
                     "highlight": true
                 }
             ],
-            "achievements": {
-                "total": 0
-            },
             "release_date": {
                 "coming_soon": false,
                 "date": "15 May, 2019"

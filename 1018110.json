@@ -48,7 +48,7 @@
                     "subs": [
                         {
                             "packageid": 337485,
-                            "percent_savings_text": "",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
                             "option_text": "DEAD - 11,59€",
                             "option_description": "",
@@ -160,6 +160,10 @@
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/256769221/movie480.webm?t=1575883006",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/256769221/movie_max.webm?t=1575883006"
                     },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256769221/movie480.mp4?t=1575883006",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256769221/movie_max.mp4?t=1575883006"
+                    },
                     "highlight": true
                 },
                 {
@@ -170,12 +174,13 @@
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/256746097/movie480.webm?t=1557429771",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/256746097/movie_max.webm?t=1557429771"
                     },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256746097/movie480.mp4?t=1557429771",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256746097/movie_max.mp4?t=1557429771"
+                    },
                     "highlight": true
                 }
             ],
-            "achievements": {
-                "total": 0
-            },
             "release_date": {
                 "coming_soon": false,
                 "date": "19 Aug, 2019"

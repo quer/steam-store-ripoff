@@ -59,7 +59,7 @@
                     "subs": [
                         {
                             "packageid": 338231,
-                            "percent_savings_text": "",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
                             "option_text": "Dark Deception Chapter 3 - 5,69€",
                             "option_description": "",
@@ -176,9 +176,16 @@
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/256754726/movie480.webm?t=1562069239",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/256754726/movie_max.webm?t=1562069239"
                     },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256754726/movie480.mp4?t=1562069239",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256754726/movie_max.mp4?t=1562069239"
+                    },
                     "highlight": true
                 }
             ],
+            "recommendations": {
+                "total": 103
+            },
             "release_date": {
                 "coming_soon": false,
                 "date": "24 Jun, 2019"

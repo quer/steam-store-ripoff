@@ -3,16 +3,16 @@
         "success": true,
         "data": {
             "type": "game",
-            "name": "Tech vs Magic",
+            "name": "Threshold: Tech vs Magic",
             "steam_appid": 1004470,
             "required_age": 0,
             "is_free": false,
             "controller_support": "full",
-            "detailed_description": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/1004470/extras/Exis_TVM_head2head.jpg?t=1580326064\" ><br><br><strong>EVOLVING BATTLEFIELD</strong><br>The magic dimension is tearing into ours, expanding and replacing the world as it goes. Stand against it or help it conquer our realm; destiny is yours to shape, What will you do?<br><br><strong>INTENSE VEHICLE COMBAT</strong><br>Ride into battle on your war mount, or make the earth shake from your tank treads. It’s modern technology against mythical creatures from another realm; ride dragons or fly an Apache Attack helicopter as you support your side in this reality bending conflict.<br><br><strong>GRENADES OR GOLEMS</strong><br>TVM pits modern tech against hardcore magic, you choose if you want the firepower of an AR-15, or the searing heat of a fireball. Play multiple classes on either side, from a summoner calling forth creatures from the fadesphere, to a spec-ops commando kicking ass and taking names. The stakes are set, and it’s anybody’s game.<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/1004470/extras/Exis_TVM_Rider.jpg?t=1580326064\" >",
-            "about_the_game": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/1004470/extras/Exis_TVM_head2head.jpg?t=1580326064\" ><br><br><strong>EVOLVING BATTLEFIELD</strong><br>The magic dimension is tearing into ours, expanding and replacing the world as it goes. Stand against it or help it conquer our realm; destiny is yours to shape, What will you do?<br><br><strong>INTENSE VEHICLE COMBAT</strong><br>Ride into battle on your war mount, or make the earth shake from your tank treads. It’s modern technology against mythical creatures from another realm; ride dragons or fly an Apache Attack helicopter as you support your side in this reality bending conflict.<br><br><strong>GRENADES OR GOLEMS</strong><br>TVM pits modern tech against hardcore magic, you choose if you want the firepower of an AR-15, or the searing heat of a fireball. Play multiple classes on either side, from a summoner calling forth creatures from the fadesphere, to a spec-ops commando kicking ass and taking names. The stakes are set, and it’s anybody’s game.<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/1004470/extras/Exis_TVM_Rider.jpg?t=1580326064\" >",
-            "short_description": "Tech vs Magic is an action FPS where radically different enemies vie to control the fate of the world. Magical forces have erupted forth into our world, and threaten to replace our reality with one of their making.",
+            "detailed_description": "<img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/1004470/extras/Exis_TVM_head2head.jpg?t=1602263180\" /><br><br><strong>EVOLVING BATTLEFIELD</strong><br>The magic dimension is tearing into ours, expanding and replacing the world as it goes. Stand against it or help it conquer our realm; destiny is yours to shape, What will you do?<br><br><strong>INTENSE VEHICLE COMBAT</strong><br>Ride into battle on your war mount, or make the earth shake from your tank treads. It’s modern technology against mythical creatures from another realm; ride dragons or fly an Apache Attack helicopter as you support your side in this reality bending conflict.<br><br><strong>GRENADES OR GOLEMS</strong><br>TVM pits modern tech against hardcore magic, you choose if you want the firepower of an AR-15, or the searing heat of a fireball. Play multiple classes on either side, from a summoner calling forth creatures from the fadesphere, to a spec-ops commando kicking ass and taking names. The stakes are set, and it’s anybody’s game.<br><br><img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/1004470/extras/Exis_TVM_Rider.jpg?t=1602263180\" />",
+            "about_the_game": "<img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/1004470/extras/Exis_TVM_head2head.jpg?t=1602263180\" /><br><br><strong>EVOLVING BATTLEFIELD</strong><br>The magic dimension is tearing into ours, expanding and replacing the world as it goes. Stand against it or help it conquer our realm; destiny is yours to shape, What will you do?<br><br><strong>INTENSE VEHICLE COMBAT</strong><br>Ride into battle on your war mount, or make the earth shake from your tank treads. It’s modern technology against mythical creatures from another realm; ride dragons or fly an Apache Attack helicopter as you support your side in this reality bending conflict.<br><br><strong>GRENADES OR GOLEMS</strong><br>TVM pits modern tech against hardcore magic, you choose if you want the firepower of an AR-15, or the searing heat of a fireball. Play multiple classes on either side, from a summoner calling forth creatures from the fadesphere, to a spec-ops commando kicking ass and taking names. The stakes are set, and it’s anybody’s game.<br><br><img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/1004470/extras/Exis_TVM_Rider.jpg?t=1602263180\" />",
+            "short_description": "Tech Vs Magic is a multiplayer action third person shooter where radically different enemies fight for the fate of our reality. Magical forces have erupted into our world, will you wield the power cosmic, or dominate the battlefield with modern weaponry. Which side will you choose?",
             "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1004470/header.jpg?t=1580326064",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1004470/header.jpg?t=1602263180",
             "website": "http://tvm.exisgames.com",
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7, 8, 10<br></li><li><strong>Processor:</strong> Intel Core i7 or AMD Ryzen with 4 physical cores<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Geforce GTX 970 or AMD Radeon rx580 with 8 GB of VRAM<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 15 GB available space</li></ul>"
@@ -37,6 +37,14 @@
                     "description": "Multi-player"
                 },
                 {
+                    "id": 49,
+                    "description": "PvP"
+                },
+                {
+                    "id": 36,
+                    "description": "Online PvP"
+                },
+                {
                     "id": 28,
                     "description": "Full controller support"
                 }
@@ -49,43 +57,77 @@
                 {
                     "id": "25",
                     "description": "Adventure"
+                },
+                {
+                    "id": "23",
+                    "description": "Indie"
                 }
             ],
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1004470/ss_8c863506080c0dc55f281916bc42d315b18babb7.600x338.jpg?t=1580326064",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1004470/ss_8c863506080c0dc55f281916bc42d315b18babb7.1920x1080.jpg?t=1580326064"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1004470/ss_3ee503de6c635f348c587cbb55ce8cc41f48181d.600x338.jpg?t=1602263180",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1004470/ss_3ee503de6c635f348c587cbb55ce8cc41f48181d.1920x1080.jpg?t=1602263180"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1004470/ss_a09d5c8eaf6a24996cdca7c8a12ab6b913d4817f.600x338.jpg?t=1580326064",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1004470/ss_a09d5c8eaf6a24996cdca7c8a12ab6b913d4817f.1920x1080.jpg?t=1580326064"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1004470/ss_a09d5c8eaf6a24996cdca7c8a12ab6b913d4817f.600x338.jpg?t=1602263180",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1004470/ss_a09d5c8eaf6a24996cdca7c8a12ab6b913d4817f.1920x1080.jpg?t=1602263180"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1004470/ss_603601cbf98cdb5e8bd3d3b6f577463f47b335b3.600x338.jpg?t=1580326064",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1004470/ss_603601cbf98cdb5e8bd3d3b6f577463f47b335b3.1920x1080.jpg?t=1580326064"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1004470/ss_603601cbf98cdb5e8bd3d3b6f577463f47b335b3.600x338.jpg?t=1602263180",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1004470/ss_603601cbf98cdb5e8bd3d3b6f577463f47b335b3.1920x1080.jpg?t=1602263180"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1004470/ss_b307723a8a1c5bcb07bbdc6428996d6b07c8226a.600x338.jpg?t=1580326064",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1004470/ss_b307723a8a1c5bcb07bbdc6428996d6b07c8226a.1920x1080.jpg?t=1580326064"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1004470/ss_9e570c1c6c39d00f891aa6d21997325512ac3b5d.600x338.jpg?t=1602263180",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1004470/ss_9e570c1c6c39d00f891aa6d21997325512ac3b5d.1920x1080.jpg?t=1602263180"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1004470/ss_9e570c1c6c39d00f891aa6d21997325512ac3b5d.600x338.jpg?t=1580326064",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1004470/ss_9e570c1c6c39d00f891aa6d21997325512ac3b5d.1920x1080.jpg?t=1580326064"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1004470/ss_27252fe601d3a8f3f5c6597b4aa19e9b685aae1c.600x338.jpg?t=1602263180",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1004470/ss_27252fe601d3a8f3f5c6597b4aa19e9b685aae1c.1920x1080.jpg?t=1602263180"
                 },
                 {
                     "id": 5,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1004470/ss_27252fe601d3a8f3f5c6597b4aa19e9b685aae1c.600x338.jpg?t=1580326064",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1004470/ss_27252fe601d3a8f3f5c6597b4aa19e9b685aae1c.1920x1080.jpg?t=1580326064"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1004470/ss_89fa25ebfce1f213d445b49c8dfa4093e6cdae87.600x338.jpg?t=1602263180",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1004470/ss_89fa25ebfce1f213d445b49c8dfa4093e6cdae87.1920x1080.jpg?t=1602263180"
                 },
                 {
                     "id": 6,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1004470/ss_a7e1060ab21f08b930492fb1ed78fd6a432ac698.600x338.jpg?t=1580326064",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1004470/ss_a7e1060ab21f08b930492fb1ed78fd6a432ac698.1920x1080.jpg?t=1580326064"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1004470/ss_b0cf319c79393f4257cf7e8521c7da03896c9db9.600x338.jpg?t=1602263180",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1004470/ss_b0cf319c79393f4257cf7e8521c7da03896c9db9.1920x1080.jpg?t=1602263180"
+                },
+                {
+                    "id": 7,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1004470/ss_a7e1060ab21f08b930492fb1ed78fd6a432ac698.600x338.jpg?t=1602263180",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1004470/ss_a7e1060ab21f08b930492fb1ed78fd6a432ac698.1920x1080.jpg?t=1602263180"
+                },
+                {
+                    "id": 8,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1004470/ss_aabf81eb53d4d46646d915587806ce53abe21b34.600x338.jpg?t=1602263180",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1004470/ss_aabf81eb53d4d46646d915587806ce53abe21b34.1920x1080.jpg?t=1602263180"
+                },
+                {
+                    "id": 9,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1004470/ss_dd172936d82fb07c5ca5a2aff00cd8305d567148.600x338.jpg?t=1602263180",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1004470/ss_dd172936d82fb07c5ca5a2aff00cd8305d567148.1920x1080.jpg?t=1602263180"
+                },
+                {
+                    "id": 10,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1004470/ss_567a93ec8fc0017c8f8839dc4b75244b4af38ae7.600x338.jpg?t=1602263180",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1004470/ss_567a93ec8fc0017c8f8839dc4b75244b4af38ae7.1920x1080.jpg?t=1602263180"
+                },
+                {
+                    "id": 11,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1004470/ss_871a7044880d72593323cdc92e3f4a6e552ca627.600x338.jpg?t=1602263180",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1004470/ss_871a7044880d72593323cdc92e3f4a6e552ca627.1920x1080.jpg?t=1602263180"
+                },
+                {
+                    "id": 12,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1004470/ss_c027f03abbab57bd375cc249a0af35acfd8b635e.600x338.jpg?t=1602263180",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1004470/ss_c027f03abbab57bd375cc249a0af35acfd8b635e.1920x1080.jpg?t=1602263180"
                 }
             ],
             "movies": [
@@ -96,6 +138,10 @@
                     "webm": {
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/256764477/movie480.webm?t=1580326062",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/256764477/movie_max.webm?t=1580326062"
+                    },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256764477/movie480.mp4?t=1580326062",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256764477/movie_max.mp4?t=1580326062"
                     },
                     "highlight": true
                 }
@@ -108,7 +154,7 @@
                 "url": "http://tvm.exisgames.com",
                 "email": ""
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1004470/page_bg_generated_v6b.jpg?t=1580326064",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1004470/page_bg_generated_v6b.jpg?t=1602263180",
             "content_descriptors": {
                 "ids": [
                     2,

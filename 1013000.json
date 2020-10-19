@@ -11,11 +11,11 @@
             "about_the_game": "<strong><u>What is Kingdom-Heroes?</u></strong><br><br><u>Genr​e:​</u><br><br>Kingdom-Heroes is an real time strategy game playing in the middle Ages.<br>The only platform it supports at the moment is windows.<br><br><br><u>Content:</u><br><br>Kingdom-Heroes offers real time strategy fun in 2D Pixelart optics and cool atmospheric music and sound.<br>Build up your Colony by placing every building where you want and recruiting as many units as you want!<br>Build outposts, Farming stations or strengthen your defenses!<br>Play the game how you want and try out different tatics.<br>​Some may lead to victory, some may doom you to lose!",
             "short_description": "Kingdom-Heroes offers real time strategy fun in 2D Pixelart optics and cool atmospheric music and sound. Build up your Colony by placing every building where you want and recruiting as many units as you want! Build outposts, Farming stations or strengthen your defenses!",
             "supported_languages": "English, German",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1013000/header.jpg?t=1553550090",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1013000/header.jpg?t=1595278869",
             "website": null,
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong> i3<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> GT 720M<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>",
-                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> i5<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> GTX 750<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong> i3<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GT 720M or equivalent<br></li><li><strong>Storage:</strong> 200 MB available space<br></li><li><strong>Additional Notes:</strong> Optimal Screen Resolution from 1280x720 to 1920x1080</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> i5<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GTX 750 or equivalent<br></li><li><strong>Storage:</strong> 500 MB available space<br></li><li><strong>Additional Notes:</strong> Optimal Screen Resolution from 1280x720 to 1920x1080</li></ul>"
             },
             "mac_requirements": [],
             "linux_requirements": [],
@@ -25,7 +25,40 @@
             "publishers": [
                 "PlayMr300"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 79,
+                "final": 79,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "0,79€"
+            },
+            "packages": [
+                335614
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Kingdom-Heroes",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 335614,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "Kingdom-Heroes - 0,79€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 79
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": false,
@@ -35,9 +68,25 @@
                 {
                     "id": 2,
                     "description": "Single-player"
+                },
+                {
+                    "id": 22,
+                    "description": "Steam Achievements"
+                },
+                {
+                    "id": 23,
+                    "description": "Steam Cloud"
                 }
             ],
             "genres": [
+                {
+                    "id": "4",
+                    "description": "Casual"
+                },
+                {
+                    "id": "23",
+                    "description": "Indie"
+                },
                 {
                     "id": "2",
                     "description": "Strategy"
@@ -50,61 +99,108 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1013000/ss_08e1b92e0f9ea678aa6bb11def33c31ba5866f74.600x338.jpg?t=1553550090",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1013000/ss_08e1b92e0f9ea678aa6bb11def33c31ba5866f74.1920x1080.jpg?t=1553550090"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1013000/ss_c46dd3a2ac9bbba6a794613568e09ec4057f134e.600x338.jpg?t=1595278869",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1013000/ss_c46dd3a2ac9bbba6a794613568e09ec4057f134e.1920x1080.jpg?t=1595278869"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1013000/ss_7e5b46db571d11b2db0ce60954f999eca4ce4cb8.600x338.jpg?t=1553550090",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1013000/ss_7e5b46db571d11b2db0ce60954f999eca4ce4cb8.1920x1080.jpg?t=1553550090"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1013000/ss_80eb7df7720de8b65bdd84918bf0b12b3a2eb09c.600x338.jpg?t=1595278869",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1013000/ss_80eb7df7720de8b65bdd84918bf0b12b3a2eb09c.1920x1080.jpg?t=1595278869"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1013000/ss_42f00356d707de02a8c7b53f4c808185e99133ff.600x338.jpg?t=1553550090",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1013000/ss_42f00356d707de02a8c7b53f4c808185e99133ff.1920x1080.jpg?t=1553550090"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1013000/ss_09a1cc9ca466083b5169f1640f75c49c8a85a076.600x338.jpg?t=1595278869",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1013000/ss_09a1cc9ca466083b5169f1640f75c49c8a85a076.1920x1080.jpg?t=1595278869"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1013000/ss_65d174cff5389a8da71d6e8cf7ba9977f8561498.600x338.jpg?t=1553550090",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1013000/ss_65d174cff5389a8da71d6e8cf7ba9977f8561498.1920x1080.jpg?t=1553550090"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1013000/ss_2e2f578629b278a39b131b5998082ef44fc0d810.600x338.jpg?t=1595278869",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1013000/ss_2e2f578629b278a39b131b5998082ef44fc0d810.1920x1080.jpg?t=1595278869"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1013000/ss_b4817da2cabf1cebf81df3daf6c7ef21cb48dcec.600x338.jpg?t=1553550090",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1013000/ss_b4817da2cabf1cebf81df3daf6c7ef21cb48dcec.1920x1080.jpg?t=1553550090"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1013000/ss_90cc79c7b8a11143cf0e1fa0d1029f1ff4a7c1bd.600x338.jpg?t=1595278869",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1013000/ss_90cc79c7b8a11143cf0e1fa0d1029f1ff4a7c1bd.1920x1080.jpg?t=1595278869"
                 },
                 {
                     "id": 5,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1013000/ss_e07aae777da06ae3223baec75e58301b7affc8e8.600x338.jpg?t=1553550090",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1013000/ss_e07aae777da06ae3223baec75e58301b7affc8e8.1920x1080.jpg?t=1553550090"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1013000/ss_3947ca9a0628c7df633033abaf5a7a15fd102544.600x338.jpg?t=1595278869",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1013000/ss_3947ca9a0628c7df633033abaf5a7a15fd102544.1920x1080.jpg?t=1595278869"
                 }
             ],
             "movies": [
                 {
-                    "id": 256744518,
-                    "name": "Kingdom-Heroes Short Steam Trailer (Music by Ender Guney)",
-                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256744518/movie.293x165.jpg?t=1551742285",
+                    "id": 256776565,
+                    "name": "Kingdom Heroes - New Horizon Update [Steam Trailer]",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256776565/movie.293x165.jpg?t=1582899271",
                     "webm": {
-                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256744518/movie480.webm?t=1551742285",
-                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256744518/movie_max.webm?t=1551742285"
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256776565/movie480.webm?t=1582899271",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256776565/movie_max.webm?t=1582899271"
+                    },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256776565/movie480.mp4?t=1582899271",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256776565/movie_max.mp4?t=1582899271"
                     },
                     "highlight": true
                 }
             ],
+            "achievements": {
+                "total": 11,
+                "highlighted": [
+                    {
+                        "name": "Lets Go!",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1013000/df78e66078b1e9b494758c8c495b5c4f0a0445d6.jpg"
+                    },
+                    {
+                        "name": "Everyone starts small!",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1013000/6ba804989dce508982df3220a6a4362c97847815.jpg"
+                    },
+                    {
+                        "name": "Now you know!",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1013000/374a3d2c6ade52ebf5c977b0b3f79bb00d6f73d6.jpg"
+                    },
+                    {
+                        "name": "Champion!",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1013000/305860d1ce4ed7b99a148e43657d39e5a9851189.jpg"
+                    },
+                    {
+                        "name": "Next time!",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1013000/c13527991343161b514f9053252776cfc83be43a.jpg"
+                    },
+                    {
+                        "name": "First blood!",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1013000/c7e512a96a3c9eaf041da7251f93d1284f830977.jpg"
+                    },
+                    {
+                        "name": "The more, the better!",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1013000/ce6da0797036b1c12db35628c57987a907439bb5.jpg"
+                    },
+                    {
+                        "name": "Long range!",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1013000/02a50dc956027a026dc3da9bab691244bfc0d523.jpg"
+                    },
+                    {
+                        "name": "The End! (Of Chapter 1)",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1013000/0e0130440b35d793a976dc45b03eafacbe79a728.jpg"
+                    },
+                    {
+                        "name": "Rewinding Time...",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1013000/dfce85ccbf4d316645f46ed6748da781f3670e56.jpg"
+                    }
+                ]
+            },
             "release_date": {
-                "coming_soon": true,
-                "date": "Summer 2019"
+                "coming_soon": false,
+                "date": "22 Jun, 2019"
             },
             "support_info": {
                 "url": "",
                 "email": "cedwei126@t-online.de"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1013000/page_bg_generated_v6b.jpg?t=1553550090",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1013000/page_bg_generated_v6b.jpg?t=1595278869",
             "content_descriptors": {
-                "ids": [
-                    5
-                ],
-                "notes": "bloodshed for units"
+                "ids": [],
+                "notes": null
             }
         }
     }

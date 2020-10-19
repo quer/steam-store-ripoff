@@ -33,10 +33,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 159,
-                "final": 95,
-                "discount_percent": 40,
-                "initial_formatted": "1,59€",
-                "final_formatted": "0,95€"
+                "final": 159,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "1,59€"
             },
             "packages": [
                 335113
@@ -53,13 +53,13 @@
                     "subs": [
                         {
                             "packageid": 335113,
-                            "percent_savings_text": "-40%",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Mirror: Enchanting Reflections - <span class=\"discount_original_price\">1,59€</span> 0,95€",
+                            "option_text": "Mirror: Enchanting Reflections - 1,59€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 95
+                            "price_in_cents_with_discount": 159
                         }
                     ]
                 }
@@ -142,9 +142,6 @@
                     "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1011900/ss_5690fcefffc7f4f5d12246bd4dd534f2f07d8462.1920x1080.jpg?t=1547716621"
                 }
             ],
-            "achievements": {
-                "total": 0
-            },
             "release_date": {
                 "coming_soon": false,
                 "date": "17 Jan, 2019"

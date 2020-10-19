@@ -26,11 +26,11 @@
             ],
             "price_overview": {
                 "currency": "EUR",
-                "initial": 329,
-                "final": 329,
+                "initial": 159,
+                "final": 159,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "3,29€"
+                "final_formatted": "1,59€"
             },
             "packages": [
                 333491
@@ -47,13 +47,13 @@
                     "subs": [
                         {
                             "packageid": 333491,
-                            "percent_savings_text": "",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "The HARDEST BrickBreaker - 3,29€",
+                            "option_text": "The HARDEST BrickBreaker - 1,59€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 329
+                            "price_in_cents_with_discount": 159
                         }
                     ]
                 }
@@ -114,6 +114,10 @@
                     "webm": {
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/256739536/movie480.webm?t=1546574340",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/256739536/movie_max.webm?t=1546574340"
+                    },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256739536/movie480.mp4?t=1546574340",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256739536/movie_max.mp4?t=1546574340"
                     },
                     "highlight": true
                 }

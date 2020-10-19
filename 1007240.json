@@ -34,10 +34,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 4999,
-                "final": 4999,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "49,99€"
+                "final": 999,
+                "discount_percent": 80,
+                "initial_formatted": "49,99€",
+                "final_formatted": "9,99€"
             },
             "packages": [
                 333189
@@ -54,13 +54,13 @@
                     "subs": [
                         {
                             "packageid": 333189,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-80% ",
                             "percent_savings": 0,
-                            "option_text": "Stage of Light - 49,99€",
+                            "option_text": "Stage of Light - <span class=\"discount_original_price\">49,99€</span> 9,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 4999
+                            "price_in_cents_with_discount": 999
                         }
                     ]
                 }
@@ -135,6 +135,10 @@
                     "webm": {
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/256745050/movie480.webm?t=1560106399",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/256745050/movie_max.webm?t=1560106399"
+                    },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256745050/movie480.mp4?t=1560106399",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256745050/movie_max.mp4?t=1560106399"
                     },
                     "highlight": true
                 }

@@ -16,7 +16,7 @@
                 "name": "Speed Brawl"
             },
             "supported_languages": "English<strong>*</strong>, French, German, Portuguese - Brazil, Russian<br><strong>*</strong>languages with full audio support",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1000730/header.jpg?t=1545502695",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1000730/header.jpg?t=1576522844",
             "website": null,
             "pc_requirements": [],
             "mac_requirements": [],
@@ -26,7 +26,7 @@
                 "Double Stallion"
             ],
             "publishers": [
-                "Kongregate"
+                "Double Stallion"
             ],
             "package_groups": [],
             "platforms": {
@@ -44,12 +44,20 @@
                     "description": "Multi-player"
                 },
                 {
+                    "id": 49,
+                    "description": "PvP"
+                },
+                {
                     "id": 37,
-                    "description": "Local Multi-Player"
+                    "description": "Shared/Split Screen PvP"
+                },
+                {
+                    "id": 9,
+                    "description": "Co-op"
                 },
                 {
                     "id": 39,
-                    "description": "Local Co-op"
+                    "description": "Shared/Split Screen Co-op"
                 },
                 {
                     "id": 24,
@@ -74,9 +82,6 @@
                     "description": "Indie"
                 }
             ],
-            "achievements": {
-                "total": 0
-            },
             "release_date": {
                 "coming_soon": false,
                 "date": "22 Dec, 2018"

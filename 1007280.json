@@ -47,7 +47,7 @@
                     "subs": [
                         {
                             "packageid": 333206,
-                            "percent_savings_text": "",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
                             "option_text": "The Den of Chaos ~Order of Ahiahan the 19th~ - 混沌の魔窟殿 ～アヒアハン１９世の指令編～ - 6,59€",
                             "option_description": "",
@@ -130,12 +130,13 @@
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/256739668/movie480.webm?t=1546654259",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/256739668/movie_max.webm?t=1546654259"
                     },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256739668/movie480.mp4?t=1546654259",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256739668/movie_max.mp4?t=1546654259"
+                    },
                     "highlight": true
                 }
             ],
-            "achievements": {
-                "total": 0
-            },
             "release_date": {
                 "coming_soon": false,
                 "date": "18 Jan, 2019"

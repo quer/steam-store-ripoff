@@ -29,7 +29,40 @@
             "publishers": [
                 "Degica"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 1679,
+                "final": 1679,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "16,79€"
+            },
+            "packages": [
+                333056
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy RPG Maker VX Ace - Gandharah",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 333056,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "RPG Maker VX Ace - Gandharah - 16,79€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 1679
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": false,
@@ -66,9 +99,6 @@
                     "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1006961/ss_bf271f07a657610a038bf7806ded773e38bcf17b.1920x1080.jpg?t=1547143242"
                 }
             ],
-            "achievements": {
-                "total": 0
-            },
             "release_date": {
                 "coming_soon": false,
                 "date": "10 Jan, 2019"

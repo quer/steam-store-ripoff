@@ -41,8 +41,12 @@
                     "description": "Multi-player"
                 },
                 {
+                    "id": 49,
+                    "description": "PvP"
+                },
+                {
                     "id": 36,
-                    "description": "Online Multi-Player"
+                    "description": "Online PvP"
                 },
                 {
                     "id": 9,
@@ -135,6 +139,10 @@
                     "webm": {
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/256741957/movie480.webm?t=1553829881",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/256741957/movie_max.webm?t=1553829881"
+                    },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256741957/movie480.mp4?t=1553829881",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256741957/movie_max.mp4?t=1553829881"
                     },
                     "highlight": true
                 }

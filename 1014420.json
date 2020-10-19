@@ -28,11 +28,11 @@
             ],
             "price_overview": {
                 "currency": "EUR",
-                "initial": 569,
-                "final": 569,
+                "initial": 239,
+                "final": 239,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "5,69€"
+                "final_formatted": "2,39€"
             },
             "packages": [
                 336118
@@ -49,13 +49,13 @@
                     "subs": [
                         {
                             "packageid": 336118,
-                            "percent_savings_text": "",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Blind Date - 5,69€",
+                            "option_text": "Blind Date - 2,39€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 569
+                            "price_in_cents_with_discount": 239
                         }
                     ]
                 }
@@ -139,6 +139,10 @@
                     "webm": {
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/256741724/movie480.webm?t=1548824565",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/256741724/movie_max.webm?t=1548824565"
+                    },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256741724/movie480.mp4?t=1548824565",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256741724/movie_max.mp4?t=1548824565"
                     },
                     "highlight": true
                 }

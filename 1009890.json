@@ -11,11 +11,11 @@
             "about_the_game": "RHYUP is a challenging, 5 button rhythm game with shmup elements. Defend your home planet as you take control of a spaceship and move and shoot to the beat of the music while weaving through an onslaught of eye catching, enemy fire and boss fights all set to an amazing sound track of 20 unique songs and levels, each with 2 difficulty settings.<br />\r\n<br />\r\nMinimum requirements are for low settings 30+ FPS.",
             "short_description": "RHYUP is a challenging, 5 button rhythm game with shmup elements. Defend your home planet as you take control of a spaceship and move and shoot to the beat of the music while weaving through an onslaught of eye catching, enemy fire all set to an amazing sound track of 20 unique songs.",
             "supported_languages": "English",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1009890/header.jpg?t=1547172506",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1009890/header.jpg?t=1567166786",
             "website": null,
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Intel i7 3610QM<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia Geforce 650m 2GB<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 330 MB available space</li></ul>",
-                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Intel i5 6500<br></li><li><strong>Graphics:</strong> Nvidia Geforce 1060 3GB<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 330 MB available space</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Intel i7 3610QM<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia Geforce 650m 2GB<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 400 MB available space</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Intel i5 6500<br></li><li><strong>Graphics:</strong> Nvidia Geforce 1060 3GB<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 400 MB available space</li></ul>"
             },
             "mac_requirements": [],
             "linux_requirements": [],
@@ -31,7 +31,40 @@
                     "description": ""
                 }
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 1249,
+                "final": 1249,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "12,49€"
+            },
+            "packages": [
+                334249
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy RHYUP",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 334249,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "RHYUP - 12,49€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 1249
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": false,
@@ -43,12 +76,20 @@
                     "description": "Single-player"
                 },
                 {
+                    "id": 22,
+                    "description": "Steam Achievements"
+                },
+                {
                     "id": 18,
                     "description": "Partial Controller Support"
                 },
                 {
                     "id": 23,
                     "description": "Steam Cloud"
+                },
+                {
+                    "id": 25,
+                    "description": "Steam Leaderboards"
                 }
             ],
             "genres": [
@@ -60,51 +101,128 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1009890/ss_5354addc3f9116a6d4e3e39f132bbecc142df9df.600x338.jpg?t=1547172506",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1009890/ss_5354addc3f9116a6d4e3e39f132bbecc142df9df.1920x1080.jpg?t=1547172506"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1009890/ss_5354addc3f9116a6d4e3e39f132bbecc142df9df.600x338.jpg?t=1567166786",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1009890/ss_5354addc3f9116a6d4e3e39f132bbecc142df9df.1920x1080.jpg?t=1567166786"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1009890/ss_23cf00a0205b082bd94909d811bc736d603d60e0.600x338.jpg?t=1547172506",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1009890/ss_23cf00a0205b082bd94909d811bc736d603d60e0.1920x1080.jpg?t=1547172506"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1009890/ss_23cf00a0205b082bd94909d811bc736d603d60e0.600x338.jpg?t=1567166786",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1009890/ss_23cf00a0205b082bd94909d811bc736d603d60e0.1920x1080.jpg?t=1567166786"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1009890/ss_244d4a2a1f2739a70abe620a65ffd7b5c028da25.600x338.jpg?t=1547172506",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1009890/ss_244d4a2a1f2739a70abe620a65ffd7b5c028da25.1920x1080.jpg?t=1547172506"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1009890/ss_244d4a2a1f2739a70abe620a65ffd7b5c028da25.600x338.jpg?t=1567166786",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1009890/ss_244d4a2a1f2739a70abe620a65ffd7b5c028da25.1920x1080.jpg?t=1567166786"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1009890/ss_5da22b984e2cc0ca7bbb91d19cff7358238beb8d.600x338.jpg?t=1547172506",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1009890/ss_5da22b984e2cc0ca7bbb91d19cff7358238beb8d.1920x1080.jpg?t=1547172506"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1009890/ss_5da22b984e2cc0ca7bbb91d19cff7358238beb8d.600x338.jpg?t=1567166786",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1009890/ss_5da22b984e2cc0ca7bbb91d19cff7358238beb8d.1920x1080.jpg?t=1567166786"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1009890/ss_ac36242a42f97a2458d14297427ea40adf613731.600x338.jpg?t=1547172506",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1009890/ss_ac36242a42f97a2458d14297427ea40adf613731.1920x1080.jpg?t=1547172506"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1009890/ss_ac36242a42f97a2458d14297427ea40adf613731.600x338.jpg?t=1567166786",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1009890/ss_ac36242a42f97a2458d14297427ea40adf613731.1920x1080.jpg?t=1567166786"
                 }
             ],
             "movies": [
                 {
-                    "id": 256739705,
-                    "name": "Trailer 1",
-                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256739705/movie.293x165.jpg?t=1546958258",
+                    "id": 256760147,
+                    "name": "Release Trailer",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256760147/movie.293x165.jpg?t=1566790015",
                     "webm": {
-                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256739705/movie480.webm?t=1546958258",
-                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256739705/movie_max.webm?t=1546958258"
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256760147/movie480.webm?t=1566790015",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256760147/movie_max.webm?t=1566790015"
+                    },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256760147/movie480.mp4?t=1566790015",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256760147/movie_max.mp4?t=1566790015"
+                    },
+                    "highlight": true
+                },
+                {
+                    "id": 256759364,
+                    "name": "Gameplay Trailer 2",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256759364/movie.293x165.jpg?t=1566790021",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256759364/movie480.webm?t=1566790021",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256759364/movie_max.webm?t=1566790021"
+                    },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256759364/movie480.mp4?t=1566790021",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256759364/movie_max.mp4?t=1566790021"
+                    },
+                    "highlight": true
+                },
+                {
+                    "id": 256759362,
+                    "name": "Gameplay Trailer 1",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256759362/movie.293x165.jpg?t=1566790028",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256759362/movie480.webm?t=1566790028",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256759362/movie_max.webm?t=1566790028"
+                    },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256759362/movie480.mp4?t=1566790028",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256759362/movie_max.mp4?t=1566790028"
                     },
                     "highlight": true
                 }
             ],
+            "achievements": {
+                "total": 17,
+                "highlighted": [
+                    {
+                        "name": "Fundamentals",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1009890/fffd23f6561f2463d13332bccf6e59668f865ed7.jpg"
+                    },
+                    {
+                        "name": "Twinkle Toes",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1009890/fffd23f6561f2463d13332bccf6e59668f865ed7.jpg"
+                    },
+                    {
+                        "name": "Lord of the Dance",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1009890/fffd23f6561f2463d13332bccf6e59668f865ed7.jpg"
+                    },
+                    {
+                        "name": "I Got Rhythm",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1009890/fffd23f6561f2463d13332bccf6e59668f865ed7.jpg"
+                    },
+                    {
+                        "name": "Boss Basher",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1009890/fffd23f6561f2463d13332bccf6e59668f865ed7.jpg"
+                    },
+                    {
+                        "name": "Always Improving",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1009890/fffd23f6561f2463d13332bccf6e59668f865ed7.jpg"
+                    },
+                    {
+                        "name": "A Perfect 10",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1009890/fffd23f6561f2463d13332bccf6e59668f865ed7.jpg"
+                    },
+                    {
+                        "name": "Dedicated",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1009890/fffd23f6561f2463d13332bccf6e59668f865ed7.jpg"
+                    },
+                    {
+                        "name": "Devoted",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1009890/fffd23f6561f2463d13332bccf6e59668f865ed7.jpg"
+                    },
+                    {
+                        "name": "Stellar",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1009890/fffd23f6561f2463d13332bccf6e59668f865ed7.jpg"
+                    }
+                ]
+            },
             "release_date": {
-                "coming_soon": true,
-                "date": "2019"
+                "coming_soon": false,
+                "date": "30 Aug, 2019"
             },
             "support_info": {
                 "url": "",
                 "email": "xelphyregames@gmail.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1009890/page_bg_generated_v6b.jpg?t=1547172506",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1009890/page_bg_generated_v6b.jpg?t=1567166786",
             "content_descriptors": {
                 "ids": [],
                 "notes": null

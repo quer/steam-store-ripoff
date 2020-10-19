@@ -49,7 +49,7 @@
                     "subs": [
                         {
                             "packageid": 332103,
-                            "percent_savings_text": "",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
                             "option_text": "DownStream : VR Whitewater Kayaking - 15,99€",
                             "option_description": "",
@@ -63,16 +63,16 @@
                     "name": "subscriptions",
                     "title": "Buy DownStream: VR Whitewater Kayaking Subscription Plan",
                     "description": "To be billed on a recurring basis.",
-                    "selection_text": "Select a subscription plan",
+                    "selection_text": "Starting at 24,99€ / month",
                     "save_text": "",
                     "display_type": 0,
                     "is_recurring_subscription": "true",
                     "subs": [
                         {
                             "packageid": 392344,
-                            "percent_savings_text": "",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "1 Month(s) @ 24,99€/Month",
+                            "option_text": "24,99€ / month",
                             "option_description": "<p class=\"game_purchase_subscription\">24,99€ at checkout, auto-renewed every 1 month(s) at 24,99€.</p>",
                             "can_get_free_license": "0",
                             "is_free_license": false,
@@ -183,6 +183,10 @@
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/256739015/movie480.webm?t=1565989963",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/256739015/movie_max.webm?t=1565989963"
                     },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256739015/movie480.mp4?t=1565989963",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256739015/movie_max.mp4?t=1565989963"
+                    },
                     "highlight": true
                 },
                 {
@@ -193,6 +197,10 @@
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/256759849/movie480.webm?t=1566510802",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/256759849/movie_max.webm?t=1566510802"
                     },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256759849/movie480.mp4?t=1566510802",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256759849/movie_max.mp4?t=1566510802"
+                    },
                     "highlight": true
                 },
                 {
@@ -202,6 +210,10 @@
                     "webm": {
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/256760348/movie480.webm?t=1566938072",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/256760348/movie_max.webm?t=1566938072"
+                    },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256760348/movie480.mp4?t=1566938072",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256760348/movie_max.mp4?t=1566938072"
                     },
                     "highlight": true
                 }

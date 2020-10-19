@@ -28,10 +28,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 1299,
-                "final": 779,
-                "discount_percent": 40,
-                "initial_formatted": "12,99€",
-                "final_formatted": "7,79€"
+                "final": 1299,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "12,99€"
             },
             "packages": [
                 336561
@@ -48,13 +48,13 @@
                     "subs": [
                         {
                             "packageid": 336561,
-                            "percent_savings_text": "-40%",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Asdivine Dios - <span class=\"discount_original_price\">12,99€</span> 7,79€",
+                            "option_text": "Asdivine Dios - 12,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 779
+                            "price_in_cents_with_discount": 1299
                         }
                     ]
                 }
@@ -127,6 +127,10 @@
                     "webm": {
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/256750757/movie480.webm?t=1558405376",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/256750757/movie_max.webm?t=1558405376"
+                    },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256750757/movie480.mp4?t=1558405376",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256750757/movie_max.mp4?t=1558405376"
                     },
                     "highlight": true
                 }

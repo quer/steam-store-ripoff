@@ -7,15 +7,23 @@
             "steam_appid": 1010600,
             "required_age": 0,
             "is_free": false,
-            "detailed_description": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/1010600/extras/story_re_re.png?t=1553590760\" ><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/1010600/extras/chara_re3_190326.png?t=1553590760\" >",
-            "about_the_game": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/1010600/extras/story_re_re.png?t=1553590760\" ><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/1010600/extras/chara_re3_190326.png?t=1553590760\" >",
+            "dlc": [
+                1071230,
+                1073000,
+                1076840,
+                1111640,
+                1111670,
+                1111671
+            ],
+            "detailed_description": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/1010600/extras/story_re_re_re.png?t=1573201763\" /><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/1010600/extras/chara_re3_190326.png?t=1573201763\" />",
+            "about_the_game": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/1010600/extras/story_re_re_re.png?t=1573201763\" /><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/1010600/extras/chara_re3_190326.png?t=1573201763\" />",
             "short_description": "Once upon a time, after his mother passed away, a boy called Nora felt all alone in the world. He spent every day with his unique and kind hearted friends until one fateful day, he had a chance encounter with a princess from the Netherworld.",
-            "supported_languages": "English, Japanese<strong>*</strong><br><strong>*</strong>languages with full audio support",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1010600/header.jpg?t=1553590760",
+            "supported_languages": "English, Japanese<strong>*</strong>, Simplified Chinese, Traditional Chinese<br><strong>*</strong>languages with full audio support",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1010600/header.jpg?t=1573201763",
             "website": "https://nora-anime.net/nora1cs-en/",
             "pc_requirements": {
-                "minimum": "<strong>Минимальные:</strong><br><ul class=\"bb_ul\"><li><strong>ОС:</strong> Windows 7/8/8.1/10<br></li><li><strong>Процессор:</strong> 1.3GHz and above<br></li><li><strong>Оперативная память:</strong> 512 MB ОЗУ<br></li><li><strong>DirectX:</strong> Версии 9.0c<br></li><li><strong>Место на диске:</strong> 8 GB</li></ul>",
-                "recommended": "<strong>Рекомендованные:</strong><br><ul class=\"bb_ul\"><li><strong>ОС:</strong> Windows 7/8/8.1/10<br></li><li><strong>Процессор:</strong> 1.3GHz and above<br></li><li><strong>Оперативная память:</strong> 1 GB ОЗУ<br></li><li><strong>DirectX:</strong> Версии 9.0c<br></li><li><strong>Место на диске:</strong> 8 GB</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7/8/8.1/10<br></li><li><strong>Processor:</strong> 1.3GHz and above<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 8 GB available space</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7/8/8.1/10<br></li><li><strong>Processor:</strong> 1.3GHz and above<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 8 GB available space</li></ul>"
             },
             "mac_requirements": [],
             "linux_requirements": [],
@@ -23,7 +31,8 @@
                 "TOKYOTOON"
             ],
             "publishers": [
-                "TOKYOTOON"
+                "TOKYOTOON",
+                "Fruitbat Factory"
             ],
             "demos": [
                 {
@@ -31,7 +40,40 @@
                     "description": ""
                 }
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 1679,
+                "final": 1679,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "16,79€"
+            },
+            "packages": [
+                334538
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy The Princess, the Stray Cat, and Matters of the Heart",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 334538,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "The Princess, the Stray Cat, and Matters of the Heart - 16,79€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 1679
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": false,
@@ -45,6 +87,10 @@
                 {
                     "id": 22,
                     "description": "Steam Achievements"
+                },
+                {
+                    "id": 29,
+                    "description": "Steam Trading Cards"
                 },
                 {
                     "id": 23,
@@ -64,102 +110,182 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1010600/ss_d3cb89bb84b0a5e0cadf1a122a96f474a5eb9978.600x338.jpg?t=1553590760",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1010600/ss_d3cb89bb84b0a5e0cadf1a122a96f474a5eb9978.1920x1080.jpg?t=1553590760"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1010600/ss_12f4b43bdd608444677c9a6d6fcdc484963c934c.600x338.jpg?t=1573201763",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1010600/ss_12f4b43bdd608444677c9a6d6fcdc484963c934c.1920x1080.jpg?t=1573201763"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1010600/ss_b728c62821d971e92ab577a7de19dc24e72ad5fc.600x338.jpg?t=1553590760",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1010600/ss_b728c62821d971e92ab577a7de19dc24e72ad5fc.1920x1080.jpg?t=1553590760"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1010600/ss_b728c62821d971e92ab577a7de19dc24e72ad5fc.600x338.jpg?t=1573201763",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1010600/ss_b728c62821d971e92ab577a7de19dc24e72ad5fc.1920x1080.jpg?t=1573201763"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1010600/ss_424760fd770f3808f5b033256d50155dec88271e.600x338.jpg?t=1553590760",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1010600/ss_424760fd770f3808f5b033256d50155dec88271e.1920x1080.jpg?t=1553590760"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1010600/ss_424760fd770f3808f5b033256d50155dec88271e.600x338.jpg?t=1573201763",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1010600/ss_424760fd770f3808f5b033256d50155dec88271e.1920x1080.jpg?t=1573201763"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1010600/ss_6956219dd82d99ab267ef5297e904476d4603491.600x338.jpg?t=1553590760",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1010600/ss_6956219dd82d99ab267ef5297e904476d4603491.1920x1080.jpg?t=1553590760"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1010600/ss_6956219dd82d99ab267ef5297e904476d4603491.600x338.jpg?t=1573201763",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1010600/ss_6956219dd82d99ab267ef5297e904476d4603491.1920x1080.jpg?t=1573201763"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1010600/ss_cec272700413af01fdd70aa0d229dd57eb20de37.600x338.jpg?t=1553590760",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1010600/ss_cec272700413af01fdd70aa0d229dd57eb20de37.1920x1080.jpg?t=1553590760"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1010600/ss_cec272700413af01fdd70aa0d229dd57eb20de37.600x338.jpg?t=1573201763",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1010600/ss_cec272700413af01fdd70aa0d229dd57eb20de37.1920x1080.jpg?t=1573201763"
                 },
                 {
                     "id": 5,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1010600/ss_e30fc9dd13e7ad18f2194f48364280559edc0b4a.600x338.jpg?t=1553590760",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1010600/ss_e30fc9dd13e7ad18f2194f48364280559edc0b4a.1920x1080.jpg?t=1553590760"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1010600/ss_e30fc9dd13e7ad18f2194f48364280559edc0b4a.600x338.jpg?t=1573201763",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1010600/ss_e30fc9dd13e7ad18f2194f48364280559edc0b4a.1920x1080.jpg?t=1573201763"
                 },
                 {
                     "id": 6,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1010600/ss_95badf3b8123b03db41e8407c4d397335148d6ed.600x338.jpg?t=1553590760",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1010600/ss_95badf3b8123b03db41e8407c4d397335148d6ed.1920x1080.jpg?t=1553590760"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1010600/ss_95badf3b8123b03db41e8407c4d397335148d6ed.600x338.jpg?t=1573201763",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1010600/ss_95badf3b8123b03db41e8407c4d397335148d6ed.1920x1080.jpg?t=1573201763"
                 },
                 {
                     "id": 7,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1010600/ss_44a3e5924bea19353fc38cf28aa9f5a12dec1ec7.600x338.jpg?t=1553590760",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1010600/ss_44a3e5924bea19353fc38cf28aa9f5a12dec1ec7.1920x1080.jpg?t=1553590760"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1010600/ss_66f81690b551fc678e52ccb356d97ffd8a02524c.600x338.jpg?t=1573201763",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1010600/ss_66f81690b551fc678e52ccb356d97ffd8a02524c.1920x1080.jpg?t=1573201763"
                 },
                 {
                     "id": 8,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1010600/ss_4a954eaec53ef203fe06ae20268fcf59343c57ba.600x338.jpg?t=1553590760",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1010600/ss_4a954eaec53ef203fe06ae20268fcf59343c57ba.1920x1080.jpg?t=1553590760"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1010600/ss_44a3e5924bea19353fc38cf28aa9f5a12dec1ec7.600x338.jpg?t=1573201763",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1010600/ss_44a3e5924bea19353fc38cf28aa9f5a12dec1ec7.1920x1080.jpg?t=1573201763"
                 },
                 {
                     "id": 9,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1010600/ss_bd654cb89dbe072022aa5b88aa170348895ccdf6.600x338.jpg?t=1553590760",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1010600/ss_bd654cb89dbe072022aa5b88aa170348895ccdf6.1920x1080.jpg?t=1553590760"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1010600/ss_4a954eaec53ef203fe06ae20268fcf59343c57ba.600x338.jpg?t=1573201763",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1010600/ss_4a954eaec53ef203fe06ae20268fcf59343c57ba.1920x1080.jpg?t=1573201763"
                 },
                 {
                     "id": 10,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1010600/ss_3270ef62afda3f0cac305ba4949a8958c694edfb.600x338.jpg?t=1553590760",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1010600/ss_3270ef62afda3f0cac305ba4949a8958c694edfb.1920x1080.jpg?t=1553590760"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1010600/ss_bd654cb89dbe072022aa5b88aa170348895ccdf6.600x338.jpg?t=1573201763",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1010600/ss_bd654cb89dbe072022aa5b88aa170348895ccdf6.1920x1080.jpg?t=1573201763"
                 },
                 {
                     "id": 11,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1010600/ss_85f3d00ff6d4cd4a82f341eda1fba1db0e634d5f.600x338.jpg?t=1553590760",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1010600/ss_85f3d00ff6d4cd4a82f341eda1fba1db0e634d5f.1920x1080.jpg?t=1553590760"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1010600/ss_3270ef62afda3f0cac305ba4949a8958c694edfb.600x338.jpg?t=1573201763",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1010600/ss_3270ef62afda3f0cac305ba4949a8958c694edfb.1920x1080.jpg?t=1573201763"
                 },
                 {
                     "id": 12,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1010600/ss_44db9c7fd9346ac35caef243bf2b5afc5c093666.600x338.jpg?t=1553590760",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1010600/ss_44db9c7fd9346ac35caef243bf2b5afc5c093666.1920x1080.jpg?t=1553590760"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1010600/ss_85f3d00ff6d4cd4a82f341eda1fba1db0e634d5f.600x338.jpg?t=1573201763",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1010600/ss_85f3d00ff6d4cd4a82f341eda1fba1db0e634d5f.1920x1080.jpg?t=1573201763"
                 },
                 {
                     "id": 13,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1010600/ss_9543b337d324938dbffc4727c1f09e33fb3568cb.600x338.jpg?t=1553590760",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1010600/ss_9543b337d324938dbffc4727c1f09e33fb3568cb.1920x1080.jpg?t=1553590760"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1010600/ss_44db9c7fd9346ac35caef243bf2b5afc5c093666.600x338.jpg?t=1573201763",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1010600/ss_44db9c7fd9346ac35caef243bf2b5afc5c093666.1920x1080.jpg?t=1573201763"
                 }
             ],
             "movies": [
                 {
-                    "id": 256742516,
-                    "name": "The Princess, the Stray Cat, and Matters of the Heart_EN_190208",
-                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256742516/movie.293x165.jpg?t=1550478503",
+                    "id": 256757324,
+                    "name": "The Princess, the Stray Cat, and Matters of the Heart_EN",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256757324/movie.293x165.jpg?t=1564070747",
                     "webm": {
-                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256742516/movie480.webm?t=1550478503",
-                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256742516/movie_max.webm?t=1550478503"
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256757324/movie480.webm?t=1564070747",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256757324/movie_max.webm?t=1564070747"
+                    },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256757324/movie480.mp4?t=1564070747",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256757324/movie_max.mp4?t=1564070747"
+                    },
+                    "highlight": true
+                },
+                {
+                    "id": 256757320,
+                    "name": "The Princess, the Stray Cat, and Matters of the Heart_CN_190721",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256757320/movie.293x165.jpg?t=1570440925",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256757320/movie480.webm?t=1570440925",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256757320/movie_max.webm?t=1570440925"
+                    },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256757320/movie480.mp4?t=1570440925",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256757320/movie_max.mp4?t=1570440925"
+                    },
+                    "highlight": true
+                },
+                {
+                    "id": 256742516,
+                    "name": "The Princess, the Stray Cat, and Matters of the Heart_TW_190208",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256742516/movie.293x165.jpg?t=1564070754",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256742516/movie480.webm?t=1564070754",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256742516/movie_max.webm?t=1564070754"
+                    },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256742516/movie480.mp4?t=1564070754",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256742516/movie_max.mp4?t=1564070754"
                     },
                     "highlight": true
                 }
             ],
+            "recommendations": {
+                "total": 120
+            },
+            "achievements": {
+                "total": 15,
+                "highlighted": [
+                    {
+                        "name": "My House is Burning!",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1010600/172543d658aa78938fff753f7f8375265c680bbb.jpg"
+                    },
+                    {
+                        "name": "Aren't You a Little Bit Tired?",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1010600/f363a202e9bb6624aef3076d158eff8a3d0c8264.jpg"
+                    },
+                    {
+                        "name": "Welcome to Sakuragabuchi",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1010600/4aa531609146c6b552516989c835bb75d0bfe200.jpg"
+                    },
+                    {
+                        "name": "A Feline Feeling",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1010600/03279397dd0d0fe627dd18ff30942891cafd268e.jpg"
+                    },
+                    {
+                        "name": "The People You're Interested in, are Four",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1010600/b75c2d96185f0d67f1f46503168984f359cbc44c.jpg"
+                    },
+                    {
+                        "name": "A familliar of the Princess of the Netherworld?",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1010600/aa8619a38fa95c904f8b5e7f4943525a1e552a16.jpg"
+                    },
+                    {
+                        "name": "I Want to Stay by Your Side Forever, Even as a Cat",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1010600/7e623c2fdf010c3f4e80f2a4ed195653bb37eaaf.jpg"
+                    },
+                    {
+                        "name": "The Academy Monitor has Both Wit and Beauty",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1010600/d617b864090ecd485c5cd0507854386b35256341.jpg"
+                    },
+                    {
+                        "name": "The Person Who's Devoted to You Forever",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1010600/be4b6174ce88778ac5764e07366a77144f54d43a.jpg"
+                    },
+                    {
+                        "name": "The Two Who are Just Like Family",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1010600/61f77e6f2343798a216c3eaed60fc4ccbad94f13.jpg"
+                    }
+                ]
+            },
             "release_date": {
-                "coming_soon": true,
-                "date": "Coming Soon"
+                "coming_soon": false,
+                "date": "17 Jun, 2019"
             },
             "support_info": {
                 "url": "http://tokyotoon.jp/support/",
                 "email": "steam_support@tokyotoon.jp"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1010600/page_bg_generated_v6b.jpg?t=1553590760",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1010600/page_bg_generated_v6b.jpg?t=1573201763",
             "content_descriptors": {
                 "ids": [
                     1,
                     5
                 ],
-                "notes": "This is a romantic comedy visual novel game that contains mild CG nudity, mild violence and bad language. Some of the topics discussed within the game contain adult themes that are not suitable for minors. Please decide whether to play or not. This game is not suitable for children. "
+                "notes": "This is a romantic comedy visual novel game that contains mild CG nudity, mild violence and bad language. Some of the topics discussed within the game contain adult themes that are not suitable for minors. "
             }
         }
     }

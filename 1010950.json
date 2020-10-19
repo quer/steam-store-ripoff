@@ -14,8 +14,8 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1010950/header.jpg?t=1549384049",
             "website": null,
             "pc_requirements": {
-                "minimum": "<strong>Минимальные:</strong><br><ul class=\"bb_ul\"><li><strong>ОС:</strong> Windows 7<br></li><li><strong>Процессор:</strong> Pentium<br></li><li><strong>Оперативная память:</strong> 512 MB ОЗУ<br></li><li><strong>Видеокарта:</strong> DirectX Compatible<br></li><li><strong>Место на диске:</strong> 300 MB<br></li><li><strong>Звуковая карта:</strong> DirectX Compatible</li></ul>",
-                "recommended": "<strong>Рекомендованные:</strong><br><ul class=\"bb_ul\"><li><strong>ОС:</strong> Windows 10<br></li><li><strong>Процессор:</strong> Core 2 Duo<br></li><li><strong>Оперативная память:</strong> 512 MB ОЗУ<br></li><li><strong>Видеокарта:</strong> DirectX Compatible<br></li><li><strong>Место на диске:</strong> 300 MB<br></li><li><strong>Звуковая карта:</strong> DirectX Compatible</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong> Pentium<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> DirectX Compatible<br></li><li><strong>Storage:</strong> 300 MB available space<br></li><li><strong>Sound Card:</strong> DirectX Compatible</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Core 2 Duo<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> DirectX Compatible<br></li><li><strong>Storage:</strong> 300 MB available space<br></li><li><strong>Sound Card:</strong> DirectX Compatible</li></ul>"
             },
             "mac_requirements": [],
             "linux_requirements": [],
@@ -28,11 +28,11 @@
             ],
             "price_overview": {
                 "currency": "EUR",
-                "initial": 659,
-                "final": 659,
+                "initial": 239,
+                "final": 239,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "6,59€"
+                "final_formatted": "2,39€"
             },
             "packages": [
                 334699
@@ -49,13 +49,13 @@
                     "subs": [
                         {
                             "packageid": 334699,
-                            "percent_savings_text": "",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "SmartyTale 2D - 6,59€",
+                            "option_text": "SmartyTale 2D - 2,39€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 659
+                            "price_in_cents_with_discount": 239
                         }
                     ]
                 }
@@ -170,11 +170,15 @@
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/256740603/movie480.webm?t=1548169720",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/256740603/movie_max.webm?t=1548169720"
                     },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256740603/movie480.mp4?t=1548169720",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256740603/movie_max.mp4?t=1548169720"
+                    },
                     "highlight": true
                 }
             ],
             "achievements": {
-                "total": 23,
+                "total": 24,
                 "highlighted": [
                     {
                         "name": "Get First Star on level 1",

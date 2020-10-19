@@ -48,7 +48,7 @@
                     "subs": [
                         {
                             "packageid": 331613,
-                            "percent_savings_text": "",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
                             "option_text": "Be A Lord - 3,99€",
                             "option_description": "",
@@ -127,12 +127,13 @@
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/256738764/movie480.webm?t=1545385213",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/256738764/movie_max.webm?t=1545385213"
                     },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256738764/movie480.mp4?t=1545385213",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256738764/movie_max.mp4?t=1545385213"
+                    },
                     "highlight": true
                 }
             ],
-            "achievements": {
-                "total": 0
-            },
             "release_date": {
                 "coming_soon": false,
                 "date": "14 Jan, 2019"

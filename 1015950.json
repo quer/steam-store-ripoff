@@ -31,40 +31,7 @@
             "publishers": [
                 ""
             ],
-            "price_overview": {
-                "currency": "EUR",
-                "initial": 2999,
-                "final": 2999,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "29,99€"
-            },
-            "packages": [
-                336692
-            ],
-            "package_groups": [
-                {
-                    "name": "default",
-                    "title": "Buy Crossout - No to War",
-                    "description": "",
-                    "selection_text": "Select a purchase option",
-                    "save_text": "",
-                    "display_type": 0,
-                    "is_recurring_subscription": "false",
-                    "subs": [
-                        {
-                            "packageid": 336692,
-                            "percent_savings_text": "",
-                            "percent_savings": 0,
-                            "option_text": "Crossout - No to War - 29,99€",
-                            "option_description": "",
-                            "can_get_free_license": "0",
-                            "is_free_license": false,
-                            "price_in_cents_with_discount": 2999
-                        }
-                    ]
-                }
-            ],
+            "package_groups": [],
             "platforms": {
                 "windows": true,
                 "mac": false,
@@ -161,9 +128,6 @@
                     "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1015950/ss_13075ad8ab68ecea8698b271be264d01e90fd1e7.1920x1080.jpg?t=1581637317"
                 }
             ],
-            "achievements": {
-                "total": 0
-            },
             "release_date": {
                 "coming_soon": false,
                 "date": "13 Feb, 2020"

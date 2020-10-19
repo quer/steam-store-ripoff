@@ -33,11 +33,11 @@
             ],
             "price_overview": {
                 "currency": "EUR",
-                "initial": 659,
-                "final": 659,
+                "initial": 399,
+                "final": 399,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "6,59€"
+                "final_formatted": "3,99€"
             },
             "packages": [
                 333169,
@@ -55,17 +55,17 @@
                     "subs": [
                         {
                             "packageid": 333169,
-                            "percent_savings_text": "",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Retromancer - 6,59€",
+                            "option_text": "Retromancer - 3,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 659
+                            "price_in_cents_with_discount": 399
                         },
                         {
                             "packageid": 373506,
-                            "percent_savings_text": "",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
                             "option_text": "Retromancer - Commercial License - 6,59€",
                             "option_description": "",
@@ -187,6 +187,10 @@
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/256740787/movie480.webm?t=1547832790",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/256740787/movie_max.webm?t=1547832790"
                     },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256740787/movie480.mp4?t=1547832790",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256740787/movie_max.mp4?t=1547832790"
+                    },
                     "highlight": true
                 },
                 {
@@ -196,6 +200,10 @@
                     "webm": {
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/256740012/movie480.webm?t=1547832798",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/256740012/movie_max.webm?t=1547832798"
+                    },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256740012/movie480.mp4?t=1547832798",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256740012/movie_max.mp4?t=1547832798"
                     },
                     "highlight": true
                 }

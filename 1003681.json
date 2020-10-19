@@ -8,15 +8,15 @@
             "required_age": 0,
             "is_free": false,
             "controller_support": "full",
-            "detailed_description": "The <i>Capsa - Vehicle Race Pack</i> includes a selection of items to enable you to begin customizing your vehicles. <br><br>This pack of cosmetic items contains 7 vehicle kits and 4 hood ornaments.<br><br>Items included in the pack are as follows:<br><ul class=\"bb_ul\"><li>Victor Race Kit<br></li><li>Scorpion Race Kit<br></li><li>Barracuda Race Kit<br></li><li>Barrelback Race Kit<br></li><li>Barrelback Speed Kit<br></li><li>Pontoon Race Kit<br></li><li>Moray Race Kit<br></li><li>Heart Gold Hood Ornament<br></li><li>Heart Silver Hood Ornament<br></li><li>Crosshair Gold Hood Ornament<br></li><li>Crosshair Silver Hood Ornament</li></ul>",
-            "about_the_game": "The <i>Capsa - Vehicle Race Pack</i> includes a selection of items to enable you to begin customizing your vehicles. <br><br>This pack of cosmetic items contains 7 vehicle kits and 4 hood ornaments.<br><br>Items included in the pack are as follows:<br><ul class=\"bb_ul\"><li>Victor Race Kit<br></li><li>Scorpion Race Kit<br></li><li>Barracuda Race Kit<br></li><li>Barrelback Race Kit<br></li><li>Barrelback Speed Kit<br></li><li>Pontoon Race Kit<br></li><li>Moray Race Kit<br></li><li>Heart Gold Hood Ornament<br></li><li>Heart Silver Hood Ornament<br></li><li>Crosshair Gold Hood Ornament<br></li><li>Crosshair Silver Hood Ornament</li></ul>",
+            "detailed_description": "The <i>Capsa - Vehicle Race Pack</i> includes a selection of items to enable you to begin customizing your vehicles. <br><br>This pack of cosmetic items contains 8 vehicle kits and 4 hood ornaments.<br><br>Items included in the pack are as follows:<br><ul class=\"bb_ul\"><li>Victor Race Kit<br></li><li>Scorpion Race Kit<br></li><li>Barracuda Race Kit<br></li><li>Barrelback Race Kit<br></li><li>Barrelback Speed Kit<br></li><li>Pontoon Race Kit<br></li><li>Moray Race Kit<br></li><li>Heart Gold Hood Ornament<br></li><li>Heart Silver Hood Ornament<br></li><li>Star Gold Hood Ornament<br></li><li>Star Silver Hood Ornament<br></li><li>Horse Race Kit</li></ul>",
+            "about_the_game": "The <i>Capsa - Vehicle Race Pack</i> includes a selection of items to enable you to begin customizing your vehicles. <br><br>This pack of cosmetic items contains 8 vehicle kits and 4 hood ornaments.<br><br>Items included in the pack are as follows:<br><ul class=\"bb_ul\"><li>Victor Race Kit<br></li><li>Scorpion Race Kit<br></li><li>Barracuda Race Kit<br></li><li>Barrelback Race Kit<br></li><li>Barrelback Speed Kit<br></li><li>Pontoon Race Kit<br></li><li>Moray Race Kit<br></li><li>Heart Gold Hood Ornament<br></li><li>Heart Silver Hood Ornament<br></li><li>Star Gold Hood Ornament<br></li><li>Star Silver Hood Ornament<br></li><li>Horse Race Kit</li></ul>",
             "short_description": "The Capsa - Vehicle Race Pack includes a selection of items to enable you to begin customizing your vehicles.",
             "fullgame": {
                 "appid": "588120",
                 "name": "Capsa"
             },
             "supported_languages": "English, German",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1003681/header.jpg?t=1557582723",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1003681/header.jpg?t=1579310047",
             "website": null,
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 7 64-Bit<br></li><li><strong>Processor:</strong> 2.4 GHz Dual-Core 64-bit CPU<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> GeForce® GTX 970 / AMD Radeon™ RX 470<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 30 GB available space<br></li><li><strong>Additional Notes:</strong> Onboard graphics chipsets and discrete GPU's not supported</li></ul>",
@@ -35,42 +35,9 @@
                 "Vetron"
             ],
             "publishers": [
-                ""
+                "Vetron"
             ],
-            "price_overview": {
-                "currency": "EUR",
-                "initial": 999,
-                "final": 999,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "9,99€"
-            },
-            "packages": [
-                331777
-            ],
-            "package_groups": [
-                {
-                    "name": "default",
-                    "title": "Buy Capsa - Vehicle Race Pack",
-                    "description": "",
-                    "selection_text": "Select a purchase option",
-                    "save_text": "",
-                    "display_type": 0,
-                    "is_recurring_subscription": "false",
-                    "subs": [
-                        {
-                            "packageid": 331777,
-                            "percent_savings_text": "",
-                            "percent_savings": 0,
-                            "option_text": "Capsa - Vehicle Race Pack - 9,99€",
-                            "option_description": "",
-                            "can_get_free_license": "0",
-                            "is_free_license": false,
-                            "price_in_cents_with_discount": 999
-                        }
-                    ]
-                }
-            ],
+            "package_groups": [],
             "platforms": {
                 "windows": true,
                 "mac": false,
@@ -87,11 +54,11 @@
                 },
                 {
                     "id": 36,
-                    "description": "Online Multi-Player"
+                    "description": "Online PvP"
                 },
                 {
                     "id": 37,
-                    "description": "Local Multi-Player"
+                    "description": "Shared/Split Screen PvP"
                 },
                 {
                     "id": 21,
@@ -124,12 +91,20 @@
                     "description": "Casual"
                 },
                 {
+                    "id": "37",
+                    "description": "Free to Play"
+                },
+                {
                     "id": "23",
                     "description": "Indie"
                 },
                 {
                     "id": "29",
                     "description": "Massively Multiplayer"
+                },
+                {
+                    "id": "9",
+                    "description": "Racing"
                 },
                 {
                     "id": "28",
@@ -139,23 +114,28 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1003681/ss_df91fdd031211295312139e460b0f094affc2721.600x338.jpg?t=1557582723",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1003681/ss_df91fdd031211295312139e460b0f094affc2721.1920x1080.jpg?t=1557582723"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1003681/ss_6b3550885827527c4aa9361bd3e5cbefed764d87.600x338.jpg?t=1579310047",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1003681/ss_6b3550885827527c4aa9361bd3e5cbefed764d87.1920x1080.jpg?t=1579310047"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1003681/ss_1ae38252eb969e5505ed2b66ff31b42950267503.600x338.jpg?t=1557582723",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1003681/ss_1ae38252eb969e5505ed2b66ff31b42950267503.1920x1080.jpg?t=1557582723"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1003681/ss_3d00efd1f6f6d202148ecef28b656626ae432409.600x338.jpg?t=1579310047",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1003681/ss_3d00efd1f6f6d202148ecef28b656626ae432409.1920x1080.jpg?t=1579310047"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1003681/ss_4de0c6f1cc2495e5bbf6981cbf34754db7a0d7ad.600x338.jpg?t=1557582723",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1003681/ss_4de0c6f1cc2495e5bbf6981cbf34754db7a0d7ad.1920x1080.jpg?t=1557582723"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1003681/ss_ad8f3343095189ad70e870e7536b1afa3778bab6.600x338.jpg?t=1579310047",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1003681/ss_ad8f3343095189ad70e870e7536b1afa3778bab6.1920x1080.jpg?t=1579310047"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1003681/ss_d6fd17ff928bf0930aaccd1d3b9b1020e669b00f.600x338.jpg?t=1557582723",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1003681/ss_d6fd17ff928bf0930aaccd1d3b9b1020e669b00f.1920x1080.jpg?t=1557582723"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1003681/ss_e9882a82800341e1787ca5a688bc52219cddd76f.600x338.jpg?t=1579310047",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1003681/ss_e9882a82800341e1787ca5a688bc52219cddd76f.1920x1080.jpg?t=1579310047"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1003681/ss_d6fd17ff928bf0930aaccd1d3b9b1020e669b00f.600x338.jpg?t=1579310047",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1003681/ss_d6fd17ff928bf0930aaccd1d3b9b1020e669b00f.1920x1080.jpg?t=1579310047"
                 }
             ],
             "release_date": {
@@ -166,7 +146,7 @@
                 "url": "",
                 "email": "support@capsa.game"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1003681/page_bg_generated_v6b.jpg?t=1557582723",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1003681/page_bg_generated_v6b.jpg?t=1579310047",
             "content_descriptors": {
                 "ids": [],
                 "notes": null

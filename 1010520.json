@@ -8,18 +8,18 @@
             "required_age": 0,
             "is_free": false,
             "controller_support": "full",
-            "detailed_description": "<strong>Space Journey</strong> is a first-person space simulator. <br>You will explore the 4 levels: Infinite Space, Nebula, Pink World and Asteroid Belt. <br><br>Accelerate and maneuver. Collect the gas clouds to accumulate them into energy.<br><br>– Beautiful Graphics<br>– Great Game World<br>– Atmospheric Ambient<br>– Supports Controller<br>– Low System Requirements",
-            "about_the_game": "<strong>Space Journey</strong> is a first-person space simulator. <br>You will explore the 4 levels: Infinite Space, Nebula, Pink World and Asteroid Belt. <br><br>Accelerate and maneuver. Collect the gas clouds to accumulate them into energy.<br><br>– Beautiful Graphics<br>– Great Game World<br>– Atmospheric Ambient<br>– Supports Controller<br>– Low System Requirements",
-            "short_description": "Space Journey is a first-person space simulator. You will explore the 4 levels: Infinite Space, Nebula, Pink World and Asteroid Belt.",
+            "detailed_description": "<strong>Space Journey</strong> is a first-person space simulator. You will explore 6 levels: Asteroid Belt, Supernova, Orion, Infinite Space, Nebula and Dark Void. <br><br>Explore the infinite space and collect red gas clouds to accumulate them into energy. Each gas cloud gives you 5% of your fuel. You can accelerate and maneuver, each acceleration takes 5% of your fuel, maneuvers take 1%-5% depending on your speed. If you run out of fuel, the ship will start to decelerate slowly. <br><br>Avoid collisions with drifting asteroids, as this will damage ship's armour. If you run out of armour, the level will start from the beginning and all collected gas clouds will be lost.<br><br>– Beautiful Graphic <br>– Atmospheric Ambient and Game World<br>– Supports Controller<br>– Low System Requirements",
+            "about_the_game": "<strong>Space Journey</strong> is a first-person space simulator. You will explore 6 levels: Asteroid Belt, Supernova, Orion, Infinite Space, Nebula and Dark Void. <br><br>Explore the infinite space and collect red gas clouds to accumulate them into energy. Each gas cloud gives you 5% of your fuel. You can accelerate and maneuver, each acceleration takes 5% of your fuel, maneuvers take 1%-5% depending on your speed. If you run out of fuel, the ship will start to decelerate slowly. <br><br>Avoid collisions with drifting asteroids, as this will damage ship's armour. If you run out of armour, the level will start from the beginning and all collected gas clouds will be lost.<br><br>– Beautiful Graphic <br>– Atmospheric Ambient and Game World<br>– Supports Controller<br>– Low System Requirements",
+            "short_description": "Space Journey is a first-person space simulator. You will explore 6 levels: Asteroid Belt, Supernova, Orion, Infinite Space, Nebula and Dark Void.",
             "supported_languages": "English, Russian",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1010520/header.jpg?t=1547077510",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1010520/header.jpg?t=1582917562",
             "website": null,
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 7, 8 or 10<br></li><li><strong>Processor:</strong> Intel core i3 or amd fx4300<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> GTX 4XX or R7 2XX<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>",
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 7, 8 or 10<br></li><li><strong>Processor:</strong> Intel Core i3<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Intel UHD 630<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>",
                 "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
             },
             "mac_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> macOS 10.15<br></li><li><strong>Processor:</strong> Intel Core i3<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Intel UHD 630<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>",
                 "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
             },
             "linux_requirements": {
@@ -32,10 +32,43 @@
             "publishers": [
                 "Starmops"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 169,
+                "final": 169,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "1,69€"
+            },
+            "packages": [
+                334492
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Space Journey",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 334492,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "Space Journey - 1,69€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 169
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
-                "mac": false,
+                "mac": true,
                 "linux": false
             },
             "categories": [
@@ -44,8 +77,16 @@
                     "description": "Single-player"
                 },
                 {
+                    "id": 22,
+                    "description": "Steam Achievements"
+                },
+                {
                     "id": 28,
                     "description": "Full controller support"
+                },
+                {
+                    "id": 43,
+                    "description": "Remote Play on TV"
                 }
             ],
             "genres": [
@@ -60,89 +101,138 @@
                 {
                     "id": "23",
                     "description": "Indie"
+                },
+                {
+                    "id": "28",
+                    "description": "Simulation"
                 }
             ],
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1010520/ss_ac5b777b55537db9af1a4173b72231e7eccf98ce.600x338.jpg?t=1547077510",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1010520/ss_ac5b777b55537db9af1a4173b72231e7eccf98ce.1920x1080.jpg?t=1547077510"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1010520/ss_0a9b08a339174b138bfaf1a44f8d2e8393a3b258.600x338.jpg?t=1582917562",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1010520/ss_0a9b08a339174b138bfaf1a44f8d2e8393a3b258.1920x1080.jpg?t=1582917562"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1010520/ss_60996d8b9f85cfeb87bcdf7124c0880ae10ab751.600x338.jpg?t=1547077510",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1010520/ss_60996d8b9f85cfeb87bcdf7124c0880ae10ab751.1920x1080.jpg?t=1547077510"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1010520/ss_bb4ee0af70f3d6b1236c08bd6eb034fa92e1fad4.600x338.jpg?t=1582917562",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1010520/ss_bb4ee0af70f3d6b1236c08bd6eb034fa92e1fad4.1920x1080.jpg?t=1582917562"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1010520/ss_a09d1c9c669f0ed4d7985235c98aa33e89aae6a2.600x338.jpg?t=1547077510",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1010520/ss_a09d1c9c669f0ed4d7985235c98aa33e89aae6a2.1920x1080.jpg?t=1547077510"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1010520/ss_41f74b8bdac1ad42a8b8b631ef1467eea50c9bf4.600x338.jpg?t=1582917562",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1010520/ss_41f74b8bdac1ad42a8b8b631ef1467eea50c9bf4.1920x1080.jpg?t=1582917562"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1010520/ss_a2463e5e55c3119487144863712570a6137b29e4.600x338.jpg?t=1547077510",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1010520/ss_a2463e5e55c3119487144863712570a6137b29e4.1920x1080.jpg?t=1547077510"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1010520/ss_8425550cd3aae66acbe8578f9fd841ffdf103f13.600x338.jpg?t=1582917562",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1010520/ss_8425550cd3aae66acbe8578f9fd841ffdf103f13.1920x1080.jpg?t=1582917562"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1010520/ss_778244d438b8415804d4f6fa8d92226e3ccc1222.600x338.jpg?t=1547077510",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1010520/ss_778244d438b8415804d4f6fa8d92226e3ccc1222.1920x1080.jpg?t=1547077510"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1010520/ss_dd0ae74e7e826d3599ab9bc4e2d5a0255f900ef5.600x338.jpg?t=1582917562",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1010520/ss_dd0ae74e7e826d3599ab9bc4e2d5a0255f900ef5.1920x1080.jpg?t=1582917562"
                 },
                 {
                     "id": 5,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1010520/ss_4211f3ee2814d0d34e4347eff54a5540b897d203.600x338.jpg?t=1547077510",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1010520/ss_4211f3ee2814d0d34e4347eff54a5540b897d203.1920x1080.jpg?t=1547077510"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1010520/ss_4f964d4792dd6fb5df4797aef71f3103360aa89e.600x338.jpg?t=1582917562",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1010520/ss_4f964d4792dd6fb5df4797aef71f3103360aa89e.1920x1080.jpg?t=1582917562"
                 },
                 {
                     "id": 6,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1010520/ss_7cc7983d7c77824d8301526ff9a55f83d05180c1.600x338.jpg?t=1547077510",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1010520/ss_7cc7983d7c77824d8301526ff9a55f83d05180c1.1920x1080.jpg?t=1547077510"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1010520/ss_4a805214fef51edbbbb6e9ec3814486f711c528a.600x338.jpg?t=1582917562",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1010520/ss_4a805214fef51edbbbb6e9ec3814486f711c528a.1920x1080.jpg?t=1582917562"
                 },
                 {
                     "id": 7,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1010520/ss_60c7d5899d7483df206456517954f9c19b9debb6.600x338.jpg?t=1547077510",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1010520/ss_60c7d5899d7483df206456517954f9c19b9debb6.1920x1080.jpg?t=1547077510"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1010520/ss_09d117ee050061d360a697ddc5c1480ce6bdc802.600x338.jpg?t=1582917562",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1010520/ss_09d117ee050061d360a697ddc5c1480ce6bdc802.1920x1080.jpg?t=1582917562"
                 },
                 {
                     "id": 8,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1010520/ss_7871b1d607842d1795a2048f26df260d8d365cd8.600x338.jpg?t=1547077510",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1010520/ss_7871b1d607842d1795a2048f26df260d8d365cd8.1920x1080.jpg?t=1547077510"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1010520/ss_bce793027e3a64b1ad00ce8c55c5b56e5c94c0cb.600x338.jpg?t=1582917562",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1010520/ss_bce793027e3a64b1ad00ce8c55c5b56e5c94c0cb.1920x1080.jpg?t=1582917562"
                 },
                 {
                     "id": 9,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1010520/ss_eae56cb560ad56f787613969f759624673b215ea.600x338.jpg?t=1547077510",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1010520/ss_eae56cb560ad56f787613969f759624673b215ea.1920x1080.jpg?t=1547077510"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1010520/ss_16cd5190b2a7249a2476a4afe4e0490fee505647.600x338.jpg?t=1582917562",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1010520/ss_16cd5190b2a7249a2476a4afe4e0490fee505647.1920x1080.jpg?t=1582917562"
                 },
                 {
                     "id": 10,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1010520/ss_a4c993d297bc6d602343fb018086892d0bd6bdb3.600x338.jpg?t=1547077510",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1010520/ss_a4c993d297bc6d602343fb018086892d0bd6bdb3.1920x1080.jpg?t=1547077510"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1010520/ss_9ff73ee93f202bb5a52fdfb22edf64dc60266d57.600x338.jpg?t=1582917562",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1010520/ss_9ff73ee93f202bb5a52fdfb22edf64dc60266d57.1920x1080.jpg?t=1582917562"
                 },
                 {
                     "id": 11,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1010520/ss_f73acd6d4d0dd655d127aa9bfc6fabc7d9adc9db.600x338.jpg?t=1547077510",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1010520/ss_f73acd6d4d0dd655d127aa9bfc6fabc7d9adc9db.1920x1080.jpg?t=1547077510"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1010520/ss_491788731f57eb2555d329c7b2a095300813085c.600x338.jpg?t=1582917562",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1010520/ss_491788731f57eb2555d329c7b2a095300813085c.1920x1080.jpg?t=1582917562"
                 },
                 {
                     "id": 12,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1010520/ss_a77a906b0a46c8999be93afffc249521c98b6b09.600x338.jpg?t=1547077510",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1010520/ss_a77a906b0a46c8999be93afffc249521c98b6b09.1920x1080.jpg?t=1547077510"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1010520/ss_f5e11da454fe3cceaec63ef037bc8263544036a2.600x338.jpg?t=1582917562",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1010520/ss_f5e11da454fe3cceaec63ef037bc8263544036a2.1920x1080.jpg?t=1582917562"
                 },
                 {
                     "id": 13,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1010520/ss_c770668250c8a9cc06d8b9491a705c3f5ede40ff.600x338.jpg?t=1547077510",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1010520/ss_c770668250c8a9cc06d8b9491a705c3f5ede40ff.1920x1080.jpg?t=1547077510"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1010520/ss_fcac609d109083c179376ea1531060e3a6f1c849.600x338.jpg?t=1582917562",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1010520/ss_fcac609d109083c179376ea1531060e3a6f1c849.1920x1080.jpg?t=1582917562"
                 }
             ],
+            "movies": [
+                {
+                    "id": 256775925,
+                    "name": "Gameplay",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256775925/movie.293x165.jpg?t=1582290869",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256775925/movie480.webm?t=1582290869",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256775925/movie_max.webm?t=1582290869"
+                    },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256775925/movie480.mp4?t=1582290869",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256775925/movie_max.mp4?t=1582290869"
+                    },
+                    "highlight": true
+                }
+            ],
+            "achievements": {
+                "total": 6,
+                "highlighted": [
+                    {
+                        "name": "Asteroid Belt",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1010520/d3a157f72dfbab5b62f86a85fac31d7e3ec7d9ec.jpg"
+                    },
+                    {
+                        "name": "Supernova",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1010520/ea39f3e7540aaf7e388eddccd41c11d8e5bb6294.jpg"
+                    },
+                    {
+                        "name": "Orion",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1010520/7c94e4f2c98b72fb206f8f1d08bbfee90b511ae0.jpg"
+                    },
+                    {
+                        "name": "Infinite Space",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1010520/809ad4a2f661e52994d7175e3ffab79cbdd16b07.jpg"
+                    },
+                    {
+                        "name": "Nebula",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1010520/fa7a1bc437b201d125b5a958d03a1ff5c1b20ab8.jpg"
+                    },
+                    {
+                        "name": "Dark Void",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1010520/0f8299e536cb0d954b445533a63ad5306839681f.jpg"
+                    }
+                ]
+            },
             "release_date": {
-                "coming_soon": true,
-                "date": "21 Jan, 2019"
+                "coming_soon": false,
+                "date": "28 Feb, 2020"
             },
             "support_info": {
                 "url": "",
-                "email": "starmops.publish@gmail.com"
+                "email": "k.esie@icloud.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1010520/page_bg_generated_v6b.jpg?t=1547077510",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1010520/page_bg_generated_v6b.jpg?t=1582917562",
             "content_descriptors": {
                 "ids": [],
                 "notes": null

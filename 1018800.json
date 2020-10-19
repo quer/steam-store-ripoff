@@ -7,24 +7,57 @@
             "steam_appid": 1018800,
             "required_age": 0,
             "is_free": false,
-            "detailed_description": "<h1>KICKSTARTER</h1><p>Our Kickstarter campaign has begun! <a href=\"https://www.kickstarter.com/projects/663134285/deeeer-simulator-quite-normal-deer-game/description\" target=\"_blank\" rel=\"noreferrer\"  >https://www.kickstarter.com/projects/663134285/deeeer-simulator-quite-normal-deer-game/description</a><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/1018800/extras/steamkick.png?t=1553253390\" ><br>Get unique rewards!</p><br><h1>Collaboration: I AM BREAD</h1><p>Through cooperation with Bossa Studios, an official collaboration with hit indie title I AM BREAD has also been confirmed, with the titular Bread set to make a cameo appearance in DEEEER Simulator.</p><br><h1>About the Game</h1>DEEEER Simulator: Your Average Everyday Deer Game is a game planned to be made available on Steam in which you take on the role of the main character: a deer. Run around town freely taking advantage of the main character’s deer-specific attributes, such as your stretchy neck and your stabby antlers!<br><br>Put simply, DEEEER Simulator is a “Slow-Life Town Destruction Game”. You can spend your days enjoying a nice, relaxed frolic here and there together with the other animals around town, or you can choose to relieve some stress and absolutely destroy the town and everything in it. Of course, if you choose the destructive route, you may end up being chased down by police and meeting a tragic end! <br><br>Smash through everyday life in an unassuming town to unleash the true power of the deer!",
-            "about_the_game": "DEEEER Simulator: Your Average Everyday Deer Game is a game planned to be made available on Steam in which you take on the role of the main character: a deer. Run around town freely taking advantage of the main character’s deer-specific attributes, such as your stretchy neck and your stabby antlers!<br />\r\n<br />\r\nPut simply, DEEEER Simulator is a “Slow-Life Town Destruction Game”. You can spend your days enjoying a nice, relaxed frolic here and there together with the other animals around town, or you can choose to relieve some stress and absolutely destroy the town and everything in it. Of course, if you choose the destructive route, you may end up being chased down by police and meeting a tragic end! <br />\r\n<br />\r\nSmash through everyday life in an unassuming town to unleash the true power of the deer!",
+            "detailed_description": "<img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/1018800/extras/DEEEERSteam0731_2sec.gif?t=1599147329\" />",
+            "about_the_game": "<img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/1018800/extras/DEEEERSteam0731_2sec.gif?t=1599147329\" />",
             "short_description": "Put simply, DEEEER Simulator is a “Slow-Life Town Destruction Game”. You can spend your days enjoying a nice, relaxed frolic here and there together with the other animals around town, or you can choose to relieve some stress and absolutely destroy the town and everything in it.",
-            "supported_languages": "English",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1018800/header.jpg?t=1553253390",
+            "supported_languages": "English, Japanese, Simplified Chinese, Traditional Chinese",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1018800/header.jpg?t=1599147329",
             "website": null,
             "pc_requirements": {
-                "minimum": "<strong>最低配置:</strong><br><ul class=\"bb_ul\"><li><strong>操作系统:</strong> Windows 7 SP1+<br></li><li><strong>处理器:</strong> SSE2 instruction set support.<br></li><li><strong>图形:</strong> DX9 (shader model 3.0) or DX11 with feature level 9.3 capabilities.<br></li><li><strong>存储空间:</strong> 需要 1 GB 可用空间</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 or Newer<br></li><li><strong>Processor:</strong> Core i3-3120M<br></li><li><strong>Memory:</strong> 2 MB RAM<br></li><li><strong>Graphics:</strong> intel graphics 4000<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
             },
             "mac_requirements": [],
             "linux_requirements": [],
             "developers": [
-                "NASPAPA GAMES"
+                "Gibier Games"
             ],
             "publishers": [
-                "NASPAPA GAMES"
+                "PLAYISM"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 1079,
+                "final": 1079,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "10,79€"
+            },
+            "packages": [
+                337784
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy DEEEER Simulator: Your Average Everyday Deer Game",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 337784,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "DEEEER Simulator - 10,79€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 1079
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": false,
@@ -38,6 +71,10 @@
                 {
                     "id": 18,
                     "description": "Partial Controller Support"
+                },
+                {
+                    "id": 23,
+                    "description": "Steam Cloud"
                 }
             ],
             "genres": [
@@ -56,71 +93,140 @@
                 {
                     "id": "28",
                     "description": "Simulation"
+                },
+                {
+                    "id": "70",
+                    "description": "Early Access"
                 }
             ],
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1018800/ss_6347518ca1a9491b247388fc5cfccf85fd6023c5.600x338.jpg?t=1553253390",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1018800/ss_6347518ca1a9491b247388fc5cfccf85fd6023c5.1920x1080.jpg?t=1553253390"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1018800/ss_ca07a189d3fae99a78c5654a03d4a0edb91fdc8c.600x338.jpg?t=1599147329",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1018800/ss_ca07a189d3fae99a78c5654a03d4a0edb91fdc8c.1920x1080.jpg?t=1599147329"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1018800/ss_7a57911fa39676d0f1603374c5a32618f1ee56cc.600x338.jpg?t=1553253390",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1018800/ss_7a57911fa39676d0f1603374c5a32618f1ee56cc.1920x1080.jpg?t=1553253390"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1018800/ss_6347518ca1a9491b247388fc5cfccf85fd6023c5.600x338.jpg?t=1599147329",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1018800/ss_6347518ca1a9491b247388fc5cfccf85fd6023c5.1920x1080.jpg?t=1599147329"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1018800/ss_a3a213b0fc5a285037a6629529a258d33581fd06.600x338.jpg?t=1553253390",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1018800/ss_a3a213b0fc5a285037a6629529a258d33581fd06.1920x1080.jpg?t=1553253390"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1018800/ss_256adf3f6b8b1f5715b7614f382c991ffb746b24.600x338.jpg?t=1599147329",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1018800/ss_256adf3f6b8b1f5715b7614f382c991ffb746b24.1920x1080.jpg?t=1599147329"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1018800/ss_33a30c834d6c68d044c39637c3892e0132d54d19.600x338.jpg?t=1553253390",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1018800/ss_33a30c834d6c68d044c39637c3892e0132d54d19.1920x1080.jpg?t=1553253390"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1018800/ss_800eef199cbf8bc9fa908eb86e2aa31f15378932.600x338.jpg?t=1599147329",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1018800/ss_800eef199cbf8bc9fa908eb86e2aa31f15378932.1920x1080.jpg?t=1599147329"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1018800/ss_e6536a1de66cab4e724aed8b40bf773b0ac886e5.600x338.jpg?t=1553253390",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1018800/ss_e6536a1de66cab4e724aed8b40bf773b0ac886e5.1920x1080.jpg?t=1553253390"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1018800/ss_c649d6a1d37b05cd430a33743f49d1ddd3400b3b.600x338.jpg?t=1599147329",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1018800/ss_c649d6a1d37b05cd430a33743f49d1ddd3400b3b.1920x1080.jpg?t=1599147329"
                 },
                 {
                     "id": 5,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1018800/ss_385c66a2c87d29c19946f9b966f9a448fddaacd3.600x338.jpg?t=1553253390",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1018800/ss_385c66a2c87d29c19946f9b966f9a448fddaacd3.1920x1080.jpg?t=1553253390"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1018800/ss_455da28126914bf8de6344a8efb7c784c91eedf3.600x338.jpg?t=1599147329",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1018800/ss_455da28126914bf8de6344a8efb7c784c91eedf3.1920x1080.jpg?t=1599147329"
                 },
                 {
                     "id": 6,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1018800/ss_6bc17d3dbb4d9983cda3e1b1c0a3e4cf483a3f47.600x338.jpg?t=1553253390",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1018800/ss_6bc17d3dbb4d9983cda3e1b1c0a3e4cf483a3f47.1920x1080.jpg?t=1553253390"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1018800/ss_83503fb0a896ba18a8789383002e099024381371.600x338.jpg?t=1599147329",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1018800/ss_83503fb0a896ba18a8789383002e099024381371.1920x1080.jpg?t=1599147329"
                 },
                 {
                     "id": 7,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1018800/ss_ebad1a119a413769d9cde6247824bef86a9b63d5.600x338.jpg?t=1553253390",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1018800/ss_ebad1a119a413769d9cde6247824bef86a9b63d5.1920x1080.jpg?t=1553253390"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1018800/ss_ea175c469b2a8b21e8f22c574501d608fef53ba0.600x338.jpg?t=1599147329",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1018800/ss_ea175c469b2a8b21e8f22c574501d608fef53ba0.1920x1080.jpg?t=1599147329"
+                },
+                {
+                    "id": 8,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1018800/ss_3b26089b3f89aa862e49bad6a3ca62265addfe22.600x338.jpg?t=1599147329",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1018800/ss_3b26089b3f89aa862e49bad6a3ca62265addfe22.1920x1080.jpg?t=1599147329"
+                },
+                {
+                    "id": 9,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1018800/ss_f913d30635d004c24ab4592b698f25e7073bc3ca.600x338.jpg?t=1599147329",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1018800/ss_f913d30635d004c24ab4592b698f25e7073bc3ca.1920x1080.jpg?t=1599147329"
+                },
+                {
+                    "id": 10,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1018800/ss_cb938aed62bf18dde3006dbd96a6291a8d599dbf.600x338.jpg?t=1599147329",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1018800/ss_cb938aed62bf18dde3006dbd96a6291a8d599dbf.1920x1080.jpg?t=1599147329"
+                },
+                {
+                    "id": 11,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1018800/ss_6bc17d3dbb4d9983cda3e1b1c0a3e4cf483a3f47.600x338.jpg?t=1599147329",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1018800/ss_6bc17d3dbb4d9983cda3e1b1c0a3e4cf483a3f47.1920x1080.jpg?t=1599147329"
+                },
+                {
+                    "id": 12,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1018800/ss_33a30c834d6c68d044c39637c3892e0132d54d19.600x338.jpg?t=1599147329",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1018800/ss_33a30c834d6c68d044c39637c3892e0132d54d19.1920x1080.jpg?t=1599147329"
+                },
+                {
+                    "id": 13,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1018800/ss_30d9c63246abb261472ee1cc72ff6a59982a09c4.600x338.jpg?t=1599147329",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1018800/ss_30d9c63246abb261472ee1cc72ff6a59982a09c4.1920x1080.jpg?t=1599147329"
                 }
             ],
             "movies": [
                 {
-                    "id": 256741377,
-                    "name": "PV1",
-                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256741377/movie.293x165.jpg?t=1548752334",
+                    "id": 256796463,
+                    "name": "PV   未来編　英語版",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256796463/movie.293x165.jpg?t=1597380146",
                     "webm": {
-                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256741377/movie480.webm?t=1548752334",
-                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256741377/movie_max.webm?t=1548752334"
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256796463/movie480_vp9.webm?t=1597380146",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256796463/movie_max_vp9.webm?t=1597380146"
+                    },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256796463/movie480.mp4?t=1597380146",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256796463/movie_max.mp4?t=1597380146"
+                    },
+                    "highlight": true
+                },
+                {
+                    "id": 256772852,
+                    "name": "アーリーアクセス版",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256772852/movie.293x165.jpg?t=1580360533",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256772852/movie480.webm?t=1580360533",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256772852/movie_max.webm?t=1580360533"
+                    },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256772852/movie480.mp4?t=1580360533",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256772852/movie_max.mp4?t=1580360533"
+                    },
+                    "highlight": true
+                },
+                {
+                    "id": 256772115,
+                    "name": "PV　編集後　英語",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256772115/movie.293x165.jpg?t=1579813300",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256772115/movie480.webm?t=1579813300",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256772115/movie_max.webm?t=1579813300"
+                    },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256772115/movie480.mp4?t=1579813300",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256772115/movie_max.mp4?t=1579813300"
                     },
                     "highlight": true
                 }
             ],
+            "recommendations": {
+                "total": 855
+            },
             "release_date": {
-                "coming_soon": true,
-                "date": "2019"
+                "coming_soon": false,
+                "date": "20 Jan, 2020"
             },
             "support_info": {
-                "url": "https://twitter.com/DeeeerSim_en",
-                "email": "slashdotsdev@gmail.com"
+                "url": "",
+                "email": "support@playism.jp"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1018800/page_bg_generated_v6b.jpg?t=1553253390",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1018800/page_bg_generated_v6b.jpg?t=1599147329",
             "content_descriptors": {
                 "ids": [],
                 "notes": null

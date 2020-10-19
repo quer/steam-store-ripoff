@@ -28,11 +28,11 @@
             ],
             "price_overview": {
                 "currency": "EUR",
-                "initial": 329,
-                "final": 329,
+                "initial": 79,
+                "final": 79,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "3,29€"
+                "final_formatted": "0,79€"
             },
             "packages": [
                 337218
@@ -49,13 +49,13 @@
                     "subs": [
                         {
                             "packageid": 337218,
-                            "percent_savings_text": "",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Dangerous Orbit - 3,29€",
+                            "option_text": "Dangerous Orbit - 0,79€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 329
+                            "price_in_cents_with_discount": 79
                         }
                     ]
                 }
@@ -120,6 +120,10 @@
                     "webm": {
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/256740772/movie480.webm?t=1548766635",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/256740772/movie_max.webm?t=1548766635"
+                    },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256740772/movie480.mp4?t=1548766635",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256740772/movie_max.mp4?t=1548766635"
                     },
                     "highlight": true
                 }

@@ -15,8 +15,8 @@
                 "appid": "380600",
                 "name": "Fishing Planet"
             },
-            "supported_languages": "English, French, German, Polish, Russian, Ukrainian, Spanish - Spain, Dutch, Portuguese - Brazil, Simplified Chinese",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1000711/header.jpg?t=1560430353",
+            "supported_languages": "English, French, German, Polish, Russian, Ukrainian, Spanish - Spain, Dutch, Portuguese - Brazil, Simplified Chinese, Italian, Traditional Chinese",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1000711/header.jpg?t=1583944180",
             "website": "http://www.fishingplanet.com",
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> OS Version - Windows 7, 8, 10 x64<br></li><li><strong>Processor:</strong> Dual-Core 2.4 Ghz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Graphics Card Intel HD4600 or higher<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 12 GB available space<br></li><li><strong>Additional Notes:</strong> External mouse or compatible Xbox controller required</li></ul>",
@@ -59,7 +59,7 @@
                     "subs": [
                         {
                             "packageid": 330622,
-                            "percent_savings_text": "",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
                             "option_text": "Fishing Planet: Carp Lord Pack - 33,99€",
                             "option_description": "",
@@ -85,12 +85,16 @@
                     "description": "Multi-player"
                 },
                 {
-                    "id": 36,
-                    "description": "Online Multi-Player"
-                },
-                {
                     "id": 20,
                     "description": "MMO"
+                },
+                {
+                    "id": 49,
+                    "description": "PvP"
+                },
+                {
+                    "id": 36,
+                    "description": "Online PvP"
                 },
                 {
                     "id": 9,
@@ -130,18 +134,15 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1000711/ss_cea93e1997587f3b533f8139e8002c7ee18bc53e.600x338.jpg?t=1560430353",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1000711/ss_cea93e1997587f3b533f8139e8002c7ee18bc53e.1920x1080.jpg?t=1560430353"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1000711/ss_cea93e1997587f3b533f8139e8002c7ee18bc53e.600x338.jpg?t=1583944180",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1000711/ss_cea93e1997587f3b533f8139e8002c7ee18bc53e.1920x1080.jpg?t=1583944180"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1000711/ss_a7e9b363b0bbdaec67456ffa8a3965139da0fc2b.600x338.jpg?t=1560430353",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1000711/ss_a7e9b363b0bbdaec67456ffa8a3965139da0fc2b.1920x1080.jpg?t=1560430353"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1000711/ss_a7e9b363b0bbdaec67456ffa8a3965139da0fc2b.600x338.jpg?t=1583944180",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1000711/ss_a7e9b363b0bbdaec67456ffa8a3965139da0fc2b.1920x1080.jpg?t=1583944180"
                 }
             ],
-            "achievements": {
-                "total": 0
-            },
             "release_date": {
                 "coming_soon": false,
                 "date": "21 Mar, 2019"
@@ -150,7 +151,7 @@
                 "url": "",
                 "email": "support@fishingplanet.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1000711/page_bg_generated_v6b.jpg?t=1560430353",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1000711/page_bg_generated_v6b.jpg?t=1583944180",
             "content_descriptors": {
                 "ids": [],
                 "notes": null

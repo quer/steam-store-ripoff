@@ -37,7 +37,8 @@
                 "final_formatted": "0,79€"
             },
             "packages": [
-                335516
+                335516,
+                365089
             ],
             "package_groups": [
                 {
@@ -51,9 +52,19 @@
                     "subs": [
                         {
                             "packageid": 335516,
-                            "percent_savings_text": "",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
                             "option_text": "東方高枝切鋏 Touhou KSG Story DLC - 0,79€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 79
+                        },
+                        {
+                            "packageid": 365089,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "東方高枝切鋏 Touhou KSG Story DLC - Commercial License - 0,79€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,

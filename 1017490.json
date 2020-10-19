@@ -48,7 +48,7 @@
                     "subs": [
                         {
                             "packageid": 337267,
-                            "percent_savings_text": "",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
                             "option_text": "Mortadelo y Filemón: La banda de Corvino - 9,99€",
                             "option_description": "",
@@ -70,8 +70,20 @@
                     "description": "Single-player"
                 },
                 {
+                    "id": 1,
+                    "description": "Multi-player"
+                },
+                {
+                    "id": 9,
+                    "description": "Co-op"
+                },
+                {
                     "id": 39,
-                    "description": "Local Co-op"
+                    "description": "Shared/Split Screen Co-op"
+                },
+                {
+                    "id": 44,
+                    "description": "Remote Play Together"
                 }
             ],
             "genres": [
@@ -131,12 +143,13 @@
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/256741949/movie480.webm?t=1550436257",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/256741949/movie_max.webm?t=1550436257"
                     },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256741949/movie480.mp4?t=1550436257",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256741949/movie_max.mp4?t=1550436257"
+                    },
                     "highlight": true
                 }
             ],
-            "achievements": {
-                "total": 0
-            },
             "release_date": {
                 "coming_soon": false,
                 "date": "20 Mar, 2019"

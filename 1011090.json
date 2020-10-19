@@ -11,8 +11,8 @@
             "about_the_game": "<h2 class=\"bb_tag\">ANDROMALIUS</h2><br><br>This is a short horror game, that delves into the nervewracking experience of moving into a new space. People are by nature scary beings, which fuels the fire even more when the dark of night covers the sky, and all is set on standby. So you have to ask yourself.<br><br>Do you trust your new surroundings?<br><br>Do you trust these new people that live along side you?",
             "short_description": "Spending the first night in a new apartment can be quite nervewracking. New sounds, and thin walls that seperate you from others in the complex. Do you trust your new surroundings?",
             "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1011090/header.jpg?t=1553098623",
-            "website": "http://unitzerostudio.dk",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1011090/header.jpg?t=1591899000",
+            "website": "http://unitzerostudio.com",
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 64-bit Operating Systems (Windows 7, Windows 8.1)<br></li><li><strong>Processor:</strong> Intel Core i3-4170 or AMD FX-8120<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> DX11 Compatible GeForce GTX 460 1GB or AMD HD 6850 1GB<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 2500 MB available space<br></li><li><strong>Sound Card:</strong> DX11 compatible<br></li><li><strong>Additional Notes:</strong> We recommend that the game is played on Low quality settings, if these are the requirements used.</li></ul>"
             },
@@ -24,7 +24,40 @@
             "publishers": [
                 "Unit Zero Studio"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 399,
+                "final": 399,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "3,99€"
+            },
+            "packages": [
+                334751
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy ANDROMALIUS",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 334751,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "ANDROMALIUS - 3,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 399
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": false,
@@ -34,6 +67,10 @@
                 {
                     "id": 2,
                     "description": "Single-player"
+                },
+                {
+                    "id": 22,
+                    "description": "Steam Achievements"
                 }
             ],
             "genres": [
@@ -49,28 +86,38 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1011090/ss_b70f4ee054e1b2b4b4f825931ae91738975979b5.600x338.jpg?t=1553098623",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1011090/ss_b70f4ee054e1b2b4b4f825931ae91738975979b5.1920x1080.jpg?t=1553098623"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1011090/ss_476bf2a821cb7323630f186f80cb64c8f62232aa.600x338.jpg?t=1591899000",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1011090/ss_476bf2a821cb7323630f186f80cb64c8f62232aa.1920x1080.jpg?t=1591899000"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1011090/ss_99c565eaf8692f569e6f033e0198799aaf4e5945.600x338.jpg?t=1553098623",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1011090/ss_99c565eaf8692f569e6f033e0198799aaf4e5945.1920x1080.jpg?t=1553098623"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1011090/ss_983c0405f742a8968d18c833045836a5f8f082b9.600x338.jpg?t=1591899000",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1011090/ss_983c0405f742a8968d18c833045836a5f8f082b9.1920x1080.jpg?t=1591899000"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1011090/ss_278fee95225d4e5db24b970aec971fff9fa2ed09.600x338.jpg?t=1553098623",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1011090/ss_278fee95225d4e5db24b970aec971fff9fa2ed09.1920x1080.jpg?t=1553098623"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1011090/ss_1496790cb02e9d373a43376383cf6e10ebba834f.600x338.jpg?t=1591899000",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1011090/ss_1496790cb02e9d373a43376383cf6e10ebba834f.1920x1080.jpg?t=1591899000"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1011090/ss_7203fff06e608ef304e865d0c56a8e2ca0dd5e9a.600x338.jpg?t=1553098623",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1011090/ss_7203fff06e608ef304e865d0c56a8e2ca0dd5e9a.1920x1080.jpg?t=1553098623"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1011090/ss_b70f4ee054e1b2b4b4f825931ae91738975979b5.600x338.jpg?t=1591899000",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1011090/ss_b70f4ee054e1b2b4b4f825931ae91738975979b5.1920x1080.jpg?t=1591899000"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1011090/ss_75d6db7ac49a7db0aa093e6de86279456045a661.600x338.jpg?t=1553098623",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1011090/ss_75d6db7ac49a7db0aa093e6de86279456045a661.1920x1080.jpg?t=1553098623"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1011090/ss_4a5f6876fb6c22da53a66d5a6579bf80f50d140e.600x338.jpg?t=1591899000",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1011090/ss_4a5f6876fb6c22da53a66d5a6579bf80f50d140e.1920x1080.jpg?t=1591899000"
+                },
+                {
+                    "id": 5,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1011090/ss_3499c39a301cd76f9174cb81daf33f8083024f63.600x338.jpg?t=1591899000",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1011090/ss_3499c39a301cd76f9174cb81daf33f8083024f63.1920x1080.jpg?t=1591899000"
+                },
+                {
+                    "id": 6,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1011090/ss_e480b51223bc4d4a83c301c1fc273e34a3c72708.600x338.jpg?t=1591899000",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1011090/ss_e480b51223bc4d4a83c301c1fc273e34a3c72708.1920x1080.jpg?t=1591899000"
                 }
             ],
             "movies": [
@@ -82,18 +129,67 @@
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/256742660/movie480.webm?t=1550114638",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/256742660/movie_max.webm?t=1550114638"
                     },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256742660/movie480.mp4?t=1550114638",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256742660/movie_max.mp4?t=1550114638"
+                    },
                     "highlight": true
                 }
             ],
+            "achievements": {
+                "total": 11,
+                "highlighted": [
+                    {
+                        "name": "Moving In",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1011090/73480a6324a8ce0b8c2c09dbd293756ae70cb387.jpg"
+                    },
+                    {
+                        "name": "Family Sunday",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1011090/38af680c06c7fabe26833735cc54ce17476582f8.jpg"
+                    },
+                    {
+                        "name": "Reunited",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1011090/2ef64ad7039c9ed2c6f044c5c575b8999b740c2c.jpg"
+                    },
+                    {
+                        "name": "\"Take the whole family with you\"",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1011090/2b9ea88d82d418ed22f4b719fc1f8b0ad97c261f.jpg"
+                    },
+                    {
+                        "name": "Loss",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1011090/c26673726bb9ca883001ed5f40fa41825a91dc46.jpg"
+                    },
+                    {
+                        "name": "Descent",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1011090/2c845a9c783c9744c7cadcead60557ead47880ca.jpg"
+                    },
+                    {
+                        "name": "\"As you were, I was. As I am, you will be.\"",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1011090/68003760856ec2cc04323bf9714f58897f7fb296.jpg"
+                    },
+                    {
+                        "name": "Homecoming",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1011090/389ee8d01b5935b70846d56ddf080630de9d2f76.jpg"
+                    },
+                    {
+                        "name": "Family Reunion",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1011090/662dc66f883ab7912b838811c3de18457869452d.jpg"
+                    },
+                    {
+                        "name": "\"The Truth is Out There\"",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1011090/26c99762fe0ccc9cb96a274a38ea66ca5d13a0d8.jpg"
+                    }
+                ]
+            },
             "release_date": {
-                "coming_soon": true,
-                "date": "Soon"
+                "coming_soon": false,
+                "date": "9 May, 2019"
             },
             "support_info": {
-                "url": "http://unitzerostudio.dk",
+                "url": "http://unitzerostudio.com",
                 "email": ""
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1011090/page_bg_generated_v6b.jpg?t=1553098623",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1011090/page_bg_generated_v6b.jpg?t=1591899000",
             "content_descriptors": {
                 "ids": [],
                 "notes": null

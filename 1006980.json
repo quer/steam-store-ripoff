@@ -15,7 +15,7 @@
                 "name": "RPG Maker MV"
             },
             "supported_languages": "English, Japanese",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1006980/header.jpg?t=1548352239",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1006980/header.jpg?t=1589351733",
             "website": "http://www.rpgmakerweb.com/",
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Additional Notes:</strong> System supporting RPG Maker MV</li></ul>"
@@ -35,10 +35,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 1679,
-                "final": 1175,
-                "discount_percent": 30,
-                "initial_formatted": "16,79€",
-                "final_formatted": "11,75€"
+                "final": 1679,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "16,79€"
             },
             "packages": [
                 333084
@@ -55,13 +55,13 @@
                     "subs": [
                         {
                             "packageid": 333084,
-                            "percent_savings_text": "-30%",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "RPG Maker MV - 8bit Fantasy RPG Tracks Vol.1 - <span class=\"discount_original_price\">16,79€</span> 11,75€",
+                            "option_text": "RPG Maker MV - 8bit Fantasy RPG Tracks Vol.1 - 16,79€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1175
+                            "price_in_cents_with_discount": 1679
                         }
                     ]
                 }
@@ -94,8 +94,8 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1006980/ss_a528b781c723d18f0e2c934861bb790a91be1f65.600x338.jpg?t=1548352239",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1006980/ss_a528b781c723d18f0e2c934861bb790a91be1f65.1920x1080.jpg?t=1548352239"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1006980/ss_a528b781c723d18f0e2c934861bb790a91be1f65.600x338.jpg?t=1589351733",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1006980/ss_a528b781c723d18f0e2c934861bb790a91be1f65.1920x1080.jpg?t=1589351733"
                 }
             ],
             "movies": [
@@ -107,12 +107,13 @@
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/256740635/movie480.webm?t=1548352229",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/256740635/movie_max.webm?t=1548352229"
                     },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256740635/movie480.mp4?t=1548352229",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256740635/movie_max.mp4?t=1548352229"
+                    },
                     "highlight": true
                 }
             ],
-            "achievements": {
-                "total": 0
-            },
             "release_date": {
                 "coming_soon": false,
                 "date": "24 Jan, 2019"
@@ -121,7 +122,7 @@
                 "url": "http://www.rpgmakerweb.com/support",
                 "email": ""
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1006980/page_bg_generated_v6b.jpg?t=1548352239",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1006980/page_bg_generated_v6b.jpg?t=1589351733",
             "content_descriptors": {
                 "ids": [],
                 "notes": null

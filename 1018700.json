@@ -28,10 +28,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 399,
-                "final": 399,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "3,99€"
+                "final": 79,
+                "discount_percent": 80,
+                "initial_formatted": "3,99€",
+                "final_formatted": "0,79€"
             },
             "packages": [
                 337750,
@@ -49,23 +49,23 @@
                     "subs": [
                         {
                             "packageid": 337750,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-80% ",
                             "percent_savings": 0,
-                            "option_text": "Kabitis 2: Fire Sword - 3,99€",
+                            "option_text": "Kabitis 2: Fire Sword - <span class=\"discount_original_price\">3,99€</span> 0,79€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 399
+                            "price_in_cents_with_discount": 79
                         },
                         {
                             "packageid": 395203,
-                            "percent_savings_text": "",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Kabitis 2: Fire Sword - Commercial License - 13,99€",
+                            "option_text": "Kabitis 2: Fire Sword - Commercial License - 4,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 1399
+                            "price_in_cents_with_discount": 499
                         }
                     ]
                 }
@@ -131,6 +131,10 @@
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/256759786/movie480.webm?t=1566488488",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/256759786/movie_max.webm?t=1566488488"
                     },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256759786/movie480.mp4?t=1566488488",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256759786/movie_max.mp4?t=1566488488"
+                    },
                     "highlight": true
                 },
                 {
@@ -140,6 +144,10 @@
                     "webm": {
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/256759809/movie480.webm?t=1566488497",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/256759809/movie_max.webm?t=1566488497"
+                    },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256759809/movie480.mp4?t=1566488497",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256759809/movie_max.mp4?t=1566488497"
                     },
                     "highlight": true
                 }

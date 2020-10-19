@@ -6,26 +6,32 @@
             "name": "Cube Man",
             "steam_appid": 1019910,
             "required_age": 0,
-            "is_free": true,
-            "controller_support": "full",
-            "detailed_description": "Cube Man is an adventure game full of challenges, the goal of the game is to rescue your friends who were mysteriously abducted in their village after the daily training of Cube Man, levels are getting more and more insane when advancing during the game, be it constantly challenged, with each death you will learn not to make the same mistakes.",
-            "about_the_game": "Cube Man is an adventure game full of challenges, the goal of the game is to rescue your friends who were mysteriously abducted in their village after the daily training of Cube Man, levels are getting more and more insane when advancing during the game, be it constantly challenged, with each death you will learn not to make the same mistakes.",
+            "is_free": false,
+            "detailed_description": "Cube Man is an adventure game full of challenges, the objective of the game is to rescue your friends who were kidnapped by the space worm in your village after the daily training of Cube Man, the levels are getting more and more insane as you progress during the game, be constantly challenged, with each death you will learn not to make the same mistakes, defeat your archenemy the space worm and rescue all the inhabitants of the planet from the cubes, the space worm is using the energy of the friends of the population of the planet of the cube to move their machines, be a hero.<br />\r\n<br />\r\nCube Man conquers new skills in more advanced worlds, skills are super important to pass the level, challenging achievements and a beautiful look, the gameplay is simple, it consists of simple movements like jumps, impulses, slow motion, fly an airplane, fly an jetpack and run a lot, be as fast as possible to conquer the screens with the maximum stars, the stars will influence the opening of the bonus screens, there are 5 super challenging worlds, the world of Earth, Fire, Ice, Limbo and Toxic World, each world consists of 15 challenging screens the last screen of each world has a boss, however, the toxic world consists of 10 super insane screens, be challenged to the extreme and show your skills, but the most important is your fun.",
+            "about_the_game": "Cube Man is an adventure game full of challenges, the objective of the game is to rescue your friends who were kidnapped by the space worm in your village after the daily training of Cube Man, the levels are getting more and more insane as you progress during the game, be constantly challenged, with each death you will learn not to make the same mistakes, defeat your archenemy the space worm and rescue all the inhabitants of the planet from the cubes, the space worm is using the energy of the friends of the population of the planet of the cube to move their machines, be a hero.<br />\r\n<br />\r\nCube Man conquers new skills in more advanced worlds, skills are super important to pass the level, challenging achievements and a beautiful look, the gameplay is simple, it consists of simple movements like jumps, impulses, slow motion, fly an airplane, fly an jetpack and run a lot, be as fast as possible to conquer the screens with the maximum stars, the stars will influence the opening of the bonus screens, there are 5 super challenging worlds, the world of Earth, Fire, Ice, Limbo and Toxic World, each world consists of 15 challenging screens the last screen of each world has a boss, however, the toxic world consists of 10 super insane screens, be challenged to the extreme and show your skills, but the most important is your fun.",
             "short_description": "Cube Man is a small man in a cube format, an adventurous man who does not rule out a challenge, in an ordinary day of training, upon arriving in his village, his friends were mysteriously abducted by beings from other planets, the Cube Man mission is to rescue his friends who were abducted.",
-            "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1019910/header.jpg?t=1550428010",
-            "website": null,
+            "supported_languages": "English",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1019910/header.jpg?t=1597615785",
+            "website": "https://studiosvortex.com/",
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7, Windows 8, Windows 10<br></li><li><strong>Processor:</strong> 1155 Intel Core I3 2100 3.10ghz Oem<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> XFX AMD Radeon R7 240 Core 4GB, DDR3 - R7-240A-4NFR<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Storage:</strong> 1 GB available space<br></li><li><strong>Sound Card:</strong> Opcional</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 7, Windows 8, Windows 10<br></li><li><strong>Processor:</strong> 1155 Intel Core I3 2100 3.10ghz Oem<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> XFX AMD Radeon R7 240 Core 4GB, DDR3 - R7-240A-4NFR<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Storage:</strong> 9 GB available space<br></li><li><strong>Sound Card:</strong> Opcional</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
             },
-            "mac_requirements": [],
-            "linux_requirements": [],
-            "legal_notice": "2019 Vortex Games",
+            "mac_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+            },
+            "linux_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+            },
+            "legal_notice": "All rights reserved to Vortex Entertainment",
             "developers": [
                 "Lucas Borgato",
-                "João Batista"
+                "Diego Araujo"
             ],
             "publishers": [
-                "Vortex Game"
+                "Studios Vortex"
             ],
             "demos": [
                 {
@@ -33,7 +39,40 @@
                     "description": ""
                 }
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 569,
+                "final": 569,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "5,69€"
+            },
+            "packages": [
+                343330
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Cube Man",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 343330,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "Cube Man - 5,69€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 569
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": false,
@@ -45,8 +84,8 @@
                     "description": "Single-player"
                 },
                 {
-                    "id": 28,
-                    "description": "Full controller support"
+                    "id": 18,
+                    "description": "Partial Controller Support"
                 }
             ],
             "genres": [
@@ -59,8 +98,8 @@
                     "description": "Adventure"
                 },
                 {
-                    "id": "37",
-                    "description": "Free to Play"
+                    "id": "4",
+                    "description": "Casual"
                 },
                 {
                     "id": "23",
@@ -74,51 +113,125 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1019910/ss_fb653fb924f906e42fac4736c9273fc09cf7ce65.600x338.jpg?t=1550428010",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1019910/ss_fb653fb924f906e42fac4736c9273fc09cf7ce65.1920x1080.jpg?t=1550428010"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1019910/ss_8d96ee1ef9f2d3821595087a9b4cd2c75d3fc837.600x338.jpg?t=1597615785",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1019910/ss_8d96ee1ef9f2d3821595087a9b4cd2c75d3fc837.1920x1080.jpg?t=1597615785"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1019910/ss_377eee3820bccc61742a0a173784ea9413ece8d7.600x338.jpg?t=1550428010",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1019910/ss_377eee3820bccc61742a0a173784ea9413ece8d7.1920x1080.jpg?t=1550428010"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1019910/ss_36fab6a84f96544c6a05bb14cda7ff5507adb717.600x338.jpg?t=1597615785",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1019910/ss_36fab6a84f96544c6a05bb14cda7ff5507adb717.1920x1080.jpg?t=1597615785"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1019910/ss_ef02cba6bf8c25cf9478c516369c0634b7d9710b.600x338.jpg?t=1550428010",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1019910/ss_ef02cba6bf8c25cf9478c516369c0634b7d9710b.1920x1080.jpg?t=1550428010"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1019910/ss_576f4c362c9af2824380eab14900411bf0dade48.600x338.jpg?t=1597615785",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1019910/ss_576f4c362c9af2824380eab14900411bf0dade48.1920x1080.jpg?t=1597615785"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1019910/ss_83590239cb34fcb25b11f5c765b0b11ee3b8d7ae.600x338.jpg?t=1550428010",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1019910/ss_83590239cb34fcb25b11f5c765b0b11ee3b8d7ae.1920x1080.jpg?t=1550428010"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1019910/ss_df187c31bd41dd57a02b3ae5fdee717460d5f5bc.600x338.jpg?t=1597615785",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1019910/ss_df187c31bd41dd57a02b3ae5fdee717460d5f5bc.1920x1080.jpg?t=1597615785"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1019910/ss_0ef39eb95ff4d1bda519677f2a005a9b5c71876d.600x338.jpg?t=1550428010",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1019910/ss_0ef39eb95ff4d1bda519677f2a005a9b5c71876d.1920x1080.jpg?t=1550428010"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1019910/ss_145228e6e58820db67187f65b8cb33583f53c1e0.600x338.jpg?t=1597615785",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1019910/ss_145228e6e58820db67187f65b8cb33583f53c1e0.1920x1080.jpg?t=1597615785"
+                },
+                {
+                    "id": 5,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1019910/ss_3c1533ea5047203a9246521a5c40078b05107186.600x338.jpg?t=1597615785",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1019910/ss_3c1533ea5047203a9246521a5c40078b05107186.1920x1080.jpg?t=1597615785"
+                },
+                {
+                    "id": 6,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1019910/ss_6eb34aab387144c9bc0d9e0f4828367b5bd7b4ff.600x338.jpg?t=1597615785",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1019910/ss_6eb34aab387144c9bc0d9e0f4828367b5bd7b4ff.1920x1080.jpg?t=1597615785"
+                },
+                {
+                    "id": 7,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1019910/ss_998cedbab34c2f25f4d5db3aa177d4585f7fa4fe.600x338.jpg?t=1597615785",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1019910/ss_998cedbab34c2f25f4d5db3aa177d4585f7fa4fe.1920x1080.jpg?t=1597615785"
+                },
+                {
+                    "id": 8,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1019910/ss_c7eb9978e34122f21cc4fc511889a95477aab0d8.600x338.jpg?t=1597615785",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1019910/ss_c7eb9978e34122f21cc4fc511889a95477aab0d8.1920x1080.jpg?t=1597615785"
+                },
+                {
+                    "id": 9,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1019910/ss_1dc7e6bd28d6fdba170b6c7a761209a3eb9da682.600x338.jpg?t=1597615785",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1019910/ss_1dc7e6bd28d6fdba170b6c7a761209a3eb9da682.1920x1080.jpg?t=1597615785"
                 }
             ],
             "movies": [
                 {
-                    "id": 256742034,
+                    "id": 256796330,
                     "name": "Cube Man",
-                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256742034/movie.293x165.jpg?t=1550093560",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256796330/movie.293x165.jpg?t=1597287579",
                     "webm": {
-                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256742034/movie480.webm?t=1550093560",
-                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256742034/movie_max.webm?t=1550093560"
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256796330/movie480_vp9.webm?t=1597287579",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256796330/movie_max_vp9.webm?t=1597287579"
+                    },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256796330/movie480.mp4?t=1597287579",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256796330/movie_max.mp4?t=1597287579"
                     },
                     "highlight": true
                 }
             ],
+            "achievements": {
+                "total": 20,
+                "highlighted": [
+                    {
+                        "name": "Training completed",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1019910/513345135db6b8652e422579b714d4c44ea1e1a5.jpg"
+                    },
+                    {
+                        "name": "THREE STARS",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1019910/c8fc1af30f468673efaf885fe57aa133be09a6c1.jpg"
+                    },
+                    {
+                        "name": "First Death",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1019910/3f2b5827452e4be6ea11b13fc80fca47bd85a963.jpg"
+                    },
+                    {
+                        "name": "Rescue",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1019910/df318599c63e2af3049fce1808e94b6e783be8e0.jpg"
+                    },
+                    {
+                        "name": "Lightning",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1019910/9d343d2dba1540086dbb9b7b8431600d71b002ab.jpg"
+                    },
+                    {
+                        "name": "SLOW MOTION",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1019910/54d69c481c3ecde2b32d4211c20a4a02bfd67063.jpg"
+                    },
+                    {
+                        "name": "First Boss",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1019910/e20fa72fd2bd9879c4ebfd69afe6e5122bd25c0a.jpg"
+                    },
+                    {
+                        "name": "AVIATOR",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1019910/a37d131a9ea2db20f5fcba05b3095449c40fbb0d.jpg"
+                    },
+                    {
+                        "name": " Jet pack",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1019910/2b4e42e6683d144182056680f7ea66659fc51e7e.jpg"
+                    },
+                    {
+                        "name": "Newbie",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1019910/b5b629bd1f8fd9f9623de21e9629d1c271d75f0e.jpg"
+                    }
+                ]
+            },
             "release_date": {
-                "coming_soon": true,
-                "date": "O jogo está em desenvolvimento e pode ser lançado até o fim de 2019"
+                "coming_soon": false,
+                "date": "14 Aug, 2020"
             },
             "support_info": {
                 "url": "",
                 "email": "lucas-kbs@hotmail.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1019910/page_bg_generated_v6b.jpg?t=1550428010",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1019910/page_bg_generated_v6b.jpg?t=1597615785",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
