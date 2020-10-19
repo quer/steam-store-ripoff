@@ -11,7 +11,7 @@
             "about_the_game": "You are the cleaning staff of the zoo.<br />\r\n<br />\r\nThere is only one goal in &quot;Gorilla Unko&quot;.<br />\r\nKeep avoiding the gorilla's UNKO as much as you can.<br />\r\n<br />\r\nThe more you avoid, the higher the score will become.<br />\r\nCompete high scores with world through online rankings.",
             "short_description": "A game, keep avoiding the gorilla's UNKO. Avoid as much UNKO as you can. Compete your high score in online rankings.",
             "supported_languages": "English, Japanese",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1047120/header.jpg?t=1553401881",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1047120/header.jpg?t=1554775247",
             "website": null,
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> 1GHz+<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Storage:</strong> 100 MB available space</li></ul>"
@@ -24,7 +24,40 @@
             "publishers": [
                 "Gorilla Cafe"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 79,
+                "final": 79,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "0,79€"
+            },
+            "packages": [
+                349093
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Gorilla Unko",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 349093,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "Gorilla Unko - 0,79€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 79
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": false,
@@ -49,28 +82,28 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1047120/ss_991f1e27d0da8fcbd161e8e2330da5f799c99c9b.600x338.jpg?t=1553401881",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1047120/ss_991f1e27d0da8fcbd161e8e2330da5f799c99c9b.1920x1080.jpg?t=1553401881"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1047120/ss_991f1e27d0da8fcbd161e8e2330da5f799c99c9b.600x338.jpg?t=1554775247",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1047120/ss_991f1e27d0da8fcbd161e8e2330da5f799c99c9b.1920x1080.jpg?t=1554775247"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1047120/ss_153d510a70dc89a2576ddcc2fba5007830a66460.600x338.jpg?t=1553401881",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1047120/ss_153d510a70dc89a2576ddcc2fba5007830a66460.1920x1080.jpg?t=1553401881"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1047120/ss_153d510a70dc89a2576ddcc2fba5007830a66460.600x338.jpg?t=1554775247",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1047120/ss_153d510a70dc89a2576ddcc2fba5007830a66460.1920x1080.jpg?t=1554775247"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1047120/ss_e7869602a4fd03dfdbdab9331435d820340d190c.600x338.jpg?t=1553401881",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1047120/ss_e7869602a4fd03dfdbdab9331435d820340d190c.1920x1080.jpg?t=1553401881"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1047120/ss_e7869602a4fd03dfdbdab9331435d820340d190c.600x338.jpg?t=1554775247",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1047120/ss_e7869602a4fd03dfdbdab9331435d820340d190c.1920x1080.jpg?t=1554775247"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1047120/ss_60f3c2fb4951dd5f9d9f4ca151d495910facf754.600x338.jpg?t=1553401881",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1047120/ss_60f3c2fb4951dd5f9d9f4ca151d495910facf754.1920x1080.jpg?t=1553401881"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1047120/ss_60f3c2fb4951dd5f9d9f4ca151d495910facf754.600x338.jpg?t=1554775247",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1047120/ss_60f3c2fb4951dd5f9d9f4ca151d495910facf754.1920x1080.jpg?t=1554775247"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1047120/ss_43eb0e54730029e220ac0d96ae2041fd8c317b55.600x338.jpg?t=1553401881",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1047120/ss_43eb0e54730029e220ac0d96ae2041fd8c317b55.1920x1080.jpg?t=1553401881"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1047120/ss_43eb0e54730029e220ac0d96ae2041fd8c317b55.600x338.jpg?t=1554775247",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1047120/ss_43eb0e54730029e220ac0d96ae2041fd8c317b55.1920x1080.jpg?t=1554775247"
                 }
             ],
             "movies": [
@@ -82,18 +115,22 @@
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/256744823/movie480.webm?t=1552655000",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/256744823/movie_max.webm?t=1552655000"
                     },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256744823/movie480.mp4?t=1552655000",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256744823/movie_max.mp4?t=1552655000"
+                    },
                     "highlight": true
                 }
             ],
             "release_date": {
-                "coming_soon": true,
+                "coming_soon": false,
                 "date": "8 Apr, 2019"
             },
             "support_info": {
                 "url": "",
                 "email": "gorillashokudou@gmail.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1047120/page_bg_generated_v6b.jpg?t=1553401881",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1047120/page_bg_generated_v6b.jpg?t=1554775247",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
