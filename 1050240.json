@@ -11,11 +11,11 @@
             "about_the_game": "Take a swing at this amazing mini-golf game! Enjoy the realistic gameplay with more than 50 fields to play. Your time on these 3-D greens will amaze you as you play through phenomenal obstacles and unique locations, like a castle, a circus, a factory, and more. Can you come in under par?<br />\r\n<br />\r\n- Advanced physics engine<br />\r\n- 6 different campaigns<br />\r\n- 50 fields to play<br />\r\n- Stylish graphics",
             "short_description": "Take a swing at this amazing mini-golf game! Enjoy the realistic gameplay with more than 50 fields to play. Your time on these 3-D greens will amaze you as you play through phenomenal obstacles and unique locations, like a castle, a circus, a factory, and more. Can you come in under par?",
             "supported_languages": "English",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1050240/header.jpg?t=1553521374",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1050240/header.jpg?t=1576320465",
             "website": null,
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP/ME/Vista/7/8/10<br></li><li><strong>Processor:</strong> 1.0GHz CPU<br></li><li><strong>Memory:</strong> 128 MB RAM<br></li><li><strong>Graphics:</strong> 128MB<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 100 MB available space<br></li><li><strong>Sound Card:</strong> DirectX compatible sound card</li></ul>",
-                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows ME/Vista/7/8/10<br></li><li><strong>Processor:</strong> 1.2GHz CPU<br></li><li><strong>Memory:</strong> 256 MB RAM<br></li><li><strong>Graphics:</strong> 256MB<br></li><li><strong>Storage:</strong> 100 MB available space<br></li><li><strong>Sound Card:</strong> DirectX compatible sound card</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP/ME/Vista/7/8/10<br></li><li><strong>Processor:</strong> 1.0GHz CPU<br></li><li><strong>Memory:</strong> 128 MB RAM<br></li><li><strong>Graphics:</strong> 128MB<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 400 MB available space<br></li><li><strong>Sound Card:</strong> DirectX compatible sound card</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows ME/Vista/7/8/10<br></li><li><strong>Processor:</strong> 1.2GHz CPU<br></li><li><strong>Memory:</strong> 256 MB RAM<br></li><li><strong>Graphics:</strong> 256MB<br></li><li><strong>Storage:</strong> 400 MB available space<br></li><li><strong>Sound Card:</strong> DirectX compatible sound card</li></ul>"
             },
             "mac_requirements": [],
             "linux_requirements": [],
@@ -25,7 +25,40 @@
             "publishers": [
                 "HH-Games"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 299,
+                "final": 299,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "2,99€"
+            },
+            "packages": [
+                350318
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy MiniGolf",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 350318,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "MiniGolf - 2,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 299
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": false,
@@ -46,71 +79,75 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1050240/ss_ee6ef59991ef0f9c86ecda5756fd9bf03493898a.600x338.jpg?t=1553521374",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1050240/ss_ee6ef59991ef0f9c86ecda5756fd9bf03493898a.1920x1080.jpg?t=1553521374"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1050240/ss_ee6ef59991ef0f9c86ecda5756fd9bf03493898a.600x338.jpg?t=1576320465",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1050240/ss_ee6ef59991ef0f9c86ecda5756fd9bf03493898a.1920x1080.jpg?t=1576320465"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1050240/ss_54c90434a75a8653b9c17f7610497bc0367dc587.600x338.jpg?t=1553521374",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1050240/ss_54c90434a75a8653b9c17f7610497bc0367dc587.1920x1080.jpg?t=1553521374"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1050240/ss_54c90434a75a8653b9c17f7610497bc0367dc587.600x338.jpg?t=1576320465",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1050240/ss_54c90434a75a8653b9c17f7610497bc0367dc587.1920x1080.jpg?t=1576320465"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1050240/ss_56f8a5667021253e4f9171ab9915ad11a4e7635a.600x338.jpg?t=1553521374",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1050240/ss_56f8a5667021253e4f9171ab9915ad11a4e7635a.1920x1080.jpg?t=1553521374"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1050240/ss_56f8a5667021253e4f9171ab9915ad11a4e7635a.600x338.jpg?t=1576320465",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1050240/ss_56f8a5667021253e4f9171ab9915ad11a4e7635a.1920x1080.jpg?t=1576320465"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1050240/ss_ce7a00196c6beecf32c08214b090894498b66de9.600x338.jpg?t=1553521374",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1050240/ss_ce7a00196c6beecf32c08214b090894498b66de9.1920x1080.jpg?t=1553521374"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1050240/ss_ce7a00196c6beecf32c08214b090894498b66de9.600x338.jpg?t=1576320465",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1050240/ss_ce7a00196c6beecf32c08214b090894498b66de9.1920x1080.jpg?t=1576320465"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1050240/ss_ebff68a4890e989c754c6ada8a46c131a760ee17.600x338.jpg?t=1553521374",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1050240/ss_ebff68a4890e989c754c6ada8a46c131a760ee17.1920x1080.jpg?t=1553521374"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1050240/ss_ebff68a4890e989c754c6ada8a46c131a760ee17.600x338.jpg?t=1576320465",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1050240/ss_ebff68a4890e989c754c6ada8a46c131a760ee17.1920x1080.jpg?t=1576320465"
                 },
                 {
                     "id": 5,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1050240/ss_2f267a6e9bce06ee99e2bdd53f43998121d4eafa.600x338.jpg?t=1553521374",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1050240/ss_2f267a6e9bce06ee99e2bdd53f43998121d4eafa.1920x1080.jpg?t=1553521374"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1050240/ss_2f267a6e9bce06ee99e2bdd53f43998121d4eafa.600x338.jpg?t=1576320465",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1050240/ss_2f267a6e9bce06ee99e2bdd53f43998121d4eafa.1920x1080.jpg?t=1576320465"
                 },
                 {
                     "id": 6,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1050240/ss_6259bda8ddba6de340ccfd3bc204c12809b4d621.600x338.jpg?t=1553521374",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1050240/ss_6259bda8ddba6de340ccfd3bc204c12809b4d621.1920x1080.jpg?t=1553521374"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1050240/ss_6259bda8ddba6de340ccfd3bc204c12809b4d621.600x338.jpg?t=1576320465",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1050240/ss_6259bda8ddba6de340ccfd3bc204c12809b4d621.1920x1080.jpg?t=1576320465"
                 },
                 {
                     "id": 7,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1050240/ss_59b0d9a4efc4ca1fd80dfce9022270edc234c88d.600x338.jpg?t=1553521374",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1050240/ss_59b0d9a4efc4ca1fd80dfce9022270edc234c88d.1920x1080.jpg?t=1553521374"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1050240/ss_59b0d9a4efc4ca1fd80dfce9022270edc234c88d.600x338.jpg?t=1576320465",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1050240/ss_59b0d9a4efc4ca1fd80dfce9022270edc234c88d.1920x1080.jpg?t=1576320465"
                 },
                 {
                     "id": 8,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1050240/ss_434a6966b73d28edd60b7d4c42abcc4989640d5a.600x338.jpg?t=1553521374",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1050240/ss_434a6966b73d28edd60b7d4c42abcc4989640d5a.1920x1080.jpg?t=1553521374"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1050240/ss_434a6966b73d28edd60b7d4c42abcc4989640d5a.600x338.jpg?t=1576320465",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1050240/ss_434a6966b73d28edd60b7d4c42abcc4989640d5a.1920x1080.jpg?t=1576320465"
                 }
             ],
             "movies": [
                 {
                     "id": 256745336,
                     "name": "Trailer_MiniGolf",
-                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256745336/movie.293x165.jpg?t=1552635525",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256745336/movie.293x165.jpg?t=1557059569",
                     "webm": {
-                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256745336/movie480.webm?t=1552635525",
-                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256745336/movie_max.webm?t=1552635525"
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256745336/movie480.webm?t=1557059569",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256745336/movie_max.webm?t=1557059569"
+                    },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256745336/movie480.mp4?t=1557059569",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256745336/movie_max.mp4?t=1557059569"
                     },
                     "highlight": true
                 }
             ],
             "release_date": {
-                "coming_soon": true,
+                "coming_soon": false,
                 "date": "29 Mar, 2019"
             },
             "support_info": {
                 "url": "",
                 "email": "support@gamepublishing.de"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1050240/page_bg_generated_v6b.jpg?t=1553521374",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1050240/page_bg_generated_v6b.jpg?t=1576320465",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
