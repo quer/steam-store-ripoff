@@ -27,11 +27,11 @@
             ],
             "price_overview": {
                 "currency": "EUR",
-                "initial": 499,
-                "final": 499,
+                "initial": 159,
+                "final": 159,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "4,99€"
+                "final_formatted": "1,59€"
             },
             "packages": [
                 341934
@@ -48,13 +48,13 @@
                     "subs": [
                         {
                             "packageid": 341934,
-                            "percent_savings_text": "",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Shift Shaft - 4,99€",
+                            "option_text": "Shift Shaft - 1,59€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 499
+                            "price_in_cents_with_discount": 159
                         }
                     ]
                 }
@@ -70,8 +70,16 @@
                     "description": "Single-player"
                 },
                 {
+                    "id": 1,
+                    "description": "Multi-player"
+                },
+                {
+                    "id": 49,
+                    "description": "PvP"
+                },
+                {
                     "id": 37,
-                    "description": "Local Multi-Player"
+                    "description": "Shared/Split Screen PvP"
                 },
                 {
                     "id": 24,
@@ -84,6 +92,10 @@
                 {
                     "id": 23,
                     "description": "Steam Cloud"
+                },
+                {
+                    "id": 44,
+                    "description": "Remote Play Together"
                 }
             ],
             "genres": [
@@ -135,6 +147,10 @@
                     "webm": {
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/256744618/movie480.webm?t=1551806003",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/256744618/movie_max.webm?t=1551806003"
+                    },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256744618/movie480.mp4?t=1551806003",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256744618/movie_max.mp4?t=1551806003"
                     },
                     "highlight": true
                 }
