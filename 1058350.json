@@ -7,11 +7,16 @@
             "steam_appid": 1058350,
             "required_age": 0,
             "is_free": false,
+            "dlc": [
+                1066830,
+                1080470,
+                1080480
+            ],
             "detailed_description": "In the depths of the ancient forest, where even the most experienced pathfinder did not go, the land of the most beautiful and courageous Elves disappeared. Do not miss your chance to get acquainted with the beautiful elves.<br />\r\n<br />\r\nThe game is a classic puzzle. You have to go through all ten stages, as well as three levels of difficulty, in which pleasant surprises await you ;-)<br />\r\n<br />\r\n- Puzzle Game<br />\r\n<br />\r\n- Artworks<br />\r\n<br />\r\n- Nice music<br />\r\n<br />\r\n- Steam achievements<br />\r\n<br />\r\nKeyboard H: Complete Level",
             "about_the_game": "In the depths of the ancient forest, where even the most experienced pathfinder did not go, the land of the most beautiful and courageous Elves disappeared. Do not miss your chance to get acquainted with the beautiful elves.<br />\r\n<br />\r\nThe game is a classic puzzle. You have to go through all ten stages, as well as three levels of difficulty, in which pleasant surprises await you ;-)<br />\r\n<br />\r\n- Puzzle Game<br />\r\n<br />\r\n- Artworks<br />\r\n<br />\r\n- Nice music<br />\r\n<br />\r\n- Steam achievements<br />\r\n<br />\r\nKeyboard H: Complete Level",
             "short_description": "The game is a classic puzzle with three levels of difficulty.",
             "supported_languages": "English",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1058350/header.jpg?t=1553874903",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1058350/header.jpg?t=1582819636",
             "website": null,
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10, Windows 8, Windows 7 32-bit<br></li><li><strong>Processor:</strong> Quad-core Intel or AMD processor, 2 GHz or faster<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> 1 Gb<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Storage:</strong> 1 MB available space</li></ul>",
@@ -25,7 +30,40 @@
             "publishers": [
                 "IR Studio"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 79,
+                "final": 79,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "0,79€"
+            },
+            "packages": [
+                353611
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Nyasha Land of Elves",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 353611,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "Nyasha Land of Elves - 0,79€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 79
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": false,
@@ -54,39 +92,100 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1058350/ss_5f72fa7fe1254429fda6d2c71ff523aa2abad42d.600x338.jpg?t=1553874903",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1058350/ss_5f72fa7fe1254429fda6d2c71ff523aa2abad42d.1920x1080.jpg?t=1553874903"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1058350/ss_5f72fa7fe1254429fda6d2c71ff523aa2abad42d.600x338.jpg?t=1582819636",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1058350/ss_5f72fa7fe1254429fda6d2c71ff523aa2abad42d.1920x1080.jpg?t=1582819636"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1058350/ss_7a2eb2b97fbd2e7677143bc87479486c074aff62.600x338.jpg?t=1553874903",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1058350/ss_7a2eb2b97fbd2e7677143bc87479486c074aff62.1920x1080.jpg?t=1553874903"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1058350/ss_7a2eb2b97fbd2e7677143bc87479486c074aff62.600x338.jpg?t=1582819636",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1058350/ss_7a2eb2b97fbd2e7677143bc87479486c074aff62.1920x1080.jpg?t=1582819636"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1058350/ss_28c1847155be9cbc22e36af7a1823869bfb94087.600x338.jpg?t=1553874903",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1058350/ss_28c1847155be9cbc22e36af7a1823869bfb94087.1920x1080.jpg?t=1553874903"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1058350/ss_28c1847155be9cbc22e36af7a1823869bfb94087.600x338.jpg?t=1582819636",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1058350/ss_28c1847155be9cbc22e36af7a1823869bfb94087.1920x1080.jpg?t=1582819636"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1058350/ss_5ffb6e88aa6adede514d9940a24bcea79b850011.600x338.jpg?t=1553874903",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1058350/ss_5ffb6e88aa6adede514d9940a24bcea79b850011.1920x1080.jpg?t=1553874903"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1058350/ss_5ffb6e88aa6adede514d9940a24bcea79b850011.600x338.jpg?t=1582819636",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1058350/ss_5ffb6e88aa6adede514d9940a24bcea79b850011.1920x1080.jpg?t=1582819636"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1058350/ss_41c65101fb8385ddded72a17c50d6798ae75c426.600x338.jpg?t=1553874903",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1058350/ss_41c65101fb8385ddded72a17c50d6798ae75c426.1920x1080.jpg?t=1553874903"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1058350/ss_41c65101fb8385ddded72a17c50d6798ae75c426.600x338.jpg?t=1582819636",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1058350/ss_41c65101fb8385ddded72a17c50d6798ae75c426.1920x1080.jpg?t=1582819636"
                 }
             ],
+            "movies": [
+                {
+                    "id": 256746481,
+                    "name": "Nyasha Land of Elves - Trailer",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256746481/movie.293x165.jpg?t=1553942010",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256746481/movie480.webm?t=1553942010",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256746481/movie_max.webm?t=1553942010"
+                    },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256746481/movie480.mp4?t=1553942010",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256746481/movie_max.mp4?t=1553942010"
+                    },
+                    "highlight": true
+                }
+            ],
+            "achievements": {
+                "total": 32,
+                "highlighted": [
+                    {
+                        "name": "Play",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1058350/81f5773964109f52f717b57ab686a5263d6ff571.jpg"
+                    },
+                    {
+                        "name": "Off",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1058350/8c14d482155614337587426e6fcad1b0993a266a.jpg"
+                    },
+                    {
+                        "name": "Aradhel",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1058350/7d1765fadc82cadcc37ccdf4246feddd8c1b3a61.jpg"
+                    },
+                    {
+                        "name": "Aradhel",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1058350/b153947242c9db8ff2be0b3ba1e922af51be1c22.jpg"
+                    },
+                    {
+                        "name": "Aradhel",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1058350/27015b694ee16b83093d24f1dbeb137782a3d20b.jpg"
+                    },
+                    {
+                        "name": "Lairiel",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1058350/eac742670980328bb7ff03517fb6ef2c8763ccef.jpg"
+                    },
+                    {
+                        "name": "Lairiel",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1058350/17737fb93786a2f51c774ad418c9ad5eb7451303.jpg"
+                    },
+                    {
+                        "name": "Lairiel",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1058350/c492903eb8a13a271891489f6c3aaace8a1d11e5.jpg"
+                    },
+                    {
+                        "name": "Mirime",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1058350/e6473865b558977c2723b81b4cc8c00b656ae3c2.jpg"
+                    },
+                    {
+                        "name": "Mirime",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1058350/89589ee6f87c40587f777efaa35981a3ebbd4751.jpg"
+                    }
+                ]
+            },
             "release_date": {
-                "coming_soon": true,
-                "date": "10 Apr, 2019"
+                "coming_soon": false,
+                "date": "13 Apr, 2019"
             },
             "support_info": {
                 "url": "",
                 "email": "irstudio2016@gmail.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1058350/page_bg_generated_v6b.jpg?t=1553874903",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1058350/page_bg_generated_v6b.jpg?t=1582819636",
             "content_descriptors": {
                 "ids": [
                     1,

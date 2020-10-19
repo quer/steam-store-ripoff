@@ -15,7 +15,7 @@
                 "name": "Code 7: A Story-Driven Hacking Adventure"
             },
             "supported_languages": "English<strong>*</strong>, German<br><strong>*</strong>languages with full audio support",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1058170/header.jpg?t=1553770107",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1058170/header.jpg?t=1555506273",
             "website": "http://www.code7-game.com",
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong> Intel Core i5 2,5 GHz<br></li><li><strong>Memory:</strong> 6 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GT 252M<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 3 GB available space</li></ul>",
@@ -35,7 +35,40 @@
             "publishers": [
                 ""
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 1679,
+                "final": 1679,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "16,79€"
+            },
+            "packages": [
+                353537
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Season Pass (Episodes 2-4)",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 353537,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "Episodes 2-4 (Season Pass) - 16,79€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 1679
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": true,
@@ -72,34 +105,115 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1058170/ss_40f1c808117dd792890b23b6c9e2c391c8140bd9.600x338.jpg?t=1553770107",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1058170/ss_40f1c808117dd792890b23b6c9e2c391c8140bd9.1920x1080.jpg?t=1553770107"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1058170/ss_40f1c808117dd792890b23b6c9e2c391c8140bd9.600x338.jpg?t=1555506273",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1058170/ss_40f1c808117dd792890b23b6c9e2c391c8140bd9.1920x1080.jpg?t=1555506273"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1058170/ss_6e32834ba339a943285003cff67e5eba84453ffb.600x338.jpg?t=1553770107",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1058170/ss_6e32834ba339a943285003cff67e5eba84453ffb.1920x1080.jpg?t=1553770107"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1058170/ss_6e32834ba339a943285003cff67e5eba84453ffb.600x338.jpg?t=1555506273",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1058170/ss_6e32834ba339a943285003cff67e5eba84453ffb.1920x1080.jpg?t=1555506273"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1058170/ss_73d11e1a4b7adecbba56f7b9a85883ddcc625c29.600x338.jpg?t=1553770107",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1058170/ss_73d11e1a4b7adecbba56f7b9a85883ddcc625c29.1920x1080.jpg?t=1553770107"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1058170/ss_32d8f4b9f269e9d26050ab8f4fe9fcb6297cd7c4.600x338.jpg?t=1555506273",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1058170/ss_32d8f4b9f269e9d26050ab8f4fe9fcb6297cd7c4.1920x1080.jpg?t=1555506273"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1058170/ss_fe2f79d3be5fecf4f8154f433b7d423df86a6c9d.600x338.jpg?t=1553770107",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1058170/ss_fe2f79d3be5fecf4f8154f433b7d423df86a6c9d.1920x1080.jpg?t=1553770107"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1058170/ss_edd7fb128718deee74561a8cda7aa70945183687.600x338.jpg?t=1555506273",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1058170/ss_edd7fb128718deee74561a8cda7aa70945183687.1920x1080.jpg?t=1555506273"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1058170/ss_ea6375d42d8f6e238da4d8f2f15069aa0771cb28.600x338.jpg?t=1555506273",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1058170/ss_ea6375d42d8f6e238da4d8f2f15069aa0771cb28.1920x1080.jpg?t=1555506273"
+                },
+                {
+                    "id": 5,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1058170/ss_2509300f94af7947a0c30eb1d30c344a2a94fa55.600x338.jpg?t=1555506273",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1058170/ss_2509300f94af7947a0c30eb1d30c344a2a94fa55.1920x1080.jpg?t=1555506273"
+                },
+                {
+                    "id": 6,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1058170/ss_2698bfbc0fd9947e309fcdcb4a0c5b64813c9a51.600x338.jpg?t=1555506273",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1058170/ss_2698bfbc0fd9947e309fcdcb4a0c5b64813c9a51.1920x1080.jpg?t=1555506273"
+                },
+                {
+                    "id": 7,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1058170/ss_25faa16ce4efe2ad4929c10d6fecabb3bd1561fa.600x338.jpg?t=1555506273",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1058170/ss_25faa16ce4efe2ad4929c10d6fecabb3bd1561fa.1920x1080.jpg?t=1555506273"
+                },
+                {
+                    "id": 8,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1058170/ss_3864fc8350440bd3d9316e0a5908d535eabf55ee.600x338.jpg?t=1555506273",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1058170/ss_3864fc8350440bd3d9316e0a5908d535eabf55ee.1920x1080.jpg?t=1555506273"
+                },
+                {
+                    "id": 9,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1058170/ss_2ae183d452f6c838676925dab37b9b7c105d179c.600x338.jpg?t=1555506273",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1058170/ss_2ae183d452f6c838676925dab37b9b7c105d179c.1920x1080.jpg?t=1555506273"
+                },
+                {
+                    "id": 10,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1058170/ss_9a6db53d67351e06314450e264fe0771197c6e9d.600x338.jpg?t=1555506273",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1058170/ss_9a6db53d67351e06314450e264fe0771197c6e9d.1920x1080.jpg?t=1555506273"
+                },
+                {
+                    "id": 11,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1058170/ss_ae632bd68c41877c16502a4b488e9d0cc4ce6ce2.600x338.jpg?t=1555506273",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1058170/ss_ae632bd68c41877c16502a4b488e9d0cc4ce6ce2.1920x1080.jpg?t=1555506273"
+                },
+                {
+                    "id": 12,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1058170/ss_5e50674199995b95d33986969147e0939fbf05bf.600x338.jpg?t=1555506273",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1058170/ss_5e50674199995b95d33986969147e0939fbf05bf.1920x1080.jpg?t=1555506273"
+                },
+                {
+                    "id": 13,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1058170/ss_6fd32e93d082d25f0a79975adc9ad07917cbfe1f.600x338.jpg?t=1555506273",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1058170/ss_6fd32e93d082d25f0a79975adc9ad07917cbfe1f.1920x1080.jpg?t=1555506273"
+                },
+                {
+                    "id": 14,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1058170/ss_fc6de1c170da75eaa2c49963eb791e8d451e931e.600x338.jpg?t=1555506273",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1058170/ss_fc6de1c170da75eaa2c49963eb791e8d451e931e.1920x1080.jpg?t=1555506273"
+                },
+                {
+                    "id": 15,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1058170/ss_51d927e8258393d48e6b2699bda74facd82893a7.600x338.jpg?t=1555506273",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1058170/ss_51d927e8258393d48e6b2699bda74facd82893a7.1920x1080.jpg?t=1555506273"
+                },
+                {
+                    "id": 16,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1058170/ss_02875fbef617d4b3c6402b549fd5435e1862774d.600x338.jpg?t=1555506273",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1058170/ss_02875fbef617d4b3c6402b549fd5435e1862774d.1920x1080.jpg?t=1555506273"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 256747852,
+                    "name": "Episode 2 & 3 Trailer",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256747852/movie.293x165.jpg?t=1555090825",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256747852/movie480.webm?t=1555090825",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256747852/movie_max.webm?t=1555090825"
+                    },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256747852/movie480.mp4?t=1555090825",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256747852/movie_max.mp4?t=1555090825"
+                    },
+                    "highlight": true
                 }
             ],
             "release_date": {
-                "coming_soon": true,
-                "date": "Apr 2019"
+                "coming_soon": false,
+                "date": "12 Apr, 2019"
             },
             "support_info": {
                 "url": "",
                 "email": "contact@goodwolf-studio.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1058170/page_bg_generated_v6b.jpg?t=1553770107",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1058170/page_bg_generated_v6b.jpg?t=1555506273",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
