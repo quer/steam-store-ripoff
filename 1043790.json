@@ -27,11 +27,11 @@
             ],
             "price_overview": {
                 "currency": "EUR",
-                "initial": 239,
-                "final": 239,
+                "initial": 79,
+                "final": 79,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "2,39€"
+                "final_formatted": "0,79€"
             },
             "packages": [
                 347776
@@ -48,13 +48,13 @@
                     "subs": [
                         {
                             "packageid": 347776,
-                            "percent_savings_text": "",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Ogrez - 2,39€",
+                            "option_text": "Ogrez - 0,79€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 239
+                            "price_in_cents_with_discount": 79
                         }
                     ]
                 }
@@ -124,6 +124,10 @@
                     "webm": {
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/256746978/movie480.webm?t=1559576314",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/256746978/movie_max.webm?t=1559576314"
+                    },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256746978/movie480.mp4?t=1559576314",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256746978/movie_max.mp4?t=1559576314"
                     },
                     "highlight": true
                 }
