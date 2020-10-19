@@ -15,7 +15,7 @@
                 "name": "Steel Division 2"
             },
             "supported_languages": "English<strong>*</strong>, French, German, Spanish - Spain, Russian, Simplified Chinese<br><strong>*</strong>languages with full audio support",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1022830/header.jpg?t=1552658882",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1022830/header.jpg?t=1587225199",
             "website": "https://www.steeldivision2.com",
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Additional Notes:</strong> TBC</li></ul>",
@@ -30,7 +30,40 @@
             "publishers": [
                 "Eugen Systems"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 2499,
+                "final": 2499,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "24,99€"
+            },
+            "packages": [
+                339624
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Steel Division 2 - Back To War Pack",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 339624,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "Steel Division 2 - Back To War Pack - 24,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 2499
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": false,
@@ -46,8 +79,12 @@
                     "description": "Multi-player"
                 },
                 {
+                    "id": 49,
+                    "description": "PvP"
+                },
+                {
                     "id": 36,
-                    "description": "Online Multi-Player"
+                    "description": "Online PvP"
                 },
                 {
                     "id": 9,
@@ -76,8 +113,16 @@
             ],
             "genres": [
                 {
+                    "id": "1",
+                    "description": "Action"
+                },
+                {
                     "id": "23",
                     "description": "Indie"
+                },
+                {
+                    "id": "28",
+                    "description": "Simulation"
                 },
                 {
                     "id": "2",
@@ -87,43 +132,43 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1022830/ss_dff90a7850532aed35f8f330cb24fb5313d960a1.600x338.jpg?t=1552658882",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1022830/ss_dff90a7850532aed35f8f330cb24fb5313d960a1.1920x1080.jpg?t=1552658882"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1022830/ss_dff90a7850532aed35f8f330cb24fb5313d960a1.600x338.jpg?t=1587225199",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1022830/ss_dff90a7850532aed35f8f330cb24fb5313d960a1.1920x1080.jpg?t=1587225199"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1022830/ss_66d5c4dc47c61d89c75ba5325b92ad1176deaf61.600x338.jpg?t=1552658882",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1022830/ss_66d5c4dc47c61d89c75ba5325b92ad1176deaf61.1920x1080.jpg?t=1552658882"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1022830/ss_66d5c4dc47c61d89c75ba5325b92ad1176deaf61.600x338.jpg?t=1587225199",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1022830/ss_66d5c4dc47c61d89c75ba5325b92ad1176deaf61.1920x1080.jpg?t=1587225199"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1022830/ss_baa9a0a027d13d4a70a79952447aa94f69bbcb45.600x338.jpg?t=1552658882",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1022830/ss_baa9a0a027d13d4a70a79952447aa94f69bbcb45.1920x1080.jpg?t=1552658882"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1022830/ss_baa9a0a027d13d4a70a79952447aa94f69bbcb45.600x338.jpg?t=1587225199",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1022830/ss_baa9a0a027d13d4a70a79952447aa94f69bbcb45.1920x1080.jpg?t=1587225199"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1022830/ss_02897f75bf15636fe96859ddde1c8556794205d9.600x338.jpg?t=1552658882",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1022830/ss_02897f75bf15636fe96859ddde1c8556794205d9.1920x1080.jpg?t=1552658882"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1022830/ss_02897f75bf15636fe96859ddde1c8556794205d9.600x338.jpg?t=1587225199",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1022830/ss_02897f75bf15636fe96859ddde1c8556794205d9.1920x1080.jpg?t=1587225199"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1022830/ss_2365d255abaf1119fe128d333c6112d8a0016511.600x338.jpg?t=1552658882",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1022830/ss_2365d255abaf1119fe128d333c6112d8a0016511.1920x1080.jpg?t=1552658882"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1022830/ss_2365d255abaf1119fe128d333c6112d8a0016511.600x338.jpg?t=1587225199",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1022830/ss_2365d255abaf1119fe128d333c6112d8a0016511.1920x1080.jpg?t=1587225199"
                 },
                 {
                     "id": 5,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1022830/ss_444af9c8a4bc947ed4f99fd0a1fd5f8184df720b.600x338.jpg?t=1552658882",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1022830/ss_444af9c8a4bc947ed4f99fd0a1fd5f8184df720b.1920x1080.jpg?t=1552658882"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1022830/ss_444af9c8a4bc947ed4f99fd0a1fd5f8184df720b.600x338.jpg?t=1587225199",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1022830/ss_444af9c8a4bc947ed4f99fd0a1fd5f8184df720b.1920x1080.jpg?t=1587225199"
                 },
                 {
                     "id": 6,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1022830/ss_10552ce6b2899c1472095d58936977f87c17f9a4.600x338.jpg?t=1552658882",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1022830/ss_10552ce6b2899c1472095d58936977f87c17f9a4.1920x1080.jpg?t=1552658882"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1022830/ss_10552ce6b2899c1472095d58936977f87c17f9a4.600x338.jpg?t=1587225199",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1022830/ss_10552ce6b2899c1472095d58936977f87c17f9a4.1920x1080.jpg?t=1587225199"
                 },
                 {
                     "id": 7,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1022830/ss_6ccfdfaf1936f47e0096ad3ce265d1c2f61d682f.600x338.jpg?t=1552658882",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1022830/ss_6ccfdfaf1936f47e0096ad3ce265d1c2f61d682f.1920x1080.jpg?t=1552658882"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1022830/ss_6ccfdfaf1936f47e0096ad3ce265d1c2f61d682f.600x338.jpg?t=1587225199",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1022830/ss_6ccfdfaf1936f47e0096ad3ce265d1c2f61d682f.1920x1080.jpg?t=1587225199"
                 }
             ],
             "movies": [
@@ -135,18 +180,22 @@
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/256741782/movie480.webm?t=1548869479",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/256741782/movie_max.webm?t=1548869479"
                     },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256741782/movie480.mp4?t=1548869479",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256741782/movie_max.mp4?t=1548869479"
+                    },
                     "highlight": true
                 }
             ],
             "release_date": {
-                "coming_soon": true,
-                "date": "2 May, 2019"
+                "coming_soon": false,
+                "date": "20 Jun, 2019"
             },
             "support_info": {
                 "url": "https://www.eugensystems.com/contact-our-support/",
                 "email": ""
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1022830/page_bg_generated_v6b.jpg?t=1552658882",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1022830/page_bg_generated_v6b.jpg?t=1587225199",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
