@@ -7,11 +7,11 @@
             "steam_appid": 1053250,
             "required_age": 0,
             "is_free": false,
-            "detailed_description": "TOK HARDCORE is a logical puzzle in which you need to connect all points with lines.<br />\r\nThe difficulty of the game lies in the fact that you have only 3 seconds to rotate the figure. Turning the figures you get an additional 3 seconds, but this should be done carefully: the number of turns in the level is limited!<br />\r\n<br />\r\nTOK HARDCORE is perfect for those who are interested in logic puzzles and would like to slightly stretch your brain!<br />\r\n<br />\r\nAlso in the game you will find:<br />\r\n<br />\r\n- beautiful music<br />\r\n- Stylish design",
-            "about_the_game": "TOK HARDCORE is a logical puzzle in which you need to connect all points with lines.<br />\r\nThe difficulty of the game lies in the fact that you have only 3 seconds to rotate the figure. Turning the figures you get an additional 3 seconds, but this should be done carefully: the number of turns in the level is limited!<br />\r\n<br />\r\nTOK HARDCORE is perfect for those who are interested in logic puzzles and would like to slightly stretch your brain!<br />\r\n<br />\r\nAlso in the game you will find:<br />\r\n<br />\r\n- beautiful music<br />\r\n- Stylish design",
+            "detailed_description": "TOK HARDCORE is a logical puzzle in which you need to connect all points with lines.<br />\r\nThe difficulty of the game lies in the fact that you have only 3 seconds to rotate the figure. Turning the figures you get an additional 3 seconds, but this should be done carefully: the number of turns in the level is limited!<br />\r\n<br />\r\nTOK HARDCORE is perfect for those who are interested in logic puzzles and would like to slightly stretch your brain!<br />\r\n<br />\r\nAlso in the game you will find:<br />\r\n<br />\r\n- Beautiful music<br />\r\n- Stylish design<br />\r\n<br />\r\nPowered by Clickteam Fusion 2.5",
+            "about_the_game": "TOK HARDCORE is a logical puzzle in which you need to connect all points with lines.<br />\r\nThe difficulty of the game lies in the fact that you have only 3 seconds to rotate the figure. Turning the figures you get an additional 3 seconds, but this should be done carefully: the number of turns in the level is limited!<br />\r\n<br />\r\nTOK HARDCORE is perfect for those who are interested in logic puzzles and would like to slightly stretch your brain!<br />\r\n<br />\r\nAlso in the game you will find:<br />\r\n<br />\r\n- Beautiful music<br />\r\n- Stylish design<br />\r\n<br />\r\nPowered by Clickteam Fusion 2.5",
             "short_description": "TOK HARDCORE is a logical puzzle in which you need to connect all points with lines.",
-            "supported_languages": "English",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1053250/header.jpg?t=1553115981",
+            "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Arabic<strong>*</strong>, Bulgarian<strong>*</strong>, Portuguese - Brazil<strong>*</strong>, Hungarian<strong>*</strong>, Vietnamese<strong>*</strong>, Greek<strong>*</strong>, Danish<strong>*</strong>, Spanish - Latin America<strong>*</strong>, Traditional Chinese<strong>*</strong>, Simplified Chinese<strong>*</strong>, Korean<strong>*</strong>, Dutch<strong>*</strong>, Norwegian<strong>*</strong>, Polish<strong>*</strong>, Portuguese<strong>*</strong>, Romanian<strong>*</strong>, Russian<strong>*</strong>, Thai<strong>*</strong>, Turkish<strong>*</strong>, Ukrainian<strong>*</strong>, Finnish<strong>*</strong>, Czech<strong>*</strong>, Swedish<strong>*</strong>, Japanese<strong>*</strong><br><strong>*</strong>languages with full audio support",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1053250/header.jpg?t=1574545567",
             "website": null,
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP, 7, Vista, 8, 8.1, 10<br></li><li><strong>Processor:</strong> Intel Celeron 1800 MHz<br></li><li><strong>Memory:</strong> 256 MB RAM<br></li><li><strong>Graphics:</strong> Intel HD Graphics<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 20 MB available space</li></ul>",
@@ -25,7 +25,40 @@
             "publishers": [
                 "Crew Lab"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 79,
+                "final": 79,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "0,79€"
+            },
+            "packages": [
+                351491
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy TOK HARDCORE",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 351491,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "TOK HARDCORE - 0,79€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 79
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": false,
@@ -35,6 +68,10 @@
                 {
                     "id": 2,
                     "description": "Single-player"
+                },
+                {
+                    "id": 22,
+                    "description": "Steam Achievements"
                 }
             ],
             "genres": [
@@ -50,28 +87,28 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1053250/ss_c65308e64618e702696cd7a981893346a3a47b95.600x338.jpg?t=1553115981",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1053250/ss_c65308e64618e702696cd7a981893346a3a47b95.1920x1080.jpg?t=1553115981"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1053250/ss_c65308e64618e702696cd7a981893346a3a47b95.600x338.jpg?t=1574545567",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1053250/ss_c65308e64618e702696cd7a981893346a3a47b95.1920x1080.jpg?t=1574545567"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1053250/ss_7f69818ea1ff47377095eeaedf438d556acc6da3.600x338.jpg?t=1553115981",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1053250/ss_7f69818ea1ff47377095eeaedf438d556acc6da3.1920x1080.jpg?t=1553115981"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1053250/ss_7f69818ea1ff47377095eeaedf438d556acc6da3.600x338.jpg?t=1574545567",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1053250/ss_7f69818ea1ff47377095eeaedf438d556acc6da3.1920x1080.jpg?t=1574545567"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1053250/ss_92e34570338202c99507f73cbfcac9298fad9835.600x338.jpg?t=1553115981",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1053250/ss_92e34570338202c99507f73cbfcac9298fad9835.1920x1080.jpg?t=1553115981"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1053250/ss_92e34570338202c99507f73cbfcac9298fad9835.600x338.jpg?t=1574545567",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1053250/ss_92e34570338202c99507f73cbfcac9298fad9835.1920x1080.jpg?t=1574545567"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1053250/ss_559519fede1b64a2c536622ee9e6961ddd52ef3b.600x338.jpg?t=1553115981",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1053250/ss_559519fede1b64a2c536622ee9e6961ddd52ef3b.1920x1080.jpg?t=1553115981"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1053250/ss_559519fede1b64a2c536622ee9e6961ddd52ef3b.600x338.jpg?t=1574545567",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1053250/ss_559519fede1b64a2c536622ee9e6961ddd52ef3b.1920x1080.jpg?t=1574545567"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1053250/ss_030c6370636fe347a03ad72110d19aa876a32606.600x338.jpg?t=1553115981",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1053250/ss_030c6370636fe347a03ad72110d19aa876a32606.1920x1080.jpg?t=1553115981"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1053250/ss_030c6370636fe347a03ad72110d19aa876a32606.600x338.jpg?t=1574545567",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1053250/ss_030c6370636fe347a03ad72110d19aa876a32606.1920x1080.jpg?t=1574545567"
                 }
             ],
             "movies": [
@@ -83,18 +120,67 @@
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/256745705/movie480.webm?t=1553115977",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/256745705/movie_max.webm?t=1553115977"
                     },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256745705/movie480.mp4?t=1553115977",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256745705/movie_max.mp4?t=1553115977"
+                    },
                     "highlight": true
                 }
             ],
+            "achievements": {
+                "total": 78,
+                "highlighted": [
+                    {
+                        "name": "Blue A",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1053250/9d5aa3adada0d63dc1ca9721e6a44d036bfd0829.jpg"
+                    },
+                    {
+                        "name": "Pink A",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1053250/2488959f7f0dc9bb4296b7860dd60f977eddb2c3.jpg"
+                    },
+                    {
+                        "name": "Blue B",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1053250/0ef040108a289be119a95afde337a986552c1adc.jpg"
+                    },
+                    {
+                        "name": "Pink B",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1053250/a09aecb6edbd2bd5a7744b29f2c8894d00b9b1f7.jpg"
+                    },
+                    {
+                        "name": "Blue C",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1053250/e6c6a1b9df88b70f1ed2b521b73a35fffd143f6a.jpg"
+                    },
+                    {
+                        "name": "Pink C",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1053250/e698b29f34ce2bf0bc03872598a8f1f196498363.jpg"
+                    },
+                    {
+                        "name": "Blue D",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1053250/e47978e6b6d5c69c6423d037c754d4517760060e.jpg"
+                    },
+                    {
+                        "name": "Pink D",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1053250/bffc6c6b47250401e9dcc6ce05849096735689aa.jpg"
+                    },
+                    {
+                        "name": "Blue E",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1053250/49c5205ff98df6c4fb7fc433f0a713496cf9e9ff.jpg"
+                    },
+                    {
+                        "name": "Pink E",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1053250/52d175f3bb903170fcc209480c3b135274496c57.jpg"
+                    }
+                ]
+            },
             "release_date": {
-                "coming_soon": true,
-                "date": "4 Apr, 2019"
+                "coming_soon": false,
+                "date": "11 Apr, 2019"
             },
             "support_info": {
                 "url": "http://store.steampowered.com/app/1053250",
                 "email": "crew.lab.sup@gmail.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1053250/page_bg_generated_v6b.jpg?t=1553115981",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1053250/page_bg_generated_v6b.jpg?t=1574545567",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
