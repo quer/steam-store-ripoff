@@ -7,15 +7,15 @@
             "steam_appid": 1041390,
             "required_age": 0,
             "is_free": false,
-            "detailed_description": "The game itself is based on the game Fire Emblem, game play wise it is extremely similar to Fire Emblem. Move your units along the maps and defeat the enemies, recruit new units and proceed to the next map until you beat all maps.",
-            "about_the_game": "The game itself is based on the game Fire Emblem, game play wise it is extremely similar to Fire Emblem. Move your units along the maps and defeat the enemies, recruit new units and proceed to the next map until you beat all maps.",
-            "short_description": "A SRPG game made from SRPG Studio.",
+            "detailed_description": "The game itself is based on the game Fire Emblem, game play wise it is extremely similar to Fire Emblem. Move your units along the maps and defeat the enemies, recruit new units and proceed to the next map until you beat the evil kings and marry the princess.",
+            "about_the_game": "The game itself is based on the game Fire Emblem, game play wise it is extremely similar to Fire Emblem. Move your units along the maps and defeat the enemies, recruit new units and proceed to the next map until you beat the evil kings and marry the princess.",
+            "short_description": "Raise a band of heroes and defeat the evil empire!",
             "supported_languages": "English",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1041390/header.jpg?t=1552469582",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1041390/header.jpg?t=1591846549",
             "website": null,
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 7<br></li><li><strong>Processor:</strong> i3<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>",
-                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 10<br></li><li><strong>Processor:</strong> i7<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 7<br></li><li><strong>Processor:</strong> i3<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 10<br></li><li><strong>Processor:</strong> i5<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Storage:</strong> 300 MB available space</li></ul>"
             },
             "mac_requirements": [],
             "linux_requirements": [],
@@ -25,7 +25,46 @@
             "publishers": [
                 "Yunkai"
             ],
-            "package_groups": [],
+            "demos": [
+                {
+                    "appid": 1041410,
+                    "description": ""
+                }
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 79,
+                "final": 39,
+                "discount_percent": 51,
+                "initial_formatted": "0,79€",
+                "final_formatted": "0,39€"
+            },
+            "packages": [
+                346879
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Legend of Cina",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 346879,
+                            "percent_savings_text": "-51% ",
+                            "percent_savings": 0,
+                            "option_text": "Legend of Cina - <span class=\"discount_original_price\">0,79€</span> 0,39€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 39
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": false,
@@ -54,51 +93,65 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1041390/ss_ed145769b2c66f89409e6b64b3afa7ecd7072b48.600x338.jpg?t=1552469582",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1041390/ss_ed145769b2c66f89409e6b64b3afa7ecd7072b48.1920x1080.jpg?t=1552469582"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1041390/ss_e8faa4dec7c4a6183afea4fb35139276ad68ab03.600x338.jpg?t=1591846549",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1041390/ss_e8faa4dec7c4a6183afea4fb35139276ad68ab03.1920x1080.jpg?t=1591846549"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1041390/ss_d41420e1e51c8c7d5493eccd32f478fdcbe115fc.600x338.jpg?t=1552469582",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1041390/ss_d41420e1e51c8c7d5493eccd32f478fdcbe115fc.1920x1080.jpg?t=1552469582"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1041390/ss_01381438d77d2599e28ddc0a9ca0eb5741ce06ed.600x338.jpg?t=1591846549",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1041390/ss_01381438d77d2599e28ddc0a9ca0eb5741ce06ed.1920x1080.jpg?t=1591846549"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1041390/ss_3463c1d2bed7358ffd2b1393a9c74d9dbebfca03.600x338.jpg?t=1552469582",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1041390/ss_3463c1d2bed7358ffd2b1393a9c74d9dbebfca03.1920x1080.jpg?t=1552469582"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1041390/ss_abb8341951e4b182ea9814cdd8f1dd4391449374.600x338.jpg?t=1591846549",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1041390/ss_abb8341951e4b182ea9814cdd8f1dd4391449374.1920x1080.jpg?t=1591846549"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1041390/ss_3746ddbf0593e00b6df9e8f6cf46fdf7c1a0f800.600x338.jpg?t=1552469582",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1041390/ss_3746ddbf0593e00b6df9e8f6cf46fdf7c1a0f800.1920x1080.jpg?t=1552469582"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1041390/ss_f8d693c1d59970bfbac2fc1d5715ed732e0e7c54.600x338.jpg?t=1591846549",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1041390/ss_f8d693c1d59970bfbac2fc1d5715ed732e0e7c54.1920x1080.jpg?t=1591846549"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1041390/ss_bed49fcc8a934175726e20f03fda18f74dfba3ff.600x338.jpg?t=1552469582",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1041390/ss_bed49fcc8a934175726e20f03fda18f74dfba3ff.1920x1080.jpg?t=1552469582"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1041390/ss_1d16961f3681f7544fbcabe9a086e36f7db12691.600x338.jpg?t=1591846549",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1041390/ss_1d16961f3681f7544fbcabe9a086e36f7db12691.1920x1080.jpg?t=1591846549"
+                },
+                {
+                    "id": 5,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1041390/ss_bc4ad20e6624be80e24cda4ae8355da32e98eb89.600x338.jpg?t=1591846549",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1041390/ss_bc4ad20e6624be80e24cda4ae8355da32e98eb89.1920x1080.jpg?t=1591846549"
+                },
+                {
+                    "id": 6,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1041390/ss_f1201ba57022d334c2780c8b0da669951dab8a10.600x338.jpg?t=1591846549",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1041390/ss_f1201ba57022d334c2780c8b0da669951dab8a10.1920x1080.jpg?t=1591846549"
                 }
             ],
             "movies": [
                 {
-                    "id": 256744386,
-                    "name": "First Footage",
-                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256744386/movie.293x165.jpg?t=1552382233",
+                    "id": 256751014,
+                    "name": "The 9 Deadly Sins",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256751014/movie.293x165.jpg?t=1578733418",
                     "webm": {
-                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256744386/movie480.webm?t=1552382233",
-                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256744386/movie_max.webm?t=1552382233"
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256751014/movie480.webm?t=1578733418",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256751014/movie_max.webm?t=1578733418"
+                    },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256751014/movie480.mp4?t=1578733418",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256751014/movie_max.mp4?t=1578733418"
                     },
                     "highlight": true
                 }
             ],
             "release_date": {
-                "coming_soon": true,
-                "date": "26 Mar, 2019"
+                "coming_soon": false,
+                "date": "29 Mar, 2019"
             },
             "support_info": {
                 "url": "",
                 "email": "gaojiweibing@hotmail.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1041390/page_bg_generated_v6b.jpg?t=1552469582",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1041390/page_bg_generated_v6b.jpg?t=1591846549",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
