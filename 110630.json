@@ -48,7 +48,7 @@
                     "subs": [
                         {
                             "packageid": 13856,
-                            "percent_savings_text": "",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
                             "option_text": "Mutant Storm: Reloaded - 4,99€",
                             "option_description": "",
@@ -70,6 +70,10 @@
                     "description": "Single-player"
                 },
                 {
+                    "id": 1,
+                    "description": "Multi-player"
+                },
+                {
                     "id": 9,
                     "description": "Co-op"
                 },
@@ -80,6 +84,14 @@
                 {
                     "id": 28,
                     "description": "Full controller support"
+                },
+                {
+                    "id": 43,
+                    "description": "Remote Play on TV"
+                },
+                {
+                    "id": 44,
+                    "description": "Remote Play Together"
                 }
             ],
             "genres": [
