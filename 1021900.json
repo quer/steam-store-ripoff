@@ -2,23 +2,23 @@
     "1021900": {
         "success": true,
         "data": {
-            "type": "dlc",
+            "type": "music",
             "name": "Re-Legion - Digital_Soundtrack_",
             "steam_appid": 1021900,
             "required_age": 0,
             "is_free": false,
-            "detailed_description": "<h2 class=\"bb_tag\">Re-Legion original game soundtrack</h2><br><br>Available formats: 192 kbps MP3, 1411 kbps WAV<br><br><strong>Track List:</strong><br><br><ul class=\"bb_ul\"><li>1.\tFollow the Prophet<br></li><li>2.\tTormented City<br></li><li>3.\tCorporate Oppression<br></li><li>4.\tFaith Depravation<br></li><li>5.\tCult of Blood<br></li><li>6.\tFaith Defender<br></li><li>7.\tSinners March<br></li><li>8.\tHope Is Not Enough<br></li><li>9.\tCall of Souls<br></li><li>10. God is with Us<br></li><li>11. Injected Thoughts<br></li><li>12. NeuroMisticism<br></li><li>13. Final Commandments<br></li><li>14. Peace and Glory<br></li><li>15. The Escape</li></ul>",
-            "about_the_game": "<h2 class=\"bb_tag\">Re-Legion original game soundtrack</h2><br><br>Available formats: 192 kbps MP3, 1411 kbps WAV<br><br><strong>Track List:</strong><br><br><ul class=\"bb_ul\"><li>1.\tFollow the Prophet<br></li><li>2.\tTormented City<br></li><li>3.\tCorporate Oppression<br></li><li>4.\tFaith Depravation<br></li><li>5.\tCult of Blood<br></li><li>6.\tFaith Defender<br></li><li>7.\tSinners March<br></li><li>8.\tHope Is Not Enough<br></li><li>9.\tCall of Souls<br></li><li>10. God is with Us<br></li><li>11. Injected Thoughts<br></li><li>12. NeuroMisticism<br></li><li>13. Final Commandments<br></li><li>14. Peace and Glory<br></li><li>15. The Escape</li></ul>",
+            "detailed_description": "<h2 class=\"bb_tag\">Re-Legion original game soundtrack</h2><br>Available formats: 192 kbps MP3, 1411 kbps WAV",
+            "about_the_game": "<h2 class=\"bb_tag\">Re-Legion original game soundtrack</h2><br>Available formats: 192 kbps MP3, 1411 kbps WAV",
             "short_description": "Re-Legion original game soundtrack",
             "fullgame": {
                 "appid": "782140",
                 "name": "Re-Legion"
             },
             "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1021900/header.jpg?t=1548957723",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1021900/header.jpg?t=1602575860",
             "website": "http://re-legion.icecodegames.com/",
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Any Windows<br></li><li><strong>Processor:</strong> Intel Atom<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> Intel Graphics<br></li><li><strong>Sound Card:</strong> Any sound card.<br></li><li><strong>Additional Notes:</strong> WAV and MP3 music only</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Storage:</strong> 95 MB available space<br></li><li><strong>Storage (high-quality audio):</strong> Additional 444 MB available space</li></ul>"
             },
             "mac_requirements": [],
             "linux_requirements": [],
@@ -52,7 +52,7 @@
                     "subs": [
                         {
                             "packageid": 338975,
-                            "percent_savings_text": "",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
                             "option_text": "Re-Legion - Digital_Soundtrack_ - 3,29€",
                             "option_description": "",
@@ -65,17 +65,13 @@
             ],
             "platforms": {
                 "windows": true,
-                "mac": false,
-                "linux": false
+                "mac": true,
+                "linux": true
             },
             "categories": [
                 {
-                    "id": 2,
-                    "description": "Single-player"
-                },
-                {
-                    "id": 21,
-                    "description": "Downloadable Content"
+                    "id": 50,
+                    "description": "Additional High-Quality Audio"
                 }
             ],
             "genres": [
@@ -91,13 +87,10 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1021900/ss_4406becfb7459008a73b45826292f86b9a4b2125.600x338.jpg?t=1548957723",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1021900/ss_4406becfb7459008a73b45826292f86b9a4b2125.1920x1080.jpg?t=1548957723"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1021900/ss_4406becfb7459008a73b45826292f86b9a4b2125.600x338.jpg?t=1602575860",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1021900/ss_4406becfb7459008a73b45826292f86b9a4b2125.1920x1080.jpg?t=1602575860"
                 }
             ],
-            "achievements": {
-                "total": 0
-            },
             "release_date": {
                 "coming_soon": false,
                 "date": "31 Jan, 2019"
@@ -106,7 +99,7 @@
                 "url": "http://re-legion.icecodegames.com/",
                 "email": "support@1cpublishing.eu"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1021900/page_bg_generated_v6b.jpg?t=1548957723",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1021900/page_bg_generated_v6b.jpg?t=1602575860",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
