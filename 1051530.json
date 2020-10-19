@@ -3,16 +3,16 @@
         "success": true,
         "data": {
             "type": "game",
-            "name": "Helpless Zombies",
+            "name": "HELPLESS ZOMBIES",
             "steam_appid": 1051530,
             "required_age": 0,
             "is_free": false,
             "detailed_description": "Fascinating puzzle game that rethinks the gameplay, but retains the spirit of the legendary classic games such as Binary Land, Clu Clu Land and Adventures of Lolo.<br>Poor and hungry zombies are stuck in the basement, which is teeming with many traps. Bring all these creatures out of the trap, but note that they like to move together in one direction. Collect goodies on your way, avoid the placed traps, solve small problems on the way to one of the doors leading to freedom!<br>Inspired by the legendary games in the style of Binary Land, we rethought the genre and created an exciting puzzle on a popular theme. Primarily, the game will give for the player a simple tasks, then will gently increase the complexity and finally will make the brain to work full for solving the most ambitious puzzles. If in the distant past you loved these games, it's time to feel nostalgia. If you have no idea what this is about, what are you waiting for? Without delay try to glimpse history in a new, more modern form!<h2 class=\"bb_tag\">Features: </h2>- 30 levels with gradually increasing difficulty.<br><br>- Large number of puzzles. The further, the more interesting.<br>- Old school gameplay with one of the most underrated game mechanics.<br>- Play as a zombie and collect brains! Isn't that what you wanted?",
             "about_the_game": "Fascinating puzzle game that rethinks the gameplay, but retains the spirit of the legendary classic games such as Binary Land, Clu Clu Land and Adventures of Lolo.<br>Poor and hungry zombies are stuck in the basement, which is teeming with many traps. Bring all these creatures out of the trap, but note that they like to move together in one direction. Collect goodies on your way, avoid the placed traps, solve small problems on the way to one of the doors leading to freedom!<br>Inspired by the legendary games in the style of Binary Land, we rethought the genre and created an exciting puzzle on a popular theme. Primarily, the game will give for the player a simple tasks, then will gently increase the complexity and finally will make the brain to work full for solving the most ambitious puzzles. If in the distant past you loved these games, it's time to feel nostalgia. If you have no idea what this is about, what are you waiting for? Without delay try to glimpse history in a new, more modern form!<h2 class=\"bb_tag\">Features: </h2>- 30 levels with gradually increasing difficulty.<br><br>- Large number of puzzles. The further, the more interesting.<br>- Old school gameplay with one of the most underrated game mechanics.<br>- Play as a zombie and collect brains! Isn't that what you wanted?",
             "short_description": "Fascinating puzzle game that rethinks the gameplay, but retains the spirit of the legendary classic games such as Binary Land, Clu Clu Land and Adventures of Lolo.",
-            "supported_languages": "English, French, Italian, German, Spanish - Spain, Simplified Chinese, Korean, Russian, Turkish",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1051530/header.jpg?t=1553107794",
-            "website": "http://en.kishmish-games.com/",
+            "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Spanish - Latin America<strong>*</strong>, Simplified Chinese<strong>*</strong>, Korean<strong>*</strong>, Russian<strong>*</strong>, Turkish<strong>*</strong><br><strong>*</strong>languages with full audio support",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1051530/header.jpg?t=1580452611",
+            "website": "https://kishmish-games.com",
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows  7/8/10<br></li><li><strong>Processor:</strong> 2 GHz Intel Pentium 4 or AMD Athlon or equivalent<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> OpenGL 3.0 compliant with 256MB of video RAM<br></li><li><strong>Storage:</strong> 50 MB available space</li></ul>",
                 "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows  7/8/10<br></li><li><strong>Processor:</strong> 2 GHz Intel Pentium 4 or AMD Athlon or equivalent<br></li><li><strong>Memory:</strong> 1024 MB RAM<br></li><li><strong>Graphics:</strong> OpenGL 3.0 compliant with 512MB of video RAM<br></li><li><strong>Storage:</strong> 50 MB available space</li></ul>"
@@ -20,13 +20,46 @@
             "mac_requirements": [],
             "linux_requirements": [],
             "developers": [
-                "Sharkgame",
+                "SharkGame",
                 "Mihan0id"
             ],
             "publishers": [
                 "KishMish Games"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 159,
+                "final": 159,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "1,59€"
+            },
+            "packages": [
+                350806
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy HELPLESS ZOMBIES",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 350806,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "Helpless Zombies - 1,59€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 159
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": false,
@@ -55,51 +88,100 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1051530/ss_07a23e3d281459da5552c2e041db7e34a1f18ceb.600x338.jpg?t=1553107794",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1051530/ss_07a23e3d281459da5552c2e041db7e34a1f18ceb.1920x1080.jpg?t=1553107794"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1051530/ss_07a23e3d281459da5552c2e041db7e34a1f18ceb.600x338.jpg?t=1580452611",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1051530/ss_07a23e3d281459da5552c2e041db7e34a1f18ceb.1920x1080.jpg?t=1580452611"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1051530/ss_655e87ec64ab38a4da521c080024663c8605f510.600x338.jpg?t=1553107794",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1051530/ss_655e87ec64ab38a4da521c080024663c8605f510.1920x1080.jpg?t=1553107794"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1051530/ss_655e87ec64ab38a4da521c080024663c8605f510.600x338.jpg?t=1580452611",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1051530/ss_655e87ec64ab38a4da521c080024663c8605f510.1920x1080.jpg?t=1580452611"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1051530/ss_e35511214830088fafea3420839d5c0df3206642.600x338.jpg?t=1553107794",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1051530/ss_e35511214830088fafea3420839d5c0df3206642.1920x1080.jpg?t=1553107794"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1051530/ss_e35511214830088fafea3420839d5c0df3206642.600x338.jpg?t=1580452611",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1051530/ss_e35511214830088fafea3420839d5c0df3206642.1920x1080.jpg?t=1580452611"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1051530/ss_0972657855a7674e3a984a1b6e99ec7f2920073f.600x338.jpg?t=1553107794",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1051530/ss_0972657855a7674e3a984a1b6e99ec7f2920073f.1920x1080.jpg?t=1553107794"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1051530/ss_0972657855a7674e3a984a1b6e99ec7f2920073f.600x338.jpg?t=1580452611",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1051530/ss_0972657855a7674e3a984a1b6e99ec7f2920073f.1920x1080.jpg?t=1580452611"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1051530/ss_1b50aa2e6f54274fb54cb13cbc93c0266706db20.600x338.jpg?t=1553107794",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1051530/ss_1b50aa2e6f54274fb54cb13cbc93c0266706db20.1920x1080.jpg?t=1553107794"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1051530/ss_1b50aa2e6f54274fb54cb13cbc93c0266706db20.600x338.jpg?t=1580452611",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1051530/ss_1b50aa2e6f54274fb54cb13cbc93c0266706db20.1920x1080.jpg?t=1580452611"
                 }
             ],
             "movies": [
                 {
-                    "id": 256745445,
-                    "name": "Helpless Zombies - Trailer",
-                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256745445/movie.293x165.jpg?t=1553098716",
+                    "id": 256748921,
+                    "name": "Helpless Zombies - Trailer KishMish",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256748921/movie.293x165.jpg?t=1556154170",
                     "webm": {
-                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256745445/movie480.webm?t=1553098716",
-                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256745445/movie_max.webm?t=1553098716"
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256748921/movie480.webm?t=1556154170",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256748921/movie_max.webm?t=1556154170"
+                    },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256748921/movie480.mp4?t=1556154170",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256748921/movie_max.mp4?t=1556154170"
                     },
                     "highlight": true
                 }
             ],
+            "achievements": {
+                "total": 10,
+                "highlighted": [
+                    {
+                        "name": "Principiante ",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1051530/6a1c34417b1afe033ddd95bff5737a82f4377bc1.jpg"
+                    },
+                    {
+                        "name": "Cacciatore ",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1051530/27bc3ce1455448fdfb379a6315664693901398e6.jpg"
+                    },
+                    {
+                        "name": "Esperto ",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1051530/10b02ee7926b8f5e8dd190602db836535385d810.jpg"
+                    },
+                    {
+                        "name": "Battesimo di fuoco",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1051530/a1294571fb094c0cfa43e635687186a0b4c98d43.jpg"
+                    },
+                    {
+                        "name": "Kamikaze ",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1051530/949e1c2748e157b70ae8daf998dd33ac3f823c96.jpg"
+                    },
+                    {
+                        "name": "Punto ",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1051530/2cce72c0f42c093010bbda58538ef42ee50d865d.jpg"
+                    },
+                    {
+                        "name": "Bucato ",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1051530/126d7e8f7fd984236581152a82cd253de43aa4c4.jpg"
+                    },
+                    {
+                        "name": "Genio ",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1051530/389eea8bb3f7b0b54a9611761ebe755197083bbb.jpg"
+                    },
+                    {
+                        "name": "Pensatore ",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1051530/c859beb065d5c2261fda10dc57ce2e5c249de63c.jpg"
+                    },
+                    {
+                        "name": "Stratega ",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1051530/56d5037335de59c008b8628d2ac4389b9edb0f91.jpg"
+                    }
+                ]
+            },
             "release_date": {
-                "coming_soon": true,
-                "date": "29 Mar, 2019"
+                "coming_soon": false,
+                "date": "19 Apr, 2019"
             },
             "support_info": {
-                "url": "http://en.kishmish-games.com/",
-                "email": "mihan0id.projects@gmail.com"
+                "url": "https://kishmish-games.com",
+                "email": "odnako-games@yandex.ru"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1051530/page_bg_generated_v6b.jpg?t=1553107794",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1051530/page_bg_generated_v6b.jpg?t=1580452611",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
