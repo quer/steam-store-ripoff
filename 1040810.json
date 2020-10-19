@@ -29,10 +29,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 329,
-                "final": 197,
-                "discount_percent": 40,
-                "initial_formatted": "3,29€",
-                "final_formatted": "1,97€"
+                "final": 329,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "3,29€"
             },
             "packages": [
                 346666
@@ -49,13 +49,13 @@
                     "subs": [
                         {
                             "packageid": 346666,
-                            "percent_savings_text": "-40%",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "AttackNoids - <span class=\"discount_original_price\">3,29€</span> 1,97€",
+                            "option_text": "AttackNoids - 3,29€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 197
+                            "price_in_cents_with_discount": 329
                         }
                     ]
                 }
@@ -142,12 +142,13 @@
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/256744391/movie480.webm?t=1552309934",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/256744391/movie_max.webm?t=1552309934"
                     },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256744391/movie480.mp4?t=1552309934",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256744391/movie_max.mp4?t=1552309934"
+                    },
                     "highlight": true
                 }
             ],
-            "achievements": {
-                "total": 0
-            },
             "release_date": {
                 "coming_soon": false,
                 "date": "25 Mar, 2019"
