@@ -48,7 +48,7 @@
                     "subs": [
                         {
                             "packageid": 340899,
-                            "percent_savings_text": "",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
                             "option_text": "Brutal Games - 0,79€",
                             "option_description": "",
@@ -167,6 +167,10 @@
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/256753515/movie480.webm?t=1560634165",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/256753515/movie_max.webm?t=1560634165"
                     },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256753515/movie480.mp4?t=1560634165",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256753515/movie_max.mp4?t=1560634165"
+                    },
                     "highlight": true
                 },
                 {
@@ -177,12 +181,13 @@
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/256752653/movie480.webm?t=1559965543",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/256752653/movie_max.webm?t=1559965543"
                     },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256752653/movie480.mp4?t=1559965543",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256752653/movie_max.mp4?t=1559965543"
+                    },
                     "highlight": true
                 }
             ],
-            "achievements": {
-                "total": 0
-            },
             "release_date": {
                 "coming_soon": false,
                 "date": "6 Aug, 2019"
