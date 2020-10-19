@@ -49,7 +49,7 @@
                     "subs": [
                         {
                             "packageid": 8294,
-                            "percent_savings_text": "",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
                             "option_text": "iBomber Defense - 3,99€",
                             "option_description": "",
@@ -59,7 +59,7 @@
                         },
                         {
                             "packageid": 13680,
-                            "percent_savings_text": "",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
                             "option_text": "iBomber Bundle - 6,99€",
                             "option_description": "",
@@ -69,7 +69,7 @@
                         },
                         {
                             "packageid": 30036,
-                            "percent_savings_text": "",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
                             "option_text": "Cobra Complete Pack - 14,99€",
                             "option_description": "",
@@ -175,11 +175,15 @@
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/2036948/movie480.webm?t=1447368429",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/2036948/movie_max.webm?t=1447368429"
                     },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/2036948/movie480.mp4?t=1447368429",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/2036948/movie_max.mp4?t=1447368429"
+                    },
                     "highlight": true
                 }
             ],
             "recommendations": {
-                "total": 116
+                "total": 130
             },
             "achievements": {
                 "total": 22,
