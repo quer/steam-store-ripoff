@@ -49,7 +49,7 @@
                     "subs": [
                         {
                             "packageid": 341598,
-                            "percent_savings_text": "",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
                             "option_text": "Push Pull - 2,39€",
                             "option_description": "",
@@ -71,8 +71,16 @@
                     "description": "Single-player"
                 },
                 {
+                    "id": 1,
+                    "description": "Multi-player"
+                },
+                {
                     "id": 24,
                     "description": "Shared/Split Screen"
+                },
+                {
+                    "id": 44,
+                    "description": "Remote Play Together"
                 }
             ],
             "genres": [
@@ -117,11 +125,53 @@
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/256746070/movie480.webm?t=1553308520",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/256746070/movie_max.webm?t=1553308520"
                     },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256746070/movie480.mp4?t=1553308520",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256746070/movie_max.mp4?t=1553308520"
+                    },
                     "highlight": true
                 }
             ],
             "achievements": {
-                "total": 0
+                "total": 9,
+                "highlighted": [
+                    {
+                        "name": "Test Chamber 0 Complete",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1027720/31dca94a60233f171e237c0f39b9bc090cda8281.jpg"
+                    },
+                    {
+                        "name": "Test Chamber 1 Complete",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1027720/fd5de5d9ac159dbb8f851d09e5cc9fa79eded605.jpg"
+                    },
+                    {
+                        "name": "Test Chamber 2 Complete",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1027720/278cf322c597c76e96121aad805b0641972c2466.jpg"
+                    },
+                    {
+                        "name": "Test Chamber 3 Complete",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1027720/67f96ccf125dce43c97a4becccdbb647e88e9578.jpg"
+                    },
+                    {
+                        "name": "Test Chamber 4 Complete",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1027720/71b61f335718bf99457c87bb5492b2a465a1e2b9.jpg"
+                    },
+                    {
+                        "name": "Test Chamber 5 Complete",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1027720/17a00575e5dbb5b9b2ec6c71d27738ea970ec6f2.jpg"
+                    },
+                    {
+                        "name": "Highly Synced",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1027720/cc30fa244f3bd22104e695cef0989579dff63661.jpg"
+                    },
+                    {
+                        "name": "Complete Push Pull",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1027720/99796af3abad5a6a7f5383f5495f754b63fb39fd.jpg"
+                    },
+                    {
+                        "name": "Where's the cake?",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1027720/6c2d01d5d820f53e0ff8030b626cad7151bd9767.jpg"
+                    }
+                ]
             },
             "release_date": {
                 "coming_soon": false,
