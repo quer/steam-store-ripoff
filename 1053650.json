@@ -7,15 +7,18 @@
             "steam_appid": 1053650,
             "required_age": 0,
             "is_free": false,
-            "detailed_description": "<strong>Try to survive as long as you can in this endless survival driving game set in a zombie apocalypse world.</strong>",
-            "about_the_game": "<strong>Try to survive as long as you can in this endless survival driving game set in a zombie apocalypse world.</strong>",
+            "dlc": [
+                1059140
+            ],
+            "detailed_description": "<strong>Try to survive as long as you can in this endless survival driving game set in a zombie apocalypse world.</strong><br><br><strong>What's in it:</strong><br>High Score system<br>Endless replayability <br>One-click controls<br>Easy to start, hard to master<br>Awesome soundtrack<br>Endless amount of zombies",
+            "about_the_game": "<strong>Try to survive as long as you can in this endless survival driving game set in a zombie apocalypse world.</strong><br><br><strong>What's in it:</strong><br>High Score system<br>Endless replayability <br>One-click controls<br>Easy to start, hard to master<br>Awesome soundtrack<br>Endless amount of zombies",
             "short_description": "Do you have what it takes to drive through the middle of a zombie apocalypse? Push yourself to the limit and test your skills!",
             "supported_languages": "English",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1053650/header.jpg?t=1553720892",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1053650/header.jpg?t=1555003470",
             "website": null,
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 SP1+ 64bit<br></li><li><strong>Processor:</strong> Intel® Core™ 2 Duo / AMD® Athlon™ X2, min. 2.8 GHz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia® / AMD® with 1048 MB memory<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 250 MB available space<br></li><li><strong>Sound Card:</strong> DirectX compatible</li></ul>",
-                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 SP1+ 64bit<br></li><li><strong>Processor:</strong> Intel® Core™ 2 Quad / AMD® Phenom™ X4, min. 3,4 GHz<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia® / AMD® with 4096 MB memory<br></li><li><strong>DirectX:</strong> Version 12<br></li><li><strong>Storage:</strong> 250 MB available space<br></li><li><strong>Sound Card:</strong> DirectX compatible</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 SP1+ 64bit<br></li><li><strong>Processor:</strong> Pentium 4<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia® / AMD® with 512 MB memory<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 250 MB available space<br></li><li><strong>Sound Card:</strong> DirectX compatible</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 SP1+ 64bit<br></li><li><strong>Processor:</strong> Intel® Core™ 2 Quad / AMD® Phenom<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia® / AMD® with 2GB memory<br></li><li><strong>DirectX:</strong> Version 12<br></li><li><strong>Storage:</strong> 250 MB available space<br></li><li><strong>Sound Card:</strong> DirectX compatible</li></ul>"
             },
             "mac_requirements": [],
             "linux_requirements": [],
@@ -25,7 +28,40 @@
             "publishers": [
                 "ZemunBRE"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 79,
+                "final": 79,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "0,79€"
+            },
+            "packages": [
+                351628
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Drive for Your Life",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 351628,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "Drive for Your Life - 0,79€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 79
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": false,
@@ -54,51 +90,105 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1053650/ss_acc44fa035f13fbebaa44a0826fa0fa6d1c99c74.600x338.jpg?t=1553720892",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1053650/ss_acc44fa035f13fbebaa44a0826fa0fa6d1c99c74.1920x1080.jpg?t=1553720892"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1053650/ss_6f0c01f943929ab8e910e50af8cd5649b3b8563a.600x338.jpg?t=1555003470",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1053650/ss_6f0c01f943929ab8e910e50af8cd5649b3b8563a.1920x1080.jpg?t=1555003470"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1053650/ss_2f4be43869434bb1e117ef82d0b72489f64386c7.600x338.jpg?t=1553720892",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1053650/ss_2f4be43869434bb1e117ef82d0b72489f64386c7.1920x1080.jpg?t=1553720892"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1053650/ss_83ce18e8af067efa030043e11ae22796fc9fd6cd.600x338.jpg?t=1555003470",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1053650/ss_83ce18e8af067efa030043e11ae22796fc9fd6cd.1920x1080.jpg?t=1555003470"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1053650/ss_2f56f684b55b12d102a87ea2e99b80bf0d3c5960.600x338.jpg?t=1553720892",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1053650/ss_2f56f684b55b12d102a87ea2e99b80bf0d3c5960.1920x1080.jpg?t=1553720892"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1053650/ss_0b31e84d26cf1754293fdef6abba54c5d017f89c.600x338.jpg?t=1555003470",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1053650/ss_0b31e84d26cf1754293fdef6abba54c5d017f89c.1920x1080.jpg?t=1555003470"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1053650/ss_af31914b84abb30ccb19ff6d0203d8ee2dc8273e.600x338.jpg?t=1553720892",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1053650/ss_af31914b84abb30ccb19ff6d0203d8ee2dc8273e.1920x1080.jpg?t=1553720892"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1053650/ss_5351b211023550306c83295330805cc0d2e10c96.600x338.jpg?t=1555003470",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1053650/ss_5351b211023550306c83295330805cc0d2e10c96.1920x1080.jpg?t=1555003470"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1053650/ss_676398081b0d6b402ea3f40b9104dfc5a99fe756.600x338.jpg?t=1553720892",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1053650/ss_676398081b0d6b402ea3f40b9104dfc5a99fe756.1920x1080.jpg?t=1553720892"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1053650/ss_da23f5b2627815c8b261b3994fc16e219a55e73c.600x338.jpg?t=1555003470",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1053650/ss_da23f5b2627815c8b261b3994fc16e219a55e73c.1920x1080.jpg?t=1555003470"
+                },
+                {
+                    "id": 5,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1053650/ss_5b5eb29e78e10a5f6657c8de183f3fbf8da5232b.600x338.jpg?t=1555003470",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1053650/ss_5b5eb29e78e10a5f6657c8de183f3fbf8da5232b.1920x1080.jpg?t=1555003470"
                 }
             ],
             "movies": [
                 {
                     "id": 256746160,
                     "name": "Drive for Your Life",
-                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256746160/movie.293x165.jpg?t=1553639591",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256746160/movie.293x165.jpg?t=1554628480",
                     "webm": {
-                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256746160/movie480.webm?t=1553639591",
-                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256746160/movie_max.webm?t=1553639591"
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256746160/movie480.webm?t=1554628480",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256746160/movie_max.webm?t=1554628480"
+                    },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256746160/movie480.mp4?t=1554628480",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256746160/movie_max.mp4?t=1554628480"
                     },
                     "highlight": true
                 }
             ],
+            "achievements": {
+                "total": 11,
+                "highlighted": [
+                    {
+                        "name": "You got a hang of it!",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1053650/35f8716418655048a8227728834d51c7e391bfcc.jpg"
+                    },
+                    {
+                        "name": "Look at you go",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1053650/20ee0a0445b4506844edea615f90f960fc4f3b94.jpg"
+                    },
+                    {
+                        "name": "Maniac on the loose",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1053650/263eb2ec9e56303069659cbab1e90633ebdbdad9.jpg"
+                    },
+                    {
+                        "name": "Hit 'n' Run ",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1053650/119c89c79c18206e751eaf3dab8c2a1388c86d6b.jpg"
+                    },
+                    {
+                        "name": "Zombie Killer",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1053650/9d4d235712b4a3d2204d75e6ce4fb4298e0212c3.jpg"
+                    },
+                    {
+                        "name": "Zombie Exterminator",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1053650/96baa1457dd0da9dd643f4af674a7d1792c97001.jpg"
+                    },
+                    {
+                        "name": "Ultimate Zombie Annihilator",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1053650/5580618b04f86316c1fe8fd835b0600918a46bd7.jpg"
+                    },
+                    {
+                        "name": "First steps",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1053650/1a91591ab4872e1f33b94ab408d6245fbe22d1cd.jpg"
+                    },
+                    {
+                        "name": "Going further",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1053650/05c048ab9248be28bc637393de9d0d3227410234.jpg"
+                    },
+                    {
+                        "name": "making headway",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1053650/f01ab00c958ffda5ecbc087c6c7683a1d822787e.jpg"
+                    }
+                ]
+            },
             "release_date": {
-                "coming_soon": true,
-                "date": "9 Apr, 2019"
+                "coming_soon": false,
+                "date": "11 Apr, 2019"
             },
             "support_info": {
                 "url": "",
                 "email": "goldengiveaways@gmail.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1053650/page_bg_generated_v6b.jpg?t=1553720892",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1053650/page_bg_generated_v6b.jpg?t=1555003470",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
