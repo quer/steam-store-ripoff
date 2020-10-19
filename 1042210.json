@@ -7,11 +7,11 @@
             "steam_appid": 1042210,
             "required_age": 0,
             "is_free": false,
-            "detailed_description": "Guts 'N Goals is an online multiplayer game where you can beat your friends in a soccer match, literally. Choose between 20+ different heroes with unique abilities and score goals by hitting a ball with a bat. You can also hit your enemies to knockdown them to get advantage.",
-            "about_the_game": "Guts 'N Goals is an online multiplayer game where you can beat your friends in a soccer match, literally. Choose between 20+ different heroes with unique abilities and score goals by hitting a ball with a bat. You can also hit your enemies to knockdown them to get advantage.",
-            "short_description": "Guts 'N Goals is an online multiplayer game where you can beat your friends in a soccer match, literally. Choose between 20+ different heroes with unique abilities and score goals by hitting a ball with a bat. You can also hit your enemies to knockdown them to get advantage.",
+            "detailed_description": "<h1>PLAY THE FREE DEMO</h1><p><a href=\"https://store.steampowered.com/app/1352380\" target=\"_blank\" rel=\"noreferrer\"  id=\"dynamiclink_0\" >https://store.steampowered.com/app/1352380</a></p><br><h1>Discord</h1><p><a href=\"https://store.steampowered.com/app/1352380\" target=\"_blank\" rel=\"noreferrer\"  id=\"dynamiclink_1\" >https://store.steampowered.com/app/1352380</a></p><br><h1>About the Game</h1><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/1042210/extras/guts-goals-gameplay.gif?t=1601569362\" /><br><br>This isn't your standard game of soccer. This is Guts 'N Goals, where soccer balls can be hockey pucks, and you use a bat instead of your feet to score goals.<br><br>Choose from over 20 unique heroes and get ready to play the world’s game like never before!<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/1042210/extras/chargifgng.gif?t=1601569362\" /><br><br><strong>Different ways to play</strong> - Each stadium has a unique way to play a game of soccer. Score a goal with a beach ball on the beach, and hit a hockey puck at the skating rink.<br><br><strong>Keeping you on your toes</strong> - During each game, random mutators will change the way you play. Mutators can change everything from the ball you’re hitting to the entire game design in a matter of seconds.<br><br><strong>There are no penalty cards</strong> - Each of the over 20 heroes has a unique ability that can drastically change the tide of a match. You can use these abilities to temporarily KO your opponent, giving you an opportunity to score.<br><br><strong>Play your way</strong> - Guts 'N Goals can be played both online and offline, singleplayer, co-op, multiplayer, and local couch co-op. Enjoy this hilarious take on Soccer however you like!",
+            "about_the_game": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/1042210/extras/guts-goals-gameplay.gif?t=1601569362\" /><br><br>This isn't your standard game of soccer. This is Guts 'N Goals, where soccer balls can be hockey pucks, and you use a bat instead of your feet to score goals.<br><br>Choose from over 20 unique heroes and get ready to play the world’s game like never before!<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/1042210/extras/chargifgng.gif?t=1601569362\" /><br><br><strong>Different ways to play</strong> - Each stadium has a unique way to play a game of soccer. Score a goal with a beach ball on the beach, and hit a hockey puck at the skating rink.<br><br><strong>Keeping you on your toes</strong> - During each game, random mutators will change the way you play. Mutators can change everything from the ball you’re hitting to the entire game design in a matter of seconds.<br><br><strong>There are no penalty cards</strong> - Each of the over 20 heroes has a unique ability that can drastically change the tide of a match. You can use these abilities to temporarily KO your opponent, giving you an opportunity to score.<br><br><strong>Play your way</strong> - Guts 'N Goals can be played both online and offline, singleplayer, co-op, multiplayer, and local couch co-op. Enjoy this hilarious take on Soccer however you like!",
+            "short_description": "Beat your friends at a game of soccer, literally. Guts 'N Goals mixes arcade-style soccer with beat 'em up gameplay that results in a hilarious way to play *soccer locally or online. Choose between 20+ different heroes with unique abilities and score goals by hitting balls with bats.",
             "supported_languages": "English<strong>*</strong>, Spanish - Spain<strong>*</strong><br><strong>*</strong>languages with full audio support",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1042210/header.jpg?t=1552590161",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1042210/header.jpg?t=1601569362",
             "website": "https://twitter.com/GutsAndGoals",
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong> Intel i5<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 300 MB available space</li></ul>"
@@ -19,11 +19,10 @@
             "mac_requirements": [],
             "linux_requirements": [],
             "developers": [
-                "Manuel Jesús Bolaños Gómez",
-                "Gabriel García García"
+                "CodeManu"
             ],
             "publishers": [
-                "Manuel Jesús Bolaños Gómez"
+                "PM Studios, inc."
             ],
             "package_groups": [],
             "platforms": {
@@ -41,12 +40,16 @@
                     "description": "Multi-player"
                 },
                 {
+                    "id": 49,
+                    "description": "PvP"
+                },
+                {
                     "id": 36,
-                    "description": "Online Multi-Player"
+                    "description": "Online PvP"
                 },
                 {
                     "id": 37,
-                    "description": "Local Multi-Player"
+                    "description": "Shared/Split Screen PvP"
                 },
                 {
                     "id": 9,
@@ -58,7 +61,19 @@
                 },
                 {
                     "id": 39,
-                    "description": "Local Co-op"
+                    "description": "Shared/Split Screen Co-op"
+                },
+                {
+                    "id": 22,
+                    "description": "Steam Achievements"
+                },
+                {
+                    "id": 18,
+                    "description": "Partial Controller Support"
+                },
+                {
+                    "id": 44,
+                    "description": "Remote Play Together"
                 }
             ],
             "genres": [
@@ -78,61 +93,85 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1042210/ss_c1c757a054a6e9716e49014f676d95ed4c19fc1c.600x338.jpg?t=1552590161",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1042210/ss_c1c757a054a6e9716e49014f676d95ed4c19fc1c.1920x1080.jpg?t=1552590161"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1042210/ss_8754ed2d1c725297075e1eda46d7348602835db9.600x338.jpg?t=1601569362",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1042210/ss_8754ed2d1c725297075e1eda46d7348602835db9.1920x1080.jpg?t=1601569362"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1042210/ss_60e3a28499f1ff41ffba11cb46ef5ea138728c47.600x338.jpg?t=1552590161",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1042210/ss_60e3a28499f1ff41ffba11cb46ef5ea138728c47.1920x1080.jpg?t=1552590161"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1042210/ss_98a890ef29748170456c8e324b403e31ac2ab445.600x338.jpg?t=1601569362",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1042210/ss_98a890ef29748170456c8e324b403e31ac2ab445.1920x1080.jpg?t=1601569362"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1042210/ss_7df5377d7c260b096a5bcd90890816e05939a3e6.600x338.jpg?t=1552590161",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1042210/ss_7df5377d7c260b096a5bcd90890816e05939a3e6.1920x1080.jpg?t=1552590161"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1042210/ss_f93e525a7423719fd2d5decdc11a58d94315c742.600x338.jpg?t=1601569362",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1042210/ss_f93e525a7423719fd2d5decdc11a58d94315c742.1920x1080.jpg?t=1601569362"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1042210/ss_8969bf2e4f965147a01783c6d546212f5e76f6c1.600x338.jpg?t=1552590161",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1042210/ss_8969bf2e4f965147a01783c6d546212f5e76f6c1.1920x1080.jpg?t=1552590161"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1042210/ss_48a6de82bbfd7daaf835aa500c8c0a9621f4699d.600x338.jpg?t=1601569362",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1042210/ss_48a6de82bbfd7daaf835aa500c8c0a9621f4699d.1920x1080.jpg?t=1601569362"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1042210/ss_e0d3464ac077d329dddcc3413e6b99a0b5ac3665.600x338.jpg?t=1552590161",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1042210/ss_e0d3464ac077d329dddcc3413e6b99a0b5ac3665.1920x1080.jpg?t=1552590161"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1042210/ss_704635060d9c5c53d03e3f99acaf7e2ffe83a827.600x338.jpg?t=1601569362",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1042210/ss_704635060d9c5c53d03e3f99acaf7e2ffe83a827.1920x1080.jpg?t=1601569362"
                 },
                 {
                     "id": 5,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1042210/ss_872dce7ad1aed3585b04e16efdd8cd857619629e.600x338.jpg?t=1552590161",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1042210/ss_872dce7ad1aed3585b04e16efdd8cd857619629e.1920x1080.jpg?t=1552590161"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1042210/ss_b9a19ba1f95b9ea8417139dec7ade32c7e8f086d.600x338.jpg?t=1601569362",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1042210/ss_b9a19ba1f95b9ea8417139dec7ade32c7e8f086d.1920x1080.jpg?t=1601569362"
                 },
                 {
                     "id": 6,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1042210/ss_9c017806197ec5afa2b9327d4b3e2004c0beefa1.600x338.jpg?t=1552590161",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1042210/ss_9c017806197ec5afa2b9327d4b3e2004c0beefa1.1920x1080.jpg?t=1552590161"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1042210/ss_44fb39e2b887224360a92a2c2b39d3171be47779.600x338.jpg?t=1601569362",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1042210/ss_44fb39e2b887224360a92a2c2b39d3171be47779.1920x1080.jpg?t=1601569362"
+                },
+                {
+                    "id": 7,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1042210/ss_184623fa577a934d583bb999c3aa33ee58d37ccd.600x338.jpg?t=1601569362",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1042210/ss_184623fa577a934d583bb999c3aa33ee58d37ccd.1920x1080.jpg?t=1601569362"
+                },
+                {
+                    "id": 8,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1042210/ss_7e6c3f9984a4f801f25dcc55fd938e2e2ce1a09c.600x338.jpg?t=1601569362",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1042210/ss_7e6c3f9984a4f801f25dcc55fd938e2e2ce1a09c.1920x1080.jpg?t=1601569362"
+                },
+                {
+                    "id": 9,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1042210/ss_c7b41b472cf91e52e0ec5ba0a5e539d5b1d388c5.600x338.jpg?t=1601569362",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1042210/ss_c7b41b472cf91e52e0ec5ba0a5e539d5b1d388c5.1920x1080.jpg?t=1601569362"
+                },
+                {
+                    "id": 10,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1042210/ss_314c2059ee172dc66f92845fdcc7fda3d6be9094.600x338.jpg?t=1601569362",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1042210/ss_314c2059ee172dc66f92845fdcc7fda3d6be9094.1920x1080.jpg?t=1601569362"
                 }
             ],
             "movies": [
                 {
-                    "id": 256744183,
-                    "name": "Gameplay",
-                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256744183/movie.293x165.jpg?t=1552474322",
+                    "id": 256762606,
+                    "name": "Trailer",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256762606/movie.293x165.jpg?t=1568986035",
                     "webm": {
-                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256744183/movie480.webm?t=1552474322",
-                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256744183/movie_max.webm?t=1552474322"
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256762606/movie480.webm?t=1568986035",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256762606/movie_max.webm?t=1568986035"
+                    },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256762606/movie480.mp4?t=1568986035",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256762606/movie_max.mp4?t=1568986035"
                     },
                     "highlight": true
                 }
             ],
             "release_date": {
                 "coming_soon": true,
-                "date": "2019(ish)"
+                "date": "Definitely 2020"
             },
             "support_info": {
                 "url": "",
                 "email": "revampedpro@gmail.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1042210/page_bg_generated_v6b.jpg?t=1552590161",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1042210/page_bg_generated_v6b.jpg?t=1601569362",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
