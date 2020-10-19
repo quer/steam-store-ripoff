@@ -32,10 +32,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 79,
-                "final": 47,
-                "discount_percent": 41,
-                "initial_formatted": "0,79€",
-                "final_formatted": "0,47€"
+                "final": 79,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "0,79€"
             },
             "packages": [
                 344768
@@ -52,13 +52,13 @@
                     "subs": [
                         {
                             "packageid": 344768,
-                            "percent_savings_text": "-41%",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Oops!!! Puzzles!!! Music - <span class=\"discount_original_price\">0,79€</span> 0,47€",
+                            "option_text": "Oops!!! Puzzles!!! Music - 0,79€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 47
+                            "price_in_cents_with_discount": 79
                         }
                     ]
                 }
@@ -103,9 +103,6 @@
                     "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1035810/ss_1f72f4bf1a36973aa59a5c8ff2c1b411878d71d8.1920x1080.jpg?t=1553867194"
                 }
             ],
-            "achievements": {
-                "total": 0
-            },
             "release_date": {
                 "coming_soon": false,
                 "date": "29 Mar, 2019"
