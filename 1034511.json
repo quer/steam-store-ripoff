@@ -16,11 +16,11 @@
                 "name": "Crossout"
             },
             "supported_languages": "English, Russian, German, Spanish - Spain, Japanese, Thai, French",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1034511/header.jpg?t=1551353699",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1034511/header.jpg?t=1561107200",
             "website": "http://crossout.net/",
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows® 7 / Windows® 8 / Windows® 10<br></li><li><strong>Processor:</strong> Intel® Core™ 2 Duo E8500 or AMD Phenom™ II X3 720<br></li><li><strong>Memory:</strong> 4 MB RAM<br></li><li><strong>Graphics:</strong> NVIDIA® GeForce® GT 440 or AMD™ Radeon™ HD 5670 or Intel® HD Graphics 4000<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 5 MB available space</li></ul>",
-                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows® 7 / Windows® 8 / Windows® 10 64-bit<br></li><li><strong>Processor:</strong> Intel® Core™ i5-3330, AMD™ FX-6300, or better<br></li><li><strong>Memory:</strong> 6 MB RAM<br></li><li><strong>Graphics:</strong> NVIDIA® GeForce® GTX 750 Ti or AMD™ Radeon™ R7 260X or better<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 5 MB available space</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows® 7 / Windows® 8 / Windows® 10<br></li><li><strong>Processor:</strong> Intel® Core™ 2 Duo E8500 or AMD Phenom™ II X3 720<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA® GeForce® GT 440 or AMD™ Radeon™ HD 5670 or Intel® HD Graphics 4000<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 5 GB available space</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows® 7 / Windows® 8 / Windows® 10 64-bit<br></li><li><strong>Processor:</strong> Intel® Core™ i5-3330, AMD™ FX-6300, or better<br></li><li><strong>Memory:</strong> 6 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA® GeForce® GTX 750 Ti or AMD™ Radeon™ R7 260X or better<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 5 GB available space</li></ul>"
             },
             "mac_requirements": [],
             "linux_requirements": [],
@@ -31,40 +31,7 @@
             "publishers": [
                 ""
             ],
-            "price_overview": {
-                "currency": "EUR",
-                "initial": 6499,
-                "final": 6499,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "64,99€"
-            },
-            "packages": [
-                344287
-            ],
-            "package_groups": [
-                {
-                    "name": "default",
-                    "title": "Buy Crossout - Horsemen of Apocalypse: War (Deluxe Edition)",
-                    "description": "",
-                    "selection_text": "Select a purchase option",
-                    "save_text": "",
-                    "display_type": 0,
-                    "is_recurring_subscription": "false",
-                    "subs": [
-                        {
-                            "packageid": 344287,
-                            "percent_savings_text": "",
-                            "percent_savings": 0,
-                            "option_text": "Crossout - Horsemen of Apocalypse: War (Deluxe Edition) - 64,99€",
-                            "option_description": "",
-                            "can_get_free_license": "0",
-                            "is_free_license": false,
-                            "price_in_cents_with_discount": 6499
-                        }
-                    ]
-                }
-            ],
+            "package_groups": [],
             "platforms": {
                 "windows": true,
                 "mac": false,
@@ -76,12 +43,12 @@
                     "description": "Multi-player"
                 },
                 {
-                    "id": 36,
-                    "description": "Online Multi-Player"
-                },
-                {
                     "id": 20,
                     "description": "MMO"
+                },
+                {
+                    "id": 36,
+                    "description": "Online PvP"
                 },
                 {
                     "id": 9,
@@ -133,33 +100,33 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1034511/ss_c343f13e8da53007f597902ecb0668aa3b86a483.600x338.jpg?t=1551353699",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1034511/ss_c343f13e8da53007f597902ecb0668aa3b86a483.1920x1080.jpg?t=1551353699"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1034511/ss_c343f13e8da53007f597902ecb0668aa3b86a483.600x338.jpg?t=1561107200",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1034511/ss_c343f13e8da53007f597902ecb0668aa3b86a483.1920x1080.jpg?t=1561107200"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1034511/ss_dec7adb24a8131cea6cf0afe7dcc1274a40cac27.600x338.jpg?t=1551353699",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1034511/ss_dec7adb24a8131cea6cf0afe7dcc1274a40cac27.1920x1080.jpg?t=1551353699"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1034511/ss_dec7adb24a8131cea6cf0afe7dcc1274a40cac27.600x338.jpg?t=1561107200",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1034511/ss_dec7adb24a8131cea6cf0afe7dcc1274a40cac27.1920x1080.jpg?t=1561107200"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1034511/ss_37d794d2a65a5392b59378a196d7b4ae48ca184f.600x338.jpg?t=1551353699",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1034511/ss_37d794d2a65a5392b59378a196d7b4ae48ca184f.1920x1080.jpg?t=1551353699"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1034511/ss_37d794d2a65a5392b59378a196d7b4ae48ca184f.600x338.jpg?t=1561107200",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1034511/ss_37d794d2a65a5392b59378a196d7b4ae48ca184f.1920x1080.jpg?t=1561107200"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1034511/ss_a7ee2417dd95d14fa74886303da547ddb3094394.600x338.jpg?t=1551353699",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1034511/ss_a7ee2417dd95d14fa74886303da547ddb3094394.1920x1080.jpg?t=1551353699"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1034511/ss_a7ee2417dd95d14fa74886303da547ddb3094394.600x338.jpg?t=1561107200",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1034511/ss_a7ee2417dd95d14fa74886303da547ddb3094394.1920x1080.jpg?t=1561107200"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1034511/ss_0f92e7cb3422c478ed55c9fb2881883b0a87a4a4.600x338.jpg?t=1551353699",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1034511/ss_0f92e7cb3422c478ed55c9fb2881883b0a87a4a4.1920x1080.jpg?t=1551353699"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1034511/ss_0f92e7cb3422c478ed55c9fb2881883b0a87a4a4.600x338.jpg?t=1561107200",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1034511/ss_0f92e7cb3422c478ed55c9fb2881883b0a87a4a4.1920x1080.jpg?t=1561107200"
                 },
                 {
                     "id": 5,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1034511/ss_7e29d681691350f5064bc291b2dc095cfc8c8ac1.600x338.jpg?t=1551353699",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1034511/ss_7e29d681691350f5064bc291b2dc095cfc8c8ac1.1920x1080.jpg?t=1551353699"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1034511/ss_7e29d681691350f5064bc291b2dc095cfc8c8ac1.600x338.jpg?t=1561107200",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1034511/ss_7e29d681691350f5064bc291b2dc095cfc8c8ac1.1920x1080.jpg?t=1561107200"
                 }
             ],
             "movies": [
@@ -171,6 +138,10 @@
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/256744046/movie480.webm?t=1551341144",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/256744046/movie_max.webm?t=1551341144"
                     },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256744046/movie480.mp4?t=1551341144",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256744046/movie_max.mp4?t=1551341144"
+                    },
                     "highlight": true
                 },
                 {
@@ -181,12 +152,13 @@
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/256744149/movie480.webm?t=1551341156",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/256744149/movie_max.webm?t=1551341156"
                     },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256744149/movie480.mp4?t=1551341156",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256744149/movie_max.mp4?t=1551341156"
+                    },
                     "highlight": true
                 }
             ],
-            "achievements": {
-                "total": 0
-            },
             "release_date": {
                 "coming_soon": false,
                 "date": "28 Feb, 2019"
@@ -195,7 +167,7 @@
                 "url": "http://support.gaijinent.com",
                 "email": "support@gaijinent.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1034511/page_bg_generated_v6b.jpg?t=1551353699",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1034511/page_bg_generated_v6b.jpg?t=1561107200",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
