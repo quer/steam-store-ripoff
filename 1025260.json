@@ -3,15 +3,15 @@
         "success": true,
         "data": {
             "type": "game",
-            "name": "Rebirth Fantasy Online",
+            "name": "Rebirth Fantasy",
             "steam_appid": 1025260,
             "required_age": 0,
             "is_free": true,
-            "detailed_description": "<strong>Introduction</strong><br>Rebirth Fantasy is an open world Free 2D Online RPG, Explore a world of fantasy where slimes, goblins and dragons exist. Play the way you like, create skills, craft items, fight different monsters and explore anywhere without being blocked on a story progression! Play a unique Old School Retro Game in a concept of &quot;Another World&quot; fantasy stories.<br><br>Develop a story where you can play the role as a Hero and defeat the Demon Lord, You might even get your own Statue added on the Kingdom<br><br><strong>Story</strong><br>A soul was lost on the world of void, and a certain Goddess found this poor soul. The Goddess save this soul and give it life on her world, and you will play the role as that soul. You are free to be what you want. Be a strong warrior, wise magician, skilled hunter, a fisher or even a bug catcher. Explore dungeons, find hidden place, collect materials and craft them to create different kind of potions, armors and weapons.<br><br>There is no main story line that will bind you to your life here on another world, you can play the role as a Demon Lord or be the Hero who will slay the one who plays the role of a Demon King",
-            "about_the_game": "<strong>Introduction</strong><br>Rebirth Fantasy is an open world Free 2D Online RPG, Explore a world of fantasy where slimes, goblins and dragons exist. Play the way you like, create skills, craft items, fight different monsters and explore anywhere without being blocked on a story progression! Play a unique Old School Retro Game in a concept of &quot;Another World&quot; fantasy stories.<br><br>Develop a story where you can play the role as a Hero and defeat the Demon Lord, You might even get your own Statue added on the Kingdom<br><br><strong>Story</strong><br>A soul was lost on the world of void, and a certain Goddess found this poor soul. The Goddess save this soul and give it life on her world, and you will play the role as that soul. You are free to be what you want. Be a strong warrior, wise magician, skilled hunter, a fisher or even a bug catcher. Explore dungeons, find hidden place, collect materials and craft them to create different kind of potions, armors and weapons.<br><br>There is no main story line that will bind you to your life here on another world, you can play the role as a Demon Lord or be the Hero who will slay the one who plays the role of a Demon King",
-            "short_description": "Rebirth Fantasy is an open world Free 2D Online RPG, Explore a world of fantasy where slimes, goblins and dragons exist. Play the way you like, create skills, craft items, fight different monsters and explore anywhere without being blocked on a story progression!",
+            "detailed_description": "<strong>Introduction</strong><br>Rebirth Fantasy is a free open world MMORPG. Explore a world of fantasy where monsters, goblins and dragons exist. Play the way you want to, create skills, craft items, kill everything and explore anywhere without being restricted to a storyline progression! Play a unique old school retro game using the concept of &quot;Another World&quot; fantasy stories.<br><br>Develop a story where you can play the role as a hero and defeat the Demon Lord. You can even add your own statue into the Kingdom.<br><br><strong>Story</strong><br>A soul was lost on the world of void, and the Goddess found this poor soul. The Goddess saved this soul and gave it life in her world, and you will play the role as that soul. You are free to be whatever you want. Be a strong warrior, wise magician, skilled hunter, a fisher or even a bug catcher. Explore dungeons, find hidden places, collect materials and craft them to create all kinds of potions, armors and weapons.<br><br>There is no main story line that will bind you to any fate, you can play the role as a Demon Lord or be the Hero who will slay the one who plays the role of a Demon King.",
+            "about_the_game": "<strong>Introduction</strong><br>Rebirth Fantasy is a free open world MMORPG. Explore a world of fantasy where monsters, goblins and dragons exist. Play the way you want to, create skills, craft items, kill everything and explore anywhere without being restricted to a storyline progression! Play a unique old school retro game using the concept of &quot;Another World&quot; fantasy stories.<br><br>Develop a story where you can play the role as a hero and defeat the Demon Lord. You can even add your own statue into the Kingdom.<br><br><strong>Story</strong><br>A soul was lost on the world of void, and the Goddess found this poor soul. The Goddess saved this soul and gave it life in her world, and you will play the role as that soul. You are free to be whatever you want. Be a strong warrior, wise magician, skilled hunter, a fisher or even a bug catcher. Explore dungeons, find hidden places, collect materials and craft them to create all kinds of potions, armors and weapons.<br><br>There is no main story line that will bind you to any fate, you can play the role as a Demon Lord or be the Hero who will slay the one who plays the role of a Demon King.",
+            "short_description": "Rebirth Fantasy is an open world MMORPG, Explore a world of fantasy where Monsters, goblins and dragons exist. Play the way you want, create skills, craft items, fight different monsters and explore anywhere without being blocked on a story progression!",
             "supported_languages": "English",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1025260/header.jpg?t=1552993801",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1025260/header.jpg?t=1591908184",
             "website": "http://www.retrocraftzstudio.com/rebirthfantasy",
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP/Vista/7/8 and newer version of windows<br></li><li><strong>Processor:</strong> Pentium 4<br></li><li><strong>Memory:</strong> 400 MB RAM<br></li><li><strong>Graphics:</strong> DirectX8 Compatible Video Card or APU<br></li><li><strong>DirectX:</strong> Version 8.0<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
@@ -33,12 +33,20 @@
             },
             "categories": [
                 {
-                    "id": 36,
-                    "description": "Online Multi-Player"
+                    "id": 1,
+                    "description": "Multi-player"
                 },
                 {
                     "id": 20,
                     "description": "MMO"
+                },
+                {
+                    "id": 49,
+                    "description": "PvP"
+                },
+                {
+                    "id": 36,
+                    "description": "Online PvP"
                 }
             ],
             "genres": [
@@ -61,60 +69,65 @@
                 {
                     "id": "3",
                     "description": "RPG"
-                },
-                {
-                    "id": "70",
-                    "description": "Early Access"
                 }
             ],
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1025260/ss_18b5291639d1e57e201b54e3582c39edef568601.600x338.jpg?t=1552993801",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1025260/ss_18b5291639d1e57e201b54e3582c39edef568601.1920x1080.jpg?t=1552993801"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1025260/ss_e93d9900bfe469d469fd46e79996bcae85e0f284.600x338.jpg?t=1591908184",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1025260/ss_e93d9900bfe469d469fd46e79996bcae85e0f284.1920x1080.jpg?t=1591908184"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1025260/ss_be3d453ee4d8c8ed0703cffed71f077f49163b69.600x338.jpg?t=1552993801",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1025260/ss_be3d453ee4d8c8ed0703cffed71f077f49163b69.1920x1080.jpg?t=1552993801"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1025260/ss_86e603e883d15833c2bc842e1f24247aa2c4d2a4.600x338.jpg?t=1591908184",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1025260/ss_86e603e883d15833c2bc842e1f24247aa2c4d2a4.1920x1080.jpg?t=1591908184"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1025260/ss_ea14b3d3d33c4074b8f47a9a5221ac85c3e3ed16.600x338.jpg?t=1552993801",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1025260/ss_ea14b3d3d33c4074b8f47a9a5221ac85c3e3ed16.1920x1080.jpg?t=1552993801"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1025260/ss_de651ba0c86ea8d1ecb84727d0f907b30e94292f.600x338.jpg?t=1591908184",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1025260/ss_de651ba0c86ea8d1ecb84727d0f907b30e94292f.1920x1080.jpg?t=1591908184"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1025260/ss_555ccd756ef4d84bec2d1630d04ad81f87fd59ed.600x338.jpg?t=1552993801",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1025260/ss_555ccd756ef4d84bec2d1630d04ad81f87fd59ed.1920x1080.jpg?t=1552993801"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1025260/ss_ecff4044e25161085c5936e1c3be3f7dca426fc9.600x338.jpg?t=1591908184",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1025260/ss_ecff4044e25161085c5936e1c3be3f7dca426fc9.1920x1080.jpg?t=1591908184"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1025260/ss_edca2addb94961c24b30619392ca20a27e70cb5f.600x338.jpg?t=1552993801",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1025260/ss_edca2addb94961c24b30619392ca20a27e70cb5f.1920x1080.jpg?t=1552993801"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1025260/ss_9dc1cdccc78ea7b20c1b265ecac059b94da28e58.600x338.jpg?t=1591908184",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1025260/ss_9dc1cdccc78ea7b20c1b265ecac059b94da28e58.1920x1080.jpg?t=1591908184"
+                },
+                {
+                    "id": 5,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1025260/ss_093d1b1fec1875933be5a6086f222ebbf49ca088.600x338.jpg?t=1591908184",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1025260/ss_093d1b1fec1875933be5a6086f222ebbf49ca088.1920x1080.jpg?t=1591908184"
                 }
             ],
             "movies": [
                 {
-                    "id": 256741760,
-                    "name": "Teaser",
-                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256741760/movie.293x165.jpg?t=1552668960",
+                    "id": 256788244,
+                    "name": "Rebirth Fantasy Trailer",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256788244/movie.293x165.jpg?t=1591671925",
                     "webm": {
-                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256741760/movie480.webm?t=1552668960",
-                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256741760/movie_max.webm?t=1552668960"
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256788244/movie480_vp9.webm?t=1591671925",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256788244/movie_max_vp9.webm?t=1591671925"
+                    },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256788244/movie480.mp4?t=1591671925",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256788244/movie_max.mp4?t=1591671925"
                     },
                     "highlight": true
                 }
             ],
             "release_date": {
-                "coming_soon": true,
-                "date": "March-April 2019"
+                "coming_soon": false,
+                "date": "9 Jun, 2020"
             },
             "support_info": {
                 "url": "http://www.retrocraftzstudio.com",
                 "email": "retrocraftzstudio@gmail.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1025260/page_bg_generated_v6b.jpg?t=1552993801",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1025260/page_bg_generated_v6b.jpg?t=1591908184",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
