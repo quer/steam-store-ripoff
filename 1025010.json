@@ -27,10 +27,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 159,
-                "final": 111,
-                "discount_percent": 30,
-                "initial_formatted": "1,59€",
-                "final_formatted": "1,11€"
+                "final": 159,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "1,59€"
             },
             "packages": [
                 340527
@@ -47,13 +47,13 @@
                     "subs": [
                         {
                             "packageid": 340527,
-                            "percent_savings_text": "-30%",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Cursor - by Mr iLyn. - <span class=\"discount_original_price\">1,59€</span> 1,11€",
+                            "option_text": "Cursor - by Mr iLyn. - 1,59€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 111
+                            "price_in_cents_with_discount": 159
                         }
                     ]
                 }
@@ -110,9 +110,6 @@
                     "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1025010/ss_9858d209a40cc46901f55d18a98f72d0ae00e7e5.1920x1080.jpg?t=1550884154"
                 }
             ],
-            "achievements": {
-                "total": 0
-            },
             "release_date": {
                 "coming_soon": false,
                 "date": "22 Feb, 2019"
