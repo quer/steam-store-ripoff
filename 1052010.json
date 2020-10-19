@@ -11,7 +11,7 @@
             "about_the_game": "In <strong>Heidentum</strong> you play against up to 3 other players in online matches, strategy is the focus point of the game, the way the game flows makes sure you always use different strategies, some reasons down below.<br><br><strong>- The landscape and environment are totally randomized every game, its procedural generated so the combinations are basically infinite.<br><br>- The neutral creatures have all base stats plus a random value that make's them sometimes stronger and other times weaker.<br><br>- Your unit's speciality are randomized, so you have to adapt your strategy to fit what you get.<br><br>- Each Paganism have different Strength's and Weakness, so the gameplay differ's from each other.</strong><br><br><br> Mixing those you get infinite possibilities in games, that's done to let players use their wisdom at full capacity, not blocking them to certain strategies.",
             "short_description": "Heidentum is a multiplayer strategy game where you choose your Paganism and fight for it until your enemies are defeated.",
             "supported_languages": "English",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1052010/header.jpg?t=1553703246",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1052010/header.jpg?t=1555012344",
             "website": null,
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP / Windows Vista / Windows 7 / Windows 10<br></li><li><strong>Processor:</strong> 2.0 GHz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> 512 MB VRAM<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>",
@@ -32,7 +32,40 @@
             "publishers": [
                 "Kirchesch"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 399,
+                "final": 39,
+                "discount_percent": 90,
+                "initial_formatted": "3,99€",
+                "final_formatted": "0,39€"
+            },
+            "packages": [
+                351032
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Heidentum",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 351032,
+                            "percent_savings_text": "-90% ",
+                            "percent_savings": 0,
+                            "option_text": "Heidentum - <span class=\"discount_original_price\">3,99€</span> 0,39€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 39
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": true,
@@ -48,8 +81,12 @@
                     "description": "Multi-player"
                 },
                 {
+                    "id": 49,
+                    "description": "PvP"
+                },
+                {
                     "id": 36,
-                    "description": "Online Multi-Player"
+                    "description": "Online PvP"
                 },
                 {
                     "id": 27,
@@ -77,76 +114,125 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1052010/ss_f540a5a27ece1d7d6312f4a3c2ac0b0710ee77c7.600x338.jpg?t=1553703246",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1052010/ss_f540a5a27ece1d7d6312f4a3c2ac0b0710ee77c7.1920x1080.jpg?t=1553703246"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1052010/ss_f540a5a27ece1d7d6312f4a3c2ac0b0710ee77c7.600x338.jpg?t=1555012344",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1052010/ss_f540a5a27ece1d7d6312f4a3c2ac0b0710ee77c7.1920x1080.jpg?t=1555012344"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1052010/ss_9ce70d2b0493fe47abeb54963bfa2b37b1af1e39.600x338.jpg?t=1553703246",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1052010/ss_9ce70d2b0493fe47abeb54963bfa2b37b1af1e39.1920x1080.jpg?t=1553703246"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1052010/ss_9ce70d2b0493fe47abeb54963bfa2b37b1af1e39.600x338.jpg?t=1555012344",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1052010/ss_9ce70d2b0493fe47abeb54963bfa2b37b1af1e39.1920x1080.jpg?t=1555012344"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1052010/ss_9f5299fc26ee493040fd9e9c60f0a11b35bae4a1.600x338.jpg?t=1553703246",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1052010/ss_9f5299fc26ee493040fd9e9c60f0a11b35bae4a1.1920x1080.jpg?t=1553703246"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1052010/ss_9f5299fc26ee493040fd9e9c60f0a11b35bae4a1.600x338.jpg?t=1555012344",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1052010/ss_9f5299fc26ee493040fd9e9c60f0a11b35bae4a1.1920x1080.jpg?t=1555012344"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1052010/ss_d3bd8968475b2e81ce2c253ad5a9817e561ebe46.600x338.jpg?t=1553703246",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1052010/ss_d3bd8968475b2e81ce2c253ad5a9817e561ebe46.1920x1080.jpg?t=1553703246"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1052010/ss_d3bd8968475b2e81ce2c253ad5a9817e561ebe46.600x338.jpg?t=1555012344",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1052010/ss_d3bd8968475b2e81ce2c253ad5a9817e561ebe46.1920x1080.jpg?t=1555012344"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1052010/ss_943982d9e6688f6fcc70d6ccc5be05b18803279e.600x338.jpg?t=1553703246",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1052010/ss_943982d9e6688f6fcc70d6ccc5be05b18803279e.1920x1080.jpg?t=1553703246"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1052010/ss_943982d9e6688f6fcc70d6ccc5be05b18803279e.600x338.jpg?t=1555012344",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1052010/ss_943982d9e6688f6fcc70d6ccc5be05b18803279e.1920x1080.jpg?t=1555012344"
                 },
                 {
                     "id": 5,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1052010/ss_698305085ab65504d217beb190a3e920e839160d.600x338.jpg?t=1553703246",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1052010/ss_698305085ab65504d217beb190a3e920e839160d.1920x1080.jpg?t=1553703246"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1052010/ss_698305085ab65504d217beb190a3e920e839160d.600x338.jpg?t=1555012344",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1052010/ss_698305085ab65504d217beb190a3e920e839160d.1920x1080.jpg?t=1555012344"
                 },
                 {
                     "id": 6,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1052010/ss_3d999627961a33d63f1c682644980511be4dc098.600x338.jpg?t=1553703246",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1052010/ss_3d999627961a33d63f1c682644980511be4dc098.1920x1080.jpg?t=1553703246"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1052010/ss_3d999627961a33d63f1c682644980511be4dc098.600x338.jpg?t=1555012344",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1052010/ss_3d999627961a33d63f1c682644980511be4dc098.1920x1080.jpg?t=1555012344"
                 },
                 {
                     "id": 7,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1052010/ss_29a22dc8b746754bd62ba40bc08598db44be0486.600x338.jpg?t=1553703246",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1052010/ss_29a22dc8b746754bd62ba40bc08598db44be0486.1920x1080.jpg?t=1553703246"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1052010/ss_29a22dc8b746754bd62ba40bc08598db44be0486.600x338.jpg?t=1555012344",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1052010/ss_29a22dc8b746754bd62ba40bc08598db44be0486.1920x1080.jpg?t=1555012344"
                 },
                 {
                     "id": 8,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1052010/ss_fe724f30d6d75782048788039c1872a2e89565e0.600x338.jpg?t=1553703246",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1052010/ss_fe724f30d6d75782048788039c1872a2e89565e0.1920x1080.jpg?t=1553703246"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1052010/ss_fe724f30d6d75782048788039c1872a2e89565e0.600x338.jpg?t=1555012344",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1052010/ss_fe724f30d6d75782048788039c1872a2e89565e0.1920x1080.jpg?t=1555012344"
                 },
                 {
                     "id": 9,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1052010/ss_7afd55d3997d913c602a6a3d864a02f430bae352.600x338.jpg?t=1553703246",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1052010/ss_7afd55d3997d913c602a6a3d864a02f430bae352.1920x1080.jpg?t=1553703246"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1052010/ss_7afd55d3997d913c602a6a3d864a02f430bae352.600x338.jpg?t=1555012344",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1052010/ss_7afd55d3997d913c602a6a3d864a02f430bae352.1920x1080.jpg?t=1555012344"
                 }
             ],
             "movies": [
                 {
-                    "id": 256745793,
+                    "id": 256747347,
                     "name": "Heidentum Launch Trailer",
-                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256745793/movie.293x165.jpg?t=1553703241",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256747347/movie.293x165.jpg?t=1554578656",
                     "webm": {
-                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256745793/movie480.webm?t=1553703241",
-                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256745793/movie_max.webm?t=1553703241"
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256747347/movie480.webm?t=1554578656",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256747347/movie_max.webm?t=1554578656"
+                    },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256747347/movie480.mp4?t=1554578656",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256747347/movie_max.mp4?t=1554578656"
                     },
                     "highlight": true
                 }
             ],
+            "achievements": {
+                "total": 16,
+                "highlighted": [
+                    {
+                        "name": "Started Tutorial",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1052010/ef2df6dc2fc47f64dd7a425242d66562b8a66d7a.jpg"
+                    },
+                    {
+                        "name": "Finished Tutorial",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1052010/daa8f6b68af693bfa16b72f4e6daaad5ac276379.jpg"
+                    },
+                    {
+                        "name": "Temple Breaker I",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1052010/c3b8cf766b51d1f97059c617f32d6707dabe2d93.jpg"
+                    },
+                    {
+                        "name": "Temple Breaker II",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1052010/78b41d3dedaa3e94e2fb8af754fd9141fd835dea.jpg"
+                    },
+                    {
+                        "name": "Monster Slayer I",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1052010/55eabba7adfb6c9c5125f23ecbda4937f8a30e18.jpg"
+                    },
+                    {
+                        "name": "Monster Slayer II",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1052010/c7cfdd33720af022dbee685f4427b51e96423d1d.jpg"
+                    },
+                    {
+                        "name": "Slayer I",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1052010/3153de368726705ee9be1b591a672d2769af83a2.jpg"
+                    },
+                    {
+                        "name": "Slayer II",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1052010/9365228b3603465e22cc9beaaa2441e2c5a2252f.jpg"
+                    },
+                    {
+                        "name": "Winner I",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1052010/bbe942f34a900bbdf6ffd33402bbdef2b58c8d11.jpg"
+                    },
+                    {
+                        "name": "Winner II",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1052010/56819ab1220f5dd0fad87504c7d39172abfdfbf7.jpg"
+                    }
+                ]
+            },
             "release_date": {
-                "coming_soon": true,
+                "coming_soon": false,
                 "date": "11 Apr, 2019"
             },
             "support_info": {
                 "url": "",
                 "email": "matheuskirchesch@hotmail.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1052010/page_bg_generated_v6b.jpg?t=1553703246",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1052010/page_bg_generated_v6b.jpg?t=1555012344",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
