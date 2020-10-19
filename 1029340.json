@@ -7,14 +7,14 @@
             "steam_appid": 1029340,
             "required_age": 0,
             "is_free": false,
-            "detailed_description": "** Stream Animals Currently only works for Twitch.tv Streamers **<br><br>Stream Animals brings you closer to your streaming community.  You and your viewers try to be the last one standing as the land falls into the water.<br><br>Your viewers use your streaming channel chat to decide their moves. Then the fun begins as random or voted events trigger falling blocks, player fights, or birds coming to get them!<br><br>As the last animal standing, doesn’t always mean you’re the winner. If the birds and players don’t get you, the events can still take you out!<h2 class=\"bb_tag\">Features</h2><ul class=\"bb_ul\"><li>Play with your stream chat through Twitch.<br></li><li>Viewers can vote on events.<br></li><li>Up to 64 players from your stream chat.<br></li><li>Map size scaling based on player count.<br></li><li>10 Events that can be toggled on/off<br></li><li>4 Level themes with 3 scaling sizes</li></ul>",
-            "about_the_game": "** Stream Animals Currently only works for Twitch.tv Streamers **<br><br>Stream Animals brings you closer to your streaming community.  You and your viewers try to be the last one standing as the land falls into the water.<br><br>Your viewers use your streaming channel chat to decide their moves. Then the fun begins as random or voted events trigger falling blocks, player fights, or birds coming to get them!<br><br>As the last animal standing, doesn’t always mean you’re the winner. If the birds and players don’t get you, the events can still take you out!<h2 class=\"bb_tag\">Features</h2><ul class=\"bb_ul\"><li>Play with your stream chat through Twitch.<br></li><li>Viewers can vote on events.<br></li><li>Up to 64 players from your stream chat.<br></li><li>Map size scaling based on player count.<br></li><li>10 Events that can be toggled on/off<br></li><li>4 Level themes with 3 scaling sizes</li></ul>",
+            "detailed_description": "** Stream Animals Currently only works for Twitch.tv and Mixer Streamers **<br><br>Stream Animals brings you closer to your streaming community.  Take on your viewers and try to be the last one standing as the land gives way beneath you.<br><br>Your viewers use your streaming channel chat to decide their moves. Then the fun begins as random or voted events trigger falling blocks, player fights, or birds swooping from above!<br><br>As the last animal standing, it doesn’t always mean you’re the winner. If the birds and players don’t get you, events can still take you out!<h2 class=\"bb_tag\">Features</h2><ul class=\"bb_ul\"><li>Play with your stream chat through Twitch or Mixer.<br></li><li>Viewers can vote on events.<br></li><li>3 Game Modes: Classic, Battle, and Dash<br></li><li>Up to 64 players from your stream chat.<br></li><li>Map size scaling based on player count.<br></li><li>15+ Events that can be toggled on/off<br></li><li>10+ Map Layouts for Classic Mode with 3 scaling sizes<br></li><li>10+ Map Themes for Classic Mode.</li></ul>",
+            "about_the_game": "** Stream Animals Currently only works for Twitch.tv and Mixer Streamers **<br><br>Stream Animals brings you closer to your streaming community.  Take on your viewers and try to be the last one standing as the land gives way beneath you.<br><br>Your viewers use your streaming channel chat to decide their moves. Then the fun begins as random or voted events trigger falling blocks, player fights, or birds swooping from above!<br><br>As the last animal standing, it doesn’t always mean you’re the winner. If the birds and players don’t get you, events can still take you out!<h2 class=\"bb_tag\">Features</h2><ul class=\"bb_ul\"><li>Play with your stream chat through Twitch or Mixer.<br></li><li>Viewers can vote on events.<br></li><li>3 Game Modes: Classic, Battle, and Dash<br></li><li>Up to 64 players from your stream chat.<br></li><li>Map size scaling based on player count.<br></li><li>15+ Events that can be toggled on/off<br></li><li>10+ Map Layouts for Classic Mode with 3 scaling sizes<br></li><li>10+ Map Themes for Classic Mode.</li></ul>",
             "short_description": "Stream Animals brings you closer to your streaming community. You and your viewers try to be the last one standing as the land falls into the water.",
             "supported_languages": "English",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1029340/header.jpg?t=1553723448",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1029340/header.jpg?t=1584896567",
             "website": null,
             "pc_requirements": {
-                "minimum": "<strong>最低配備:</strong><br><ul class=\"bb_ul\"><li><strong>作業系統:</strong> Microsoft Windows 7 or Later<br></li><li><strong>處理器:</strong> Intel i5 equivalent or better<br></li><li><strong>記憶體:</strong> 6 GB 記憶體<br></li><li><strong>顯示卡:</strong> NVIDIA GeForce GTX970 or equivalent<br></li><li><strong>網路:</strong> 寬頻網際網路連線<br></li><li><strong>儲存空間:</strong> 500 MB 可用空間<br></li><li><strong>備註:</strong> Computer must be able to handle streaming.</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Microsoft Windows 7 or Later<br></li><li><strong>Processor:</strong> Intel i5 equivalent or better<br></li><li><strong>Memory:</strong> 6 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX970 or equivalent<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 500 MB available space<br></li><li><strong>Additional Notes:</strong> Computer must be able to handle streaming.</li></ul>"
             },
             "mac_requirements": [],
             "linux_requirements": [],
@@ -48,7 +48,7 @@
                     "subs": [
                         {
                             "packageid": 342272,
-                            "percent_savings_text": "",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
                             "option_text": "Stream Animals - 8,19€",
                             "option_description": "",
@@ -70,50 +70,70 @@
                     "description": "Multi-player"
                 },
                 {
+                    "id": 49,
+                    "description": "PvP"
+                },
+                {
                     "id": 36,
-                    "description": "Online Multi-Player"
+                    "description": "Online PvP"
                 }
             ],
             "genres": [
                 {
                     "id": "4",
                     "description": "Casual"
-                },
-                {
-                    "id": "70",
-                    "description": "Early Access"
                 }
             ],
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029340/ss_8287a1c1e7673dc63e04068827df64a34701a8b0.600x338.jpg?t=1553723448",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029340/ss_8287a1c1e7673dc63e04068827df64a34701a8b0.1920x1080.jpg?t=1553723448"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029340/ss_d03292516ad12f312f4160eec1e317e660f3372e.600x338.jpg?t=1584896567",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029340/ss_d03292516ad12f312f4160eec1e317e660f3372e.1920x1080.jpg?t=1584896567"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029340/ss_9b2ff9db985fdc470150ebc5fca0246c21eb1951.600x338.jpg?t=1553723448",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029340/ss_9b2ff9db985fdc470150ebc5fca0246c21eb1951.1920x1080.jpg?t=1553723448"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029340/ss_03cdb6006d8f91058ff18d005ada338765cdcba7.600x338.jpg?t=1584896567",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029340/ss_03cdb6006d8f91058ff18d005ada338765cdcba7.1920x1080.jpg?t=1584896567"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029340/ss_901a5ad5c7ee8875091189bde7d09437e3b8b370.600x338.jpg?t=1553723448",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029340/ss_901a5ad5c7ee8875091189bde7d09437e3b8b370.1920x1080.jpg?t=1553723448"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029340/ss_783d57e080d4e01387d3d79c9f4cdc18d516ccb9.600x338.jpg?t=1584896567",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029340/ss_783d57e080d4e01387d3d79c9f4cdc18d516ccb9.1920x1080.jpg?t=1584896567"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029340/ss_3b4a38e1e5c9e3426f68593d3bf02d449357a0e1.600x338.jpg?t=1553723448",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029340/ss_3b4a38e1e5c9e3426f68593d3bf02d449357a0e1.1920x1080.jpg?t=1553723448"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029340/ss_f4f6ae93ffa2481d34d29f4f9e2e2bb332a2176a.600x338.jpg?t=1584896567",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029340/ss_f4f6ae93ffa2481d34d29f4f9e2e2bb332a2176a.1920x1080.jpg?t=1584896567"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029340/ss_64df5a08e496a9d077493eb4a7eecbe5935b833d.600x338.jpg?t=1553723448",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029340/ss_64df5a08e496a9d077493eb4a7eecbe5935b833d.1920x1080.jpg?t=1553723448"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029340/ss_9db65f25db4960f8d1f346ac8dd40964ccc118f8.600x338.jpg?t=1584896567",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029340/ss_9db65f25db4960f8d1f346ac8dd40964ccc118f8.1920x1080.jpg?t=1584896567"
                 },
                 {
                     "id": 5,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029340/ss_624fd631662acf2e3a2ec1a64b71bc8d539f1200.600x338.jpg?t=1553723448",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029340/ss_624fd631662acf2e3a2ec1a64b71bc8d539f1200.1920x1080.jpg?t=1553723448"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029340/ss_6a1a4ac9abc2f64021809eb7e0cb892e4c2a7b77.600x338.jpg?t=1584896567",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029340/ss_6a1a4ac9abc2f64021809eb7e0cb892e4c2a7b77.1920x1080.jpg?t=1584896567"
+                },
+                {
+                    "id": 6,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029340/ss_8a8d0417cff45282f8289dcf7ff72aedd543b572.600x338.jpg?t=1584896567",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029340/ss_8a8d0417cff45282f8289dcf7ff72aedd543b572.1920x1080.jpg?t=1584896567"
+                },
+                {
+                    "id": 7,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029340/ss_3784eb345192558645ceaf08a6bf7b504952cf76.600x338.jpg?t=1584896567",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029340/ss_3784eb345192558645ceaf08a6bf7b504952cf76.1920x1080.jpg?t=1584896567"
+                },
+                {
+                    "id": 8,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029340/ss_81d2f6e75bcf9930bd4675af3b86ce4405e0754f.600x338.jpg?t=1584896567",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029340/ss_81d2f6e75bcf9930bd4675af3b86ce4405e0754f.1920x1080.jpg?t=1584896567"
+                },
+                {
+                    "id": 9,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029340/ss_2fbbb8617d005630201e900d5e4ccd0d5ce4f582.600x338.jpg?t=1584896567",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029340/ss_2fbbb8617d005630201e900d5e4ccd0d5ce4f582.1920x1080.jpg?t=1584896567"
                 }
             ],
             "movies": [
@@ -125,21 +145,50 @@
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/256744975/movie480.webm?t=1552264811",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/256744975/movie_max.webm?t=1552264811"
                     },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256744975/movie480.mp4?t=1552264811",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256744975/movie_max.mp4?t=1552264811"
+                    },
+                    "highlight": true
+                },
+                {
+                    "id": 256764965,
+                    "name": "Dash Mode Trailer",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256764965/movie.293x165.jpg?t=1571584644",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256764965/movie480.webm?t=1571584644",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256764965/movie_max.webm?t=1571584644"
+                    },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256764965/movie480.mp4?t=1571584644",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256764965/movie_max.mp4?t=1571584644"
+                    },
+                    "highlight": true
+                },
+                {
+                    "id": 256757840,
+                    "name": "Battle Mode Trailer",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256757840/movie.293x165.jpg?t=1564597822",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256757840/movie480.webm?t=1564597822",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256757840/movie_max.webm?t=1564597822"
+                    },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256757840/movie480.mp4?t=1564597822",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256757840/movie_max.mp4?t=1564597822"
+                    },
                     "highlight": true
                 }
             ],
-            "achievements": {
-                "total": 0
-            },
             "release_date": {
                 "coming_soon": false,
-                "date": "27 Mar, 2019"
+                "date": "23 Feb, 2020"
             },
             "support_info": {
                 "url": "",
-                "email": "sa_support@smashboltgames.com"
+                "email": "support@smashboltgames.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1029340/page_bg_generated_v6b.jpg?t=1553723448",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1029340/page_bg_generated_v6b.jpg?t=1584896567",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
