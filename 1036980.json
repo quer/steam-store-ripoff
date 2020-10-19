@@ -30,10 +30,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 399,
-                "final": 239,
-                "discount_percent": 40,
-                "initial_formatted": "3,99€",
-                "final_formatted": "2,39€"
+                "final": 399,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "3,99€"
             },
             "packages": [
                 345299
@@ -50,13 +50,13 @@
                     "subs": [
                         {
                             "packageid": 345299,
-                            "percent_savings_text": "-40%",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Mysteries of the Undead - <span class=\"discount_original_price\">3,99€</span> 2,39€",
+                            "option_text": "Mysteries of the Undead - 3,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 239
+                            "price_in_cents_with_discount": 399
                         }
                     ]
                 }
@@ -122,6 +122,10 @@
                     "webm": {
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/256744488/movie480.webm?t=1552560935",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/256744488/movie_max.webm?t=1552560935"
+                    },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256744488/movie480.mp4?t=1552560935",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256744488/movie_max.mp4?t=1552560935"
                     },
                     "highlight": true
                 }
