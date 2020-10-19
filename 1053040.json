@@ -11,7 +11,7 @@
             "about_the_game": "Find the cure to zombification in this lovely, female protagonist, interactive, pixel gore, zombie survival, RPG Maker MV story game with about 20 endings and about 25 Steam achievements!",
             "short_description": "New installment in the zombie survival RPG genre and a first from Games Master Mind!",
             "supported_languages": "English",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1053040/header.jpg?t=1553571215",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1053040/header.jpg?t=1556587503",
             "website": null,
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> WindowsR 7/8/8.1/10 (32-bit/64-bit)<br></li><li><strong>Processor:</strong> Intel Core 2 Duo or better<br></li><li><strong>Memory:</strong> 128 MB RAM<br></li><li><strong>Graphics:</strong> OpenGL 4.1 capable<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 226 MB available space</li></ul>"
@@ -25,7 +25,40 @@
             "publishers": [
                 "Games Master Mind"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 79,
+                "final": 79,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "0,79€"
+            },
+            "packages": [
+                351419
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Zom-bie, or Not Zom-bie",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 351419,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "Zom-bie, or Not Zom-bie - 0,79€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 79
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": false,
@@ -49,65 +82,139 @@
                 {
                     "id": "3",
                     "description": "RPG"
-                },
-                {
-                    "id": "70",
-                    "description": "Early Access"
                 }
             ],
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1053040/ss_c1e6aa53a5a5186086764c3bb9f5d2f757d2956b.600x338.jpg?t=1553571215",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1053040/ss_c1e6aa53a5a5186086764c3bb9f5d2f757d2956b.1920x1080.jpg?t=1553571215"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1053040/ss_c1e6aa53a5a5186086764c3bb9f5d2f757d2956b.600x338.jpg?t=1556587503",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1053040/ss_c1e6aa53a5a5186086764c3bb9f5d2f757d2956b.1920x1080.jpg?t=1556587503"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1053040/ss_ebe1b0064240fb3baa26e6f3896dac091e3d0a77.600x338.jpg?t=1553571215",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1053040/ss_ebe1b0064240fb3baa26e6f3896dac091e3d0a77.1920x1080.jpg?t=1553571215"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1053040/ss_ebe1b0064240fb3baa26e6f3896dac091e3d0a77.600x338.jpg?t=1556587503",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1053040/ss_ebe1b0064240fb3baa26e6f3896dac091e3d0a77.1920x1080.jpg?t=1556587503"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1053040/ss_086bd4f3ca87a83d8025e3f537cb2554d1637897.600x338.jpg?t=1553571215",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1053040/ss_086bd4f3ca87a83d8025e3f537cb2554d1637897.1920x1080.jpg?t=1553571215"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1053040/ss_086bd4f3ca87a83d8025e3f537cb2554d1637897.600x338.jpg?t=1556587503",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1053040/ss_086bd4f3ca87a83d8025e3f537cb2554d1637897.1920x1080.jpg?t=1556587503"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1053040/ss_abf7f87e575f1b6869a1ed968d336a56a8cc8dc4.600x338.jpg?t=1553571215",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1053040/ss_abf7f87e575f1b6869a1ed968d336a56a8cc8dc4.1920x1080.jpg?t=1553571215"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1053040/ss_abf7f87e575f1b6869a1ed968d336a56a8cc8dc4.600x338.jpg?t=1556587503",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1053040/ss_abf7f87e575f1b6869a1ed968d336a56a8cc8dc4.1920x1080.jpg?t=1556587503"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1053040/ss_a5e91985f937bda433040601a28cf1a358b97160.600x338.jpg?t=1553571215",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1053040/ss_a5e91985f937bda433040601a28cf1a358b97160.1920x1080.jpg?t=1553571215"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1053040/ss_a5e91985f937bda433040601a28cf1a358b97160.600x338.jpg?t=1556587503",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1053040/ss_a5e91985f937bda433040601a28cf1a358b97160.1920x1080.jpg?t=1556587503"
                 },
                 {
                     "id": 5,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1053040/ss_d933ffc6ff2a0a9f01a1b1a7b12775ac2a112135.600x338.jpg?t=1553571215",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1053040/ss_d933ffc6ff2a0a9f01a1b1a7b12775ac2a112135.1920x1080.jpg?t=1553571215"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1053040/ss_0112c048a2723f32407d52a6389e98b119f3a1cb.600x338.jpg?t=1556587503",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1053040/ss_0112c048a2723f32407d52a6389e98b119f3a1cb.1920x1080.jpg?t=1556587503"
+                },
+                {
+                    "id": 6,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1053040/ss_573869b9f8066f0da4f9b4a3aa3ad4fcf85675d6.600x338.jpg?t=1556587503",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1053040/ss_573869b9f8066f0da4f9b4a3aa3ad4fcf85675d6.1920x1080.jpg?t=1556587503"
+                },
+                {
+                    "id": 7,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1053040/ss_d933ffc6ff2a0a9f01a1b1a7b12775ac2a112135.600x338.jpg?t=1556587503",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1053040/ss_d933ffc6ff2a0a9f01a1b1a7b12775ac2a112135.1920x1080.jpg?t=1556587503"
+                },
+                {
+                    "id": 8,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1053040/ss_a6aacf33b769b218d2ed0cb298832580dc93765c.600x338.jpg?t=1556587503",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1053040/ss_a6aacf33b769b218d2ed0cb298832580dc93765c.1920x1080.jpg?t=1556587503"
                 }
             ],
             "movies": [
                 {
                     "id": 256746155,
                     "name": "Trailer",
-                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256746155/movie.293x165.jpg?t=1553571201",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256746155/movie.293x165.jpg?t=1555520450",
                     "webm": {
-                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256746155/movie480.webm?t=1553571201",
-                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256746155/movie_max.webm?t=1553571201"
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256746155/movie480.webm?t=1555520450",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256746155/movie_max.webm?t=1555520450"
+                    },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256746155/movie480.mp4?t=1555520450",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256746155/movie_max.mp4?t=1555520450"
+                    },
+                    "highlight": true
+                },
+                {
+                    "id": 256747923,
+                    "name": "TrailerPark",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256747923/movie.293x165.jpg?t=1555189978",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256747923/movie480.webm?t=1555189978",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256747923/movie_max.webm?t=1555189978"
+                    },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256747923/movie480.mp4?t=1555189978",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256747923/movie_max.mp4?t=1555189978"
                     },
                     "highlight": true
                 }
             ],
+            "achievements": {
+                "total": 25,
+                "highlighted": [
+                    {
+                        "name": "Flatline",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1053040/6656a45f31a1af9a5194e5774d60abe304e1febb.jpg"
+                    },
+                    {
+                        "name": "Escape!",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1053040/fde4bef95e6abab23b3c97213f8aee2f13237daf.jpg"
+                    },
+                    {
+                        "name": "Dirty Hands",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1053040/e4ac2b5f5ffd28d3deeb1278e077d6ce8fcd4939.jpg"
+                    },
+                    {
+                        "name": "Dirty Threads",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1053040/ce6768fd1ba939d5f2a040c4f0f387bf1f15012c.jpg"
+                    },
+                    {
+                        "name": "Reeking...No Havoc",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1053040/bbca0da62f9f312085f0d67b547fabfc72506df3.jpg"
+                    },
+                    {
+                        "name": "Sis for Brains",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1053040/d4153688429c095bce8714d054c12fdada04fb22.jpg"
+                    },
+                    {
+                        "name": "Bear the Burden",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1053040/7bf27dff97bf9dd9563eb1262a49359c04efc1b6.jpg"
+                    },
+                    {
+                        "name": "Red Handed",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1053040/e4ac2b5f5ffd28d3deeb1278e077d6ce8fcd4939.jpg"
+                    },
+                    {
+                        "name": "Wash and Wear",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1053040/ce6768fd1ba939d5f2a040c4f0f387bf1f15012c.jpg"
+                    },
+                    {
+                        "name": "Odor Eater Disposal",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1053040/bbca0da62f9f312085f0d67b547fabfc72506df3.jpg"
+                    }
+                ]
+            },
             "release_date": {
-                "coming_soon": true,
-                "date": "Apr 2019"
+                "coming_soon": false,
+                "date": "17 Apr, 2019"
             },
             "support_info": {
                 "url": "",
                 "email": "mathmaster.john@gmail.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1053040/page_bg_generated_v6b.jpg?t=1553571215",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1053040/page_bg_generated_v6b.jpg?t=1556587503",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
