@@ -7,11 +7,11 @@
             "steam_appid": 1027600,
             "required_age": 0,
             "is_free": false,
-            "detailed_description": "<strong>Eli Girls - an adventure game in which you have to play for the naked queen.</strong><br><br><strong>You are the ruler of a small female kingdom. But now you are a prisoner of the undead. The lattice is open, but now you need to find a way out of the castle.<br><br><br>Unfortunately all your clothes have been destroyed. But without it, it will be easier to move and pass obstacles. There are special rewards you can get when traveling.</strong>",
-            "about_the_game": "<strong>Eli Girls - an adventure game in which you have to play for the naked queen.</strong><br><br><strong>You are the ruler of a small female kingdom. But now you are a prisoner of the undead. The lattice is open, but now you need to find a way out of the castle.<br><br><br>Unfortunately all your clothes have been destroyed. But without it, it will be easier to move and pass obstacles. There are special rewards you can get when traveling.</strong>",
-            "short_description": "You are the ruler of a small female kingdom. But now you are a prisoner of the undead. The lattice is open, but now you need to find a way out of the castle.",
-            "supported_languages": "English",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1027600/header.jpg?t=1553717716",
+            "detailed_description": "<strong>Eli Girls - an adventure game in which you have to play for the naked queen.</strong><br><br><strong>You are the ruler of a small female kingdom. But now you are a prisoner of the undead. The lattice is open and now you need to find a way out of the castle.<br><br><br>Unfortunately all your clothes have been destroyed. But without it, it will be easier to move and pass obstacles. There are special rewards you can get when traveling.</strong>",
+            "about_the_game": "<strong>Eli Girls - an adventure game in which you have to play for the naked queen.</strong><br><br><strong>You are the ruler of a small female kingdom. But now you are a prisoner of the undead. The lattice is open and now you need to find a way out of the castle.<br><br><br>Unfortunately all your clothes have been destroyed. But without it, it will be easier to move and pass obstacles. There are special rewards you can get when traveling.</strong>",
+            "short_description": "You are the ruler of a small female kingdom. But now you are a prisoner of the undead. The lattice is open and now you need to find a way out of the castle.",
+            "supported_languages": "English, Russian, Simplified Chinese, German, Japanese, Spanish - Spain",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1027600/header.jpg?t=1574843442",
             "website": null,
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 7; 8; 8.1; 10<br></li><li><strong>Processor:</strong> Intel Core i3-530<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> 1GB VRAM, NVIDIA Geforce GTX 260 / ATI Radeon HD 4870<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 5 GB available space<br></li><li><strong>Sound Card:</strong> DirectX Compatible</li></ul>",
@@ -31,7 +31,40 @@
             "publishers": [
                 "Anka"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 239,
+                "final": 239,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "2,39€"
+            },
+            "packages": [
+                341550
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Eli Girls",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 341550,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "Eli Girls - 2,39€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 239
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": false,
@@ -41,6 +74,14 @@
                 {
                     "id": 2,
                     "description": "Single-player"
+                },
+                {
+                    "id": 22,
+                    "description": "Steam Achievements"
+                },
+                {
+                    "id": 18,
+                    "description": "Partial Controller Support"
                 }
             ],
             "genres": [
@@ -51,90 +92,155 @@
                 {
                     "id": "23",
                     "description": "Indie"
-                },
-                {
-                    "id": "70",
-                    "description": "Early Access"
                 }
             ],
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1027600/ss_6110edb86da0894b4771c840b8ebd9aed41a6c2f.600x338.jpg?t=1553717716",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1027600/ss_6110edb86da0894b4771c840b8ebd9aed41a6c2f.1920x1080.jpg?t=1553717716"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1027600/ss_0c42bb49f5b8aa87c9afffd774b15d0fe0379ee0.600x338.jpg?t=1574843442",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1027600/ss_0c42bb49f5b8aa87c9afffd774b15d0fe0379ee0.1920x1080.jpg?t=1574843442"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1027600/ss_9bf18098e6de56703487eb03b120e7b6aacdca80.600x338.jpg?t=1553717716",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1027600/ss_9bf18098e6de56703487eb03b120e7b6aacdca80.1920x1080.jpg?t=1553717716"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1027600/ss_7a2f6b2cce45eadffa51d14fcd3490537d21dec2.600x338.jpg?t=1574843442",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1027600/ss_7a2f6b2cce45eadffa51d14fcd3490537d21dec2.1920x1080.jpg?t=1574843442"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1027600/ss_eb900ab4689e9dd8f011afa137db5c49bbb579a5.600x338.jpg?t=1553717716",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1027600/ss_eb900ab4689e9dd8f011afa137db5c49bbb579a5.1920x1080.jpg?t=1553717716"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1027600/ss_9aab2b1ad41df7647bcb2fff451b062ddde4a5c5.600x338.jpg?t=1574843442",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1027600/ss_9aab2b1ad41df7647bcb2fff451b062ddde4a5c5.1920x1080.jpg?t=1574843442"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1027600/ss_e9ca8ebcbbc51e7e48cfd76af669a52e8dbc2c04.600x338.jpg?t=1553717716",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1027600/ss_e9ca8ebcbbc51e7e48cfd76af669a52e8dbc2c04.1920x1080.jpg?t=1553717716"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1027600/ss_9374583c56d576d4d10022331b33ccfc7b05d3bf.600x338.jpg?t=1574843442",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1027600/ss_9374583c56d576d4d10022331b33ccfc7b05d3bf.1920x1080.jpg?t=1574843442"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1027600/ss_7de2d3d3f801e55bdfa3b6507a57b909eb8832e7.600x338.jpg?t=1553717716",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1027600/ss_7de2d3d3f801e55bdfa3b6507a57b909eb8832e7.1920x1080.jpg?t=1553717716"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1027600/ss_df5a7d1918a53fea75bafdb4a455e596a58f99fb.600x338.jpg?t=1574843442",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1027600/ss_df5a7d1918a53fea75bafdb4a455e596a58f99fb.1920x1080.jpg?t=1574843442"
                 },
                 {
                     "id": 5,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1027600/ss_97dd266e2318b02db4e8efc8c6d0a13d7bf788ab.600x338.jpg?t=1553717716",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1027600/ss_97dd266e2318b02db4e8efc8c6d0a13d7bf788ab.1920x1080.jpg?t=1553717716"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1027600/ss_028a24be1b765eec9a39bc808a2cfa43fe04e102.600x338.jpg?t=1574843442",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1027600/ss_028a24be1b765eec9a39bc808a2cfa43fe04e102.1920x1080.jpg?t=1574843442"
                 },
                 {
                     "id": 6,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1027600/ss_bd262828649ea50420bf1ae079961b439ccc9615.600x338.jpg?t=1553717716",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1027600/ss_bd262828649ea50420bf1ae079961b439ccc9615.1920x1080.jpg?t=1553717716"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1027600/ss_dc2dbdc5386a678c33845c919f6e9bb6cfa79725.600x338.jpg?t=1574843442",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1027600/ss_dc2dbdc5386a678c33845c919f6e9bb6cfa79725.1920x1080.jpg?t=1574843442"
                 },
                 {
                     "id": 7,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1027600/ss_5186f3e6d5d9354c121661b501ed1d89b73fbf77.600x338.jpg?t=1553717716",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1027600/ss_5186f3e6d5d9354c121661b501ed1d89b73fbf77.1920x1080.jpg?t=1553717716"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1027600/ss_c5dac2713ca0214170727f36a25685dce802d3ce.600x338.jpg?t=1574843442",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1027600/ss_c5dac2713ca0214170727f36a25685dce802d3ce.1920x1080.jpg?t=1574843442"
                 },
                 {
                     "id": 8,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1027600/ss_38ecc05254632d38ceba19a53e596d9db3fcca67.600x338.jpg?t=1553717716",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1027600/ss_38ecc05254632d38ceba19a53e596d9db3fcca67.1920x1080.jpg?t=1553717716"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1027600/ss_fcba012721f7e9f1d86315e1bd09e0c4f9e0d0dd.600x338.jpg?t=1574843442",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1027600/ss_fcba012721f7e9f1d86315e1bd09e0c4f9e0d0dd.1920x1080.jpg?t=1574843442"
                 },
                 {
                     "id": 9,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1027600/ss_43e9c39bdc481971f0e2ba74ca7e7e5db86371aa.600x338.jpg?t=1553717716",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1027600/ss_43e9c39bdc481971f0e2ba74ca7e7e5db86371aa.1920x1080.jpg?t=1553717716"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1027600/ss_3174e6ee9434b5cedec2655230e0a2a016c3b032.600x338.jpg?t=1574843442",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1027600/ss_3174e6ee9434b5cedec2655230e0a2a016c3b032.1920x1080.jpg?t=1574843442"
                 },
                 {
                     "id": 10,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1027600/ss_a92596ec575bb8632d52257797e99b571b2e3185.600x338.jpg?t=1553717716",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1027600/ss_a92596ec575bb8632d52257797e99b571b2e3185.1920x1080.jpg?t=1553717716"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1027600/ss_1318dd03fdb73fafae903c0a3057e6dc727eaa89.600x338.jpg?t=1574843442",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1027600/ss_1318dd03fdb73fafae903c0a3057e6dc727eaa89.1920x1080.jpg?t=1574843442"
+                },
+                {
+                    "id": 11,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1027600/ss_b65c1baef91026e8d8711d2ef107f0f58a6b7678.600x338.jpg?t=1574843442",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1027600/ss_b65c1baef91026e8d8711d2ef107f0f58a6b7678.1920x1080.jpg?t=1574843442"
+                },
+                {
+                    "id": 12,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1027600/ss_029d37bb7cbf6a43280ed69c81fd33d66747ae91.600x338.jpg?t=1574843442",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1027600/ss_029d37bb7cbf6a43280ed69c81fd33d66747ae91.1920x1080.jpg?t=1574843442"
+                },
+                {
+                    "id": 13,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1027600/ss_a950916d0868ee85efae744669320cf3e5064e97.600x338.jpg?t=1574843442",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1027600/ss_a950916d0868ee85efae744669320cf3e5064e97.1920x1080.jpg?t=1574843442"
+                },
+                {
+                    "id": 14,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1027600/ss_c083fed33d771f8288979df991adee3899161b7f.600x338.jpg?t=1574843442",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1027600/ss_c083fed33d771f8288979df991adee3899161b7f.1920x1080.jpg?t=1574843442"
                 }
             ],
             "movies": [
                 {
-                    "id": 256745462,
-                    "name": "Trailer Gameplay (Temporary)",
-                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256745462/movie.293x165.jpg?t=1552685495",
+                    "id": 256761727,
+                    "name": "AbandonedCitadel_Demo",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256761727/movie.293x165.jpg?t=1568254307",
                     "webm": {
-                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256745462/movie480.webm?t=1552685495",
-                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256745462/movie_max.webm?t=1552685495"
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256761727/movie480.webm?t=1568254307",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256761727/movie_max.webm?t=1568254307"
+                    },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256761727/movie480.mp4?t=1568254307",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256761727/movie_max.mp4?t=1568254307"
                     },
                     "highlight": true
                 }
             ],
+            "achievements": {
+                "total": 12,
+                "highlighted": [
+                    {
+                        "name": "Prisoner",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1027600/d18ff95b871e1bf43cd7aecdb8b620f975d78fb1.jpg"
+                    },
+                    {
+                        "name": "Art",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1027600/fe7f58456e27bf7119bfee8d087ce56767fbb67a.jpg"
+                    },
+                    {
+                        "name": "Bibliophile",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1027600/8d242070868af88e600e2fc95881f5a30330c2a6.jpg"
+                    },
+                    {
+                        "name": "Interlocutor",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1027600/82c21281e7da76241f3676db464fd82caa870cdf.jpg"
+                    },
+                    {
+                        "name": "Finder",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1027600/cc7952d03c5c2a23a2b3729dbe8df98073caf5c1.jpg"
+                    },
+                    {
+                        "name": " Key keeper",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1027600/43845986543de701d14a9e70af95308a8353904b.jpg"
+                    },
+                    {
+                        "name": "Use teleport",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1027600/0ae11200d41fe1c713c5531f0516fbd4ad1868b6.jpg"
+                    },
+                    {
+                        "name": "Warrior",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1027600/afda6a7c8f9817971856cc8968578bceae9d22e4.jpg"
+                    },
+                    {
+                        "name": "Forester",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1027600/7b4234c7c11bcd9b6971cfea822a733485a501c5.jpg"
+                    },
+                    {
+                        "name": " Slaves",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1027600/2489fedde3dce2840b8dfed11eed63d3bb4989c1.jpg"
+                    }
+                ]
+            },
             "release_date": {
-                "coming_soon": true,
-                "date": "1 Apr, 2019"
+                "coming_soon": false,
+                "date": "22 Jul, 2019"
             },
             "support_info": {
                 "url": "",
                 "email": "lisascaron@gmail.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1027600/page_bg_generated_v6b.jpg?t=1553717716",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1027600/page_bg_generated_v6b.jpg?t=1574843442",
             "content_descriptors": {
                 "ids": [
                     1,
