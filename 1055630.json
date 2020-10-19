@@ -18,7 +18,7 @@
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1055630/header.jpg?t=1553703934",
             "website": null,
             "pc_requirements": {
-                "minimum": "<strong>Mínimos:</strong><br><ul class=\"bb_ul\"><li><strong>SO:</strong> Microsoft Windows<br></li><li><strong>Processador:</strong> Intel Pentium III 800 MHz<br></li><li><strong>Memória:</strong> 512 MB de RAM<br></li><li><strong>Placa de vídeo:</strong> DirectX or OpenGL compatible card<br></li><li><strong>Armazenamento:</strong> 200 MB de espaço disponível<br></li><li><strong>Placa de som:</strong> DirectSound Compatible<br></li><li><strong>Outras observações:</strong> Keyboard, Mouse</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Microsoft Windows<br></li><li><strong>Processor:</strong> Intel Pentium III 800 MHz<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> DirectX or OpenGL compatible card<br></li><li><strong>Storage:</strong> 200 MB available space<br></li><li><strong>Sound Card:</strong> DirectSound Compatible<br></li><li><strong>Additional Notes:</strong> Keyboard, Mouse</li></ul>"
             },
             "mac_requirements": [],
             "linux_requirements": [],
@@ -31,10 +31,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 329,
-                "final": 197,
-                "discount_percent": 40,
-                "initial_formatted": "3,29€",
-                "final_formatted": "1,97€"
+                "final": 329,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "3,29€"
             },
             "packages": [
                 352456
@@ -51,13 +51,13 @@
                     "subs": [
                         {
                             "packageid": 352456,
-                            "percent_savings_text": "-40%",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Hentai Shooter 2: Uncensored Edition - <span class=\"discount_original_price\">3,29€</span> 1,97€",
+                            "option_text": "Hentai Shooter 2: Uncensored Edition - 3,29€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 197
+                            "price_in_cents_with_discount": 329
                         }
                     ]
                 }
@@ -124,12 +124,13 @@
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/256746151/movie480.webm?t=1553703605",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/256746151/movie_max.webm?t=1553703605"
                     },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256746151/movie480.mp4?t=1553703605",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256746151/movie_max.mp4?t=1553703605"
+                    },
                     "highlight": true
                 }
             ],
-            "achievements": {
-                "total": 0
-            },
             "release_date": {
                 "coming_soon": false,
                 "date": "27 Mar, 2019"
