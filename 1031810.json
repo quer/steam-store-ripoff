@@ -7,8 +7,8 @@
             "steam_appid": 1031810,
             "required_age": 0,
             "is_free": false,
-            "detailed_description": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/1031810/extras/kandidat.gif?t=1551382241\" ><br>КАНДИДАТ - This is a game where YOU are a presidential candidate, you have to defeat other candidates and get into the top 1 and become president.<br><br>In the game you expect Easter eggs and achievements<br>The game has a table of records, who will win?<br><br>КАНДИДАТ - This is an easy clicker where you have to make money for yourself, and with the help of them to promote your rating.<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/1031810/extras/ezgif.com-crop-2.gif?t=1551382241\" >",
-            "about_the_game": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/1031810/extras/kandidat.gif?t=1551382241\" ><br>КАНДИДАТ - This is a game where YOU are a presidential candidate, you have to defeat other candidates and get into the top 1 and become president.<br><br>In the game you expect Easter eggs and achievements<br>The game has a table of records, who will win?<br><br>КАНДИДАТ - This is an easy clicker where you have to make money for yourself, and with the help of them to promote your rating.<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/1031810/extras/ezgif.com-crop-2.gif?t=1551382241\" >",
+            "detailed_description": "<img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/1031810/extras/kandidat.gif?t=1551382241\" /><br>КАНДИДАТ - This is a game where YOU are a presidential candidate, you have to defeat other candidates and get into the top 1 and become president.<br><br>In the game you expect Easter eggs and achievements<br>The game has a table of records, who will win?<br><br>КАНДИДАТ - This is an easy clicker where you have to make money for yourself, and with the help of them to promote your rating.<br><img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/1031810/extras/ezgif.com-crop-2.gif?t=1551382241\" />",
+            "about_the_game": "<img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/1031810/extras/kandidat.gif?t=1551382241\" /><br>КАНДИДАТ - This is a game where YOU are a presidential candidate, you have to defeat other candidates and get into the top 1 and become president.<br><br>In the game you expect Easter eggs and achievements<br>The game has a table of records, who will win?<br><br>КАНДИДАТ - This is an easy clicker where you have to make money for yourself, and with the help of them to promote your rating.<br><img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/1031810/extras/ezgif.com-crop-2.gif?t=1551382241\" />",
             "short_description": "КАНДИДАТ - This is a game where YOU are a presidential candidate, you have to defeat other candidates and get into the top 1 and become president.",
             "supported_languages": "Russian, English",
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1031810/header.jpg?t=1551382241",
@@ -27,10 +27,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 79,
-                "final": 79,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "0,79€"
+                "final": 43,
+                "discount_percent": 46,
+                "initial_formatted": "0,79€",
+                "final_formatted": "0,43€"
             },
             "packages": [
                 343251
@@ -47,13 +47,13 @@
                     "subs": [
                         {
                             "packageid": 343251,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-46% ",
                             "percent_savings": 0,
-                            "option_text": "КАНДИДАТ - 0,79€",
+                            "option_text": "КАНДИДАТ - <span class=\"discount_original_price\">0,79€</span> 0,43€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 79
+                            "price_in_cents_with_discount": 43
                         }
                     ]
                 }
@@ -113,6 +113,10 @@
                     "webm": {
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/256744210/movie480.webm?t=1551365121",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/256744210/movie_max.webm?t=1551365121"
+                    },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256744210/movie480.mp4?t=1551365121",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256744210/movie_max.mp4?t=1551365121"
                     },
                     "highlight": true
                 }
