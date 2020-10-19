@@ -51,7 +51,7 @@
                     "subs": [
                         {
                             "packageid": 8049,
-                            "percent_savings_text": "",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
                             "option_text": "BEEP - 1,99€",
                             "option_description": "",
@@ -143,14 +143,15 @@
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/2039464/movie480.webm?t=1447374999",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/2039464/movie_max.webm?t=1447374999"
                     },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/2039464/movie480.mp4?t=1447374999",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/2039464/movie_max.mp4?t=1447374999"
+                    },
                     "highlight": true
                 }
             ],
             "recommendations": {
-                "total": 4121
-            },
-            "achievements": {
-                "total": 0
+                "total": 4088
             },
             "release_date": {
                 "coming_soon": false,
