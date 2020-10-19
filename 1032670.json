@@ -59,7 +59,7 @@
                     "subs": [
                         {
                             "packageid": 343551,
-                            "percent_savings_text": "",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
                             "option_text": "FOCUS on YOU - 33,99€",
                             "option_description": "",
@@ -123,6 +123,10 @@
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/256753222/movie480.webm?t=1575891937",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/256753222/movie_max.webm?t=1575891937"
                     },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256753222/movie480.mp4?t=1575891937",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256753222/movie_max.mp4?t=1575891937"
+                    },
                     "highlight": true
                 },
                 {
@@ -132,6 +136,10 @@
                     "webm": {
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/256748372/movie480.webm?t=1560835284",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/256748372/movie_max.webm?t=1560835284"
+                    },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256748372/movie480.mp4?t=1560835284",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256748372/movie_max.mp4?t=1560835284"
                     },
                     "highlight": true
                 },
@@ -143,14 +151,18 @@
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/256753012/movie480.webm?t=1560149511",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/256753012/movie_max.webm?t=1560149511"
                     },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256753012/movie480.mp4?t=1560149511",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256753012/movie_max.mp4?t=1560149511"
+                    },
                     "highlight": true
                 }
             ],
             "recommendations": {
-                "total": 178
+                "total": 223
             },
             "achievements": {
-                "total": 25,
+                "total": 33,
                 "highlighted": [
                     {
                         "name": "Woof! Woof!",
