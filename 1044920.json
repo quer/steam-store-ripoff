@@ -6,7 +6,7 @@
             "name": "Grand Battle",
             "steam_appid": 1044920,
             "required_age": 0,
-            "is_free": false,
+            "is_free": true,
             "controller_support": "full",
             "dlc": [
                 1047900
@@ -15,8 +15,8 @@
             "about_the_game": "Are you ready for an intense fully featured Action RPG?<br>A meteor has hit the planet and monsters have started to appear.<br>It is time to fight your way to the end and figure out what is going on!<h2 class=\"bb_tag\">Features</h2><strong>Intense Action</strong> – Featuring ten playable characters each with their own combat play style as they fight to save the world.<br><strong>Battle through the world</strong> – Battle through many beautiful fully themed areas to achieve your goal.<br><strong>Switch it up!</strong> – With the ability to swap to any party member instantly you are always in control!<br><strong>Play it your way</strong> – Make your own party of 4 and play through your own way.<br><strong>Nine Classes</strong> – Great Axe, Elemental Sword, Sword Master, Rogue, Great Sword, Axe, Staff Magic, Elemental Golem and Bow &amp; Arrow<br><strong>Craft, Craft, Craft</strong> – All monsters have a chance to drop a unique crafting material that can be used to enhance your equipment!<br><strong>Play it with your friends</strong> – Get some tasty food and play through with a friend or 3! Supports up to 4 players! Old school couch style.<br><strong>Action Focused</strong> – Always be doing something, 99% of the time you are in control!<br><strong>Grow your Heroes</strong> – Learn abilities from the equipment you find and change the way your heroes fight!<br><strong>Epic Soundscape</strong> – An amazing fully thematic soundtrack coupled with amazing sound effects, brings the world to life!<br><strong>Over 100 Quests</strong> – Always be working towards an objective, with over 100 quests you have your pick of what to do.<br><strong>Control AI</strong> – Tell your AI party members how they should act! Should they do nothing, should they only use basic attacks? It is up to you!",
             "short_description": "In this intense fully featured Action RPG, players fight with multiple heroes to save the world. And sometimes they chill and do some crafting!",
             "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1044920/header.jpg?t=1553324142",
-            "website": "https://grandbattleworld.com",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1044920/header.jpg?t=1578603473",
+            "website": "https://discord.gg/b6pmhkc",
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> WINDOWS® 7, 8.1, 10 (64-BIT Required)<br></li><li><strong>Processor:</strong> Intel® Core™ i5-3550, AMD FX™-6300, or better<br></li><li><strong>Memory:</strong> 6 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA® GeForce® GTX 760 or AMD Radeon™ R7 260x with 2GB Video RAM, or bette<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Storage:</strong> 5 GB available space<br></li><li><strong>Additional Notes:</strong> *Xinput support Controllers recommended. Xbox One, Xbox 360 controllers recommended.</li></ul>",
                 "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> WINDOWS® 7, 8.1, 10 (64-BIT Required)<br></li><li><strong>Processor:</strong> Intel® Core™ i5-3550, AMD FX™-6300, or better<br></li><li><strong>Memory:</strong> 6 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA® GeForce® GTX 1060 with 6GB VRAM, AMD Radeon™ RX 480 with 8GB VRAM, or better<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 10 GB available space<br></li><li><strong>Additional Notes:</strong> *Xinput support Controllers recommended. Xbox One, Xbox 360 controllers recommended.</li></ul>"
@@ -25,51 +25,12 @@
             "linux_requirements": [],
             "legal_notice": "©2019 GRAND BATTLE. ALL RIGHTS RESERVED.",
             "developers": [
-                "AKC"
+                "LIONHEART GAMING"
             ],
             "publishers": [
-                "AKC"
+                ""
             ],
-            "demos": [
-                {
-                    "appid": 1044990,
-                    "description": ""
-                }
-            ],
-            "price_overview": {
-                "currency": "EUR",
-                "initial": 1679,
-                "final": 1679,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "16,79€"
-            },
-            "packages": [
-                348211
-            ],
-            "package_groups": [
-                {
-                    "name": "default",
-                    "title": "Buy Grand Battle",
-                    "description": "",
-                    "selection_text": "Select a purchase option",
-                    "save_text": "",
-                    "display_type": 0,
-                    "is_recurring_subscription": "false",
-                    "subs": [
-                        {
-                            "packageid": 348211,
-                            "percent_savings_text": "",
-                            "percent_savings": 0,
-                            "option_text": "Grand Battle - 16,79€",
-                            "option_description": "",
-                            "can_get_free_license": "0",
-                            "is_free_license": false,
-                            "price_in_cents_with_discount": 1679
-                        }
-                    ]
-                }
-            ],
+            "package_groups": [],
             "platforms": {
                 "windows": true,
                 "mac": false,
@@ -85,8 +46,12 @@
                     "description": "Multi-player"
                 },
                 {
+                    "id": 49,
+                    "description": "PvP"
+                },
+                {
                     "id": 37,
-                    "description": "Local Multi-Player"
+                    "description": "Shared/Split Screen PvP"
                 },
                 {
                     "id": 9,
@@ -94,7 +59,7 @@
                 },
                 {
                     "id": 39,
-                    "description": "Local Co-op"
+                    "description": "Shared/Split Screen Co-op"
                 },
                 {
                     "id": 24,
@@ -107,6 +72,10 @@
                 {
                     "id": 28,
                     "description": "Full controller support"
+                },
+                {
+                    "id": 44,
+                    "description": "Remote Play Together"
                 }
             ],
             "genres": [
@@ -115,8 +84,8 @@
                     "description": "Action"
                 },
                 {
-                    "id": "23",
-                    "description": "Indie"
+                    "id": "37",
+                    "description": "Free to Play"
                 },
                 {
                     "id": "3",
@@ -126,33 +95,33 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1044920/ss_791e6a0d2a3b39a383294b1db30550dd46d39e71.600x338.jpg?t=1553324142",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1044920/ss_791e6a0d2a3b39a383294b1db30550dd46d39e71.1920x1080.jpg?t=1553324142"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1044920/ss_791e6a0d2a3b39a383294b1db30550dd46d39e71.600x338.jpg?t=1578603473",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1044920/ss_791e6a0d2a3b39a383294b1db30550dd46d39e71.1920x1080.jpg?t=1578603473"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1044920/ss_414fb5aa6e3de9a816adaae82796011d843d6fc0.600x338.jpg?t=1553324142",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1044920/ss_414fb5aa6e3de9a816adaae82796011d843d6fc0.1920x1080.jpg?t=1553324142"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1044920/ss_414fb5aa6e3de9a816adaae82796011d843d6fc0.600x338.jpg?t=1578603473",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1044920/ss_414fb5aa6e3de9a816adaae82796011d843d6fc0.1920x1080.jpg?t=1578603473"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1044920/ss_12f2953bc4d36c33a39324442c24127d452df599.600x338.jpg?t=1553324142",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1044920/ss_12f2953bc4d36c33a39324442c24127d452df599.1920x1080.jpg?t=1553324142"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1044920/ss_12f2953bc4d36c33a39324442c24127d452df599.600x338.jpg?t=1578603473",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1044920/ss_12f2953bc4d36c33a39324442c24127d452df599.1920x1080.jpg?t=1578603473"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1044920/ss_c4a846e8bbe71014d29a2bc7f3fd412de488f2d1.600x338.jpg?t=1553324142",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1044920/ss_c4a846e8bbe71014d29a2bc7f3fd412de488f2d1.1920x1080.jpg?t=1553324142"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1044920/ss_c4a846e8bbe71014d29a2bc7f3fd412de488f2d1.600x338.jpg?t=1578603473",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1044920/ss_c4a846e8bbe71014d29a2bc7f3fd412de488f2d1.1920x1080.jpg?t=1578603473"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1044920/ss_75f08960ac51eba356918d4f05eec519b613b705.600x338.jpg?t=1553324142",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1044920/ss_75f08960ac51eba356918d4f05eec519b613b705.1920x1080.jpg?t=1553324142"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1044920/ss_75f08960ac51eba356918d4f05eec519b613b705.600x338.jpg?t=1578603473",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1044920/ss_75f08960ac51eba356918d4f05eec519b613b705.1920x1080.jpg?t=1578603473"
                 },
                 {
                     "id": 5,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1044920/ss_24591b544e0117be6ddf639f3492e3708f588bb7.600x338.jpg?t=1553324142",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1044920/ss_24591b544e0117be6ddf639f3492e3708f588bb7.1920x1080.jpg?t=1553324142"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1044920/ss_24591b544e0117be6ddf639f3492e3708f588bb7.600x338.jpg?t=1578603473",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1044920/ss_24591b544e0117be6ddf639f3492e3708f588bb7.1920x1080.jpg?t=1578603473"
                 }
             ],
             "movies": [
@@ -163,6 +132,10 @@
                     "webm": {
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/256746080/movie480.webm?t=1553324138",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/256746080/movie_max.webm?t=1553324138"
+                    },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256746080/movie480.mp4?t=1553324138",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256746080/movie_max.mp4?t=1553324138"
                     },
                     "highlight": true
                 }
@@ -220,7 +193,7 @@
                 "url": "https://grandbattleworld.com",
                 "email": "grandbattleworld@gmail.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1044920/page_bg_generated_v6b.jpg?t=1553324142",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1044920/page_bg_generated_v6b.jpg?t=1578603473",
             "content_descriptors": {
                 "ids": [
                     2,

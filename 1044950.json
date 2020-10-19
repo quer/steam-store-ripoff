@@ -29,11 +29,11 @@
             ],
             "price_overview": {
                 "currency": "EUR",
-                "initial": 79,
-                "final": 47,
-                "discount_percent": 41,
-                "initial_formatted": "0,79€",
-                "final_formatted": "0,47€"
+                "initial": 399,
+                "final": 399,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "3,99€"
             },
             "packages": [
                 348224
@@ -50,13 +50,13 @@
                     "subs": [
                         {
                             "packageid": 348224,
-                            "percent_savings_text": "-41%",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Picros Fairytale. Hansel and Gretel - <span class=\"discount_original_price\">0,79€</span> 0,47€",
+                            "option_text": "Picros Fairytale. Hansel and Gretel - 3,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 47
+                            "price_in_cents_with_discount": 399
                         }
                     ]
                 }
@@ -135,6 +135,10 @@
                     "webm": {
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/256744680/movie480.webm?t=1552297172",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/256744680/movie_max.webm?t=1552297172"
+                    },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256744680/movie480.mp4?t=1552297172",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256744680/movie_max.mp4?t=1552297172"
                     },
                     "highlight": true
                 }

@@ -3,15 +3,15 @@
         "success": true,
         "data": {
             "type": "game",
-            "name": "Россия 2019",
+            "name": "Russia Roguelike",
             "steam_appid": 1045010,
             "required_age": 0,
             "is_free": false,
-            "detailed_description": "Hardcore rouge-like game about journey from faraway place to Moscow. Use your garden tools to clean your path from mutants.<br><ul class=\"bb_ul\"><li> - 3 playable characters<br></li><li> - Loot<br></li><li> - Evil enemies<br></li><li> - TV propaganda<br></li><li> - Level up<br></li><li> - Wooden toilet</li></ul><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/1045010/extras/1.png?t=1553713801\" >",
-            "about_the_game": "Hardcore rouge-like game about journey from faraway place to Moscow. Use your garden tools to clean your path from mutants.<br><ul class=\"bb_ul\"><li> - 3 playable characters<br></li><li> - Loot<br></li><li> - Evil enemies<br></li><li> - TV propaganda<br></li><li> - Level up<br></li><li> - Wooden toilet</li></ul><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/1045010/extras/1.png?t=1553713801\" >",
-            "short_description": "Rouge-like game about a peasant, relised TV lies to him. He decided to explain that Russia is better than TV tells about it. This game is about journey from faraway place to Moscow. Use your garden tools to clean your path from mutants.",
-            "supported_languages": "Russian",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1045010/header.jpg?t=1553713801",
+            "detailed_description": "Hardcore rouge-like game about journey from faraway place to Moscow. Use your garden tools to clean your path from mutants.<br><ul class=\"bb_ul\"><li> - 3 playable characters<br></li><li> - 100+ items<br></li><li> - 82 Russian real cities<br></li><li> - TV propaganda<br></li><li> - 3 seasons. Summer, Winter, Off-Season<br></li><li> - Deadly bosses<br></li><li> - Become liberal or communist<br></li><li> - Wooden toilet</li></ul><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/1045010/extras/1.png?t=1592408373\" />",
+            "about_the_game": "Hardcore rouge-like game about journey from faraway place to Moscow. Use your garden tools to clean your path from mutants.<br><ul class=\"bb_ul\"><li> - 3 playable characters<br></li><li> - 100+ items<br></li><li> - 82 Russian real cities<br></li><li> - TV propaganda<br></li><li> - 3 seasons. Summer, Winter, Off-Season<br></li><li> - Deadly bosses<br></li><li> - Become liberal or communist<br></li><li> - Wooden toilet</li></ul><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/1045010/extras/1.png?t=1592408373\" />",
+            "short_description": "Rougelike game about a peasant, relised TV lies to him. He decided to explain that Russia is better than TV tells about it. This game is about journey from faraway place to Moscow. Use your garden tools to clean your path from mutants.",
+            "supported_languages": "Russian, English",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1045010/header.jpg?t=1592408373",
             "website": null,
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 or later<br></li><li><strong>Processor:</strong> Intel core i3 or equal<br></li><li><strong>Memory:</strong> 256 MB RAM<br></li><li><strong>Graphics:</strong> GeForce 460mx or equal<br></li><li><strong>Storage:</strong> 500 MB available space<br></li><li><strong>Sound Card:</strong> Not nescessary</li></ul>"
@@ -24,7 +24,40 @@
             "publishers": [
                 "Ольга"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 399,
+                "final": 399,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "3,99€"
+            },
+            "packages": [
+                348243
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Russia Roguelike",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 348243,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "Russia RogueLike - 3,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 399
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": false,
@@ -34,6 +67,10 @@
                 {
                     "id": 2,
                     "description": "Single-player"
+                },
+                {
+                    "id": 22,
+                    "description": "Steam Achievements"
                 }
             ],
             "genres": [
@@ -57,57 +94,153 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1045010/ss_904d5f7b8e5f1c775753b9fdccc960bc48c12700.600x338.jpg?t=1553713801",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1045010/ss_904d5f7b8e5f1c775753b9fdccc960bc48c12700.1920x1080.jpg?t=1553713801"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1045010/ss_7b98d34290f21472045a67bd3606d14431f2776f.600x338.jpg?t=1592408373",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1045010/ss_7b98d34290f21472045a67bd3606d14431f2776f.1920x1080.jpg?t=1592408373"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1045010/ss_0dc7729fe674fe1e904bb8b6fa0835d908c6d9f8.600x338.jpg?t=1553713801",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1045010/ss_0dc7729fe674fe1e904bb8b6fa0835d908c6d9f8.1920x1080.jpg?t=1553713801"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1045010/ss_51914f4dd0250c64664949f8358fcd952401c868.600x338.jpg?t=1592408373",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1045010/ss_51914f4dd0250c64664949f8358fcd952401c868.1920x1080.jpg?t=1592408373"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1045010/ss_0eae34a8d3fbac4ab084548bbc5c77e4af662eb0.600x338.jpg?t=1553713801",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1045010/ss_0eae34a8d3fbac4ab084548bbc5c77e4af662eb0.1920x1080.jpg?t=1553713801"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1045010/ss_8987512d1140c94ee855e5914ccc99a7eabc8942.600x338.jpg?t=1592408373",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1045010/ss_8987512d1140c94ee855e5914ccc99a7eabc8942.1920x1080.jpg?t=1592408373"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1045010/ss_668af70c050efa7b996e1ea4616ac4e0f78c65c5.600x338.jpg?t=1553713801",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1045010/ss_668af70c050efa7b996e1ea4616ac4e0f78c65c5.1920x1080.jpg?t=1553713801"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1045010/ss_cd70d25416a7a5af2a06674ea3b89be7d94a01a2.600x338.jpg?t=1592408373",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1045010/ss_cd70d25416a7a5af2a06674ea3b89be7d94a01a2.1920x1080.jpg?t=1592408373"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1045010/ss_386e90ff94f79726e9ae49e97301df7eb566bcb3.600x338.jpg?t=1553713801",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1045010/ss_386e90ff94f79726e9ae49e97301df7eb566bcb3.1920x1080.jpg?t=1553713801"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1045010/ss_8c80246eba18ca1d31afa6872f10208fa58d5948.600x338.jpg?t=1592408373",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1045010/ss_8c80246eba18ca1d31afa6872f10208fa58d5948.1920x1080.jpg?t=1592408373"
+                },
+                {
+                    "id": 5,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1045010/ss_ce9faaae073716f67d6a83ba9b588cc5a1f1edc7.600x338.jpg?t=1592408373",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1045010/ss_ce9faaae073716f67d6a83ba9b588cc5a1f1edc7.1920x1080.jpg?t=1592408373"
+                },
+                {
+                    "id": 6,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1045010/ss_5db27c6d6ac671c59a14a8ccb4bc839fb43d6006.600x338.jpg?t=1592408373",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1045010/ss_5db27c6d6ac671c59a14a8ccb4bc839fb43d6006.1920x1080.jpg?t=1592408373"
+                },
+                {
+                    "id": 7,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1045010/ss_1eb4b71a2b1956f40c38bbec0020db9b6ee9c93c.600x338.jpg?t=1592408373",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1045010/ss_1eb4b71a2b1956f40c38bbec0020db9b6ee9c93c.1920x1080.jpg?t=1592408373"
+                },
+                {
+                    "id": 8,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1045010/ss_e65374ae620df766f2698ab3f1562508edd3ad12.600x338.jpg?t=1592408373",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1045010/ss_e65374ae620df766f2698ab3f1562508edd3ad12.1920x1080.jpg?t=1592408373"
+                },
+                {
+                    "id": 9,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1045010/ss_c211ee09c28d0700ff01c1a6bc00d3dc78feef66.600x338.jpg?t=1592408373",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1045010/ss_c211ee09c28d0700ff01c1a6bc00d3dc78feef66.1920x1080.jpg?t=1592408373"
+                },
+                {
+                    "id": 10,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1045010/ss_00182f99578d2514cf97ff638557271f861b03f2.600x338.jpg?t=1592408373",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1045010/ss_00182f99578d2514cf97ff638557271f861b03f2.1920x1080.jpg?t=1592408373"
+                },
+                {
+                    "id": 11,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1045010/ss_bce5b2987cef23af5219cb4008085514918e253e.600x338.jpg?t=1592408373",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1045010/ss_bce5b2987cef23af5219cb4008085514918e253e.1920x1080.jpg?t=1592408373"
+                },
+                {
+                    "id": 12,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1045010/ss_342fd232564c9934c8c092903a8319b9378d78d2.600x338.jpg?t=1592408373",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1045010/ss_342fd232564c9934c8c092903a8319b9378d78d2.1920x1080.jpg?t=1592408373"
+                },
+                {
+                    "id": 13,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1045010/ss_9e010e663e24101baa8d7510d507d704e13f7b67.600x338.jpg?t=1592408373",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1045010/ss_9e010e663e24101baa8d7510d507d704e13f7b67.1920x1080.jpg?t=1592408373"
+                },
+                {
+                    "id": 14,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1045010/ss_39ed253ddaafa2b478c119d5172a39754e3ae596.600x338.jpg?t=1592408373",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1045010/ss_39ed253ddaafa2b478c119d5172a39754e3ae596.1920x1080.jpg?t=1592408373"
                 }
             ],
             "movies": [
                 {
-                    "id": 256746497,
-                    "name": "1",
-                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256746497/movie.293x165.jpg?t=1553713115",
+                    "id": 256789650,
+                    "name": "eng",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256789650/movie.293x165.jpg?t=1592373113",
                     "webm": {
-                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256746497/movie480.webm?t=1553713115",
-                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256746497/movie_max.webm?t=1553713115"
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256789650/movie480_vp9.webm?t=1592373113",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256789650/movie_max_vp9.webm?t=1592373113"
+                    },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256789650/movie480.mp4?t=1592373113",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256789650/movie_max.mp4?t=1592373113"
                     },
                     "highlight": true
                 }
             ],
+            "achievements": {
+                "total": 54,
+                "highlighted": [
+                    {
+                        "name": "Farewell to the past",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1045010/2fa08a933af0297b477efd30be059de94fcc273b.jpg"
+                    },
+                    {
+                        "name": "Spring gardens",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1045010/202c99b250f39839f1f1a798ed9d81f35f8d4d68.jpg"
+                    },
+                    {
+                        "name": "Anonymous",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1045010/76af2efd2a5fb55f95d66755058aac68fcc89617.jpg"
+                    },
+                    {
+                        "name": "Peasant",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1045010/d117b65487ff13d1be5d9cd76f51df66393373ee.jpg"
+                    },
+                    {
+                        "name": "Brain here",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1045010/603ca7db4ca739b38b4c41c03b8832fb5556b0f4.jpg"
+                    },
+                    {
+                        "name": "Do you want some communism?",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1045010/141ded841ef95225f31e7e5ddb0d988181b796d6.jpg"
+                    },
+                    {
+                        "name": "Wake up! hey!",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1045010/6075a457b47eff1df1b79def857aa114c2e2f38e.jpg"
+                    },
+                    {
+                        "name": "Farewell homeland",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1045010/912b4fb47263b12bad87351e661d231cc1a559c9.jpg"
+                    },
+                    {
+                        "name": "Lenin is a mushroom",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1045010/9f2f46597a265986d13ae8bc8c5276c0f95ab045.jpg"
+                    },
+                    {
+                        "name": "Hate TV",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1045010/230a3aaa19b81096f9ee802d429e384487deff86.jpg"
+                    }
+                ]
+            },
             "release_date": {
-                "coming_soon": true,
-                "date": "2 Apr, 2019"
+                "coming_soon": false,
+                "date": "17 Jun, 2020"
             },
             "support_info": {
                 "url": "",
                 "email": "olga.dulya@mail.ru"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1045010/page_bg_generated_v6b.jpg?t=1553713801",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1045010/page_bg_generated_v6b.jpg?t=1592408373",
             "content_descriptors": {
-                "ids": [
-                    2,
-                    5
-                ],
-                "notes": "Strong language, alcochol, sigarets, cartoon violence"
+                "ids": [],
+                "notes": null
             }
         }
     }
