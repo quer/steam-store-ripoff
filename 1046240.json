@@ -3,15 +3,15 @@
         "success": true,
         "data": {
             "type": "game",
-            "name": "Mutant Hunt",
+            "name": "Creature Hunt",
             "steam_appid": 1046240,
             "required_age": 0,
             "is_free": false,
-            "detailed_description": "Mutant Hunt – a combination of a survival horror and a hunting simulator. According to some articles in the local press, a few days ago several bodies of dead tourists were found in the woods of North Carolina. And yesterday, another tourist said that he had seen a strange beast there, and it had had nothing in common with any of the known species. You are a local hunter whose house is located near the woods, and you are going there to trace the beast or, even better, to kill it. The main thing is to be as careful as possible, for you have no idea what is awaiting you there.",
-            "about_the_game": "Mutant Hunt – a combination of a survival horror and a hunting simulator. According to some articles in the local press, a few days ago several bodies of dead tourists were found in the woods of North Carolina. And yesterday, another tourist said that he had seen a strange beast there, and it had had nothing in common with any of the known species. You are a local hunter whose house is located near the woods, and you are going there to trace the beast or, even better, to kill it. The main thing is to be as careful as possible, for you have no idea what is awaiting you there.",
-            "short_description": "Mutant Hunt – a combination of a survival horror and a hunting simulator. According to some articles in the local press, a few days ago several bodies of dead tourists were found in the woods of North Carolina.",
+            "detailed_description": "<strong>Creature Hunt</strong> is a combination of a survival horror and a hunting simulator. According to some articles in the local press, a few days ago several bodies of dead tourists were found in the woods of North Carolina. And yesterday, another tourist said that he had seen a beast there, and it had had nothing in common with any of the known species. You are supposed to play as the sister of one of those who were killed. Your house is located in those woods, and you are going to trace and kill the beast. At home, you have to pack all the things you might need, such as weapons and ammunition, medicines, video cameras, etc. – everything that might be necessary during the hunt, and to start out searching for the beast then. Besides, you might also need your car there. If you get scared, you can go back home any time, for it is always the safest place...<br><br><br><i>The items you pick up are shown in your inventory. To call the inventory, use the Tab button.<br><br>Once you install your camera, its location will be shown on the map and on your computer screen. The cameras are equipped with motion sensors. When a camera sees a moving object, you will see this camera’s icon blinking on your computer screen. Remember that cameras react to all kinds of moving objects, whether it is you or some wild animals.<br><br>To interact with the objects, use the E key.<br><br>To start or to stop the engine of your car, use the G key. To turn the headlights of your car on or off, use the L key.</i>",
+            "about_the_game": "<strong>Creature Hunt</strong> is a combination of a survival horror and a hunting simulator. According to some articles in the local press, a few days ago several bodies of dead tourists were found in the woods of North Carolina. And yesterday, another tourist said that he had seen a beast there, and it had had nothing in common with any of the known species. You are supposed to play as the sister of one of those who were killed. Your house is located in those woods, and you are going to trace and kill the beast. At home, you have to pack all the things you might need, such as weapons and ammunition, medicines, video cameras, etc. – everything that might be necessary during the hunt, and to start out searching for the beast then. Besides, you might also need your car there. If you get scared, you can go back home any time, for it is always the safest place...<br><br><br><i>The items you pick up are shown in your inventory. To call the inventory, use the Tab button.<br><br>Once you install your camera, its location will be shown on the map and on your computer screen. The cameras are equipped with motion sensors. When a camera sees a moving object, you will see this camera’s icon blinking on your computer screen. Remember that cameras react to all kinds of moving objects, whether it is you or some wild animals.<br><br>To interact with the objects, use the E key.<br><br>To start or to stop the engine of your car, use the G key. To turn the headlights of your car on or off, use the L key.</i>",
+            "short_description": "Creature Hunt is a combination of a survival horror and a hunting simulator. According to some articles in the local press, a few days ago several bodies of dead tourists were found in the woods of North Carolina.",
             "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1046240/header.jpg?t=1553734679",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1046240/header.jpg?t=1554923335",
             "website": null,
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP, 7, 8, 10<br></li><li><strong>Processor:</strong> Dual Core 2.4 GHz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> GeForce GTX 550<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>",
@@ -25,7 +25,40 @@
             "publishers": [
                 "Kiddy"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 1249,
+                "final": 124,
+                "discount_percent": 90,
+                "initial_formatted": "12,49€",
+                "final_formatted": "1,24€"
+            },
+            "packages": [
+                348756
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Creature Hunt",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 348756,
+                            "percent_savings_text": "-90% ",
+                            "percent_savings": 0,
+                            "option_text": "Creature Hunt - <span class=\"discount_original_price\">12,49€</span> 1,24€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 124
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": false,
@@ -58,49 +91,70 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1046240/ss_93a94a25f5f1893ba4c01dc0db6edb3f80e907c9.600x338.jpg?t=1553734679",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1046240/ss_93a94a25f5f1893ba4c01dc0db6edb3f80e907c9.1920x1080.jpg?t=1553734679"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1046240/ss_7e6f5d22522c63f9f4d69ea1945776c1f5929ec4.600x338.jpg?t=1554923335",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1046240/ss_7e6f5d22522c63f9f4d69ea1945776c1f5929ec4.1920x1080.jpg?t=1554923335"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1046240/ss_c94c91c6cae795a48ee68e1b5c799a6b237e621f.600x338.jpg?t=1553734679",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1046240/ss_c94c91c6cae795a48ee68e1b5c799a6b237e621f.1920x1080.jpg?t=1553734679"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1046240/ss_af2af3a17fa5d38400c08dfe736beca6898c2b15.600x338.jpg?t=1554923335",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1046240/ss_af2af3a17fa5d38400c08dfe736beca6898c2b15.1920x1080.jpg?t=1554923335"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1046240/ss_67c3c9e75bc806163c872c3f30f901d55b2e6e3c.600x338.jpg?t=1553734679",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1046240/ss_67c3c9e75bc806163c872c3f30f901d55b2e6e3c.1920x1080.jpg?t=1553734679"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1046240/ss_5f230bc43d9ef8735489ea18fdc35a5841f5cfd5.600x338.jpg?t=1554923335",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1046240/ss_5f230bc43d9ef8735489ea18fdc35a5841f5cfd5.1920x1080.jpg?t=1554923335"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1046240/ss_2aa2c2e306944c6267056f4faf3e3aa8e807be6e.600x338.jpg?t=1553734679",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1046240/ss_2aa2c2e306944c6267056f4faf3e3aa8e807be6e.1920x1080.jpg?t=1553734679"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1046240/ss_381d6263ff893089a6b6838f47a58b9d6322291a.600x338.jpg?t=1554923335",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1046240/ss_381d6263ff893089a6b6838f47a58b9d6322291a.1920x1080.jpg?t=1554923335"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1046240/ss_a1cc10365d3758e28bba5b925523cacc35a6b81e.600x338.jpg?t=1553734679",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1046240/ss_a1cc10365d3758e28bba5b925523cacc35a6b81e.1920x1080.jpg?t=1553734679"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1046240/ss_d86130cd89dca0eb2061f594219b6f55cae436de.600x338.jpg?t=1554923335",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1046240/ss_d86130cd89dca0eb2061f594219b6f55cae436de.1920x1080.jpg?t=1554923335"
                 },
                 {
                     "id": 5,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1046240/ss_1b6c8c552213347d62973805465fced7c65441f8.600x338.jpg?t=1553734679",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1046240/ss_1b6c8c552213347d62973805465fced7c65441f8.1920x1080.jpg?t=1553734679"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1046240/ss_460a3949f96581b4bb65815c3282e69b1d60c980.600x338.jpg?t=1554923335",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1046240/ss_460a3949f96581b4bb65815c3282e69b1d60c980.1920x1080.jpg?t=1554923335"
                 },
                 {
                     "id": 6,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1046240/ss_f005138ffe967c92275442b5b65786065b99d253.600x338.jpg?t=1553734679",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1046240/ss_f005138ffe967c92275442b5b65786065b99d253.1920x1080.jpg?t=1553734679"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1046240/ss_38a215c3d6ace6515a6da41326182fb7ba11faaa.600x338.jpg?t=1554923335",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1046240/ss_38a215c3d6ace6515a6da41326182fb7ba11faaa.1920x1080.jpg?t=1554923335"
+                },
+                {
+                    "id": 7,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1046240/ss_6d1f572a118e0018b2a9d5514d43c9457f478b61.600x338.jpg?t=1554923335",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1046240/ss_6d1f572a118e0018b2a9d5514d43c9457f478b61.1920x1080.jpg?t=1554923335"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 256746859,
+                    "name": "Trailer",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256746859/movie.293x165.jpg?t=1554123094",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256746859/movie480.webm?t=1554123094",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256746859/movie_max.webm?t=1554123094"
+                    },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256746859/movie480.mp4?t=1554123094",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256746859/movie_max.mp4?t=1554123094"
+                    },
+                    "highlight": true
                 }
             ],
             "release_date": {
-                "coming_soon": true,
-                "date": "2 Apr, 2019"
+                "coming_soon": false,
+                "date": "10 Apr, 2019"
             },
             "support_info": {
                 "url": "",
                 "email": "jooomly@gmail.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1046240/page_bg_generated_v6b.jpg?t=1553734679",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1046240/page_bg_generated_v6b.jpg?t=1554923335",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
