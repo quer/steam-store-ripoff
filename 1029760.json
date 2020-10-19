@@ -8,11 +8,14 @@
             "required_age": 0,
             "is_free": false,
             "controller_support": "full",
-            "detailed_description": "TANKNAROK is a high speed, frenzied blastathon where 2-4 tanks go head to head in a wide range of arenas; filled to the brim with huge guns, powerful explosions and dangerous hazards! Wholesome roughhousing with either your friends at home, or friendly strangers on the internet!<br><br><ul class=\"bb_ul\"><li> 2 to 4 players, either local or online (No single player mode)<br></li><li> 70+ dangerous arenas across 7 different themes<br></li><li> Loads of power-ups!<br></li><li> Level editor with Steam Workshop support is planned</li></ul>",
-            "about_the_game": "TANKNAROK is a high speed, frenzied blastathon where 2-4 tanks go head to head in a wide range of arenas; filled to the brim with huge guns, powerful explosions and dangerous hazards! Wholesome roughhousing with either your friends at home, or friendly strangers on the internet!<br><br><ul class=\"bb_ul\"><li> 2 to 4 players, either local or online (No single player mode)<br></li><li> 70+ dangerous arenas across 7 different themes<br></li><li> Loads of power-ups!<br></li><li> Level editor with Steam Workshop support is planned</li></ul>",
+            "dlc": [
+                1357470
+            ],
+            "detailed_description": "TANKNAROK is a high speed, frenzied blastathon where 2-4 tanks go head to head in a wide range of arenas; filled to the brim with huge guns, powerful explosions and dangerous hazards! Wholesome roughhousing with either your friends at home, or friendly strangers on the internet!<br><br><strong>Key Features</strong><br><ul class=\"bb_ul\"><li> 2 to 4 players, either local or online!<br></li><li> Play vs bots, alone or with friends!<br></li><li> 90+ dangerous arenas across 7 different themes!<br></li><li> Loads of power-ups, including awesome super weapons!<br></li><li> Crunchy, crispy <i>and</i> juicy visual effects!</li></ul><br><strong>The future of TANKNAROK</strong><br>We want you to stick around for the long haul, that's why our goal is to keep updating the game with new content after release! Here's a list of what's to come in future updates:<br><ul class=\"bb_ul\"><li>Progression System<br></li><li>Unlockables / Customization<br></li><li>More levels, weapons and hazards</li></ul><br><strong>Want to learn more?</strong><br>Join our Discord and chat with us!<br><a href=\"https://steamcommunity.com/linkfilter/?url=https://discord.gg/3jFd3m4\" target=\"_blank\" rel=\"noopener\"  >https://discord.gg/3jFd3m4</a>",
+            "about_the_game": "TANKNAROK is a high speed, frenzied blastathon where 2-4 tanks go head to head in a wide range of arenas; filled to the brim with huge guns, powerful explosions and dangerous hazards! Wholesome roughhousing with either your friends at home, or friendly strangers on the internet!<br><br><strong>Key Features</strong><br><ul class=\"bb_ul\"><li> 2 to 4 players, either local or online!<br></li><li> Play vs bots, alone or with friends!<br></li><li> 90+ dangerous arenas across 7 different themes!<br></li><li> Loads of power-ups, including awesome super weapons!<br></li><li> Crunchy, crispy <i>and</i> juicy visual effects!</li></ul><br><strong>The future of TANKNAROK</strong><br>We want you to stick around for the long haul, that's why our goal is to keep updating the game with new content after release! Here's a list of what's to come in future updates:<br><ul class=\"bb_ul\"><li>Progression System<br></li><li>Unlockables / Customization<br></li><li>More levels, weapons and hazards</li></ul><br><strong>Want to learn more?</strong><br>Join our Discord and chat with us!<br><a href=\"https://steamcommunity.com/linkfilter/?url=https://discord.gg/3jFd3m4\" target=\"_blank\" rel=\"noopener\"  >https://discord.gg/3jFd3m4</a>",
             "short_description": "TANKNAROK is a fast paced couch/online action game where 2-4 tanks duke it out in a wide range of arenas, with tons of explosive powerups and deadly hazards.",
-            "supported_languages": "English",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1029760/header.jpg?t=1576051719",
+            "supported_languages": "English, French, Italian, German, Simplified Chinese, Traditional Chinese, Norwegian",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1029760/header.jpg?t=1597664485",
             "website": null,
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong> Intel Core i5-2400 @ 3.1 GHz or AMD FX-6300 @ 3.5 GHz or equivalent<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 670 or AMD R9 270 (2GB VRAM with Shader Model 5.0 or better)<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>",
@@ -32,13 +35,50 @@
             "publishers": [
                 "Polyblock Studio"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 569,
+                "final": 569,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "5,69€"
+            },
+            "packages": [
+                342465
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy TANKNAROK",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 342465,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "Tanknarok - 5,69€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 569
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": false,
                 "linux": false
             },
             "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
                 {
                     "id": 1,
                     "description": "Multi-player"
@@ -85,66 +125,129 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029760/ss_21cd28e0d609e8e7528d4cb8daa19c5b6ab51a41.600x338.jpg?t=1576051719",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029760/ss_21cd28e0d609e8e7528d4cb8daa19c5b6ab51a41.1920x1080.jpg?t=1576051719"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029760/ss_21cd28e0d609e8e7528d4cb8daa19c5b6ab51a41.600x338.jpg?t=1597664485",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029760/ss_21cd28e0d609e8e7528d4cb8daa19c5b6ab51a41.1920x1080.jpg?t=1597664485"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029760/ss_12ba86a7273e9a0fab6b1613c0dc264e7d835a68.600x338.jpg?t=1576051719",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029760/ss_12ba86a7273e9a0fab6b1613c0dc264e7d835a68.1920x1080.jpg?t=1576051719"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029760/ss_12ba86a7273e9a0fab6b1613c0dc264e7d835a68.600x338.jpg?t=1597664485",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029760/ss_12ba86a7273e9a0fab6b1613c0dc264e7d835a68.1920x1080.jpg?t=1597664485"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029760/ss_72fdac91a43aa05069fe298d1a87e4d8e3f5c449.600x338.jpg?t=1576051719",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029760/ss_72fdac91a43aa05069fe298d1a87e4d8e3f5c449.1920x1080.jpg?t=1576051719"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029760/ss_72fdac91a43aa05069fe298d1a87e4d8e3f5c449.600x338.jpg?t=1597664485",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029760/ss_72fdac91a43aa05069fe298d1a87e4d8e3f5c449.1920x1080.jpg?t=1597664485"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029760/ss_0558f68a8967ca175a9d261a024f32bcd78f4bf8.600x338.jpg?t=1576051719",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029760/ss_0558f68a8967ca175a9d261a024f32bcd78f4bf8.1920x1080.jpg?t=1576051719"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029760/ss_0558f68a8967ca175a9d261a024f32bcd78f4bf8.600x338.jpg?t=1597664485",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029760/ss_0558f68a8967ca175a9d261a024f32bcd78f4bf8.1920x1080.jpg?t=1597664485"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029760/ss_b261c59da97e9e8c21acc458333904a9a72ff7ad.600x338.jpg?t=1576051719",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029760/ss_b261c59da97e9e8c21acc458333904a9a72ff7ad.1920x1080.jpg?t=1576051719"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029760/ss_b261c59da97e9e8c21acc458333904a9a72ff7ad.600x338.jpg?t=1597664485",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029760/ss_b261c59da97e9e8c21acc458333904a9a72ff7ad.1920x1080.jpg?t=1597664485"
                 },
                 {
                     "id": 5,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029760/ss_b69eab14c18c1be015ab4876c43ed6cb59324530.600x338.jpg?t=1576051719",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029760/ss_b69eab14c18c1be015ab4876c43ed6cb59324530.1920x1080.jpg?t=1576051719"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029760/ss_b69eab14c18c1be015ab4876c43ed6cb59324530.600x338.jpg?t=1597664485",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029760/ss_b69eab14c18c1be015ab4876c43ed6cb59324530.1920x1080.jpg?t=1597664485"
                 },
                 {
                     "id": 6,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029760/ss_e9b07ab812e4400ec9670b266f94c6d36c111389.600x338.jpg?t=1576051719",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029760/ss_e9b07ab812e4400ec9670b266f94c6d36c111389.1920x1080.jpg?t=1576051719"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029760/ss_e9b07ab812e4400ec9670b266f94c6d36c111389.600x338.jpg?t=1597664485",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029760/ss_e9b07ab812e4400ec9670b266f94c6d36c111389.1920x1080.jpg?t=1597664485"
                 },
                 {
                     "id": 7,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029760/ss_aa1fa62a062ba2140e81a939e12c4c1940ddd00a.600x338.jpg?t=1576051719",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029760/ss_aa1fa62a062ba2140e81a939e12c4c1940ddd00a.1920x1080.jpg?t=1576051719"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029760/ss_aa1fa62a062ba2140e81a939e12c4c1940ddd00a.600x338.jpg?t=1597664485",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029760/ss_aa1fa62a062ba2140e81a939e12c4c1940ddd00a.1920x1080.jpg?t=1597664485"
                 }
             ],
             "movies": [
                 {
-                    "id": 256748711,
-                    "name": "Tanknarok gameplay trailer",
-                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256748711/movie.293x165.jpg?t=1556277334",
+                    "id": 256790552,
+                    "name": "Tanknarok launch trailer",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256790552/movie.293x165.jpg?t=1592975289",
                     "webm": {
-                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256748711/movie480.webm?t=1556277334",
-                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256748711/movie_max.webm?t=1556277334"
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256790552/movie480_vp9.webm?t=1592975289",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256790552/movie_max_vp9.webm?t=1592975289"
+                    },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256790552/movie480.mp4?t=1592975289",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256790552/movie_max.mp4?t=1592975289"
+                    },
+                    "highlight": true
+                },
+                {
+                    "id": 256777327,
+                    "name": "Tanknarok short trailer",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256777327/movie.293x165.jpg?t=1583744527",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256777327/movie480.webm?t=1583744527",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256777327/movie_max.webm?t=1583744527"
+                    },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256777327/movie480.mp4?t=1583744527",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256777327/movie_max.mp4?t=1583744527"
                     },
                     "highlight": true
                 }
             ],
+            "achievements": {
+                "total": 32,
+                "highlighted": [
+                    {
+                        "name": "Participation award!",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1029760/ac84729917795dc3775430249a34a0e1a753a198.jpg"
+                    },
+                    {
+                        "name": "An Excellent Host",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1029760/c5384e64fe0c12806e6d7b1603752c4ab1c231ed.jpg"
+                    },
+                    {
+                        "name": "It's a twofer!",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1029760/8751cc6af35fb66949dde3513709d18f36da93d3.jpg"
+                    },
+                    {
+                        "name": "Bumper Thumper",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1029760/1743ec7e4a48db701658bdc49e1f8be2c19e3cde.jpg"
+                    },
+                    {
+                        "name": "Ceramic Carnage",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1029760/305e824bb6452d93ec69cef66eb1a0ec1a0b10cb.jpg"
+                    },
+                    {
+                        "name": "Cold Murder",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1029760/c9778cd181b6db29887c949d92742a9db4af12fa.jpg"
+                    },
+                    {
+                        "name": "Bathroom Butchery",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1029760/c74eedd0a618ce8fa9d0b1fb2d5b5cf113a32434.jpg"
+                    },
+                    {
+                        "name": "Tankinator",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1029760/99221e7d72099400e50b067a8ced45dba3f5f7f7.jpg"
+                    },
+                    {
+                        "name": "Flawless",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1029760/35b36bc0b84ac77e5fb6301dbfee581467990cc2.jpg"
+                    },
+                    {
+                        "name": "The song of my people",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1029760/6444c530bd08ac5a6414566a494413fc2fa0d32b.jpg"
+                    }
+                ]
+            },
             "release_date": {
-                "coming_soon": true,
-                "date": "2020 Q1 (?)"
+                "coming_soon": false,
+                "date": "23 Jun, 2020"
             },
             "support_info": {
                 "url": "",
                 "email": "support@polyblockstudio.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1029760/page_bg_generated_v6b.jpg?t=1576051719",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1029760/page_bg_generated_v6b.jpg?t=1597664485",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
