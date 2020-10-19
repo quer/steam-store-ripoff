@@ -10,20 +10,20 @@
             "detailed_description": "<i>Salvage Engineer, you have a new assignment on a distant world...</i><br><br>Robo Instructus is a puzzle game in which players manoeuvre a robot by issuing instructions via a simple programming language. <br><br>As players progress through the game they unlock new functions to overcome new puzzles, each of which can be solved in multiple ways. The more you master the robot, the more elegant and powerful your solutions will be.<br><br>Take the role of a Salvage Engineer sent across space. Use wits and tenacity to uncover the secrets of this isolated, frozen world.",
             "about_the_game": "<i>Salvage Engineer, you have a new assignment on a distant world...</i><br><br>Robo Instructus is a puzzle game in which players manoeuvre a robot by issuing instructions via a simple programming language. <br><br>As players progress through the game they unlock new functions to overcome new puzzles, each of which can be solved in multiple ways. The more you master the robot, the more elegant and powerful your solutions will be.<br><br>Take the role of a Salvage Engineer sent across space. Use wits and tenacity to uncover the secrets of this isolated, frozen world.",
             "short_description": "Robo Instructus is a puzzle game in which players manoeuvre a robot by issuing instructions via a simple programming language. As players progress through the game they unlock new functions to overcome new puzzles, each of which can be solved in multiple ways.",
-            "supported_languages": "English",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1032170/header.jpg?t=1552159493",
+            "supported_languages": "English<strong>*</strong>, French, Italian, German<strong>*</strong>, Dutch, Polish, Portuguese, Russian<strong>*</strong>, Simplified Chinese, Traditional Chinese, Greek, Swedish, Portuguese - Brazil<br><strong>*</strong>languages with full audio support",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1032170/header.jpg?t=1602330045",
             "website": "https://www.roboinstruct.us",
             "pc_requirements": {
-                "minimum": "<strong>Minimalne:</strong><br><ul class=\"bb_ul\"><li>Wymaga 64-bitowego procesora i systemu operacyjnego<br></li><li><strong>System operacyjny:</strong> Windows 7, 8, 10<br></li><li><strong>Karta graficzna:</strong> OpenGL 3.3 compatible graphics</li></ul>",
-                "recommended": "<strong>Zalecane:</strong><br><ul class=\"bb_ul\"><li>Wymaga 64-bitowego procesora i systemu operacyjnego</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> x86-64 2.0GHz<br></li><li><strong>Graphics:</strong> OpenGL 3.3 compatible graphics</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
             },
             "mac_requirements": {
-                "minimum": "<strong>Minimalne:</strong><br><ul class=\"bb_ul\"><li>Wymaga 64-bitowego procesora i systemu operacyjnego</li></ul>",
-                "recommended": "<strong>Zalecane:</strong><br><ul class=\"bb_ul\"><li>Wymaga 64-bitowego procesora i systemu operacyjnego</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> 10.12<br></li><li><strong>Processor:</strong> x86-64 2.0GHz<br></li><li><strong>Graphics:</strong> OpenGL 3.3 compatible graphics</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
             },
             "linux_requirements": {
-                "minimum": "<strong>Minimalne:</strong><br><ul class=\"bb_ul\"><li>Wymaga 64-bitowego procesora i systemu operacyjnego<br></li><li><strong>System operacyjny:</strong> Arch Linux, Ubuntu 16.04, Fedora 29<br></li><li><strong>Karta graficzna:</strong> OpenGL 3.3 compatible graphics</li></ul>",
-                "recommended": "<strong>Zalecane:</strong><br><ul class=\"bb_ul\"><li>Wymaga 64-bitowego procesora i systemu operacyjnego</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Arch Linux, Ubuntu 16.04, Fedora 29<br></li><li><strong>Processor:</strong> x86-64 2.0GHz<br></li><li><strong>Graphics:</strong> OpenGL 3.3 compatible graphics</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
             },
             "developers": [
                 "Big AB Games"
@@ -31,16 +31,59 @@
             "publishers": [
                 "Big AB Games"
             ],
-            "package_groups": [],
+            "demos": [
+                {
+                    "appid": 1113590,
+                    "description": ""
+                }
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 1079,
+                "final": 1079,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "10,79€"
+            },
+            "packages": [
+                343373
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Robo Instructus",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 343373,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "Robo Instructus - 10,79€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 1079
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
-                "mac": false,
+                "mac": true,
                 "linux": true
             },
             "categories": [
                 {
                     "id": 2,
                     "description": "Single-player"
+                },
+                {
+                    "id": 22,
+                    "description": "Steam Achievements"
                 },
                 {
                     "id": 23,
@@ -60,51 +103,110 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1032170/ss_307235ff198b653a07718d22d4fe1dcde15a4fef.600x338.jpg?t=1552159493",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1032170/ss_307235ff198b653a07718d22d4fe1dcde15a4fef.1920x1080.jpg?t=1552159493"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1032170/ss_307235ff198b653a07718d22d4fe1dcde15a4fef.600x338.jpg?t=1602330045",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1032170/ss_307235ff198b653a07718d22d4fe1dcde15a4fef.1920x1080.jpg?t=1602330045"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1032170/ss_ac8e9fabe72537c7fb306e18b5b868b7e0d2cbfc.600x338.jpg?t=1552159493",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1032170/ss_ac8e9fabe72537c7fb306e18b5b868b7e0d2cbfc.1920x1080.jpg?t=1552159493"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1032170/ss_5c5ad007c862c0baf684097fe63bac0d50b0e7c5.600x338.jpg?t=1602330045",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1032170/ss_5c5ad007c862c0baf684097fe63bac0d50b0e7c5.1920x1080.jpg?t=1602330045"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1032170/ss_02f82d6173a34cb674877884155a0fe58134db94.600x338.jpg?t=1552159493",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1032170/ss_02f82d6173a34cb674877884155a0fe58134db94.1920x1080.jpg?t=1552159493"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1032170/ss_eb5eb6d93ec16387907eac81faca9adacd4d2c80.600x338.jpg?t=1602330045",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1032170/ss_eb5eb6d93ec16387907eac81faca9adacd4d2c80.1920x1080.jpg?t=1602330045"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1032170/ss_9f477769426d370e4d223c46e9c5d47099643775.600x338.jpg?t=1552159493",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1032170/ss_9f477769426d370e4d223c46e9c5d47099643775.1920x1080.jpg?t=1552159493"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1032170/ss_ac8e9fabe72537c7fb306e18b5b868b7e0d2cbfc.600x338.jpg?t=1602330045",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1032170/ss_ac8e9fabe72537c7fb306e18b5b868b7e0d2cbfc.1920x1080.jpg?t=1602330045"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1032170/ss_29a0ed17e1a980653b641f8710bbcb3257175dbd.600x338.jpg?t=1552159493",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1032170/ss_29a0ed17e1a980653b641f8710bbcb3257175dbd.1920x1080.jpg?t=1552159493"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1032170/ss_02f82d6173a34cb674877884155a0fe58134db94.600x338.jpg?t=1602330045",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1032170/ss_02f82d6173a34cb674877884155a0fe58134db94.1920x1080.jpg?t=1602330045"
+                },
+                {
+                    "id": 5,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1032170/ss_9f477769426d370e4d223c46e9c5d47099643775.600x338.jpg?t=1602330045",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1032170/ss_9f477769426d370e4d223c46e9c5d47099643775.1920x1080.jpg?t=1602330045"
+                },
+                {
+                    "id": 6,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1032170/ss_29a0ed17e1a980653b641f8710bbcb3257175dbd.600x338.jpg?t=1602330045",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1032170/ss_29a0ed17e1a980653b641f8710bbcb3257175dbd.1920x1080.jpg?t=1602330045"
                 }
             ],
             "movies": [
                 {
-                    "id": 256743124,
-                    "name": "Announcement",
-                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256743124/movie.293x165.jpg?t=1551689256",
+                    "id": 256756204,
+                    "name": "Release",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256756204/movie.293x165.jpg?t=1563267068",
                     "webm": {
-                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256743124/movie480.webm?t=1551689256",
-                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256743124/movie_max.webm?t=1551689256"
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256756204/movie480.webm?t=1563267068",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256756204/movie_max.webm?t=1563267068"
+                    },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256756204/movie480.mp4?t=1563267068",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256756204/movie_max.mp4?t=1563267068"
                     },
                     "highlight": true
                 }
             ],
+            "achievements": {
+                "total": 10,
+                "highlighted": [
+                    {
+                        "name": "The Gist",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1032170/0dfc59f8c9959da2241b6ad8ab6c3e2907110d9a.jpg"
+                    },
+                    {
+                        "name": "Into The Under",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1032170/88ea7372fd4506becf057e1471e9a4a867b25862.jpg"
+                    },
+                    {
+                        "name": "Putting It All Together",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1032170/4f847571eca9de44bb59f3beb036cd6cd4052b9a.jpg"
+                    },
+                    {
+                        "name": "Into The Dark",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1032170/518b65e265ea34d8054c2e37b900786f6a1e1d89.jpg"
+                    },
+                    {
+                        "name": "Blind Mastery",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1032170/92d4f55d3d4764ebabe58a707f0767b15d82ce3b.jpg"
+                    },
+                    {
+                        "name": "Two Heads Are Better Than One",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1032170/516987c4343f2cb7f835943952f70a2e96cd0d61.jpg"
+                    },
+                    {
+                        "name": "Open The Vault",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1032170/ac354cab10b5ef0682b45aeeda5696c0bd29b511.jpg"
+                    },
+                    {
+                        "name": "Optimizer",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1032170/0045ebecca62d8b00a049efeb85720ca4d59d539.jpg"
+                    },
+                    {
+                        "name": "Serial Optimizer",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1032170/a771cc5b0a16c150e793405f90be30b5a6111279.jpg"
+                    },
+                    {
+                        "name": "Pinball Wizard",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1032170/abcacd4aa736b034458013add04026428155b0fc.jpg"
+                    }
+                ]
+            },
             "release_date": {
-                "coming_soon": true,
-                "date": "Q3 2019"
+                "coming_soon": false,
+                "date": "16 Jul, 2019"
             },
             "support_info": {
                 "url": "",
                 "email": "support@roboinstruct.us"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1032170/page_bg_generated_v6b.jpg?t=1552159493",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1032170/page_bg_generated_v6b.jpg?t=1602330045",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
