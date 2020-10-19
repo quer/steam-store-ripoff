@@ -29,11 +29,11 @@
             ],
             "price_overview": {
                 "currency": "EUR",
-                "initial": 819,
-                "final": 819,
+                "initial": 16999,
+                "final": 16999,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "8,19€"
+                "final_formatted": "169,99€"
             },
             "packages": [
                 339556
@@ -50,13 +50,13 @@
                     "subs": [
                         {
                             "packageid": 339556,
-                            "percent_savings_text": "",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Lgnorant girl doll - 8,19€",
+                            "option_text": "Lgnorant girl doll - 169,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 819
+                            "price_in_cents_with_discount": 16999
                         }
                     ]
                 }
@@ -121,6 +121,10 @@
                     "webm": {
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/256741436/movie480.webm?t=1549068639",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/256741436/movie_max.webm?t=1549068639"
+                    },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256741436/movie480.mp4?t=1549068639",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256741436/movie_max.mp4?t=1549068639"
                     },
                     "highlight": true
                 }
