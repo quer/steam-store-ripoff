@@ -15,7 +15,7 @@
             "short_description": "Tipping Point is an immersive, photorealistic adventure game with challenging puzzles and a satisfying story filled with drama, humor and unexpected plot twists. Original music, lifelike characters, animals and scenery all come together to create a cinematic experience.",
             "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
             "reviews": "“Tipping Point is some of the best point-and-click adventuring you'll come across.”<br>4.3/5 – <a href=\"https://steamcommunity.com/linkfilter/?url=https://jayisgames.com/review/tipping-point-mobile.php\" target=\"_blank\" rel=\"noopener\"  >JayIsGames</a><br><br>“There's a sizable story line, lots of puzzles and challenges to play with, an original music score, and quite a few surprises to find.”<br><a href=\"https://www.engadget.com/2013/05/01/tipping-point-adventure-for-ipad-is-clever-and-engaging/#/\" target=\"_blank\" rel=\"noreferrer\"  >Engadget</a><br>",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1043890/header.jpg?t=1551980001",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1043890/header.jpg?t=1554979526",
             "website": "http://tippingpointgame.com",
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 SP1+<br></li><li><strong>Processor:</strong> SSE2 instruction set support<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Graphics card with DX10 (shader model 4.0) capabilities.<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Storage:</strong> 500 MB available space<br></li><li><strong>Sound Card:</strong> Any</li></ul>"
@@ -30,7 +30,40 @@
             "publishers": [
                 "Freecloud Design, Inc."
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 329,
+                "final": 329,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "3,29€"
+            },
+            "packages": [
+                347807
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Tipping Point",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 347807,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "Tipping Point - 3,29€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 329
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": true,
@@ -46,10 +79,6 @@
                     "description": "Steam Achievements"
                 },
                 {
-                    "id": 13,
-                    "description": "Captions available"
-                },
-                {
                     "id": 23,
                     "description": "Steam Cloud"
                 }
@@ -63,71 +92,120 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1043890/ss_c23d13512ab18d936bac5ac5a97d6d793cf57ed5.600x338.jpg?t=1551980001",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1043890/ss_c23d13512ab18d936bac5ac5a97d6d793cf57ed5.1920x1080.jpg?t=1551980001"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1043890/ss_c23d13512ab18d936bac5ac5a97d6d793cf57ed5.600x338.jpg?t=1554979526",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1043890/ss_c23d13512ab18d936bac5ac5a97d6d793cf57ed5.1920x1080.jpg?t=1554979526"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1043890/ss_6fc383e8a2cf8e7043aa10aae76e09896413f49e.600x338.jpg?t=1551980001",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1043890/ss_6fc383e8a2cf8e7043aa10aae76e09896413f49e.1920x1080.jpg?t=1551980001"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1043890/ss_6fc383e8a2cf8e7043aa10aae76e09896413f49e.600x338.jpg?t=1554979526",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1043890/ss_6fc383e8a2cf8e7043aa10aae76e09896413f49e.1920x1080.jpg?t=1554979526"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1043890/ss_5f2478a4e6b2ec5e33bfdbf35cb16f3f01f4eab7.600x338.jpg?t=1551980001",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1043890/ss_5f2478a4e6b2ec5e33bfdbf35cb16f3f01f4eab7.1920x1080.jpg?t=1551980001"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1043890/ss_5f2478a4e6b2ec5e33bfdbf35cb16f3f01f4eab7.600x338.jpg?t=1554979526",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1043890/ss_5f2478a4e6b2ec5e33bfdbf35cb16f3f01f4eab7.1920x1080.jpg?t=1554979526"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1043890/ss_9e078481812a5972b954ebed182a7fe5d37dfca7.600x338.jpg?t=1551980001",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1043890/ss_9e078481812a5972b954ebed182a7fe5d37dfca7.1920x1080.jpg?t=1551980001"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1043890/ss_9e078481812a5972b954ebed182a7fe5d37dfca7.600x338.jpg?t=1554979526",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1043890/ss_9e078481812a5972b954ebed182a7fe5d37dfca7.1920x1080.jpg?t=1554979526"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1043890/ss_b47c43876d3c826ea398188e05da97a3d51a7b0f.600x338.jpg?t=1551980001",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1043890/ss_b47c43876d3c826ea398188e05da97a3d51a7b0f.1920x1080.jpg?t=1551980001"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1043890/ss_b47c43876d3c826ea398188e05da97a3d51a7b0f.600x338.jpg?t=1554979526",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1043890/ss_b47c43876d3c826ea398188e05da97a3d51a7b0f.1920x1080.jpg?t=1554979526"
                 },
                 {
                     "id": 5,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1043890/ss_0583a0b19d628963e5d635a487fddaf41af428e0.600x338.jpg?t=1551980001",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1043890/ss_0583a0b19d628963e5d635a487fddaf41af428e0.1920x1080.jpg?t=1551980001"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1043890/ss_0583a0b19d628963e5d635a487fddaf41af428e0.600x338.jpg?t=1554979526",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1043890/ss_0583a0b19d628963e5d635a487fddaf41af428e0.1920x1080.jpg?t=1554979526"
                 },
                 {
                     "id": 6,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1043890/ss_b83995f50e27a8d9dfc58adb1fc7be196fa4da9e.600x338.jpg?t=1551980001",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1043890/ss_b83995f50e27a8d9dfc58adb1fc7be196fa4da9e.1920x1080.jpg?t=1551980001"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1043890/ss_b83995f50e27a8d9dfc58adb1fc7be196fa4da9e.600x338.jpg?t=1554979526",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1043890/ss_b83995f50e27a8d9dfc58adb1fc7be196fa4da9e.1920x1080.jpg?t=1554979526"
                 },
                 {
                     "id": 7,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1043890/ss_472a2da8f39ff546ed042925ba85529083f1b25e.600x338.jpg?t=1551980001",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1043890/ss_472a2da8f39ff546ed042925ba85529083f1b25e.1920x1080.jpg?t=1551980001"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1043890/ss_472a2da8f39ff546ed042925ba85529083f1b25e.600x338.jpg?t=1554979526",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1043890/ss_472a2da8f39ff546ed042925ba85529083f1b25e.1920x1080.jpg?t=1554979526"
                 },
                 {
                     "id": 8,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1043890/ss_e1c7add1d6de37a6ac5bff9c56459f93e62cb1a2.600x338.jpg?t=1551980001",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1043890/ss_e1c7add1d6de37a6ac5bff9c56459f93e62cb1a2.1920x1080.jpg?t=1551980001"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1043890/ss_e1c7add1d6de37a6ac5bff9c56459f93e62cb1a2.600x338.jpg?t=1554979526",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1043890/ss_e1c7add1d6de37a6ac5bff9c56459f93e62cb1a2.1920x1080.jpg?t=1554979526"
                 }
             ],
             "movies": [
                 {
-                    "id": 256744677,
+                    "id": 256746707,
                     "name": "Tipping Point Trailer",
-                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256744677/movie.293x165.jpg?t=1551874364",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256746707/movie.293x165.jpg?t=1554514022",
                     "webm": {
-                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256744677/movie480.webm?t=1551874364",
-                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256744677/movie_max.webm?t=1551874364"
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256746707/movie480.webm?t=1554514022",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256746707/movie_max.webm?t=1554514022"
+                    },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256746707/movie480.mp4?t=1554514022",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256746707/movie_max.mp4?t=1554514022"
                     },
                     "highlight": true
                 }
             ],
+            "achievements": {
+                "total": 12,
+                "highlighted": [
+                    {
+                        "name": "Wrong Number",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1043890/e9c35786dd0e3ce402d6c113130e32777aa3f650.jpg"
+                    },
+                    {
+                        "name": "Binary Paths",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1043890/09fb6d1e1eb87d3f93c5c96fbd76642acae882ba.jpg"
+                    },
+                    {
+                        "name": "Easter Egg",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1043890/da7b437ea67793c7311f58a8023786c82fb4e5af.jpg"
+                    },
+                    {
+                        "name": "Orc Slayer",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1043890/227df87b49cd079628adbdcc2cb4a7d04bc7b47e.jpg"
+                    },
+                    {
+                        "name": "Merchant Killer",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1043890/796c4b3f7cfbff792b37d898080eb0cd63f114b3.jpg"
+                    },
+                    {
+                        "name": "Egg Cocktail",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1043890/48a906037a9e58e9c38a7de6ea979cf79cadf6d5.jpg"
+                    },
+                    {
+                        "name": "Feeding the Flamingo",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1043890/f4d7baea1edf439d5aaba8ea77a564bc4876d6ae.jpg"
+                    },
+                    {
+                        "name": "Arcade Hero",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1043890/5e42ef8cf92384aee7a7deb49b7097c0be8f0d7d.jpg"
+                    },
+                    {
+                        "name": "Luminary",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1043890/fd519f48c07da4e0b9d0a7b5a89b8e28ffb5d977.jpg"
+                    },
+                    {
+                        "name": "Shame on you!",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1043890/a1c63a719ded6c292a992e80cc53215e1f29b8f8.jpg"
+                    }
+                ]
+            },
             "release_date": {
-                "coming_soon": true,
-                "date": "April, 2019"
+                "coming_soon": false,
+                "date": "11 Apr, 2019"
             },
             "support_info": {
                 "url": "https://dan-russell-pinson.com/contact/",
                 "email": "dan@freecloud.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1043890/page_bg_generated_v6b.jpg?t=1551980001",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1043890/page_bg_generated_v6b.jpg?t=1554979526",
             "content_descriptors": {
                 "ids": [],
                 "notes": null

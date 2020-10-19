@@ -7,8 +7,8 @@
             "steam_appid": 1043880,
             "required_age": 0,
             "is_free": false,
-            "detailed_description": "Move the puzzle pieces to complete the drawing.<br><br><strong>▪ 15 Images</strong><br><strong>▪ Relaxing music</strong><br><strong>▪ 100 Achievements</strong><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/1043880/extras/111.png?t=1566735766\" ><br>The game has adult content only!<br>All characters of the game are over 18 years old.",
-            "about_the_game": "Move the puzzle pieces to complete the drawing.<br><br><strong>▪ 15 Images</strong><br><strong>▪ Relaxing music</strong><br><strong>▪ 100 Achievements</strong><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/1043880/extras/111.png?t=1566735766\" ><br>The game has adult content only!<br>All characters of the game are over 18 years old.",
+            "detailed_description": "Move the puzzle pieces to complete the drawing.<br><br><strong>▪ 15 Images</strong><br><strong>▪ Relaxing music</strong><br><strong>▪ 100 Achievements</strong><br><img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/1043880/extras/111.png?t=1566735766\" /><br>The game has adult content only!<br>All characters of the game are over 18 years old.",
+            "about_the_game": "Move the puzzle pieces to complete the drawing.<br><br><strong>▪ 15 Images</strong><br><strong>▪ Relaxing music</strong><br><strong>▪ 100 Achievements</strong><br><img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/1043880/extras/111.png?t=1566735766\" /><br>The game has adult content only!<br>All characters of the game are over 18 years old.",
             "short_description": "Open the image by solving the puzzle under relaxing music.",
             "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Arabic<strong>*</strong>, Bulgarian<strong>*</strong>, Portuguese - Brazil<strong>*</strong>, Hungarian<strong>*</strong>, Vietnamese<strong>*</strong>, Greek<strong>*</strong>, Danish<strong>*</strong>, Spanish - Latin America<strong>*</strong>, Traditional Chinese<strong>*</strong>, Simplified Chinese<strong>*</strong>, Korean<strong>*</strong>, Dutch<strong>*</strong>, Norwegian<strong>*</strong>, Polish<strong>*</strong>, Portuguese<strong>*</strong>, Romanian<strong>*</strong>, Russian<strong>*</strong>, Thai<strong>*</strong>, Turkish<strong>*</strong>, Ukrainian<strong>*</strong>, Finnish<strong>*</strong>, Czech<strong>*</strong>, Swedish<strong>*</strong>, Japanese<strong>*</strong><br><strong>*</strong>languages with full audio support",
             "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1043880/header.jpg?t=1566735766",
@@ -34,10 +34,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 79,
-                "final": 79,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "0,79€"
+                "final": 47,
+                "discount_percent": 41,
+                "initial_formatted": "0,79€",
+                "final_formatted": "0,47€"
             },
             "packages": [
                 347804
@@ -54,13 +54,13 @@
                     "subs": [
                         {
                             "packageid": 347804,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-41% ",
                             "percent_savings": 0,
-                            "option_text": "Hentai Clouds - 0,79€",
+                            "option_text": "Hentai Clouds - <span class=\"discount_original_price\">0,79€</span> 0,47€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 79
+                            "price_in_cents_with_discount": 47
                         }
                     ]
                 }
@@ -125,6 +125,10 @@
                     "webm": {
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/256759669/movie480.webm?t=1566735756",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/256759669/movie_max.webm?t=1566735756"
+                    },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256759669/movie480.mp4?t=1566735756",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256759669/movie_max.mp4?t=1566735756"
                     },
                     "highlight": true
                 }
