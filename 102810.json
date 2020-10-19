@@ -47,7 +47,7 @@
                     "subs": [
                         {
                             "packageid": 11370,
-                            "percent_savings_text": "",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
                             "option_text": "Gatling Gears - 9,99€",
                             "option_description": "",
@@ -99,6 +99,10 @@
                 {
                     "id": 25,
                     "description": "Steam Leaderboards"
+                },
+                {
+                    "id": 44,
+                    "description": "Remote Play Together"
                 }
             ],
             "genres": [
@@ -175,6 +179,10 @@
                     "webm": {
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/81087/movie480.webm?t=1447354639",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/81087/movie_max.webm?t=1447354639"
+                    },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/81087/movie480.mp4?t=1447354639",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/81087/movie_max.mp4?t=1447354639"
                     },
                     "highlight": true
                 }
