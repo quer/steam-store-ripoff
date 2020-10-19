@@ -7,11 +7,11 @@
             "steam_appid": 1031580,
             "required_age": 0,
             "is_free": false,
-            "detailed_description": "Wait? 4 Dimensions? I thought there were only 3? Yes, partially true. There are three dimensions that are visible in the physical world. However that doesn't stop us from experiencing higher dimensions digitally. This is what 4DSnake is all about.<br />\r\n<br />\r\nPlay through scenarios in 4D as well as scenarios in 2D with varying content and difficulty. <br />\r\n<br />\r\nThis game is mainly played in a relative mode. In this mode, the camera is following you, so you are always positioned in the center of the screen.<br />\r\n<br />\r\nAbsolute mode scenarios can be unlocked by playing the relative mode scenarios.<br />\r\n<br />\r\nThe game also features Survivor Modes, where the goal is to get as high score as possible. This is also where you can compete with other players by getting higher position in the leaderboards.<br />\r\n<br />\r\nColors are customizable so if you do not like the default look, you can change it to something that is more to your liking.",
-            "about_the_game": "Wait? 4 Dimensions? I thought there were only 3? Yes, partially true. There are three dimensions that are visible in the physical world. However that doesn't stop us from experiencing higher dimensions digitally. This is what 4DSnake is all about.<br />\r\n<br />\r\nPlay through scenarios in 4D as well as scenarios in 2D with varying content and difficulty. <br />\r\n<br />\r\nThis game is mainly played in a relative mode. In this mode, the camera is following you, so you are always positioned in the center of the screen.<br />\r\n<br />\r\nAbsolute mode scenarios can be unlocked by playing the relative mode scenarios.<br />\r\n<br />\r\nThe game also features Survivor Modes, where the goal is to get as high score as possible. This is also where you can compete with other players by getting higher position in the leaderboards.<br />\r\n<br />\r\nColors are customizable so if you do not like the default look, you can change it to something that is more to your liking.",
+            "detailed_description": "Wait? 4 Dimensions? I thought there were only 3? Yes, partially true. There are three dimensions that are visible in the physical world. However that doesn't stop us from experiencing higher dimensions digitally. This is what 4DSnake is all about.<br />\r\n<br />\r\nPlay as a snake, eat food, avoid obstacles. Play through scenarios in 4D as well as scenarios in 2D with varying content and difficulty. <br />\r\n<br />\r\nThis game is mainly played in a relative mode. In this mode, the camera is following you, so you are always positioned in the center of the screen.<br />\r\n<br />\r\nAbsolute mode scenarios can be unlocked by playing the relative mode scenarios.<br />\r\n<br />\r\nThe game also features Survivor Modes, where the goal is to get as high score as possible. This is also where you can compete with other players by getting higher position in the leaderboards.<br />\r\n<br />\r\nColors are customizable so if you do not like the default look, you can change it to something that is more to your liking.",
+            "about_the_game": "Wait? 4 Dimensions? I thought there were only 3? Yes, partially true. There are three dimensions that are visible in the physical world. However that doesn't stop us from experiencing higher dimensions digitally. This is what 4DSnake is all about.<br />\r\n<br />\r\nPlay as a snake, eat food, avoid obstacles. Play through scenarios in 4D as well as scenarios in 2D with varying content and difficulty. <br />\r\n<br />\r\nThis game is mainly played in a relative mode. In this mode, the camera is following you, so you are always positioned in the center of the screen.<br />\r\n<br />\r\nAbsolute mode scenarios can be unlocked by playing the relative mode scenarios.<br />\r\n<br />\r\nThe game also features Survivor Modes, where the goal is to get as high score as possible. This is also where you can compete with other players by getting higher position in the leaderboards.<br />\r\n<br />\r\nColors are customizable so if you do not like the default look, you can change it to something that is more to your liking.",
             "short_description": "Wait? 4 Dimensions? I thought there were only 3? Yes partially true. There are three dimensions that are visible in the physical world. However that doesn't stop us from experiencing higher dimensions digitally. This is what 4DSnake is all about.",
             "supported_languages": "English",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1031580/header.jpg?t=1553640462",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1031580/header.jpg?t=1572460510",
             "website": "https://4dsnake.com/",
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> Intel HD Graphics<br></li><li><strong>Storage:</strong> 100 MB available space<br></li><li><strong>Additional Notes:</strong> May also work on previous versions of Windows</li></ul>"
@@ -32,7 +32,40 @@
                     "description": ""
                 }
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 569,
+                "final": 569,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "5,69€"
+            },
+            "packages": [
+                343169
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy 4DSnake",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 343169,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "4DSnake - 5,69€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 569
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": false,
@@ -73,38 +106,38 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031580/ss_cf273917dcd3985ee1532c3e66d63a35360d0ee9.600x338.jpg?t=1553640462",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031580/ss_cf273917dcd3985ee1532c3e66d63a35360d0ee9.1920x1080.jpg?t=1553640462"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031580/ss_cf273917dcd3985ee1532c3e66d63a35360d0ee9.600x338.jpg?t=1572460510",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031580/ss_cf273917dcd3985ee1532c3e66d63a35360d0ee9.1920x1080.jpg?t=1572460510"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031580/ss_4b608e4042fa1a29054321c8c92aad618604d16c.600x338.jpg?t=1553640462",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031580/ss_4b608e4042fa1a29054321c8c92aad618604d16c.1920x1080.jpg?t=1553640462"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031580/ss_4b608e4042fa1a29054321c8c92aad618604d16c.600x338.jpg?t=1572460510",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031580/ss_4b608e4042fa1a29054321c8c92aad618604d16c.1920x1080.jpg?t=1572460510"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031580/ss_0fd4275b08dfbc85cfdc50360ed3481179328353.600x338.jpg?t=1553640462",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031580/ss_0fd4275b08dfbc85cfdc50360ed3481179328353.1920x1080.jpg?t=1553640462"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031580/ss_0fd4275b08dfbc85cfdc50360ed3481179328353.600x338.jpg?t=1572460510",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031580/ss_0fd4275b08dfbc85cfdc50360ed3481179328353.1920x1080.jpg?t=1572460510"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031580/ss_6ffb6a55d0b12402479cbbc2088b06d0df2aba06.600x338.jpg?t=1553640462",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031580/ss_6ffb6a55d0b12402479cbbc2088b06d0df2aba06.1920x1080.jpg?t=1553640462"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031580/ss_6ffb6a55d0b12402479cbbc2088b06d0df2aba06.600x338.jpg?t=1572460510",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031580/ss_6ffb6a55d0b12402479cbbc2088b06d0df2aba06.1920x1080.jpg?t=1572460510"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031580/ss_ad9e141aea233c69a86247f1c98d70f230df3d8c.600x338.jpg?t=1553640462",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031580/ss_ad9e141aea233c69a86247f1c98d70f230df3d8c.1920x1080.jpg?t=1553640462"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031580/ss_ad9e141aea233c69a86247f1c98d70f230df3d8c.600x338.jpg?t=1572460510",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031580/ss_ad9e141aea233c69a86247f1c98d70f230df3d8c.1920x1080.jpg?t=1572460510"
                 },
                 {
                     "id": 5,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031580/ss_412c50adf4cbff85c81a963537b4f52e5b8a9df2.600x338.jpg?t=1553640462",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031580/ss_412c50adf4cbff85c81a963537b4f52e5b8a9df2.1920x1080.jpg?t=1553640462"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031580/ss_412c50adf4cbff85c81a963537b4f52e5b8a9df2.600x338.jpg?t=1572460510",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031580/ss_412c50adf4cbff85c81a963537b4f52e5b8a9df2.1920x1080.jpg?t=1572460510"
                 },
                 {
                     "id": 6,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031580/ss_be92bdda4ef1b49825b63630917851bb562d3827.600x338.jpg?t=1553640462",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031580/ss_be92bdda4ef1b49825b63630917851bb562d3827.1920x1080.jpg?t=1553640462"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031580/ss_be92bdda4ef1b49825b63630917851bb562d3827.600x338.jpg?t=1572460510",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031580/ss_be92bdda4ef1b49825b63630917851bb562d3827.1920x1080.jpg?t=1572460510"
                 }
             ],
             "movies": [
@@ -116,6 +149,10 @@
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/256745469/movie480.webm?t=1553335305",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/256745469/movie_max.webm?t=1553335305"
                     },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256745469/movie480.mp4?t=1553335305",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256745469/movie_max.mp4?t=1553335305"
+                    },
                     "highlight": true
                 },
                 {
@@ -126,18 +163,67 @@
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/256746086/movie480.webm?t=1553335314",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/256746086/movie_max.webm?t=1553335314"
                     },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256746086/movie480.mp4?t=1553335314",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256746086/movie_max.mp4?t=1553335314"
+                    },
                     "highlight": true
                 }
             ],
+            "achievements": {
+                "total": 95,
+                "highlighted": [
+                    {
+                        "name": "Learned the concept",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1031580/59ff66ea6a37450d52e28166eb6faf8a01ed6317.jpg"
+                    },
+                    {
+                        "name": "Getting up to speed",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1031580/41bd8b28c3c5a4208f9fa81eecf339f4110ba1c7.jpg"
+                    },
+                    {
+                        "name": "Precise",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1031580/adce0808782891c5ef03275ec6e941320987e842.jpg"
+                    },
+                    {
+                        "name": "Speedy",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1031580/ad9d3ab83d75b0a3bb52b6a6f0ff64347b244312.jpg"
+                    },
+                    {
+                        "name": "Rotations",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1031580/c1fe5ddeac1e80c97ae5cca93d50ce17995e3345.jpg"
+                    },
+                    {
+                        "name": "Followed the Wall",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1031580/0fe0456fc8d0ebfe00f30ad937970d82aa104d80.jpg"
+                    },
+                    {
+                        "name": "'mazing",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1031580/28fd1e42e55aad8f490d959cbf678ff90b6b8efd.jpg"
+                    },
+                    {
+                        "name": "Lead me!",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1031580/9a9ce7a14575d31b4341c3b7de48c8c10b481f67.jpg"
+                    },
+                    {
+                        "name": "Immutable",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1031580/18368496adcaf7342db001dd0798e9daf7d42c4e.jpg"
+                    },
+                    {
+                        "name": "Cells?",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1031580/06255916742ef3ff1b803b0bdad9b1c95891d7ee.jpg"
+                    }
+                ]
+            },
             "release_date": {
-                "coming_soon": true,
+                "coming_soon": false,
                 "date": "4 Apr, 2019"
             },
             "support_info": {
                 "url": "",
                 "email": "4dsnake@gmail.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1031580/page_bg_generated_v6b.jpg?t=1553640462",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1031580/page_bg_generated_v6b.jpg?t=1572460510",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
