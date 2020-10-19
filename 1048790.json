@@ -7,12 +7,12 @@
             "steam_appid": 1048790,
             "required_age": 0,
             "is_free": false,
-            "detailed_description": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/1048790/extras/1_E.png?t=1553224610\" ><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/1048790/extras/2_B.png?t=1553224610\" ><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/1048790/extras/3_B.png?t=1553224610\" >",
-            "about_the_game": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/1048790/extras/1_E.png?t=1553224610\" ><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/1048790/extras/2_B.png?t=1553224610\" ><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/1048790/extras/3_B.png?t=1553224610\" >",
+            "detailed_description": "<img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/1048790/extras/1_E.png?t=1588928991\" /><br><img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/1048790/extras/2_B.png?t=1588928991\" /><br><img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/1048790/extras/3_B.png?t=1588928991\" />",
+            "about_the_game": "<img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/1048790/extras/1_E.png?t=1588928991\" /><br><img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/1048790/extras/2_B.png?t=1588928991\" /><br><img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/1048790/extras/3_B.png?t=1588928991\" />",
             "short_description": "A surreal dark-comedy RPG set in an alternate-reality American dystopia! Witches, nightmarish creatures, conspiracies - oh my!",
             "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1048790/header.jpg?t=1553224610",
-            "website": "http://www.xen0n.com",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1048790/header.jpg?t=1588928991",
+            "website": "https://sites.google.com/view/xen0n",
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Win 7/8/10    32/64bit<br></li><li><strong>Processor:</strong> Intel Core 2 Duo or better<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> DirectX 9/OpenGL 4.1 capable GPU<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>",
                 "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Win 7+<br></li><li><strong>Memory:</strong> 6 GB RAM<br></li><li><strong>Graphics:</strong> Dx9 capable GPU<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 3 GB available space</li></ul>"
@@ -25,7 +25,40 @@
             "publishers": [
                 "Xenon"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 1679,
+                "final": 1679,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "16,79€"
+            },
+            "packages": [
+                349761
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Phantasmata",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 349761,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "Phantasmata - 16,79€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 1679
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": false,
@@ -66,36 +99,70 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1048790/ss_8efa488e6f0069678e66171e148162140abd3704.600x338.jpg?t=1553224610",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1048790/ss_8efa488e6f0069678e66171e148162140abd3704.1920x1080.jpg?t=1553224610"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1048790/ss_c5b46e089ebb7c487eb138a888ce5f6559326a2f.600x338.jpg?t=1588928991",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1048790/ss_c5b46e089ebb7c487eb138a888ce5f6559326a2f.1920x1080.jpg?t=1588928991"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1048790/ss_73157e7824dd99fb7c6c0f3cfe0a7c626b15d534.600x338.jpg?t=1553224610",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1048790/ss_73157e7824dd99fb7c6c0f3cfe0a7c626b15d534.1920x1080.jpg?t=1553224610"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1048790/ss_65bb03bcac4258de0387a3c85ab607c12b976b59.600x338.jpg?t=1588928991",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1048790/ss_65bb03bcac4258de0387a3c85ab607c12b976b59.1920x1080.jpg?t=1588928991"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1048790/ss_381d70ec58f5bea2f50c7118a69a2ddc810ca717.600x338.jpg?t=1553224610",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1048790/ss_381d70ec58f5bea2f50c7118a69a2ddc810ca717.1920x1080.jpg?t=1553224610"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1048790/ss_aa848b7630a453e13ad2ed1664e4085502aec02d.600x338.jpg?t=1588928991",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1048790/ss_aa848b7630a453e13ad2ed1664e4085502aec02d.1920x1080.jpg?t=1588928991"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1048790/ss_550a500ea88cb8e4c7553a9c90eadfa0bbfa09e0.600x338.jpg?t=1553224610",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1048790/ss_550a500ea88cb8e4c7553a9c90eadfa0bbfa09e0.1920x1080.jpg?t=1553224610"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1048790/ss_73157e7824dd99fb7c6c0f3cfe0a7c626b15d534.600x338.jpg?t=1588928991",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1048790/ss_73157e7824dd99fb7c6c0f3cfe0a7c626b15d534.1920x1080.jpg?t=1588928991"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1048790/ss_b7c924677dae19d5facf5245c24e716e62538e0d.600x338.jpg?t=1553224610",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1048790/ss_b7c924677dae19d5facf5245c24e716e62538e0d.1920x1080.jpg?t=1553224610"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1048790/ss_381d70ec58f5bea2f50c7118a69a2ddc810ca717.600x338.jpg?t=1588928991",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1048790/ss_381d70ec58f5bea2f50c7118a69a2ddc810ca717.1920x1080.jpg?t=1588928991"
                 },
                 {
                     "id": 5,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1048790/ss_65bb03bcac4258de0387a3c85ab607c12b976b59.600x338.jpg?t=1553224610",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1048790/ss_65bb03bcac4258de0387a3c85ab607c12b976b59.1920x1080.jpg?t=1553224610"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1048790/ss_550a500ea88cb8e4c7553a9c90eadfa0bbfa09e0.600x338.jpg?t=1588928991",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1048790/ss_550a500ea88cb8e4c7553a9c90eadfa0bbfa09e0.1920x1080.jpg?t=1588928991"
+                },
+                {
+                    "id": 6,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1048790/ss_b7c924677dae19d5facf5245c24e716e62538e0d.600x338.jpg?t=1588928991",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1048790/ss_b7c924677dae19d5facf5245c24e716e62538e0d.1920x1080.jpg?t=1588928991"
+                },
+                {
+                    "id": 7,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1048790/ss_8efa488e6f0069678e66171e148162140abd3704.600x338.jpg?t=1588928991",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1048790/ss_8efa488e6f0069678e66171e148162140abd3704.1920x1080.jpg?t=1588928991"
+                },
+                {
+                    "id": 8,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1048790/ss_02793c689033259933a795fbf10b7c9d7c92f98a.600x338.jpg?t=1588928991",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1048790/ss_02793c689033259933a795fbf10b7c9d7c92f98a.1920x1080.jpg?t=1588928991"
+                },
+                {
+                    "id": 9,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1048790/ss_5e2a8f25238fe58ebc6acac191df6f69c6909a2e.600x338.jpg?t=1588928991",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1048790/ss_5e2a8f25238fe58ebc6acac191df6f69c6909a2e.1920x1080.jpg?t=1588928991"
                 }
             ],
             "movies": [
+                {
+                    "id": 256749207,
+                    "name": "Phantasmata Gameplay Footage",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256749207/movie.293x165.jpg?t=1556443210",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256749207/movie480.webm?t=1556443210",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256749207/movie_max.webm?t=1556443210"
+                    },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256749207/movie480.mp4?t=1556443210",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256749207/movie_max.mp4?t=1556443210"
+                    },
+                    "highlight": true
+                },
                 {
                     "id": 256745599,
                     "name": "Phantasmata Early Access trailer",
@@ -104,18 +171,22 @@
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/256745599/movie480.webm?t=1553039123",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/256745599/movie_max.webm?t=1553039123"
                     },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256745599/movie480.mp4?t=1553039123",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256745599/movie_max.mp4?t=1553039123"
+                    },
                     "highlight": true
                 }
             ],
             "release_date": {
-                "coming_soon": true,
-                "date": "Dec 2019"
+                "coming_soon": false,
+                "date": "6 Apr, 2019"
             },
             "support_info": {
                 "url": "https://discord.gg/xv96qPW",
                 "email": "xen0ntheai@gmail.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1048790/page_bg_generated_v6b.jpg?t=1553224610",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1048790/page_bg_generated_v6b.jpg?t=1588928991",
             "content_descriptors": {
                 "ids": [
                     1,
