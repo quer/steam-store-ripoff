@@ -7,11 +7,11 @@
             "steam_appid": 1031130,
             "required_age": 0,
             "is_free": false,
-            "detailed_description": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/1031130/extras/Store_Page_pic.png?t=1553913899\" ><br>Bat Hotel is a casual game with agility and role-playing elements. Observe and then discover the movement patterns of different enemies and traps.  You will control the movement of a magic perfume bottle to purify evil energy in a hotel attacked by dark forces and help all the hotel guests out of trouble. Press the key as fast as you can!<h2 class=\"bb_tag\">Story</h2>As the most famous magician in the town, you were assigned to investigate a hotel in the outskirts of town. A group of girls traveling throughout this place wants to have a rest, but they are in trouble now. They need help immediately. Watch out, one of them is the incarnation of evil.<h2 class=\"bb_tag\">Features</h2>·The attack speed depends on the speed of your keystrokes.<br>·8 stages<br>·Every normal hotel guests have 2 styles of clothing.<br>·different enemy groups at each level<br>·an atmosphere of horror",
-            "about_the_game": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/1031130/extras/Store_Page_pic.png?t=1553913899\" ><br>Bat Hotel is a casual game with agility and role-playing elements. Observe and then discover the movement patterns of different enemies and traps.  You will control the movement of a magic perfume bottle to purify evil energy in a hotel attacked by dark forces and help all the hotel guests out of trouble. Press the key as fast as you can!<h2 class=\"bb_tag\">Story</h2>As the most famous magician in the town, you were assigned to investigate a hotel in the outskirts of town. A group of girls traveling throughout this place wants to have a rest, but they are in trouble now. They need help immediately. Watch out, one of them is the incarnation of evil.<h2 class=\"bb_tag\">Features</h2>·The attack speed depends on the speed of your keystrokes.<br>·8 stages<br>·Every normal hotel guests have 2 styles of clothing.<br>·different enemy groups at each level<br>·an atmosphere of horror",
+            "detailed_description": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/1031130/extras/Store_Page_pic.png?t=1556632166\" /><br>Bat Hotel is a casual game with agility and role-playing elements. Observe and then discover the movement patterns of different enemies and traps.  You will control the movement of a magic perfume bottle to purify evil energy in a hotel attacked by dark forces and help all the hotel guests out of trouble. Press the key as fast as you can!<br><br>[Background Story]<br>As the most famous magician in the town, you were assigned to investigate a hotel in the outskirts of town. A group of girls traveling throughout this place wants to have a rest, but they are in trouble now. They need help immediately. Watch out, one of them is the incarnation of evil.<br><br>[Game Features]<br>-The attack speed depends on the speed of your keystrokes<br>-Every normal hotel guests have 2 states of clothing <br>-different enemy groups at each level<br>-an atmosphere of horror<br>-8 diffenrent characters for 8 battles",
+            "about_the_game": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/1031130/extras/Store_Page_pic.png?t=1556632166\" /><br>Bat Hotel is a casual game with agility and role-playing elements. Observe and then discover the movement patterns of different enemies and traps.  You will control the movement of a magic perfume bottle to purify evil energy in a hotel attacked by dark forces and help all the hotel guests out of trouble. Press the key as fast as you can!<br><br>[Background Story]<br>As the most famous magician in the town, you were assigned to investigate a hotel in the outskirts of town. A group of girls traveling throughout this place wants to have a rest, but they are in trouble now. They need help immediately. Watch out, one of them is the incarnation of evil.<br><br>[Game Features]<br>-The attack speed depends on the speed of your keystrokes<br>-Every normal hotel guests have 2 states of clothing <br>-different enemy groups at each level<br>-an atmosphere of horror<br>-8 diffenrent characters for 8 battles",
             "short_description": "Bat Hotel, an agility and casual game, exercise your fingers, challenge your reactivity, and help you get some relaxation.",
-            "supported_languages": "English, Japanese, Simplified Chinese, Korean",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1031130/header.jpg?t=1553913899",
+            "supported_languages": "English, Japanese, Simplified Chinese, Korean, Russian",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1031130/header.jpg?t=1556632166",
             "website": null,
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP/7/8/10 or better<br></li><li><strong>Processor:</strong> 1.2 GHz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> GeForce GTX 260/Radeon HD 5770 or better<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>"
@@ -24,7 +24,40 @@
             "publishers": [
                 "TSN Entertainment"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 79,
+                "final": 79,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "0,79€"
+            },
+            "packages": [
+                343007
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Bat Hotel",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 343007,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "Bat Hotel - 0,79€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 79
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": false,
@@ -44,43 +77,46 @@
                 {
                     "id": "4",
                     "description": "Casual"
+                },
+                {
+                    "id": "3",
+                    "description": "RPG"
+                },
+                {
+                    "id": "28",
+                    "description": "Simulation"
                 }
             ],
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031130/ss_cba2be877c2e33fcb432790f62df3daca2aa0d1d.600x338.jpg?t=1553913899",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031130/ss_cba2be877c2e33fcb432790f62df3daca2aa0d1d.1920x1080.jpg?t=1553913899"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031130/ss_cba2be877c2e33fcb432790f62df3daca2aa0d1d.600x338.jpg?t=1556632166",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031130/ss_cba2be877c2e33fcb432790f62df3daca2aa0d1d.1920x1080.jpg?t=1556632166"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031130/ss_b64e90605ac4ce30d84972314646b7bdd7c06e1e.600x338.jpg?t=1553913899",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031130/ss_b64e90605ac4ce30d84972314646b7bdd7c06e1e.1920x1080.jpg?t=1553913899"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031130/ss_b64e90605ac4ce30d84972314646b7bdd7c06e1e.600x338.jpg?t=1556632166",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031130/ss_b64e90605ac4ce30d84972314646b7bdd7c06e1e.1920x1080.jpg?t=1556632166"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031130/ss_2c410d8f7f7a6e971629a8412c19d6d540d6fb67.600x338.jpg?t=1553913899",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031130/ss_2c410d8f7f7a6e971629a8412c19d6d540d6fb67.1920x1080.jpg?t=1553913899"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031130/ss_c80687a0192abc8b99ab420bc1ba763e078b0d68.600x338.jpg?t=1556632166",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031130/ss_c80687a0192abc8b99ab420bc1ba763e078b0d68.1920x1080.jpg?t=1556632166"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031130/ss_c80687a0192abc8b99ab420bc1ba763e078b0d68.600x338.jpg?t=1553913899",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031130/ss_c80687a0192abc8b99ab420bc1ba763e078b0d68.1920x1080.jpg?t=1553913899"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031130/ss_902283229b0e6c4f9362c3a9752ac9bf921c10c5.600x338.jpg?t=1556632166",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031130/ss_902283229b0e6c4f9362c3a9752ac9bf921c10c5.1920x1080.jpg?t=1556632166"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031130/ss_902283229b0e6c4f9362c3a9752ac9bf921c10c5.600x338.jpg?t=1553913899",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031130/ss_902283229b0e6c4f9362c3a9752ac9bf921c10c5.1920x1080.jpg?t=1553913899"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031130/ss_446931cdd2028a8a59b9e688d3d3c7e3cc80c020.600x338.jpg?t=1556632166",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031130/ss_446931cdd2028a8a59b9e688d3d3c7e3cc80c020.1920x1080.jpg?t=1556632166"
                 },
                 {
                     "id": 5,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031130/ss_446931cdd2028a8a59b9e688d3d3c7e3cc80c020.600x338.jpg?t=1553913899",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031130/ss_446931cdd2028a8a59b9e688d3d3c7e3cc80c020.1920x1080.jpg?t=1553913899"
-                },
-                {
-                    "id": 6,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031130/ss_d312edb071c7ccd486a2fb181dc3685d0dc8f05b.600x338.jpg?t=1553913899",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031130/ss_d312edb071c7ccd486a2fb181dc3685d0dc8f05b.1920x1080.jpg?t=1553913899"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031130/ss_d312edb071c7ccd486a2fb181dc3685d0dc8f05b.600x338.jpg?t=1556632166",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031130/ss_d312edb071c7ccd486a2fb181dc3685d0dc8f05b.1920x1080.jpg?t=1556632166"
                 }
             ],
             "movies": [
@@ -92,18 +128,22 @@
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/256742845/movie480.webm?t=1553913902",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/256742845/movie_max.webm?t=1553913902"
                     },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256742845/movie480.mp4?t=1553913902",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256742845/movie_max.mp4?t=1553913902"
+                    },
                     "highlight": true
                 }
             ],
             "release_date": {
-                "coming_soon": true,
-                "date": "Apr 2019"
+                "coming_soon": false,
+                "date": "30 Apr, 2019"
             },
             "support_info": {
                 "url": "",
                 "email": "292290842@qq.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1031130/page_bg_generated_v6b.jpg?t=1553913899",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1031130/page_bg_generated_v6b.jpg?t=1556632166",
             "content_descriptors": {
                 "ids": [
                     1,

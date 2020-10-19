@@ -7,11 +7,11 @@
             "steam_appid": 1031220,
             "required_age": 0,
             "is_free": false,
-            "detailed_description": "<h2 class=\"bb_tag\">Presentation</h2><br>Embark on a journey as the four chosen champions of the Goddess Thora, in an ultimate fight against her son, Ganga.<br>The Evil Lord who seeks to destroy the world as everyone knows it to create one anew. Only you stand in his way!<h2 class=\"bb_tag\">Features</h2><br><ul class=\"bb_ul\"><li>    Dynamic Party System, play through different character perspectives<br></li><li>    7 Special Dungeons to explore<br></li><li>    Dozens of Rare Items to be found<br></li><li>    Three difficulty modes for both acommodation and replayability</li></ul>",
-            "about_the_game": "<h2 class=\"bb_tag\">Presentation</h2><br>Embark on a journey as the four chosen champions of the Goddess Thora, in an ultimate fight against her son, Ganga.<br>The Evil Lord who seeks to destroy the world as everyone knows it to create one anew. Only you stand in his way!<h2 class=\"bb_tag\">Features</h2><br><ul class=\"bb_ul\"><li>    Dynamic Party System, play through different character perspectives<br></li><li>    7 Special Dungeons to explore<br></li><li>    Dozens of Rare Items to be found<br></li><li>    Three difficulty modes for both acommodation and replayability</li></ul>",
+            "detailed_description": "<h2 class=\"bb_tag\">Presentation</h2><br>Embark on a journey as the four chosen champions of the Goddess Thora, in an ultimate fight against her son, Ganga.<br>The Evil Lord who seeks to destroy the world as everyone knows it to create one anew. Only you stand in his way!<h2 class=\"bb_tag\">Features</h2><br><ul class=\"bb_ul\"><li>    Dynamic Party System, play through different character perspectives<br></li><li>    7 Special Dungeons to explore<br></li><li>    Dozens of Rare Items to be found<br></li><li>    Three difficulty modes for both acommodation and replayability</li></ul><h2 class=\"bb_tag\">More Games</h2><br><a href=\"https://store.steampowered.com/app/1031210/Fantasy_Heroes\" target=\"_blank\" rel=\"noreferrer\"  id=\"dynamiclink_0\" >https://store.steampowered.com/app/1031210/Fantasy_Heroes</a><br><br><a href=\"https://store.steampowered.com/app/618760/IronBorn\" target=\"_blank\" rel=\"noreferrer\"  id=\"dynamiclink_1\" >https://store.steampowered.com/app/618760/IronBorn</a><br><br><a href=\"https://store.steampowered.com/app/370620/Onyx\" target=\"_blank\" rel=\"noreferrer\"  id=\"dynamiclink_2\" >https://store.steampowered.com/app/370620/Onyx</a>",
+            "about_the_game": "<h2 class=\"bb_tag\">Presentation</h2><br>Embark on a journey as the four chosen champions of the Goddess Thora, in an ultimate fight against her son, Ganga.<br>The Evil Lord who seeks to destroy the world as everyone knows it to create one anew. Only you stand in his way!<h2 class=\"bb_tag\">Features</h2><br><ul class=\"bb_ul\"><li>    Dynamic Party System, play through different character perspectives<br></li><li>    7 Special Dungeons to explore<br></li><li>    Dozens of Rare Items to be found<br></li><li>    Three difficulty modes for both acommodation and replayability</li></ul><h2 class=\"bb_tag\">More Games</h2><br><a href=\"https://store.steampowered.com/app/1031210/Fantasy_Heroes\" target=\"_blank\" rel=\"noreferrer\"  id=\"dynamiclink_3\" >https://store.steampowered.com/app/1031210/Fantasy_Heroes</a><br><br><a href=\"https://store.steampowered.com/app/618760/IronBorn\" target=\"_blank\" rel=\"noreferrer\"  id=\"dynamiclink_4\" >https://store.steampowered.com/app/618760/IronBorn</a><br><br><a href=\"https://store.steampowered.com/app/370620/Onyx\" target=\"_blank\" rel=\"noreferrer\"  id=\"dynamiclink_5\" >https://store.steampowered.com/app/370620/Onyx</a>",
             "short_description": "Embark on a journey as the four chosen champions of the Goddess Thora, in an ultimate fight against her son, Ganga. The Evil Lord who seeks to destroy the world as everyone knows it to create one anew. Only you stand in his way!",
             "supported_languages": "English",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1031220/header.jpg?t=1581580146",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1031220/header.jpg?t=1599170624",
             "website": "https://www.aldorlea.org/championsofthora.php",
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP/Windows Vista/Windows 7/8/10<br></li><li><strong>Processor:</strong> 2 GHz<br></li><li><strong>Memory:</strong> 128 MB RAM<br></li><li><strong>Graphics:</strong> DirectX 9.0 Compatible<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 500 MB available space<br></li><li><strong>Sound Card:</strong> DirectX 9.0 Compatible Sound</li></ul>"
@@ -24,7 +24,40 @@
             "publishers": [
                 "Blue Phoenix Games"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 499,
+                "final": 124,
+                "discount_percent": 75,
+                "initial_formatted": "4,99€",
+                "final_formatted": "1,24€"
+            },
+            "packages": [
+                343041
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Champions of Thora",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 343041,
+                            "percent_savings_text": "-75% ",
+                            "percent_savings": 0,
+                            "option_text": "Champions of Thora - <span class=\"discount_original_price\">4,99€</span> 1,24€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 124
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": false,
@@ -61,28 +94,28 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031220/ss_794e4d17728853dd87b913ebf4dbe0eb12290679.600x338.jpg?t=1581580146",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031220/ss_794e4d17728853dd87b913ebf4dbe0eb12290679.1920x1080.jpg?t=1581580146"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031220/ss_794e4d17728853dd87b913ebf4dbe0eb12290679.600x338.jpg?t=1599170624",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031220/ss_794e4d17728853dd87b913ebf4dbe0eb12290679.1920x1080.jpg?t=1599170624"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031220/ss_56a1bfd9f3975fb2f5fb7c3d5e69837de8005256.600x338.jpg?t=1581580146",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031220/ss_56a1bfd9f3975fb2f5fb7c3d5e69837de8005256.1920x1080.jpg?t=1581580146"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031220/ss_56a1bfd9f3975fb2f5fb7c3d5e69837de8005256.600x338.jpg?t=1599170624",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031220/ss_56a1bfd9f3975fb2f5fb7c3d5e69837de8005256.1920x1080.jpg?t=1599170624"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031220/ss_d4d31e1e5d7f10108361a6d1b8bb4fea5a437a52.600x338.jpg?t=1581580146",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031220/ss_d4d31e1e5d7f10108361a6d1b8bb4fea5a437a52.1920x1080.jpg?t=1581580146"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031220/ss_d4d31e1e5d7f10108361a6d1b8bb4fea5a437a52.600x338.jpg?t=1599170624",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031220/ss_d4d31e1e5d7f10108361a6d1b8bb4fea5a437a52.1920x1080.jpg?t=1599170624"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031220/ss_fe9c7e7891381b8f32af32e862b0527fcfeccea1.600x338.jpg?t=1581580146",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031220/ss_fe9c7e7891381b8f32af32e862b0527fcfeccea1.1920x1080.jpg?t=1581580146"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031220/ss_fe9c7e7891381b8f32af32e862b0527fcfeccea1.600x338.jpg?t=1599170624",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031220/ss_fe9c7e7891381b8f32af32e862b0527fcfeccea1.1920x1080.jpg?t=1599170624"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031220/ss_f09edd10eb0551e1f49ee5ed5820e1aad5258478.600x338.jpg?t=1581580146",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031220/ss_f09edd10eb0551e1f49ee5ed5820e1aad5258478.1920x1080.jpg?t=1581580146"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1031220/ss_f09edd10eb0551e1f49ee5ed5820e1aad5258478.600x338.jpg?t=1599170624",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1031220/ss_f09edd10eb0551e1f49ee5ed5820e1aad5258478.1920x1080.jpg?t=1599170624"
                 }
             ],
             "movies": [
@@ -94,18 +127,22 @@
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/256774800/movie480.webm?t=1581580133",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/256774800/movie_max.webm?t=1581580133"
                     },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256774800/movie480.mp4?t=1581580133",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256774800/movie_max.mp4?t=1581580133"
+                    },
                     "highlight": true
                 }
             ],
             "release_date": {
-                "coming_soon": true,
+                "coming_soon": false,
                 "date": "5 Mar, 2020"
             },
             "support_info": {
                 "url": "",
                 "email": "aldorlea@googlemail.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1031220/page_bg_generated_v6b.jpg?t=1581580146",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1031220/page_bg_generated_v6b.jpg?t=1599170624",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
