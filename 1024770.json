@@ -61,7 +61,7 @@
                     "subs": [
                         {
                             "packageid": 340423,
-                            "percent_savings_text": "",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
                             "option_text": "We Happy Few - We All Fall Down - 8,99€",
                             "option_description": "",
@@ -71,7 +71,7 @@
                         },
                         {
                             "packageid": 295539,
-                            "percent_savings_text": "",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
                             "option_text": "We Happy Few - Season Pass - 24,99€",
                             "option_description": "",
@@ -163,12 +163,13 @@
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/256767710/movie480.webm?t=1574197721",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/256767710/movie_max.webm?t=1574197721"
                     },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256767710/movie480.mp4?t=1574197721",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256767710/movie_max.mp4?t=1574197721"
+                    },
                     "highlight": true
                 }
             ],
-            "achievements": {
-                "total": 0
-            },
             "release_date": {
                 "coming_soon": false,
                 "date": "19 Nov, 2019"
