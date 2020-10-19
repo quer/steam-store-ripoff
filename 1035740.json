@@ -1,5 +1,115 @@
 {
     "1035740": {
-        "success": false
+        "success": true,
+        "data": {
+            "type": "demo",
+            "name": "Unbound: Worlds Apart Demo",
+            "steam_appid": 1035740,
+            "required_age": 0,
+            "is_free": true,
+            "controller_support": "full",
+            "detailed_description": "Unbound is an atmospheric 2D Puzzle-Platformer where the main character, Soli, can conjure magic portals to travel between different realities in order to learn more about the catastrophe that ravaged his world. Inside certain portals, the physical properties of the character or world elements can change, offering new gameplay possibilities.<br />\r\n<br />\r\nUnbound’s artistic approach can be summarized as a dark fairy tale presented in a cartoonish style, with the purpose to give the game experience a fresh look and feel. Curiosity and exploration will have an impact on the overall atmosphere .",
+            "about_the_game": "Unbound is an atmospheric 2D Puzzle-Platformer where the main character, Soli, can conjure magic portals to travel between different realities in order to learn more about the catastrophe that ravaged his world. Inside certain portals, the physical properties of the character or world elements can change, offering new gameplay possibilities.<br />\r\n<br />\r\nUnbound’s artistic approach can be summarized as a dark fairy tale presented in a cartoonish style, with the purpose to give the game experience a fresh look and feel. Curiosity and exploration will have an impact on the overall atmosphere .",
+            "short_description": "Explore the beauty and the danger of long forgotten worlds. Use the powers of different portals to find the hidden path through dangers spread in front of you!",
+            "fullgame": {
+                "appid": "814680",
+                "name": "Unbound: Worlds Apart"
+            },
+            "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1035740/header.jpg?t=1598024825",
+            "website": null,
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 7 and above<br></li><li><strong>Processor:</strong> Intel Core i3 @ 2.00 GHz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Dedicated GPU recommended<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 3 GB available space</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Intel Core i7 @ 3.00 GHz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Dedicated GPU recommended<br></li><li><strong>Storage:</strong> 3 GB available space</li></ul>"
+            },
+            "mac_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+            },
+            "linux_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Ubuntu 16.04 LTS (64bit)<br></li><li><strong>Processor:</strong> Multi-core 2.5GHz or faster<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GTX 750 or equivalent<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Ubuntu 16.04 LTS (64bit)<br></li><li><strong>Processor:</strong> Multi-core 2.5GHz or faster<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GTX 950 or equivalent<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
+            },
+            "developers": [
+                "Alien Pixel Studios"
+            ],
+            "publishers": [
+                "Alien Pixel Studios"
+            ],
+            "package_groups": [],
+            "platforms": {
+                "windows": true,
+                "mac": false,
+                "linux": true
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 10,
+                    "description": "Game demo"
+                },
+                {
+                    "id": 28,
+                    "description": "Full controller support"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "1",
+                    "description": "Action"
+                },
+                {
+                    "id": "25",
+                    "description": "Adventure"
+                },
+                {
+                    "id": "23",
+                    "description": "Indie"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1035740/ss_91a28f99cf39ffd380a3db14965ec7c7430a572f.600x338.jpg?t=1598024825",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1035740/ss_91a28f99cf39ffd380a3db14965ec7c7430a572f.1920x1080.jpg?t=1598024825"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1035740/ss_5909c2b9cee6539901bc57594d9062aaf7907738.600x338.jpg?t=1598024825",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1035740/ss_5909c2b9cee6539901bc57594d9062aaf7907738.1920x1080.jpg?t=1598024825"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1035740/ss_dae9c23bc708ea0240e27aae1474a89426e59f02.600x338.jpg?t=1598024825",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1035740/ss_dae9c23bc708ea0240e27aae1474a89426e59f02.1920x1080.jpg?t=1598024825"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1035740/ss_7627fee8ee45c2e0b3c22e3644849b208ab6b7a2.600x338.jpg?t=1598024825",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1035740/ss_7627fee8ee45c2e0b3c22e3644849b208ab6b7a2.1920x1080.jpg?t=1598024825"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1035740/ss_3e2746fa741ca407fdc338bf6680389c150330d0.600x338.jpg?t=1598024825",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1035740/ss_3e2746fa741ca407fdc338bf6680389c150330d0.1920x1080.jpg?t=1598024825"
+                }
+            ],
+            "release_date": {
+                "coming_soon": false,
+                "date": "7 May, 2019"
+            },
+            "support_info": {
+                "url": "http://unboundthegame.com/",
+                "email": "sergiultd@gmail.com"
+            },
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1035740/page_bg_generated_v6b.jpg?t=1598024825",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            }
+        }
     }
 }
