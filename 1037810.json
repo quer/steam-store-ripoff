@@ -48,7 +48,7 @@
                     "subs": [
                         {
                             "packageid": 345610,
-                            "percent_savings_text": "",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
                             "option_text": "Ping Pong Trick Shot EVOLUTION - 3,99€",
                             "option_description": "",
@@ -74,12 +74,20 @@
                     "description": "Multi-player"
                 },
                 {
+                    "id": 49,
+                    "description": "PvP"
+                },
+                {
                     "id": 37,
-                    "description": "Local Multi-Player"
+                    "description": "Shared/Split Screen PvP"
                 },
                 {
                     "id": 18,
                     "description": "Partial Controller Support"
+                },
+                {
+                    "id": 44,
+                    "description": "Remote Play Together"
                 }
             ],
             "genres": [
@@ -151,6 +159,10 @@
                     "webm": {
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/256743932/movie480.webm?t=1551685877",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/256743932/movie_max.webm?t=1551685877"
+                    },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256743932/movie480.mp4?t=1551685877",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256743932/movie_max.mp4?t=1551685877"
                     },
                     "highlight": true
                 }
