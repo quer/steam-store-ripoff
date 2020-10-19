@@ -3,7 +3,7 @@
         "success": true,
         "data": {
             "type": "game",
-            "name": "東方輝針城 〜 Double Dealing Character.",
+            "name": "Touhou Kishinjou ~ Double Dealing Character.",
             "steam_appid": 1043240,
             "required_age": 0,
             "is_free": false,
@@ -39,7 +39,7 @@
             "package_groups": [
                 {
                     "name": "default",
-                    "title": "Buy 東方輝針城 〜 Double Dealing Character.",
+                    "title": "Buy Touhou Kishinjou ~ Double Dealing Character.",
                     "description": "",
                     "selection_text": "Select a purchase option",
                     "save_text": "",
@@ -48,7 +48,7 @@
                     "subs": [
                         {
                             "packageid": 347599,
-                            "percent_savings_text": "",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
                             "option_text": "東方輝針城 〜 Double Dealing Character. - 12,49€",
                             "option_description": "",
@@ -120,14 +120,15 @@
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/256745091/movie480.webm?t=1559636037",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/256745091/movie_max.webm?t=1559636037"
                     },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256745091/movie480.mp4?t=1559636037",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256745091/movie_max.mp4?t=1559636037"
+                    },
                     "highlight": true
                 }
             ],
             "recommendations": {
-                "total": 102
-            },
-            "achievements": {
-                "total": 0
+                "total": 151
             },
             "release_date": {
                 "coming_soon": false,
