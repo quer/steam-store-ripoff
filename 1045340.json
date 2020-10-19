@@ -27,10 +27,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 79,
-                "final": 55,
-                "discount_percent": 30,
-                "initial_formatted": "0,79€",
-                "final_formatted": "0,55€"
+                "final": 79,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "0,79€"
             },
             "packages": [
                 348366
@@ -47,13 +47,13 @@
                     "subs": [
                         {
                             "packageid": 348366,
-                            "percent_savings_text": "-30%",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "PUSSY 2 - <span class=\"discount_original_price\">0,79€</span> 0,55€",
+                            "option_text": "PUSSY 2 - 0,79€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 55
+                            "price_in_cents_with_discount": 79
                         }
                     ]
                 }
@@ -122,6 +122,10 @@
                     "webm": {
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/256745386/movie480.webm?t=1552911504",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/256745386/movie_max.webm?t=1552911504"
+                    },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256745386/movie480.mp4?t=1552911504",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256745386/movie_max.mp4?t=1552911504"
                     },
                     "highlight": true
                 }

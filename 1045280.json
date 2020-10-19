@@ -12,22 +12,55 @@
             "about_the_game": "Sport videogame based in crossminton, an emerging racquet sport where the players play in two separated fields without net and using a custom flyer and racquets. It can be played as single 1 vs 1 or doubles 2 vs 2. <br />\r\n<br />\r\nWe are collaborating with the ICO (International Crossminton Organization) and international players to recreate the most realistic crossminton gameplay.<br />\r\n<br />\r\nFEATURES:<br />\r\nFrantic &amp; exciting gameplay to bring you full crossminton experience<br />\r\nSingle &amp; doubles crossminton matches up to 4 players on same screen<br />\r\nTournaments &amp; Leagues for long game sessions<br />\r\n20+ characters based on real international players<br />\r\nMultiple scenarios to play crossminton anywhere<br />\r\nChallenging arcade mode to test your skills<br />\r\nGet fun with friends on local multiplayer minigames <br />\r\nOriginal soundtrack &amp; realistic sound FX",
             "short_description": "Sport videogame based in crossminton, an emerging racquet sport where the players play in two separated fields without net and using a custom flyer and racquets. It can be played as single 1 vs 1 or doubles 2 vs 2.",
             "supported_languages": "English<strong>*</strong>, Spanish - Spain<strong>*</strong><br><strong>*</strong>languages with full audio support",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1045280/header.jpg?t=1551915400",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1045280/header.jpg?t=1591888974",
             "website": "https://www.daydreamsoftware.es/?lang=en",
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> W10</li></ul>",
-                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> W10</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Intel Core i5-6400 or equivalent<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> GeForce GT 740 (2048 MB) or equivalent | Radeon HD 5770 (1024 MB)<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Intel Core i7-4790 or equivalent<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> GeForce GTX 1060 or equivalent<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>"
             },
             "mac_requirements": [],
             "linux_requirements": [],
             "legal_notice": "All players images and names, official equipment and crossminton rules have been created in collaboration with the International Crossminton Organization. Commercial software licenses and Open Source plugins have been purchased or attributed by Daydream Software for the creation of this videogame. <br />\r\n<br />\r\nCopyright of Daydream Software, SLL. <br />\r\n2018, All rights reserved.",
             "developers": [
-                "Daydream Software SLL"
+                "Daydream Software"
             ],
             "publishers": [
-                "Daydream Software SLL"
+                "Daydream Software"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 1499,
+                "final": 1499,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "14,99€"
+            },
+            "packages": [
+                348339
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy eCrossminton",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 348339,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "eCrossminton - 14,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 1499
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": false,
@@ -43,8 +76,24 @@
                     "description": "Multi-player"
                 },
                 {
+                    "id": 49,
+                    "description": "PvP"
+                },
+                {
                     "id": 37,
-                    "description": "Local Multi-Player"
+                    "description": "Shared/Split Screen PvP"
+                },
+                {
+                    "id": 9,
+                    "description": "Co-op"
+                },
+                {
+                    "id": 39,
+                    "description": "Shared/Split Screen Co-op"
+                },
+                {
+                    "id": 24,
+                    "description": "Shared/Split Screen"
                 },
                 {
                     "id": 22,
@@ -53,9 +102,17 @@
                 {
                     "id": 28,
                     "description": "Full controller support"
+                },
+                {
+                    "id": 44,
+                    "description": "Remote Play Together"
                 }
             ],
             "genres": [
+                {
+                    "id": "23",
+                    "description": "Indie"
+                },
                 {
                     "id": "28",
                     "description": "Simulation"
@@ -68,43 +125,43 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1045280/ss_ee2afe7b439e5dfd951f342631fdcf5998958103.600x338.jpg?t=1551915400",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1045280/ss_ee2afe7b439e5dfd951f342631fdcf5998958103.1920x1080.jpg?t=1551915400"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1045280/ss_c02c75cb2c9cde596d8035cfdef97da2525956da.600x338.jpg?t=1591888974",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1045280/ss_c02c75cb2c9cde596d8035cfdef97da2525956da.1920x1080.jpg?t=1591888974"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1045280/ss_28d44cbcbbf5a94449e57e96b9dc2460f399a51c.600x338.jpg?t=1551915400",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1045280/ss_28d44cbcbbf5a94449e57e96b9dc2460f399a51c.1920x1080.jpg?t=1551915400"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1045280/ss_724022104834a798b797313906091fab13e852ec.600x338.jpg?t=1591888974",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1045280/ss_724022104834a798b797313906091fab13e852ec.1920x1080.jpg?t=1591888974"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1045280/ss_724022104834a798b797313906091fab13e852ec.600x338.jpg?t=1551915400",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1045280/ss_724022104834a798b797313906091fab13e852ec.1920x1080.jpg?t=1551915400"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1045280/ss_246cd068b1ed3e9c16163a7c851638aa5d2f1b24.600x338.jpg?t=1591888974",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1045280/ss_246cd068b1ed3e9c16163a7c851638aa5d2f1b24.1920x1080.jpg?t=1591888974"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1045280/ss_a82f5de38c085231f9e964b471085c087002f00c.600x338.jpg?t=1551915400",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1045280/ss_a82f5de38c085231f9e964b471085c087002f00c.1920x1080.jpg?t=1551915400"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1045280/ss_6cf8ba73d5957aa6f5bd4a6bb00b220b6dad9418.600x338.jpg?t=1591888974",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1045280/ss_6cf8ba73d5957aa6f5bd4a6bb00b220b6dad9418.1920x1080.jpg?t=1591888974"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1045280/ss_5ce8d91ec5aae1263780fdacc6c8d85ed0eaf7c4.600x338.jpg?t=1551915400",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1045280/ss_5ce8d91ec5aae1263780fdacc6c8d85ed0eaf7c4.1920x1080.jpg?t=1551915400"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1045280/ss_56c6d6b0fdd3719cec2bccfdae539a579365a3cc.600x338.jpg?t=1591888974",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1045280/ss_56c6d6b0fdd3719cec2bccfdae539a579365a3cc.1920x1080.jpg?t=1591888974"
                 },
                 {
                     "id": 5,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1045280/ss_7c73682b82fb0c4b00bc4033e685b40323b29f8b.600x338.jpg?t=1551915400",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1045280/ss_7c73682b82fb0c4b00bc4033e685b40323b29f8b.1920x1080.jpg?t=1551915400"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1045280/ss_28d44cbcbbf5a94449e57e96b9dc2460f399a51c.600x338.jpg?t=1591888974",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1045280/ss_28d44cbcbbf5a94449e57e96b9dc2460f399a51c.1920x1080.jpg?t=1591888974"
                 },
                 {
                     "id": 6,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1045280/ss_6cf8ba73d5957aa6f5bd4a6bb00b220b6dad9418.600x338.jpg?t=1551915400",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1045280/ss_6cf8ba73d5957aa6f5bd4a6bb00b220b6dad9418.1920x1080.jpg?t=1551915400"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1045280/ss_05f4ba232b8ab44b1a0f54e0456c0fcb7712c61f.600x338.jpg?t=1591888974",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1045280/ss_05f4ba232b8ab44b1a0f54e0456c0fcb7712c61f.1920x1080.jpg?t=1591888974"
                 },
                 {
                     "id": 7,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1045280/ss_055a7a3d8de01a49297817f31329d2acc22983ed.600x338.jpg?t=1551915400",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1045280/ss_055a7a3d8de01a49297817f31329d2acc22983ed.1920x1080.jpg?t=1551915400"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1045280/ss_86f48ae49cd8e5240845b42a73d48ba1c084e058.600x338.jpg?t=1591888974",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1045280/ss_86f48ae49cd8e5240845b42a73d48ba1c084e058.1920x1080.jpg?t=1591888974"
                 }
             ],
             "movies": [
@@ -116,18 +173,67 @@
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/256744620/movie480.webm?t=1551915386",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/256744620/movie_max.webm?t=1551915386"
                     },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256744620/movie480.mp4?t=1551915386",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256744620/movie_max.mp4?t=1551915386"
+                    },
                     "highlight": true
                 }
             ],
+            "achievements": {
+                "total": 25,
+                "highlighted": [
+                    {
+                        "name": "Crossminton Amateur Badge",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1045280/64663a7cecf4c776f51c1d2cba86405d8c931ca4.jpg"
+                    },
+                    {
+                        "name": "Crossminton Professional Badge",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1045280/fdb07ceb1adc30a4bc74a99f2bc8c2da47f45fcd.jpg"
+                    },
+                    {
+                        "name": "Crossminton Master Badge",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1045280/a0c768cb3b0a1a7da3d24fd93ab54a0d0245870b.jpg"
+                    },
+                    {
+                        "name": "That square is important!",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1045280/24661801b4980c9ccd3b6574ea4ddedf79c99b6e.jpg"
+                    },
+                    {
+                        "name": "I think I'm learning",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1045280/dc52e1f54810faef349d046e5eae0d0f38b0c82a.jpg"
+                    },
+                    {
+                        "name": "I know crossminton",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1045280/25efcb304112fe5c7e8e877e1d8fc5d13700d44d.jpg"
+                    },
+                    {
+                        "name": "This is how you serve!",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1045280/7703dbb6ed9a742d3d5163b272118da4d41af67e.jpg"
+                    },
+                    {
+                        "name": "Service is better when ACE",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1045280/a670deb0191a5e02d4a1414dd88c4737b4e9f516.jpg"
+                    },
+                    {
+                        "name": "Service Master",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1045280/c5264e748ff323a8820a16ed6f6b301e6a80b2b1.jpg"
+                    },
+                    {
+                        "name": "Challenges! Challenges!",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1045280/84dee13543f097173122418aa99a2b11be74101b.jpg"
+                    }
+                ]
+            },
             "release_date": {
-                "coming_soon": true,
-                "date": "Jul - 2019"
+                "coming_soon": false,
+                "date": "10 Jul, 2019"
             },
             "support_info": {
-                "url": "",
+                "url": "https://www.daydreamsoftware.es",
                 "email": "info@daydreamsoftware.es"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1045280/page_bg_generated_v6b.jpg?t=1551915400",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1045280/page_bg_generated_v6b.jpg?t=1591888974",
             "content_descriptors": {
                 "ids": [],
                 "notes": null

@@ -15,7 +15,7 @@
                 "name": "Jetstream"
             },
             "supported_languages": "English",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1045360/header.jpg?t=1552581619",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1045360/header.jpg?t=1591734248",
             "website": "http://jetstreamgame.com",
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Storage:</strong> 100 MB available space</li></ul>"
@@ -30,9 +30,42 @@
                 "Clockwork Acorn"
             ],
             "publishers": [
-                "Noodlecake Studios Inc."
+                "Noodlecake"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 399,
+                "final": 399,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "3,99€"
+            },
+            "packages": [
+                348372
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Jetstream: Original Soundtrack",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 348372,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "Jetstream: Original Soundtrack - 3,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 399
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": true,
@@ -61,19 +94,19 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1045360/ss_1fb7e36ec23f834bb21ec5e708c17084e5c0157d.600x338.jpg?t=1552581619",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1045360/ss_1fb7e36ec23f834bb21ec5e708c17084e5c0157d.1920x1080.jpg?t=1552581619"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1045360/ss_1fb7e36ec23f834bb21ec5e708c17084e5c0157d.600x338.jpg?t=1591734248",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1045360/ss_1fb7e36ec23f834bb21ec5e708c17084e5c0157d.1920x1080.jpg?t=1591734248"
                 }
             ],
             "release_date": {
-                "coming_soon": true,
+                "coming_soon": false,
                 "date": "2 Apr, 2019"
             },
             "support_info": {
                 "url": "",
                 "email": "jetstream+support@noodlecake.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1045360/page_bg_generated_v6b.jpg?t=1552581619",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1045360/page_bg_generated_v6b.jpg?t=1591734248",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
