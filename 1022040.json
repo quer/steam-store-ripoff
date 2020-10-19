@@ -27,10 +27,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 79,
-                "final": 79,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "0,79€"
+                "final": 39,
+                "discount_percent": 51,
+                "initial_formatted": "0,79€",
+                "final_formatted": "0,39€"
             },
             "packages": [
                 339024
@@ -47,13 +47,13 @@
                     "subs": [
                         {
                             "packageid": 339024,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-51% ",
                             "percent_savings": 0,
-                            "option_text": "Candy Mandy - 0,79€",
+                            "option_text": "Candy Mandy - <span class=\"discount_original_price\">0,79€</span> 0,39€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 79
+                            "price_in_cents_with_discount": 39
                         }
                     ]
                 }
@@ -124,6 +124,10 @@
                     "webm": {
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/256741322/movie480.webm?t=1548398106",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/256741322/movie_max.webm?t=1548398106"
+                    },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256741322/movie480.mp4?t=1548398106",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256741322/movie_max.mp4?t=1548398106"
                     },
                     "highlight": true
                 }
