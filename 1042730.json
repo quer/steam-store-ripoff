@@ -36,10 +36,10 @@
             "price_overview": {
                 "currency": "EUR",
                 "initial": 329,
-                "final": 329,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "3,29€"
+                "final": 296,
+                "discount_percent": 10,
+                "initial_formatted": "3,29€",
+                "final_formatted": "2,96€"
             },
             "packages": [
                 347389
@@ -56,13 +56,13 @@
                     "subs": [
                         {
                             "packageid": 347389,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-10% ",
                             "percent_savings": 0,
-                            "option_text": "Dead Effect 2 - Cybermagic - 3,29€",
+                            "option_text": "Dead Effect 2 - Cybermagic - <span class=\"discount_original_price\">3,29€</span> 2,96€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 329
+                            "price_in_cents_with_discount": 296
                         }
                     ]
                 }
@@ -128,9 +128,6 @@
                     "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1042730/ss_4eb4bcd07cb70dece054b0ae16b63e5c731a52a8.1920x1080.jpg?t=1554484090"
                 }
             ],
-            "achievements": {
-                "total": 0
-            },
             "release_date": {
                 "coming_soon": false,
                 "date": "5 Apr, 2019"
