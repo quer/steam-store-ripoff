@@ -7,11 +7,11 @@
             "steam_appid": 1026390,
             "required_age": 0,
             "is_free": false,
-            "detailed_description": "Visual Novel, ADV, Fantasy, Romance, Yuri <br />\r\n<br />\r\nEva has a dream to develop magic abilities and return to her homeland, but she suddenly develops close relationships with her two female friends instead. <br />\r\n<br />\r\nFeatures: <br />\r\n• two possible love interests; <br />\r\n• colorful illustrations; <br />\r\n• three endings.",
-            "about_the_game": "Visual Novel, ADV, Fantasy, Romance, Yuri <br />\r\n<br />\r\nEva has a dream to develop magic abilities and return to her homeland, but she suddenly develops close relationships with her two female friends instead. <br />\r\n<br />\r\nFeatures: <br />\r\n• two possible love interests; <br />\r\n• colorful illustrations; <br />\r\n• three endings.",
-            "short_description": "Eva has a dream to develop magic abilities and return to her homeland, but she suddenly develops close relationships with her two female friends instead.",
-            "supported_languages": "Russian",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1026390/header.jpg?t=1553623646",
+            "detailed_description": "Visual Novel, ADV, Fantasy, Romance, Yuri <br />\r\n<br />\r\nEve has a dream to develop magic abilities and return to her homeland, but she suddenly develops close relationships with her two female friends instead. <br />\r\n<br />\r\nFeatures: <br />\r\n• two possible love interests; <br />\r\n• colorful illustrations; <br />\r\n• three endings.",
+            "about_the_game": "Visual Novel, ADV, Fantasy, Romance, Yuri <br />\r\n<br />\r\nEve has a dream to develop magic abilities and return to her homeland, but she suddenly develops close relationships with her two female friends instead. <br />\r\n<br />\r\nFeatures: <br />\r\n• two possible love interests; <br />\r\n• colorful illustrations; <br />\r\n• three endings.",
+            "short_description": "Eve has a dream to develop magic abilities and return to her homeland, but she suddenly develops close relationships with her two female friends instead.",
+            "supported_languages": "Russian, English",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1026390/header.jpg?t=1556885604",
             "website": null,
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP<br></li><li><strong>Processor:</strong> 1.4GHz<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD Graphics<br></li><li><strong>Storage:</strong> 300 MB available space<br></li><li><strong>Sound Card:</strong> Any</li></ul>",
@@ -25,7 +25,40 @@
             "publishers": [
                 "Red Cattus"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 159,
+                "final": 159,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "1,59€"
+            },
+            "packages": [
+                341011
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Magic Heart",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 341011,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "Magic Heart - 1,59€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 159
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": false,
@@ -35,6 +68,10 @@
                 {
                     "id": 2,
                     "description": "Single-player"
+                },
+                {
+                    "id": 22,
+                    "description": "Steam Achievements"
                 }
             ],
             "genres": [
@@ -50,51 +87,88 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1026390/ss_77005fd2fd55357fa80d5f720d68dd9f5efe6d85.600x338.jpg?t=1553623646",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1026390/ss_77005fd2fd55357fa80d5f720d68dd9f5efe6d85.1920x1080.jpg?t=1553623646"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1026390/ss_77005fd2fd55357fa80d5f720d68dd9f5efe6d85.600x338.jpg?t=1556885604",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1026390/ss_77005fd2fd55357fa80d5f720d68dd9f5efe6d85.1920x1080.jpg?t=1556885604"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1026390/ss_0b45edb3634932266dfc73de4e100d29cb8d4687.600x338.jpg?t=1553623646",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1026390/ss_0b45edb3634932266dfc73de4e100d29cb8d4687.1920x1080.jpg?t=1553623646"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1026390/ss_0b45edb3634932266dfc73de4e100d29cb8d4687.600x338.jpg?t=1556885604",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1026390/ss_0b45edb3634932266dfc73de4e100d29cb8d4687.1920x1080.jpg?t=1556885604"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1026390/ss_b9f23935847e7dc967dfd6b9703bf14ed53dda45.600x338.jpg?t=1553623646",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1026390/ss_b9f23935847e7dc967dfd6b9703bf14ed53dda45.1920x1080.jpg?t=1553623646"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1026390/ss_b9f23935847e7dc967dfd6b9703bf14ed53dda45.600x338.jpg?t=1556885604",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1026390/ss_b9f23935847e7dc967dfd6b9703bf14ed53dda45.1920x1080.jpg?t=1556885604"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1026390/ss_50b013e0e17409f3193cdbc10e2cd398343c5894.600x338.jpg?t=1553623646",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1026390/ss_50b013e0e17409f3193cdbc10e2cd398343c5894.1920x1080.jpg?t=1553623646"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1026390/ss_50b013e0e17409f3193cdbc10e2cd398343c5894.600x338.jpg?t=1556885604",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1026390/ss_50b013e0e17409f3193cdbc10e2cd398343c5894.1920x1080.jpg?t=1556885604"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1026390/ss_6c0ad8e10d56a9c13b8b205675a004d36d59f04a.600x338.jpg?t=1553623646",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1026390/ss_6c0ad8e10d56a9c13b8b205675a004d36d59f04a.1920x1080.jpg?t=1553623646"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1026390/ss_6c0ad8e10d56a9c13b8b205675a004d36d59f04a.600x338.jpg?t=1556885604",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1026390/ss_6c0ad8e10d56a9c13b8b205675a004d36d59f04a.1920x1080.jpg?t=1556885604"
                 }
             ],
             "movies": [
                 {
-                    "id": 256745694,
+                    "id": 256746605,
                     "name": "Magic Heart",
-                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256745694/movie.293x165.jpg?t=1552951293",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256746605/movie.293x165.jpg?t=1553802963",
                     "webm": {
-                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256745694/movie480.webm?t=1552951293",
-                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256745694/movie_max.webm?t=1552951293"
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256746605/movie480.webm?t=1553802963",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256746605/movie_max.webm?t=1553802963"
+                    },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256746605/movie480.mp4?t=1553802963",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256746605/movie_max.mp4?t=1553802963"
                     },
                     "highlight": true
                 }
             ],
+            "achievements": {
+                "total": 7,
+                "highlighted": [
+                    {
+                        "name": "Bump",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1026390/b29c803a08cc3a63734d750cac7a79edf8d28798.jpg"
+                    },
+                    {
+                        "name": "Meeting",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1026390/a8417f73a67dad55d9b3d85baffd82657f6b983e.jpg"
+                    },
+                    {
+                        "name": "Tea Party",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1026390/3333af8acef53f5cb3f0ae023a3cfb3f7f6cd534.jpg"
+                    },
+                    {
+                        "name": "Exposed!",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1026390/b02018d66b9164490337d6dce10f072414967c6f.jpg"
+                    },
+                    {
+                        "name": "Lie to make dreams come true",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1026390/9c32076a436afb3375a79e7e8cd29e72fa528476.jpg"
+                    },
+                    {
+                        "name": "Farewell, Magic Pendant!",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1026390/379c9087944787d566798aec71e4399750699f5d.jpg"
+                    },
+                    {
+                        "name": "Blue Fire",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1026390/a296331261410b58b4b931615bbb770268b4c58a.jpg"
+                    }
+                ]
+            },
             "release_date": {
-                "coming_soon": true,
-                "date": ""
+                "coming_soon": false,
+                "date": "31 Mar, 2019"
             },
             "support_info": {
                 "url": "",
-                "email": "tansiachan@gmail.com"
+                "email": "tatjana.aleksejeva.94@gmail.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1026390/page_bg_generated_v6b.jpg?t=1553623646",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1026390/page_bg_generated_v6b.jpg?t=1556885604",
             "content_descriptors": {
                 "ids": [
                     1,
