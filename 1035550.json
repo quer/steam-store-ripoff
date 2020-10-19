@@ -6,13 +6,13 @@
             "name": "Galaxy Forces VR",
             "steam_appid": 1035550,
             "required_age": 0,
-            "is_free": false,
+            "is_free": true,
             "controller_support": "full",
             "detailed_description": "A single player space shooter game. You are in control of a ship and the goal is to race against the clock to get the fastest time (<i>race</i>), or transport cargo to get the best score (<i>mission</i>). All done in a narrow space cave filled with enemies. Featuring interactive music, realistic physics and challenging game-play.<br><br>There are 55 levels and players may have their best score for each level sent to the game website and the top players are displayed there along with their ranking. The replay of the record scores are possible to view from the game for others to see how it was done. There are also 21 achievements to unlock.",
             "about_the_game": "A single player space shooter game. You are in control of a ship and the goal is to race against the clock to get the fastest time (<i>race</i>), or transport cargo to get the best score (<i>mission</i>). All done in a narrow space cave filled with enemies. Featuring interactive music, realistic physics and challenging game-play.<br><br>There are 55 levels and players may have their best score for each level sent to the game website and the top players are displayed there along with their ranking. The replay of the record scores are possible to view from the game for others to see how it was done. There are also 21 achievements to unlock.",
             "short_description": "A space shooter game. You control a ship and the goal is to race against the clock to get the fastest time (race), or transport cargo to get the best score (mission). All to the tunes of interactive music. 55 levels, online hiscore.",
             "supported_languages": "English",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1035550/header.jpg?t=1567229600",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1035550/header.jpg?t=1588118325",
             "website": "https://www.galaxy-forces-vr.com/",
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Intel i5-4590 equivalent<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce 1050 equivalent<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 800 MB available space</li></ul>",
@@ -32,40 +32,7 @@
             "publishers": [
                 "Kosker AB"
             ],
-            "price_overview": {
-                "currency": "EUR",
-                "initial": 329,
-                "final": 329,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "3,29€"
-            },
-            "packages": [
-                344685
-            ],
-            "package_groups": [
-                {
-                    "name": "default",
-                    "title": "Buy Galaxy Forces VR",
-                    "description": "",
-                    "selection_text": "Select a purchase option",
-                    "save_text": "",
-                    "display_type": 0,
-                    "is_recurring_subscription": "false",
-                    "subs": [
-                        {
-                            "packageid": 344685,
-                            "percent_savings_text": "",
-                            "percent_savings": 0,
-                            "option_text": "Galaxy Forces VR - 3,29€",
-                            "option_description": "",
-                            "can_get_free_license": "0",
-                            "is_free_license": false,
-                            "price_in_cents_with_discount": 329
-                        }
-                    ]
-                }
-            ],
+            "package_groups": [],
             "platforms": {
                 "windows": true,
                 "mac": false,
@@ -95,6 +62,10 @@
                     "description": "Action"
                 },
                 {
+                    "id": "37",
+                    "description": "Free to Play"
+                },
+                {
                     "id": "23",
                     "description": "Indie"
                 },
@@ -106,43 +77,43 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1035550/ss_68a879f2449fbde48f4a99c5b5ef12c7513cebea.600x338.jpg?t=1567229600",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1035550/ss_68a879f2449fbde48f4a99c5b5ef12c7513cebea.1920x1080.jpg?t=1567229600"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1035550/ss_68a879f2449fbde48f4a99c5b5ef12c7513cebea.600x338.jpg?t=1588118325",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1035550/ss_68a879f2449fbde48f4a99c5b5ef12c7513cebea.1920x1080.jpg?t=1588118325"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1035550/ss_e935a8680f2436ce32d64b448930a01252a9ce15.600x338.jpg?t=1567229600",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1035550/ss_e935a8680f2436ce32d64b448930a01252a9ce15.1920x1080.jpg?t=1567229600"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1035550/ss_e935a8680f2436ce32d64b448930a01252a9ce15.600x338.jpg?t=1588118325",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1035550/ss_e935a8680f2436ce32d64b448930a01252a9ce15.1920x1080.jpg?t=1588118325"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1035550/ss_d7d38077537d3ad5f5a1c450e1f481c89aff2e59.600x338.jpg?t=1567229600",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1035550/ss_d7d38077537d3ad5f5a1c450e1f481c89aff2e59.1920x1080.jpg?t=1567229600"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1035550/ss_d7d38077537d3ad5f5a1c450e1f481c89aff2e59.600x338.jpg?t=1588118325",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1035550/ss_d7d38077537d3ad5f5a1c450e1f481c89aff2e59.1920x1080.jpg?t=1588118325"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1035550/ss_69c4bb19c52e7c4a2b111842ac26c6326bcee6ed.600x338.jpg?t=1567229600",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1035550/ss_69c4bb19c52e7c4a2b111842ac26c6326bcee6ed.1920x1080.jpg?t=1567229600"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1035550/ss_69c4bb19c52e7c4a2b111842ac26c6326bcee6ed.600x338.jpg?t=1588118325",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1035550/ss_69c4bb19c52e7c4a2b111842ac26c6326bcee6ed.1920x1080.jpg?t=1588118325"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1035550/ss_acbfdcdf3a4f9dd8bea8dc876d46a367666fb809.600x338.jpg?t=1567229600",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1035550/ss_acbfdcdf3a4f9dd8bea8dc876d46a367666fb809.1920x1080.jpg?t=1567229600"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1035550/ss_acbfdcdf3a4f9dd8bea8dc876d46a367666fb809.600x338.jpg?t=1588118325",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1035550/ss_acbfdcdf3a4f9dd8bea8dc876d46a367666fb809.1920x1080.jpg?t=1588118325"
                 },
                 {
                     "id": 5,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1035550/ss_dc0acf86e733cb581cba40b7594fd25b61a1b95d.600x338.jpg?t=1567229600",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1035550/ss_dc0acf86e733cb581cba40b7594fd25b61a1b95d.1920x1080.jpg?t=1567229600"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1035550/ss_dc0acf86e733cb581cba40b7594fd25b61a1b95d.600x338.jpg?t=1588118325",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1035550/ss_dc0acf86e733cb581cba40b7594fd25b61a1b95d.1920x1080.jpg?t=1588118325"
                 },
                 {
                     "id": 6,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1035550/ss_6c9dd3141fa26d1328a8ae35e8a1510a9c6f7684.600x338.jpg?t=1567229600",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1035550/ss_6c9dd3141fa26d1328a8ae35e8a1510a9c6f7684.1920x1080.jpg?t=1567229600"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1035550/ss_6c9dd3141fa26d1328a8ae35e8a1510a9c6f7684.600x338.jpg?t=1588118325",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1035550/ss_6c9dd3141fa26d1328a8ae35e8a1510a9c6f7684.1920x1080.jpg?t=1588118325"
                 },
                 {
                     "id": 7,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1035550/ss_2cef7097c4430e40453f54c879a81d95579adb99.600x338.jpg?t=1567229600",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1035550/ss_2cef7097c4430e40453f54c879a81d95579adb99.1920x1080.jpg?t=1567229600"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1035550/ss_2cef7097c4430e40453f54c879a81d95579adb99.600x338.jpg?t=1588118325",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1035550/ss_2cef7097c4430e40453f54c879a81d95579adb99.1920x1080.jpg?t=1588118325"
                 }
             ],
             "movies": [
@@ -153,6 +124,10 @@
                     "webm": {
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/256757501/movie480.webm?t=1564312037",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/256757501/movie_max.webm?t=1564312037"
+                    },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256757501/movie480.mp4?t=1564312037",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256757501/movie_max.mp4?t=1564312037"
                     },
                     "highlight": true
                 }
@@ -210,7 +185,7 @@
                 "url": "",
                 "email": "contact@galaxy-forces-vr.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1035550/page_bg_generated_v6b.jpg?t=1567229600",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1035550/page_bg_generated_v6b.jpg?t=1588118325",
             "content_descriptors": {
                 "ids": [],
                 "notes": null

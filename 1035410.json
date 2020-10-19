@@ -7,15 +7,15 @@
             "steam_appid": 1035410,
             "required_age": 0,
             "is_free": false,
-            "detailed_description": "xMoon is a third-person puzzle game set on The Moon. The gameplay is about using mirrors and beam splitters to maneuver laser beams, illuminate crystals, and activate platforms. Use the platforms to access new areas, and reach the end of the level!<br />\r\n<br />\r\nThe game is designed to challenge the player's creative thinking and spatial reasoning skills. Each puzzle presents it's own interesting problems for the player to solve and the gameplay is kept fresh throughout. There are currently 20 puzzles to explore and several hours of unique gameplay.",
-            "about_the_game": "xMoon is a third-person puzzle game set on The Moon. The gameplay is about using mirrors and beam splitters to maneuver laser beams, illuminate crystals, and activate platforms. Use the platforms to access new areas, and reach the end of the level!<br />\r\n<br />\r\nThe game is designed to challenge the player's creative thinking and spatial reasoning skills. Each puzzle presents it's own interesting problems for the player to solve and the gameplay is kept fresh throughout. There are currently 20 puzzles to explore and several hours of unique gameplay.",
-            "short_description": "xMoon is a third-person puzzle game set on The Moon. It's about maneuvering laser beams to illuminate crystals and activate platforms. Use the platforms to access new areas, and reach the end of the level!",
+            "detailed_description": "xMoon is a third-person puzzle game about reflecting laser beams into crystals.<br><br>The year is 1985, an ancient door has been discovered on The Moon. You are an archeologist sent to explore inside. Venture in, but be careful, you are not alone.<br><br><img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/1035410/extras/second.gif?t=1582486111\" /><br><br>In an evolving story inspired by humanity's place in the galaxy, you'll delve deep beneath the lunar surface and discover the forces that govern life itself. <br><br>The fate of the human species depends on your ability to solve laser puzzles. The game is designed to challenge your creative thinking and spatial reasoning skills, each puzzle presents it's own unique and interesting problems to solve.<br><br><img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/1035410/extras/first.gif?t=1582486111\" /><br><br>A lunar adventure awaits!",
+            "about_the_game": "xMoon is a third-person puzzle game about reflecting laser beams into crystals.<br><br>The year is 1985, an ancient door has been discovered on The Moon. You are an archeologist sent to explore inside. Venture in, but be careful, you are not alone.<br><br><img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/1035410/extras/second.gif?t=1582486111\" /><br><br>In an evolving story inspired by humanity's place in the galaxy, you'll delve deep beneath the lunar surface and discover the forces that govern life itself. <br><br>The fate of the human species depends on your ability to solve laser puzzles. The game is designed to challenge your creative thinking and spatial reasoning skills, each puzzle presents it's own unique and interesting problems to solve.<br><br><img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/1035410/extras/first.gif?t=1582486111\" /><br><br>A lunar adventure awaits!",
+            "short_description": "xMoon is a laser-based puzzle game on The Moon.",
             "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1035410/header.jpg?t=1553920476",
-            "website": "https://xmoon.space/",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1035410/header.jpg?t=1582486111",
+            "website": null,
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> WINDOWS® 7, 8.1, 10 (64-BIT Required)<br></li><li><strong>Processor:</strong> Intel i5<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> 512 MB video memory, screen resolution 1920x1080<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 10 GB available space</li></ul>",
-                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> WINDOWS® 7, 8.1, 10 (64-BIT Required)<br></li><li><strong>Processor:</strong> Intel i7<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> 512 MB video memory, screen resolution 1920x1080<br></li><li><strong>Storage:</strong> 10 GB available space</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> WINDOWS® 7, 8.1, 10 (64-BIT Required)<br></li><li><strong>Processor:</strong> Intel i5<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD 4600 or equivalent, resolution 1080p<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 10 GB available space</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> WINDOWS® 7, 8.1, 10 (64-BIT Required)<br></li><li><strong>Processor:</strong> Intel i7<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> 2GB VRAM<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 10 GB available space</li></ul>"
             },
             "mac_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
@@ -27,12 +27,45 @@
             },
             "legal_notice": "© Will Whiteneck 2019 ALL RIGHTS RESERVED.",
             "developers": [
-                "Will Whiteneck"
+                "buffalo buffalo buffalo"
             ],
             "publishers": [
-                "Will Whiteneck"
+                "buffalo buffalo buffalo"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 819,
+                "final": 819,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "8,19€"
+            },
+            "packages": [
+                344624
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy xMoon",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 344624,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "xMoon - 8,19€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 819
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": false,
@@ -44,64 +77,123 @@
                     "description": "Single-player"
                 },
                 {
+                    "id": 22,
+                    "description": "Steam Achievements"
+                },
+                {
                     "id": 23,
                     "description": "Steam Cloud"
                 }
             ],
             "genres": [
                 {
-                    "id": "70",
-                    "description": "Early Access"
+                    "id": "25",
+                    "description": "Adventure"
+                },
+                {
+                    "id": "23",
+                    "description": "Indie"
                 }
             ],
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1035410/ss_5a00beb98b495daf28ec8553d2d02a4a77348688.600x338.jpg?t=1553920476",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1035410/ss_5a00beb98b495daf28ec8553d2d02a4a77348688.1920x1080.jpg?t=1553920476"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1035410/ss_7f3828c6772f9165a02dfb879a0969312ac146f2.600x338.jpg?t=1582486111",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1035410/ss_7f3828c6772f9165a02dfb879a0969312ac146f2.1920x1080.jpg?t=1582486111"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1035410/ss_2df23d8550ac5f8d93285b1bbb96ee6acdd94108.600x338.jpg?t=1553920476",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1035410/ss_2df23d8550ac5f8d93285b1bbb96ee6acdd94108.1920x1080.jpg?t=1553920476"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1035410/ss_4b629fd268a9a5b2f81249723531a54d2c87e479.600x338.jpg?t=1582486111",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1035410/ss_4b629fd268a9a5b2f81249723531a54d2c87e479.1920x1080.jpg?t=1582486111"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1035410/ss_6c267e7348912226c5f42294effbd7707f32f8b7.600x338.jpg?t=1553920476",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1035410/ss_6c267e7348912226c5f42294effbd7707f32f8b7.1920x1080.jpg?t=1553920476"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1035410/ss_2df23d8550ac5f8d93285b1bbb96ee6acdd94108.600x338.jpg?t=1582486111",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1035410/ss_2df23d8550ac5f8d93285b1bbb96ee6acdd94108.1920x1080.jpg?t=1582486111"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1035410/ss_c8b548805ce594d98d553376739c9afbd2a8c155.600x338.jpg?t=1553920476",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1035410/ss_c8b548805ce594d98d553376739c9afbd2a8c155.1920x1080.jpg?t=1553920476"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1035410/ss_5a00beb98b495daf28ec8553d2d02a4a77348688.600x338.jpg?t=1582486111",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1035410/ss_5a00beb98b495daf28ec8553d2d02a4a77348688.1920x1080.jpg?t=1582486111"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1035410/ss_7801e98444ce117817760418fba365cf95881575.600x338.jpg?t=1553920476",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1035410/ss_7801e98444ce117817760418fba365cf95881575.1920x1080.jpg?t=1553920476"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1035410/ss_dd23c143b071702192458925f4e0a7fe59c61eab.600x338.jpg?t=1582486111",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1035410/ss_dd23c143b071702192458925f4e0a7fe59c61eab.1920x1080.jpg?t=1582486111"
+                },
+                {
+                    "id": 5,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1035410/ss_fd18bfcc3518d3a6b498bbf69edb180910ec084c.600x338.jpg?t=1582486111",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1035410/ss_fd18bfcc3518d3a6b498bbf69edb180910ec084c.1920x1080.jpg?t=1582486111"
+                },
+                {
+                    "id": 6,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1035410/ss_21dd9ce4ab3dd29f0ddad1f6613b35afa5a1c2b0.600x338.jpg?t=1582486111",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1035410/ss_21dd9ce4ab3dd29f0ddad1f6613b35afa5a1c2b0.1920x1080.jpg?t=1582486111"
                 }
             ],
             "movies": [
                 {
                     "id": 256746632,
                     "name": "xMoon Trailer",
-                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256746632/movie.293x165.jpg?t=1553920463",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256746632/movie.293x165.jpg?t=1560455279",
                     "webm": {
-                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256746632/movie480.webm?t=1553920463",
-                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256746632/movie_max.webm?t=1553920463"
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256746632/movie480.webm?t=1560455279",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256746632/movie_max.webm?t=1560455279"
+                    },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256746632/movie480.mp4?t=1560455279",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256746632/movie_max.mp4?t=1560455279"
                     },
                     "highlight": true
                 }
             ],
+            "achievements": {
+                "total": 8,
+                "highlighted": [
+                    {
+                        "name": "A Column",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1035410/be48f7ebca434acc35621e1d99e7de76fddd96a2.jpg"
+                    },
+                    {
+                        "name": "B Column",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1035410/4ffdc22bb3b9e9b034ae763d5a320ba59edbb7dd.jpg"
+                    },
+                    {
+                        "name": "C Column",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1035410/ad566fe9eb4ba73bd9aecd4be20bcbae3f0ee950.jpg"
+                    },
+                    {
+                        "name": "D Column",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1035410/87a69da02be77703cc8d77aa688faf99fb26c37d.jpg"
+                    },
+                    {
+                        "name": "Escape Tunnel",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1035410/462af878f95b03968aa6c84e3f8d38212cacde1f.jpg"
+                    },
+                    {
+                        "name": "Meet WZK-6248",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1035410/0eadda0748f68f0bf9f6cd67b4c1e66ebe426309.jpg"
+                    },
+                    {
+                        "name": "Save the Solar System",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1035410/571720fcec0eb082c3560dc6cf1cad2cb06c6b61.jpg"
+                    },
+                    {
+                        "name": "100%",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1035410/9098250a871e51190cc657faeeb52d34ec72a056.jpg"
+                    }
+                ]
+            },
             "release_date": {
-                "coming_soon": true,
-                "date": "Spring 2019"
+                "coming_soon": false,
+                "date": "13 Jun, 2019"
             },
             "support_info": {
-                "url": "https://xmoon.space/support",
+                "url": "",
                 "email": "will@xmoon.space"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1035410/page_bg_generated_v6b.jpg?t=1553920476",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1035410/page_bg_generated_v6b.jpg?t=1582486111",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
