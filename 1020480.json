@@ -12,7 +12,7 @@
             "about_the_game": "The world is under siege by evil forces. It is up to you alone or teamed with a partner to save humanity in this fast-pasted, action/platform shooting extravaganza. Do you have what it takes to complete 100 levels of non-stop excitement and prove that good can triumph over evil? And when you're done saving the world, relax with up to 4 players in all-out battle mode for galactic bragging rights.<br><br><ul class=\"bb_ul\"><li>Players: 1-2 Normal, 2-4 Battle<br></li><li>Levels: 100 Normal, 10 Battle<br></li><li>Awesomeness: Unrivaled<br></li><li>Sweetness: Pretty sweet</li></ul>",
             "short_description": "The world is under siege by evil forces. It is up to you alone or teamed with a partner to save humanity in this fast-pasted, action/platform shooting extravaganza. Do you have what it takes to complete 100 levels of non-stop excitement and prove that good can triumph over evil?",
             "supported_languages": "English",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1020480/header.jpg?t=1549459309",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1020480/header.jpg?t=1585145594",
             "website": "http://www.funinfused.com",
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7/8/10<br></li><li><strong>Processor:</strong> Intel/AMD<br></li><li><strong>Memory:</strong> 128 MB RAM<br></li><li><strong>Storage:</strong> 220 MB available space</li></ul>",
@@ -50,7 +50,7 @@
                     "subs": [
                         {
                             "packageid": 338504,
-                            "percent_savings_text": "",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
                             "option_text": "Nasty - 0,79€",
                             "option_description": "",
@@ -72,12 +72,24 @@
                     "description": "Single-player"
                 },
                 {
+                    "id": 1,
+                    "description": "Multi-player"
+                },
+                {
+                    "id": 49,
+                    "description": "PvP"
+                },
+                {
                     "id": 37,
-                    "description": "Local Multi-Player"
+                    "description": "Shared/Split Screen PvP"
+                },
+                {
+                    "id": 9,
+                    "description": "Co-op"
                 },
                 {
                     "id": 39,
-                    "description": "Local Co-op"
+                    "description": "Shared/Split Screen Co-op"
                 },
                 {
                     "id": 24,
@@ -90,6 +102,10 @@
                 {
                     "id": 23,
                     "description": "Steam Cloud"
+                },
+                {
+                    "id": 44,
+                    "description": "Remote Play Together"
                 }
             ],
             "genres": [
@@ -105,38 +121,38 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1020480/ss_67ff31b7160be79c952bd4fc456d3f680b2ba917.600x338.jpg?t=1549459309",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1020480/ss_67ff31b7160be79c952bd4fc456d3f680b2ba917.1920x1080.jpg?t=1549459309"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1020480/ss_67ff31b7160be79c952bd4fc456d3f680b2ba917.600x338.jpg?t=1585145594",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1020480/ss_67ff31b7160be79c952bd4fc456d3f680b2ba917.1920x1080.jpg?t=1585145594"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1020480/ss_a96e3873b7364c5a8ddb011fbe9e9775c8ceb9ea.600x338.jpg?t=1549459309",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1020480/ss_a96e3873b7364c5a8ddb011fbe9e9775c8ceb9ea.1920x1080.jpg?t=1549459309"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1020480/ss_a96e3873b7364c5a8ddb011fbe9e9775c8ceb9ea.600x338.jpg?t=1585145594",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1020480/ss_a96e3873b7364c5a8ddb011fbe9e9775c8ceb9ea.1920x1080.jpg?t=1585145594"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1020480/ss_fcf681caa34070ee9220651b0d51e07a4b8a3a26.600x338.jpg?t=1549459309",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1020480/ss_fcf681caa34070ee9220651b0d51e07a4b8a3a26.1920x1080.jpg?t=1549459309"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1020480/ss_fcf681caa34070ee9220651b0d51e07a4b8a3a26.600x338.jpg?t=1585145594",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1020480/ss_fcf681caa34070ee9220651b0d51e07a4b8a3a26.1920x1080.jpg?t=1585145594"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1020480/ss_f81dbc23129cc1043507cb6c19bb428febe533b7.600x338.jpg?t=1549459309",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1020480/ss_f81dbc23129cc1043507cb6c19bb428febe533b7.1920x1080.jpg?t=1549459309"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1020480/ss_f81dbc23129cc1043507cb6c19bb428febe533b7.600x338.jpg?t=1585145594",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1020480/ss_f81dbc23129cc1043507cb6c19bb428febe533b7.1920x1080.jpg?t=1585145594"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1020480/ss_afe54d63537e50e3d354d61b1128b4acd89b57f6.600x338.jpg?t=1549459309",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1020480/ss_afe54d63537e50e3d354d61b1128b4acd89b57f6.1920x1080.jpg?t=1549459309"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1020480/ss_afe54d63537e50e3d354d61b1128b4acd89b57f6.600x338.jpg?t=1585145594",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1020480/ss_afe54d63537e50e3d354d61b1128b4acd89b57f6.1920x1080.jpg?t=1585145594"
                 },
                 {
                     "id": 5,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1020480/ss_87b89b6b816f58a57fa501ce6957d172cdc5cb03.600x338.jpg?t=1549459309",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1020480/ss_87b89b6b816f58a57fa501ce6957d172cdc5cb03.1920x1080.jpg?t=1549459309"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1020480/ss_87b89b6b816f58a57fa501ce6957d172cdc5cb03.600x338.jpg?t=1585145594",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1020480/ss_87b89b6b816f58a57fa501ce6957d172cdc5cb03.1920x1080.jpg?t=1585145594"
                 },
                 {
                     "id": 6,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1020480/ss_b3a5bf3d2e17f2b0210c01c5376955936c226f0b.600x338.jpg?t=1549459309",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1020480/ss_b3a5bf3d2e17f2b0210c01c5376955936c226f0b.1920x1080.jpg?t=1549459309"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1020480/ss_b3a5bf3d2e17f2b0210c01c5376955936c226f0b.600x338.jpg?t=1585145594",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1020480/ss_b3a5bf3d2e17f2b0210c01c5376955936c226f0b.1920x1080.jpg?t=1585145594"
                 }
             ],
             "movies": [
@@ -148,6 +164,10 @@
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/256742145/movie480.webm?t=1549235930",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/256742145/movie_max.webm?t=1549235930"
                     },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256742145/movie480.mp4?t=1549235930",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256742145/movie_max.mp4?t=1549235930"
+                    },
                     "highlight": true
                 },
                 {
@@ -157,6 +177,10 @@
                     "webm": {
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/256741223/movie480.webm?t=1548275257",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/256741223/movie_max.webm?t=1548275257"
+                    },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256741223/movie480.mp4?t=1548275257",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256741223/movie_max.mp4?t=1548275257"
                     },
                     "highlight": true
                 }
@@ -169,7 +193,7 @@
                 "url": "http://www.funinfused.com",
                 "email": "kris@funinfused.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1020480/page_bg_generated_v6b.jpg?t=1549459309",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1020480/page_bg_generated_v6b.jpg?t=1585145594",
             "content_descriptors": {
                 "ids": [],
                 "notes": null

@@ -7,23 +7,27 @@
             "steam_appid": 1020410,
             "required_age": 0,
             "is_free": true,
-            "detailed_description": "The drug war has condemned you, you have been caught by the police and now you must face all those who are against you.<br />\r\n<br />\r\nAction game based on real events, in which you take on the role of a drug dealer who must fight to escape from prison and return to the streets.<br />\r\n<br />\r\n<br />\r\nFeatures:<br />\r\n<br />\r\n-Chapter based story: Advance in story in different episodes.<br />\r\n<br />\r\n-Dynamic levels: Find alternative exits or different way to escape and reach your homeland.<br />\r\n<br />\r\n-Roleplaying: Find items to help you progress in game.<br />\r\n<br />\r\n-Action combat: Use multiple guns and explosives to face your enemies.",
-            "about_the_game": "The drug war has condemned you, you have been caught by the police and now you must face all those who are against you.<br />\r\n<br />\r\nAction game based on real events, in which you take on the role of a drug dealer who must fight to escape from prison and return to the streets.<br />\r\n<br />\r\n<br />\r\nFeatures:<br />\r\n<br />\r\n-Chapter based story: Advance in story in different episodes.<br />\r\n<br />\r\n-Dynamic levels: Find alternative exits or different way to escape and reach your homeland.<br />\r\n<br />\r\n-Roleplaying: Find items to help you progress in game.<br />\r\n<br />\r\n-Action combat: Use multiple guns and explosives to face your enemies.",
-            "short_description": "Action game based on real events, in which you take on the role of a drug dealer.",
+            "dlc": [
+                1094860,
+                1319870
+            ],
+            "detailed_description": "The drug war has condemned you, you have been caught by the police and now you must face all those who are against you.<br />\r\n<br />\r\nAction game based narco war, in which you take different roles as a drug lord to face cartel war.<br />\r\n<br />\r\n<br />\r\nFeatures:<br />\r\n<br />\r\n-Chapter based story: Advance in story in different episodes.<br />\r\n<br />\r\n-Dynamic levels: Find alternative exits or different way to escape and reach your homeland.<br />\r\n<br />\r\n-Roleplaying: Find items to help you progress in game.<br />\r\n<br />\r\n-Action combat: Use multiple guns and explosives to face your enemies.",
+            "about_the_game": "The drug war has condemned you, you have been caught by the police and now you must face all those who are against you.<br />\r\n<br />\r\nAction game based narco war, in which you take different roles as a drug lord to face cartel war.<br />\r\n<br />\r\n<br />\r\nFeatures:<br />\r\n<br />\r\n-Chapter based story: Advance in story in different episodes.<br />\r\n<br />\r\n-Dynamic levels: Find alternative exits or different way to escape and reach your homeland.<br />\r\n<br />\r\n-Roleplaying: Find items to help you progress in game.<br />\r\n<br />\r\n-Action combat: Use multiple guns and explosives to face your enemies.",
+            "short_description": "Action game based on narco war, in which you take different perspectives of it.",
             "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1020410/header.jpg?t=1553640825",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1020410/header.jpg?t=1589500360",
             "website": "https://www.moddb.com/games/narco-strike",
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows® XP o 2000<br></li><li><strong>Processor:</strong> Intel Pentium 4 a 2.0 Ghz, AMD Athlon XP o procesador equivalente<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> Intel Graphics Media Accelerator 950 or equivalent<br></li><li><strong>Storage:</strong> 800 MB available space<br></li><li><strong>Sound Card:</strong> Soundcard compatible with DirectX 9.0c</li></ul>",
-                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 or higher<br></li><li><strong>Processor:</strong> Intel Pentium 4 a 2.4 GHz o equivalente<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> ATI Radeon X800 / NVIDIA GeForce 7600 / Intel HD Graphics 2000 or higher<br></li><li><strong>Storage:</strong> 1 GB available space<br></li><li><strong>Sound Card:</strong> Soundcard compatible with DirectX 9.0c</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows® XP o 2000<br></li><li><strong>Processor:</strong> Intel Pentium 4 a 2.0 Ghz, AMD Athlon XP o procesador equivalente<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> Intel Graphics Media Accelerator 950 or equivalent<br></li><li><strong>Storage:</strong> 1 GB available space<br></li><li><strong>Sound Card:</strong> Soundcard compatible with DirectX 9.0c</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 or higher<br></li><li><strong>Processor:</strong> Intel Pentium 4 a 2.4 GHz o equivalente<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> ATI Radeon X800 / NVIDIA GeForce 7600 / Intel HD Graphics 2000 or higher<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Sound Card:</strong> Soundcard compatible with DirectX 9.0c</li></ul>"
             },
             "mac_requirements": [],
             "linux_requirements": [],
             "developers": [
-                "Initiative Games"
+                "Free Initiative Games"
             ],
             "publishers": [
-                "Initiative Games"
+                "Free Initiative Games"
             ],
             "package_groups": [],
             "platforms": {
@@ -35,6 +39,14 @@
                 {
                     "id": 2,
                     "description": "Single-player"
+                },
+                {
+                    "id": 22,
+                    "description": "Steam Achievements"
+                },
+                {
+                    "id": 18,
+                    "description": "Partial Controller Support"
                 }
             ],
             "genres": [
@@ -47,58 +59,107 @@
                     "description": "Adventure"
                 },
                 {
-                    "id": "70",
-                    "description": "Early Access"
+                    "id": "23",
+                    "description": "Indie"
                 }
             ],
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1020410/ss_4baf5a76c1352020af9c0f7d10c252898e3c012a.600x338.jpg?t=1553640825",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1020410/ss_4baf5a76c1352020af9c0f7d10c252898e3c012a.1920x1080.jpg?t=1553640825"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1020410/ss_4baf5a76c1352020af9c0f7d10c252898e3c012a.600x338.jpg?t=1589500360",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1020410/ss_4baf5a76c1352020af9c0f7d10c252898e3c012a.1920x1080.jpg?t=1589500360"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1020410/ss_904181d83fdf315b0dd5fc87d9bb01dc8154aa8f.600x338.jpg?t=1553640825",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1020410/ss_904181d83fdf315b0dd5fc87d9bb01dc8154aa8f.1920x1080.jpg?t=1553640825"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1020410/ss_904181d83fdf315b0dd5fc87d9bb01dc8154aa8f.600x338.jpg?t=1589500360",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1020410/ss_904181d83fdf315b0dd5fc87d9bb01dc8154aa8f.1920x1080.jpg?t=1589500360"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1020410/ss_eacbceccc9078f18177213e59d3342784d4e51eb.600x338.jpg?t=1553640825",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1020410/ss_eacbceccc9078f18177213e59d3342784d4e51eb.1920x1080.jpg?t=1553640825"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1020410/ss_eacbceccc9078f18177213e59d3342784d4e51eb.600x338.jpg?t=1589500360",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1020410/ss_eacbceccc9078f18177213e59d3342784d4e51eb.1920x1080.jpg?t=1589500360"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1020410/ss_66aba81e22f531c48fea88c1d86897b5087c682c.600x338.jpg?t=1553640825",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1020410/ss_66aba81e22f531c48fea88c1d86897b5087c682c.1920x1080.jpg?t=1553640825"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1020410/ss_66aba81e22f531c48fea88c1d86897b5087c682c.600x338.jpg?t=1589500360",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1020410/ss_66aba81e22f531c48fea88c1d86897b5087c682c.1920x1080.jpg?t=1589500360"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1020410/ss_9eb8731373f018f65e3c22b85746e29065529d67.600x338.jpg?t=1553640825",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1020410/ss_9eb8731373f018f65e3c22b85746e29065529d67.1920x1080.jpg?t=1553640825"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1020410/ss_9eb8731373f018f65e3c22b85746e29065529d67.600x338.jpg?t=1589500360",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1020410/ss_9eb8731373f018f65e3c22b85746e29065529d67.1920x1080.jpg?t=1589500360"
                 }
             ],
             "movies": [
                 {
                     "id": 256745787,
                     "name": "Narco Strike Preview",
-                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256745787/movie.293x165.jpg?t=1553038877",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256745787/movie.293x165.jpg?t=1553797276",
                     "webm": {
-                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256745787/movie480.webm?t=1553038877",
-                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256745787/movie_max.webm?t=1553038877"
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256745787/movie480.webm?t=1553797276",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256745787/movie_max.webm?t=1553797276"
+                    },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256745787/movie480.mp4?t=1553797276",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256745787/movie_max.mp4?t=1553797276"
                     },
                     "highlight": true
                 }
             ],
+            "achievements": {
+                "total": 16,
+                "highlighted": [
+                    {
+                        "name": "Dead officer",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1020410/ef0a6cd8f46ab359ce15b4661a0fdc457598d4e3.jpg"
+                    },
+                    {
+                        "name": "Prison break",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1020410/cd6c4d1ba99ed70b7c1e95a480d45a76e0b174f9.jpg"
+                    },
+                    {
+                        "name": "Machine gun",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1020410/b6a5ba093660ca52a9c02cb05527c5051b185ce9.jpg"
+                    },
+                    {
+                        "name": "Classified file",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1020410/cc80f2b5a53686acb9e037a4579de24c5bbcdc8f.jpg"
+                    },
+                    {
+                        "name": "City map",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1020410/3b03ea59a43150e1482cb65e1ddaca4b3697be30.jpg"
+                    },
+                    {
+                        "name": "The subway",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1020410/c13741c160b21785301d9ce7bd9e81d7cc35c1b9.jpg"
+                    },
+                    {
+                        "name": "The storage room",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1020410/acae00f520cb746a28d70636f12dd7dccf72528d.jpg"
+                    },
+                    {
+                        "name": "Into the city",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1020410/983fd6648bb91bf18f059b765b91928ec0a74f87.jpg"
+                    },
+                    {
+                        "name": "Drug money",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1020410/a953231a6a118d6cee3d4e06e7af77b42202b3c8.jpg"
+                    },
+                    {
+                        "name": "Narco Strike",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1020410/0e13a907106910bd1da306c22ddc9935eb79289c.jpg"
+                    }
+                ]
+            },
             "release_date": {
-                "coming_soon": true,
-                "date": "28 Mar, 2019"
+                "coming_soon": false,
+                "date": "16 May, 2019"
             },
             "support_info": {
                 "url": "https://www.moddb.com/games/narco-strike",
                 "email": "francotf514@gmail.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1020410/page_bg_generated_v6b.jpg?t=1553640825",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1020410/page_bg_generated_v6b.jpg?t=1589500360",
             "content_descriptors": {
                 "ids": [
                     2,
