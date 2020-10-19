@@ -58,7 +58,7 @@
                     "subs": [
                         {
                             "packageid": 346568,
-                            "percent_savings_text": "",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
                             "option_text": "Tabletopia - Altiplano - 4,99€",
                             "option_description": "",
@@ -81,11 +81,11 @@
                 },
                 {
                     "id": 36,
-                    "description": "Online Multi-Player"
+                    "description": "Online PvP"
                 },
                 {
                     "id": 37,
-                    "description": "Local Multi-Player"
+                    "description": "Shared/Split Screen PvP"
                 },
                 {
                     "id": 24,
@@ -146,6 +146,10 @@
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/256743908/movie480.webm?t=1551299702",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/256743908/movie_max.webm?t=1551299702"
                     },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256743908/movie480.mp4?t=1551299702",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256743908/movie_max.mp4?t=1551299702"
+                    },
                     "highlight": true
                 },
                 {
@@ -155,6 +159,10 @@
                     "webm": {
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/256743909/movie480.webm?t=1551299711",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/256743909/movie_max.webm?t=1551299711"
+                    },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256743909/movie480.mp4?t=1551299711",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256743909/movie_max.mp4?t=1551299711"
                     },
                     "highlight": true
                 }

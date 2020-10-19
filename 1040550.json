@@ -3,24 +3,30 @@
         "success": true,
         "data": {
             "type": "game",
-            "name": "Spring & Flow",
+            "name": "Spring Falls",
             "steam_appid": 1040550,
             "required_age": 0,
             "is_free": false,
-            "detailed_description": "Spring &amp; Flow is a game about water, erosion, and watching things grow.<br />\r\n<br />\r\nSolve engaging puzzles and bring wildflowers to life as you make your way down the mountainside.<br />\r\n<br />\r\nSoft visuals, ambient guitar work and environmental sounds come together to create a unique and relaxing experience.",
-            "about_the_game": "Spring &amp; Flow is a game about water, erosion, and watching things grow.<br />\r\n<br />\r\nSolve engaging puzzles and bring wildflowers to life as you make your way down the mountainside.<br />\r\n<br />\r\nSoft visuals, ambient guitar work and environmental sounds come together to create a unique and relaxing experience.",
-            "short_description": "Spring &amp; Flow is a game about water, erosion, and watching things grow.",
-            "supported_languages": "English",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1040550/header.jpg?t=1551477911",
-            "website": "http://springandflow.com",
+            "dlc": [
+                1195750
+            ],
+            "detailed_description": "Spring Falls is a puzzle game about water, erosion, and watching things grow.<br><br>Manipulate the landscape and bring wildflowers to life as you make your way down a peaceful mountainside.<br><br>Soft visuals, ambient guitar work, and environmental sounds come together to create a meditative, relaxing experience.<br><br><img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/1040550/extras/springfalls_gif2.gif?t=1584637440\" /><br><br>Features:<br>• 60 hand-crafted levels<br>• Unique gameplay revolving around water flow<br>• Ambient-folk soundtrack and organic atmospheric sounds<br>• Gorgeous mountain vista backdrops",
+            "about_the_game": "Spring Falls is a puzzle game about water, erosion, and watching things grow.<br><br>Manipulate the landscape and bring wildflowers to life as you make your way down a peaceful mountainside.<br><br>Soft visuals, ambient guitar work, and environmental sounds come together to create a meditative, relaxing experience.<br><br><img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/1040550/extras/springfalls_gif2.gif?t=1584637440\" /><br><br>Features:<br>• 60 hand-crafted levels<br>• Unique gameplay revolving around water flow<br>• Ambient-folk soundtrack and organic atmospheric sounds<br>• Gorgeous mountain vista backdrops",
+            "short_description": "Spring Falls is a puzzle game about water, erosion, and watching things grow. Manipulate the landscape and bring wildflowers to life on a peaceful mountainside.",
+            "supported_languages": "English, French, German, Spanish - Spain, Japanese, Korean, Portuguese, Simplified Chinese",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1040550/header.jpg?t=1584637440",
+            "website": "http://springfallsgame.com",
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7+<br></li><li><strong>Processor:</strong> 2.0Ghz+<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Shader model 3.0 capable card<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Storage:</strong> 150 MB available space</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 7+<br></li><li><strong>Processor:</strong> 2.0Ghz+<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Shader model 3.0 capable card<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Storage:</strong> 150 MB available space</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
             },
             "mac_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OSX 10.7+<br></li><li><strong>Processor:</strong> 2.0Ghz+<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Shader model 3.0 capable card<br></li><li><strong>Storage:</strong> 150 MB available space</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> OSX 10.7+<br></li><li><strong>Processor:</strong> 2.0Ghz+<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Shader model 3.0 capable card<br></li><li><strong>Storage:</strong> 150 MB available space</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
             },
             "linux_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 10.10+<br></li><li><strong>Processor:</strong> 2.0Ghz+<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Shader model 3.0 capable card<br></li><li><strong>Storage:</strong> 150 MB available space</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Ubuntu 10.10+<br></li><li><strong>Processor:</strong> 2.0Ghz+<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Shader model 3.0 capable card<br></li><li><strong>Storage:</strong> 150 MB available space</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
             },
             "developers": [
                 "SPARSE//GameDev"
@@ -28,7 +34,40 @@
             "publishers": [
                 "SPARSE//GameDev"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 569,
+                "final": 569,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "5,69€"
+            },
+            "packages": [
+                346587
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Spring Falls",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 346587,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "Spring Falls - 5,69€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 569
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": true,
@@ -38,6 +77,14 @@
                 {
                     "id": 2,
                     "description": "Single-player"
+                },
+                {
+                    "id": 22,
+                    "description": "Steam Achievements"
+                },
+                {
+                    "id": 23,
+                    "description": "Steam Cloud"
                 }
             ],
             "genres": [
@@ -53,51 +100,136 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1040550/ss_371a44973ab900334ec01e0e6255ab24b77e46ca.600x338.jpg?t=1551477911",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1040550/ss_371a44973ab900334ec01e0e6255ab24b77e46ca.1920x1080.jpg?t=1551477911"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1040550/ss_08d751fe74f3df848e29e14304f09a1cd1285061.600x338.jpg?t=1584637440",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1040550/ss_08d751fe74f3df848e29e14304f09a1cd1285061.1920x1080.jpg?t=1584637440"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1040550/ss_0f8bc23cc0433fe7b84e25f7cc588152bae2d39e.600x338.jpg?t=1551477911",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1040550/ss_0f8bc23cc0433fe7b84e25f7cc588152bae2d39e.1920x1080.jpg?t=1551477911"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1040550/ss_93f0aad4faa2a0e4d68a94fce8410ff61154d34e.600x338.jpg?t=1584637440",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1040550/ss_93f0aad4faa2a0e4d68a94fce8410ff61154d34e.1920x1080.jpg?t=1584637440"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1040550/ss_f8d48bd410dbe91a21c74425fad2fa5291ba99ad.600x338.jpg?t=1551477911",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1040550/ss_f8d48bd410dbe91a21c74425fad2fa5291ba99ad.1920x1080.jpg?t=1551477911"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1040550/ss_ed924bb6771b47e4db2642b72efc187b050a85df.600x338.jpg?t=1584637440",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1040550/ss_ed924bb6771b47e4db2642b72efc187b050a85df.1920x1080.jpg?t=1584637440"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1040550/ss_8d8099731b70bd1efc3412c17640436e649df9c5.600x338.jpg?t=1551477911",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1040550/ss_8d8099731b70bd1efc3412c17640436e649df9c5.1920x1080.jpg?t=1551477911"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1040550/ss_97c7d832b6423f27c1495a492621728194ff7d76.600x338.jpg?t=1584637440",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1040550/ss_97c7d832b6423f27c1495a492621728194ff7d76.1920x1080.jpg?t=1584637440"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1040550/ss_2dd95fdc25a3c6763fd8dcb7d92967f25802b662.600x338.jpg?t=1551477911",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1040550/ss_2dd95fdc25a3c6763fd8dcb7d92967f25802b662.1920x1080.jpg?t=1551477911"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1040550/ss_aed80f20e0a9dfbd30dc4cd65e4ee2cda6ffa9f7.600x338.jpg?t=1584637440",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1040550/ss_aed80f20e0a9dfbd30dc4cd65e4ee2cda6ffa9f7.1920x1080.jpg?t=1584637440"
+                },
+                {
+                    "id": 5,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1040550/ss_a134c07c622a9d417a1d6a966a716fd20b54f732.600x338.jpg?t=1584637440",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1040550/ss_a134c07c622a9d417a1d6a966a716fd20b54f732.1920x1080.jpg?t=1584637440"
                 }
             ],
             "movies": [
                 {
-                    "id": 256744227,
-                    "name": "Spring & Flow - Official Trailer",
-                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256744227/movie.293x165.jpg?t=1551477899",
+                    "id": 256767472,
+                    "name": "Spring Falls - Official Release Trailer",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256767472/movie.293x165.jpg?t=1574009681",
                     "webm": {
-                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256744227/movie480.webm?t=1551477899",
-                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256744227/movie_max.webm?t=1551477899"
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256767472/movie480.webm?t=1574009681",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256767472/movie_max.webm?t=1574009681"
+                    },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256767472/movie480.mp4?t=1574009681",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256767472/movie_max.mp4?t=1574009681"
+                    },
+                    "highlight": true
+                },
+                {
+                    "id": 256766248,
+                    "name": "Spring Falls - Release Data Announcement Trailer",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256766248/movie.293x165.jpg?t=1573133911",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256766248/movie480.webm?t=1573133911",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256766248/movie_max.webm?t=1573133911"
+                    },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256766248/movie480.mp4?t=1573133911",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256766248/movie_max.mp4?t=1573133911"
+                    },
+                    "highlight": true
+                },
+                {
+                    "id": 256758389,
+                    "name": "Spring Falls - Official Trailer",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256758389/movie.293x165.jpg?t=1565133198",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256758389/movie480.webm?t=1565133198",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256758389/movie_max.webm?t=1565133198"
+                    },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256758389/movie480.mp4?t=1565133198",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256758389/movie_max.mp4?t=1565133198"
                     },
                     "highlight": true
                 }
             ],
+            "recommendations": {
+                "total": 277
+            },
+            "achievements": {
+                "total": 12,
+                "highlighted": [
+                    {
+                        "name": "Start of spring",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1040550/454de765d5d90b178ac628c4553f915f08878f89.jpg"
+                    },
+                    {
+                        "name": "Perennial",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1040550/7e95e688bbeab36e0e40c59803a9be2f915cef6a.jpg"
+                    },
+                    {
+                        "name": "Green thumb",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1040550/05dd225f2fdc05d552ee485e8cc8399c36e5dec9.jpg"
+                    },
+                    {
+                        "name": "Unchanging",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1040550/0d439dbc4d296ef0640195adb07388cec4b293ee.jpg"
+                    },
+                    {
+                        "name": "Heights",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1040550/45c42c08c185ed3dca75d2ea75bf377248763cf7.jpg"
+                    },
+                    {
+                        "name": "Through the Clouds",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1040550/dd8eb4e742e05c1743a013069ef98c2929683316.jpg"
+                    },
+                    {
+                        "name": "Clear Skies",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1040550/b8a0a8a99ae9697cd5013f8cff056236955872d0.jpg"
+                    },
+                    {
+                        "name": "Overflow",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1040550/1bc6fd028dbe83b9402c448bece36e97f3470649.jpg"
+                    },
+                    {
+                        "name": "Streams",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1040550/88eb1b6349fd12468cbd7cc0bfaa4cd572853326.jpg"
+                    },
+                    {
+                        "name": "Treetops",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1040550/04219d8df349826022e1e651447239dc29458c16.jpg"
+                    }
+                ]
+            },
             "release_date": {
-                "coming_soon": true,
-                "date": "Spring / Summer 2019"
+                "coming_soon": false,
+                "date": "17 Nov, 2019"
             },
             "support_info": {
                 "url": "",
                 "email": "contact@sparse.ca"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1040550/page_bg_generated_v6b.jpg?t=1551477911",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1040550/page_bg_generated_v6b.jpg?t=1584637440",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
