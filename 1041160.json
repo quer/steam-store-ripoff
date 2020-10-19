@@ -7,16 +7,18 @@
             "steam_appid": 1041160,
             "required_age": 0,
             "is_free": false,
-            "detailed_description": "*CAUTION: Flashing lights in game may induce seizure*<br><br><strong>Story</strong><br>When the treasury of the United Friends Organization explodes and all of their cosmic diamonds scatter across the galaxy, it is up to the Observers to recollect them all! <br><br><strong>Gameplay</strong><br>Play with your friends as one of the four Observers, Blili, Glord, Wiezni, or Sragpoo, each with their own unique ability to master. Combine your abilities and find unique solutions to reach the diamond in each level. <br><br><strong>Includes</strong><br>- 4 Players controls for a single keyboard<br>- Controller support<br><br><strong>Does NOT Include:</strong><br>- Online Multiplayer<br>- Settings Menu<br><br><strong>Other</strong><br>- Roughly 1 hour of gameplay. Depending on how good you are.",
-            "about_the_game": "*CAUTION: Flashing lights in game may induce seizure*<br><br><strong>Story</strong><br>When the treasury of the United Friends Organization explodes and all of their cosmic diamonds scatter across the galaxy, it is up to the Observers to recollect them all! <br><br><strong>Gameplay</strong><br>Play with your friends as one of the four Observers, Blili, Glord, Wiezni, or Sragpoo, each with their own unique ability to master. Combine your abilities and find unique solutions to reach the diamond in each level. <br><br><strong>Includes</strong><br>- 4 Players controls for a single keyboard<br>- Controller support<br><br><strong>Does NOT Include:</strong><br>- Online Multiplayer<br>- Settings Menu<br><br><strong>Other</strong><br>- Roughly 1 hour of gameplay. Depending on how good you are.",
+            "detailed_description": "*CAUTION: Flashing lights in game may induce seizure*<br><br><strong>Story</strong><br>When the treasury of the United Friends Organization explodes and all of their cosmic diamonds scatter across the galaxy, it is up to the Observers to recollect them all! <br><br><strong>Gameplay</strong><br>Play with your friends as one of the four Observers, Blili, Glord, Wiezni, or Sragpoo, each with their own unique ability to master. Combine your abilities and find unique solutions to reach the diamond in each level. <br><br><strong>What there is...</strong><br>- There is 4 Players controls for a single keyboard<br>- There is Controller support<br><br><strong>What there is not...</strong><br>- There is NO Online Multiplayer<br>- There is NO Settings Menu<br><br><strong>Other</strong><br>- Roughly 1 hour of gameplay. Depending on how good you are.<br><br>Contact<br><a href=\"mailto:singleshoo@gmail.com\">singleshoo@gmail.com</a><br><br>Website<br><a href=\"https://steamcommunity.com/linkfilter/?url=http://shoostudios.epizy.com\" target=\"_blank\" rel=\"noopener\"  >shoostudios.epizy.com</a>",
+            "about_the_game": "*CAUTION: Flashing lights in game may induce seizure*<br><br><strong>Story</strong><br>When the treasury of the United Friends Organization explodes and all of their cosmic diamonds scatter across the galaxy, it is up to the Observers to recollect them all! <br><br><strong>Gameplay</strong><br>Play with your friends as one of the four Observers, Blili, Glord, Wiezni, or Sragpoo, each with their own unique ability to master. Combine your abilities and find unique solutions to reach the diamond in each level. <br><br><strong>What there is...</strong><br>- There is 4 Players controls for a single keyboard<br>- There is Controller support<br><br><strong>What there is not...</strong><br>- There is NO Online Multiplayer<br>- There is NO Settings Menu<br><br><strong>Other</strong><br>- Roughly 1 hour of gameplay. Depending on how good you are.<br><br>Contact<br><a href=\"mailto:singleshoo@gmail.com\">singleshoo@gmail.com</a><br><br>Website<br><a href=\"https://steamcommunity.com/linkfilter/?url=http://shoostudios.epizy.com\" target=\"_blank\" rel=\"noopener\"  >shoostudios.epizy.com</a>",
             "short_description": "Work alongside your friends to collect all the cosmic diamonds in a co-operative chaotic party platforming performance. Play as one of four aliens, each with their own unique ability.",
             "supported_languages": "English",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1041160/header.jpg?t=1553640374",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1041160/header.jpg?t=1586203180",
             "website": null,
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP or higher<br></li><li><strong>Processor:</strong> 1.7 GHz Core 2 Duo<br></li><li><strong>Memory:</strong> 3 GB RAM<br></li><li><strong>Graphics:</strong> 256 MB VRAM<br></li><li><strong>DirectX:</strong> Version 7.0<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>"
             },
-            "mac_requirements": [],
+            "mac_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OS X 10.14<br></li><li><strong>Processor:</strong> Intel Core 2 Duo 2.26 GHz<br></li><li><strong>Memory:</strong> 3 GB RAM<br></li><li><strong>Graphics:</strong> 256 MB VRAM<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>"
+            },
             "linux_requirements": [],
             "developers": [
                 "ShooStudios"
@@ -30,10 +32,43 @@
                     "description": ""
                 }
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 399,
+                "final": 399,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "3,99€"
+            },
+            "packages": [
+                346787
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Observers",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 346787,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "Observers - 3,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 399
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
-                "mac": false,
+                "mac": true,
                 "linux": false
             },
             "categories": [
@@ -42,8 +77,12 @@
                     "description": "Multi-player"
                 },
                 {
+                    "id": 49,
+                    "description": "PvP"
+                },
+                {
                     "id": 37,
-                    "description": "Local Multi-Player"
+                    "description": "Shared/Split Screen PvP"
                 },
                 {
                     "id": 9,
@@ -51,7 +90,7 @@
                 },
                 {
                     "id": 39,
-                    "description": "Local Co-op"
+                    "description": "Shared/Split Screen Co-op"
                 },
                 {
                     "id": 24,
@@ -87,28 +126,28 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1041160/ss_a83229aada28935145b2a8a1dec67002a5cb591e.600x338.jpg?t=1553640374",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1041160/ss_a83229aada28935145b2a8a1dec67002a5cb591e.1920x1080.jpg?t=1553640374"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1041160/ss_a83229aada28935145b2a8a1dec67002a5cb591e.600x338.jpg?t=1586203180",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1041160/ss_a83229aada28935145b2a8a1dec67002a5cb591e.1920x1080.jpg?t=1586203180"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1041160/ss_fe764268d9be69c2312310ff900708d3b2fe5a34.600x338.jpg?t=1553640374",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1041160/ss_fe764268d9be69c2312310ff900708d3b2fe5a34.1920x1080.jpg?t=1553640374"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1041160/ss_fe764268d9be69c2312310ff900708d3b2fe5a34.600x338.jpg?t=1586203180",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1041160/ss_fe764268d9be69c2312310ff900708d3b2fe5a34.1920x1080.jpg?t=1586203180"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1041160/ss_e54648c9e90bb22b685f48fcca7e39c19be8a8e8.600x338.jpg?t=1553640374",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1041160/ss_e54648c9e90bb22b685f48fcca7e39c19be8a8e8.1920x1080.jpg?t=1553640374"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1041160/ss_e54648c9e90bb22b685f48fcca7e39c19be8a8e8.600x338.jpg?t=1586203180",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1041160/ss_e54648c9e90bb22b685f48fcca7e39c19be8a8e8.1920x1080.jpg?t=1586203180"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1041160/ss_5f12dbb6031004f3db96e6b19aeccf3cae675b1f.600x338.jpg?t=1553640374",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1041160/ss_5f12dbb6031004f3db96e6b19aeccf3cae675b1f.1920x1080.jpg?t=1553640374"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1041160/ss_5f12dbb6031004f3db96e6b19aeccf3cae675b1f.600x338.jpg?t=1586203180",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1041160/ss_5f12dbb6031004f3db96e6b19aeccf3cae675b1f.1920x1080.jpg?t=1586203180"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1041160/ss_e82ffbe08aa828b9c3bdd1ddb79d9451a49f77f2.600x338.jpg?t=1553640374",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1041160/ss_e82ffbe08aa828b9c3bdd1ddb79d9451a49f77f2.1920x1080.jpg?t=1553640374"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1041160/ss_e82ffbe08aa828b9c3bdd1ddb79d9451a49f77f2.600x338.jpg?t=1586203180",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1041160/ss_e82ffbe08aa828b9c3bdd1ddb79d9451a49f77f2.1920x1080.jpg?t=1586203180"
                 }
             ],
             "movies": [
@@ -120,18 +159,22 @@
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/256745910/movie480.webm?t=1553640361",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/256745910/movie_max.webm?t=1553640361"
                     },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256745910/movie480.mp4?t=1553640361",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256745910/movie_max.mp4?t=1553640361"
+                    },
                     "highlight": true
                 }
             ],
             "release_date": {
-                "coming_soon": true,
-                "date": "4 Apr, 2019"
+                "coming_soon": false,
+                "date": "9 Apr, 2019"
             },
             "support_info": {
-                "url": "",
+                "url": "shoostudios.wordpress.com",
                 "email": "shoostudios@gmail.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1041160/page_bg_generated_v6b.jpg?t=1553640374",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1041160/page_bg_generated_v6b.jpg?t=1586203180",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
