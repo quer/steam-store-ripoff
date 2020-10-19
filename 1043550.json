@@ -30,11 +30,11 @@
             ],
             "price_overview": {
                 "currency": "EUR",
-                "initial": 79,
-                "final": 79,
-                "discount_percent": 0,
-                "initial_formatted": "",
-                "final_formatted": "0,79€"
+                "initial": 239,
+                "final": 131,
+                "discount_percent": 45,
+                "initial_formatted": "2,39€",
+                "final_formatted": "1,31€"
             },
             "packages": [
                 347700
@@ -51,13 +51,13 @@
                     "subs": [
                         {
                             "packageid": 347700,
-                            "percent_savings_text": "",
+                            "percent_savings_text": "-45% ",
                             "percent_savings": 0,
-                            "option_text": "WoW Hentai - Soundtrack - 0,79€",
+                            "option_text": "WoW Hentai - Soundtrack - <span class=\"discount_original_price\">2,39€</span> 1,31€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 79
+                            "price_in_cents_with_discount": 131
                         }
                     ]
                 }
