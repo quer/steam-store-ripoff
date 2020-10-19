@@ -8,11 +8,11 @@
             "required_age": 0,
             "is_free": false,
             "controller_support": "full",
-            "detailed_description": "<strong>The jellyfish has ordered you to stabilize the worlds. </strong><br>Leaf is an exploration driven action adventure game where you're on a quest to stabilize two parallell worlds. On your adventure you stumble across hidden weapons, spells and special items that might help you overcome the odds.<h2 class=\"bb_tag\">Key Features</h2><br><ul class=\"bb_ul\"><li>Explore an abandoned world<br></li><li>Fight monsters and defeat challenging bosses<br></li><li>Seek powerful items and hidden areas<br></li><li>Enjoy the beautiful soundtrack</li></ul>",
-            "about_the_game": "<strong>The jellyfish has ordered you to stabilize the worlds. </strong><br>Leaf is an exploration driven action adventure game where you're on a quest to stabilize two parallell worlds. On your adventure you stumble across hidden weapons, spells and special items that might help you overcome the odds.<h2 class=\"bb_tag\">Key Features</h2><br><ul class=\"bb_ul\"><li>Explore an abandoned world<br></li><li>Fight monsters and defeat challenging bosses<br></li><li>Seek powerful items and hidden areas<br></li><li>Enjoy the beautiful soundtrack</li></ul>",
+            "detailed_description": "<strong>The jellyfish has ordered you to stabilize the worlds. </strong><br>Leaf is an exploration driven action adventure game that doesn't hold your hand. You're on a quest to stabilize two parallell worlds. On your adventure you stumble across hidden weapons, spells and special items that might help you overcome the odds.<h2 class=\"bb_tag\">Key Features</h2><br><ul class=\"bb_ul\"><li>Explore an abandoned world<br></li><li>Fight monsters and defeat challenging bosses<br></li><li>Seek powerful items and hidden areas<br></li><li>Enjoy the beautiful soundtrack</li></ul><br>Estimated playtime: 3-6 hours.",
+            "about_the_game": "<strong>The jellyfish has ordered you to stabilize the worlds. </strong><br>Leaf is an exploration driven action adventure game that doesn't hold your hand. You're on a quest to stabilize two parallell worlds. On your adventure you stumble across hidden weapons, spells and special items that might help you overcome the odds.<h2 class=\"bb_tag\">Key Features</h2><br><ul class=\"bb_ul\"><li>Explore an abandoned world<br></li><li>Fight monsters and defeat challenging bosses<br></li><li>Seek powerful items and hidden areas<br></li><li>Enjoy the beautiful soundtrack</li></ul><br>Estimated playtime: 3-6 hours.",
             "short_description": "Leaf is an exploration driven action adventure game where you're on a quest to stabilize two abandoned worlds. On your adventure you stumble across hidden weapons, spells and special items that might help you on your journey.",
             "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1048960/header.jpg?t=1553119420",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1048960/header.jpg?t=1555290376",
             "website": null,
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 32-bit<br></li><li><strong>Processor:</strong> 3 GHz or better<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> GTX 560 or better<br></li><li><strong>Storage:</strong> 500 MB available space<br></li><li><strong>Sound Card:</strong> N/A</li></ul>"
@@ -25,7 +25,40 @@
             "publishers": [
                 "Simondtd"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 1249,
+                "final": 1249,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "12,49€"
+            },
+            "packages": [
+                349848
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Leaf",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 349848,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "Leaf - 12,49€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 1249
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": false,
@@ -62,33 +95,33 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1048960/ss_22109eb1b1ed227bb572e36f33d72a032789991d.600x338.jpg?t=1553119420",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1048960/ss_22109eb1b1ed227bb572e36f33d72a032789991d.1920x1080.jpg?t=1553119420"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1048960/ss_22109eb1b1ed227bb572e36f33d72a032789991d.600x338.jpg?t=1555290376",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1048960/ss_22109eb1b1ed227bb572e36f33d72a032789991d.1920x1080.jpg?t=1555290376"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1048960/ss_c6330aebea882e298adb142ebb5e5d34c156bad0.600x338.jpg?t=1553119420",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1048960/ss_c6330aebea882e298adb142ebb5e5d34c156bad0.1920x1080.jpg?t=1553119420"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1048960/ss_c6330aebea882e298adb142ebb5e5d34c156bad0.600x338.jpg?t=1555290376",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1048960/ss_c6330aebea882e298adb142ebb5e5d34c156bad0.1920x1080.jpg?t=1555290376"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1048960/ss_8836c14d7e03245c3b814f51ff166b72b6e12403.600x338.jpg?t=1553119420",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1048960/ss_8836c14d7e03245c3b814f51ff166b72b6e12403.1920x1080.jpg?t=1553119420"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1048960/ss_8836c14d7e03245c3b814f51ff166b72b6e12403.600x338.jpg?t=1555290376",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1048960/ss_8836c14d7e03245c3b814f51ff166b72b6e12403.1920x1080.jpg?t=1555290376"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1048960/ss_0f0f43cd2ed4fa058c11c0efb8c2bf6f2d6dbab2.600x338.jpg?t=1553119420",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1048960/ss_0f0f43cd2ed4fa058c11c0efb8c2bf6f2d6dbab2.1920x1080.jpg?t=1553119420"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1048960/ss_0f0f43cd2ed4fa058c11c0efb8c2bf6f2d6dbab2.600x338.jpg?t=1555290376",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1048960/ss_0f0f43cd2ed4fa058c11c0efb8c2bf6f2d6dbab2.1920x1080.jpg?t=1555290376"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1048960/ss_183c4148e78fae0494f97a9fde6e31855b8d7a0c.600x338.jpg?t=1553119420",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1048960/ss_183c4148e78fae0494f97a9fde6e31855b8d7a0c.1920x1080.jpg?t=1553119420"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1048960/ss_183c4148e78fae0494f97a9fde6e31855b8d7a0c.600x338.jpg?t=1555290376",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1048960/ss_183c4148e78fae0494f97a9fde6e31855b8d7a0c.1920x1080.jpg?t=1555290376"
                 },
                 {
                     "id": 5,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1048960/ss_d0a1abbbfed6e6a59aacf655d89d9c3842da2669.600x338.jpg?t=1553119420",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1048960/ss_d0a1abbbfed6e6a59aacf655d89d9c3842da2669.1920x1080.jpg?t=1553119420"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1048960/ss_d0a1abbbfed6e6a59aacf655d89d9c3842da2669.600x338.jpg?t=1555290376",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1048960/ss_d0a1abbbfed6e6a59aacf655d89d9c3842da2669.1920x1080.jpg?t=1555290376"
                 }
             ],
             "movies": [
@@ -100,18 +133,22 @@
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/256745696/movie480.webm?t=1553117993",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/256745696/movie_max.webm?t=1553117993"
                     },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256745696/movie480.mp4?t=1553117993",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256745696/movie_max.mp4?t=1553117993"
+                    },
                     "highlight": true
                 }
             ],
             "release_date": {
-                "coming_soon": true,
+                "coming_soon": false,
                 "date": "11 Apr, 2019"
             },
             "support_info": {
                 "url": "https://www.leafthegame.com/",
                 "email": "contact@leafthegame.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1048960/page_bg_generated_v6b.jpg?t=1553119420",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1048960/page_bg_generated_v6b.jpg?t=1555290376",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
