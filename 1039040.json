@@ -3,22 +3,24 @@
         "success": true,
         "data": {
             "type": "game",
-            "name": "Dragonbell",
+            "name": "Copperbell",
             "steam_appid": 1039040,
             "required_age": 0,
             "is_free": false,
-            "controller_support": "full",
-            "detailed_description": "Darkness is creeping into the lands. The rise of the Bad Moon heralds the Dragonbell's toll. Can you fight through the corruption and restore the balance of this world?<h2 class=\"bb_tag\">Key Features:</h2><ul class=\"bb_ul\"><li> Original setting realised in beautiful hand-drawn art<br></li><li> Each area has its own environment, dangers and secrets to uncover<br></li><li> The game is short and sweet, you would probably beat it over the weekend</li></ul><h2 class=\"bb_tag\">Core Gameplay:</h2><ul class=\"bb_ul\"><li> Test your wit and will by fighting enemies and evading traps<br></li><li> Explore and master dangerous environments<br></li><li> Collect coins to upgrade your abilities<br></li><li> Defeat challenging bosses</li></ul><h2 class=\"bb_tag\">Demo Keyboard Controls:</h2><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/1039040/extras/transparent-white-512.png?t=1551947621\" >",
-            "about_the_game": "Darkness is creeping into the lands. The rise of the Bad Moon heralds the Dragonbell's toll. Can you fight through the corruption and restore the balance of this world?<h2 class=\"bb_tag\">Key Features:</h2><ul class=\"bb_ul\"><li> Original setting realised in beautiful hand-drawn art<br></li><li> Each area has its own environment, dangers and secrets to uncover<br></li><li> The game is short and sweet, you would probably beat it over the weekend</li></ul><h2 class=\"bb_tag\">Core Gameplay:</h2><ul class=\"bb_ul\"><li> Test your wit and will by fighting enemies and evading traps<br></li><li> Explore and master dangerous environments<br></li><li> Collect coins to upgrade your abilities<br></li><li> Defeat challenging bosses</li></ul><h2 class=\"bb_tag\">Demo Keyboard Controls:</h2><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/1039040/extras/transparent-white-512.png?t=1551947621\" >",
-            "short_description": "Darkness is creeping into the lands. The rise of the Bad Moon heralds the Dragonbell's toll. Can you fight through the corruption and restore the balance of this world?",
+            "detailed_description": "Immerse yourself in a unique hand drawn short adventure game and help Copperbell defeat the demon that has settled in the nearby forest.<h2 class=\"bb_tag\">Key Features:</h2><ul class=\"bb_ul\"><li> Original setting realised in beautiful hand-drawn art<br></li><li> Each area has its own environment, dangers and secrets to uncover<br></li><li> The game is short and sweet, a proficient player can probably beat it in under an hour</li></ul><h2 class=\"bb_tag\">Core Gameplay:</h2><ul class=\"bb_ul\"><li> Test your wit and will by fighting enemies and evading traps<br></li><li> Explore and master dangerous environments<br></li><li> Collect coins to upgrade your abilities<br></li><li> Defeat challenging bosses</li></ul>",
+            "about_the_game": "Immerse yourself in a unique hand drawn short adventure game and help Copperbell defeat the demon that has settled in the nearby forest.<h2 class=\"bb_tag\">Key Features:</h2><ul class=\"bb_ul\"><li> Original setting realised in beautiful hand-drawn art<br></li><li> Each area has its own environment, dangers and secrets to uncover<br></li><li> The game is short and sweet, a proficient player can probably beat it in under an hour</li></ul><h2 class=\"bb_tag\">Core Gameplay:</h2><ul class=\"bb_ul\"><li> Test your wit and will by fighting enemies and evading traps<br></li><li> Explore and master dangerous environments<br></li><li> Collect coins to upgrade your abilities<br></li><li> Defeat challenging bosses</li></ul>",
+            "short_description": "Immerse yourself in a unique hand drawn short adventure game and help Copperbell defeat the demon that has settled in the nearby forest.",
             "supported_languages": "English",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1039040/header.jpg?t=1551947621",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1039040/header.jpg?t=1571050450",
             "website": null,
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong> Dual Core @ 2.4GHZ<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> DirectX 10 compatible GPU with 1GB memory<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>",
                 "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>"
             },
-            "mac_requirements": [],
+            "mac_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OS X 10.10 or later<br></li><li><strong>Processor:</strong> Intel CPU 2.4GHZ or higher<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Integrated graphics<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OS X 10.10 or later<br></li><li><strong>Processor:</strong> Intel CPU 2.4GHZ or higher<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Storage:</strong> 3 GB available space</li></ul>"
+            },
             "linux_requirements": [],
             "developers": [
                 "Zero Fun"
@@ -29,13 +31,46 @@
             "demos": [
                 {
                     "appid": 1039050,
-                    "description": ""
+                    "description": "Copperbell Demo"
                 }
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 819,
+                "final": 819,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "8,19€"
+            },
+            "packages": [
+                346023
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Copperbell",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 346023,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "Copperbell - 8,19€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 819
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
-                "mac": false,
+                "mac": true,
                 "linux": false
             },
             "categories": [
@@ -44,8 +79,12 @@
                     "description": "Single-player"
                 },
                 {
-                    "id": 28,
-                    "description": "Full controller support"
+                    "id": 22,
+                    "description": "Steam Achievements"
+                },
+                {
+                    "id": 18,
+                    "description": "Partial Controller Support"
                 }
             ],
             "genres": [
@@ -58,6 +97,10 @@
                     "description": "Adventure"
                 },
                 {
+                    "id": "4",
+                    "description": "Casual"
+                },
+                {
                     "id": "23",
                     "description": "Indie"
                 }
@@ -65,39 +108,125 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1039040/ss_093ea3313af8030a7f6a6372e3355b6fe6deb24f.600x338.jpg?t=1551947621",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1039040/ss_093ea3313af8030a7f6a6372e3355b6fe6deb24f.1920x1080.jpg?t=1551947621"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1039040/ss_aef6f19219ff08614c63e6157c53dd869f733ad6.600x338.jpg?t=1571050450",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1039040/ss_aef6f19219ff08614c63e6157c53dd869f733ad6.1920x1080.jpg?t=1571050450"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1039040/ss_aef6f19219ff08614c63e6157c53dd869f733ad6.600x338.jpg?t=1551947621",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1039040/ss_aef6f19219ff08614c63e6157c53dd869f733ad6.1920x1080.jpg?t=1551947621"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1039040/ss_c889584ca8a412e784082f7e763d73e996cf9cf8.600x338.jpg?t=1571050450",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1039040/ss_c889584ca8a412e784082f7e763d73e996cf9cf8.1920x1080.jpg?t=1571050450"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1039040/ss_394351df6fbeb0397bbc117e9b86c4a07f19523a.600x338.jpg?t=1551947621",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1039040/ss_394351df6fbeb0397bbc117e9b86c4a07f19523a.1920x1080.jpg?t=1551947621"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1039040/ss_7d8d2f5d764d990ebf85be6a2c994cbb331fff9f.600x338.jpg?t=1571050450",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1039040/ss_7d8d2f5d764d990ebf85be6a2c994cbb331fff9f.1920x1080.jpg?t=1571050450"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1039040/ss_038573499df958c5b5fc9b8a42c7f7fe7afc8fbf.600x338.jpg?t=1551947621",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1039040/ss_038573499df958c5b5fc9b8a42c7f7fe7afc8fbf.1920x1080.jpg?t=1551947621"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1039040/ss_038573499df958c5b5fc9b8a42c7f7fe7afc8fbf.600x338.jpg?t=1571050450",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1039040/ss_038573499df958c5b5fc9b8a42c7f7fe7afc8fbf.1920x1080.jpg?t=1571050450"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1039040/ss_2e00d9821e87131815445ca551fe4ed809df4735.600x338.jpg?t=1551947621",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1039040/ss_2e00d9821e87131815445ca551fe4ed809df4735.1920x1080.jpg?t=1551947621"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1039040/ss_d65b306a92bc2d2d51994e8af29c81af0c2e9ebc.600x338.jpg?t=1571050450",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1039040/ss_d65b306a92bc2d2d51994e8af29c81af0c2e9ebc.1920x1080.jpg?t=1571050450"
+                },
+                {
+                    "id": 5,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1039040/ss_dde2c7bb907ce79799c5dc679c922ea1c726ff78.600x338.jpg?t=1571050450",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1039040/ss_dde2c7bb907ce79799c5dc679c922ea1c726ff78.1920x1080.jpg?t=1571050450"
+                },
+                {
+                    "id": 6,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1039040/ss_8cfcb8aa4b3dfe1ba57b0c5f6ea45d72218ac849.600x338.jpg?t=1571050450",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1039040/ss_8cfcb8aa4b3dfe1ba57b0c5f6ea45d72218ac849.1920x1080.jpg?t=1571050450"
+                },
+                {
+                    "id": 7,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1039040/ss_b88ab28a854a21cff0909e7ca82590385cde965c.600x338.jpg?t=1571050450",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1039040/ss_b88ab28a854a21cff0909e7ca82590385cde965c.1920x1080.jpg?t=1571050450"
+                },
+                {
+                    "id": 8,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1039040/ss_c4c13d7b3163246639f7860589aec4663f841f64.600x338.jpg?t=1571050450",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1039040/ss_c4c13d7b3163246639f7860589aec4663f841f64.1920x1080.jpg?t=1571050450"
+                },
+                {
+                    "id": 9,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1039040/ss_d3fecb471623e073526b93e2670664fa31cc490b.600x338.jpg?t=1571050450",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1039040/ss_d3fecb471623e073526b93e2670664fa31cc490b.1920x1080.jpg?t=1571050450"
                 }
             ],
+            "movies": [
+                {
+                    "id": 256764331,
+                    "name": "Full Game Trailer Graphics Update",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256764331/movie.293x165.jpg?t=1571049578",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256764331/movie480.webm?t=1571049578",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256764331/movie_max.webm?t=1571049578"
+                    },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256764331/movie480.mp4?t=1571049578",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256764331/movie_max.mp4?t=1571049578"
+                    },
+                    "highlight": true
+                }
+            ],
+            "achievements": {
+                "total": 20,
+                "highlighted": [
+                    {
+                        "name": "Grub Cave Master",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1039040/3e249ad398f0c1454ab4b3c43eb0f528af89fbbc.jpg"
+                    },
+                    {
+                        "name": "Cave Master",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1039040/55f5eb3ba3ff0d62dc8272d0122f5acde4bbcca7.jpg"
+                    },
+                    {
+                        "name": "Rotten Tree Master",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1039040/887b4b327dc8eb3a7b5d19d7335ec86f7f73ad9b.jpg"
+                    },
+                    {
+                        "name": "Game Master",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1039040/be62546cf56880c6bb0de01dc0f1495d57b96465.jpg"
+                    },
+                    {
+                        "name": "Game Pro",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1039040/a873cbec38192566bc61b42350d728d50fd47206.jpg"
+                    },
+                    {
+                        "name": "Vanilla Master",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1039040/96afe5d99361d24452e7d3fb51c001d248ca9459.jpg"
+                    },
+                    {
+                        "name": "Powerhouse",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1039040/4c34276cda60c51df75c6f63089a1bd0db1a6f67.jpg"
+                    },
+                    {
+                        "name": "Learning the ropes",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1039040/838c616f2b819ffbcf651e27116329b815b5669a.jpg"
+                    },
+                    {
+                        "name": "Master Collector",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1039040/aa61864a21e781d98fbeeea0c80ebfacddd7a1d5.jpg"
+                    },
+                    {
+                        "name": "Master Explorer",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1039040/79bdd727bf9fd7b2c216362ef2039eeda64d33df.jpg"
+                    }
+                ]
+            },
             "release_date": {
-                "coming_soon": true,
-                "date": "May 2019"
+                "coming_soon": false,
+                "date": "31 Jul, 2019"
             },
             "support_info": {
                 "url": "",
                 "email": "info@zerofun.games"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1039040/page_bg_generated_v6b.jpg?t=1551947621",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1039040/page_bg_generated_v6b.jpg?t=1571050450",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
