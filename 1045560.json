@@ -7,7 +7,8 @@
             "steam_appid": 1045560,
             "required_age": 0,
             "is_free": false,
-            "detailed_description": "<h1>EX THEME: KNDW</h1><p><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/1045560/extras/steam_store_yjp_1045560_brand.png?t=1553501567\" ><br><ul class=\"bb_ul\"><li>The DLC has twenty playable puzzle images and one obstacle called &quot;Teddy Rain&quot;.<br></li><li>Theme set includes both of background and frame, bottom.<br></li><li>Sound set contains one BGM and SE.</li></ul></p><br><h1>About the Game</h1><i>Play with our first release title <strong>Discouraged Workers</strong>. Discouraged Workers is an independent progressive <strong>kinetic novel</strong> created by YGGDRASIL STUDIO.</i>",
+            "controller_support": "full",
+            "detailed_description": "<h1>EX THEME: KNDW</h1><p><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/1045560/extras/steam_store_yjp_1045560_brand.png?t=1584225014\" /><br><ul class=\"bb_ul\"><li>The DLC has twenty playable puzzle images and one obstacle called &quot;Teddy Rain&quot;.<br></li><li>Theme set includes both of background and frame, bottom.<br></li><li>Sound set contains one BGM and SE.</li></ul></p><br><h1>About the Game</h1><i>Play with our first release title <strong>Discouraged Workers</strong>. Discouraged Workers is an independent progressive <strong>kinetic novel</strong> created by YGGDRASIL STUDIO.</i>",
             "about_the_game": "<i>Play with our first release title <strong>Discouraged Workers</strong>. Discouraged Workers is an independent progressive <strong>kinetic novel</strong> created by YGGDRASIL STUDIO.</i>",
             "short_description": "Play with our first release title Discouraged Workers. Discouraged Workers is an independent progressive kinetic novel created by YGGDRASIL STUDIO.",
             "fullgame": {
@@ -15,16 +16,16 @@
                 "name": "YGGDRASIL JIGSAW PUZZLE"
             },
             "supported_languages": "English",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1045560/header.jpg?t=1553501567",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1045560/header.jpg?t=1584225014",
             "website": null,
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Storage:</strong> 22 MB available space</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Storage:</strong> 25 MB available space</li></ul>"
             },
             "mac_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Storage:</strong> 22 MB available space</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Storage:</strong> 25 MB available space</li></ul>"
             },
             "linux_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Storage:</strong> 22 MB available space</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Storage:</strong> 25 MB available space</li></ul>"
             },
             "legal_notice": "<strong>YGGDRASIL JIGSAW PUZZLE - KNDW © YGGDRASIL STUDIO Co, Pte. All Rights Reserved. All literary works/trademarks are property of their respective owners. Do not distribute our program or any alterations of our program files.</strong>",
             "developers": [
@@ -33,7 +34,40 @@
             "publishers": [
                 "YGGDRASIL STUDIO"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 79,
+                "final": 79,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "0,79€"
+            },
+            "packages": [
+                348436
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy YGGDRASIL JIGSAW PUZZLE - KNDW",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 348436,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "YGGDRASIL JIGSAW PUZZLE - KNDW - 0,79€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 79
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": true,
@@ -53,20 +87,20 @@
                     "description": "Steam Achievements"
                 },
                 {
-                    "id": 30,
-                    "description": "Steam Workshop"
+                    "id": 28,
+                    "description": "Full controller support"
                 },
                 {
-                    "id": 18,
-                    "description": "Partial Controller Support"
+                    "id": 30,
+                    "description": "Steam Workshop"
                 },
                 {
                     "id": 23,
                     "description": "Steam Cloud"
                 },
                 {
-                    "id": 15,
-                    "description": "Stats"
+                    "id": 43,
+                    "description": "Remote Play on TV"
                 }
             ],
             "genres": [
@@ -82,49 +116,49 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1045560/ss_1bd3a1cbe0d4eb2f8f95e6d175b18bd70c56f0b2.600x338.jpg?t=1553501567",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1045560/ss_1bd3a1cbe0d4eb2f8f95e6d175b18bd70c56f0b2.1920x1080.jpg?t=1553501567"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1045560/ss_1bd3a1cbe0d4eb2f8f95e6d175b18bd70c56f0b2.600x338.jpg?t=1584225014",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1045560/ss_1bd3a1cbe0d4eb2f8f95e6d175b18bd70c56f0b2.1920x1080.jpg?t=1584225014"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1045560/ss_4f400a7684a4475c792b580ba947987fa3d34b6e.600x338.jpg?t=1553501567",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1045560/ss_4f400a7684a4475c792b580ba947987fa3d34b6e.1920x1080.jpg?t=1553501567"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1045560/ss_4f400a7684a4475c792b580ba947987fa3d34b6e.600x338.jpg?t=1584225014",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1045560/ss_4f400a7684a4475c792b580ba947987fa3d34b6e.1920x1080.jpg?t=1584225014"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1045560/ss_ae74290bece531d3860d8bc7a2044787cba5fff8.600x338.jpg?t=1553501567",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1045560/ss_ae74290bece531d3860d8bc7a2044787cba5fff8.1920x1080.jpg?t=1553501567"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1045560/ss_ae74290bece531d3860d8bc7a2044787cba5fff8.600x338.jpg?t=1584225014",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1045560/ss_ae74290bece531d3860d8bc7a2044787cba5fff8.1920x1080.jpg?t=1584225014"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1045560/ss_6991fa289625b9d52ffdad0294f23292d1e87c44.600x338.jpg?t=1553501567",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1045560/ss_6991fa289625b9d52ffdad0294f23292d1e87c44.1920x1080.jpg?t=1553501567"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1045560/ss_6991fa289625b9d52ffdad0294f23292d1e87c44.600x338.jpg?t=1584225014",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1045560/ss_6991fa289625b9d52ffdad0294f23292d1e87c44.1920x1080.jpg?t=1584225014"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1045560/ss_b92fd2a4e10d5a0c557a4455624b7e1fd28f2f9f.600x338.jpg?t=1553501567",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1045560/ss_b92fd2a4e10d5a0c557a4455624b7e1fd28f2f9f.1920x1080.jpg?t=1553501567"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1045560/ss_b92fd2a4e10d5a0c557a4455624b7e1fd28f2f9f.600x338.jpg?t=1584225014",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1045560/ss_b92fd2a4e10d5a0c557a4455624b7e1fd28f2f9f.1920x1080.jpg?t=1584225014"
                 },
                 {
                     "id": 5,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1045560/ss_512c0f3cd7256379919e564c1f9ada8eb613c461.600x338.jpg?t=1553501567",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1045560/ss_512c0f3cd7256379919e564c1f9ada8eb613c461.1920x1080.jpg?t=1553501567"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1045560/ss_512c0f3cd7256379919e564c1f9ada8eb613c461.600x338.jpg?t=1584225014",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1045560/ss_512c0f3cd7256379919e564c1f9ada8eb613c461.1920x1080.jpg?t=1584225014"
                 },
                 {
                     "id": 6,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1045560/ss_c35c41542a4b3eb7d75a7f5aaf8ae232fa15cad0.600x338.jpg?t=1553501567",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1045560/ss_c35c41542a4b3eb7d75a7f5aaf8ae232fa15cad0.1920x1080.jpg?t=1553501567"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1045560/ss_c35c41542a4b3eb7d75a7f5aaf8ae232fa15cad0.600x338.jpg?t=1584225014",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1045560/ss_c35c41542a4b3eb7d75a7f5aaf8ae232fa15cad0.1920x1080.jpg?t=1584225014"
                 }
             ],
             "release_date": {
-                "coming_soon": true,
-                "date": "Apr 2019"
+                "coming_soon": false,
+                "date": "18 Apr, 2019"
             },
             "support_info": {
-                "url": "https://www.facebook.com/YGGDRASILSTUDIO",
-                "email": "yggdrasilgamestudio@gmail.com"
+                "url": "https://www.twitter.com/STUDIOYGGDRASIL",
+                "email": "yggdrasilstudio@protonmail.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1045560/page_bg_generated_v6b.jpg?t=1553501567",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1045560/page_bg_generated_v6b.jpg?t=1584225014",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
