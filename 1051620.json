@@ -15,7 +15,7 @@
                 "name": "Mortal Kombat 11"
             },
             "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain, Arabic, Polish, Portuguese - Brazil<strong>*</strong>, Russian, Simplified Chinese, Spanish - Latin America<strong>*</strong>, Traditional Chinese<br><strong>*</strong>languages with full audio support",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1051620/header.jpg?t=1556302332",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1051620/header.jpg?t=1597876899",
             "website": "http://mortalkombat.com/",
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 64-bit Windows 7 / Windows 10<br></li><li><strong>Processor:</strong> Intel Core i5-750, 2.66 GHz / AMD Phenom II X4 965, 3.4 GHz or AMD Ryzen™ 3 1200, 3.1 GHz<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA® GeForce™ GTX 670 or NVIDIA® GeForce™ GTX 1050 / AMD® Radeon™ HD 7950 or AMD® Radeon™ R9 270<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Network:</strong> Broadband Internet connection</li></ul>",
@@ -41,7 +41,8 @@
                 "final_formatted": "5,99€"
             },
             "packages": [
-                350838
+                350838,
+                508908
             ],
             "package_groups": [
                 {
@@ -55,13 +56,23 @@
                     "subs": [
                         {
                             "packageid": 350838,
-                            "percent_savings_text": "",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
                             "option_text": "Shao Kahn - 5,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
                             "price_in_cents_with_discount": 599
+                        },
+                        {
+                            "packageid": 508908,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "Mortal Kombat 11 Ultimate Edition - 59,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 5999
                         }
                     ]
                 }
@@ -81,6 +92,10 @@
                     "description": "Multi-player"
                 },
                 {
+                    "id": 49,
+                    "description": "PvP"
+                },
+                {
                     "id": 36,
                     "description": "Online PvP"
                 },
@@ -98,15 +113,27 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1051620/ss_450b20ece74b033b074f201c2aadd42cb947c82b.600x338.jpg?t=1556302332",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1051620/ss_450b20ece74b033b074f201c2aadd42cb947c82b.1920x1080.jpg?t=1556302332"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1051620/ss_ae66b176ad8925e8d5a5f7224b8a0aea8f483e44.600x338.jpg?t=1597876899",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1051620/ss_ae66b176ad8925e8d5a5f7224b8a0aea8f483e44.1920x1080.jpg?t=1597876899"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1051620/ss_9407ce8612d3f6c7e708d82d781e519fd6868e02.600x338.jpg?t=1597876899",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1051620/ss_9407ce8612d3f6c7e708d82d781e519fd6868e02.1920x1080.jpg?t=1597876899"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1051620/ss_db5b87fafc04ae6950052dd7bf5a6eeec14202d2.600x338.jpg?t=1597876899",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1051620/ss_db5b87fafc04ae6950052dd7bf5a6eeec14202d2.1920x1080.jpg?t=1597876899"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1051620/ss_9664b6bc659e31e5cdb25b2def28260bde3a9ca0.600x338.jpg?t=1597876899",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1051620/ss_9664b6bc659e31e5cdb25b2def28260bde3a9ca0.1920x1080.jpg?t=1597876899"
                 }
             ],
             "recommendations": {
-                "total": 105
-            },
-            "achievements": {
-                "total": 0
+                "total": 124
             },
             "release_date": {
                 "coming_soon": false,
@@ -116,7 +143,7 @@
                 "url": "http://support.wbgames.com",
                 "email": "support@wbgames.com or Wbgames.intsupport@warnerbros.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1051620/page_bg_generated_v6b.jpg?t=1556302332",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1051620/page_bg_generated_v6b.jpg?t=1597876899",
             "content_descriptors": {
                 "ids": [
                     2,
