@@ -35,11 +35,11 @@
             ],
             "price_overview": {
                 "currency": "EUR",
-                "initial": 399,
-                "final": 399,
+                "initial": 499,
+                "final": 499,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "3,99€"
+                "final_formatted": "4,99€"
             },
             "packages": [
                 338440
@@ -56,13 +56,13 @@
                     "subs": [
                         {
                             "packageid": 338440,
-                            "percent_savings_text": "",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "Virtual Rides 3 - Bounce Machine - 3,99€",
+                            "option_text": "Virtual Rides 3 - Bounce Machine - 4,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 399
+                            "price_in_cents_with_discount": 499
                         }
                     ]
                 }
@@ -134,6 +134,10 @@
                     "webm": {
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/256741560/movie480.webm?t=1548852877",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/256741560/movie_max.webm?t=1548852877"
+                    },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256741560/movie480.mp4?t=1548852877",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256741560/movie_max.mp4?t=1548852877"
                     },
                     "highlight": true
                 }
