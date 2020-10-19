@@ -8,29 +8,73 @@
             "required_age": 0,
             "is_free": false,
             "controller_support": "full",
-            "detailed_description": "Stela is a cinematic, atmospheric platformer about a young woman witnessing the final days of a mysterious ancient world.<br />\r\n<br />\r\nOvercome daunting challenges, treacherous terrain, and gargantuan beasts while traversing a decaying land. Manipulate the environment to solve elaborate puzzles and creep past dangerous creatures under cover of muted landscapes, all set to an original soundtrack. Survive sweeping environments including mysterious towns, haunting forests, and massive subterranean ruins brought to life in an atmospheric experience.",
-            "about_the_game": "Stela is a cinematic, atmospheric platformer about a young woman witnessing the final days of a mysterious ancient world.<br />\r\n<br />\r\nOvercome daunting challenges, treacherous terrain, and gargantuan beasts while traversing a decaying land. Manipulate the environment to solve elaborate puzzles and creep past dangerous creatures under cover of muted landscapes, all set to an original soundtrack. Survive sweeping environments including mysterious towns, haunting forests, and massive subterranean ruins brought to life in an atmospheric experience.",
+            "detailed_description": "<strong>“I love this game man.” – Jesse Cox<br><br>“Stela is one of the more enjoyable gaming experiences I’ve had in a long time.” 4.5/5 Stars, Touch Arcade</strong><br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/1048600/extras/02.gif?t=1598893004\" /><br><br>Stela is a cinematic, atmospheric platformer about a young woman witnessing the final days of a mysterious ancient world.<br><br>Overcome daunting challenges, treacherous terrain, and gargantuan beasts while traversing a decaying land. Manipulate the environment to solve elaborate puzzles and creep past dangerous creatures under cover of muted landscapes, all set to an original soundtrack. Survive sweeping environments including mysterious towns, haunting forests, and massive subterranean ruins brought to life in an atmospheric experience.",
+            "about_the_game": "<strong>“I love this game man.” – Jesse Cox<br><br>“Stela is one of the more enjoyable gaming experiences I’ve had in a long time.” 4.5/5 Stars, Touch Arcade</strong><br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/1048600/extras/02.gif?t=1598893004\" /><br><br>Stela is a cinematic, atmospheric platformer about a young woman witnessing the final days of a mysterious ancient world.<br><br>Overcome daunting challenges, treacherous terrain, and gargantuan beasts while traversing a decaying land. Manipulate the environment to solve elaborate puzzles and creep past dangerous creatures under cover of muted landscapes, all set to an original soundtrack. Survive sweeping environments including mysterious towns, haunting forests, and massive subterranean ruins brought to life in an atmospheric experience.",
             "short_description": "Stela is a cinematic, atmospheric platformer about a young woman witnessing the final days of a mysterious ancient world.",
-            "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1048600/header.jpg?t=1553215550",
+            "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Japanese, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese, Korean, Polish, Spanish - Latin America, Turkish, Arabic, Dutch<br><strong>*</strong>languages with full audio support",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1048600/header.jpg?t=1598893004",
             "website": "http://www.stela-game.com",
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7, 64-bit<br></li><li><strong>Processor:</strong> Intel CPU Core i5<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GTX 460<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 10 GB available space<br></li><li><strong>Additional Notes:</strong> SSE4.2 required</li></ul>"
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 7 w/ SP1, 64-bit<br></li><li><strong>Processor:</strong> Intel CPU Core i5<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Intel UHD 600, 2 GB VRAM<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Storage:</strong> 4 GB available space<br></li><li><strong>Additional Notes:</strong> SSE4.2 required</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 7 w/ SP1, 64-bit<br></li><li><strong>Processor:</strong> Intel CPU Core i7<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GPU GeForce GTX 660<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 4 GB available space<br></li><li><strong>Additional Notes:</strong> SSE4.2 required</li></ul>"
             },
-            "mac_requirements": [],
-            "linux_requirements": [],
-            "legal_notice": "Copyright 2019 SkyBox Labs",
+            "mac_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+            },
+            "linux_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+            },
+            "legal_notice": "Copyright 2020 SkyBox Labs",
             "developers": [
                 "SkyBox Labs"
             ],
             "publishers": [
                 "SkyBox Labs"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 1679,
+                "final": 1679,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "16,79€"
+            },
+            "packages": [
+                349688
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Stela",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 349688,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "Stela - 16,79€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 1679
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": false,
                 "linux": false
+            },
+            "metacritic": {
+                "score": 67,
+                "url": "https://www.metacritic.com/game/pc/stela?ftag=MCD-06-10aaa1f"
             },
             "categories": [
                 {
@@ -38,8 +82,16 @@
                     "description": "Single-player"
                 },
                 {
+                    "id": 22,
+                    "description": "Steam Achievements"
+                },
+                {
                     "id": 28,
                     "description": "Full controller support"
+                },
+                {
+                    "id": 23,
+                    "description": "Steam Cloud"
                 }
             ],
             "genres": [
@@ -55,56 +107,123 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1048600/ss_fdacfacc6ad960b8799e73f3d76b927042836537.600x338.jpg?t=1553215550",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1048600/ss_fdacfacc6ad960b8799e73f3d76b927042836537.1920x1080.jpg?t=1553215550"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1048600/ss_2b0fc06fe3ae2d2492c2f70f22f4a28e431d47ef.600x338.jpg?t=1598893004",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1048600/ss_2b0fc06fe3ae2d2492c2f70f22f4a28e431d47ef.1920x1080.jpg?t=1598893004"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1048600/ss_17e938fc3d0ce877b7ce82ca4920dc07f6583f9d.600x338.jpg?t=1553215550",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1048600/ss_17e938fc3d0ce877b7ce82ca4920dc07f6583f9d.1920x1080.jpg?t=1553215550"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1048600/ss_a782a23ba93a0350a1cbda256fc7242a9b5343f0.600x338.jpg?t=1598893004",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1048600/ss_a782a23ba93a0350a1cbda256fc7242a9b5343f0.1920x1080.jpg?t=1598893004"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1048600/ss_11018f18ccf63ae470c494d1e15f5a0384868dbf.600x338.jpg?t=1553215550",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1048600/ss_11018f18ccf63ae470c494d1e15f5a0384868dbf.1920x1080.jpg?t=1553215550"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1048600/ss_b0f538663f403bf48bff2da17f5b89f7fc637b2a.600x338.jpg?t=1598893004",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1048600/ss_b0f538663f403bf48bff2da17f5b89f7fc637b2a.1920x1080.jpg?t=1598893004"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1048600/ss_2b0fc06fe3ae2d2492c2f70f22f4a28e431d47ef.600x338.jpg?t=1553215550",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1048600/ss_2b0fc06fe3ae2d2492c2f70f22f4a28e431d47ef.1920x1080.jpg?t=1553215550"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1048600/ss_a096714a80d986cf8b6594332291b9ebc2bb54a5.600x338.jpg?t=1598893004",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1048600/ss_a096714a80d986cf8b6594332291b9ebc2bb54a5.1920x1080.jpg?t=1598893004"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1048600/ss_e8106318e78ee15f20b74a903d35a696818aa14a.600x338.jpg?t=1553215550",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1048600/ss_e8106318e78ee15f20b74a903d35a696818aa14a.1920x1080.jpg?t=1553215550"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1048600/ss_11018f18ccf63ae470c494d1e15f5a0384868dbf.600x338.jpg?t=1598893004",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1048600/ss_11018f18ccf63ae470c494d1e15f5a0384868dbf.1920x1080.jpg?t=1598893004"
                 },
                 {
                     "id": 5,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1048600/ss_87d39cfcda5bbbd23012ef0e8516faad5f49b5d5.600x338.jpg?t=1553215550",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1048600/ss_87d39cfcda5bbbd23012ef0e8516faad5f49b5d5.1920x1080.jpg?t=1553215550"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1048600/ss_35df365d7c2284eb13e3400a5ec96cb2e8ba1381.600x338.jpg?t=1598893004",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1048600/ss_35df365d7c2284eb13e3400a5ec96cb2e8ba1381.1920x1080.jpg?t=1598893004"
+                },
+                {
+                    "id": 6,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1048600/ss_a78a0a6bac608a76af094f2737931b15cb9b32c1.600x338.jpg?t=1598893004",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1048600/ss_a78a0a6bac608a76af094f2737931b15cb9b32c1.1920x1080.jpg?t=1598893004"
+                },
+                {
+                    "id": 7,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1048600/ss_a27e400327142a5ce6bd8afc3fd910947e0dba67.600x338.jpg?t=1598893004",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1048600/ss_a27e400327142a5ce6bd8afc3fd910947e0dba67.1920x1080.jpg?t=1598893004"
+                },
+                {
+                    "id": 8,
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1048600/ss_54f3b91d40c774a67b986da22d694a2f731027d7.600x338.jpg?t=1598893004",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1048600/ss_54f3b91d40c774a67b986da22d694a2f731027d7.1920x1080.jpg?t=1598893004"
                 }
             ],
             "movies": [
                 {
-                    "id": 256745070,
-                    "name": "Announcement Trailer",
-                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256745070/movie.293x165.jpg?t=1552933084",
+                    "id": 256775753,
+                    "name": "Steam Release Date Announcement Trailer",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256775753/movie.293x165.jpg?t=1582139959",
                     "webm": {
-                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256745070/movie480.webm?t=1552933084",
-                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256745070/movie_max.webm?t=1552933084"
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256775753/movie480.webm?t=1582139959",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256775753/movie_max.webm?t=1582139959"
+                    },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256775753/movie480.mp4?t=1582139959",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256775753/movie_max.mp4?t=1582139959"
                     },
                     "highlight": true
                 }
             ],
+            "recommendations": {
+                "total": 304
+            },
+            "achievements": {
+                "total": 47,
+                "highlighted": [
+                    {
+                        "name": "Not Like This",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1048600/ae8974af24d56a93bbee7604b74ea47f5f172ce3.jpg"
+                    },
+                    {
+                        "name": "From the Depths",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1048600/7838311e4e957f1d70380c055f0771626a98bc78.jpg"
+                    },
+                    {
+                        "name": "Plague of Beetles",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1048600/763e162d21673a4578212317cbdca227a84b4698.jpg"
+                    },
+                    {
+                        "name": "Raised in a Barn",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1048600/61011da2646a216ffc5f0439e55acd8aaeb81511.jpg"
+                    },
+                    {
+                        "name": "Beetle of Unusual Size",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1048600/75f32de7db87dfc234746d98ca100ca8a4282f96.jpg"
+                    },
+                    {
+                        "name": "In a Dark Wood",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1048600/7f3bfbde3ca100df030e8a1fb3ce225267f3c3d5.jpg"
+                    },
+                    {
+                        "name": "What Lies Below",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1048600/83fd455f3b889ea32be1aa11696db8c728c909c6.jpg"
+                    },
+                    {
+                        "name": "Into the Flames",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1048600/8faac803af10b1064d8d0a933f6a3064e972f018.jpg"
+                    },
+                    {
+                        "name": "Rain of Fire",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1048600/46786bea178d44c5c0579f0370bb455ceeec3fcb.jpg"
+                    },
+                    {
+                        "name": "Narrow Escape",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1048600/a2aef5d4a044575d8bfe721cd321bb9e9949630e.jpg"
+                    }
+                ]
+            },
             "release_date": {
-                "coming_soon": true,
-                "date": "2019"
+                "coming_soon": false,
+                "date": "13 Mar, 2020"
             },
             "support_info": {
                 "url": "www.skyboxlabs.com",
                 "email": "support@skyboxlabs.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1048600/page_bg_generated_v6b.jpg?t=1553215550",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1048600/page_bg_generated_v6b.jpg?t=1598893004",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
