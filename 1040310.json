@@ -56,7 +56,7 @@
                     "subs": [
                         {
                             "packageid": 346486,
-                            "percent_savings_text": "",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
                             "option_text": "I Know Everything - 3,29€",
                             "option_description": "",
@@ -66,7 +66,7 @@
                         },
                         {
                             "packageid": 387502,
-                            "percent_savings_text": "",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
                             "option_text": "I Know Everything - Commercial License - 3,29€",
                             "option_description": "",
@@ -161,6 +161,10 @@
                     "webm": {
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/256750406/movie480.webm?t=1557665168",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/256750406/movie_max.webm?t=1557665168"
+                    },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256750406/movie480.mp4?t=1557665168",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256750406/movie_max.mp4?t=1557665168"
                     },
                     "highlight": true
                 }
