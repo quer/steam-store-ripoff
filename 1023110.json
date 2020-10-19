@@ -54,7 +54,7 @@
                     "subs": [
                         {
                             "packageid": 339731,
-                            "percent_savings_text": "",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
                             "option_text": "Seven Red Lines - 2,49€",
                             "option_description": "",
@@ -132,6 +132,10 @@
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/256770508/movie480.webm?t=1577608664",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/256770508/movie_max.webm?t=1577608664"
                     },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256770508/movie480.mp4?t=1577608664",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256770508/movie_max.mp4?t=1577608664"
+                    },
                     "highlight": true
                 },
                 {
@@ -141,6 +145,10 @@
                     "webm": {
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/256770510/movie480.webm?t=1577608644",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/256770510/movie_max.webm?t=1577608644"
+                    },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256770510/movie480.mp4?t=1577608644",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256770510/movie_max.mp4?t=1577608644"
                     },
                     "highlight": false
                 },
@@ -152,12 +160,13 @@
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/256770509/movie480.webm?t=1577608654",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/256770509/movie_max.webm?t=1577608654"
                     },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256770509/movie480.mp4?t=1577608654",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256770509/movie_max.mp4?t=1577608654"
+                    },
                     "highlight": false
                 }
             ],
-            "achievements": {
-                "total": 0
-            },
             "release_date": {
                 "coming_soon": false,
                 "date": "12 Jan, 2020"
