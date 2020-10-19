@@ -11,7 +11,7 @@
             "about_the_game": "Today is a special day. The government decided to make an extraordinary and unpredictable experiment. Its objective is to learn how people are going to behave and what they will do if given full freedom and thus allowed to do just whatever they want for a period of 24 hours. Today, everyone can do anything they want. And everyone has been warned that any kind of crime is now considered legal, so nobody is coming for help if something bad happens. Some people will be hiding from all that madness in their homes, others will get a perfect chance to make their dreams come true, and there will be those who will simply try to have some real fun. The scene of the game is a little town called Palomino Creek. It is all up to you now what you are going to do in the next 24 hours.",
             "short_description": "Today is a special day. The government decided to make an extraordinary and unpredictable experiment. Its objective is to learn how people are going to behave and what they will do if given full freedom and thus allowed to do just whatever they want for a period of 24 hours.",
             "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1051250/header.jpg?t=1553298110",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1051250/header.jpg?t=1554305764",
             "website": null,
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP, 7, 8, 10<br></li><li><strong>Processor:</strong> Dual Core 2.4 GHz<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> GeForce GTX 550<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>",
@@ -25,7 +25,40 @@
             "publishers": [
                 "Kiddy"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 79,
+                "final": 79,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "0,79€"
+            },
+            "packages": [
+                350694
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Try To Survive",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 350694,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "Try To Survive - 0,79€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 79
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": false,
@@ -58,49 +91,65 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1051250/ss_51be06e8ec1df8f59cc2413b595a9452a05447ee.600x338.jpg?t=1553298110",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1051250/ss_51be06e8ec1df8f59cc2413b595a9452a05447ee.1920x1080.jpg?t=1553298110"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1051250/ss_06ab07d9678207ff4990318c662c2b5f085ee653.600x338.jpg?t=1554305764",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1051250/ss_06ab07d9678207ff4990318c662c2b5f085ee653.1920x1080.jpg?t=1554305764"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1051250/ss_dd9770625d687dbe878f4eb352b2884cdd2c0c30.600x338.jpg?t=1553298110",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1051250/ss_dd9770625d687dbe878f4eb352b2884cdd2c0c30.1920x1080.jpg?t=1553298110"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1051250/ss_7c0d84d64b3306a7ae6bd9707ca0a13cfaa89879.600x338.jpg?t=1554305764",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1051250/ss_7c0d84d64b3306a7ae6bd9707ca0a13cfaa89879.1920x1080.jpg?t=1554305764"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1051250/ss_2533ef999c21f84b9c011aca7d5767ec74bce5a6.600x338.jpg?t=1553298110",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1051250/ss_2533ef999c21f84b9c011aca7d5767ec74bce5a6.1920x1080.jpg?t=1553298110"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1051250/ss_759efac4a58c0aae68ebacd4e9b630b8f2294cef.600x338.jpg?t=1554305764",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1051250/ss_759efac4a58c0aae68ebacd4e9b630b8f2294cef.1920x1080.jpg?t=1554305764"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1051250/ss_fb15d094c8836ce3a000181aad0acd9944afb0bf.600x338.jpg?t=1553298110",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1051250/ss_fb15d094c8836ce3a000181aad0acd9944afb0bf.1920x1080.jpg?t=1553298110"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1051250/ss_37a9ed9f90fe0af93935b19839a349f1f83896b2.600x338.jpg?t=1554305764",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1051250/ss_37a9ed9f90fe0af93935b19839a349f1f83896b2.1920x1080.jpg?t=1554305764"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1051250/ss_3498bad17a94ffe6a33609244dc407611dc3f013.600x338.jpg?t=1553298110",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1051250/ss_3498bad17a94ffe6a33609244dc407611dc3f013.1920x1080.jpg?t=1553298110"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1051250/ss_f223a9ef611c3c033d49bbabd93c94978163467c.600x338.jpg?t=1554305764",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1051250/ss_f223a9ef611c3c033d49bbabd93c94978163467c.1920x1080.jpg?t=1554305764"
                 },
                 {
                     "id": 5,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1051250/ss_0e78012094c9f92c95ce7eba29dc4a264a0c83da.600x338.jpg?t=1553298110",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1051250/ss_0e78012094c9f92c95ce7eba29dc4a264a0c83da.1920x1080.jpg?t=1553298110"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1051250/ss_13f48a0c01ed361297855a2b626118e1814e21df.600x338.jpg?t=1554305764",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1051250/ss_13f48a0c01ed361297855a2b626118e1814e21df.1920x1080.jpg?t=1554305764"
                 },
                 {
                     "id": 6,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1051250/ss_c3a074232d58b6ca68ac628e034844e476950c0a.600x338.jpg?t=1553298110",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1051250/ss_c3a074232d58b6ca68ac628e034844e476950c0a.1920x1080.jpg?t=1553298110"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1051250/ss_a6298fa4e4590d2552841f5f17779023e5aa79b2.600x338.jpg?t=1554305764",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1051250/ss_a6298fa4e4590d2552841f5f17779023e5aa79b2.1920x1080.jpg?t=1554305764"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 256746830,
+                    "name": "TryToSurviveTrailer",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256746830/movie.293x165.jpg?t=1554100104",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256746830/movie480.webm?t=1554100104",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256746830/movie_max.webm?t=1554100104"
+                    },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256746830/movie480.mp4?t=1554100104",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256746830/movie_max.mp4?t=1554100104"
+                    },
+                    "highlight": true
                 }
             ],
             "release_date": {
-                "coming_soon": true,
-                "date": "2 Apr, 2019"
+                "coming_soon": false,
+                "date": "3 Apr, 2019"
             },
             "support_info": {
                 "url": "",
                 "email": "jooomly@gmail.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1051250/page_bg_generated_v6b.jpg?t=1553298110",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1051250/page_bg_generated_v6b.jpg?t=1554305764",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
