@@ -8,14 +8,14 @@
             "required_age": 0,
             "is_free": false,
             "controller_support": "full",
-            "detailed_description": "Classic Golf gameplay, updated for Disc Golf. A faithful interpretation of the sport powered by Unreal Engine 4.<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/1029570/extras/BasketSloMoPreviewSmall.gif?t=1581888083\" ><br><br><strong>Key Features</strong><br>DGA™ Mach 7 Baskets and real DGA™ discs!<br><br>The most realistic physics and disc flight to date<br><br>Single player career mode with skill upgrades<br><br>Build your bag with real discs<br><br>5 courses to play<br><br>Colorful cast of playable characters<br><br>Motion captured animations",
-            "about_the_game": "Classic Golf gameplay, updated for Disc Golf. A faithful interpretation of the sport powered by Unreal Engine 4.<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/1029570/extras/BasketSloMoPreviewSmall.gif?t=1581888083\" ><br><br><strong>Key Features</strong><br>DGA™ Mach 7 Baskets and real DGA™ discs!<br><br>The most realistic physics and disc flight to date<br><br>Single player career mode with skill upgrades<br><br>Build your bag with real discs<br><br>5 courses to play<br><br>Colorful cast of playable characters<br><br>Motion captured animations",
+            "detailed_description": "Classic Golf gameplay, inspired by Hot Shots and Tiger Woods games, updated for Disc Golf! A faithful interpretation of the sport powered by Unreal Engine 4. <br><br><img src=\"https://%CDN_HOST_MEDIA_SSL%/steam/apps/1029570/extras/BasketSloMoPreviewSmall.gif?t=1601864962\" crossorigin=\"anonymous\"/><br><br><strong>Key Features</strong><br>DGA™ Mach 7 Baskets and real DGA™ discs!<br><br>The most realistic flight and basket physics to date!<br><br>Nice your friends in local multiplayer!<br><br>Single player career mode with skill upgrades<br><br>Build your bag with real discs<br><br>9 courses to play!<br><br>Colorful cast of playable characters<br><br>Motion captured animations",
+            "about_the_game": "Classic Golf gameplay, inspired by Hot Shots and Tiger Woods games, updated for Disc Golf! A faithful interpretation of the sport powered by Unreal Engine 4. <br><br><img src=\"https://%CDN_HOST_MEDIA_SSL%/steam/apps/1029570/extras/BasketSloMoPreviewSmall.gif?t=1601864962\" crossorigin=\"anonymous\"/><br><br><strong>Key Features</strong><br>DGA™ Mach 7 Baskets and real DGA™ discs!<br><br>The most realistic flight and basket physics to date!<br><br>Nice your friends in local multiplayer!<br><br>Single player career mode with skill upgrades<br><br>Build your bag with real discs<br><br>9 courses to play!<br><br>Colorful cast of playable characters<br><br>Motion captured animations",
             "short_description": "Perfect Round Disc Golf is a casual yet realistic interpretation of the sport of Disc Golf. Classic three click golf game play mechanics are easy to learn but hard to master, and will keep you searching for the perfect round.",
             "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1029570/header.jpg?t=1581888083",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1029570/header.jpg?t=1601864962",
             "website": null,
             "pc_requirements": {
-                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 8<br></li><li><strong>Processor:</strong> Intel Core i5 - 4670 or AMD equivalent<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GTX 780 or AMD equivalent<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 12 GB available space</li></ul>",
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 8<br></li><li><strong>Processor:</strong> Intel Core i5 - 4670 or AMD equivalent<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GTX 770 or AMD equivalent<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 12 GB available space</li></ul>",
                 "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Intel Core i5 - 6600k or AMD equivalent<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GTX 1060 or AMD equivalent<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 12 GB available space</li></ul>"
             },
             "mac_requirements": [],
@@ -26,7 +26,40 @@
             "publishers": [
                 "Tree Branch Games"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 1679,
+                "final": 1679,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "16,79€"
+            },
+            "packages": [
+                342399
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Perfect Round Disc Golf",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 342399,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "Perfect Round Disc Golf - 16,79€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 1679
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": false,
@@ -38,8 +71,32 @@
                     "description": "Single-player"
                 },
                 {
+                    "id": 1,
+                    "description": "Multi-player"
+                },
+                {
+                    "id": 49,
+                    "description": "PvP"
+                },
+                {
+                    "id": 37,
+                    "description": "Shared/Split Screen PvP"
+                },
+                {
+                    "id": 24,
+                    "description": "Shared/Split Screen"
+                },
+                {
                     "id": 28,
                     "description": "Full controller support"
+                },
+                {
+                    "id": 43,
+                    "description": "Remote Play on TV"
+                },
+                {
+                    "id": 44,
+                    "description": "Remote Play Together"
                 }
             ],
             "genres": [
@@ -63,31 +120,59 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029570/ss_bc0e027e4506dc1d4bb47a00124ebd78f131938d.600x338.jpg?t=1581888083",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029570/ss_bc0e027e4506dc1d4bb47a00124ebd78f131938d.1920x1080.jpg?t=1581888083"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029570/ss_bc0e027e4506dc1d4bb47a00124ebd78f131938d.600x338.jpg?t=1601864962",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029570/ss_bc0e027e4506dc1d4bb47a00124ebd78f131938d.1920x1080.jpg?t=1601864962"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029570/ss_ad5baae4089cbb5f543bef9571a1e3eeb6ee07c5.600x338.jpg?t=1581888083",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029570/ss_ad5baae4089cbb5f543bef9571a1e3eeb6ee07c5.1920x1080.jpg?t=1581888083"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029570/ss_ad5baae4089cbb5f543bef9571a1e3eeb6ee07c5.600x338.jpg?t=1601864962",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029570/ss_ad5baae4089cbb5f543bef9571a1e3eeb6ee07c5.1920x1080.jpg?t=1601864962"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029570/ss_176070b2f81aefd0690928fdc3eef500301a2f33.600x338.jpg?t=1581888083",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029570/ss_176070b2f81aefd0690928fdc3eef500301a2f33.1920x1080.jpg?t=1581888083"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029570/ss_176070b2f81aefd0690928fdc3eef500301a2f33.600x338.jpg?t=1601864962",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029570/ss_176070b2f81aefd0690928fdc3eef500301a2f33.1920x1080.jpg?t=1601864962"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029570/ss_c200dd84f1caa0feab9430861b0a881749f8c925.600x338.jpg?t=1581888083",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029570/ss_c200dd84f1caa0feab9430861b0a881749f8c925.1920x1080.jpg?t=1581888083"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029570/ss_c200dd84f1caa0feab9430861b0a881749f8c925.600x338.jpg?t=1601864962",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029570/ss_c200dd84f1caa0feab9430861b0a881749f8c925.1920x1080.jpg?t=1601864962"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029570/ss_4fe19630862ac1f4d0374658526d6e410cbd17bd.600x338.jpg?t=1581888083",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029570/ss_4fe19630862ac1f4d0374658526d6e410cbd17bd.1920x1080.jpg?t=1581888083"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1029570/ss_4fe19630862ac1f4d0374658526d6e410cbd17bd.600x338.jpg?t=1601864962",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1029570/ss_4fe19630862ac1f4d0374658526d6e410cbd17bd.1920x1080.jpg?t=1601864962"
                 }
             ],
             "movies": [
+                {
+                    "id": 256799023,
+                    "name": "Perfect Round Disc Golf - New Animations + 6 months Early Access",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256799023/movie.293x165.jpg?t=1598672099",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256799023/movie480_vp9.webm?t=1598672099",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256799023/movie_max_vp9.webm?t=1598672099"
+                    },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256799023/movie480.mp4?t=1598672099",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256799023/movie_max.mp4?t=1598672099"
+                    },
+                    "highlight": true
+                },
+                {
+                    "id": 256777863,
+                    "name": "Perfect Round Disc Golf - Launch Trailer",
+                    "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256777863/movie.293x165.jpg?t=1584031897",
+                    "webm": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256777863/movie480.webm?t=1584031897",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256777863/movie_max.webm?t=1584031897"
+                    },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256777863/movie480.mp4?t=1584031897",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256777863/movie_max.mp4?t=1584031897"
+                    },
+                    "highlight": true
+                },
                 {
                     "id": 256758915,
                     "name": "Perfect Round Disc Golf - Gameplay Trailer",
@@ -96,7 +181,11 @@
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/256758915/movie480.webm?t=1565670177",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/256758915/movie_max.webm?t=1565670177"
                     },
-                    "highlight": true
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256758915/movie480.mp4?t=1565670177",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256758915/movie_max.mp4?t=1565670177"
+                    },
+                    "highlight": false
                 },
                 {
                     "id": 256750445,
@@ -106,18 +195,22 @@
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/256750445/movie480.webm?t=1557696164",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/256750445/movie_max.webm?t=1557696164"
                     },
-                    "highlight": true
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256750445/movie480.mp4?t=1557696164",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256750445/movie_max.mp4?t=1557696164"
+                    },
+                    "highlight": false
                 }
             ],
             "release_date": {
-                "coming_soon": true,
-                "date": "March 12, 2020"
+                "coming_soon": false,
+                "date": "12 Mar, 2020"
             },
             "support_info": {
                 "url": "",
                 "email": "treebranchgamesllc@gmail.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1029570/page_bg_generated_v6b.jpg?t=1581888083",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1029570/page_bg_generated_v6b.jpg?t=1601864962",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
