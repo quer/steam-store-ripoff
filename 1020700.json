@@ -16,7 +16,7 @@
                 "name": "Cube Man"
             },
             "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1020700/header.jpg?t=1550428053",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1020700/header.jpg?t=1591015630",
             "website": "https://store.steampowered.com/app/1020700/Cube_Man_Demo/",
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong> 1155 Intel Core I3 2100 3.10ghz Oem<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> XFX AMD Radeon R7 240 Core 4GB, DDR3 - R7-240A-4NFR<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Storage:</strong> 1 GB available space<br></li><li><strong>Sound Card:</strong> Opcional</li></ul>"
@@ -25,10 +25,10 @@
             "linux_requirements": [],
             "developers": [
                 "Lucas Borgato",
-                "João Batista"
+                "Diego Araujo"
             ],
             "publishers": [
-                "Vortex Game"
+                "Studios Vortex"
             ],
             "package_groups": [],
             "platforms": {
@@ -52,12 +52,16 @@
             ],
             "genres": [
                 {
+                    "id": "1",
+                    "description": "Action"
+                },
+                {
                     "id": "25",
                     "description": "Adventure"
                 },
                 {
-                    "id": "37",
-                    "description": "Free to Play"
+                    "id": "4",
+                    "description": "Casual"
                 },
                 {
                     "id": "23",
@@ -71,28 +75,28 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1020700/ss_ef02cba6bf8c25cf9478c516369c0634b7d9710b.600x338.jpg?t=1550428053",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1020700/ss_ef02cba6bf8c25cf9478c516369c0634b7d9710b.1920x1080.jpg?t=1550428053"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1020700/ss_ef02cba6bf8c25cf9478c516369c0634b7d9710b.600x338.jpg?t=1591015630",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1020700/ss_ef02cba6bf8c25cf9478c516369c0634b7d9710b.1920x1080.jpg?t=1591015630"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1020700/ss_fb653fb924f906e42fac4736c9273fc09cf7ce65.600x338.jpg?t=1550428053",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1020700/ss_fb653fb924f906e42fac4736c9273fc09cf7ce65.1920x1080.jpg?t=1550428053"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1020700/ss_fb653fb924f906e42fac4736c9273fc09cf7ce65.600x338.jpg?t=1591015630",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1020700/ss_fb653fb924f906e42fac4736c9273fc09cf7ce65.1920x1080.jpg?t=1591015630"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1020700/ss_377eee3820bccc61742a0a173784ea9413ece8d7.600x338.jpg?t=1550428053",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1020700/ss_377eee3820bccc61742a0a173784ea9413ece8d7.1920x1080.jpg?t=1550428053"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1020700/ss_377eee3820bccc61742a0a173784ea9413ece8d7.600x338.jpg?t=1591015630",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1020700/ss_377eee3820bccc61742a0a173784ea9413ece8d7.1920x1080.jpg?t=1591015630"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1020700/ss_83590239cb34fcb25b11f5c765b0b11ee3b8d7ae.600x338.jpg?t=1550428053",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1020700/ss_83590239cb34fcb25b11f5c765b0b11ee3b8d7ae.1920x1080.jpg?t=1550428053"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1020700/ss_83590239cb34fcb25b11f5c765b0b11ee3b8d7ae.600x338.jpg?t=1591015630",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1020700/ss_83590239cb34fcb25b11f5c765b0b11ee3b8d7ae.1920x1080.jpg?t=1591015630"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1020700/ss_0ef39eb95ff4d1bda519677f2a005a9b5c71876d.600x338.jpg?t=1550428053",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1020700/ss_0ef39eb95ff4d1bda519677f2a005a9b5c71876d.1920x1080.jpg?t=1550428053"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1020700/ss_0ef39eb95ff4d1bda519677f2a005a9b5c71876d.600x338.jpg?t=1591015630",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1020700/ss_0ef39eb95ff4d1bda519677f2a005a9b5c71876d.1920x1080.jpg?t=1591015630"
                 }
             ],
             "release_date": {
@@ -103,7 +107,7 @@
                 "url": "",
                 "email": "lucas-kbs@hotmail.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1020700/page_bg_generated_v6b.jpg?t=1550428053",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1020700/page_bg_generated_v6b.jpg?t=1591015630",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
