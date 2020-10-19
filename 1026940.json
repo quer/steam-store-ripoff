@@ -11,8 +11,8 @@
             "about_the_game": "Hei is a point-and-click adventure game with lots of puzzles and a unique artistic style.<br />\r\n<br />\r\nJoin Hei, a being with humanoid appearance, in his adventure to find the sacred tree. Explore four different levels, each one with<br />\r\nits own peculiarities. Meet a great variety of curious characters.<br />\r\n<br />\r\nInspired in the magnificent adventure games of the studies Amanita Design (Machinarium, Botanicula, etc...) and Double Fine (Broken Age, Grim Fandango, etc...).<br />\r\nAnd in games like Boombang and No.5.",
             "short_description": "Help Hei to find his path to the sacred tree! A point-and-click adventure game with lots of puzzles and a unique artistic style.",
             "supported_languages": "English, Spanish - Spain",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1026940/header.jpg?t=1550932629",
-            "website": "https://www.instagram.com/gocagames/",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1026940/header.jpg?t=1575110122",
+            "website": "https://gocagames.uwu.ai/#hei",
             "pc_requirements": {
                 "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Microsoft® Windows® XP/Vista/7/8/10<br></li><li><strong>Processor:</strong> 1.8 GHz<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD 4000<br></li><li><strong>Storage:</strong> 100 MB available space</li></ul>"
             },
@@ -26,7 +26,40 @@
             "publishers": [
                 "Goca Games"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 399,
+                "final": 399,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "3,99€"
+            },
+            "packages": [
+                341229
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Hei",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 341229,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "Hei - 3,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 399
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": true,
@@ -55,33 +88,33 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1026940/ss_e5e1d004aa5286cb6326856b235ed0bbd646c5a1.600x338.jpg?t=1550932629",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1026940/ss_e5e1d004aa5286cb6326856b235ed0bbd646c5a1.1920x1080.jpg?t=1550932629"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1026940/ss_e5e1d004aa5286cb6326856b235ed0bbd646c5a1.600x338.jpg?t=1575110122",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1026940/ss_e5e1d004aa5286cb6326856b235ed0bbd646c5a1.1920x1080.jpg?t=1575110122"
                 },
                 {
                     "id": 1,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1026940/ss_0640fade95daeb17460d7367bd772bb61b3dee23.600x338.jpg?t=1550932629",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1026940/ss_0640fade95daeb17460d7367bd772bb61b3dee23.1920x1080.jpg?t=1550932629"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1026940/ss_0640fade95daeb17460d7367bd772bb61b3dee23.600x338.jpg?t=1575110122",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1026940/ss_0640fade95daeb17460d7367bd772bb61b3dee23.1920x1080.jpg?t=1575110122"
                 },
                 {
                     "id": 2,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1026940/ss_37337f9b731f1e727e7b37f063bb45dda450a898.600x338.jpg?t=1550932629",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1026940/ss_37337f9b731f1e727e7b37f063bb45dda450a898.1920x1080.jpg?t=1550932629"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1026940/ss_37337f9b731f1e727e7b37f063bb45dda450a898.600x338.jpg?t=1575110122",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1026940/ss_37337f9b731f1e727e7b37f063bb45dda450a898.1920x1080.jpg?t=1575110122"
                 },
                 {
                     "id": 3,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1026940/ss_546d8726fa489737eeed81040de712d7dc825feb.600x338.jpg?t=1550932629",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1026940/ss_546d8726fa489737eeed81040de712d7dc825feb.1920x1080.jpg?t=1550932629"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1026940/ss_546d8726fa489737eeed81040de712d7dc825feb.600x338.jpg?t=1575110122",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1026940/ss_546d8726fa489737eeed81040de712d7dc825feb.1920x1080.jpg?t=1575110122"
                 },
                 {
                     "id": 4,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1026940/ss_9d8cc623c34bc716c418e557d1737186ca8fe3cf.600x338.jpg?t=1550932629",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1026940/ss_9d8cc623c34bc716c418e557d1737186ca8fe3cf.1920x1080.jpg?t=1550932629"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1026940/ss_9d8cc623c34bc716c418e557d1737186ca8fe3cf.600x338.jpg?t=1575110122",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1026940/ss_9d8cc623c34bc716c418e557d1737186ca8fe3cf.1920x1080.jpg?t=1575110122"
                 },
                 {
                     "id": 5,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1026940/ss_67c7885ad34a0955b9bb29da15a9d8af450261a7.600x338.jpg?t=1550932629",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1026940/ss_67c7885ad34a0955b9bb29da15a9d8af450261a7.1920x1080.jpg?t=1550932629"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1026940/ss_67c7885ad34a0955b9bb29da15a9d8af450261a7.600x338.jpg?t=1575110122",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1026940/ss_67c7885ad34a0955b9bb29da15a9d8af450261a7.1920x1080.jpg?t=1575110122"
                 }
             ],
             "movies": [
@@ -93,18 +126,67 @@
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/256742172/movie480.webm?t=1549445588",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/256742172/movie_max.webm?t=1549445588"
                     },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256742172/movie480.mp4?t=1549445588",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256742172/movie_max.mp4?t=1549445588"
+                    },
                     "highlight": true
                 }
             ],
+            "achievements": {
+                "total": 14,
+                "highlighted": [
+                    {
+                        "name": "Tutorial Done",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1026940/70c1a8dda4445612daa4cb2ed5d1f611cb2aa35c.jpg"
+                    },
+                    {
+                        "name": "Level 1 Done",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1026940/f64e0b6ac4831c6403c5c326488ea55bb3ddc785.jpg"
+                    },
+                    {
+                        "name": "Level 2 Done",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1026940/8dbd1a997ebfcbc25cc2ddbfe9d4fa9e42ed66df.jpg"
+                    },
+                    {
+                        "name": "Level 3 Done",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1026940/be66507662a4ebcd55f540532b382d3ec7258e79.jpg"
+                    },
+                    {
+                        "name": "Level 4 Done",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1026940/7cb0d83c6693a874f2d58709044f0af6218eb1f5.jpg"
+                    },
+                    {
+                        "name": "Skins Newbie",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1026940/05761df1602b5a3fda05c2ca9b9a91cbdc354ab2.jpg"
+                    },
+                    {
+                        "name": "Skins Bronze",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1026940/5f7152a4c54fdf8b5626d331cfcd40223bea5d83.jpg"
+                    },
+                    {
+                        "name": "Skins Silver",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1026940/15039e30bd63603756ccc1430e6f56c884652546.jpg"
+                    },
+                    {
+                        "name": "Skins Gold",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1026940/4c6f3c3f2b061c484cbd15814f0c8f9cda65d730.jpg"
+                    },
+                    {
+                        "name": "Inflate Balloons",
+                        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1026940/f6b9801a9c16839fbbcc0046fc6882677ec35c86.jpg"
+                    }
+                ]
+            },
             "release_date": {
-                "coming_soon": true,
-                "date": "Apr 2019"
+                "coming_soon": false,
+                "date": "4 Apr, 2019"
             },
             "support_info": {
-                "url": "https://www.instagram.com/gocagames/",
+                "url": "https://gocagames.uwu.ai/",
                 "email": "gocagames@gmail.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1026940/page_bg_generated_v6b.jpg?t=1550932629",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1026940/page_bg_generated_v6b.jpg?t=1575110122",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
