@@ -15,7 +15,7 @@
                 "name": "Human Rights"
             },
             "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1042580/header.jpg?t=1553849223",
+            "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1042580/header.jpg?t=1554383393",
             "website": "http://www.monstermansion.io",
             "pc_requirements": [],
             "mac_requirements": [],
@@ -26,7 +26,40 @@
             "publishers": [
                 "Monster Mansion"
             ],
-            "package_groups": [],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 79,
+                "final": 79,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "0,79€"
+            },
+            "packages": [
+                347339
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Human Rights - Soundtrack",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 347339,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "Human Rights - Soundtrack - 0,79€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 79
+                        }
+                    ]
+                }
+            ],
             "platforms": {
                 "windows": true,
                 "mac": false,
@@ -51,19 +84,19 @@
             "screenshots": [
                 {
                     "id": 0,
-                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1042580/ss_f650c9eecbce34c009f78b291a4788f1c8a511be.600x338.jpg?t=1553849223",
-                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1042580/ss_f650c9eecbce34c009f78b291a4788f1c8a511be.1920x1080.jpg?t=1553849223"
+                    "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1042580/ss_f650c9eecbce34c009f78b291a4788f1c8a511be.600x338.jpg?t=1554383393",
+                    "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1042580/ss_f650c9eecbce34c009f78b291a4788f1c8a511be.1920x1080.jpg?t=1554383393"
                 }
             ],
             "release_date": {
-                "coming_soon": true,
+                "coming_soon": false,
                 "date": "4 Apr, 2019"
             },
             "support_info": {
                 "url": "www.monstermansion.io",
                 "email": "monstermansionmusic@gmail.com"
             },
-            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1042580/page_bg_generated_v6b.jpg?t=1553849223",
+            "background": "https://steamcdn-a.akamaihd.net/steam/apps/1042580/page_bg_generated_v6b.jpg?t=1554383393",
             "content_descriptors": {
                 "ids": [],
                 "notes": null
