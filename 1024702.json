@@ -32,11 +32,11 @@
             ],
             "price_overview": {
                 "currency": "EUR",
-                "initial": 4771,
-                "final": 4771,
+                "initial": 4699,
+                "final": 4699,
                 "discount_percent": 0,
                 "initial_formatted": "",
-                "final_formatted": "47,71€"
+                "final_formatted": "46,99€"
             },
             "packages": [
                 340331
@@ -53,13 +53,13 @@
                     "subs": [
                         {
                             "packageid": 340331,
-                            "percent_savings_text": "",
+                            "percent_savings_text": " ",
                             "percent_savings": 0,
-                            "option_text": "DCS: MiG-19P Farmer - 47,71€",
+                            "option_text": "DCS: MiG-19P Farmer - 46,99€",
                             "option_description": "",
                             "can_get_free_license": "0",
                             "is_free_license": false,
-                            "price_in_cents_with_discount": 4771
+                            "price_in_cents_with_discount": 4699
                         }
                     ]
                 }
@@ -176,12 +176,13 @@
                         "480": "http://steamcdn-a.akamaihd.net/steam/apps/256746759/movie480.webm?t=1554129409",
                         "max": "http://steamcdn-a.akamaihd.net/steam/apps/256746759/movie_max.webm?t=1554129409"
                     },
+                    "mp4": {
+                        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256746759/movie480.mp4?t=1554129409",
+                        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256746759/movie_max.mp4?t=1554129409"
+                    },
                     "highlight": true
                 }
             ],
-            "achievements": {
-                "total": 0
-            },
             "release_date": {
                 "coming_soon": false,
                 "date": "1 Apr, 2019"
